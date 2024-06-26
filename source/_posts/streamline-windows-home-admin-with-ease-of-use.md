@@ -1,7 +1,7 @@
 ---
 title: Streamline Windows Home Admin with Ease of Use
-date: 2024-06-25 17:48:29
-updated: 2024-06-26 11:38:18
+date: 2024-06-25T11:43:33.176Z
+updated: 2024-06-26T11:43:33.176Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,31 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-dolby-atmos-integration-in-windows-1011/"><u>The Ultimate Guide to Dolby Atmos Integration in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-procedure-for-windows-error-0xca00a009/"><u>Correction Procedure for Windows Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-valorant-lags-with-windows-tweaks/"><u>Eliminating Valorant Lags with Windows Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-system-failures-blue-screen-aftermath-in-windows/"><u>Delving Into System Failures: Blue Screen Aftermath in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clear-sight-crusade-nine-methods-to-sharpen-your-monitor/"><u>The Clear Sight Crusade: Nine Methods to Sharpen Your Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-tiworkerexe-cpu-consumption-windows-wise/"><u>Lowering TiWorker.exe CPU Consumption Windows-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-overlooked-windows-extras-a-step-by-step-manual/"><u>Enabling Overlooked Windows Extras: A Step-by-Step Manual</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>[New] Getting Started  Audacity's Guide to Microphone Use on Mac</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-100-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-sizing-up-your-photos-how-to-use-a-ratio-calculator-effectively-for-2024/"><u>New Sizing Up Your Photos How to Use a Ratio Calculator Effectively for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/troubleshoot-non-responsive-youtube-on-phonestablets/"><u>Troubleshoot Non-Responsive YouTube on Phones/Tablets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-time-lapse-video-editing-software/"><u>New The Ultimate Guide to Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-engagement-from-tiktok-to-twitter/"><u>[Updated] 2024 Approved  Maximizing Engagement  From TikTok to Twitter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-chorus-and-content-music-magic-on-social-media-stories/"><u>In 2024, Chorus & Content  Music Magic on Social Media Stories</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

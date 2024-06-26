@@ -1,7 +1,7 @@
 ---
 title: "Mastering Update Schedules: Setting Active Periods Windows 11"
-date: 2024-06-22 22:35:16
-updated: 2024-06-25 10:33:25
+date: 2024-06-25T11:24:57.742Z
+updated: 2024-06-26T11:24:57.742Z
 tags:
   - windows10
   - windows11
@@ -83,3 +83,30 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  Once you set the active hours using one of the above methods, Windows will avoid initiating automatic restarts for updates during the specified period. As a result, you won’t be interrupted by sudden reboots during your work hours.
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/boost-safety-measures-include-trusted-sites-on-windows-11/"><u>Boost Safety Measures: Include Trusted Sites on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-absence-of-rockalldll-in-windows-os/"><u>Fixes for Absence of Rockalldll in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-technique-to-effortlessly-install-win11-with-workstation-17/"><u>Unveiling the Technique to Effortlessly Install Win11 with Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/1719261545557-eliminate-roblox-error-262-in-minutes/"><u>Eliminate Roblox Error 262 in Minutes</u></a></li>
+<li><a href="https://win11.techidaily.com/disguising-or-displaying-time-win-1011-tutorial/"><u>Disguising or Displaying Time: Win 10/11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-bluescreenview-a-step-by-step-tutorial/"><u>Exploring BlueScreenView - A Step-By-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-tips-for-a-productive-win-11-bar/"><u>Transformative Tips for a Productive Win 11 Bar</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-elite-list-10-sleekest-streaming-software/"><u>2024 Approved  The Elite List  10 Sleekest Streaming Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quick-capture-screen-grabs-on-windows-pcs-for-2024/"><u>Quick Capture  Screen Grabs on Windows PCs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-power-of-precision-in-slug-line-writing-techniques/"><u>[New] The Power of Precision in Slug Line Writing Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-swift-techniques-for-authenticating-insta-networks/"><u>[New] 2024 Approved  Swift Techniques for Authenticating Insta Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-apps-17-ways-to-remove-picture-frames/"><u>2024 Approved  Leading Apps  17 Ways to Remove Picture Frames</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-hidden-treasure-securely-download-igtv-videos-on-pcmacos/"><u>In 2024, Instagram's Hidden Treasure  Securely Download IGTV Videos on PC/MacOS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-innovative-ways-to-react-on-tiktok-videos/"><u>2024 Approved  Innovative Ways to React on TikTok Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v30-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V30 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tips-and-tricks-for-professional-logitech-webcam-recordings/"><u>[New] 2024 Approved  Tips & Tricks for Professional Logitech Webcam Recordings</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

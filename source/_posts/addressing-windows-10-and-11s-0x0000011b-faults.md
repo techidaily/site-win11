@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 10 & 11'S 0X0000011B Faults
-date: 2024-06-22 23:47:46
-updated: 2024-06-24 10:38:53
+date: 2024-06-25T11:40:34.258Z
+updated: 2024-06-26T11:40:34.258Z
 tags:
   - windows10
   - windows11
@@ -141,3 +141,26 @@ To uninstall Windows updates:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/navigating-through-app-size-metrics-in-windows/"><u>Navigating Through App Size Metrics in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-photo-slideshows-and-spot-corrections-on-win11s-gallery/"><u>Mastering Photo Slideshows & Spot Corrections on Win11's Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/demonstrating-the-power-of-powershell-removing-restrictions-on-windows/"><u>Demonstrating the Power of PowerShell: Removing Restrictions on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-rdp-access-quickly-in-the-latest-windows/"><u>Unlock RDP Access Quickly in the Latest Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719312305473-premium-savings-with-w11-pro-key-dont-miss-out/"><u>Premium Savings with W11 Pro Key - Don't Miss Out!</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-integrating-secondary-antivirus-without-defenders-hindrance/"><u>Tips for Integrating Secondary Antivirus Without Defender’s Hindrance</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-simplifying-file-server-connections/"><u>Win11: Simplifying File Server Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/must-remember-tips-for-clean-installation-of-windows/"><u>Must-Remember Tips for Clean Installation of Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-microsoft-stores-error-x80131500/"><u>Troubleshooting Microsoft Store's Error X80131500</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[Updated] 2024 Approved  Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x6-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-filmoras-audio-magic-transform-your-recordings-with-background-noise-reduction-mastery-for-2024/"><u>New Filmoras Audio Magic Transform Your Recordings with Background Noise Reduction Mastery for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-seamless-integration-of-links-into-tiktok-profiles/"><u>[New] In 2024, Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/sending-streamed-content-to-discord-with-finesse-and-precision/"><u>Sending Streamed Content to Discord with Finesse and Precision</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-smart-8-hd-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Smart 8 HD FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/explore-eco-films-learn-and-innovate-with-yts-green-screens/"><u>Explore Eco-Films  Learn & Innovate with YT's Green Screens</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-privacy-stopping-followers-on-ig/"><u>In 2024, Mastering Privacy  Stopping Followers on IG</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme 11X 5G | Dr.fone</u></a></li>
+</ul></div>

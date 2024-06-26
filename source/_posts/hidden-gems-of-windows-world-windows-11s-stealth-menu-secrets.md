@@ -1,7 +1,7 @@
 ---
 title: "Hidden Gems of Window's World: Windows 11’S Stealth Menu Secrets"
-date: 2024-06-22 20:37:12
-updated: 2024-06-25 10:40:41
+date: 2024-06-25T11:44:16.250Z
+updated: 2024-06-26T11:44:16.250Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,31 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/seamless-windows-update-experience-with-easy-fixes-here/"><u>Seamless Windows Update Experience With Easy Fixes Here</u></a></li>
+<li><a href="https://win11.techidaily.com/unrestricted-windows-dialogue-embrace-freedomgpt/"><u>Unrestricted Windows Dialogue: Embrace FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/5-quick-wins-to-tackle-your-window-writes-woes/"><u>5 Quick Wins to Tackle Your Window' Writes Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-performance-and-functionality-with-alomwares-tools/"><u>Optimize Performance & Functionality with AlomWare's Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-uninterrupted-youtube-streaming-on-chrome/"><u>Ensuring Uninterrupted YouTube Streaming on Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-dxgierrordeviceremoved-in-win-10-and-11/"><u>Handling DXGI_ERROR_DEVICE_REMOVED in Win 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-how-choosing-a-pc-over-a-mac-can-benefit-you-more-9/"><u>Decoding How Choosing a PC Over A Mac Can Benefit You More (#9)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-control-your-network-storage-on-windows-11/"><u>Navigate and Control Your Network Storage on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-jumpstart-your-collaboration-zooms-screen-share-essentials/"><u>[New] Jumpstart Your Collaboration  Zoom's Screen-Share Essentials</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/seeking-silence-top-audio-enhancement-apps-to-tackle-background-noise/"><u>Seeking Silence Top Audio Enhancement Apps to Tackle Background Noise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y77t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y77t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pros-guide-crafting-authentic-3d-characters-in-ps/"><u>In 2024, Pro's Guide  Crafting Authentic 3D Characters in PS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-note-12-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi Note 12 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-y36-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo Y36 Phone Hassle-Free</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y27s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y27s For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-get-facebook-links-fetched-top-8-free-tools-for-23/"><u>[Updated] Get Facebook Links Fetched  Top 8 Free Tools for '23</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40i-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40i to Outlook | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

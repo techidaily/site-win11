@@ -1,7 +1,7 @@
 ---
 title: "Flashback Fun: Enjoying Oldschool Games with DOSBox-X"
-date: 2024-06-23 11:24:17
-updated: 2024-06-25 11:14:51
+date: 2024-06-25T11:25:40.690Z
+updated: 2024-06-26T11:25:40.690Z
 tags:
   - windows10
   - windows11
@@ -169,3 +169,34 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
  Despite your PC being officially incompatible with such old software, with DOSBox-X, enjoying your retro-favorites in all their pixelated glory will be only one or two commands away!
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-the-perplexity-of-blued-in-windows-10/"><u>Overcoming the Perplexity of Blued in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-0x80073cf3-in-windows-microsoft-shop/"><u>Resolving Error 0X80073CF3 in Windows' Microsoft Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-lighting-top-brightness-managers-for-windows-monitors/"><u>Optimal Lighting: Top Brightness Managers for Windows Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-save-configuration-errors-in-pubg/"><u>Correcting Save Configuration Errors in PUBG</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-devhome-transforming-your-w11-experience/"><u>The Essence of DevHome: Transforming Your W11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/christmas-edition-enhance-windows-11/"><u>Christmas Edition: Enhance Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-unresponsive-mail-alerts-on-windows-11/"><u>How to Overcome Unresponsive Mail Alerts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-dark-screen-quandary-in-window-8/"><u>Overcoming the Dark Screen Quandary in Window 8</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-display-experience-an-in-depth-look-at-windows-11s-hdr/"><u>Transforming Display Experience: An In-Depth Look at Windows 11'S HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bridge-the-disconnect-gap-windows-11-and-printers/"><u>How to Bridge the Disconnect Gap: Windows 11 & Printers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-calming-chronicles-on-screen-evaluating-bedtime-story-videos/"><u>[New] Calming Chronicles on Screen  Evaluating Bedtime Story Videos</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-finding-the-perfect-youtube-mp3-converter-a-step-by-step-guide-for-2024/"><u>New Finding the Perfect YouTube MP3 Converter A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-games-a-guide-to-options-other-than-game-bar/"><u>In 2024, Capturing Games  A Guide to Options Other Than Game Bar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-15-best-gopro-alternatives-for-all-your-needs-for-2024/"><u>[Updated] 15 Best GoPro Alternatives for All Your Needs for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-ultimate-cyber-companion-downloading-digital-radio-programs-to-your-pc/"><u>Updated 2024 Approved The Ultimate Cyber Companion Downloading Digital Radio Programs to Your PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-iron-out-glitches-restore-missing-facebook-watch-icons/"><u>[New] 2024 Approved  Iron Out Glitches - Restore Missing Facebook Watch Icons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-5-pro-snipers-on-macos/"><u>[New] 2024 Approved  Top 5 Pro Snipers on macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-nba-game-broadcasting/"><u>[New] Innovative Approaches to NBA Game Broadcasting</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-mastering-the-art-of-auditory-file-partitioning/"><u>In 2024, Mastering the Art of Auditory File Partitioning</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

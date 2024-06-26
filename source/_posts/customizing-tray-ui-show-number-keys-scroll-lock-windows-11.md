@@ -1,7 +1,7 @@
 ---
 title: "Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11"
-date: 2024-06-25 12:15:40
-updated: 2024-06-26 11:30:19
+date: 2024-06-25T11:33:49.069Z
+updated: 2024-06-26T11:33:49.069Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,31 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-overcoming-forbidden-errors/"><u>Mastering the Art of Overcoming Forbidden Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/tidy-up-your-machine-best-windows-software-to-ditch/"><u>Tidy Up Your Machine: Best Windows Software to Ditch</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-no-go-areas-for-novice-windows-11-users/"><u>Nine No-Go Areas for Novice Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/making-windows-alt-codes-function-again-51-characters/"><u>Making Windows ALT Codes Function Again (51 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-your-windows-11-re-activate-ms-store-applications/"><u>Revive Your Windows 11: Re-Activate MS Store Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-an-inactive-itunes-on-your-pc/"><u>How to Reactivate an Inactive iTunes on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-line-up-of-artistic-software-for-windows-10/"><u>The Ultimate Line-Up of Artistic Software for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablish-clear-view-fixing-black-screens-on-win11/"><u>Reestablish Clear View: Fixing Black Screens on Win11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-video-translator-wondershare-virbo/"><u>In 2024, Video Translator | Wondershare Virbo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-potential-best-gaming-content-to-elevate-your-channel-for-2024/"><u>Unleash Potential  Best Gaming Content to Elevate Your Channel for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/riber-glory-the-play-button-and-accolades-for-maker/"><u>Subscriber Glory  The Play Button & Accolades for Maker</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-guide-integrating-instagram-with-tiktok-for-2024/"><u>[New] Seamless Guide  Integrating Instagram with TikTok for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>[New] How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-a-deep-dive-into-video-platform-wars-tiktok-vs-snapchat/"><u>[New] In 2024, A Deep Dive Into Video Platform Wars  TikTok vs Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-profiles-how-to-embed-linktree-on-tiktok-seamlessly/"><u>[Updated] Perfecting Profiles  How to Embed Linktree on TikTok Seamlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 5G PIN Code/Pattern Lock/Password</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

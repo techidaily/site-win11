@@ -1,7 +1,7 @@
 ---
 title: BitLocker's Encryption Is Broken, But It's Still Not Time to Switch
-date: 2024-06-23 14:15:50
-updated: 2024-06-25 11:26:10
+date: 2024-06-25T11:44:02.629Z
+updated: 2024-06-26T11:44:02.629Z
 tags:
   - windows10
   - windows11
@@ -52,3 +52,30 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  AMD CPUs have integrated TPM 2.0 since 2016 (with the launch of AM4, known as fTPM), while Intel CPUs integrated TPM 2.0 with the launch of its 8th Generation Coffee Lake CPUs in 2017 (known as PTT). Suffice to say, if you're using a machine with an AMD or Intel CPU manufacturer after those dates, you're most likely safe.
 
  It's also worth noting that despite this exploit, BitLocker remains secure, and the actual encryption underpinning it, AES-128 or AES-256, is still secure.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-taskbar-size-tweaks/"><u>Mastering Windows 11 Taskbar Size Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-seamless-slide-showouts-top-tips-for-powerpoint-printing-on-windows/"><u>The Key to Seamless Slide Showouts: Top Tips for PowerPoint Printing on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-the-windows-firewall-with-precision/"><u>Resetting the Windows Firewall with Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-interruption-nightmares-keeping-your-ps4-remote-connected/"><u>Overcoming Interruption Nightmares: Keeping Your PS4 Remote Connected</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-the-finest-6-windows-usage-analysis-programs/"><u>Explore the Finest 6 Windows Usage Analysis Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/standby-struggles-dissecting-modern-standby-issues/"><u>Standby Struggles: Dissecting Modern Standby Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintessential-4-password-sentinels-of-windows-11-era/"><u>The Quintessential 4 Password Sentinels of Windows 11 Era</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[Updated] 2024 Approved  Becoming a Confident Content Creator  YouTube's Top Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-virtual-realms-with-headgear/"><u>Navigating Through Virtual Realms with Headgear</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-zte-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On ZTE</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-techniques-mix-up-and-shuffle-youtube-listings/"><u>2024 Approved  Rapid Techniques  Mix Up and Shuffle YouTube Listings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860560815-new-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>[New] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quickcapture-for-windows-ultimate/"><u>[New] QuickCapture for Windows Ultimate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-clear-sound-in-podcasts-with-top-mixers/"><u>[New] Pioneering Clear Sound in Podcasts with Top Mixers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-beginners-guide-to-personal-brand-craftsmanship-for-2024/"><u>[Updated] A Beginner's Guide to Personal Brand Craftsmanship for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Itel P40+ | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

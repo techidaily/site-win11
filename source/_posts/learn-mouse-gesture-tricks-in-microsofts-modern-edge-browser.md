@@ -1,7 +1,7 @@
 ---
 title: Learn Mouse Gesture Tricks in Microsoft's Modern Edge Browser
-date: 2024-06-24 21:26:43
-updated: 2024-06-25 10:14:48
+date: 2024-06-25T11:39:33.649Z
+updated: 2024-06-26T11:39:33.649Z
 tags:
   - windows10
   - windows11
@@ -49,3 +49,34 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
  The mouse gesture feature in Edge makes browsing the web more fluid and efficient. You can quickly enable this feature using the above steps and perform various browser actions using simple mouse movements.
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-find-missing-devices-in-dm/"><u>Bridge the Gap: Find Missing Devices In DM</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-functionality-of-law-filters-for-windows-users/"><u>Decoding the Functionality of LAW Filters for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-recycle-bin-disruptions-in-win-11-os/"><u>Remedying Recycle Bin Disruptions in Win 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-approaches-to-cure-the-ailing-windows-service-control-panel/"><u>7 Key Approaches to Cure the Ailing Windows Service Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-of-control-for-winapps-and-browsers/"><u>The Blueprint of Control for WinApps & Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-persistent-login-prompt-issues-in-windows/"><u>Skirting Persistent Login Prompt Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-photo-slideshows-and-spot-corrections-on-win11s-gallery/"><u>Mastering Photo Slideshows & Spot Corrections on Win11's Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-device-issue-on-windows-os/"><u>Troubleshooting Missing Device Issue on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/the-final-countdown-for-windows-xp-7-and-81-lifeline-on-microsoft/"><u>The Final Countdown for Windows XP, 7 & 8.1 Lifeline on Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/7-personal-touches-for-windows-11s-search-engine/"><u>7 Personal Touches for Windows 11'S Search Engine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone XS Max Passcode Screen?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>2024 Approved  The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-visualcapture-pro-x-windows-enthusiasts/"><u>2024 Approved  VisualCapture Pro X - Windows Enthusiasts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-super-tips-on-converting-text-to-mp3/"><u>New In 2024, Super Tips on Converting Text to MP3</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dodge-fb-disconnection-10-hidden-gems-to-keep-you-safe/"><u>[Updated] Dodge Fb Disconnection  10 Hidden Gems to Keep You Safe</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-exploring-free-screencast-software-options-on-mac/"><u>In 2024, Exploring Free Screencast Software Options on Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[Updated] In 2024, Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-the-legality-of-facebooks-immediate-video-takedowns/"><u>2024 Approved  Navigating the Legality of Facebook's Immediate Video Takedowns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/4-time-saving-ways-to-perfect-loops-in-your-instagram-videos-for-2024/"><u>4 Time-Saving Ways to Perfect Loops in Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-a60-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel A60</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

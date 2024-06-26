@@ -1,7 +1,7 @@
 ---
 title: "Prepare for Airplane Mode: Installation of Win11"
-date: 2024-06-24 11:31:12
-updated: 2024-06-26 10:59:27
+date: 2024-06-25T11:37:16.334Z
+updated: 2024-06-26T11:37:16.334Z
 tags:
   - windows10
   - windows11
@@ -116,3 +116,34 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
  That said, once you finish the setup and create a local user account, connect to the Internet to download critical security updates and features. You may also notice a few missing icons after the initial setup. Windows will download these icons when you connect to the Internet next time.
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-password-storage-windows-text-file-security-tips/"><u>Mastering Password Storage: Windows Text File Security Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lan-gaming-challenges-on-pc-winsminecraft/"><u>Overcoming LAN Gaming Challenges on PC, WinsMinecraft</u></a></li>
+<li><a href="https://win11.techidaily.com/compre-written-for-pc-performance-metrics/"><u>Compre Written for PC Performance Metrics</u></a></li>
+<li><a href="https://win11.techidaily.com/must-know-factors-a-consumers-checklist-for-buying-a-win-laptop/"><u>Must-Know Factors: A Consumer's Checklist for Buying a Win Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/a-novices-guide-to-windows-11-sound-capture/"><u>A Novice's Guide to Windows 11 Sound Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-and-personalizing-win11s-default-screen-saver/"><u>Configuring and Personalizing Win11's Default Screen Saver</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-windows-error-0xc0000001-efficiently/"><u>How To Tackle Windows Error 0xC0000001 Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/master-autominimize-windows-woes-no-more/"><u>Master AutoMinimize: Windows Woes No More</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-reset-account-lockout-counter-after-failed-logins-win-11-edition/"><u>Fine-Tuning Reset Account Lockout Counter After Failed Logins, Win 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-wasteful-usage-by-core-system-processes/"><u>Reducing Wasteful Usage by Core System Processes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-drones-your-ever-present-aviation-partner/"><u>Top 10 Drones  Your Ever-Present Aviation Partner</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-undoing-movement-how-to-reverse-video-on-snapchat/"><u>[New] 2024 Approved  Undoing Movement  How to Reverse Video on Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stages-of-change/"><u>2024 Approved  Stages of Change</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere-for-2024/"><u>[New] A Comprehensible Approach to Personal Branding in the YouTube Sphere for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-essential-guide-to-choosing-your-best-guitar-recording-application/"><u>Updated 2024 Approved The Essential Guide to Choosing Your Best Guitar Recording Application</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-note-50-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Note 50 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g310-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G310 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-cutting-through-the-clutter-a-comprehensive-approach-to-sound-management-in-video-editing/"><u>Updated Cutting Through the Clutter A Comprehensive Approach to Sound Management in Video Editing</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

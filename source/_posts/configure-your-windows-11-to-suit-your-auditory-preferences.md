@@ -1,7 +1,7 @@
 ---
 title: Configure Your Windows 11 to Suit Your Auditory Preferences
-date: 2024-06-22 22:39:38
-updated: 2024-06-25 12:43:51
+date: 2024-06-25T11:35:11.300Z
+updated: 2024-06-26T11:35:11.300Z
 tags:
   - windows10
   - windows11
@@ -126,3 +126,33 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/simplifying-large-archiving-tasks-with-windows-powershell-tips/"><u>Simplifying Large Archiving Tasks with Windows PowerShell Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unauthorized-user-error-in-windows-1111/"><u>Overcoming Unauthorized User Error in Windows 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-yuzu-gameplay-on-windows/"><u>Fast-Tracking Yuzu Gameplay on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-visual-studio-code-on-windows-11/"><u>Stabilizing Visual Studio Code on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-battlenet-desktop-client-successfully/"><u>How to Reactivate Battle.net Desktop Client Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-it-administrator-cant-do-more-warning-in-winsec/"><u>Resolving 'IT Administrator Can’t Do More' Warning in WinSec</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-another-users-ms-error-on-pc/"><u>Troubleshooting: Another User's MS Error on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-window-pc-always-unlocked/"><u>Keep Your Window PC Always Unlocked</u></a></li>
+<li><a href="https://win11.techidaily.com/reigniting-ram-overcoming-obstacles-in-windows/"><u>Reigniting RAM: Overcoming Obstacles in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-audiocapture-studio-download-test-and-discussion/"><u>In 2024, AudioCapture Studio  Download, Test & Discussion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essentials-of-creating-and-curating-instagram-highlights-for-2024/"><u>[Updated] The Essentials of Creating and Curating Instagram Highlights for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ustream-live-and-comparable-platforms/"><u>[New] Ustream Live & Comparable Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-your-blogging-bravery-following-youtuber-leaders/"><u>In 2024, Boost Your Blogging Bravery  Following YouTuber Leaders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-direct-downloading-of-audio-content-from-vimeo-videos/"><u>[New] Direct Downloading of Audio Content From Vimeo Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-honor-90-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Honor 90 Pro?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-windows-10-mastering-photo-and-video-importation/"><u>Unveiling Windows 10  Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-uncovering-steps-to-pinpoint-perfect-discord-communities-for-2024/"><u>[Updated] Uncovering  Steps to Pinpoint Perfect Discord Communities for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 12 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

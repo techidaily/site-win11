@@ -1,7 +1,7 @@
 ---
 title: Securing Windows 11 with Additional Firewall Options via Context Menu
-date: 2024-06-22 16:47:34
-updated: 2024-06-25 12:23:47
+date: 2024-06-25T11:39:14.976Z
+updated: 2024-06-26T11:39:14.976Z
 tags:
   - windows10
   - windows11
@@ -88,3 +88,26 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/essential-tips-for-using-windows-11-snap-features/"><u>Essential Tips for Using Windows 11 Snap Features</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-fixed-gif-sizes-in-discord-for-windows-11-users/"><u>Unraveling the Mystery of Fixed GIF Sizes in Discord (for Windows 11 Users)</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-rdp-access-quickly-in-the-latest-windows/"><u>Unlock RDP Access Quickly in the Latest Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-syncing-ios-calendar-with-windows-1011/"><u>From iPhone to Desktop: Syncing iOS Calendar with Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-every-game-with-smart-amd-radeon-configurations/"><u>Winning Every Game with Smart AMD Radeon Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-puzzle-of-non-opening-apps-in-w11/"><u>Unlocking the Puzzle of Non-Opening Apps in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-greyed-out-pin-deletion-in-windows-11-interface/"><u>Resetting Greyed-Out Pin Deletion in Windows 11 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-intel-network-adapters-on-pcs/"><u>Step-by-Step: Setting Up Intel Network Adapters on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-windows-11-help-application-use/"><u>Steps to Regain Windows 11 Help Application Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/break-into-cash-with-periscope-first-timers-tips/"><u>Break Into Cash with Periscope  First-Timers' Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagrams-sideways-scenario-a-visual-glitch-examined/"><u>In 2024, Instagram's Sideways Scenario  A Visual Glitch Examined</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-picks-for-virtual-reality-gaming-software-2023-guide-for-2024/"><u>[Updated] Top Picks for Virtual Reality Gaming Software - 2023 Guide for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-methods-for-extracting-vimeo-sound-tracks/"><u>2024 Approved  Efficient Methods for Extracting Vimeo Sound Tracks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-deciphering-vimeo-video-quality-insights-into-various-aspect-ratios/"><u>New Deciphering Vimeo Video Quality Insights Into Various Aspect Ratios</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-finest-free-online-recorders-top-picks-for-2024/"><u>Unveiling the Finest Free Online Recorders – Top Picks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content/"><u>2024 Approved  Financial Flourishing  Yielding Higher Returns with Mobile YouTube Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sierra-maximizing-your-icloud-drive-experience-for-2024/"><u>Sierra  Maximizing Your iCloud Drive Experience for 2024</u></a></li>
+</ul></div>

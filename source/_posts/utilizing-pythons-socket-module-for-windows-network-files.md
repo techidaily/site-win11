@@ -1,7 +1,7 @@
 ---
 title: Utilizing Python's Socket Module for Windows Network Files
-date: 2024-06-23 16:48:54
-updated: 2024-06-24 12:14:22
+date: 2024-06-25T11:31:57.757Z
+updated: 2024-06-26T11:31:57.757Z
 tags:
   - windows10
   - windows11
@@ -76,3 +76,22 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/targeted-user-group-policies-implementing-changes-step-by-step/"><u>Targeted User Group Policies: Implementing Changes Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-compatible-fingerprint-in-windows/"><u>Troubleshooting No Compatible Fingerprint in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mail-service-halt-fixing-0x800713f-in-win11/"><u>Overcoming Mail Service Halt: Fixing 0X800713F in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/balancing-act-equalizing-pc-and-mobile-internet-speeds/"><u>Balancing Act: Equalizing PC & Mobile Internet Speeds</u></a></li>
+<li><a href="https://win11.techidaily.com/terminal-vs-powershell-pinpointing-the-distinguishing-aspects/"><u>Terminal Vs. PowerShell: Pinpointing the Distinguishing Aspects</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-best-window-timers-enhancing-pomodoro-productivity/"><u>Nine Best Window Timers Enhancing Pomodoro Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-battery-life-extension-on-notebooks/"><u>Effective Techniques for Battery Life Extension on Notebooks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons/"><u>[Updated] In 2024, Avoiding Edgenuity's Grasp  Tips for Quickly Skipping Video Lessons</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-13-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 13 Pro? How to Fix</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-best-of-the-best-28-video-to-gif-converter-reviews-for-2024/"><u>The Best of the Best 28 Video to GIF Converter Reviews for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-broadcast-beginnings-roku-and-facebook-live/"><u>From Broadcast Beginnings  Roku and Facebook LIVE</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transform-your-video-footage-with-advanced-screen-recording-tech/"><u>[New] Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>2024 Approved  Guide to Incorited Visuals in Text Without Cost</u></a></li>
+</ul></div>

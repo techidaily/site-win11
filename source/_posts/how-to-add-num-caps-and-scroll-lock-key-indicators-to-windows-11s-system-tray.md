@@ -1,7 +1,7 @@
 ---
 title: How to Add Num, Caps, and Scroll Lock Key Indicators to Windows 11’S System Tray
-date: 2024-06-24 18:32:44
-updated: 2024-06-26 12:21:22
+date: 2024-06-25T11:38:00.475Z
+updated: 2024-06-26T11:38:00.475Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,29 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/winx-fix-guide-for-geforce-xs-cant-retrieve-settings/"><u>WinX Fix Guide for GeForce X's Can’t Retrieve Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-techniques-to-prevent-disconnect-errors-during-discord-setup/"><u>Avoidance Techniques to Prevent Disconnect Errors During Discord Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/superior-pc-weather-apps-selection/"><u>Superior PC Weather Apps Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-screens-boost-your-pcs-performance-with-hotkeys/"><u>Streamlined Screens: Boost Your PC's Performance with Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-starting-windows-search-service-problems/"><u>Solutions for Starting Windows Search Service Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/regulating-pcs-to-prevent-windows-11-overheats/"><u>Regulating PCs to Prevent Windows 11 Overheats</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-new-row-insertion-issues-in-excel-windows/"><u>Strategies for Fixing New Row Insertion Issues in Excel Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveil-the-potential-of-zoom-filters-for-excellence-for-2024/"><u>Unveil the Potential of Zoom Filters for Excellence for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-comprehensive-list-of-advanced-speech-to-text-apps-for-mobile-devices/"><u>New Comprehensive List of Advanced Speech-to-Text Apps for Mobile Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>2024 Approved  Culinary Cinematography  Step-by-Step Recipe Tutorials</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-guide-top-10-youtube-editing-tricks/"><u>[Updated] In 2024, Beginner's Guide  Top 10 YouTube Editing Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>[New] In 2024, Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-discover-the-best-top-game-download-websites/"><u>Updated Discover the Best Top Game Download Websites</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

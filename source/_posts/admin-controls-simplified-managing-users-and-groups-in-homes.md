@@ -1,7 +1,7 @@
 ---
 title: "Admin Controls Simplified: Managing Users & Groups in Homes"
-date: 2024-06-21 18:55:12
-updated: 2024-06-24 11:21:33
+date: 2024-06-25T11:26:06.292Z
+updated: 2024-06-26T11:26:06.292Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,34 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/swift-keystrokes-in-win-os-a-guide-to-eliminate-delay/"><u>Swift Keystrokes in WIN OS: A Guide to Eliminate Delay</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-rewind-game-pc-redemption/"><u>AtlasOS Rewind: Game PC Redemption</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-windows-automatic-deletion/"><u>Revolutionize File Management with Windows' Automatic Deletion</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-windows-based-counter-strike-play/"><u>Supercharge Windows-Based Counter-Strike Play</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-remote-work-fast-and-memory-friendly/"><u>Revitalizing Remote Work: Fast and Memory-Friendly</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-configuration-with-microsofts-pc-manager-on-w11/"><u>Conquer Configuration with Microsoft's PC Manager on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-of-pcs-integrating-enhanced-run-utility-for-windows/"><u>Unleash Potential of PCs: Integrating Enhanced Run Utility for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/five-methods-for-protecting-your-pc-avoiding-bitlocker/"><u>Five Methods for Protecting Your PC: Avoiding BitLocker</u></a></li>
+<li><a href="https://win11.techidaily.com/from-windows-to-kali-an-installation-journey/"><u>From Windows to Kali: An Installation Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-when-starting-speech-recognition/"><u>Resolving Windows Error When Starting Speech Recognition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-plunging-into-tiktoks-anime-spectacle-the-art-of-dance-music-and-viral-creativity-for-2024/"><u>[Updated] Plunging Into TikTok's Anime Spectacle  The Art of Dance, Music and Viral Creativity for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-hd-video-editors-top-picks-for-professionals/"><u>New In 2024, Best HD Video Editors Top Picks for Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-tutorial-snap-and-stream-simultaneously/"><u>[New] IPhone Tutorial  Snap and Stream Simultaneously</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-narzo-60-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme Narzo 60 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beyond-the-screen-a-dive-into-vr-filmmaking/"><u>[New] Beyond the Screen  A Dive Into VR Filmmaking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cineblend-app-seamless-video-mashups-for-instagram/"><u>[New] 2024 Approved  CineBlend App  Seamless Video Mashups for Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-13t-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi 13T online without jailbreak</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-techniques-for-quieting-the-soundscape-in-recorded-movies/"><u>2024 Approved Techniques for Quieting the Soundscape in Recorded Movies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns-for-2024/"><u>[New] Brain-Snatching Battlegrounds  The Best Zombie Gaming Showdowns for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

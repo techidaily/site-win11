@@ -1,7 +1,7 @@
 ---
 title: "Tips for Efficient File Management: Customizing Explorer Comments"
-date: 2024-06-22 15:10:56
-updated: 2024-06-25 12:40:54
+date: 2024-06-25T11:30:54.704Z
+updated: 2024-06-26T11:30:54.704Z
 tags:
   - windows10
   - windows11
@@ -82,3 +82,33 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/outsmart-windows-delete-temp-files-without-fuss/"><u>Outsmart Windows: Delete Temp Files Without Fuss</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-keys-to-release-verification-holds-during-windows-update/"><u>Nine Keys to Release Verification Holds During Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/the-final-countdown-for-windows-xp-7-and-81-lifeline-on-microsoft/"><u>The Final Countdown for Windows XP, 7 & 8.1 Lifeline on Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-older-bios-setup-elements/"><u>Refreshing Older BIOS Setup Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unauthorized-nvidia-panel-errors-in-ws1110/"><u>Correcting Unauthorized Nvidia Panel Errors in WS11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-mass-unzipping-on-your-pc/"><u>Navigating the Maze of Mass Unzipping on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/analyzing-windows-n-options-for-home-users/"><u>Analyzing Windows N Options for Home Users</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-essential-data-win-pc-ip-and-mac-via-powershell/"><u>Finding Essential Data: Win PC IP & MAC via PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-hardware-requirements-for-games/"><u>Resolving Windows Hardware Requirements for Games</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-15-books-that-have-conquered-social-media-with-booktok-flair/"><u>[Updated] 2024 Approved  15 Books That Have Conquered Social Media with BookTok Flair</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-future-with-advanced-vr-finger-tech/"><u>[Updated] Explore the Future with Advanced VR Finger Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-your-privacy-awaits-the-top-10-no-cost-ultra-secure-mobile-chat-applications-for-todays-tech-users/"><u>[Updated] Your Privacy Awaits  The Top 10 No-Cost, Ultra-Secure Mobile Chat Applications for Today's Tech Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-screenflow-for-mac-a-full-featured-deep-dive/"><u>[Updated] In 2024, ScreenFlow for Mac - A Full Featured Deep Dive</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/lightning-loop-transferring-youtube-playlists-fast/"><u>Lightning Loop  Transferring YouTube Playlists Fast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-zoom-picture-quality-quick-solutions/"><u>2024 Approved  Improving Zoom Picture Quality  Quick Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/configure-and-gauge-the-complete-guide-to-crafting-and-measuring-fb-instream-ads/"><u>Configure & Gauge  The Complete Guide to Crafting and Measuring FB Instream Ads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-12-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 12 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-f34-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy F34 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

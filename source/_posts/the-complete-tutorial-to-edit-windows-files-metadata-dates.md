@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial to Edit Windows Files' Metadata Dates
-date: 2024-06-24 10:18:15
-updated: 2024-06-25 11:10:29
+date: 2024-06-25T11:33:42.082Z
+updated: 2024-06-26T11:33:42.082Z
 tags:
   - windows10
   - windows11
@@ -113,3 +113,33 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  The problem is that sharing a file with your teacher or supervisor at work entails sharing all of this information, putting your job or grades at risk. To prevent this, you can modify these attributes.
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/best-password-managers-for-windows-11-unleashing-your-digital-fortresses/"><u>Best Password Managers for Windows 11: Unleashing Your Digital Fortresses</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inoperative-windows-11-speech-recognition/"><u>Resolving Inoperative Windows 11 Speech Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/from-boring-to-stunning-switching-themes-in-windows-11-made-simple/"><u>From Boring to Stunning: Switching Themes in Windows 11 Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-fixing-persistent-read-only-folders/"><u>Win11: Fixing Persistent Read-Only Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-deactivating-nvidias-visual-effects/"><u>Windows Guide: Deactivating NVIDIA's Visual Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-0x0000004e-on-windows-11-systems/"><u>Conquering Error 0X0000004E on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-the-footprints-of-your-latest-window-use/"><u>Tracing the Footprints of Your Latest Window Use</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-zero-x-error-in-the-mail-application-of-windows-11/"><u>Bypassing Zero X Error in the Mail Application of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-your-windows-stylus-device/"><u>Mastering the Art of Fixing Your Windows Stylus Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-visual-alteration-suite-imagefusion-xtreme-for-2024/"><u>Iconic Visual Alteration Suite  ImageFusion Xtreme for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-soothing-games-to-ease-anxiety-for-2024/"><u>Top 10 Soothing Games to Ease Anxiety for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlock-advanced-video-editing-capabilities-on-windows-8-and-later/"><u>Updated In 2024, Unlock Advanced Video Editing Capabilities on Windows 8 and Later</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-compilation-of-top-soundscapes-adopting-the-perfect-audio-accompaniment-for-your-montage-creation-for-2024/"><u>New Compilation of Top Soundscapes Adopting the Perfect Audio Accompaniment for Your Montage Creation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>[New] In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-high-quality-video-communication-ranking-the-top-10-mobile-apps/"><u>2024 Approved  High-Quality Video Communication  Ranking the Top 10 Mobile Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-revolutionize-your-discord-community-with-these-bots/"><u>[Updated] In 2024, Revolutionize Your Discord Community with These Bots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-of-breed-top-9-microphones-recorders-online/"><u>2024 Approved  Best of Breed  Top 9 Microphones Recorders Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-c110-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia C110? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-constructing-cinema-stories/"><u>[New] Constructing Cinema Stories</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

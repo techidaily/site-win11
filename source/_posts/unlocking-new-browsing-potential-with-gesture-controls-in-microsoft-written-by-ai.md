@@ -1,7 +1,7 @@
 ---
 title: Unlocking New Browsing Potential with Gesture Controls in Microsoft' Written by AI
-date: 2024-06-24 12:39:22
-updated: 2024-06-26 12:53:54
+date: 2024-06-25T11:39:26.837Z
+updated: 2024-06-26T11:39:26.837Z
 tags:
   - windows10
   - windows11
@@ -49,3 +49,29 @@ thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4
  The mouse gesture feature in Edge makes browsing the web more fluid and efficient. You can quickly enable this feature using the above steps and perform various browser actions using simple mouse movements.
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/troubleshooting-inactive-windows-lock-screen-timer/"><u>Troubleshooting Inactive Windows Lock Screen Timer</u></a></li>
+<li><a href="https://win11.techidaily.com/override-hardware-acceleration-in-widnos-graphics-ordering/"><u>Override Hardware Acceleration in WIDNO's Graphics Ordering</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-windows-pin-entry/"><u>Troubleshooting Non-Responsive Windows PIN Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-workflow-of-windows-11s-backup-feature/"><u>Understanding The Workflow of Windows 11'S Backup Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-full-screen-display-defeating-windows-overscan/"><u>Optimize Full-Screen Display: Defeating Windows Overscan</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-gpo-report-generation-via-gpresult/"><u>Mastering GPO Report Generation via GPResult</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-pc-with-apples-imessage/"><u>Setting Up Your PC with Apple's iMessage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-launch-strategies-for-fb-generosity-campaigns/"><u>In 2024, Launch Strategies for FB Generosity Campaigns</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-epic-audio-essentials-top-10-for-trending-yt-shorts/"><u>2024 Approved  Epic Audio Essentials  Top 10 for Trending YT Shorts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-easy-to-use-screen-recording-software-including-apowersoft/"><u>[Updated] 2024 Approved  Easy-to-Use Screen Recording Software, Including Apowersoft</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ignite-imagination-crafting-engaging-content-themes/"><u>[Updated] Ignite Imagination  Crafting Engaging Content Themes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-prime-mc-homes-for-social-settlements/"><u>[Updated] Prime MC Homes for Social Settlements</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/youtube-to-mp3-conversion-101-beginners-guide-to-finding-the-perfect-converter/"><u>YouTube to MP3 Conversion 101 Beginners Guide to Finding the Perfect Converter</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

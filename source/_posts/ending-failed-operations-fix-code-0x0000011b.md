@@ -1,7 +1,7 @@
 ---
 title: "Ending Failed Operations: Fix Code 0X0000011B"
-date: 2024-06-23 14:59:28
-updated: 2024-06-25 10:52:26
+date: 2024-06-25T11:32:51.303Z
+updated: 2024-06-26T11:32:51.303Z
 tags:
   - windows10
   - windows11
@@ -141,3 +141,22 @@ To uninstall Windows updates:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/revamping-password-policy-setting-new-limit-post-failed-logins/"><u>Revamping Password Policy: Setting New Limit Post Failed Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-clumped-up-windows-11-icon-grouping/"><u>Adjusting Clumped-Up Windows 11 Icon Grouping</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-top-8-troubleshooting-steps/"><u>Mastering Windows: Top 8 Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-window-11s-secure-browsing-graphically/"><u>Enhancing Window 11'S Secure Browsing Graphically</u></a></li>
+<li><a href="https://win11.techidaily.com/install-windows-11-on-mac-with-parallels-step-by-step/"><u>Install Windows 11 on Mac with Parallels Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-system-call-failure-in-win1011-systems/"><u>Remedying System Call Failure in Win10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-mouse-click-rate-with-just-a-few-tweaks/"><u>Skyrocket Mouse Click Rate with Just a Few Tweaks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersion-boosting-backdrops-for-broadcasts/"><u>Immersion-Boosting Backdrops for Broadcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discoemote-studio-crafting-the-ultimate-emojis/"><u>[Updated] DiscoEmote Studio - Crafting the Ultimate Emojis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>[Updated] The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/8-best-daw-for-recording-mixing-and-mastering/"><u>8 Best DAW For Recording, Mixing and Mastering</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-real-time-instagram-friends-departure-tracking-for-2024/"><u>[Updated] Real-Time Instagram Friends Departure Tracking for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-legend-intro-maker-create-intro-video-with-ease/"><u>Updated Legend Intro Maker – Create Intro Video with Ease</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-7-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 7 With or Without Password</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Exploring Revenue Generation From Windows 11
-date: 2024-06-23 10:42:22
-updated: 2024-06-26 12:16:14
+date: 2024-06-25T11:32:23.404Z
+updated: 2024-06-26T11:32:23.404Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ## 1\. Microsoft Earns Money by Selling Windows 11 Licenses
 
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-device.jpg)
+![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-start-menu.jpg)
+![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
 
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
@@ -91,3 +91,31 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-accessing-your-iis-management-center/"><u>Quick Fixes for Accessing Your IIS Management Center</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-management-navigating-through-network-tools-on-window/"><u>Effortless Management: Navigating Through Network Tools on Window</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-memory-shortage-error-in-windows-based-vms/"><u>Solutions for 'Memory Shortage' Error in Windows-Based VMs</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-wi-fi-anomalies-on-windows-heres-the-solution-guide-you-need/"><u>USB Wi-Fi Anomalies on Windows? Here's the Solution Guide You Need</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-sound-revolution-embrace-dolby-atmos/"><u>Win 10/11 Sound Revolution: Embrace Dolby Atmos</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tactics-avoiding-counterfeit-creations-on-microsofts-platform/"><u>Tech Tactics: Avoiding Counterfeit Creations on Microsoft's Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/from-iso-to-reality-how-to-install-windows-11-arm/"><u>From ISO to Reality - How to Install Windows 11 ARM</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-error-codes-when-installing-windows-apps/"><u>Understanding Error Codes When Installing Windows Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-amr-audio-converter-complete-guide-to-amr-files/"><u>New In 2024, AMR Audio Converter Complete Guide to AMR Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-pop-8-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Pop 8 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unleash-your-potential-on-facebook-keyword-strategies-reviewed-for-2024/"><u>[New] Unleash Your Potential on Facebook  Keyword Strategies Reviewed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-best-mac-video-frames-limit-156-chars/"><u>[Updated] In 2024, Ultimate Guide to Best Mac Video Frames (Limit  156 Chars)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom-for-2024/"><u>Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Smart 7 HD.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>[Updated] In 2024, Unlock Earnings  The Guide to Successful Vimeo Monetization</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-uot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to insert sign in .uot file</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus without Losing Any Content? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

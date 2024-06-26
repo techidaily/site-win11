@@ -1,7 +1,7 @@
 ---
 title: Overcoming Operation Failed 0X0000011B in Windows
-date: 2024-06-22 16:39:32
-updated: 2024-06-24 11:36:24
+date: 2024-06-25T11:22:02.435Z
+updated: 2024-06-26T11:22:02.435Z
 tags:
   - windows10
   - windows11
@@ -141,3 +141,26 @@ To uninstall Windows updates:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/masterful-maneuvers-to-navigate-stalled-windows-install-steps/"><u>Masterful Maneuvers to Navigate Stalled Windows Install Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-what-the-fn-keys-do-in-windows-11-and-11/"><u>How to Change What the Fn Keys Do in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-networks-windows-wi-fi-security-guide/"><u>Unseen Networks: Windows Wi-Fi Security Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tango-dancing-devices-androidwindows-synchro/"><u>Tech Tango: Dancing Devices - Android/Windows Synchro</u></a></li>
+<li><a href="https://win11.techidaily.com/one-os-multiple-worlds-windows-across-mobile-tablet-mac-and-desktop-realized/"><u>One OS, Multiple Worlds: Windows Across Mobile, Tablet, Mac & Desktop Realized</u></a></li>
+<li><a href="https://win11.techidaily.com/deleting-windows-bt-directory-purpose-and-process/"><u>Deleting Windows ~BT Directory: Purpose & Process</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-reactivating-razer-device-detection-by-synapse-software/"><u>Solutions for Reactivating Razer Device Detection by Synapse Software</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-fatal-application-hiccups-windows-edition/"><u>Overcoming Fatal Application Hiccups: Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/minimalist-pc-large-space-slight-lag/"><u>Minimalist PC - Large Space, Slight Lag</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-decoding-the-essence-of-asmr-videos/"><u>[Updated] 2024 Approved  Decoding the Essence of ASMR Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-freetranscribe-your-way-android-and-ios-apps-for-effortless-audio-transcription/"><u>In 2024, FreeTranscribe Your Way Android & iOS Apps for Effortless Audio Transcription</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ess-transitions-for-youtube-videos-in-adobe-premiere-for-2024/"><u>Seamless Transitions for YouTube Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-z-fold-5-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy Z Fold 5 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-list-of-must-watch-historical-youtubes-for-students/"><u>2024 Approved  The Ultimate List of Must-Watch Historical YouTubes for Students</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cutting-edge-video-communities-eclipsing-youtube/"><u>[New] Cutting-Edge Video Communities Eclipsing Youtube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-efficient-group-coordination-with-skype-windows-mac-for-2024/"><u>[Updated] Efficient Group Coordination with Skype (Windows, Mac) for 2024</u></a></li>
+</ul></div>

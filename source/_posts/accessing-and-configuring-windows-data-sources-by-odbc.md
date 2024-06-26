@@ -1,7 +1,7 @@
 ---
 title: Accessing and Configuring Windows Data Sources by ODBC
-date: 2024-06-21 13:45:58
-updated: 2024-06-24 11:19:49
+date: 2024-06-25T11:25:30.693Z
+updated: 2024-06-26T11:25:30.693Z
 tags:
   - windows10
   - windows11
@@ -165,3 +165,23 @@ odbcad32.exe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/transform-windows-11-desktop-tips-on-interactive-and-dynamic-walls/"><u>Transform Windows 11 Desktop: Tips on Interactive and Dynamic Walls</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-reviving-a-stuck-download-space-on-windows-os/"><u>Guide for Reviving a Stuck Download Space on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-read-only-on-windows-folders-amidst-issues/"><u>Bypassing Read-Only on Windows Folders Amidst Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-steam-disconnect-in-windows-os/"><u>Troubleshoot Steam Disconnect in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-upgrade-failure-in-windows-11-error-0x800f0922/"><u>Steps to Fix Upgrade Failure in Windows 11 - Error 0X800f0922</u></a></li>
+<li><a href="https://win11.techidaily.com/instituting-a-new-pdf-reader-standard-on-os/"><u>Instituting a New PDF Reader Standard on OS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fps-in-csgo-essential-insights/"><u>Mastering FPS in CS:GO - Essential Insights</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-viral-reaction-videos-with-filmora/"><u>New 2024 Approved The Ultimate Guide to Creating Viral Reaction Videos with Filmora</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-revolutionizing-video-creation-siri-voice-integration-in-tiktok-videos/"><u>[New] In 2024, Revolutionizing Video Creation  Siri Voice Integration in TikTok Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-11-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 11 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/creating-a-fortified-mc-homebase-for-2024/"><u>Creating a Fortified MC Homebase for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-sites-for-watching-vr-media/"><u>Essential Sites for Watching VR Media</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-audio-clarity-in-home-vo-recording-setups-for-2024/"><u>[Updated] Optimizing Audio Clarity in Home VO Recording Setups for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-next-favorite-channel-for-global-adventures/"><u>In 2024, Your Next Favorite Channel for Global Adventures</u></a></li>
+</ul></div>

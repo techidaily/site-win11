@@ -1,7 +1,7 @@
 ---
 title: Creating a Personalized Windows Speech-to-Text App Using Whisper & AHK
-date: 2024-06-22 16:41:23
-updated: 2024-06-25 11:20:16
+date: 2024-06-25T11:22:10.207Z
+updated: 2024-06-26T11:22:10.207Z
 tags:
   - windows10
   - windows11
@@ -251,3 +251,29 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/fix-slow-download-issues-in-steam-on-windows-platform/"><u>Fix Slow Download Issues in Steam on Windows Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-h2-update-rolls-out-more-options/"><u>Windows 11 H2 Update Rolls Out More Options</u></a></li>
+<li><a href="https://win11.techidaily.com/fingerprint-fiasco-can-you-still-count-on-windows-hello/"><u>Fingerprint Fiasco: Can You Still Count on Windows Hello?</u></a></li>
+<li><a href="https://win11.techidaily.com/quelling-the-0x800736cc-dilemran-in-windows-update/"><u>Quelling the 0X800736CC Dilemran in Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-file-write-error-in-windows-11-os/"><u>Resolving File Write Error in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-notes-made-easy-winning-sticky-pad-solutions-for-pc/"><u>Screen Notes Made Easy: Winning Sticky Pad Solutions for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-microsoft-store-color-glitches/"><u>Resolving Microsoft Store Color Glitches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-walkers-wonderland-curating-the-top-8-zombie-video-experiences-for-2024/"><u>[New] Walkers' Wonderland  Curating the Top 8 Zombie Video Experiences for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-free-video-hosting-for-everyone-top-10-sites-ranked/"><u>New Free Video Hosting for Everyone Top 10 Sites Ranked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-revolutionize-your-harvest-stardews-top-7-upgrades/"><u>[New] 2024 Approved  Revolutionize Your Harvest  Stardew's Top 7 Upgrades</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-isyncslideshow-integrate-ios-plus-sierra-images/"><u>[Updated] 2024 Approved  ISyncSlideshow  Integrate iOS + Sierra Images</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vlc-slow-motion-mode-how-to-activate-and-use-it-for-2024/"><u>New VLC Slow Motion Mode How to Activate and Use It for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screensavvy-comprehensive-free-recording-software-for-everyone/"><u>[New] ScreenSavvy  Comprehensive, Free Recording Software for Everyone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-media-best-twittersave-converters/"><u>[Updated] Mastering Media  Best Twittersave Converters</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

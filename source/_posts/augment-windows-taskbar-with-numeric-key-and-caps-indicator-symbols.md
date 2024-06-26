@@ -1,7 +1,7 @@
 ---
 title: Augment Windows Taskbar with Numeric Key & Caps Indicator Symbols
-date: 2024-06-22 17:44:57
-updated: 2024-06-25 12:59:41
+date: 2024-06-25T11:22:16.495Z
+updated: 2024-06-26T11:22:16.495Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,30 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/configuring-windows-for-secure-external-drive-handling/"><u>Configuring Windows for Secure External Drive Handling</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-correction-processes-for-faulty-win11-registry-data/"><u>Guiding Through Correction Processes for Faulty Win11 Registry Data</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-tray-interface-with-numeric-and-caps-indicators/"><u>Personalize Tray Interface with Numeric and Caps Indicators</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-single-board-compatible-with-windows/"><u>Exclusive Single-Board Compatible with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-hidden-cameras-fix-their-absence-in-dm/"><u>Uncover Hidden Cameras: Fix Their Absence in DM</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-success-removing-0x800700e9-from-your-xbox-game-pass-windows-11-setup/"><u>Unlocking Success: Removing 0X800700E9 From Your Xbox Game Pass, Windows 11 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/unhindered-microsoft-store-operation-on-windows-11/"><u>Unhindered Microsoft Store Operation on Windows 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/top-10-premium-platforms-for-high-definition-video-wallpaper-acquisition-for-2024/"><u>Top 10 Premium Platforms for High-Definition Video Wallpaper Acquisition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-monetization-potential-with-youtube-ad-strategies-for-2024/"><u>[Updated] Harnessing Monetization Potential with YouTube Ad Strategies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-video-sizing-by-imovie/"><u>In 2024, The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Samsung</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-fbx-recorder-essentials-for-players/"><u>[New] 2024 Approved  FBX Recorder Essentials For Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-character-choreography-compendiums/"><u>2024 Approved  Character Choreography Compendiums</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smooth-snapshot-mastery-eliminate-shakes/"><u>[New] Smooth Snapshot Mastery - Eliminate Shakes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/no-experience-needed-top-free-video-editing-software-for-2024/"><u>No Experience Needed Top Free Video Editing Software for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-s17t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo S17t Devices</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

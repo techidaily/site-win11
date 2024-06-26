@@ -1,7 +1,7 @@
 ---
 title: Overcome Endless Scrolls on Large Datasheets, Windows
-date: 2024-06-21 20:28:12
-updated: 2024-06-24 11:58:12
+date: 2024-06-25T11:25:44.552Z
+updated: 2024-06-26T11:25:44.552Z
 tags:
   - windows10
   - windows11
@@ -121,3 +121,31 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
  When you work on large Excel spreadsheets, it is often necessary to scroll both horizontally and vertically in order to access and modify data. But what if you can’t scroll in Microsoft Excel with your mouse or keyboard on Windows?
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/steps-for-reactivating-a-greyed-out-secure-boot-in-bios/"><u>Steps for Reactivating a Greyed Out Secure Boot in BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-setting-up-permanent-delete-on-your-windows-11-and-11-pcs/"><u>The Ultimate Guide to Setting up Permanent Delete on Your Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-group-policy-changes-on-a-windows-system/"><u>Navigating Group Policy Changes on a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-win11-screen-scaling-preference/"><u>Personalizing Your Win11 Screen Scaling Preference</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-widget-integration-into-windows-11/"><u>Mastering the Art of Widget Integration Into Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unsuccessful-message-loads-on-discord-pc/"><u>Troubleshooting Unsuccessful Message Loads on Discord PC</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-auditory-gain-on-windows-operating-system/"><u>Cease Auditory Gain on Windows Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/deletion-risks-for-windows-bt-folder-expert-advice/"><u>Deletion Risks for Windows ~BT Folder: Expert Advice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-recordings-expert-tips-for-zoom-changer/"><u>[Updated] Transform Your Recordings  Expert Tips for Zoom Changer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>2024 Approved  Google's Take on AR Stickers  An Overview & Beyond</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-premium-chrome-modifiers-for-streamlined-vimeo-content/"><u>[New] 2024 Approved  Premium Chrome Modifiers for Streamlined Vimeo Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimize-watching-incorporating-captions-into-wmp/"><u>In 2024, Optimize Watching  Incorporating Captions Into WMP</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-huawei-p60-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Huawei P60? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-6-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 6 Plus has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-engagement-top-10-video-response-insights/"><u>[New] Elevate Your Engagement  Top 10 Video Response Insights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-top-10-free-open-source-video-editors/"><u>Updated Unleash Your Creativity Top 10 Free Open-Source Video Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-iphone-photography-top-tier-filming-aids/"><u>[New] Perfect Your iPhone Photography  Top-Tier Filming Aids</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

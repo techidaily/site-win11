@@ -1,7 +1,7 @@
 ---
 title: Crafting an Autonomous Windows Speech Transcription App with Whisper Aid
-date: 2024-06-22 19:33:16
-updated: 2024-06-24 11:19:57
+date: 2024-06-25T11:31:56.821Z
+updated: 2024-06-26T11:31:56.821Z
 tags:
   - windows10
   - windows11
@@ -251,3 +251,31 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/step-by-step-stop-laptops-internal-keystrokes/"><u>Step-by-Step: Stop Laptop's Internal Keystrokes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-office-outlook-alerts-in-windows/"><u>Troubleshooting Non-Functional Office Outlook Alerts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/demonstrating-the-power-of-powershell-removing-restrictions-on-windows/"><u>Demonstrating the Power of PowerShell: Removing Restrictions on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-restore-screen-share-in-teams/"><u>Steps to Restore Screen Share in Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/raising-volume-on-disconnected-bt-headphonesspeakers/"><u>Raising Volume on Disconnected BT Headphones/Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/expanding-windows-hard-drive-sustainably/"><u>Expanding Windows Hard Drive Sustainably</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-sound-recording-on-windows-11/"><u>Streamline Your Sound Recording on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-link-ups-phones-and-windows-11-synergy/"><u>Innovative Link-Ups: Phones and Windows 11 Synergy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-15-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 15 without Password?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-rated-free-video-editors-for-mp4-files/"><u>New 2024 Approved Top-Rated Free Video Editors for MP4 Files</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-top-10-banned-anime-around-the-world-and-why-for-2024/"><u>New Top 10 Banned Anime Around the World and Why for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-se-2022-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone SE (2022)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-self-starting-facebook-videos/"><u>The Ultimate Guide to Self-Starting Facebook Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-strategic-approaches-broadcasting-live-sports-with-precision-for-2024/"><u>[Updated] Strategic Approaches  Broadcasting Live Sports with Precision for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-snapchat-to-smiles-phones-for-2024/"><u>[New] Snapchat to Smiles  Phones for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid-for-2024/"><u>[Updated] Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android) for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

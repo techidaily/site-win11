@@ -1,7 +1,7 @@
 ---
 title: Personalize Tray Interface with Numeric and Caps Indicators
-date: 2024-06-22 12:28:59
-updated: 2024-06-25 12:19:37
+date: 2024-06-25T11:41:32.464Z
+updated: 2024-06-26T11:41:32.464Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,33 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/embrace-a-distraction-free-start-with-win-11/"><u>Embrace a Distraction-Free Start with Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-settings-error-in-nvidias-geforce-app-windows-11/"><u>Steps to Overcome 'Settings Error' In NVIDIA's GeForce App (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-revamp-for-windows-11-status-area-include-a-chosen-weather-symbol/"><u>Aesthetic Revamp for Windows 11 Status Area: Include a Chosen Weather Symbol</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-update-notifier-into-the-windows-ui-context-of-win11/"><u>Integrating Update Notifier Into the Windows UI Context of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-for-resolving-password-hash-misalignment-on-windows/"><u>Essential Strategies for Resolving Password Hash Misalignment on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-win11-dns-client-service-adjustment/"><u>Essential Tips for Win11 DNS Client Service Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-customize-your-functional-keys-configuration/"><u>Win 10/11: Customize Your Functional Keys Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-identifying-high-space-usage-windows/"><u>Effective Strategies for Identifying High-Space Usage Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-rdp-connection-issues-in-modern-oses/"><u>Unblocking RDP Connection Issues in Modern OSes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-creating-a-personalized-google-cardboard-vr-setup/"><u>2024 Approved  Creating a Personalized Google Cardboard VR Setup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u-for-2024/"><u>SNS HDR Pro Review  Is It Worth Using and What Other HDR Software to U for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-a-community-through-periscope-streams/"><u>Building a Community Through Periscope Streams</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-f34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy F34 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-14-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 14 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-check-tiktok-video-copyright-before-uploading/"><u>How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-7-first-person-shooters-of-the-year/"><u>In 2024, Best 7 First-Person Shooters of the Year</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-core-elements-of-virtual-tale-transmission/"><u>[Updated] Core Elements of Virtual Tale Transmission</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-filmmakers-guide-to-distorting-space-and-time-for-2024/"><u>[New] The Filmmaker's Guide to Distorting Space & Time for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-your-youtube-earnings-strategies-for-monetizing-short-videos/"><u>[New] In 2024, Boosting Your YouTube Earnings  Strategies for Monetizing Short Videos</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

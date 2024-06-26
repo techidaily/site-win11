@@ -1,7 +1,7 @@
 ---
 title: "Precision Note-Taking: Adopting Obsidian' Written Canvas"
-date: 2024-06-24 13:39:39
-updated: 2024-06-25 12:35:11
+date: 2024-06-25T11:27:54.964Z
+updated: 2024-06-26T11:27:54.964Z
 tags:
   - windows10
   - windows11
@@ -139,3 +139,33 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
  Obsidian and Canvas are similar "enablers" that offer the tools for building your own solutions. How you'll use them is entirely up to you.
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/fixing-err-87-for-incompatible-library-loading/"><u>Fixing Err 87 for Incompatible Library Loading</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-permissions-to-prevent-read-only-mode/"><u>Mastering File Permissions to Prevent Read-Only Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-monochrome-troubles-with-store-app/"><u>Overcoming Monochrome Troubles with Store App</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-linux-vm-setup-with-windows-and-hyper-v-integration/"><u>Streamlining Linux VM Setup with Windows and Hyper-V Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/the-most-impressive-windows-10-sketch-software-lineup/"><u>The Most Impressive Windows 10 Sketch Software Lineup</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-increase-windows-disk-size-securely/"><u>Strategies to Increase Windows Disk Size Securely</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-restore-your-usb-wi-fi-on-a-pc/"><u>7 Key Steps to Restore Your USB Wi-Fi On a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-common-flaws-in-windows-applications/"><u>Essential Tips to Overcome Common Flaws in Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/beginners-blueprint-to-victory-in-original-diablo/"><u>Beginner’s Blueprint to Victory in Original Diablo</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-complete-guide-how-to-edit-movies-or-video-download-online/"><u>Updated In 2024, Complete Guide How to Edit Movies or Video Download Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlined-approach-save-youtube-videos/"><u>[Updated] Streamlined Approach  Save YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-identity-design-icons-and-thumbnails-essentials-for-2024/"><u>[New] Channel Identity Design  Icons & Thumbnails Essentials for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-online-video-arena-showdown-who-wins-vimeo-or-giants-like-youtubeplusdailymotion/"><u>[Updated] In 2024, Online Video Arena Showdown  Who Wins – Vimeo or Giants Like YouTube+DailyMotion?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-audio-intellectual-property/"><u>Instagram Audio Intellectual Property</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-ultimate-mac-movie-making-handbook-tips-tricks-and-tutorials/"><u>In 2024, The Ultimate Mac Movie Making Handbook Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-rapid-restoration-snapped-shenanigans/"><u>[Updated] Rapid Restoration  Snapped Shenanigans</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-galaxy-a54-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Galaxy A54 5G</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

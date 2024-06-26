@@ -1,7 +1,7 @@
 ---
 title: Getting Started with MSOffice on Win11 OS
-date: 2024-06-21 12:35:26
-updated: 2024-06-24 10:14:16
+date: 2024-06-25T11:29:36.448Z
+updated: 2024-06-26T11:29:36.448Z
 tags:
   - windows10
   - windows11
@@ -72,3 +72,31 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/old-wallpapers-no-more-discover-three-solutions/"><u>Old Wallpapers No More! Discover Three Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-guide-to-full-battery-indicators-in-win-oses/"><u>Advanced Guide to Full Battery Indicators in Win OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/0x8004def5-on-onedrive-unraveling-windows-11-troubles/"><u>0X8004DEF5 on OneDrive - Unraveling Windows 11 Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-screens-enhanced-brightness-controls/"><u>Mastering Windows Screens: Enhanced Brightness Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/adapting-the-search-function-in-windows-11-for-you/"><u>Adapting the Search Function in Windows 11 for You</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-critical-failures-in-windows-with-error-code-c0000022/"><u>Tackling Critical Failures in Windows with Error Code C0000022</u></a></li>
+<li><a href="https://win11.techidaily.com/top-12-redundant-windows-extras-for-removal/"><u>Top 12 Redundant Windows Extras for Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-for-mcuicntexe-entry-point-loss-in-windows-systems/"><u>Cure for McUICnt.exe Entry Point Loss in Windows Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/a-brief-review-of-capcut-translate-with-alternative-for-2024/"><u>A Brief Review of CapCut Translate With Alternative for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensive-guide-to-understanding-and-using-slug-lines-for-2024/"><u>A Comprehensive Guide to Understanding and Using Slug Lines for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-youtube-file-access-tips/"><u>[Updated] 2024 Approved  Direct YouTube File Access Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-guide-to-instagram-video-sizing-for-2024/"><u>Expert Guide to Instagram Video Sizing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/samsung-vs-lg-battle-of-360-degree-cameras-for-2024/"><u>Samsung Vs LG  Battle of 360-Degree Cameras for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-roundup-best-budget-friendly-virtual-calls-for-2024/"><u>[Updated] The Ultimate Roundup  Best Budget-Friendly Virtual Calls for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-iphone-and-ipad-apps-for-movie-trailers/"><u>New Best iPhone and iPad Apps for Movie Trailers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-maximizing-facebook-video-engagement-the-importance-of-correct-cover-size/"><u>New Maximizing Facebook Video Engagement The Importance of Correct Cover Size</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

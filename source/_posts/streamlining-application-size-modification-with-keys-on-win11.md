@@ -1,7 +1,7 @@
 ---
 title: Streamlining Application Size Modification with Keys on Win11
-date: 2024-06-23 19:19:51
-updated: 2024-06-26 11:13:12
+date: 2024-06-25T11:31:34.176Z
+updated: 2024-06-26T11:31:34.176Z
 tags:
   - windows10
   - windows11
@@ -111,3 +111,22 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/reviving-asana-app-performance-on-windows-systems/"><u>Reviving Asana App Performance on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/a-dual-screen-dream-realized-android-plus-windows-11-collaboration/"><u>A Dual-Screen Dream Realized: Android + Windows 11 Collaboration</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-geforce-error-x0001-on-windows-pcs/"><u>Fixing Common GeForce Error X0001 on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-transition-dance-mastering-enterexit-rituals-of-terminals-focused-state/"><u>Navigating the Transition Dance: Mastering Enter/Exit Rituals of Terminal's Focused State</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-cause-behind-error-0x80370102-in-wsl-distribution/"><u>Unraveling the Cause Behind Error 0X80370102 in WSL Distribution</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-system-health-improvement-via-updates/"><u>Understanding System Health Improvement via Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/choco-vs-wslm-optimal-windows-software-downloader/"><u>Choco vs WSLM: Optimal Windows Software Downloader</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-trim-perfect-clearing-thin-lines-on-youtube/"><u>[New] Trim Perfect  Clearing Thin Lines on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>In 2024, 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone SE Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-apple-video-editing-software-you-should-know/"><u>Updated 2024 Approved Best Apple Video Editing Software You Should Know</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovation-hub-for-youtube-gurus/"><u>2024 Approved  Innovation Hub for YouTube Gurus</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-live-streaming-duel-pitting-obs-against-shadowgl/"><u>[Updated] 2024 Approved  Live Streaming Duel  Pitting OBS Against ShadowGL</u></a></li>
+</ul></div>

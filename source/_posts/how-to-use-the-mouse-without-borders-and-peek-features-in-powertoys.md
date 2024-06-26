@@ -1,7 +1,7 @@
 ---
 title: How to Use the Mouse Without Borders and Peek Features in PowerToys
-date: 2024-06-23 19:38:30
-updated: 2024-06-26 10:37:17
+date: 2024-06-25T11:33:38.246Z
+updated: 2024-06-26T11:33:38.246Z
 tags:
   - windows10
   - windows11
@@ -72,3 +72,33 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
  The Peek feature is great when you don’t want to open the file directly. However, PowerToys introduced a Registry Preview feature which is similar to Peek but only works for viewing and editing Registry files.
 
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/navigating-hyper-v-setup-for-modern-windows-11/"><u>Navigating Hyper-V Setup for Modern Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-virtualboxs-efail-windows-issue-0x80004005/"><u>Tips to Rectify Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-non-persistent-nvidia-panel-changes/"><u>Correcting Non-Persistent Nvidia Panel Changes</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-os-security-patches/"><u>Navigating Windows OS Security Patches</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tech-tutorial-how-to-launch-calculator/"><u>Windows 11 Tech Tutorial: How to Launch Calculator</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-blink-quick-fixes-for-input-lag-on-latest-microsoft-os/"><u>Beat the Blink: Quick Fixes for Input Lag on Latest Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-0x00000001-restoring-xbox-playability/"><u>Remedy for 0X00000001: Restoring Xbox Playability</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-familiarity-migrating-custom-powertoys-on-a-new-device/"><u>Bringing Familiarity: Migrating Custom PowerToys on a New Device</u></a></li>
+<li><a href="https://win11.techidaily.com/provide-examples-from-real-life-where-understanding-another-cultures-perspective-could-lead-to-better-communication-and-relationships/"><u>Provide Examples From Real Life Where Understanding Another Culture's Perspective Could Lead to Better Communication and Relationships.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/synchronous-capture-for-webcam-and-display-for-2024/"><u>Synchronous Capture for Webcam and Display for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-choosing-between-bandicam-and-camtasia/"><u>[Updated] In 2024, Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlocking-stills-from-videos-a-comprehensive-guide-with-10-converter-options-for-2024/"><u>Updated Unlocking Stills From Videos A Comprehensive Guide with 10 Converter Options for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-10-best-agricultural-games-for-group-fun/"><u>[New] 10 Best Agricultural Games for Group Fun</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-for-using-zoom-via-gmail/"><u>[Updated] Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-sonic-filmmaking-embellishing-video-narratives-through-filmoras-music-features/"><u>New Sonic Filmmaking Embellishing Video Narratives Through Filmoras Music Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-easily-stream-facebook-live-chats-with-roku/"><u>[Updated] Easily Stream Facebook Live Chats with Roku</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-12-best-vlogging-cameras-with-a-flip-screen/"><u>[New] In 2024, 12 Best Vlogging Cameras with a Flip Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-12-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-childhood-cruisers-crafted-games/"><u>[New] Childhood Cruisers, Crafted Games</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

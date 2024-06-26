@@ -1,7 +1,7 @@
 ---
 title: "Pixelated Paths: Walking Through Oldschool PC World in DOSBox-X"
-date: 2024-06-24 19:52:25
-updated: 2024-06-25 11:38:13
+date: 2024-06-25T11:29:15.456Z
+updated: 2024-06-26T11:29:15.456Z
 tags:
   - windows10
   - windows11
@@ -169,3 +169,33 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
  Despite your PC being officially incompatible with such old software, with DOSBox-X, enjoying your retro-favorites in all their pixelated glory will be only one or two commands away!
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-outdated-boot-options-gray/"><u>Overcoming Outdated BOOT Options Gray</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-apples-messaging-on-your-windows-machine/"><u>Embracing Apple's Messaging on Your Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-win-1011-ad-ds-printer-errors-effectively-and-efficiently/"><u>Addressing Win 10/11 AD DS Printer Errors Effectively and Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/10-substitutes-for-bitlocker-in-winxp-systems/"><u>10 Substitutes for BitLocker in WinXP Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/holiday-harmony-delightful-wrapped-apps-through-ms-store/"><u>Holiday Harmony: Delightful Wrapped Apps Through MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-lost-link-a-comprehensive-guide-to-reinstating-defective-adapters-in-windows/"><u>Reviving the Lost Link: A Comprehensive Guide to Reinstating Defective Adapters in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-past-fatal-js-error-in-discord-on-modern-windows-11/"><u>Navigating Past Fatal JS Error in Discord on Modern Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-warhammer-40k-players-stop-pc-lag-issues/"><u>Winning Strategies for Warhammer 40K Players - Stop PC Lag Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-tray-ui-show-number-keys-scroll-lock-windows-11/"><u>Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-checklist-for-logitech-webcam-setup-for-2024/"><u>[New] The Ultimate Checklist for Logitech Webcam Setup for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-metaverse-humor-creation/"><u>[Updated] Harnessing the Power of Metaverse Humor Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-conversion-youtube-to-written-format-for-2024/"><u>[New] Expert Conversion  YouTube to Written Format for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-editing-top-tools-with-auto-reframing/"><u>New 2024 Approved Effortless Video Editing Top Tools with Auto-Reframing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mastering-twitter-video-aspect-ratios-made-easy/"><u>Updated In 2024, Mastering Twitter Video Aspect Ratios Made Easy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-capturing-faces-to-face-on-fb-top-4-tips/"><u>[New] In 2024, Capturing Faces-to-Face on FB  Top 4 Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-election-excitement-5-best-voting-simulators/"><u>[New] 2024 Approved  Election Excitement  5 Best Voting Simulators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[Updated] The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-multiple-video-call-and-chat-tools-for-2024/"><u>[Updated] Best Multiple Video Call & Chat Tools for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

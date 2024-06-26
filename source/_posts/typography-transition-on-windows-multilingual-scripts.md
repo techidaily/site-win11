@@ -1,7 +1,7 @@
 ---
 title: "Typography Transition on Windows: Multilingual Scripts"
-date: 2024-06-24 12:49:37
-updated: 2024-06-25 10:30:31
+date: 2024-06-25T11:36:27.109Z
+updated: 2024-06-26T11:36:27.109Z
 tags:
   - windows10
   - windows11
@@ -64,3 +64,26 @@ Once the fonts are downloaded, you can close the Control Panel.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/clear-your-screen-clutter-advanced-window-organization-win11-and-10/"><u>Clear Your Screen Clutter: Advanced Window Organization (Win11 & 10)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-vmware-errors-on-windows-11/"><u>How to Reset VMware Errors on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-playbook-9-proven-fixes-for-smooth-windows-videos/"><u>The Ultimate Playbook: 9 Proven Fixes for Smooth Windows Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/blowing-up-gpu-usage-7-remedies-for-wm-in-win11/"><u>Blowing Up GPU Usage: 7 Remedies for WM in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-media-player-server-faults/"><u>Steps to Mend Media Player Server Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-devices-android-and-windows-with-nearby-share/"><u>Uniting Devices: Android & Windows With Nearby Share</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-workspace-switching-themes-on-win11/"><u>Personalize Your Workspace: Switching Themes on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-source-of-windows-parse-error-0xc00ce556/"><u>Dissecting the Source of Windows' Parse Error 0xC00CE556</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-lost-dxgidll-with-effective-win11-tactics/"><u>Regain Lost Dxgi.dll with Effective Win11 Tactics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reimagining-mobile-photoshopping-iphone-x-insights/"><u>Reimagining Mobile Photoshopping  IPhone X Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cut-screen-claims-is-splitcam-supreme/"><u>[New] In 2024, Cut Screen Claims  Is SplitCam Supreme?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-slide-video-creators/"><u>[Updated] 2024 Approved  Best Slide Video Creators</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-ultimate-list-of-top-tiktok-gamers/"><u>[New] 2024 Approved  The Ultimate List of Top TikTok Gamers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-annual-showcase-of-innovative-anime-casting-talent-for-2024/"><u>Updated The Annual Showcase of Innovative Anime Casting Talent for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-guide-top-10-youtube-yoga-sessions-for-gains/"><u>Essential Guide  Top 10 YouTube Yoga Sessions for Gains</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-undo-button-retracing-your-youtube-steps/"><u>[New] The Undo Button  Retracing Your YouTube Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-8-image-collections-for-macbook-screens/"><u>[Updated] Innovative 8 Image Collections for MacBook Screens</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-complete-guide-to-earnings-via-vimeo-ads-for-2024/"><u>The Complete Guide to Earnings via Vimeo Ads for 2024</u></a></li>
+</ul></div>

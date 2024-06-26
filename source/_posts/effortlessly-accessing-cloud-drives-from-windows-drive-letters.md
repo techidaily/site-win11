@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Accessing Cloud Drives: From Windows Drive Letters"
-date: 2024-06-25 23:44:36
-updated: 2024-06-26 10:54:38
+date: 2024-06-25T11:41:48.249Z
+updated: 2024-06-26T11:41:48.249Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,31 @@ subst Z: "C:\Cloud Drives\Dropbox"
  Cloud storage services are easier than ever to access, they offer free storage, and as a bonus, they can make your life miserable if you want to access anything stored there using a quirky app instead of your web browser.
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-the-unresponsive-keyboard-issue-x80049dd3-in-windows-11/"><u>Overcoming the Unresponsive Keyboard Issue - X80049DD3 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-media-makers-code-0x8007043c-issue/"><u>Overcoming Windows Media Maker's Code 0X8007043C Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-virtualboxs-efail-windows-issue-0x80004005/"><u>Tips to Rectify Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-battlenet-desktop-client-successfully/"><u>How to Reactivate Battle.net Desktop Client Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-virtuoso-top-tips-to-overcome-blurry-windows-11-displays/"><u>Visual Virtuoso: Top Tips to Overcome Blurry Windows 11 Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-roblox-gaming-with-higher-frames-per-second/"><u>Elevating Roblox Gaming with Higher Frames per Second</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-into-windows-essence-crafting-and-evaluating-system-data/"><u>Peering Into Windows Essence: Crafting & Evaluating System Data</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-recorder-tools-the-8-best-lists/"><u>2024 Approved  Essential Recorder Tools  The 8 Best Lists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-state-of-the-vr-industry/"><u>2024 Approved  State of the VR Industry</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-efficiency-with-wmp-for-audio-conversion/"><u>[Updated] Maximize Efficiency with WMP for Audio Conversion</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-elevate-your-designs-with-feather-shapes-in-after-effects/"><u>Updated 2024 Approved Elevate Your Designs with Feather Shapes in After Effects</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/quick-tips-adding-captions-in-youtube-videos/"><u>Quick Tips  Adding Captions in YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset/"><u>Quick and Easy  How to Transform Your Mobile Device Into a VR Headset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-a-closer-look-at-virtualdub-review-benefits-and-top-alternatives-for-2024/"><u>New A Closer Look at Virtualdub Review, Benefits, and Top Alternatives for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

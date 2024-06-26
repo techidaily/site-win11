@@ -1,7 +1,7 @@
 ---
 title: "Silent Shopkeepers: Integrating Covert Window 11 Menus"
-date: 2024-06-22 13:26:51
-updated: 2024-06-25 11:16:28
+date: 2024-06-25T11:40:09.544Z
+updated: 2024-06-26T11:40:09.544Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,34 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/windows-secure-access-tips-for-stuck-pins/"><u>Windows Secure Access: Tips for Stuck Pins</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-rearranged-letters-in-windows-system/"><u>Eradicating Rearranged Letters in Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-device-stall-code-0x887a0006-guide/"><u>Fixing Device Stall: Code 0X887A0006 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-wmp-playback-issues/"><u>Guide to Overcoming WMP Playback Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-mouse-click-rate-with-just-a-few-tweaks/"><u>Skyrocket Mouse Click Rate with Just a Few Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/merging-windows-credentials-with-microsoft-identity-hub/"><u>Merging Windows Credentials with Microsoft Identity Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-connection-issue-on-windows-os/"><u>Fixing No Connection Issue on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-full-functionality-to-windows-tablet-gestures/"><u>Restoring Full Functionality to Windows Tablet Gestures</u></a></li>
+<li><a href="https://win11.techidaily.com/10-fixes-for-windows-restoring-controllers-with-steam/"><u>10 Fixes for Windows: Restoring Controllers with Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/tactical-steps-to-evade-windows-account-prompts/"><u>Tactical Steps to Evade Windows Account Prompts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-text-in-after-effects-top-10/"><u>[Updated] The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-what-are-ar-emoji-stickers-and-how-to-add-them-to-your-video/"><u>2024 Approved What Are AR Emoji Stickers & How to Add Them to Your Video</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-spark-go-2023-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Spark Go (2023) to Mac? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-beyond-brand-promotion-real-insights-into-instagram-reels/"><u>[Updated] Beyond Brand Promotion  Real Insights Into Instagram Reels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-crescendo-creations-adding-audio-magic-to-instagram-stories/"><u>[New] In 2024, Crescendo Creations  Adding Audio Magic to Instagram Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-high-fidelity-portals-to-ps3-gaming-on-pcs/"><u>2024 Approved  High-Fidelity Portals to Ps3 Gaming on PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-the-most-detailed-guide-to-use-3d-lut-in-photoshop/"><u>In 2024, The Most Detailed Guide to Use 3D LUT in Photoshop</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-perfect-purity-of-sound-unveiling-techniques-to-exclude-voices-in-adobe-audition-projects/"><u>Updated In 2024, Perfect Purity of Sound Unveiling Techniques to Exclude Voices in Adobe Audition Projects</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/secrets-of-style-perfecting-your-macootd-on-tiktok/"><u>Secrets of Style  Perfecting Your MacOOTD on TikTok</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-explore-best-business-strategy-games-of-the-year-mobilepc/"><u>[New] In 2024, Explore Best Business Strategy Games of the Year (Mobile/PC)</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

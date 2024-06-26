@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflow: Mastering Window Commands & Shortcuts"
-date: 2024-06-22 16:54:56
-updated: 2024-06-24 10:49:18
+date: 2024-06-25T11:33:39.414Z
+updated: 2024-06-26T11:33:39.414Z
 tags:
   - windows10
   - windows11
@@ -138,3 +138,30 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/fixing-inaccessible-window-resolutions-8-simple-steps/"><u>Fixing Inaccessible Window Resolutions: 8 Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-experience-new-pcs-ultimate-tools/"><u>Elevate Your Experience: New PC's Ultimate Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-installation-hurdles-in-windows-1011/"><u>Understanding & Resolving Installation Hurdles in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-interruptions-during-steam-video-streaming/"><u>Preventing Interruptions During Steam Video Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/pixelprecision-snag-9-tactics-to-reinstate-it/"><u>PixelPrecision Snag? 9 Tactics to Reinstate It</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-how-to-engage-windows-11s-system-restore-mechanism/"><u>Step-by-Step: How to Engage Windows 11'S System Restore Mechanism</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-volume-settings-after-hiccups-in-windows-10/"><u>Restoring Volume Settings After Hiccups in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-ubuntus-finest-top-10-free-video-editing-software-for-2024/"><u>New Ubuntus Finest Top 10 Free Video Editing Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-unlock-smooth-conversions-top-10-free-4k-video-converters/"><u>2024 Approved Unlock Smooth Conversions Top 10 Free 4K Video Converters</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-play-8t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Play 8T without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-looking-for-ways-to-get-more-views-on-your-youtube-videos-an-appealing-and-interesting-thumbnail-can-work-as-an-effective-method-here/"><u>In 2024, Looking for Ways to Get More Views on Your YouTube Videos? An Appealing and Interesting Thumbnail Can Work as an Effective Method Here</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-online-locations-to-find-and-download-open-source-closing-music/"><u>New 2024 Approved Best Online Locations to Find and Download Open-Source Closing Music</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

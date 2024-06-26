@@ -1,7 +1,7 @@
 ---
 title: Win 11 Strategies for Eradicating Microsoft Defender Footprints
-date: 2024-06-24 13:11:22
-updated: 2024-06-26 12:50:18
+date: 2024-06-25T11:43:18.034Z
+updated: 2024-06-26T11:43:18.034Z
 tags:
   - windows10
   - windows11
@@ -104,3 +104,31 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  If you ever want to clear Defender Protection History, you know how easy it is to do it through any of the four ways discussed above. If you would want to refer to the Protection History logs later, you can use the Save and Clear option while clearing Protection History using Event Viewer.
 
  Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/solutions-for-not-writable-file-problems-in-windows-11/"><u>Solutions for Not Writable File Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-methods-purging-directdraw-problems-from-win1011-systems/"><u>Expert Methods: Purging DirectDraw Problems From WIN10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-steps-for-clearer-images-using-windows-11s-background-blur-feature-in-the-app/"><u>Proven Steps for Clearer Images Using Windows 11'S Background Blur Feature in the App</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-overcoming-forbidden-errors/"><u>Mastering the Art of Overcoming Forbidden Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/file-locations-decoded-win11s-best-practices-for-retrieving-file-and-folder-paths-6-methods/"><u>File Locations Decoded: Win11's Best Practices for Retrieving File & Folder Paths (6 Methods)</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-your-it-admin-cant-do-more-on-windows-os/"><u>Fixing 'Your IT Admin Can't Do More' On Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-steam-cloud-errors-on-windows/"><u>Addressing Steam Cloud Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-integrating-spotlight-images-into-wallpaper/"><u>Elevate Your Workspace: Integrating Spotlight Images Into Wallpaper</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>In 2024, Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-magix-beatstrip-harmonizing-your-beats-easily/"><u>2024 Approved  Magix Beatstrip  Harmonizing Your Beats Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-launch-diving-into-live-conversations-on-instagram/"><u>[New] In 2024, Quick Launch  Diving Into Live Conversations on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-20c-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-heres-a-step-by-step-guide-for-the-powerdirector-color-match-process-also-check-out-the-professional-and-quick-powerdirector-alternative-if-you-find-it-/"><u>New Heres a Step-by-Step Guide for the PowerDirector Color Match Process! Also, Check Out the Professional and Quick PowerDirector Alternative if You Find It a Bit Time-Consuming and Manual for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-top-10-animated-photo-collage-apps-you-should-know/"><u>Updated 2024 Approved Top 10 Animated Photo Collage Apps You Should Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-advanced-features-in-intova-edge-x/"><u>2024 Approved  Exploring Advanced Features in Intova Edge X</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
