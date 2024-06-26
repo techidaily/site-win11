@@ -1,7 +1,7 @@
 ---
 title: Displaying Numeric Key Status in System Tray for Win11 Users
-date: 2024-06-25T10:21:14.949Z
-updated: 2024-06-26T10:21:14.949Z
+date: 2024-06-22 15:59:49
+updated: 2024-06-25 12:36:27
 tags:
   - windows10
   - windows11
@@ -102,33 +102,3 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/strategizing-shortcut-placement-near-win11s-power-button/"><u>Strategizing Shortcut Placement Near Win11's Power Button</u></a></li>
-<li><a href="https://win11.techidaily.com/surface-laptop-studio-review-the-quest-for-perfection-continues/"><u>Surface Laptop Studio Review: The Quest for Perfection Continues</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-erratic-mouse-movement-in-windows/"><u>Ceasing Erratic Mouse Movement in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-dns-on-windows-11/"><u>Step-by-Step: Setting Up DNS on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-connectivity-windows-11-and-mobile-devices-unite/"><u>Innovative Connectivity: Windows 11 & Mobile Devices Unite</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-cab-files-explanations-and-steps-for-installation/"><u>Understanding Windows Cab Files: Explanations & Steps for Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/personalized-pixels-designing-unique-displays-on-each-monitor-of-windows/"><u>Personalized Pixels: Designing Unique Displays on Each Monitor of Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-use-of-snipping-tool-on-modern-windows-os/"><u>Instant Use of Snipping Tool on Modern Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-for-rectifying-windows-error-code-0x80040610/"><u>Swift Solutions for Rectifying Windows Error Code 0X80040610</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-premier-10-decibel-boosters-macos-to-mobile-devices/"><u>[Updated] Premier 10 Decibel Boosters  MacOS to Mobile Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-building-a-sports-channel-via-macos-step-by-step-guide/"><u>[New] Building a Sports Channel via macOS  Step by Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-favorite-3ds-game-emulators-ranked/"><u>2024 Approved  Android's Favorite 3DS Game Emulators Ranked</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-spark-20-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Spark 20 Pro FRP</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-list-of-top-online-video-conferencing-platforms-all-free/"><u>[Updated] 2024 Approved  Master List of Top Online Video Conferencing Platforms (All Free)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-prime-hits-twitters-trendiest-watchers-and-lovers/"><u>[New] 2024 Approved  Amazon Prime Hits  Twitter's Trendiest Watchers & Lovers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mac-users-launch-your-own-sports-videography-hub-for-2024/"><u>Mac Users  Launch Your Own Sports Videography Hub for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12-pro-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12 Pro 5G Device SIM</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-art-of-time-manipulation-in-final-cut-pro-x/"><u>Updated 2024 Approved The Art of Time Manipulation in Final Cut Pro X</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-filmmaking-for-all-a-beginners-guide-to-creating-a-movie/"><u>Updated Filmmaking for All A Beginners Guide to Creating a Movie</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

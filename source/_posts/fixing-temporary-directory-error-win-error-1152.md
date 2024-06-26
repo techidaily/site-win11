@@ -1,7 +1,7 @@
 ---
 title: Fixing 'Temporary Directory Error' - Win Error 1152
-date: 2024-06-25T09:59:50.827Z
-updated: 2024-06-26T09:59:50.827Z
+date: 2024-06-25 15:23:16
+updated: 2024-06-26 11:35:53
 tags:
   - windows10
   - windows11
@@ -68,34 +68,3 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
  There aren’t that many confirmed resolutions for error 1152\. However, the ones covered here have worked for many users who’ve needed to fix that Windows software installation issue.
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/total-extraction-of-wsl-from-windows-11-screens/"><u>Total Extraction of WSL From Windows 11 Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-resurrect-inactive-windows-email-rule-configurations/"><u>Methods to Resurrect Inactive Windows Email Rule Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/the-fundamentals-of-using-windows-odbc-connectivity/"><u>The Fundamentals of Using Windows' ODBC Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-missed-display-after-windows-starts/"><u>Overcoming Missed Display After Windows Starts</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-graphics-restoration-on-latest-windows-oses/"><u>Simplifying Graphics Restoration on Latest Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-pre-use-disk-formatting-notice-on-windows/"><u>Eliminating Pre-Use Disk Formatting Notice on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-solve-package-problems-in-windows-oses/"><u>Strategies to Solve Package Problems in Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-transferable-operation-relocating-your-torrent-software/"><u>Enabling Transferable Operation: Relocating Your Torrent Software</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-the-lost-connection-top-9-remedies-for-missing-bluetooth-on-win-11/"><u>Revive the Lost Connection: Top 9 Remedies for Missing Bluetooth on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-modify-calculators-color-scheme-dark/"><u>How To Modify Calculator's Color Scheme (Dark)</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-11-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 11 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10plus-free-online-youtube-intro-makers/"><u>In 2024, Top 10+ Free Online YouTube Intro Makers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated In 2024, Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-multi-platform-speech-to-mp3-technology-for-everyday-use/"><u>2024 Approved Multi-Platform Speech-to-MP3 Technology for Everyday Use</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated 2024 Approved Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/seeking-out-elaborate-zombie-soundtracks/"><u>Seeking Out Elaborate Zombie Soundtracks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-5-innovative-strategies-for-crafting-youtube-titles-and-tags-for-2024/"><u>[New] 5 Innovative Strategies for Crafting YouTube Titles & Tags for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-list-recording-digital-tv-programming/"><u>[Updated] The Ultimate List  Recording Digital TV Programming</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-best-voice-chat-apps-for-gamers/"><u>New Best Voice Chat Apps for Gamers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone XS Max | Dr.fone</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

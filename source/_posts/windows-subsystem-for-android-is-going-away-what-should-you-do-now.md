@@ -1,7 +1,7 @@
 ---
 title: "Windows Subsystem for Android Is Going Away: What Should You Do Now?"
-date: 2024-06-25T10:29:27.964Z
-updated: 2024-06-26T10:29:27.964Z
+date: 2024-06-25 15:24:25
+updated: 2024-06-26 12:58:46
 tags:
   - windows10
   - windows11
@@ -49,33 +49,3 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
  One possible exception is games. While many popular mobile games have Windows ports available through the Microsoft Store, [Bluestacks](https://www.bluestacks.com/) offers the ability to play Android games on Windows machines. Google is also currently testing [a Windows version of its Play store](https://www.makeuseof.com/windows-11-install-google-play-store/), perhaps sensing an opportunity now that Microsoft and Amazon are vacating this space.
 
  The ability to run Android apps through the Amazon Appstore, officially known as the Windows Subsystem for Android, was one of Windows 11's launch features. However, Microsoft has announced that this feature is going away. What should you do if you use Android apps on Windows?
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/installing-kali-linux-effortlessly-on-a-windows-pc/"><u>Installing Kali Linux Effortlessly on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-inoperative-windows-11-speech-recognition/"><u>Resolving Inoperative Windows 11 Speech Recognition</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-workday-the-top-5-apps-to-skyrocket-windows-efficiency/"><u>Optimize Your Workday: The Top 5 Apps to Skyrocket Windows Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/ten-simple-steps-for-fixing-def5-onedrive-woes-on-win11/"><u>Ten Simple Steps for Fixing DEF5: OneDrive Woes on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/installation-triumph-fixed-mspm-in-windows-10/"><u>Installation Triumph: Fixed MSPM in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-unlinked-files-and-absence-of-assigned-apps-win/"><u>Resolving Unlinked Files and Absence of Assigned Apps (Win)</u></a></li>
-<li><a href="https://win11.techidaily.com/faster-utorrent-file-sharing-a-guide-for-windows/"><u>Faster uTorrent File Sharing: A Guide for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-adjusting-user-permissions-for-regular-accounts/"><u>Windows: Adjusting User Permissions for Regular Accounts</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-no-associated-error-on-windows-devices/"><u>Removing 'No Associated' Error on Windows Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15 Plus</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 8T FRP Bypass</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-tasteful-harmonies-for-streaming-media-artistry/"><u>Updated 2024 Approved Tasteful Harmonies for Streaming Media Artistry</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-animated-top-online-makers-for-engaging-video-content/"><u>Updated Get Animated Top Online Makers for Engaging Video Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-15-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 15 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-improve-youtube-video-quality-and-clarity/"><u>[Updated] How to Improve YouTube Video Quality and Clarity</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/techniques-for-rapid-deletion-of-youtube-feedback/"><u>Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/in-2024-transform-your-footage-learn-to-create-slow-motion-videos-on-kapwing/"><u>In 2024, Transform Your Footage Learn to Create Slow-Motion Videos on Kapwing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta-for-2024/"><u>[Updated] Turning Tides in Visuals  Mastering the Art of Angles and Rotations on Insta for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-moving-on-from-virtualdub-discover-the-top-video-editing-software-alternatives/"><u>Updated In 2024, Moving On From Virtualdub Discover the Top Video Editing Software Alternatives</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

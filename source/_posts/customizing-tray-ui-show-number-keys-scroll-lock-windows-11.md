@@ -1,7 +1,7 @@
 ---
 title: "Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11"
-date: 2024-06-25T10:17:56.858Z
-updated: 2024-06-26T10:17:56.858Z
+date: 2024-06-25 12:15:40
+updated: 2024-06-26 11:30:19
 tags:
   - windows10
   - windows11
@@ -102,29 +102,3 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/silent-restarts-a-windows-1011-guide-to-going-dark/"><u>Silent Restarts: A Windows 10/11 Guide to Going Dark</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-potential-top-free-must-have-for-win11/"><u>Unleash Potential: Top Free Must-Have for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-ways-to-remove-search-icon-art/"><u>Efficient Ways to Remove Search Icon Art</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-winrars-summation-oversights-a-6-step-approach/"><u>Correcting WinRAR's Summation Oversights: A 6-Step Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-cpuram-drain-from-consuming-video-content/"><u>Reducing CPU/RAM Drain From Consuming Video Content</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-stranded-status-from-xbox-console-experience-on-pc/"><u>Eradicate ‘Stranded’ Status From Xbox Console Experience on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-speed-up-download-speeds-in-utorrent-for-windows/"><u>How to Speed Up Download Speeds in uTorrent for Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-universal-vmix-adapter/"><u>[New] Universal VMix Adapter</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discovering-the-10-premium-pc-voice-capture-software/"><u>Updated Discovering the 10 Premium PC Voice Capture Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-bring-your-videos-to-life-best-animated-text-apps-for-mobile-for-2024/"><u>Updated Bring Your Videos to Life Best Animated Text Apps for Mobile for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/undamentals-of-high-impact-asmr-filming-and-editing-for-2024/"><u>The Fundamentals of High-Impact ASMR Filming & Editing for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-this-article-talks-in-detail-about-windows-movie-maker-free-alternative-options-their-key-features-pros-cons-etc-it-discusses-tools-such-a/"><u>New 2024 Approved This Article Talks in Detail About Windows Movie Maker Free Alternative Options, Their Key Features, Pros, Cons, Etc. It Discusses Tools Such as Filmora, ShotCut Video Editor, and More. Check Out</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-examining-youtubes-mobile-app-for-iosandroid-devices/"><u>2024 Approved  Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-slow-momentum-a-filmmakers-tale-on-instagram/"><u>[Updated] 2024 Approved  Unlock Slow Momentum  A Filmmaker’s Tale on Instagram</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

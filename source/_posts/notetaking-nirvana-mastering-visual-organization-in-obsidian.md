@@ -1,7 +1,7 @@
 ---
 title: "Notetaking Nirvana: Mastering Visual Organization in Obsidian"
-date: 2024-06-25T10:18:15.005Z
-updated: 2024-06-26T10:18:15.005Z
+date: 2024-06-21 14:54:40
+updated: 2024-06-24 11:28:40
 tags:
   - windows10
   - windows11
@@ -139,33 +139,3 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
  Obsidian and Canvas are similar "enablers" that offer the tools for building your own solutions. How you'll use them is entirely up to you.
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/from-problem-to-perfection-tactics-to-install-missing-features-in-windows-11-and-11-pro/"><u>From Problem to Perfection: Tactics to Install Missing Features in Windows 11 & 11 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-displaying-messages-errors-in-discord-for-windows/"><u>Fixing Non-Displaying Messages Errors in Discord for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/revealing-how-ai-pcs-outperform-standard-computers/"><u>Revealing How AI PCs Outperform Standard Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-steps-for-purging-microsoft-defender-traces-from-win-11/"><u>Strategic Steps for Purging Microsoft Defender Traces From Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-monochrome-troubles-with-store-app/"><u>Overcoming Monochrome Troubles with Store App</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-video-driver-crash-on-win1110/"><u>Addressing Video Driver Crash on Win11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-deletion-warning-settings-on-pcs/"><u>Navigating Deletion Warning Settings on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/compreenas-a-solution-for-xbox-app-failure-error-0x80073d26/"><u>Compreenas a Solution for Xbox App Failure: Error 0X80073D26</u></a></li>
-<li><a href="https://win11.techidaily.com/balancing-act-equalizing-pc-and-mobile-internet-speeds/"><u>Balancing Act: Equalizing PC & Mobile Internet Speeds</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/leading-discord-glyphs-innovators-shaping-chat-culture/"><u>Leading Discord Glyphs  Innovators Shaping Chat Culture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-screenshot-synopsis-study/"><u>[New] 2024 Approved  ScreenShot Synopsis Study</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-masterclass-in-eliminating-youtube-content/"><u>2024 Approved  Masterclass in Eliminating YouTube Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/exploring-ancient-facebook-tales-your-pcmobile-checklist/"><u>Exploring Ancient Facebook Tales  Your PC/Mobile Checklist</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-infinix-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Infinix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-starting-with-telegram-advertising-essential-steps-for-newbies/"><u>In 2024, Starting with Telegram Advertising  Essential Steps for Newbies</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-channel-success-story-turning-budget-into-brands/"><u>[New] Channel Success Story  Turning Budget Into Brands</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-direct-mac-pics-to-a-new-saving-area-for-2024/"><u>[Updated] Direct Mac Pics to a New Saving Area for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

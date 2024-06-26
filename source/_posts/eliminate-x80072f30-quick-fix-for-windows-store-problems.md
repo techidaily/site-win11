@@ -1,7 +1,7 @@
 ---
 title: "Eliminate X80072F30: Quick Fix for Windows Store Problems"
-date: 2024-06-25T10:14:41.604Z
-updated: 2024-06-26T10:14:41.604Z
+date: 2024-06-21 12:43:43
+updated: 2024-06-24 12:50:29
 tags:
   - windows10
   - windows11
@@ -137,24 +137,3 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/resolving-windows-11-error-code-0x0000011b/"><u>Resolving Windows 11 Error Code: 0X0000011B</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-status-check-top-three-techniques/"><u>Windows 11 Status Check: Top Three Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-automatic-shutdown-for-w10w11/"><u>Setting Up Automatic Shutdown for W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-inaccessible-remove-functionality-on-windows-11-os/"><u>Fixing Inaccessible Remove Functionality on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/innovation-at-your-fingertips-windows-erase-feature/"><u>Innovation at Your Fingertips: Window's Erase Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/5-steps-to-clear-windows-not-supported-error-hurdle/"><u>5 Steps to Clear Windows' 'Not Supported' Error Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-navigation-of-files-with-gallery-on-pc/"><u>Efficient Navigation of Files with Gallery on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-link-ups-phones-and-windows-11-synergy/"><u>Innovative Link-Ups: Phones and Windows 11 Synergy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-updated-youtube-income-guidelines/"><u>In 2024, Updated YouTube Income Guidelines</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-the-art-of-engaging-facebook-video-ads/"><u>In 2024, Mastering the Art of Engaging Facebook Video Ads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screen-grab-gold-10-top-tools-for-pc-and-mac/"><u>2024 Approved  Screen Grab Gold  10 Top Tools for PC and Mac</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-your-media-a-review-of-top-youtube-downloader-software/"><u>2024 Approved  Maximize Your Media  A Review of Top YouTube Downloader Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-frame-by-frame-reviews-high-quality-recorder-guide/"><u>[New] 2024 Approved  Frame by Frame Reviews  High-Quality Recorder Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-leading-360-action-footage-options/"><u>[New] Leading 360° Action Footage Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/decoding-the-freeze-phenomenon-in-photobooth-videos/"><u>Decoding the Freeze Phenomenon in Photobooth Videos</u></a></li>
-</ul></div>

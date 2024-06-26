@@ -1,7 +1,7 @@
 ---
 title: "Time Travel in Gameplay: Implementing RetroArch's Shader Effects"
-date: 2024-06-25T09:56:14.891Z
-updated: 2024-06-26T09:56:14.891Z
+date: 2024-06-25 12:53:16
+updated: 2024-06-26 12:12:19
 tags:
   - windows10
   - windows11
@@ -118,23 +118,3 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/ux3405-vs-macbooks-asuss-oled-showdown/"><u>UX3405 vs MacBooks: Asus's OLED Showdown</u></a></li>
-<li><a href="https://win11.techidaily.com/opening-editing-and-personalizing-your-win11-fax-cover-page/"><u>Opening, Editing & Personalizing Your Win11 Fax Cover Page</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-world-of-windowed-activity-archives/"><u>Navigating the World of Windowed Activity Archives</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-failed-logon-retry-timeframe-in-win-1011/"><u>Setting Failed Logon Retry Timeframe in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-pcs-wi-fi-woes-six-effective-steps-from-fixing-adapter-failure/"><u>Reviving Your PC's Wi-Fi Woes - Six Effective Steps From Fixing Adapter Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-through-credential-management-fixes/"><u>Journey Through Credential Management Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-couldnt-load-page-in-windows-marketplace/"><u>Troubleshooting 'Couldn't Load Page' In Windows Marketplace</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-zero-30-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Zero 30 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seamless-youtube-experience-facebooks-autoplay-solution/"><u>[Updated] In 2024, Seamless YouTube Experience  Facebook's Autoplay Solution</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-method-to-conquer-slow-mo-filming-in-tiktok-for-2024/"><u>[New] The Ultimate Method to Conquer Slow Mo Filming in TikTok for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[New] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/efficient-screenshot-with-audio-layered-for-2024/"><u>Efficient Screenshot  With Audio Layered for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-huawei-p60-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Huawei P60 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-</ul></div>

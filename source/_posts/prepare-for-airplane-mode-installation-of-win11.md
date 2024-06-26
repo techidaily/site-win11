@@ -1,7 +1,7 @@
 ---
 title: "Prepare for Airplane Mode: Installation of Win11"
-date: 2024-06-25T10:29:07.430Z
-updated: 2024-06-26T10:29:07.430Z
+date: 2024-06-24 11:31:12
+updated: 2024-06-26 10:59:27
 tags:
   - windows10
   - windows11
@@ -116,30 +116,3 @@ thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfc
  That said, once you finish the setup and create a local user account, connect to the Internet to download critical security updates and features. You may also notice a few missing icons after the initial setup. Windows will download these icons when you connect to the Internet next time.
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/steps-for-troubleshooting-xbox-audio-failures-in-pcs/"><u>Steps for Troubleshooting Xbox Audio Failures in PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-11s-onedrive-error-def5-woes/"><u>Navigating Through Windows 11'S Onedrive Error DEF5 Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-maneuvers-to-navigate-stalled-windows-install-steps/"><u>Masterful Maneuvers to Navigate Stalled Windows Install Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-upgrade-error-0xc004f050/"><u>How to Fix the Windows Upgrade Error 0Xc004f050</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-the-maze-quickly-entering-windows-support-space/"><u>Avoiding the Maze: Quickly Entering Windows' Support Space</u></a></li>
-<li><a href="https://win11.techidaily.com/lowering-tiworkerexe-cpu-consumption-windows-wise/"><u>Lowering TiWorker.exe CPU Consumption Windows-Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-tips-for-discovering-computer-gpu-make/"><u>Fast-Track Tips for Discovering Computer GPU Make</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-pro-max-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Pro Max Stuck at attempting data recovery Loop | Stellar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-6s-plus-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 6s Plus without Security Questions?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools/"><u>2024 Approved  From Raw Video to Engaging YouTube Videos with Sony Vegas Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-compose-captivating-youtube-intros-for-free/"><u>[Updated] How To Compose Captivating YouTube Intros for FREE</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-how-to-create-a-youtube-channel-trailer-to-increase-revenue/"><u>[New] How to Create a YouTube Channel Trailer to Increase Revenue</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-growth-and-glitter-in-video-ventures/"><u>The Ultimate Guide to Growth & Glitter in Video Ventures</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-quick-guide-to-making-twitter-videos-into-expressive-gifs/"><u>[New] 2024 Approved  Quick Guide to Making Twitter Videos Into Expressive GIFs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>[New] In 2024, Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-top-sites-to-download-royalty-free-comedy-background-music-for-2024/"><u>Updated 5 Top Sites to Download Royalty Free Comedy Background Music for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

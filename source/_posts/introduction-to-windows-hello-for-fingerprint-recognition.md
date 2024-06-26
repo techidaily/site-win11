@@ -1,7 +1,7 @@
 ---
 title: Introduction to Windows Hello for Fingerprint Recognition
-date: 2024-06-25T10:10:39.369Z
-updated: 2024-06-26T10:10:39.369Z
+date: 2024-06-22 19:23:52
+updated: 2024-06-25 12:29:16
 tags:
   - windows10
   - windows11
@@ -109,27 +109,3 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/mastery-of-microsoft-store-error-solving-in-windows/"><u>Mastery of Microsoft Store Error Solving in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-closed-nvidia-cp-window-in-w11-os/"><u>Overcoming Closed Nvidia CP Window in W11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-non-operational-ccleaner-on-win11/"><u>Overhauling Non-Operational CCleaner on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-end-non-registered-user-sessions-on-windows-11/"><u>A Step-by-Step Guide to End Non-Registered User Sessions on WIndows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/dont-overlook-the-side-effects-of-bargain-windows-keys/"><u>Don't Overlook: The Side Effects of Bargain Windows Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-functionality-of-law-filters-for-windows-users/"><u>Decoding the Functionality of LAW Filters for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/augmenting-windows-ui-cli-features-for-taskmgr-windowed-console/"><u>Augmenting Windows UI: CLI Features for TaskMgr Windowed Console</u></a></li>
-<li><a href="https://win11.techidaily.com/configure-windows-apps-with-personalized-keys/"><u>Configure Windows Apps with Personalized Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-photoshop-performance-issues/"><u>Streamlining Windows Photoshop Performance Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/remedial-actions-for-incorrect-app-configuration/"><u>Remedial Actions for Incorrect App Configuration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-c51-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco C51 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-drive-audience-participation-through-custom-stories-queries-for-2024/"><u>[New] Drive Audience Participation Through Custom Stories Queries for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-and-share-saving-your-ppt-sessions/"><u>2024 Approved  Capture and Share  Saving Your PPT Sessions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-elite-screen-recording-app-for-no-popups/"><u>2024 Approved  Elite Screen Recording App for No Popups</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-take-your-videos-to-the-next-level-mastering-the-ken-burns-effect-in-final-cut-pro/"><u>New Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs-for-2024/"><u>To Network, Or Not  A Detailed Guide for YouTubers Considering MNCs for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y28-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y28 5G without App | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-silence-your-tiktok-sounds-quick-techniques-for-a-noiseless-experience/"><u>New 2024 Approved Silence Your TikTok Sounds Quick Techniques for a Noiseless Experience</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-online-video-orientation-changer-best-options/"><u>Updated Free Online Video Orientation Changer Best Options</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-say-goodbye-to-bloatware-with-these-44-superb-android-video-reducers/"><u>[New] In 2024, Say Goodbye to Bloatware with These 44 Superb Android Video Reducers</u></a></li>
-</ul></div>

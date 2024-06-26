@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Don't Make These Top 8 Mistakes"
-date: 2024-06-25T10:04:53.690Z
-updated: 2024-06-26T10:04:53.690Z
+date: 2024-06-22 18:46:35
+updated: 2024-06-25 10:51:21
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ## 1\. Microsoft Defender Protects Your PC From Threats, Never Disable It
 
-![Microsoft Defender Logo on Laptop Screen](https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg)
+![Microsoft Defender Logo on Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-defender-protection-history.jpg)
 
  Microsoft Defender, formerly known as Windows Defender, is your default antivirus app that protects your PCs from various threats, including viruses, malware, spyware, and phishing. It protects you from falling prey to threats emanating from both online and offline.
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ## 2\. You Should Not Download Software From Untrusted Sources
 
-![The Microsoft Store app](https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec38a9d51d9c25c70c5f788347.jpg)
+![The Microsoft Store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-store-app.jpg)
 
  No matter how advanced antivirus software you use on your PC, never download software from untrusted sources. And if you're not much of an internet person, it can be tricky to identify trustworthy sources.
 
@@ -107,34 +107,3 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
  On the flip side, Windows 11's default setup doesn't always work in your best interest. This is why it's important to know what you should change and what you should not.
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/clearing-up-no-sound-on-connected-devices-windows-edition/"><u>Clearing Up No Sound on Connected Devices, Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/5-simple-ways-to-tell-if-your-pc-needs-restarting/"><u>5 Simple Ways to Tell if Your PC Needs Restarting</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-paste-functionality-across-chromeedgefirefox-windows/"><u>Reviving Paste Functionality Across Chrome/Edge/Firefox Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/breathing-life-into-stalled-win11-license-numbers/"><u>Breathing Life Into Stalled Win11 License Numbers</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-glance-windows-11-expert-guide-to-image-access/"><u>Quick Glance: Windows 11 Expert Guide to Image Access</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-synapse-glitches-in-1011-windows-edition/"><u>Repairing Synapse Glitches in 10/11 Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/top-12-redundant-windows-extras-for-removal/"><u>Top 12 Redundant Windows Extras for Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/curing-store-failures-the-quick-fix-for-error-code-x00000000-in-windows-11/"><u>Curing Store Failures: The Quick Fix for Error Code X00000000 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-wireless-speaker-quality-in-win11-os/"><u>Enhancing Wireless Speaker Quality in Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-excessive-pc-resources-by-unrealcefsubprocess-in-windows/"><u>Tackling Excessive PC Resources by UnrealCEFSubprocess in Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-c51-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-beginners-guide-to-elevating-auditory-experiences-on-youtube-for-2024/"><u>A Beginner's Guide to Elevating Auditory Experiences on YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-image-full-screen-webpage/"><u>[New] Image Full-Screen Webpage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hearth-warming-hear-from-happy-customers/"><u>[Updated] Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/an-ultimate-guide-to-edit-a-music-video-aspect-ratio-and-first-cut-for-2024/"><u>An Ultimate Guide to Edit a Music Video Aspect Ratio and First Cut for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-tier-video-capture-tools-for-pc-users/"><u>[Updated] Top-Tier Video Capture Tools for PC Users</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unleashing-sound-in-social-video-sharing-platforms-for-2024/"><u>[New] Unleashing Sound in Social Video Sharing Platforms for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps-for-2024/"><u>[New] Auditory Alteration on the Go  The Top 7 Mobile Voice Modification Apps for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>2024 Approved  Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unleash-your-creativity-video-editing-in-os-x-mavericks-for-2024/"><u>Unleash Your Creativity Video Editing in OS X Mavericks for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

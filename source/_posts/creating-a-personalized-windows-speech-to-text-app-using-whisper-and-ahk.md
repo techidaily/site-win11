@@ -1,7 +1,7 @@
 ---
 title: Creating a Personalized Windows Speech-to-Text App Using Whisper & AHK
-date: 2024-06-25T09:41:25.786Z
-updated: 2024-06-26T09:41:25.786Z
+date: 2024-06-22 16:41:23
+updated: 2024-06-25 11:20:16
 tags:
   - windows10
   - windows11
@@ -251,33 +251,3 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/procedures-for-resolving-unresponsive-installation-on-windows-os/"><u>Procedures for Resolving Unresponsive Installation on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/find-the-folder-windows-captured-photos/"><u>Find the Folder: Windows Captured Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-volume-mixer-to-default-after-errors-occurred/"><u>Resetting Volume Mixer to Default After Errors Occurred</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-password-guardians-revolutionizing-windows-11-life/"><u>Leading Password Guardians Revolutionizing Windows 11 Life</u></a></li>
-<li><a href="https://win11.techidaily.com/6-effective-techniques-to-resurrect-off-screen-windows-in-windows-11/"><u>6 Effective Techniques to Resurrect Off-Screen Windows in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-clear-past-security-checks-on-your-wins-system/"><u>How to Clear Past Security Checks on Your Wins System</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-app-management-on-windows-11-os/"><u>Speedy App Management on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-windows-print-service/"><u>Troubleshooting Non-Operational Windows Print Service</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-management-navigating-through-network-tools-on-window/"><u>Effortless Management: Navigating Through Network Tools on Window</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-distinctive-sphere-of-influence/"><u>[New] 2024 Approved  Crafting a Distinctive Sphere of Influence</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unlocking-youtube-audio-downloading-made-easy-for-2024/"><u>Updated Unlocking YouTube Audio Downloading Made Easy for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-enjoy-whole-audio-on-twitch-addressing-muted-segments-now/"><u>In 2024, Enjoy Whole Audio on Twitch  Addressing Muted Segments Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/micro-influencer-approach-to-live-youtube-streams-from-mobile-for-2024/"><u>Micro-Influencer Approach to Live Youtube Streams From Mobile for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>[Updated] In 2024, Inside Polarr's Magic Box  The Ultimate Digital Image Enhancer</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>[New] Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-decoded-an-in-depth-look-at-video-hosting/"><u>In 2024, Vimeo Decoded  An In-Depth Look at Video Hosting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-swift-screen-capture-with-your-idevice/"><u>2024 Approved  Swift Screen Capture with Your iDevice</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Update Schedules: Setting Active Periods Windows 11"
-date: 2024-06-25T09:50:40.182Z
-updated: 2024-06-26T09:50:40.182Z
+date: 2024-06-22 22:35:16
+updated: 2024-06-25 10:33:25
 tags:
   - windows10
   - windows11
@@ -83,31 +83,3 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  Once you set the active hours using one of the above methods, Windows will avoid initiating automatic restarts for updates during the specified period. As a result, you won’t be interrupted by sudden reboots during your work hours.
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/merging-windows-credentials-with-microsoft-identity-hub/"><u>Merging Windows Credentials with Microsoft Identity Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-microsoft-edge-speeding-tips-for-windows-1011/"><u>Boosting Microsoft Edge: Speeding Tips for Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-malwarebytess-failed-execution-calls-on-windows-1011/"><u>Tackling Malwarebytes's Failed Execution Calls on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1011-sound-revolution-embrace-dolby-atmos/"><u>Win 10/11 Sound Revolution: Embrace Dolby Atmos</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-critical-failures-in-windows-with-error-code-c0000022/"><u>Tackling Critical Failures in Windows with Error Code C0000022</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-installed-but-inaccessible-microsoft-apps/"><u>Solving Installed but Inaccessible Microsoft Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tip-converting-esd-to-iso-without-compromising-data-integrity-on-windows/"><u>Tech Tip: Converting ESD to ISO without Compromising Data Integrity on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-technique-how-to-execute-a-clean-boot-on-windows-11/"><u>The Ultimate Technique: How to Execute a Clean Boot on Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6s-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-preserve-and-showcase-nine-exceptional-tools-for-animated-gifs-on-pc/"><u>In 2024, Preserve & Showcase  Nine Exceptional Tools for Animated GIFs on PC</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rising-stars-in-streaming-global-youtubes-subs-pantheon-for-2024/"><u>Rising Stars in Streaming  Global YouTube's Subs Pantheon for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerate-artistry-in-windows-11-photoshop/"><u>Accelerate Artistry in Windows 11 Photoshop</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-accelerate-your-videos-a-quicktime-player-guide-for-2024/"><u>Updated Accelerate Your Videos A QuickTime Player Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-champion-streaming-and-capture-tools-for-2024/"><u>[New] Champion Streaming & Capture Tools for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-tracks-top-ranked-amazon-originals-on-twittersphere/"><u>In 2024, Tweet Tracks  Top-Ranked Amazon Originals on Twittersphere</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-the-secrets-of-smooth-and-seamless-keying-in-videography/"><u>In 2024, Unlock the Secrets of Smooth and Seamless Keying in Videography</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

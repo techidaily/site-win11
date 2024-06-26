@@ -1,7 +1,7 @@
 ---
 title: "Pixelated Paths: Walking Through Oldschool PC World in DOSBox-X"
-date: 2024-06-25T10:04:15.054Z
-updated: 2024-06-26T10:04:15.054Z
+date: 2024-06-24 19:52:25
+updated: 2024-06-25 11:38:13
 tags:
   - windows10
   - windows11
@@ -169,34 +169,3 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
  Despite your PC being officially incompatible with such old software, with DOSBox-X, enjoying your retro-favorites in all their pixelated glory will be only one or two commands away!
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/historical-code-to-contemporary-computing-windows-7-to-11-activation/"><u>Historical Code to Contemporary Computing: Windows 7 to 11 Activation</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-file-explorer-running-with-helpful-windows-11-tricks/"><u>Keep Your File Explorer Running with Helpful Windows 11 Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-bypassing-defender-firewall-in-win11/"><u>Mastering the Art of Bypassing Defender Firewall in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-synapse-control-on-1011-windows-os/"><u>Reinstating Synapse Control on 10/11 Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-operation-warhammer-40k-boltgun-windows-stutter-fixes/"><u>Smooth Operation Warhammer 40K Boltgun: Windows Stutter Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-vanished-hardware-on-windows/"><u>Resolving Vanished Hardware on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/cross-examining-microsoft-vs-standard-windows-user-accounts/"><u>Cross-Examining Microsoft vs Standard Windows User Accounts</u></a></li>
-<li><a href="https://win11.techidaily.com/7-strategies-to-rectify-chromes-profile-problems-on-desktop/"><u>7 Strategies to Rectify Chrome's Profile Problems on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/stay-on-top-of-your-windows-11-devices-with-our-5-crucial-uptime-methods/"><u>Stay on Top of Your Windows 11 Devices with Our 5 Crucial Uptime Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-efficiency-utilizing-windows-11s-taskbar-search/"><u>Dive Into Efficiency: Utilizing Windows 11'S Taskbar Search</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screenmasterrevolution-next-gen-recording-software/"><u>ScreenMasterRevolution  Next-Gen Recording Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/onvert-your-youtube-files-effortlessly-to-webm/"><u>[New] Convert Your YouTube Files Effortlessly to WebM</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-elevate-your-brand-the-top-10-intro-creator-websites-for-free-and-paid-use/"><u>Updated 2024 Approved Elevate Your Brand The Top 10 Intro Creator Websites for Free and Paid Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-giggle-galaxy-most-shared-content-on-both-platforms/"><u>[New] 2024 Approved  Giggle Galaxy  Most Shared Content on Both Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-replay-on-iphone-set-videos-cycling/"><u>[Updated] 2024 Approved  Easy Replay on iPhone  Set Videos Cycling</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>2024 Approved  Beauty Tutorials Unveiled  Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-lenovo-screen-capture-tools-effortlessly/"><u>[Updated] In 2024, Navigating Lenovo Screen Capture Tools Effortlessly</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100a-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100A Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-free-endless-archive-of-instagram-highlights-for-2024/"><u>[New] FREE  Endless Archive of Instagram Highlights for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

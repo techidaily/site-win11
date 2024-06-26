@@ -1,7 +1,7 @@
 ---
 title: How to Use the Mouse Without Borders and Peek Features in PowerToys
-date: 2024-06-25T10:17:17.185Z
-updated: 2024-06-26T10:17:17.185Z
+date: 2024-06-23 19:38:30
+updated: 2024-06-26 10:37:17
 tags:
   - windows10
   - windows11
@@ -72,34 +72,3 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
  The Peek feature is great when you don’t want to open the file directly. However, PowerToys introduced a Registry Preview feature which is similar to Peek but only works for viewing and editing Registry files.
 
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-cr2-image-conversion-in-windows-pc/"><u>Mastering the Art of CR2 Image Conversion in Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-windows-10-and-11-apps-temp-and-forecast-picks/"><u>Prime Windows 10 & 11 Apps: Temp & Forecast Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-msresourceappname-text-glitch-window11-edition/"><u>Resolving 'MsResource:AppName Text' Glitch, Window11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-recover-from-windows-11s-zero-a00f-camera-blunder/"><u>How to Recover From Windows 11'S Zero-A00F Camera Blunder</u></a></li>
-<li><a href="https://win11.techidaily.com/shrouded-functionality-unveiling-hidden-context-menus-in-win11/"><u>Shrouded Functionality: Unveiling Hidden Context Menus in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-11-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/eye-catching-laptops-exhibited-at-ifa-2023/"><u>Eye-Catching Laptops Exhibited at IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-mending-the-internal-error-in-rdp-on-windows-11-and-11-pro/"><u>Guide to Mending the Internal Error in RDP on Windows 11 & 11 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reverse-failed-zip-file-extractions-on-windows-11/"><u>How To Reverse Failed Zip File Extractions on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinvent-the-way-you-handle-aging-pcs-less-windows/"><u>Reinvent the Way You Handle Aging PCs: Less Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Passcode without Computer?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-reframe-twitter-video-box-icon/"><u>[New] Reframe Twitter Video Box Icon</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-easy-ways-to-screen-record-instagram-story-for-2024/"><u>[New] Easy Ways to Screen Record Instagram Story for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/est-free-youtube-comment-finder-you-should-try-for-2024/"><u>[New] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-insiders-guide-to-musical-enhancements-on-ig/"><u>[Updated] The Insider's Guide to Musical Enhancements on IG</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M34 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-x50-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor X50 Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-techniques-to-ensure-uninterrupted-video-capturing/"><u>2024 Approved  Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ideal-video-editor-unleashed-for-vimeo-videos/"><u>[New] In 2024, Ideal Video Editor Unleashed for Vimeo Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-free-mcb-theme-templates-for-2024/"><u>Essential Free MCB Theme Templates for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: "Notetaking Renaissance: Discovering Obsidian's Visuality"
-date: 2024-06-25T10:15:01.642Z
-updated: 2024-06-26T10:15:01.642Z
+date: 2024-06-21 13:54:20
+updated: 2024-06-24 12:36:32
 tags:
   - windows10
   - windows11
@@ -139,33 +139,3 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  Obsidian and Canvas are similar "enablers" that offer the tools for building your own solutions. How you'll use them is entirely up to you.
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/surface-laptop-studio-review-the-quest-for-perfection-continues/"><u>Surface Laptop Studio Review: The Quest for Perfection Continues</u></a></li>
-<li><a href="https://win11.techidaily.com/new-horizons-for-windows-11-widgets-a-comprehensive-list-of-enhancements/"><u>New Horizons for Windows 11 Widgets: A Comprehensive List of Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-dead-audio-a-step-by-step-guide-to-tech-sound/"><u>Resurrect Dead Audio: A Step-by-Step Guide to Tech Sound</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-pcs-safety-with-these-7-password-generators/"><u>Boost Your PC's Safety with These 7 Password Generators</u></a></li>
-<li><a href="https://win11.techidaily.com/tracing-the-footprints-of-your-latest-window-use/"><u>Tracing the Footprints of Your Latest Window Use</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-lost-ms-store-access-on-windows-11-and-11/"><u>Reactivating Lost MS Store Access on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/studio-2-unleashed-microsofts-near-perfect-creator-tool/"><u>Studio 2 Unleashed: Microsoft's Near-Perfect Creator Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-system-load-cutting-back-on-malware-scanning-power/"><u>Ease System Load: Cutting Back on Malware Scanning Power</u></a></li>
-<li><a href="https://win11.techidaily.com/opening-editing-and-personalizing-your-win11-fax-cover-page/"><u>Opening, Editing & Personalizing Your Win11 Fax Cover Page</u></a></li>
-<li><a href="https://video-capture.techidaily.com/navigate-beyond-conventional-webcam-uses-for-2024/"><u>Navigate Beyond Conventional Webcam Uses for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-digest-your-facebook-memories-for-2024/"><u>[Updated] Digest Your Facebook Memories for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-6s-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 6s online without SIM Card?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-overview-the-top-12-free-user-friendly-video-players-and-apps-pcandroid/"><u>[New] Comprehensive Overview  The Top 12 Free, User-Friendly Video Players & Apps (PC/Android)</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-foremost-innovative-logos-for-social-platforms-animations/"><u>[New] In 2024, Foremost Innovative Logos for Social Platforms' Animations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/fresh-sounds-for-your-ig-story/"><u>Fresh Sounds for Your IG Story</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/premier-tools-for-tiktok-video-creators-for-2024/"><u>Premier Tools for TikTok Video Creators for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-easing-out-the-melodies-advanced-techniques-in-adobe-premiere/"><u>In 2024, Easing Out the Melodies  Advanced Techniques In Adobe Premiere</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ideal-websites-for-accessing-free-licensed-audio-files/"><u>[Updated] Ideal Websites for Accessing Free, Licensed Audio Files</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

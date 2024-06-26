@@ -1,7 +1,7 @@
 ---
 title: "Win11 Volume: Personalized Hotkeys and Control Creation Guide"
-date: 2024-06-25T10:04:34.123Z
-updated: 2024-06-26T10:04:34.123Z
+date: 2024-06-23 23:23:59
+updated: 2024-06-24 11:46:14
 tags:
   - windows10
   - windows11
@@ -126,29 +126,3 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/guidelines-for-ordering-clumped-taskbar-icons/"><u>Guidelines for Ordering Clumped Taskbar Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-blue-screen-errors-with-vmware-on-win11/"><u>Strategies to Address Blue Screen Errors with VMware on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-visual-delight-windows-wallpapers-guidebook/"><u>Fine-Tuning Visual Delight: Windows Wallpapers Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/silent-storage-strategies-for-stealthy-windows-users/"><u>Silent Storage Strategies for Stealthy Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-solve-no-connection-found-error-in-win/"><u>Steps to Solve No Connection Found Error in WIN</u></a></li>
-<li><a href="https://win11.techidaily.com/craft-a-quick-fix-to-skip-windows-login-dialogs/"><u>Craft a Quick Fix to Skip Windows Login Dialogs</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-collectors-dream-essential-612lifetime-windows-11-deal-awaits/"><u>Tech-Savvy Collectors' Dream: Essential $6.12/Lifetime Windows 11 Deal Awaits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-f15-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy F15 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>New Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-prime-methods-for-youtube-content-into-mpeg/"><u>2024 Approved  Prime Methods for YouTube Content Into MPEG</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-5-tips-for-influencer-program-on-instagram-with-examples/"><u>[New] 2024 Approved  5 Tips for Influencer Program on Instagram with Examples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-roguelike-vs-roguelite-debates-and-history/"><u>[New] In 2024, Roguelike Vs. Roguelite  Debates and History</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-10-must-hear-tunes-as-your-phones-greeting-melody/"><u>2024 Approved 10 Must-Hear Tunes as Your Phones Greeting Melody</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-transform-your-tiktok-videos-stunning-templates-at-hand/"><u>2024 Approved  Transform Your TikTok Videos  Stunning Templates at Hand</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-top-7-economical-options-mac-compatible-tiktok-editors/"><u>[New] 2024 Approved  Top 7 Economical Options  Mac-Compatible TikTok Editors</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

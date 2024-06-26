@@ -1,7 +1,7 @@
 ---
 title: Accessing and Configuring Windows Data Sources by ODBC
-date: 2024-06-25T09:51:56.189Z
-updated: 2024-06-26T09:51:56.189Z
+date: 2024-06-21 13:45:58
+updated: 2024-06-24 11:19:49
 tags:
   - windows10
   - windows11
@@ -165,27 +165,3 @@ odbcad32.exe
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/eliminating-windows-update-fault-x8019/"><u>Eliminating Windows Update Fault X8019</u></a></li>
-<li><a href="https://win11.techidaily.com/a-closer-look-how-win11-collects-your-personal-data/"><u>A Closer Look: How Win11 Collects Your Personal Data</u></a></li>
-<li><a href="https://win11.techidaily.com/introduction-to-windows-hello-for-fingerprint-recognition/"><u>Introduction to Windows Hello for Fingerprint Recognition</u></a></li>
-<li><a href="https://win11.techidaily.com/triggering-printer-commands-using-windows-11-edge-shield-mode/"><u>Triggering Printer Commands Using Windows 11 Edge Shield Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-precision-ditch-delays-top-fixes-for-bf2-players/"><u>Unleash Precision, Ditch Delays: Top Fixes for BF2 Players</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-signal-failures-windows-steam-fix-guide/"><u>Addressing Signal Failures: Windows Steam Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-unblocking-steam-when-playing-games/"><u>Essential Tips for Unblocking Steam When Playing Games</u></a></li>
-<li><a href="https://win11.techidaily.com/guarding-against-hidden-threats-in-these-7-windows-processes/"><u>Guarding Against Hidden Threats in These 7 Windows Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-brightness-function-key-not-working-in-windows-11/"><u>How to Fix the Brightness Function Key Not Working in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-accessing-and-opening-verifier-manager-w11/"><u>Guide: Accessing and Opening Verifier Manager W11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-6s-plus-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 6s Plus SIM Lock?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[New] From Bland to Brilliant  Elevate Your Images in Canva</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-camera-roll-to-feed-adding-photos-on-instagram/"><u>[Updated] 2024 Approved  From Camera Roll to Feed  Adding Photos on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevating-your-selfies-the-art-of-drawing-with-filters/"><u>2024 Approved  Elevating Your Selfies  The Art of Drawing with Filters</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-honor-magic-6-pro-phone-by-drfone-android/"><u>How to Reset a Locked Honor Magic 6 Pro Phone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/video-ventures-youtube-shorts-or-tiktok/"><u>Video Ventures  YouTube Shorts or TikTok?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ntle-bots-elevate-youtube-watch-time-for-2024/"><u>Dismantle Bots, Elevate YouTube Watch Time for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-best-10-free-srt-converter-apps-online/"><u>[New] Explore Best 10 Free Srt Converter Apps Online</u></a></li>
-</ul></div>

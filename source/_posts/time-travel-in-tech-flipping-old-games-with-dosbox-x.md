@@ -1,7 +1,7 @@
 ---
 title: "Time Travel in Tech: Flipping Old Games with DOSBox-X"
-date: 2024-06-25T10:28:33.413Z
-updated: 2024-06-26T10:28:33.413Z
+date: 2024-06-23 19:23:49
+updated: 2024-06-24 10:34:42
 tags:
   - windows10
   - windows11
@@ -169,30 +169,3 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
  Despite your PC being officially incompatible with such old software, with DOSBox-X, enjoying your retro-favorites in all their pixelated glory will be only one or two commands away!
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/how-to-reset-vmware-errors-on-windows-11/"><u>How to Reset VMware Errors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-repairing-disk-errors-issue-on-windows/"><u>How to Fix the Repairing Disk Errors Issue on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-actions-for-reviving-freeze-ups-on-resource-monitor-win11/"><u>Immediate Actions for Reviving Freeze-Ups on Resource Monitor, Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-dev-home-for-windows-11/"><u>What Is Dev Home for Windows 11?</u></a></li>
-<li><a href="https://win11.techidaily.com/end-of-windows-subsystem-preparing-for-androids-future/"><u>End of Windows Subsystem: Preparing For Android's Future</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-blue-screen-essential-fixes-for-win10/"><u>Troubleshoot Blue Screen: Essential Fixes for Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-missing-window-panes-with-win11-6-tips/"><u>Reclaiming Missing Window Panes with Win11 (6 Tips)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/elite-hd-visual-snapshot-solutions-for-2024/"><u>Elite HD Visual Snapshot Solutions for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-are-you-thinking-of-making-videos-and-marketing-on-instagram-here-is-everything-that-you-need-to-know-about-the-video-dimensions-for-instagram-l/"><u>New In 2024, Are You Thinking of Making Videos and Marketing on Instagram? Here Is Everything that You Need to Know About the Video Dimensions for Instagram. Lets Have a Look at It</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-breaking-the-ice-with-instagrams-interactive-audience-queries/"><u>[New] Breaking the Ice with Instagram's Interactive Audience Queries</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-advanced-techniques-in-xbox-gaming-recording-setup/"><u>[New] In 2024, Advanced Techniques in Xbox Gaming Recording Setup</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-discover-the-best-game-screens-for-xbox-and-playstation-for-2024/"><u>[New] Discover the Best Game Screens for Xbox & PlayStation for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-x7b-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor X7b.</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-religious-ringtones-for-daily-devotion-and-driving/"><u>[Updated] Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-windows-video-editing-adding-mind-blowing-3d-effects-made-easy/"><u>New Windows Video Editing Adding Mind-Blowing 3D Effects Made Easy</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-spinning-media-a-quick-guide-to-rotating-videos-in-vlc-for-2024/"><u>[Updated] Spinning Media  A Quick Guide to Rotating Videos in VLC for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

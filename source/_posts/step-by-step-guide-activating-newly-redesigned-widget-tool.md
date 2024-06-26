@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Newly Redesigned Widget Tool"
-date: 2024-06-25T10:19:10.094Z
-updated: 2024-06-26T10:19:10.094Z
+date: 2024-06-22 17:38:35
+updated: 2024-06-24 12:14:26
 tags:
   - windows10
   - windows11
@@ -65,34 +65,3 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
  The best part about the new Widgets picker experience is that you do not need to tweak anything in the Settings app to turn it on. The reason is that Microsoft has not made it optional: you can not turn it on or off. Besides the ability to preview a widget, there are plenty of exciting features in Windows 11 Widgets.
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/addressing-path-not-found-on-pc-networks/"><u>Addressing Path Not Found on PC Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-collective-windows-11-folder-making/"><u>Revolutionize File Management with Collective Windows 11 Folder Making</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-no-display-driver-found-on-windows-11/"><u>Overcoming No Display Driver Found on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-error-code-0xc00d36b4-in-windows-11/"><u>Troubleshooting Error Code 0xC00D36B4 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-insights-into-windows-booting-system-customization/"><u>Expert Insights Into Windows Booting System Customization</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-mkv-conversion-to-mp4-in-windows-systems/"><u>Simplifying MKV Conversion to MP4 in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-phones-capability-for-windows-recording/"><u>Streamline Phone's Capability for Windows Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-windows-10-and-11-apps-temp-and-forecast-picks/"><u>Prime Windows 10 & 11 Apps: Temp & Forecast Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-hidden-wi-fi-in-the-realm-of-windows-11/"><u>Resurrecting Hidden Wi-Fi in the Realm of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-disconnecting-printers-in-windows/"><u>Quick Fixes for Disconnecting Printers in Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nokia-130-music-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nokia 130 Music in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/affordable-aerial-cameras-top-picks-under-100-for-2024/"><u>Affordable Aerial Cameras  Top Picks Under $100 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2023s-quick-share-tweeted-videos-to-whatsapp/"><u>[New] 2023'S Quick Share  Tweeted Videos to WhatsApp</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-key-players-transforming-vr-landscape-for-2024/"><u>[New] Key Players Transforming VR Landscape for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/8-ways-to-live-stream-pre-recorded-video/"><u>8 Ways To Live Stream Pre-Recorded Video</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/in-2024-top-rated-online-image-resizing-tools-for-any-ratio/"><u>In 2024, Top-Rated Online Image Resizing Tools for Any Ratio</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-crazy-crews-top-10-unique-tiktok-games/"><u>2024 Approved  The Crazy Crew's Top 10 Unique TikTok Games</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-the-path-to-facebooks-exclusive-verified-marker/"><u>2024 Approved  Navigating the Path to Facebook's Exclusive Verified Marker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dial-up-the-impact-with-50-free-branding-graphics/"><u>[New] Dial Up the Impact with 50 FREE Branding Graphics!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lava-blaze-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lava Blaze Pro 5G Location | Dr.fone</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

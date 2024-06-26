@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflow: Mastering Window Commands & Shortcuts"
-date: 2024-06-25T10:17:37.708Z
-updated: 2024-06-26T10:17:37.708Z
+date: 2024-06-22 16:54:56
+updated: 2024-06-24 10:49:18
 tags:
   - windows10
   - windows11
@@ -138,34 +138,3 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/enabling-scripts-in-windows-quick-fixes-for-loading-powershell-failures/"><u>Enabling Scripts in Windows: Quick Fixes for Loading PowerShell Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-amd-195-error-in-windows-installations/"><u>Tackling AMD 195 Error in Windows Installations</u></a></li>
-<li><a href="https://win11.techidaily.com/why-the-shift-from-windows-10-to-version-11-fails/"><u>Why the Shift From Windows 10 to Version 11 Fails</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-gateway-command-windows-11s-appsunlocked/"><u>Unlock the Gateway: Command Windows 11'S AppsUnlocked</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-the-electrical-footprint-of-your-personal-windows-pc/"><u>Analyzing the Electrical Footprint of Your Personal Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-steps-before-factory-clearing-a-pc/"><u>Top 7 Steps Before Factory Clearing a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-silent-audio-during-powerpoint-presentations/"><u>Solutions to Silent Audio During PowerPoint Presentations</u></a></li>
-<li><a href="https://win11.techidaily.com/disentangle-clustered-taskbar-items-in-windows-11/"><u>Disentangle Clustered Taskbar Items in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-grant-write-access-for-steam-folders-in-win-11/"><u>Techniques to Grant Write Access for Steam Folders in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/taskbar-chat-disappearance-in-windows-11-what-it-entails-for-users/"><u>Taskbar Chat Disappearance in Windows 11: What It Entails for Users</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-audio-dynamics-in-motion-blending-auditory-data-with-kinetic-graphics-in-adobe-premiere-pros-environment/"><u>New In 2024, Audio Dynamics in Motion Blending Auditory Data with Kinetic Graphics in Adobe Premiere Pros Environment</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-10-free-online-video-loopers-to-loop-video/"><u>Updated Best 10 Free Online Video Loopers to Loop Video</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-perfecting-your-digital-identity-step-by-step-for-the-voxal-voice-changer/"><u>Updated Perfecting Your Digital Identity Step-by-Step for the Voxal Voice Changer</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-master-the-art-of-going-viral-tiktok-insider-hits/"><u>[Updated] Master the Art of Going Viral  TikTok Insider Hits</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/reaction-video-made-easy-unlock-the-power-of-filmora-for-2024/"><u>Reaction Video Made Easy Unlock the Power of Filmora for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-a18-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo A18 FRP Bypass</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-social-media-success-rising-through-the-facebook-leaderboard-for-2024/"><u>Unlocking Social Media Success  Rising Through the Facebook Leaderboard for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-perfect-your-technique-how-to-on-overwatch-audio-recordings/"><u>[New] In 2024, Perfect Your Technique  How-To on Overwatch Audio Recordings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/1717871913067-new-how-many-gb-is-a-24-hour-video/"><u>[New] How Many GB Is a 24-Hour Video?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-sources-instagram-pictures-inverse-search-guide/"><u>In 2024, Unveiling Sources  Instagram Pictures' Inverse Search Guide</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

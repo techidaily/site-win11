@@ -1,7 +1,7 @@
 ---
 title: Switching Notepad to Dark Mode on Windows 11+
-date: 2024-06-25T10:30:59.413Z
-updated: 2024-06-26T10:30:59.413Z
+date: 2024-06-22 22:33:14
+updated: 2024-06-24 10:40:11
 tags:
   - windows10
   - windows11
@@ -133,23 +133,3 @@ Follow these steps to proceed:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/quick-cure-for-windows-11s-slow-poke-problem/"><u>Quick Cure for Windows 11'S Slow Poke Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/esd-file-transformation-mastery-your-pathway-to-windows-iso-success/"><u>ESD File Transformation Mastery: Your Pathway to Windows ISO Success</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-white-screen-on-logging-into-win1011/"><u>Overcoming White Screen on Logging Into Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboardmouse-wake-issues-fix-for-win11-users/"><u>Keyboard/Mouse Wake Issues: Fix for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/winirq-fixing-killer-soundsystem-problems/"><u>WinIRQ: Fixing Killer Soundsystem Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/why-gamers-should-trust-windows-vision-and-performance/"><u>Why Gamers Should Trust Windows' Vision and Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-windows-11s-8-confusing-features/"><u>A Deep Dive Into Windows 11’S 8 Confusing Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-morphvox-mastery-complete-technique-collection/"><u>In 2024, MorphVOX Mastery  Complete Technique Collection</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-looking-for-ways-to-get-more-views-on-your-youtube-videos-an-appealing-and-interesting-thumbnail-can-work-as-an-effective-method-here/"><u>New In 2024, Looking for Ways to Get More Views on Your YouTube Videos? An Appealing and Interesting Thumbnail Can Work as an Effective Method Here</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-assessing-streaming-quality-vlc-versus-mx/"><u>In 2024, Assessing Streaming Quality  VLC versus MX</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-nolimitcapture-professional-win11-screen-recorders-for-2024/"><u>[Updated] NoLimitCapture - Professional Win11 Screen Recorders for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-narrative-blueprint-zone/"><u>In 2024, Premium Narrative Blueprint Zone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-top-5-mp3-cutters-online/"><u>Updated Top 5 MP3 Cutters Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/probing-the-depth-of-recmeisters-high-end-screen-capture-features/"><u>Probing the Depth of Recmeister's High-End Screen Capture Features</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[Updated] 2024 Approved  Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
-</ul></div>

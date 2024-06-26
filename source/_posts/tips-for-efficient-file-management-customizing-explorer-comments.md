@@ -1,7 +1,7 @@
 ---
 title: "Tips for Efficient File Management: Customizing Explorer Comments"
-date: 2024-06-25T10:09:18.678Z
-updated: 2024-06-26T10:09:18.678Z
+date: 2024-06-22 15:10:56
+updated: 2024-06-25 12:40:54
 tags:
   - windows10
   - windows11
@@ -82,33 +82,3 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/enabling-connection-to-unreachable-windows-11-printer/"><u>Enabling Connection to Unreachable Windows 11 Printer</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-gaming-displays-from-going-opaque-on-win-os/"><u>Preventing Gaming Displays From Going Opaque on WIN OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-detection-issues-with-razer-on-windows-11/"><u>Overcoming Device Detection Issues with Razer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-blue-screen-error/"><u>Strategies for Overcoming Blue Screen Error</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steam-backup-mishaps/"><u>Troubleshooting Steam Backup Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-your-recordings-best-free-windows-programs/"><u>Perfect Your Recordings: Best FREE Windows Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-unmatched-features-in-windows-10-why-its-superior-to-win11/"><u>The Unmatched Features in Windows 10: Why It's Superior to Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-webcam-shutdown/"><u>Strategies for Overcoming Webcam Shutdown</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-windows-update-error-0x8024800c/"><u>Solutions for Windows Update Error 0X8024800C</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-impact-strategies-for-growing-youtube-fans/"><u>[New] In 2024, Amplify Impact  Strategies for Growing YouTube Fans</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-discover-the-leading-voice-alteration-apps-for-your-android-device/"><u>In 2024, Discover the Leading Voice Alteration Apps for Your Android Device</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screenflow-showdown-the-top-video-editing-software-for-macos-users/"><u>[Updated] 2024 Approved  ScreenFlow Showdown  The Top Video Editing Software for macOS Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/crystalgrabber-deluxe-winos-for-2024/"><u>CrystalGrabber Deluxe - WinOS for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-2024-essentials-syncing-audio-and-video-for-smooth-edits/"><u>Updated Final Cut Pro X 2024 Essentials Syncing Audio and Video for Smooth Edits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-swiftly-stow-facebook-broadcasts-for-smartphonedesktop-users/"><u>2024 Approved  Swiftly Stow Facebook Broadcasts for Smartphone/Desktop Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-engaging-audiences-with-dynamic-and-attractive-snaps-for-2024/"><u>[Updated] Engaging Audiences with Dynamic and Attractive Snaps for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-x50-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor X50 to iPod | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/hot-list-igs-favorite-after-effects-themes/"><u>Hot List  IG's Favorite After Effects Themes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-crossing-into-a-shared-tiktok-space-easy-ways-for-2024/"><u>[New] Crossing Into a Shared TikTok Space  Easy Ways for 2024</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

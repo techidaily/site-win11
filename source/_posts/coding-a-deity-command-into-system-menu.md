@@ -1,7 +1,7 @@
 ---
 title: Coding a Deity Command Into System Menu
-date: 2024-06-25T10:17:54.998Z
-updated: 2024-06-26T10:17:54.998Z
+date: 2024-06-22 17:58:38
+updated: 2024-06-25 11:37:55
 tags:
   - windows10
   - windows11
@@ -78,31 +78,3 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
  Adding God Mode to your desktop’s context menu will enable you to access a plethora of Control Panel applets and tools within a single window in a couple of clicks. That will save you from rummaging through the Control Panel to find certain applets and settings when needed. Plus, you can make more essential Control Panel applets even more accessible by creating shortcuts for them from the Task View window.
 
  Many users activate God Mode by setting up desktop shortcuts that open the All Tasks window. However, you can instead add a **God Mode** option to the desktop’s context menu in Windows 11\. Then the All Tasks window will be directly accessible on your right-click menu. This is how you can add God Mode to Windows 11’s context menu.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-how-to-recover-lost-x-configuration/"><u>Unraveling the Mystery: How to Recover Lost X Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-tackle-invalid-profile-on-windows-11-systems/"><u>How to Tackle 'Invalid Profile' On Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-guide-reactivate-disabled-slack-notifications/"><u>Win 11 Guide: Reactivate Disabled Slack Notifications</u></a></li>
-<li><a href="https://win11.techidaily.com/the-7-best-encryption-apps-for-windows/"><u>The 7 Best Encryption Apps for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/key-steps-prior-to-starting-the-window-operating-system-renewal/"><u>Key Steps Prior to Starting the Window Operating System Renewal</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-your-footage-the-ultimate-selection-of-video-cutters-on-win11/"><u>Perfect Your Footage: The Ultimate Selection of Video Cutters on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-manipulate-windows-gpu-priority-settings/"><u>How to Manipulate Windows GPU Priority Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-techniques-windows-sandbox-lacks-hyprocvisor/"><u>Troubleshooting Techniques: Windows Sandbox Lacks Hyprocvisor</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/crafting-a-successful-vimeo-earning-model-a-comprehensive-guide-for-2024/"><u>Crafting a Successful Vimeo Earning Model – A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-top-rated-youtube-to-mp3-converters-for-anyone-for-2024/"><u>Updated The Top-Rated YouTube to MP3 Converters for Anyone for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-best-tools-to-extract-and-save-facebook-lite-videos/"><u>2024 Approved  Best Tools to Extract and Save Facebook Lite Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-calculating-earnings-the-essence-of-youtube-short-revenue-split-for-2024/"><u>[Updated] Calculating Earnings  The Essence of YouTube Short Revenue Split for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>[New] Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-defy-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Defy 2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-zte-axon-40-lite-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From ZTE Axon 40 Lite to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-play-8t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Play 8T Location Settings | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-10-best-listed-playlists-on-spotify/"><u>[Updated] 2024 Approved  10 Best-Listed Playlists on Spotify</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

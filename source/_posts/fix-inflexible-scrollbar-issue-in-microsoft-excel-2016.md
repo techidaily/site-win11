@@ -1,7 +1,7 @@
 ---
 title: Fix Inflexible Scrollbar Issue in Microsoft Excel 2016
-date: 2024-06-25T10:01:41.405Z
-updated: 2024-06-26T10:01:41.405Z
+date: 2024-06-23 16:43:45
+updated: 2024-06-25 12:54:54
 tags:
   - windows10
   - windows11
@@ -121,33 +121,3 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  When you work on large Excel spreadsheets, it is often necessary to scroll both horizontally and vertically in order to access and modify data. But what if you can’t scroll in Microsoft Excel with your mouse or keyboard on Windows?
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-winget-on-w11/"><u>Comprehensive Guide to Fixing Winget on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-windows-mouse-experience/"><u>Customize Your Windows Mouse Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xbox-play-network-errors-on-windows-1011-systems/"><u>Fixing Xbox Play Network Errors on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-resolving-non-operational-wsresetexe-in-windows/"><u>Troubleshooting: Resolving Non-Operational WSReset.exe in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-to-0x800713f-malfunction-in-windows-mail/"><u>Swift Solution to 0X800713F Malfunction in Windows Mail</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-unidentified-component-in-windows-lsass/"><u>Quick Fixes for Unidentified Component in Windows Lsass</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11-error-code-0x0000011b/"><u>Resolving Windows 11 Error Code: 0X0000011B</u></a></li>
-<li><a href="https://win11.techidaily.com/sync-chrome-and-pc-time-seamlessly-on-windows/"><u>Sync Chrome and PC Time Seamlessly on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-get-assistance-problems/"><u>Overcoming Windows 11 'Get Assistance' Problems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-japanese-pop-culture-in-every-frame-learn-to-use-snapchats-filters/"><u>[New] In 2024, Japanese Pop Culture in Every Frame  Learn to Use Snapchat's Filters</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>[New] IPhone HDR Masterclass  From Basics to Brilliance for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-premieres-export-woes-to-fix-srt-files/"><u>Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10plus-best-free-mkv-cutters/"><u>Updated 2024 Approved Top 10+ Best Free MKV Cutters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-future-of-advertising-in-the-metaverse-for-2024/"><u>[Updated] The Future of Advertising in the Metaverse for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigate-to-notoriety-on-facebook-with-10-effective-tactics/"><u>[Updated] Navigate to Notoriety on Facebook with 10 Effective Tactics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chucklecrafts-join-and-start-crafting-laughter-for-2024/"><u>ChuckleCrafts  Join and Start Crafting Laughter for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-art-of-instagram-post-scheduling/"><u>2024 Approved  Mastering the Art of Instagram Post Scheduling</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-content-creators-preferences-vimeo-or-youtube/"><u>[New] In 2024, Content Creators' Preferences  Vimeo or YouTube?</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Application Size Modification with Keys on Win11
-date: 2024-06-25T10:11:42.776Z
-updated: 2024-06-26T10:11:42.776Z
+date: 2024-06-23 19:19:51
+updated: 2024-06-26 11:13:12
 tags:
   - windows10
   - windows11
@@ -111,22 +111,3 @@ thumbnail: https://thmb.techidaily.com/cd1e74fabebf196dc1552bdaf9aa44383a4d9bcb2
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/enhancing-live-task-tracker-update-rate-in-windows-11/"><u>Enhancing Live Task Tracker Update Rate in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/rewind-records-key-tools-to-modify-files-creation-dates/"><u>Rewind Records: Key Tools to Modify File's Creation Dates</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-dual-camera-request-error-code-0xa00f4243/"><u>Dealing with Dual Camera Request Error (Code 0xA00F4243)</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedy-restore-registry-management-functions/"><u>Quick Remedy: Restore Registry Management Functions</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-identifying-high-space-usage-windows/"><u>Effective Strategies for Identifying High-Space Usage Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-mouse-pointer-prominence-in-windows-11/"><u>Enhancing Mouse Pointer Prominence in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-app-install-failure-on-microsofts-marketplace/"><u>Addressing App Install Failure on Microsoft's Marketplace</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-hacking-the-art-of-high-quality-twitch-video-captures/"><u>[Updated] In 2024, Hacking the Art of High-Quality Twitch Video Captures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-refined-approaches-from-obs-studio-to-facebook-screenshots-for-2024/"><u>[New] Refined Approaches  From OBS Studio to Facebook Screenshots for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-5-winter-youtube-background-ideas-to-warm-up-your-videos/"><u>[New] 5 Winter YouTube Background Ideas to Warm Up Your Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revolutionize-your-facecam-video-experience/"><u>[Updated] 2024 Approved  Revolutionize Your Facecam Video Experience</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-s-best-free-video-compression-solutions-for-windows-10-users/"><u>Updated S Best Free Video Compression Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-scaling-on-mac-for-perfect-instagram-posts-for-2024/"><u>[New] Mastering Video Scaling on Mac for Perfect Instagram Posts for 2024</u></a></li>
-</ul></div>

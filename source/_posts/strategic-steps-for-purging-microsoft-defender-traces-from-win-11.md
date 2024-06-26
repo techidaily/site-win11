@@ -1,7 +1,7 @@
 ---
 title: Strategic Steps for Purging Microsoft Defender Traces From Win 11
-date: 2024-06-25T09:53:09.746Z
-updated: 2024-06-26T09:53:09.746Z
+date: 2024-06-21 16:57:11
+updated: 2024-06-24 10:37:15
 tags:
   - windows10
   - windows11
@@ -104,31 +104,3 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
  If you ever want to clear Defender Protection History, you know how easy it is to do it through any of the four ways discussed above. If you would want to refer to the Protection History logs later, you can use the Save and Clear option while clearing Protection History using Event Viewer.
 
  Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-recurring-anydesk-errors-on-windows/"><u>Unraveling the Mysteries of Recurring AnyDesk Errors on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-fbm-hiccups-today/"><u>Swiftly Solve Your Windows FBM Hiccups Today</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-error-0x0000004e-on-win11-devices/"><u>Remedying Error 0X0000004E on Win11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/7-w11-ui-aspects-that-seem-out-of-place/"><u>7 W11 UI Aspects That Seem Out of Place</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-insights-into-os-upgrade-schedules-and-methods/"><u>Essential Insights Into OS Upgrade Schedules & Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-microsoft-edge-speeding-tips-for-windows-1011/"><u>Boosting Microsoft Edge: Speeding Tips for Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-with-linux-the-windows-integration-edge/"><u>Winning with Linux: The Windows Integration Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-errors-with-proper-use-of-winservicesexe/"><u>Avoiding Errors with Proper Use of Winservices.exe</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-prime-authors-draft-platform-for-2024/"><u>[Updated] Prime Author's Draft Platform for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-8-steps-in-recording-and-archiving-computer-audio/"><u>Top 8 Steps in Recording and Archiving Computer Audio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-the-key-elements-that-make-your-product-unboxings-stellar/"><u>2024 Approved  How-To  The Key Elements That Make Your Product Unboxings Stellar</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-hidden-gems-top-tips-for-savvy-users-for-2024/"><u>[New] Instagram Hidden Gems  Top Tips for Savvy Users for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dailymotion-vs-youtube-who-earns-more-from-video-content/"><u>In 2024, Dailymotion vs YouTube  Who Earns More From Video Content?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-photographers-resource-efficient-online-photo-cropping/"><u>In 2024, The Photographer's Resource  Efficient Online Photo Cropping</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-use-hashtags-on-instagram-for-2024/"><u>[New] How to Use Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-focus-on-yourself-insta-stylezoom-techniques-explained/"><u>2024 Approved  Focus on Yourself  Insta Style—Zoom Techniques Explained</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-art-of-storytelling-creating-compelling-slideshows-in-final-cut-pro/"><u>New 2024 Approved The Art of Storytelling Creating Compelling Slideshows in Final Cut Pro</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Craft Command Capabilities for the Windowed World
-date: 2024-06-25T10:23:44.800Z
-updated: 2024-06-26T10:23:44.800Z
+date: 2024-06-22 23:38:45
+updated: 2024-06-25 10:49:52
 tags:
   - windows10
   - windows11
@@ -78,31 +78,3 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
  Adding God Mode to your desktop’s context menu will enable you to access a plethora of Control Panel applets and tools within a single window in a couple of clicks. That will save you from rummaging through the Control Panel to find certain applets and settings when needed. Plus, you can make more essential Control Panel applets even more accessible by creating shortcuts for them from the Task View window.
 
  Many users activate God Mode by setting up desktop shortcuts that open the All Tasks window. However, you can instead add a **God Mode** option to the desktop’s context menu in Windows 11\. Then the All Tasks window will be directly accessible on your right-click menu. This is how you can add God Mode to Windows 11’s context menu.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-ftdibussys-and-windows-memory-standards/"><u>Unlocking the Secrets of ftdibus.sys & Windows Memory Standards</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-control-set-active-hours-to-avoid-surprises-on-windows-11/"><u>Cutting Edge Control: Set Active Hours to Avoid Surprises on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-and-manage-windows-11-writable-components/"><u>Explore and Manage Windows 11' Writable Components</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-data-flow-optimize-your-windows-11-hdd/"><u>Mastering Data Flow: Optimize Your Windows 11 HDD</u></a></li>
-<li><a href="https://win11.techidaily.com/shining-up-dull-desktops-with-vibrant-colors/"><u>Shining Up Dull Desktops with Vibrant Colors</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-world-google-map-powerhouse/"><u>Microsoft World, Google Map Powerhouse</u></a></li>
-<li><a href="https://win11.techidaily.com/studio-2-unleashed-microsofts-near-perfect-creator-tool/"><u>Studio 2 Unleashed: Microsoft's Near-Perfect Creator Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11-essential-steps-for-using-dev-drive/"><u>Navigating Windows 11: Essential Steps for Using Dev Drive</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mycam-review-a-step-toward-future-proofing-your-videos/"><u>MyCam Review  A Step Toward Future-Proofing Your Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-mastering-ez-grabber/"><u>[New] 2024 Approved  Step-by-Step Guide  Mastering EZ Grabber</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-basic-capture-tool-windows-10-screen-recorder/"><u>2024 Approved  Basic Capture Tool  Windows 10 Screen Recorder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>2024 Approved  Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/party-pulse-perfect-dj-content-for-events-for-2024/"><u>Party Pulse  Perfect DJ Content for Events for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-transformation-unleash-potential-with-tubebuddy/"><u>2024 Approved  Channel Transformation  Unleash Potential with TubeBuddy</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-4k-video-editing-without-breaking-the-bank-free-options/"><u>New 2024 Approved Unlock 4K Video Editing without Breaking the Bank Free Options</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Poco C65? | Dr.fone</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

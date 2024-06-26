@@ -1,7 +1,7 @@
 ---
 title: Augment Windows Taskbar with Numeric Key & Caps Indicator Symbols
-date: 2024-06-25T09:41:21.162Z
-updated: 2024-06-26T09:41:21.162Z
+date: 2024-06-22 17:44:57
+updated: 2024-06-25 12:59:41
 tags:
   - windows10
   - windows11
@@ -102,30 +102,3 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/how-to-tackle-windows-error-0xc0000001-efficiently/"><u>How To Tackle Windows Error 0xC0000001 Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-edge-and-keep-your-system-clean-w11/"><u>Eliminate Edge and Keep Your System Clean (W11)</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-group-policy-management-in-windows-108/"><u>Simplifying Group Policy Management in Windows 10/8</u></a></li>
-<li><a href="https://win11.techidaily.com/basics-on-windows-exepe-files-an-overview/"><u>Basics on Windows EXE/PE Files: An Overview</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-the-impact-do-widgets-streamline-win-11s-usage/"><u>Assessing the Impact: Do Widgets Streamline Win 11'S Usage?</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenating-inactive-recycle-bin-icon-on-win11/"><u>Rejuvenating Inactive Recycle Bin Icon on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/discuss-the-limits-of-cultural-relativism-when-might-it-be-challenging-or-problematic-to-apply/"><u>Discuss the Limits of Cultural Relativism: When Might It Be Challenging or Problematic to Apply?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-navigating-education-beyond-video-lessons-for-2024/"><u>[Updated] Navigating Education Beyond Video Lessons for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2023-how-to-share-twitter-videos-on-facebook-in-2024/"><u>2023 | How to Share Twitter Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12r-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12R Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-and-tricks-for-locating-recent-videos-youve-liked/"><u>2024 Approved  Tips & Tricks for Locating Recent Videos You've Liked</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-convert-srt-to-docx/"><u>Updated In 2024, How to Convert SRT to DOCX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-definitive-rankings-best-microphones-for-podcasters/"><u>The Definitive Rankings  Best Microphones for Podcasters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-vlc-experience-best-practices-for-macos/"><u>Streamline Your VLC Experience  Best Practices for MacOS</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>

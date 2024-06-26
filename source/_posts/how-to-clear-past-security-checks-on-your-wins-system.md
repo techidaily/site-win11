@@ -1,7 +1,7 @@
 ---
 title: How to Clear Past Security Checks on Your Wins System
-date: 2024-06-25T09:53:00.427Z
-updated: 2024-06-26T09:53:00.427Z
+date: 2024-06-25 20:46:56
+updated: 2024-06-26 11:48:10
 tags:
   - windows10
   - windows11
@@ -104,31 +104,3 @@ thumbnail: https://thmb.techidaily.com/5a94426a32501655e657a3254c012c85eb00e68b9
  If you ever want to clear Defender Protection History, you know how easy it is to do it through any of the four ways discussed above. If you would want to refer to the Protection History logs later, you can use the Save and Clear option while clearing Protection History using Event Viewer.
 
  Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/efficient-installation-of-ai-tools-in-windows/"><u>Efficient Installation of AI Tools in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-uninterrupted-youtube-streaming-on-chrome/"><u>Ensuring Uninterrupted YouTube Streaming on Chrome</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-pc-from-the-windows-11-compatibility-shackles/"><u>Unlocking Your PC From the Windows 11 Compatibility Shackles</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-absence-of-rockalldll-in-windows-os/"><u>Fixes for Absence of Rockalldll in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-dxgierrordeviceremoved-in-win-10-and-11/"><u>Handling DXGI_ERROR_DEVICE_REMOVED in Win 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-stop-background-programs/"><u>Mastering Window 11: Stop Background Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/stabilizing-clicks-avoid-accelerated-movement-in-win-1011/"><u>Stabilizing Clicks: Avoid Accelerated Movement in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-white-screen-on-logging-into-win1011/"><u>Overcoming White Screen on Logging Into Win10/11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>2024 Approved  Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/hasty-habits-presentation-file-recording/"><u>Hasty Habits  Presentation File Recording</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-adding-free-soundtracks-to-your-pictures-tips-for-computers-and-smartphones/"><u>In 2024, Adding Free Soundtracks to Your Pictures Tips for Computers & Smartphones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nokia-c22-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nokia C22</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hues-in-harmony-the-process-of-film-coloring/"><u>In 2024, Hues in Harmony  The Process of Film Coloring</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-2022-olympic-sprint-ice-key-moments-and-winners/"><u>In 2024, 2022 Olympic Sprint Ice  Key Moments and Winners</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-impressive-3d-beginnings-on-youtube-for-2024/"><u>Creating Impressive 3D Beginnings on YouTube for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-excellent-audio-editing-software-replacements-for-audacity/"><u>New In 2024, Excellent Audio Editing Software Replacements for Audacity</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
