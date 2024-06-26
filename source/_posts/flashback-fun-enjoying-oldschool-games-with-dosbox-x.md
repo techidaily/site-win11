@@ -1,7 +1,7 @@
 ---
 title: "Flashback Fun: Enjoying Oldschool Games with DOSBox-X"
-date: 2024-06-23 11:24:17
-updated: 2024-06-25 11:14:51
+date: 2024-06-25T09:52:59.490Z
+updated: 2024-06-26T09:52:59.490Z
 tags:
   - windows10
   - windows11
@@ -169,3 +169,34 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
  Despite your PC being officially incompatible with such old software, with DOSBox-X, enjoying your retro-favorites in all their pixelated glory will be only one or two commands away!
 
  Still, many older games are worth your time, for they're not "relics" but "classics". Titles like Syndicate and the original X-Com look and sound crude compared to today's games. Still, their addictive gameplay can give a lesson even to most modern triple-A titles. And the only way to play them is with software like DOSBox-X.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/reclaiming-the-lost-startup-window-in-windows/"><u>Reclaiming the Lost Startup Window in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10plus-users-unlocking-the-secrets-of-your-ram-type/"><u>Windows 10+ Users: Unlocking the Secrets of Your RAM Type</u></a></li>
+<li><a href="https://win11.techidaily.com/paint-your-thoughts-desktop-design-mastery-in-windows/"><u>Paint Your Thoughts: Desktop Design Mastery in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-and-cost-free-windows-password-gen-options-listed/"><u>Secure & Cost-Free Windows Password Gen Options Listed</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-hidden-login-screens-in-windows-11/"><u>Eradicating Hidden Login Screens in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-9-reasons-to-favor-pc-computing-over-macos/"><u>The Top 9 Reasons to Favor PC Computing Over MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/conducting-harmonious-auditory-performance-in-windows/"><u>Conducting Harmonious Auditory Performance in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-missing-component-in-windows-lsassexe/"><u>Handling Missing Component in Windows' lsass.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-your-pcs-touchpad-gestures/"><u>Regaining Control Over Your PC's Touchpad Gestures</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-unresponsive-mail-alerts-on-windows-11/"><u>How to Overcome Unresponsive Mail Alerts on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/harmonizing-soundscapes-advanced-techniques-for-audio-normalization-in-davinci-resolve-for-2024/"><u>Harmonizing Soundscapes Advanced Techniques for Audio Normalization in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-strategies-for-optimal-ram-in-the-world-of-minecraft/"><u>[New] In 2024, Strategies for Optimal RAM in the World of Minecraft</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-discussions-for-regular-streaming/"><u>[New] 2024 Approved  Dynamic Discussions for Regular Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ideal-starting-point-uncomplicated-gaming-edits-tools/"><u>In 2024, The Ideal Starting Point  Uncomplicated Gaming Edits Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-11r-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 11R Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ioss-best-ps2-emulation-software-guide/"><u>[New] 2024 Approved  IOS’s Best PS2 Emulation Software Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a38-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A38 Is Unlocked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spotlight-on-shared-screen-space/"><u>[Updated] Spotlight on Shared Screen Space</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-6-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 6 Apple ID and Apple Pay</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

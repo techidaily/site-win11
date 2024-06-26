@@ -1,7 +1,7 @@
 ---
 title: Windows Revenue Strategies for Microsoft's Profits
-date: 2024-06-24 22:38:36
-updated: 2024-06-26 10:44:21
+date: 2024-06-25T10:02:07.875Z
+updated: 2024-06-26T10:02:07.875Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ## 1\. Microsoft Earns Money by Selling Windows 11 Licenses
 
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-device.jpg)
+![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-start-menu.jpg)
+![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
 
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
@@ -91,3 +91,33 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/exploiting-windows-software-in-linux-sphere/"><u>Exploiting Windows Software in Linux Sphere</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-access-to-system-fixes-windows-10-and-11-key-setups/"><u>Strategic Access to System Fixes: Windows 10 & 11 Key Setups</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-unresponsive-mail-alerts-on-windows-11/"><u>How to Overcome Unresponsive Mail Alerts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-resurrect-inactive-windows-email-rule-configurations/"><u>Methods to Resurrect Inactive Windows Email Rule Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inaccessible-remove-functionality-on-windows-11-os/"><u>Fixing Inaccessible Remove Functionality on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-fixes-for-stuck-game-resolutions-in-windows/"><u>Insightful Fixes for Stuck Game Resolutions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/determining-the-ideal-nearby-networking-method-google-vs-windows/"><u>Determining the Ideal Nearby Networking Method: Google Vs. Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-app-size-metrics-in-windows/"><u>Navigating Through App Size Metrics in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a15-4g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A15 4G Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dispelling-darkness-enhancing-youtube-views/"><u>Dispelling Darkness, Enhancing Youtube Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-score-the-biggest-bargains-on-mystery-boxes-websites/"><u>2024 Approved  Score the Biggest Bargains on Mystery Boxes Websites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effortless-strategies-to-detect-duplicate-and-phony-likes/"><u>Effortless Strategies to Detect Duplicate and Phony Likes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-breaking-the-mold-with-original-tiktok-profile-photos/"><u>2024 Approved  Breaking the Mold with Original TikTok Profile Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-accessory-hits-for-sj-series-drivers/"><u>2024 Approved  Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-many-episodes-to-keep-listeners-hooked-for-2024/"><u>How Many Episodes to Keep Listeners Hooked for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-nikon-j5s-4k-capability/"><u>[New] The Ultimate Guide to Nikon J5's 4K Capability</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-audience-reach-twitch-livest-writes-for-youtube/"><u>In 2024, Maximizing Audience Reach  Twitch Livest Writes for YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigate-through-group-sharing-options-on-messenger-for-2024/"><u>[New] Navigate Through Group Sharing Options on Messenger for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

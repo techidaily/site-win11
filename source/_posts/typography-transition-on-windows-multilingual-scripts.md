@@ -1,7 +1,7 @@
 ---
 title: "Typography Transition on Windows: Multilingual Scripts"
-date: 2024-06-24 12:49:37
-updated: 2024-06-25 10:30:31
+date: 2024-06-25T10:26:56.295Z
+updated: 2024-06-26T10:26:56.295Z
 tags:
   - windows10
   - windows11
@@ -64,3 +64,23 @@ Once the fonts are downloaded, you can close the Control Panel.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-end-non-registered-user-sessions-on-windows-11/"><u>A Step-by-Step Guide to End Non-Registered User Sessions on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/wsl-contribution-to-linux-user-growth/"><u>WSL Contribution to Linux User Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-read-only-folders-a-step-by-step-guide/"><u>Unlocking Read-Only Folders: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-access-to-steam-remote-play/"><u>Winning Back Access to Steam Remote Play</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-device-discovery-razer-and-windows-11-compatibility/"><u>Unlocking Device Discovery: Razer and Windows 11 Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-disable-protected-app-ban-on-windows/"><u>Steps to Disable Protected App Ban on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-app-hiccup-geforce-x0001/"><u>Overcoming Windows 11 App Hiccup: GeForce X0001</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-for-macos-sierra-rollback-to-os-x-el-capitan-for-2024/"><u>Steps for MacOS Sierra Rollback to OS X El Capitan for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-steps-to-sensational-surprise-revelation/"><u>7 Steps to Sensational Surprise Revelation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-online-video-saving-tools-reviewed-and-ranked/"><u>In 2024, Best Online Video Saving Tools Reviewed & Ranked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ct-your-yt-thumbnails-with-these-mac-tips-for-2024/"><u>Perfect Your YT Thumbnails with These Mac Tips for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-for-securing-top-tier-youtube-ad-campaigns-using-famebit-for-2024/"><u>[New] Expert Tips for Securing Top-Tier YouTube Ad Campaigns Using FameBit for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-most-liked-twitter-videos/"><u>[Updated] 2024 Approved  The Most Liked Twitter Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-elite-compilation-9-online-mic-recorders-ranked/"><u>In 2024, The Elite Compilation  9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nubia-red-magic-8s-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nubia Red Magic 8S Pro? Try These Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-infuse-life-into-phototext-with-3d-effects-for-2024/"><u>How to Infuse Life Into PhotoText with 3D Effects for 2024</u></a></li>
+</ul></div>

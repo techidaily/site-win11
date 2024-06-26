@@ -1,7 +1,7 @@
 ---
 title: The Silent Whisperer Guide to Win11 Menu Hiding
-date: 2024-06-22 11:44:40
-updated: 2024-06-25 11:22:44
+date: 2024-06-25T10:26:55.367Z
+updated: 2024-06-26T10:26:55.367Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,31 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/streamlining-git-operations-with-github-desktop-and-windows-1011/"><u>Streamlining Git Operations with GitHub Desktop & Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-browsing-post-windows-installation/"><u>Effortless Browsing Post-Windows Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-for-setting-windows-backups-against-original-standards/"><u>Instructions for Setting Windows Backups Against Original Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-computing-redeemed-by-atlasos/"><u>Classic Computing Redeemed by AtlasOS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-absence-of-printmanagement-on-your-system/"><u>Remedying the Absence of 'Printmanagement' On Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/maxing-out-melodies-best-5-apps-for-boosting-windows-audio-by-100plus/"><u>Maxing Out Melodies: Best 5 Apps for Boosting Windows' Audio By 100%%+</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-9-methods-for-altering-windows-sound-settings/"><u>Unlock 9 Methods for Altering Windows Sound Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-password-guardians-revolutionizing-windows-11-life/"><u>Leading Password Guardians Revolutionizing Windows 11 Life</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside/"><u>In 2024, Dive Deep Into the World of Facebook Story Creation  Expert Advice Inside</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-see-who-unfollowed-you-on-instagram/"><u>[Updated] In 2024, How to See Who Unfollowed You On Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-manual-for-extracting-hd-from-facebook/"><u>2024 Approved  The Ultimate Manual for Extracting HD From Facebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-leading-sources-for-easy-access-to-whoosh-soundscapes-and-their-uses/"><u>2024 Approved The Leading Sources for Easy Access to Whoosh Soundscapes and Their Uses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-discover-the-best-free-video-editing-tools-for-gamers/"><u>New In 2024, Discover the Best Free Video Editing Tools for Gamers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-silence-the-rhythm-an-expert-approach-to-drum-free-song-editing-online/"><u>Updated 2024 Approved Silence the Rhythm An Expert Approach to Drum-Free Song Editing Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-barriers-innovative-ways-to-hook-your-podcast-audience/"><u>[Updated] Breaking Barriers  Innovative Ways to Hook Your Podcast Audience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

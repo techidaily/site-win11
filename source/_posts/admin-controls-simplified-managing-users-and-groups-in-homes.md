@@ -1,7 +1,7 @@
 ---
 title: "Admin Controls Simplified: Managing Users & Groups in Homes"
-date: 2024-06-21 18:55:12
-updated: 2024-06-24 11:21:33
+date: 2024-06-25T09:53:54.472Z
+updated: 2024-06-26T09:53:54.472Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,33 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-settings-for-better-device-control/"><u>Navigating Windows 11 Settings for Better Device Control</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-your-guard-easy-steps-to-making-family-safe-work-again/"><u>Mend Your Guard: Easy Steps to Making Family Safe Work Again</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-change-your-windows-11-username/"><u>Steps to Change Your Windows 11 Username</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-networking-essentials-managing-arp-cache/"><u>Windows Networking Essentials: Managing ARP Cache</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-past-windows-0x80242016-update-fails/"><u>Navigating Past Windows' 0X80242016 Update Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/expressive-ideas-on-a-canvas-direct-drawing-in-windows-11/"><u>Expressive Ideas on a Canvas: Direct Drawing in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fingerprint-fiasco-can-you-still-count-on-windows-hello/"><u>Fingerprint Fiasco: Can You Still Count on Windows Hello?</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-9-methods-to-access-and-tweak-windows-sound-settings/"><u>Learn 9 Methods to Access and Tweak Windows Sound Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-windows-cameras-troubles-with-saves/"><u>Taming Windows Camera's Troubles with Saves</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-virtual-venue-vaults-download-edition/"><u>[New] In 2024, Virtual Venue Vaults - Download Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>2024 Approved  Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/top-free-dj-beats-downloads-site-for-2024/"><u>Top Free DJ Beats Downloads Site for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-exporting-frames-as-images-in-windows-10-photos-viewer/"><u>In 2024, Exporting Frames as Images in Windows 10 Photos Viewer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-huawei-nova-y71-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Huawei Nova Y71.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-mac-screen-capture-tools-for-2024/"><u>[New] Best Mac Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>In 2024, Supercharge Your Video Subtitling  Explore Leading Internet Tools Today</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-15-best-free-mp4-video-rotators-windowsmac-android-iphone-and-online/"><u>In 2024, 15 Best Free MP4 Video Rotators Windows,Mac， Android, iPhone & Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-share-and-post-like-a-pro-mastering-instagram-gif-uploads-4-step-method/"><u>In 2024, Share & Post Like a Pro  Mastering Instagram GIF Uploads (4-Step Method)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-conversion-youtube-to-written-format-for-2024/"><u>[New] Expert Conversion  YouTube to Written Format for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

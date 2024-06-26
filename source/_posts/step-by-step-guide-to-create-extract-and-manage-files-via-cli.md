@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Create, Extract and Manage Files via CLI
-date: 2024-06-21 20:29:12
-updated: 2024-06-24 11:20:43
+date: 2024-06-25T10:22:33.886Z
+updated: 2024-06-26T10:22:33.886Z
 tags:
   - windows10
   - windows11
@@ -100,3 +100,26 @@ You've successfully unzipped the file.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/advanced-scripting-techniques-upgraded-file-system-interactions/"><u>Advanced Scripting Techniques: Upgraded File System Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-photoshop-performance-issues/"><u>Streamlining Windows Photoshop Performance Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-terminal-reset-procedure-essentials/"><u>Win11 Terminal Reset Procedure Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-playable-media-error-xc10100bf/"><u>Overcoming Non-Playable Media Error XC10100BF</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-missing-file-updates-error-on-windows-error-code-0x80070003/"><u>Navigating Through Missing File Updates Error on Windows (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-source-of-windows-parse-error-0xc00ce556/"><u>Dissecting the Source of Windows' Parse Error 0xC00CE556</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-unlinking-saved-wi-fi/"><u>Win 11: Unlinking Saved Wi-Fi</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-not-found-the-ultimate-list/"><u>Overcoming Windows Not Found: The Ultimate List</u></a></li>
+<li><a href="https://win11.techidaily.com/6-tips-to-improve-your-wsl-2-docker-experience-on-windows/"><u>6 Tips to Improve Your WSL 2 Docker Experience on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-film-making-top-video-cameras/"><u>[New] Mastering Film Making  Top Video Cameras</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-rapid-response-guide-to-smooth-video-audio-incorporation-with-premiere-pro/"><u>Updated In 2024, Rapid-Response Guide to Smooth Video Audio Incorporation with Premiere Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-poco-f5-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Poco F5 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mind-maze-spectacle-exclusive-trivia-channel-line-up/"><u>2024 Approved  Mind Maze Spectacle  Exclusive Trivia Channel Line-Up</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-check-who-unfollowed-me-on-instagram/"><u>[New] In 2024, How to Check Who Unfollowed Me on Instagram?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fusionchannel-best-live-and-on-demand-tv-experience-2024/"><u>[New] FusionChannel  Best Live & On-Demand TV Experience, 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-high-definition-excellence-leading-the-recording-race/"><u>[New] High Definition Excellence  Leading the Recording Race</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-seamless-audio-isolation-from-videos-on-different-platforms-a-comprehensive-guide-windows-and-macos-iphoneipad-and-android-devices-new-editi/"><u>Updated In 2024, Seamless Audio Isolation From Videos on Different Platforms A Comprehensive Guide (Windows & macOS, iPhone/iPad & Android Devices - New Edition)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-profit-power-up-maximize-youtube-studio-dollars-across-platforms/"><u>[New] Profit Power-Up  Maximize YouTube Studio Dollars Across Platforms</u></a></li>
+</ul></div>

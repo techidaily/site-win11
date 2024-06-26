@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Functionality: Unveiling Hidden Context Menus in Win11"
-date: 2024-06-25 18:47:59
-updated: 2024-06-26 10:33:55
+date: 2024-06-25T09:59:21.459Z
+updated: 2024-06-26T09:59:21.459Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,30 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-dormant-screen-saver-configurations-in-windows/"><u>Revitalizing Dormant Screen Saver Configurations in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-travel-planning-apple-maps-and-windows/"><u>Streamlining Travel Planning: Apple Maps & Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/preempting-vagrant-start-issues-for-vms-on-win11os/"><u>Preempting Vagrant Start Issues for VMs on Win11OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windowsstore-directory-secrets-for-users/"><u>Unveiling WindowsStore Directory Secrets for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-retrieve-faded-bios-messages/"><u>Tips to Retrieve Faded BIOS Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/clean-slate-for-windows-users-generative-erase-wonders/"><u>Clean Slate for Windows Users: Generative Erase Wonders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y55s-5g-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y55s 5G (2023) Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hashtag-hype-unveiling-twitters-toptiktok-videos/"><u>[New] 2024 Approved  Hashtag Hype  Unveiling Twitter's #TopTikTok Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-5-viral-video-marketing-techniques-for-big-sellers-for-2024/"><u>New Best 5 Viral Video Marketing Techniques For Big Sellers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-which-video-sharing-platform-prevails-analyzing-igtv-vs-youtube/"><u>2024 Approved  Which Video Sharing Platform Prevails? Analyzing IGTV Vs. YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-what-is-the-best-mp4-cutter-for-youtuber-on-mac-in-2024/"><u>New What Is the Best MP4 Cutter for YouTuber on Mac, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/techniques-that-elevate-your-ppt-recording-experience-for-2024/"><u>Techniques that Elevate Your PPT Recording Experience for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-effortless-streams-screening-netflix-on-mac-professionally/"><u>2024 Approved  Effortless Streams  Screening Netflix on Mac Professionally</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-premier-volume-maximizers-for-windows-pcs-elevate-your-audio-experience-now-in-2024/"><u>New 10 Premier Volume Maximizers for Windows PCs - Elevate Your Audio Experience Now, In 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

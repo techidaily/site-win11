@@ -1,7 +1,7 @@
 ---
 title: Crafting Custom Audio Commands in the Latest Windows OS
-date: 2024-06-23 15:31:59
-updated: 2024-06-24 10:50:41
+date: 2024-06-25T10:28:44.639Z
+updated: 2024-06-26T10:28:44.639Z
 tags:
   - windows10
   - windows11
@@ -126,3 +126,31 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/surging-downloads-overcome-the-01kbs-stall-on-windows/"><u>Surging Downloads: Overcome the 0.1KB/S Stall on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-tactics-to-master-wsl-2-in-windows-environments/"><u>Top 5 Tactics to Master WSL 2 in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-0xa00f429f-camera-error-on-windows-devices/"><u>Troubleshooting 0xA00F429F Camera Error on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-installer-access-rights-shortcomings/"><u>Fixing Windows Installer Access Rights Shortcomings</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-maze-quickly-entering-windows-support-space/"><u>Avoiding the Maze: Quickly Entering Windows' Support Space</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-application-size-modification-with-keys-on-win11/"><u>Streamlining Application Size Modification with Keys on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/restart-windows-paper-processor/"><u>Restart Windows' Paper Processor</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-apps-to-monitor-win-os-temperatures/"><u>Ideal Apps to Monitor Win OS Temperatures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-your-instagram-content-with-effective-captioning/"><u>Enhance Your Instagram Content with Effective Captioning</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-realme-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Realme Network Unlock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-cinematic-content-with-precision-ratios/"><u>[Updated] Crafting Cinematic Content with Precision Ratios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-hidden-gems-secrets-on-locating-superb-insta-ringtunes-and-creating-noteworthy-chimes/"><u>[Updated] Exploring Hidden Gems  Secrets on Locating Superb Insta-Ringtunes & Creating Noteworthy Chimes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-paid-content-guide-mastering-membership-for-monetization/"><u>In 2024, YouTube Paid Content Guide  Mastering Membership for Monetization</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-free-video-editors-for-newbies-a-beginners-guide-for-2024/"><u>Updated Best Free Video Editors for Newbies A Beginners Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-respecting-musicians-rights-on-ig-for-2024/"><u>[Updated] The Ultimate Guide to Respecting Musicians' Rights on IG for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-video-trailer-creation-tools/"><u>Updated 2024 Approved Top Video Trailer Creation Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-mobile-writing-tools-for-iosandroid-images/"><u>2024 Approved  10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

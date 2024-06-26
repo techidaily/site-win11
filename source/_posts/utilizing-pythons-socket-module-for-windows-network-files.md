@@ -1,7 +1,7 @@
 ---
 title: Utilizing Python's Socket Module for Windows Network Files
-date: 2024-06-23 16:48:54
-updated: 2024-06-24 12:14:22
+date: 2024-06-25T10:12:47.064Z
+updated: 2024-06-26T10:12:47.064Z
 tags:
   - windows10
   - windows11
@@ -76,3 +76,24 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/8-ways-to-fix-windows-11-when-you-cant-rename-folders/"><u>8 Ways to Fix Windows 11 When You Can’t Rename Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-incorrectly-assigned-speaker-error-windows-style/"><u>Fixing Incorrectly Assigned Speaker Error, Windows Style</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cant-locate-powershell-console/"><u>What to Do When Windows Can't Locate PowerShell Console</u></a></li>
+<li><a href="https://win11.techidaily.com/7-w11-ui-aspects-that-seem-out-of-place/"><u>7 W11 UI Aspects That Seem Out of Place</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-rectifying-epic-games-logins/"><u>Quick Guide to Rectifying Epic Games Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/say-goodbye-to-clutter-windows-generative-erasure/"><u>Say Goodbye to Clutter: Windows' Generative Erasure</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-internal-sound-malfunctions-in-winaudacity-interface/"><u>Pinpointing Internal Sound Malfunctions in WinAudacity Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-update-experience-with-easy-fixes-here/"><u>Seamless Windows Update Experience With Easy Fixes Here</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/"><u>In 2024, Top-Rated Hand Drawing Animation Tools for Whiteboard Explainers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-xs-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone XS Stuck On Activation Lock?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-say-goodbye-to-shaky-footage-top-free-android-video-stabilizers/"><u>In 2024, Say Goodbye to Shaky Footage Top Free Android Video Stabilizers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-average-byte-gauge-for-a-24-hour-film/"><u>In 2024, Average Byte Gauge for a 24 Hour Film</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cultivating-a-brand-identity-youtube-visibility-without-spending-for-2024/"><u>Cultivating a Brand Identity  YouTube Visibility without Spending for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-pickings-exceptional-business-strategy-gaming/"><u>2024 Approved  Top Pickings  Exceptional Business Strategy Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-aerial-choices-for-high-quality-gopro-recordings/"><u>Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>2024 Approved  Crafting an Authentic Online Presence in the World of FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-eye-catching-instagram-story-previews/"><u>2024 Approved  Crafting Eye-Catching Instagram Story Previews</u></a></li>
+</ul></div>

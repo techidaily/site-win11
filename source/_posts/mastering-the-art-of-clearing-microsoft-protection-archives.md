@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Clearing Microsoft Protection Archives
-date: 2024-06-23 10:33:34
-updated: 2024-06-25 10:53:39
+date: 2024-06-25T09:45:45.137Z
+updated: 2024-06-26T09:45:45.137Z
 tags:
   - windows10
   - windows11
@@ -104,3 +104,33 @@ thumbnail: https://thmb.techidaily.com/2dd4d8c9b9a89a48c334c5f220a58a13ed27cebc6
  If you ever want to clear Defender Protection History, you know how easy it is to do it through any of the four ways discussed above. If you would want to refer to the Protection History logs later, you can use the Save and Clear option while clearing Protection History using Event Viewer.
 
  Though Protection History gets deleted after some time, you might want to have more control to clear it by yourself. So let's see how you can clear Protection History in four ways.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-windows-installer-errors-in-windows-10-and-11/"><u>Overcoming Windows Installer Errors in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-uniqueness-5-ways-to-avoid-local-name-clashes-on-windows/"><u>Secure Uniqueness: 5 Ways to Avoid Local Name Clashes on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-of-windows-11-is-ai-whether-you-like-it-or-not/"><u>The Future of Windows 11 Is AI, Whether You Like It or Not</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-installing-new-drivers-in-windows-11/"><u>Mastering the Art of Installing New Drivers in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-integrating-spotlight-images-into-wallpaper/"><u>Elevate Your Workspace: Integrating Spotlight Images Into Wallpaper</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-inability-to-remove-apps/"><u>Troubleshooting Windows' Inability to Remove Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/transformational-taskbar-update-windows-system-resources-in-view/"><u>Transformational Taskbar Update: Windows System Resources in View</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-freezing-clicks-your-action-plan-for-windows/"><u>Mend Freezing Clicks: Your Action Plan for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instant-verbal-to-written-conversion-for-nothing/"><u>[Updated] Instant Verbal to Written Conversion for Nothing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-screen-recording-tips-for-2024/"><u>[Updated] Best Screen Recording Tips for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-tribute-spotlight/"><u>[New] Vimeo Tribute Spotlight</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/when-order-falls-premium-lineup-of-best-zombie-games/"><u>When Order Falls  Premium Lineup of Best Zombie Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/recording-skype-calls-quick-guide-for-windows-and-mac-users/"><u>Recording Skype Calls - Quick Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-elite-twitters-shortlist-of-top-tiktok-hits-for-2024/"><u>[New] The Elite  Twitter's Shortlist of Top TikTok Hits for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-art-of-creating-soundtrack-enhanced-media-at-little-or-no-cost/"><u>New In 2024, The Art of Creating Soundtrack-Enhanced Media at Little or No Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-top-5-free-windows-screen-recorders-for-2024/"><u>Comprehensive Guide to Top 5 Free Windows Screen Recorders for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-best-in-class-racing-games-for-2024/"><u>The Ultimate Guide to Best-in-Class Racing Games for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-best-tools-and-websites-for-video-audio-enhancement-ranking-the-top-15-that-make-your-projects-sound-better-with-a-balanced-perspective./"><u>Updated In 2024, The Best Tools and Websites for Video Audio Enhancement Ranking the Top 15 that Make Your Projects Sound Better, with a Balanced Perspective</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

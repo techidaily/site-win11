@@ -1,7 +1,7 @@
 ---
 title: Crafting an Autonomous Windows Speech Transcription App with Whisper Aid
-date: 2024-06-22 19:33:16
-updated: 2024-06-24 11:19:57
+date: 2024-06-25T10:12:04.685Z
+updated: 2024-06-26T10:12:04.685Z
 tags:
   - windows10
   - windows11
@@ -251,3 +251,30 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/realigning-windows-error-solutions-for-efficiency/"><u>Realigning Windows Error Solutions for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-reasons-for-preserving-your-win-11-alerts/"><u>Discover the Reasons for Preserving Your Win 11 Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-your-pcs-core-generating-and-reviewing-data/"><u>Deciphering Your PC’s Core: Generating & Reviewing Data</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-synapse-seamlessly-on-windows-1110-systems/"><u>Reinstating Synapse Seamlessly on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-resolving-roblox-glitches-on-pc/"><u>Guidelines for Resolving Roblox Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audio-access-failures-in-audacity/"><u>Troubleshooting Audio Access Failures in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-exception-handling-error-in-windows-devices/"><u>How to Overcome Exception Handling Error in Windows Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-secrets-to-mastering-photosvideos-in-windows-11/"><u>[Updated] Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-path-to-your-facebook-status-video-archive/"><u>[New] Unveiling the Path to Your Facebook Status Video Archive</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unveiling-the-enthralling-realm-of-animated-entertainment-on-tiktok/"><u>[Updated] In 2024, Unveiling the Enthralling Realm of Animated Entertainment on TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-potential-with-informed-tagging-on-youtube/"><u>[New] Unleash Potential with Informed Tagging on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-gaming-chairs-on-a-shoestring-budget/"><u>[Updated] 2024 Approved  Top 5 Gaming Chairs on a Shoestring Budget</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-lyric-video-maker-showdown-free-vs-paid-services-reviewed/"><u>New In 2024, Lyric Video Maker Showdown Free vs Paid Services Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-quest-achieving-immaculate-upconversion-from-sdr-to-hdri-for-2024/"><u>The Ultimate Quest  Achieving Immaculate Upconversion From SDR to HDRI for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-motorola-moto-g04-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Moto G04 Unlock Without Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y100i | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

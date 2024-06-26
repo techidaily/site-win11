@@ -1,7 +1,7 @@
 ---
 title: How to Add Firewall Options for Blocking Software to Windows 11’S Context Menu
-date: 2024-06-22 19:27:36
-updated: 2024-06-24 11:12:16
+date: 2024-06-25T09:48:10.150Z
+updated: 2024-06-26T09:48:10.150Z
 tags:
   - windows10
   - windows11
@@ -88,3 +88,22 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/deciphering-the-role-and-usage-of-windows-component-services/"><u>Deciphering the Role & Usage of Windows Component Services</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-the-email-fault-caused-by-0x800713f-on-win11/"><u>Steps to Solve the Email Fault Caused by 0X800713F on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/toolbox-tutorial-windows-core-components-management/"><u>Toolbox Tutorial: Windows' Core Components Management</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-creativity-personalizing-windows-1011-screens/"><u>Unleash Creativity: Personalizing Windows 10/11 Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-maze-quickly-entering-windows-support-space/"><u>Avoiding the Maze: Quickly Entering Windows' Support Space</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-playable-media-error-xc10100bf/"><u>Overcoming Non-Playable Media Error XC10100BF</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-essentials-tiktoks-speed-up-functionality-for-2024/"><u>The Essentials  TikTok's Speed Up Functionality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-script-to-splendor-animating-effects-unbound/"><u>[Updated] 2024 Approved  From Script to Splendor  Animating Effects Unbound</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a38-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A38 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/high-fidelity-audio-tuning-prescriptions-for-modern-devices-for-2024/"><u>High-Fidelity Audio Tuning Prescriptions for Modern Devices for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-the-nuances-of-twitters-video-policies-for-2024/"><u>Navigating the Nuances of Twitter's Video Policies for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-exclude-unwanted-sounds-in-your-recordings-using-audacity/"><u>[New] In 2024, How to Exclude Unwanted Sounds in Your Recordings Using Audacity</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-detailed-tutorial-to-rotate-videos-in-cyberlink-powerdirector/"><u>Updated 2024 Approved Detailed Tutorial to Rotate Videos in Cyberlink PowerDirector</u></a></li>
+</ul></div>

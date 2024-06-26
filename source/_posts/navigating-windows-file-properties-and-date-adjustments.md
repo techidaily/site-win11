@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows File Properties and Date Adjustments
-date: 2024-06-24 16:34:39
-updated: 2024-06-26 10:55:56
+date: 2024-06-25T10:31:38.025Z
+updated: 2024-06-26T10:31:38.025Z
 tags:
   - windows10
   - windows11
@@ -113,3 +113,30 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  The problem is that sharing a file with your teacher or supervisor at work entails sharing all of this information, putting your job or grades at risk. To prevent this, you can modify these attributes.
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-package-registration-problems-in-windows-operating-system/"><u>Overcoming Package Registration Problems in Windows Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-windows-admin-imposed-setup-barriers/"><u>How to Tackle Windows 'Admin-Imposed' Setup Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-global-scripts-a-windows-font-guide/"><u>Unleashing Global Scripts: A Windows Font Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-photos-app-background-blur-feature-on-windows-11/"><u>How to Use the Photos App Background Blur Feature on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-cease-windows-11-alarms-and-notifications/"><u>Swiftly Cease Windows 11 Alarms and Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-non-disappearing-edge-shortcuts/"><u>Solutions for Non-Disappearing Edge Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-obstructions-a-guide-to-windows-11s-search-problems/"><u>Clearing Obstructions: A Guide to Windows 11'S Search Problems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-groundbreaking-8-android-video-call-services-more-than-four-for-2024/"><u>[Updated] Groundbreaking 8 Android Video Call Services, More Than Four for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>The Ultimate Stabilizer  Unmatched Smartphone Tracking</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-minimum-view-count-for-youtube-success-stories/"><u>In 2024, The Minimum View Count for YouTube Success Stories</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-sonic-synthesis-ranking-top-linux-audio-tools-for-free-and-premium-users-for-2024/"><u>New Sonic Synthesis Ranking Top Linux Audio Tools for Free and Premium Users for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-translate-compressed-files-into-subtitle-format-srt/"><u>In 2024, Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/navigating-skype-screen-sharing-during-home-office-workflows-for-2024/"><u>Navigating Skype Screen Sharing During Home Office Workflows for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-smart-ways-to-keep-tiktok-memories-on-your-mobile/"><u>2024 Approved  Smart Ways to Keep TikTok Memories on Your Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dish-to-screen-your-recipe-video-blueprint-for-2024/"><u>[New] Dish to Screen  Your Recipe Video Blueprint for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-constructing-coherent-youtube-video-sequences/"><u>[New] In 2024, Constructing Coherent YouTube Video Sequences</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

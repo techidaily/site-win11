@@ -1,7 +1,7 @@
 ---
 title: Unlock Advanced Backup Capabilities
-date: 2024-06-22 16:51:40
-updated: 2024-06-25 11:51:25
+date: 2024-06-25T10:30:15.506Z
+updated: 2024-06-26T10:30:15.506Z
 tags:
   - windows10
   - windows11
@@ -79,3 +79,33 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  The support for many commonly used archive formats is a welcome addition to the Windows OS. It will surely trim down the dependence on WinRar and other tools to some extent. But there are still plenty of use cases for archive manager software, like compressing files to other formats, adding passwords, and choosing compression methods and other options.
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-the-essentials-in-windows-photo-editing-keys/"><u>Mastering the Essentials in Windows Photo Editing Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-initial-load-issues-in-lol/"><u>Overcoming Initial Load Issues in LOL</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-windows-read-only-settings-easily/"><u>Changing Windows Read-Only Settings Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-windows-default-settings-on-reboot/"><u>Quick Tips for Windows Default Settings on Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-game-hub-error-code-0x800700e9-on-microsoft-devices/"><u>Resolving Game Hub Error Code 0X800700E9 on Microsoft Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/procedures-for-resolving-unresponsive-installation-on-windows-os/"><u>Procedures for Resolving Unresponsive Installation on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/excellent-pick-prime-photo-organizers-for-windows/"><u>Excellent Pick: Prime Photo Organizers For Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-fixes-resetting-windows-setup-post-reboot/"><u>Simple Fixes: Resetting Windows Setup Post-Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-clearing-microsoft-protection-archives/"><u>Mastering the Art of Clearing Microsoft Protection Archives</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-civi-3-disney-100th-anniversary-edition-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Civi 3 Disney 100th Anniversary Edition Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/snippet-spectacle-top-hashes-to-trigger-the-viral-spree-on-youtube-for-2024/"><u>Snippet Spectacle  Top Hashes to Trigger the Viral Spree on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>[New] In 2024, Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-premier-3-online-audio-amplification-apps-for-maximum-volume-control/"><u>Updated In 2024, Premier 3 Online Audio Amplification Apps for Maximum Volume Control</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-safely-increase-your-tiktok-supporters/"><u>[New] Safely Increase Your TikTok Supporters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/blueprint-to-top-notch-tiktok-marketing-mastery/"><u>Blueprint to Top-Notch TikTok Marketing Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-notable-creators-superior-insta-highlight-craftsmen/"><u>[Updated] In 2024, Notable Creators  Superior Insta Highlight Craftsmen</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-ignite-facebook-frenzy-key-techniques-unveiled/"><u>[New] In 2024, Ignite Facebook Frenzy  Key Techniques Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-redirect-macs-image-backup-to-new-folder-for-2024/"><u>[Updated] Redirect Mac's Image Backup to New Folder for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

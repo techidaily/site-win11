@@ -1,7 +1,7 @@
 ---
 title: Resolving INTERRUPT_EXCEPTION_NOT_HANDLED in W11 BSODs
-date: 2024-06-25 20:58:15
-updated: 2024-06-26 12:24:48
+date: 2024-06-25T10:12:30.741Z
+updated: 2024-06-26T10:12:30.741Z
 tags:
   - windows10
   - windows11
@@ -123,3 +123,23 @@ Here is what you need to do:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/resolving-sudden-freeze-and-blackout-with-steam/"><u>Resolving Sudden Freeze & Blackout with Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-full-screen-issues-in-sonic-adventure-on-windows-11/"><u>Winning Over Full-Screen Issues in Sonic Adventure on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-ascertaining-your-pcs-intel-core-gen/"><u>Techniques for Ascertaining Your PC's Intel Core Gen</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-batch-scripts-creating-windows-exes/"><u>Elevating Your Batch Scripts: Creating Windows EXEs</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-your-favorite-microsoft-store-for-windows-devices/"><u>Reinstate Your Favorite Microsoft Store for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-end-non-registered-user-sessions-on-windows-11/"><u>A Step-by-Step Guide to End Non-Registered User Sessions on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-collective-windows-11-folder-making/"><u>Revolutionize File Management with Collective Windows 11 Folder Making</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-lava-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Lava .</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-open-source-templates-transform-your-youtube-channel/"><u>In 2024, Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clash-of-shadows-and-lightning-black-vs-silver/"><u>Clash of Shadows and Lightning  BLACK vs SILVER</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-avoid-spending-discover-the-finest-free-mac-screen-recorders/"><u>2024 Approved  Avoid Spending  Discover the Finest Free Mac Screen Recorders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro with IMEI Code?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-practical-approach-to-creating-captivating-youtube-shorts-templates/"><u>[Updated] 2024 Approved  A Practical Approach to Creating Captivating YouTube Shorts Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>In 2024, Becoming a Metaverse Veteran  Top 7 Gadgets for the Experts</u></a></li>
+</ul></div>

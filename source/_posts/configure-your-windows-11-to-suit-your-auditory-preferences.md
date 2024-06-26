@@ -1,7 +1,7 @@
 ---
 title: Configure Your Windows 11 to Suit Your Auditory Preferences
-date: 2024-06-22 22:39:38
-updated: 2024-06-25 12:43:51
+date: 2024-06-25T10:22:06.376Z
+updated: 2024-06-26T10:22:06.376Z
 tags:
   - windows10
   - windows11
@@ -126,3 +126,30 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/unraveling-why-steam-cant-synch-files-in-pc-settings/"><u>Unraveling Why Steam Can't Synch Files in PC Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-fixes-resetting-windows-setup-post-reboot/"><u>Simple Fixes: Resetting Windows Setup Post-Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-high-res-display-settings-in-windows/"><u>Mastering High-Res Display Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unresponsive-task-issues-in-windows-os/"><u>Addressing 'Unresponsive Task' Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/busted-byteguardian-wait-weigh-your-worthiness/"><u>Busted ByteGuardian? Wait, Weigh Your Worthiness</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-obstructions-a-guide-to-windows-11s-search-problems/"><u>Clearing Obstructions: A Guide to Windows 11'S Search Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-launch-failures-fixing-windows-speech-recognition/"><u>Overcoming Launch Failures: Fixing Windows Speech Recognition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-pursuit-of-professional-clarity-unveiling-benqs-bl2711u-screen-tech/"><u>In Pursuit of Professional Clarity  Unveiling BenQ's BL2711U Screen Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-art-of-designing-smaller-images-thumbnails-explained/"><u>[New] 2024 Approved  The Art of Designing Smaller Images  Thumbnails Explained</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-techniques-for-color-correction-in-gopro/"><u>[Updated] 2024 Approved  Essential Techniques for Color Correction in GoPro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-androids-finest-10-movie-maker-apps-you-need-to-try/"><u>New Androids Finest 10 Movie Maker Apps You Need to Try</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/guesting-without-glitches-live-tiktok-conversations/"><u>Guesting Without Glitches  Live TikTok Conversations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-windows-11-video-editing-a-comprehensive-list-of-free-and-paid-solutions/"><u>New 2024 Approved Windows 11 Video Editing A Comprehensive List of Free and Paid Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

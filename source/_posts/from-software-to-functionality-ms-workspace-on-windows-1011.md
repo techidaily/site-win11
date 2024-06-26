@@ -1,7 +1,7 @@
 ---
 title: "From Software to Functionality: MS Workspace on Windows 10/11"
-date: 2024-06-22 14:43:22
-updated: 2024-06-25 10:59:36
+date: 2024-06-25T10:30:36.542Z
+updated: 2024-06-26T10:30:36.542Z
 tags:
   - windows10
   - windows11
@@ -72,3 +72,31 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-driver-loading-issues-in-the-latest-os/"><u>Overcoming Failed Driver Loading Issues in the Latest OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-personalize-wins-standard-cli-application/"><u>How To Personalize Win’s Standard CLI Application</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-code-0x800700e1-on-w10w11/"><u>Resolving Error Code: 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-connectivity-windows-11-and-mobile-devices-unite/"><u>Innovative Connectivity: Windows 11 & Mobile Devices Unite</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-unsigned-files-error-for-windows-1110/"><u>Bypassing Unsigned Files Error for Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-spooler-restart-methods-for-windows/"><u>Instant Spooler Restart Methods for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-window-11-apps-essential-tips/"><u>Fast-Track Window 11 Apps: Essential Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-look-unlocking-the-potential-of-m1-max-clip/"><u>2024 Approved  Inside Look  Unlocking the Potential of M1 Max Clip</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Itel P55 5G</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/seamless-creation-at-your-fingertips-selecting-androids-top-editors-for-2024/"><u>Seamless Creation at Your Fingertips  Selecting Android's Top Editors for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>[New] In 2024, Finding Peace in Patience  Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mac-users-check-your-hardware-for-big-sur/"><u>[New] Mac Users, Check Your Hardware for Big Sur</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>[Updated] 2024 Approved  Streamline Your Social Networking  Joining Instagram & Facebook Seamlessly</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

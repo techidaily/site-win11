@@ -1,7 +1,7 @@
 ---
 title: Getting Started with MSOffice on Win11 OS
-date: 2024-06-21 12:35:26
-updated: 2024-06-24 10:14:16
+date: 2024-06-25T10:04:49.962Z
+updated: 2024-06-26T10:04:49.962Z
 tags:
   - windows10
   - windows11
@@ -72,3 +72,34 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/winning-strategies-making-stagnant-batch-files-work-again/"><u>Winning Strategies: Making Stagnant Batch Files Work Again</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-esd-format-to-compatible-windows-isos/"><u>Transforming ESD Format to Compatible Windows ISOs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-writing-errors-for-files-in-windows-systems/"><u>Overcoming Writing Errors for Files in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tweak-controlled-chromeedge-configurations-for-work-computers/"><u>Steps to Tweak Controlled Chrome/Edge Configurations for Work Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-null-associated-app-error-on-windows-systems/"><u>Fixing Null Associated App Error on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-0xa00f429f-camera-error-on-windows-devices/"><u>Troubleshooting 0xA00F429F Camera Error on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-nonstop-teams-sign-ins-on-pc/"><u>Overcoming the Hurdle of Nonstop Teams Sign-Ins on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-file-properties-a-windowayers-manual/"><u>Fine-Tuning File Properties: A Window'ayer's Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-performance-managing-memory-usage-for-connected-services/"><u>Improving Performance: Managing Memory Usage for Connected Services</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-elevated-commands-always-access-terminal-as-admin/"><u>Mastering Elevated Commands: Always Access Terminal as Admin</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-8-superior-windows-video-call-apps-ranked/"><u>[New] In 2024, 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-ban-free-omegle-tactics-to-restore-profile-access/"><u>Updated Ban-Free Omegle Tactics to Restore Profile Access</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-gt-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix GT 10 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-transform-your-footage-how-to-add-stunning-effects-in-fcp-x-3-steps/"><u>New 2024 Approved Transform Your Footage How to Add Stunning Effects in FCP X (3 Steps)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-innovation-how-final-cut-x-shapes-your-tall-screen-footage/"><u>[Updated] In 2024, Instagram Innovation  How Final Cut X Shapes Your Tall-Screen Footage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-recording-with-these-obs-substitutes-ranked/"><u>[Updated] Streamline Your Recording with These OBS Substitutes Ranked</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-vivo-x100-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Vivo X100 Pro.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>In 2024, From Pixels to Power  The Ultra HD World of Samsung UE590</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

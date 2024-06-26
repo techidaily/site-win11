@@ -1,7 +1,7 @@
 ---
 title: How to Add Num, Caps, and Scroll Lock Key Indicators to Windows 11’S System Tray
-date: 2024-06-24 18:32:44
-updated: 2024-06-26 12:21:22
+date: 2024-06-25T10:31:28.696Z
+updated: 2024-06-26T10:31:28.696Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,33 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
  Even if your keyboard does have lock key lights, on-screen visual indicators are still an excellent addition to the system tray area of Windows.
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
+<li><a href="https://win11.techidaily.com/master-guide-winning-strategies-for-selecting-best-windows-emulators/"><u>Master Guide: Winning Strategies for Selecting Best Windows Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-playstation-services-on-pc-and-laptops/"><u>Quick Fixes for PlayStation Services on PC & Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-signal-failures-windows-steam-fix-guide/"><u>Addressing Signal Failures: Windows Steam Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-individual-gpo-settings-for-windows-users-1111-edition/"><u>Implementing Individual GPO Settings for Windows Users 11/11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-spirit-of-victory-a-steam-achievements-reset/"><u>Reviving the Spirit of Victory: A Steam Achievements Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-techniques-for-overcoming-media-app-issues-in-win11/"><u>Methodical Techniques for Overcoming Media App Issues in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-previewable-files-issue-in-outlook-for-personal-computers/"><u>Fixing Non-Previewable Files Issue in Outlook for Personal Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/stutter-no-more-essential-9-tips-to-ensure-fluid-video-on-pcs/"><u>Stutter No More: Essential 9 Tips to Ensure Fluid Video on PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-innovative-auditory-experiences-mastering-vocal-changes-in-tiktok-videos/"><u>[Updated] 2024 Approved  Innovative Auditory Experiences  Mastering Vocal Changes in TikTok Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-narzo-n53-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme Narzo N53 Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unearthing-8-youtube-platforms-with-stellar-rapid-rise/"><u>2024 Approved  Unearthing 8 YouTube Platforms with Stellar Rapid Rise</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-split-a-video-into-parts-on-all-platforms/"><u>How to Split a Video Into Parts on All Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-8-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 8</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-design-cartoon-images-with-the-best-tools/"><u>In 2024, Design Cartoon Images With the Best Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-step-by-step-creating-stunning-slow-motion-videos-on-tiktok/"><u>2024 Approved  Step-by-Step  Creating Stunning Slow Motion Videos on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vlcs-place-among-streaming-titans/"><u>VLC's Place Among Streaming Titans</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
