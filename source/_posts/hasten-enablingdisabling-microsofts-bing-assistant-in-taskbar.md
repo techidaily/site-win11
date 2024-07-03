@@ -1,7 +1,7 @@
 ---
 title: "Hasten Enabling/Disabling: Microsoft's Bing Assistant in Taskbar"
-date: 2024-06-25T11:28:55.985Z
-updated: 2024-06-26T11:28:55.985Z
+date: 2024-07-02T13:01:37.297Z
+updated: 2024-07-03T13:01:37.297Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
 ## How to Use Bing Chat AI
 
- Bing Chat was initially released as only a waitlist; it's now available publicly at Bing.com**.** You'll need a Microsoft account and the[latest version of Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) to access it. Once you have met these requirements, you can access Bing Chat in three ways.
+ Bing Chat was initially released as only a waitlist; it's now available publicly at Bing.com**.** You'll need a Microsoft account and the [latest version of Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) to access it. Once you have met these requirements, you can access Bing Chat in three ways.
 
  The first method is to launch Microsoft Edge and navigate to Bing.com using the search bar. Then, click the**Chat** option at the top to open Bing Chat.
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  The second method involves clicking the**Bing Chat icon** in the right sidebar (aka Edge copilot) of the Edge browser. The third method is through the Search on Taskbar for Windows 11\. However, this feature is disabled by default and needs to be manually enabled before use.
 
- Furthermore, some people don't use this feature. If you haven't tried it yet, you should[get started with the Windows 11 taskbar search bar](https://www.makeuseof.com/windows-11-taskbar-search/) .
+ Furthermore, some people don't use this feature. If you haven't tried it yet, you should [get started with the Windows 11 taskbar search bar](https://www.makeuseof.com/windows-11-taskbar-search/) .
 
 ![Edge copilot in right sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-copilot.jpg)
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  To enable the Bing Chat AI in the Taskbar search bar, follow these steps:
 
-1. Press the**Windows + I** hotkey to open the Settings app. If the key combination is not working, check out other ways to[open Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press the**Windows + I** hotkey to open the Settings app. If the key combination is not working, check out other ways to [open Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Choose**Privacy** **& security** from the left sidebar.
 3. Choose**Search permissions.**
 4. Enable the toggle under**Show search highlights.**  

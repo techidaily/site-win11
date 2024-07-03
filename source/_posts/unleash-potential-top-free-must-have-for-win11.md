@@ -1,7 +1,7 @@
 ---
 title: "Unleash Potential: Top Free Must-Have for Win11"
-date: 2024-06-25T11:33:39.978Z
-updated: 2024-06-26T11:33:39.978Z
+date: 2024-07-02T13:01:36.258Z
+updated: 2024-07-03T13:01:36.258Z
 tags:
   - windows10
   - windows11
@@ -50,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
  Microsoft PowerToys consists of a bunch of advanced utilities for Windows users. It is an essential utility that you must install on your new PC to do more with Windows 10 and 11.
 
- You can access all the features in the Tab mode. For example, the**Always on Top** feature lets you pin active windows on top in floating mode. Then there is an[Awake option to keep your PC awake indefinitely](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) , irrespective of your selected power plan. We covered this in more detail in our guide on[how to temporarily disable sleep mode on Windows](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) .
+ You can access all the features in the Tab mode. For example, the**Always on Top** feature lets you pin active windows on top in floating mode. Then there is an [Awake option to keep your PC awake indefinitely](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) , irrespective of your selected power plan. We covered this in more detail in our guide on [how to temporarily disable sleep mode on Windows](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) .
 
  You can also use it to perform keyboard mapping, some mouse customization, view shortcut guide for Windows apps and settings, a built-in Color Picker, and more.
 
- We have covered this utility in detail in our guide on[how to use Microsoft PowerToys for Windows 10 and 11](https://www.makeuseof.com/tag/windows-10-powertoys/) .
+ We have covered this utility in detail in our guide on [how to use Microsoft PowerToys for Windows 10 and 11](https://www.makeuseof.com/tag/windows-10-powertoys/) .
 
 **Download** :[Microsoft PowerToys](http://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) (Free)
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
  However, what makes ShareX the best screenshot tool is its image editing interface. You can access all the captured screenshots from its Task List. Then you can edit the screenshots and images to add blur effect, annotate, add text, visual counter, erase objects, and more.
 
- ShareX is free to use and free from any ads. It also supports GIF and screen recording. However, you cannot edit the screen recording in ShareX. For that, you can use any of the[best screen recording programs for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) that offer recording and editing features.
+ ShareX is free to use and free from any ads. It also supports GIF and screen recording. However, you cannot edit the screen recording in ShareX. For that, you can use any of the [best screen recording programs for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) that offer recording and editing features.
 
 **Download** :[ShareX](http://getsharex.com/) (Free)
 
@@ -158,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
 ![bitwarden windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bitwarden-windows-11.jpg)
 
- If you struggle to remember multiple passwords for different accounts, a password manager can take care of it. Bitwarden is an excellent password manager available on the web, browser, and desktop. If you use a different password Manager, such as LastPass, explore our[Bitwarden vs. LastPass comparison](https://www.makeuseof.com/bitwarden-vs-lastpass/) to see what makes Bitwarden a better alternative.
+ If you struggle to remember multiple passwords for different accounts, a password manager can take care of it. Bitwarden is an excellent password manager available on the web, browser, and desktop. If you use a different password Manager, such as LastPass, explore our [Bitwarden vs. LastPass comparison](https://www.makeuseof.com/bitwarden-vs-lastpass/) to see what makes Bitwarden a better alternative.
 
  It is an open-source password manager that lets you easily secure and sync all your passwords across devices. It also lets you generate a new and secure password for each account to avoid repeating one password for all the services.
 

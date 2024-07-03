@@ -1,7 +1,7 @@
 ---
 title: Installing Kali Linux Effortlessly on a Windows PC
-date: 2024-06-25T11:32:32.477Z
-updated: 2024-06-26T11:32:32.477Z
+date: 2024-07-02T13:01:35.425Z
+updated: 2024-07-03T13:01:35.425Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 
 ## How to Install a Virtual Machine on Windows
 
- The first step to installing Kali Linux is downloading and setting up a virtual machine on your Windows PC. We recommend using Oracle VM VirtualBox as it’s reliable, free to use, and offers very high performance. We also compared[VirtualBox vs. VMWare Player](http://www.makeuseof.com/tag/best-virtual-machine-windows/) if you'd like more information.
+ The first step to installing Kali Linux is downloading and setting up a virtual machine on your Windows PC. We recommend using Oracle VM VirtualBox as it’s reliable, free to use, and offers very high performance. We also compared [VirtualBox vs. VMWare Player](http://www.makeuseof.com/tag/best-virtual-machine-windows/) if you'd like more information.
 
 To install VM VirtualBox:
 
-1. Download the**Windows hosts** binary setup from the[official VirtualBox site](https://www.virtualbox.org/wiki/Downloads) .  
+1. Download the**Windows hosts** binary setup from the [official VirtualBox site](https://www.virtualbox.org/wiki/Downloads) .  
 ![download virtual box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtual-box.jpg)
 2. Once the download is complete, launch the VirtualBox installation setup and confirm administrator access if prompted.
 3. Go through the installation wizard and click on**Finish** to complete the process.
@@ -40,11 +40,11 @@ To install VM VirtualBox:
 
 To download the Kali Linux VM image:
 
-1. Head to the[official Kali Linux website](https://www.kali.org/get-kali/#kali-virtual-machines) to download the pre-built VM image.  
+1. Head to the [official Kali Linux website](https://www.kali.org/get-kali/#kali-virtual-machines) to download the pre-built VM image.  
 ![kali vm download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/kali-download.jpg)
 2. Since we have installed VirtualBox, we will download the VirtualBox image.
 3. Confirm whether your PC is 32-bit architecture or 64-bit, and download the stable version (not the weekly version).
-4. Extract the contents of the downloaded file, and you may need to install the[7z app](https://www.7-zip.org/download.html) to complete the extraction process.
+4. Extract the contents of the downloaded file, and you may need to install the [7z app](https://www.7-zip.org/download.html) to complete the extraction process.
 5. We’re now ready to import Kali into our VirtualBox.
 
 ## Import Kali Linux VM on Windows
@@ -64,7 +64,7 @@ To download the Kali Linux VM image:
 
 ## Download the Kali Linux ISO
 
- If you would instead use the official ISO to install Kali Linux, you can download it from the[official Kali website](https://www.kali.org/) . Once you’ve downloaded the ISO, mount it within VirtualBox and start the virtual machine. After completing the Kali installation steps within VirtualBox, you will successfully install Kali Linux on your Windows.
+ If you would instead use the official ISO to install Kali Linux, you can download it from the [official Kali website](https://www.kali.org/) . Once you’ve downloaded the ISO, mount it within VirtualBox and start the virtual machine. After completing the Kali installation steps within VirtualBox, you will successfully install Kali Linux on your Windows.
 
 ## Use Kali Linux on Windows
 

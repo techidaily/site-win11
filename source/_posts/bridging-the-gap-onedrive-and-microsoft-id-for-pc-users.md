@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: OneDrive & Microsoft ID for PC Users"
-date: 2024-06-25T11:42:14.029Z
-updated: 2024-06-26T11:42:14.029Z
+date: 2024-07-02T13:01:37.878Z
+updated: 2024-07-03T13:01:37.878Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,11 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
 ## How to Set Up OneDrive on Your Windows 10 PC
 
- There are many[reasons you should use OneDrive](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) ; if you’re not sure, read our guide on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) . Here’s how to link your OneDrive with your Microsoft Account.
+ There are many [reasons you should use OneDrive](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) ; if you’re not sure, read our guide on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) . Here’s how to link your OneDrive with your Microsoft Account.
 
 1. Look for the OneDrive icon in the taskbar notification area. If you don’t see it there, you may need to search in the Start menu for the application.  
 ![Look for the OneDrive icon in the taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-onedrive-icon-taskbar.jpg)
-2. If this is your first time setting up the cloud service, you may need to download the[OneDrive application from the Microsoft store](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) .
+2. If this is your first time setting up the cloud service, you may need to download the [OneDrive application from the Microsoft store](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) .
 3. Click on the OneDrive icon in the taskbar notification area, and click on**Sign in** .  
 ![Signing in to OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-sign-in-onedrive.jpg)
 4. At the**Set up OneDrive** window, enter the email address you use to sign in to your Microsoft account and click on the**Sign in** button.  

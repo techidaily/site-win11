@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tech Tutorial: How to Launch Calculator"
-date: 2024-06-25T11:43:55.869Z
-updated: 2024-06-26T11:43:55.869Z
+date: 2024-07-02T13:01:37.637Z
+updated: 2024-07-03T13:01:37.637Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
  Did you know you can open Calculator directly from the File Explorer? It's a handy way to bring up the app if you're knee-deep in your file system.
 
-1. Open Windows File Explorer (see[how to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ).
+1. Open Windows File Explorer (see [how to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type "calc" and press**Enter** .
 
 ## 4\. How to Open Calculator Using Command Prompt
 
  Command Prompt is an important tool to have when working with computers. It allows users to access the inner workings of their device, making it easier to troubleshoot problems, automate processes and even run applications and programs.
 
- Knowing[how to use Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) can be a valuable asset in today's digital world. If you're wondering how to open Calculator in Windows 11 using Command Prompt, here are the steps you need to follow:
+ Knowing [how to use Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) can be a valuable asset in today's digital world. If you're wondering how to open Calculator in Windows 11 using Command Prompt, here are the steps you need to follow:
 
 1. First, open the Command Prompt window. For this, press**Win + R** on your keyboard, type "cmd" in the text box, and click**OK** .
 2. Once you've opened the window, type “calc” and press Enter.  
@@ -95,7 +95,7 @@ You are now ready to start performing calculations!
 
 ## 8\. How to Open Calculator With Desktop Shortcut
 
- A[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) is yet another convenient and efficient method for launching applications on Windows 11\. In this way, it becomes easy to access the feature without digging through menus or performing multiple clicks.
+ A [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) is yet another convenient and efficient method for launching applications on Windows 11\. In this way, it becomes easy to access the feature without digging through menus or performing multiple clicks.
 
  If you frequently use the Calculator application, you'll love the way it works. Follow these steps to get there:
 

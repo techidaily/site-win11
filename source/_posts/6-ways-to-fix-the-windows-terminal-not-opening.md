@@ -1,0 +1,108 @@
+---
+title: 6 Ways to Fix the Windows Terminal Not Opening
+date: 2024-07-02T13:06:58.553Z
+updated: 2024-07-03T13:06:58.553Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes 6 Ways to Fix the Windows Terminal Not Opening
+excerpt: This Article Describes 6 Ways to Fix the Windows Terminal Not Opening
+keywords: Windows Terminal Troubleshooting,Fix Windows Terminal Errors,Terminal Fix Guide,Resolve Terminals Closure,Windows Terminal Start Issue,How to Open Windows Terminal,Stop Windows Terminal Not Launching
+thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefedba62d12174cf3ff84234d4.jpg
+---
+
+## 6 Ways to Fix the Windows Terminal Not Opening
+
+ The Windows Terminal is quite an efficient tool as it allows you to enter into multiple command line tools both for Windows 10 and 11\. This sounds good as long as you can open it.
+
+ If you can no longer access Windows Terminal, there’s no need to worry. We’ve compiled a quick guide to help you fix the problem.
+
+## 1\. Try a Different Method to Open the Windows Terminal
+
+ One of the most common methods to open Windows Terminal is to right-click the**Start** button and select**Windows Terminal (Admin)** . But if the option is missing or nothing happens when you click it, you should [try a different method to open Windows Terminal](https://www.makeuseof.com/windows-11-open-windows-terminal/) .
+
+## 2\. Check if Windows Terminal Is Enabled
+
+ If you’ve tried multiple ways to open Windows Terminal and had no success, you should check if it’s not disabled on your computer. Here’s how you can do it:
+
+1. Press**Win + I** to bring up the Settings menu.
+2. Head to**Apps > Advanced app settings** .
+3. Select**App execution aliases** .
+4. From the apps list, locate**Terminal** and enable the toggle next to it. If it’s already enabled, turn it off and on again.
+
+![Enable Windows Terminal on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable_terminal-1.jpg)
+
+## 3\. Repair Windows Terminal
+
+ Fortunately, Windows has plenty of built-in tools that are capable of fixing most of the issues for you. The same goes when you can’t get Windows Terminal to open. Instead of trying to pinpoint the problem manually, you can have Windows repair the app. Here’s how you can do it:
+
+1. Right-click the**Start** button and go to**Settings** .
+2. Go to**Apps > Installed Apps** .
+3. Click the**three-dot** icon next to**Terminal** and select**Advanced options** .
+4. Click the**Repair** button.
+
+![Repair Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-terminal-1.jpg)
+
+## 4\. Reset Windows Terminal
+
+ If you still can’t get Windows Terminal to work, you should try reverting it to its default settings. Check out [how to reset Windows Terminal](https://www.makeuseof.com/windows-11-reset-terminal-settings/#:~:text=To%20reset%20Windows%20Terminal%20Settings%20back%20to%20their%20defaults%2C%20follow,cmd%22%20in%20the%20Run%20dialog.&text=Now%20press%20the%20Enter%20key%20to%20delete%20the%20settings.) for steps.
+
+## 5\. Run an SFC Scan
+
+![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+ Missing or corrupted system files might cause the inability to open Windows Terminal. In this case, you should [run an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . This will search for any broken system files and replace them automatically.
+
+## 6\. Reinstall Windows Terminal
+
+ If nothing worked until now, it’s time to reinstall Windows Terminal. Go to**Settings > Apps > Installed apps** and locate**Terminal** . Then, click the**three-dot** icon next to it and select**Uninstall** .
+
+![Uninstall Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-terminal-1.jpg)
+
+ Once Windows uninstall the app, launch Microsoft Store and reinstall Windows Terminal.
+
+## Launch Windows Terminal Any Time Again
+
+ Hopefully, one or more of the above solutions helped you fix Windows Terminal. Sometimes, you have to enable it on your computer or have Windows repair the app. But if you’re still struggling to make it work, you should go nuclear and reinstall the app.
+
+ Once you get it working again, you should learn about Windows Terminal tips and tricks to make the most out of it.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-accessing-your-iis-management-center/"><u>Quick Fixes for Accessing Your IIS Management Center</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-engage-immediate-assist-feature-windows-11/"><u>How to Engage Immediate Assist Feature: Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/digging-deep-into-digital-details-step-by-step/"><u>Digging Deep Into Digital Details, Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/a-concierge-guide-to-entering-your-windows-11-appshabitat/"><u>A Concierge Guide to Entering Your Windows 11 AppsHabitat</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-winerror-with-code-0x8019/"><u>Resolving WinError with Code 0X8019</u></a></li>
+<li><a href="https://win11.techidaily.com/1719281206376-win11-printer-woes-solutions-here/"><u>Win11 Printer Woes? Solutions Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fps-in-csgo-essential-insights/"><u>Mastering FPS in CS:GO - Essential Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/override-hardware-acceleration-in-widnos-graphics-ordering/"><u>Override Hardware Acceleration in WIDNO's Graphics Ordering</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-expert-strategies-for-effective-instagram-video-interactions/"><u>[New] Expert Strategies for Effective Instagram Video Interactions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unlock-tiktok-secrets-with-top-7-emojis-list/"><u>[New] 2024 Approved  Unlock TikTok Secrets with Top 7 Emojis List</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>2024 Approved  Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-note-12t-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi Note 12T Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-step-by-step-guide-on-make-gimp-transparent-background-png-for-2024/"><u>Updated Step by Step Guide on Make Gimp Transparent Background PNG for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-ultimate-guide-to-free-flv-video-editing/"><u>2024 Approved The Ultimate Guide to Free FLV Video Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-definitive-ranking-of-11-top-audio-capture-gadgets/"><u>[Updated] The Definitive Ranking of 11 Top Audio Capture Gadgets</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-camon-20-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Camon 20 Pro 5G FRP Bypass With Best Methods</u></a></li>
+</ul></div>

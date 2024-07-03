@@ -1,7 +1,7 @@
 ---
 title: Streamlining the UserName Switch on Windows 11
-date: 2024-06-25T11:42:34.969Z
-updated: 2024-06-26T11:42:34.969Z
+date: 2024-07-02T13:01:35.345Z
+updated: 2024-07-03T13:01:35.345Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 To change your username using the Control Panel, follow these steps:
 
-1. Type**"Control Panel"** in Windows Search and open the**Control Panel** app. (Check out[other ways to access the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) )
+1. Type**"Control Panel"** in Windows Search and open the**Control Panel** app. (Check out [other ways to access the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) )
 2. Select**Large icons** from the**View by** dropdown menu if it isn't already selected.
 3. Go to**User Accounts** .  
 ![Go to User Accounts in Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-user-accounts-in-windows-control-panel.jpg)
@@ -101,7 +101,7 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
  If you use a Microsoft account on your computer, change your username on the Microsoft website. To update your profile username on the Microsoft website, follow these steps:
 
-1. Go to your account page on the[Microsoft website](https://account.microsoft.com/account/Account) .
+1. Go to your account page on the [Microsoft website](https://account.microsoft.com/account/Account) .
 2. Log in to your account if you haven't already.
 3. Navigate to the**Your info** menu after logging in.
 4. Click the**Edit name** button.  
@@ -110,7 +110,7 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
 
- Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
+ Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend [restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
 ## Change Your Username With Ease
 

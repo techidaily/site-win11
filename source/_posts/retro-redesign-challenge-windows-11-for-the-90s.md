@@ -1,7 +1,7 @@
 ---
 title: "Retro Redesign Challenge: Windows 11 for the ‘90S"
-date: 2024-06-25T11:34:41.485Z
-updated: 2024-06-26T11:34:41.485Z
+date: 2024-07-02T13:01:34.446Z
+updated: 2024-07-03T13:01:34.446Z
 tags:
   - windows10
   - windows11
@@ -30,27 +30,27 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 
 ### WindowsBlinds 11 and Skin Pack
 
- Head over to the[WindowBlinds 11 product page](https://www.stardock.com/products/windowblinds/) to download the first program. You'll also need a user-made skin pack to go with it, which can be found at the[WinCustomize website](https://www.wincustomize.com/explore/windowblinds/9233/) .
+ Head over to the [WindowBlinds 11 product page](https://www.stardock.com/products/windowblinds/) to download the first program. You'll also need a user-made skin pack to go with it, which can be found at the [WinCustomize website](https://www.wincustomize.com/explore/windowblinds/9233/) .
 
 ### Winaero Tweaker
 
- Winaero Tweaker is an important program, and we'll be using it to do quite a lot. Head over to the[Winaero Tweaker download page](https://winaerotweaker.com) , and then over to[this DeviantArt page](https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804) for a Windows 95 icon set to go along with it.
+ Winaero Tweaker is an important program, and we'll be using it to do quite a lot. Head over to the [Winaero Tweaker download page](https://winaerotweaker.com) , and then over to [this DeviantArt page](https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804) for a Windows 95 icon set to go along with it.
 
 ### Open-Shell-Menu
 
- Open-Shell-Menu, found on the[Open-Shell GitHub page](http://github.com/Open-Shell/Open-Shell-Menu) , is a handy program to have in general. We've used it before in order to[make Windows 10 look like Windows XP](https://www.makeuseof.com/tag/windows-10-windows-xp-7-8-look-alike/) . This program can make extensive design modifications to Windows, so it's worth keeping around even if you don't keep the classic theme around.
+ Open-Shell-Menu, found on the [Open-Shell GitHub page](http://github.com/Open-Shell/Open-Shell-Menu) , is a handy program to have in general. We've used it before in order to [make Windows 10 look like Windows XP](https://www.makeuseof.com/tag/windows-10-windows-xp-7-8-look-alike/) . This program can make extensive design modifications to Windows, so it's worth keeping around even if you don't keep the classic theme around.
 
 ### RetroBar
 
- RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
+ RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on [the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
 
 ### Desktop Sidebar
 
- This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
+ This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to [the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
 
 ### Windows 98 Sound Pack
 
- Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
+ Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download [this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
 
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 
  The second thing we'll want to do will be to fix the Start Menu icon. This can be skipped if you're happy with the icon that WindowBlinds 11 has set up, but it can get a little bit more authentic than that.
 
- We need an image of the classic icon first, and we'll be using one[hosted over at the Classic Shell forums](http://classicshell.net/forum/download/file.php?id=1922) . Just right-click and save this image.
+ We need an image of the classic icon first, and we'll be using one [hosted over at the Classic Shell forums](http://classicshell.net/forum/download/file.php?id=1922) . Just right-click and save this image.
 
  Then, click**Replace Start Button** and select the**Custom** option.**Pick Image** will open up an explorer window, and you can select the image you just saved.
 
@@ -131,7 +131,7 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
  These are all smaller changes to bring the system more inline with older designs. From here, we're going to need the icon pack we downloaded earlier, so make sure to extract that as well.
 
- We can actually change many icons in Windows to the classic icons without Winaero Tweaker. In fact, you'll want to change icons using the inbuilt method, as we describe in our guide on[customizing Windows icons](https://www.makeuseof.com/tag/customize-icon-windows/) .
+ We can actually change many icons in Windows to the classic icons without Winaero Tweaker. In fact, you'll want to change icons using the inbuilt method, as we describe in our guide on [customizing Windows icons](https://www.makeuseof.com/tag/customize-icon-windows/) .
 
 However, there is one icon you can only change using Winaero Tweaker.
 

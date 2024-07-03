@@ -1,7 +1,7 @@
 ---
 title: Solving Disabled Email Banners in Windows OS
-date: 2024-06-25T11:30:51.448Z
-updated: 2024-06-26T11:30:51.448Z
+date: 2024-07-02T13:01:34.710Z
+updated: 2024-07-03T13:01:34.710Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
 ## 1\. Disable Offline Mode in Outlook
 
- First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if[Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
+ First, you should get the most obvious fix out of the way. If you have inadvertently enabled the Work Offline feature, Outlook will stop receiving any new emails from the servers. It's one of the first few things you should check for if [Outlook isn't receiving any emails](https://www.makeuseof.com/fix-outlook-wont-receive-emails/) or showing notifications.
 
 You can fix this by disabling offline mode in Outlook:
 
@@ -46,7 +46,7 @@ Follow these steps to check Outlook’s notification settings:
 
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
- Windows allows you to[manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
+ Windows allows you to [manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
 
 1. Press**Win + I** to open the**Settings** app.
 2. In the**System** tab, select**Notifications** . Make sure notifications are enabled on your PC.

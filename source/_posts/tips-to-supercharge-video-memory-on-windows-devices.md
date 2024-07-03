@@ -1,7 +1,7 @@
 ---
 title: Tips to Supercharge Video Memory on Windows Devices
-date: 2024-06-25T11:35:58.762Z
-updated: 2024-06-26T11:35:58.762Z
+date: 2024-07-02T13:01:37.136Z
+updated: 2024-07-03T13:01:37.136Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
- Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
+ Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're [using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
 
 ## How to Increase VRAM in Windows
 
- The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of[the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
+ The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of [the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
 
  However, if this isn't an option for you (like on laptops), you may be able to increase your dedicated VRAM in two ways.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
  Thus, you can modify a Registry value to change the amount VRAM your system reports to games. This doesn't actually increase your VRAM; it just modifies that dummy value. If a game refuses to start because you "don't have enough VRAM," upping this value might fix that.
 
- Open a Registry Editor window by typing**regedit** into the Start Menu. Remember that you can mess up your system if you modify the wrong values, so take care[while editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
+ Open a Registry Editor window by typing**regedit** into the Start Menu. Remember that you can mess up your system if you modify the wrong values, so take care [while editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
 
 Head to the following location:
 
@@ -78,7 +78,7 @@ Head to the following location:
 
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
 
- These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
+ These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or [freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
@@ -88,7 +88,7 @@ Head to the following location:
 
  A big factor in VRAM consumption is your monitor's resolution (more specifically, the resolution you're running a game at). Video RAM stores the frame buffer, which holds an image before and during the time that your GPU displays it on the screen. Higher-quality displays (such as a 4K HDR monitor) use more VRAM because higher-resolution images take more pixels to display.
 
- Aside from your monitor's display, textures in a game can drastically affect how much VRAM you need. Most modern[PC games let you fine-tune graphical settings](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) for performance or visual quality.
+ Aside from your monitor's display, textures in a game can drastically affect how much VRAM you need. Most modern [PC games let you fine-tune graphical settings](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) for performance or visual quality.
 
  You may be able to play a game from several years ago at**Low** or**Medium** settings with a cheaper card (or even integrated graphics). But**High** or**Ultra** quality, or custom mods that make in-game textures look even better than they normally do, will need lots of video RAM.
 
@@ -114,13 +114,13 @@ Head to the following location:
 
  Thus, a cheap $75 graphics card will have a small amount of VRAM, while a $500 graphics card will pack a lot more. If a weak GPU isn't powerful enough to render video that takes 8GB of VRAM to store, it's a waste to have that much VRAM in the card.
 
- Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
+ Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only [factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
 
- Conversely, not having enough VRAM is a huge problem. If VRAM fills up, the system has to rely on standard RAM and performance will take a huge hit. You'll[suffer from a lower frame rate](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , texture pop-ins, and other adverse effects. In extreme cases, the game could slow to a crawl and become unplayable (anything under 30FPS).
+ Conversely, not having enough VRAM is a huge problem. If VRAM fills up, the system has to rely on standard RAM and performance will take a huge hit. You'll [suffer from a lower frame rate](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , texture pop-ins, and other adverse effects. In extreme cases, the game could slow to a crawl and become unplayable (anything under 30FPS).
 
  Remember that VRAM is only one factor in performance. If you don't have a powerful enough CPU, rendering 4K video will take forever. A lack of system RAM prevents you from running many programs at once, and using a mechanical hard drive will severely limit your system performance too. And some cheaper graphics cards use slow DDR3 VRAM, which is inferior to DDR6 and DDR5 used in modern cards.
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Engage Immediate Assist Feature: Windows 11"
-date: 2024-06-25T11:28:34.855Z
-updated: 2024-06-26T11:28:34.855Z
+date: 2024-07-02T13:01:37.731Z
+updated: 2024-07-03T13:01:37.731Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
 ## 2\. Use the Windows Search Tool
 
- Another way to open the Quick Assist tool is through the[Windows Search](https://www.makeuseof.com/windows-search-use-guide/) tool. This can be especially helpful if any of the shortcut keys on your keyboard don't work for some reason.
+ Another way to open the Quick Assist tool is through the [Windows Search](https://www.makeuseof.com/windows-search-use-guide/) tool. This can be especially helpful if any of the shortcut keys on your keyboard don't work for some reason.
 
 To open Quick Assist through the search tool, follow these steps:
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Desktop's Aesthetic: Essential Theme Tips for Win11"
-date: 2024-06-25T11:28:33.004Z
-updated: 2024-06-26T11:28:33.004Z
+date: 2024-07-02T13:01:35.764Z
+updated: 2024-07-03T13:01:35.764Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/a688e86ffbdc3e471be20f57f8c10af5824b74763
 
 `shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}-Microsoft.Personalization`
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type the following command and press the enter key.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type the following command and press the enter key.
 2. The old Personalization utility will launch. Navigate to the themes window and click on any theme to apply it. The utility won’t redirect you to the Settings app.  
 ![Changing Theme Using the Old Control Panel Personalization Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-old-control-panel-personalization-utility.jpg)
 3. Close the Personalization utility window.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a688e86ffbdc3e471be20f57f8c10af5824b74763
 
  All the installed themes on your Windows 11 system reside in the Windows AppData folder. You can access the folder using File Explorer and then apply any theme on your system. Here’s how:
 
-1. Press**Win + E** to[launch the File Explorer app](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** to [launch the File Explorer app](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Go to the address bar, paste the following path, and press the enter key:**%LocalAppData%\\Microsoft\\Windows\\Themes**
 3. You will see a bunch of themes listed here. Double-click on any ".theme" file to apply it to your system.  
 ![Changing Theme Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-file-explorer.jpg)

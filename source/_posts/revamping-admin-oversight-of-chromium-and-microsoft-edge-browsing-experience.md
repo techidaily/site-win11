@@ -1,7 +1,7 @@
 ---
 title: Revamping Admin-Oversight of Chromium & Microsoft Edge Browsing Experience
-date: 2024-06-25T11:41:46.973Z
-updated: 2024-06-26T11:41:46.973Z
+date: 2024-07-02T13:01:36.395Z
+updated: 2024-07-03T13:01:36.395Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
  To determine the cause, turn off the Web Shielded feature. To do this, open**AVG antivirus Settings** and select**Basic protection** . Select the**Web Shield** tab, toggle the switch, and select**1 Hour** to temporarily turn off protection.
 
- Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
+ Next, launch Task Manager (see [how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
  A potentially unwanted application often modifies the Windows Registry to set policies for the browser. You can manually remove these policies from Registry Editor to remove the message.
 
- Note that modification to your Windows Registry involves risk. Make sure to[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and[back up your Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding with the below step.
+ Note that modification to your Windows Registry involves risk. Make sure to [create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and [back up your Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding with the below step.
 
 1. Press**Win + R** to open**Run** .
 2. Type**regedit** and click**OK** to open**Registry Editor** .
@@ -111,7 +111,7 @@ To reset Microsoft Edge:
 
 To remove adware using MalwareBytes:
 
-1. Go to the[Malwarebytes AdwCleaner page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023584/https://www.malwarebytes.com/adwcleaner) and download the cleaner.
+1. Go to the [Malwarebytes AdwCleaner page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023584/https://www.malwarebytes.com/adwcleaner) and download the cleaner.
 2. Run the app and click**Scan Now** . It will scan your computer for potentially unwanted programs and adware and populate the screen.
 3. Once the scan is complete, click**Next** to quarantine selected items.
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.

@@ -1,7 +1,7 @@
 ---
 title: Steps to Craft an Invisible Taskbar on Windows 11
-date: 2024-06-25T11:32:04.392Z
-updated: 2024-06-26T11:32:04.392Z
+date: 2024-07-02T13:01:38.235Z
+updated: 2024-07-03T13:01:38.235Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ## 1\. Tweak Windows Settings
 
- You can[customize the Windows 11 taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) and add a transparency effect by changing your system settings. Here’s how you can do it:
+ You can [customize the Windows 11 taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) and add a transparency effect by changing your system settings. Here’s how you can do it:
 
 1. Press**Windows key + I** to launch Windows Settings.
 2. Head to**Personalization > Colors** .

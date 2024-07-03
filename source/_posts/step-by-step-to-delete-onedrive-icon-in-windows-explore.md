@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step to Delete OneDrive Icon in Windows Explore
-date: 2024-06-25T11:33:41.790Z
-updated: 2024-06-26T11:33:41.790Z
+date: 2024-07-02T13:01:34.539Z
+updated: 2024-07-03T13:01:34.539Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 
 ## How to Remove OneDrive Shortcut From File Explorer via the Registry Editor
 
- You can remove the OneDrive icon from File Explorer using a registry hack. This way, you can get rid of the icon in File Explorer without uninstalling the OneDrive client. If you would rather remove the app entirely, follow our guide on[removing OneDrive on Windows 11](https://www.makeuseof.com/windows-11-disable-remove-onedrive/) .
+ You can remove the OneDrive icon from File Explorer using a registry hack. This way, you can get rid of the icon in File Explorer without uninstalling the OneDrive client. If you would rather remove the app entirely, follow our guide on [removing OneDrive on Windows 11](https://www.makeuseof.com/windows-11-disable-remove-onedrive/) .
 
- Note that modifying the Windows registry involves risk. We recommend you[create a system restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below. A restore point will help you restore your computer in case something goes wrong.
+ Note that modifying the Windows registry involves risk. We recommend you [create a system restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below. A restore point will help you restore your computer in case something goes wrong.
 
  Once done, follow these steps to remove the OneDrive shortcut from File Explorer:
 

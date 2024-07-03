@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Flow: Optimize Your Windows 11 HDD"
-date: 2024-06-25T11:22:11.091Z
-updated: 2024-06-26T11:22:11.091Z
+date: 2024-07-02T13:01:38.722Z
+updated: 2024-07-03T13:01:38.722Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 1. Press**Win + X** key combination to view the Power User menu with various shortcuts.
 2. Click**Windows Terminal (Admin)** to open that app with elevated privileges.
-3. Next, press a**Ctrl** +**Shift** +**2** hotkey to[bring up Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) within Windows Terminal.
+3. Next, press a**Ctrl** +**Shift** +**2** hotkey to [bring up Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) within Windows Terminal.
 4. To analyze the drive first, input the following command and press**Return** :  
 `defrag c: /a`
 5. Then defragment the C: drive by executing this command:  
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  Piriform Defraggler is a more advanced drive optimization tool than Defragment and Optimize Drives, which you can utilize on Windows platforms dating back to XP. It enables you to defrag whole drive volumes, specific folders, or even single files. You can defrag a hard drive with Defraggler like this:
 
-1. Open the[Defraggler](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023029/https://www.ccleaner.com/defraggler) download page.
+1. Open the [Defraggler](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023029/https://www.ccleaner.com/defraggler) download page.
 2. Select the**Download Free Version** option.
 3. Double-click the**dfsetup222.exe** installer to bring up the Defraggler setup wizard.
 4. If you want to configure the installation in any way, click the**Customization** option. Then you can change the folder path by clicking**More** \>**Browse** .
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  You can defrag an SSD drive with the tools in this guide, but it’s rather pointless. Solid-state drives are a different type of non-mechanical storage that’s faster than hard drives. Defragging such drives offers little to no performance benefit.
 
- Check out our article about[why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
+ Check out our article about [why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
 
 ## Enhance Your PC’s HDD Efficiency in Windows 11
 

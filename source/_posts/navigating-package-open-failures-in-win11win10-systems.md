@@ -1,7 +1,7 @@
 ---
 title: Navigating Package Open Failures in Win11/Win10 Systems
-date: 2024-06-25T11:39:26.227Z
-updated: 2024-06-26T11:39:26.227Z
+date: 2024-07-02T13:01:37.102Z
+updated: 2024-07-03T13:01:37.102Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 ## 3\. Scan Your System's Files for Corruption
 
- Don’t rule out the possibility of system file corruption causing this installation issue. It’s easy to scan and repair system files with the System File Checker command-line utility. Check out our[how-to-run SFC guide](https://www.makeuseof.com/system-file-checker-sfc-windows/) for full instructions about applying this potential fix.
+ Don’t rule out the possibility of system file corruption causing this installation issue. It’s easy to scan and repair system files with the System File Checker command-line utility. Check out our [how-to-run SFC guide](https://www.makeuseof.com/system-file-checker-sfc-windows/) for full instructions about applying this potential fix.
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scannow-command2-1.jpg)
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 ## 5\. Install the Software in a New Admin Account
 
- Some users have also resolved this issue by creating new Windows admin accounts and installing the required software packages from them. To do that, you’ll need to add a new local user account via Settings and then set it to an administrator account type. You can apply this potential resolution by following the steps in our[guide to fixing Windows issues](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) by creating a new account.
+ Some users have also resolved this issue by creating new Windows admin accounts and installing the required software packages from them. To do that, you’ll need to add a new local user account via Settings and then set it to an administrator account type. You can apply this potential resolution by following the steps in our [guide to fixing Windows issues](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) by creating a new account.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-account-button-2.jpg)
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  Antivirus software packages block malicious programs and files running on users’ PCs. However, sometimes they can block legitimate setup files. So, try temporarily disabling antivirus software on your PC before attempting to open affected setup files. You can turn the antivirus shield back on after installing the software.
 
- Windows Security is the antivirus app included with Windows. You can disable that app’s Microsoft Defender antivirus component by turning off its**Real-time protection** option. Our guide on[how to disable disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) includes full instructions for how to do that.
+ Windows Security is the antivirus app included with Windows. You can disable that app’s Microsoft Defender antivirus component by turning off its**Real-time protection** option. Our guide on [how to disable disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) includes full instructions for how to do that.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-setting-1.jpg)
 

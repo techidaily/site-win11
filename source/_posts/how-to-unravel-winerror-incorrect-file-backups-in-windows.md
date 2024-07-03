@@ -1,7 +1,7 @@
 ---
 title: "How to Unravel WinError: Incorrect File Backups in Windows"
-date: 2024-06-25T11:23:02.598Z
-updated: 2024-06-26T11:23:02.598Z
+date: 2024-07-02T13:01:34.119Z
+updated: 2024-07-03T13:01:34.119Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,13 @@ To restart the File History Service in Windows:
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
 
- While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
+ While you're at it, try using a different USB port. This will help you determine if there’s a [problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
 ## 3\. Re-Select the Backup Drive and Restart File History
 
  Next, you can try re-selecting your backup drive in File History settings and see if that helps. Here are the steps for the same.
 
-1. Press**Win + R** or use one of the[many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** or use one of the [many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**control** in the box and press**Enter** .
 3. Click the**View by** drop-down menu and select**Large icons** .
 4. Select**File History** from the Control Panel menu items.
@@ -63,7 +63,7 @@ To restart the File History Service in Windows:
 
  Finally, if nothing else works, resetting File History may be your only option. You can accomplish this by deleting the File History data files from your computer.
 
- In order to delete File History data files, you’ll have to ensure that your PC is configured to[show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) . Here’s how to check.
+ In order to delete File History data files, you’ll have to ensure that your PC is configured to [show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) . Here’s how to check.
 
 1. Open the Windows search menu.
 2. Type**File Explorer Options** in the search box and press**Enter** .

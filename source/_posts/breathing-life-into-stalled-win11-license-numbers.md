@@ -1,7 +1,7 @@
 ---
 title: Breathing Life Into Stalled Win11 License Numbers
-date: 2024-06-25T11:33:21.786Z
-updated: 2024-06-26T11:33:21.786Z
+date: 2024-07-02T13:01:38.177Z
+updated: 2024-07-03T13:01:38.177Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
  To use the Windows 11 activation key, you need a stable internet connection. If you are experiencing internet issues, your internet might be too slow for you to successfully use the activation key.
 
- To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
+ To fix this, you could try restarting your router or check out [how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
 
 ## 2\. Check That Windows Isn’t Already Activated
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing File System Usability in Windows (Max 156)
-date: 2024-06-25T11:32:56.541Z
-updated: 2024-06-26T11:32:56.541Z
+date: 2024-07-02T13:01:35.220Z
+updated: 2024-07-03T13:01:35.220Z
 tags:
   - windows10
   - windows11
@@ -77,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 ## 6\. Learn How to Rename Multiple Files at Once
 
- If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily[batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
+ If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily [batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
 
 ## 7\. You Can Use Emojis in Filenames to Spice Things up
 
 ![Emojis in Filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/emojis-in-filenames.jpg)
 
- One of the coolest ways you can name files on Windows is by choosing emojis instead of words. You can[use whatever emojis you want in the name of your Windows files](https://www.makeuseof.com/windows-emoji-file-folder-drive-names/) . You can also mix words and emoticons if that works best for you; there is no limitation on using emojis anywhere in the filename.
+ One of the coolest ways you can name files on Windows is by choosing emojis instead of words. You can [use whatever emojis you want in the name of your Windows files](https://www.makeuseof.com/windows-emoji-file-folder-drive-names/) . You can also mix words and emoticons if that works best for you; there is no limitation on using emojis anywhere in the filename.
 
  While emojis may not be hugely beneficial, they can make filenames more expressive if used properly.
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  For example, if you are looking for a file called**Windows.11** and want your PC to show you the exact file instead of a list of files with "windows" and "11" in them, you can type "name: Windows.11" in the File Explorer search box. This will only show you the exact file you are looking for.
 
- Other than the "name" search syntax, some popular ones include "kind," "size," and "date." If you type "size: 54 KB" in the File Explorer search bar, it will show you a list of files that are precisely 54 KB in size. We've shown[how to fix File Explorer search when it's not working](http://www.makeuseof.com/tag/fix-windows-file-explorer-search/) if you run into any problems.
+ Other than the "name" search syntax, some popular ones include "kind," "size," and "date." If you type "size: 54 KB" in the File Explorer search bar, it will show you a list of files that are precisely 54 KB in size. We've shown [how to fix File Explorer search when it's not working](http://www.makeuseof.com/tag/fix-windows-file-explorer-search/) if you run into any problems.
 
 ## Get Better Filenames on Windows With These Tips
 

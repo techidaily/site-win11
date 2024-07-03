@@ -1,7 +1,7 @@
 ---
 title: Enhancing User Interface with FN Key Modifications
-date: 2024-06-25T11:34:18.400Z
-updated: 2024-06-26T11:34:18.400Z
+date: 2024-07-02T13:01:34.200Z
+updated: 2024-07-03T13:01:34.200Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  In most laptops, there are 12 function keys (they used to be a lot more in the older devices), and you can use them by pressing them along with the "Fn" key on your keyboard. So for instance, if you wish to enable the backlit keyboard using the F3 key, you can hold the Fn key and then press F3 to make the desired changes.
 
- We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
+ We have a detailed [guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
@@ -107,7 +107,7 @@ If you are a Windows 11 user, follow these steps:
 
  Changes to Fn keys are safe and do not have any negative consequences. The customization options for the keys within Windows are limited, but there are quite a few third-party resources that you can look into if you want to modify keys a step further.
 
- On Windows, you can also[disable specific keys on your keyboard](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) so you can avoid accidentally pressing keys you don't use. As a general rule, if you follow the steps carefully, you should have no problems.
+ On Windows, you can also [disable specific keys on your keyboard](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) so you can avoid accidentally pressing keys you don't use. As a general rule, if you follow the steps carefully, you should have no problems.
 
  Here are some considerations to help you decide if changing the Fn keys is a good idea for you:
 

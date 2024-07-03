@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Windows 11: Re-Activate MS Store Applications"
-date: 2024-06-25T11:35:02.441Z
-updated: 2024-06-26T11:35:02.441Z
+date: 2024-07-02T13:01:37.690Z
+updated: 2024-07-03T13:01:37.690Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 ![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
 
- If the[Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
+ If the [Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
 
 To re-register Microsoft Store apps for the current user:
 

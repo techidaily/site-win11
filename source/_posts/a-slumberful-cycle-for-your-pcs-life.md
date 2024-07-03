@@ -1,7 +1,7 @@
 ---
 title: A Slumberful Cycle for Your PC's Life
-date: 2024-06-25T11:29:43.248Z
-updated: 2024-06-26T11:29:43.248Z
+date: 2024-07-02T13:01:34.221Z
+updated: 2024-07-03T13:01:34.221Z
 tags:
   - windows10
   - windows11
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 3. Select**Sleep** from the menu that appears.  
 ![Put Windows Computer to Sleep From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-start-menu.jpg)
 
- Can’t find the sleep option in the Start menu? Check our guide on[how to restore a missing Sleep option on Windows](https://www.makeuseof.com/windows-10-fix-mising-sleep-option/) .
+ Can’t find the sleep option in the Start menu? Check our guide on [how to restore a missing Sleep option on Windows](https://www.makeuseof.com/windows-10-fix-mising-sleep-option/) .
 
 ## 2\. Putting a Windows PC to Sleep With the Power User Menu
 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 
  Is your keyboard lacking a dedicated sleep button? Why not use the power button on your desktop or laptop to put Windows to sleep? To do so, you’ll have to access your PC’s power settings and configure the Power key to function as a Sleep key. Here's how to do it.
 
-1. Use one of the[many ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) to get the app open.
+1. Use one of the [many ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) to get the app open.
 2. Click the drop-down menu in the top right corner to select**Large icons** .
 3. Select**Power Options** .
 4. Click**Choose what the power buttons do** from the left sidebar.
@@ -106,7 +106,7 @@ As soon as you run the above command, your PC will enter sleep mode.
 
  If you would rather not go through lengthy procedures, you can create and use a desktop shortcut to put your computer into sleep mode.
 
- For this to work, you’ll need to[disable hibernation mode on your Windows computer](https://www.makeuseof.com/windows-11-hibernate-enable-disable/) . Once you’ve done that, use the following steps to create a desktop shortcut to put your computer to sleep.
+ For this to work, you’ll need to [disable hibernation mode on your Windows computer](https://www.makeuseof.com/windows-11-hibernate-enable-disable/) . Once you’ve done that, use the following steps to create a desktop shortcut to put your computer to sleep.
 
 1. Right-click on an empty spot on your desktop and select**New > Shortcut** .
 2. In the Create Shortcut window, type the following command in the text field and hit**Next** .  
@@ -116,7 +116,7 @@ As soon as you run the above command, your PC will enter sleep mode.
 
  Now when you double-click on that shortcut, your computer will enter sleep mode.
 
- Conveniently, you can also put your computer to sleep with a keyboard shortcut. If you're interested in doing that, check our guide on[how to shut down or sleep Windows with a keyboard shortcut](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) and follow the steps outlined there.
+ Conveniently, you can also put your computer to sleep with a keyboard shortcut. If you're interested in doing that, check our guide on [how to shut down or sleep Windows with a keyboard shortcut](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) and follow the steps outlined there.
 
 ## The Many Ways to Put a Windows Computer to Sleep
 

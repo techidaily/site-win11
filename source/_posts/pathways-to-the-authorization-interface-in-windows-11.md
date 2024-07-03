@@ -1,7 +1,7 @@
 ---
 title: Pathways to the Authorization Interface in Windows 11
-date: 2024-06-25T11:42:44.969Z
-updated: 2024-06-26T11:42:44.969Z
+date: 2024-07-02T13:01:34.982Z
+updated: 2024-07-03T13:01:34.982Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To access the Authorization Manager, follow these steps:
 
  Another way to open the Authorization Manager in Windows is through the Run dialog box. Here's how to do it:
 
-1. Press**Win + R** on your keyboard to[open the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type azman.msc and press**Enter** to launch the Authorization Manager.
 
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
@@ -62,7 +62,7 @@ To access the Authorization Manager, follow these steps:
 
  Task Manager is a great way to manage your computer's performance and troubleshoot any issues. Besides this, it also provides quick access to the Authorization Manager. Here's how:
 
-1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager. Check out[how to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
+1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager. Check out [how to open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
 2. Click**Run new task** at the top of Task Manager.  
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
@@ -71,7 +71,7 @@ To access the Authorization Manager, follow these steps:
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
 
- To[create a desktop shortcut on Windows](https://www.makeuseof.com/tag/create-program-shortcuts-windows-easy-way/) , do the following:
+ To [create a desktop shortcut on Windows](https://www.makeuseof.com/tag/create-program-shortcuts-windows-easy-way/) , do the following:
 
 1. Right-click on your desktop and select**New > Shortcut** from the context menu.  
 ![Open the Authorization Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-with-desktop-shortcut.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Reviving Windows Discord's Inadequate Search Mechanism
-date: 2024-06-25T11:44:00.157Z
-updated: 2024-06-26T11:44:00.157Z
+date: 2024-07-02T13:01:34.164Z
+updated: 2024-07-03T13:01:34.164Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ Here's how you can check and fix your internet-related issues:
 
  Note that this method will restore your network settings to their default values. There's nothing to worry about, as it will not do any harm to your internet connection.
 
- Besides, you should also[fix your Wi-Fi connection if it's unstable](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) to avoid network-related errors in the future.
+ Besides, you should also [fix your Wi-Fi connection if it's unstable](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) to avoid network-related errors in the future.
 
 ## 2\. Update the Discord Windows Client
 
@@ -67,7 +67,7 @@ Here's how you can check and fix your internet-related issues:
 
 ## 3\. Disable Your VPN or Proxy
 
- If you are using any VPN or proxy, you may often run into Discord-related issues. For example, the[Discord messages fail to load](https://www.makeuseof.com/windows-discord-messages-failed-to-load/) issue can occur due to a VPN or proxy.
+ If you are using any VPN or proxy, you may often run into Discord-related issues. For example, the [Discord messages fail to load](https://www.makeuseof.com/windows-discord-messages-failed-to-load/) issue can occur due to a VPN or proxy.
 
  You need to ensure that any VPN or proxy you currently use does not interfere with Discord's functionality. We recommend disabling your VPN or proxy once for a quick check.
 
@@ -118,8 +118,8 @@ Here's how you can clear Discord's cache files on Windows:
 
  Here are the steps you need to reinstall Discord's Windows version:
 
-1. First, uninstall Discord properly using one of the[ways to remove Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
-2. Go to the[Discord Downloads](https://discord.com/download) website and click**Download for Windows** . This will download an executable (EXE) file on your desktop.  
+1. First, uninstall Discord properly using one of the [ways to remove Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+2. Go to the [Discord Downloads](https://discord.com/download) website and click**Download for Windows** . This will download an executable (EXE) file on your desktop.  
 ![Discord Downloads Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-downloads-website.jpg)
 3. Double-click the downloaded file to launch the Discord installer setup.
 4. Log in to your Discord account and try searching messages now via the search bar.
@@ -132,13 +132,13 @@ Here's how you can clear Discord's cache files on Windows:
 
 ### Uninstall Your Discord Plugins
 
- It's no secret that Discord's search can be a bit sluggish on larger servers. Adding[third-party Discord plugins](https://www.makeuseof.com/how-to-set-up-use-betterdiscord/) to the mix can sometimes make matters worse. These plugins may interfere with Discord's functionality and slow it down even further.
+ It's no secret that Discord's search can be a bit sluggish on larger servers. Adding [third-party Discord plugins](https://www.makeuseof.com/how-to-set-up-use-betterdiscord/) to the mix can sometimes make matters worse. These plugins may interfere with Discord's functionality and slow it down even further.
 
  If you think a plugin might be causing the issue, you can disable or uninstall it temporarily to see if it's the culprit behind the problem.
 
 ### Check Discord’s Server Status
 
- Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit[Discord's server status](https://discordstatus.com/) page.
+ Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit [Discord's server status](https://discordstatus.com/) page.
 
 ## Restore Discord’s Search Functionality in No Time on Windows
 

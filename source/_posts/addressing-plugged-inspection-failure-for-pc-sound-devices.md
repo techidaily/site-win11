@@ -1,7 +1,7 @@
 ---
 title: Addressing Plugged Inspection Failure for PC Sound Devices
-date: 2024-06-25T11:39:50.880Z
-updated: 2024-06-26T11:39:50.880Z
+date: 2024-07-02T13:01:36.229Z
+updated: 2024-07-03T13:01:36.229Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,13 @@ To run the troubleshooter:
 6. Click**NO** ,**Do not open Audio Enhancements** in the**Turn off Sound Effects and Enhancements** dialog.
 7. Apply any recommended fixes and check for any improvements.
 
- If the troubleshooter left a good impression on you, check out our[guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for more of them.
+ If the troubleshooter left a good impression on you, check out our [guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for more of them.
 
 ## 2\. Perform an Audio Device Driver Rollback
 
- If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to[roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
+ If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to [roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
- To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
+ To roll back an audio device driver, follow our guide on [how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
 
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
@@ -107,7 +107,7 @@ To uninstall an audio device:
 
  If the automatic reinstall doesn't work, check if your computer manufacturer or the audio device OEM has a stable driver version available. On a laptop, visit your computer manufacturer's website and download the latest audio drivers. On a desktop, you can download the latest drivers for your sound card from the manufacturer's website.
 
- Alternatively, you can also manually reinstall the existing drivers for your audio device. Check out[how to update Windows, Apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) for more information.
+ Alternatively, you can also manually reinstall the existing drivers for your audio device. Check out [how to update Windows, Apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) for more information.
 
  If the issue persists, change the device installation settings and then reinstall the driver. To change device installation settings:
 

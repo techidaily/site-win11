@@ -1,7 +1,7 @@
 ---
 title: "Mastering Window 11: Reinitializing Unwanted Apps"
-date: 2024-06-25T11:24:02.085Z
-updated: 2024-06-26T11:24:02.085Z
+date: 2024-07-02T13:01:37.778Z
+updated: 2024-07-03T13:01:37.778Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
 
- Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
+ Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
 
  If that doesn't work, click the**Reset** button.
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
 ## How to Reset an App on Windows 10
 
- If you’re using Windows 10, you can reset an app by first opening the Settings app using the**Win + I** shortcut, or using one of the many[ways to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more. From there, navigate to**Apps > Apps & features** .
+ If you’re using Windows 10, you can reset an app by first opening the Settings app using the**Win + I** shortcut, or using one of the many [ways to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more. From there, navigate to**Apps > Apps & features** .
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: "The Path to Precision: Crafting Win11 Self-Extractables"
-date: 2024-06-25T11:42:45.287Z
-updated: 2024-06-26T11:42:45.287Z
+date: 2024-07-02T13:01:34.816Z
+updated: 2024-07-03T13:01:34.816Z
 tags:
   - windows10
   - windows11
@@ -65,9 +65,9 @@ Now we can get started using IExpress Wizard:
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
- 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
+ 7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to [encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
 
-1. Go to[the 7-Zip](https://www.7-zip.org/download.html) download page.
+1. Go to [the 7-Zip](https://www.7-zip.org/download.html) download page.
 2. Install Z-Zip on your PC.
 3. Open the 7-Zip File Manager software, and navigate to a folder that includes some files to include in the archive within 7-Zip’s window.
 4. Select multiple files to add to an SFX archive by holding the**Ctrl** key.

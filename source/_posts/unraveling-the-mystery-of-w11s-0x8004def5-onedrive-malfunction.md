@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery of W11's 0X8004def5 OneDrive Malfunction
-date: 2024-06-25T11:42:08.109Z
-updated: 2024-06-26T11:42:08.109Z
+date: 2024-07-02T13:01:37.445Z
+updated: 2024-07-03T13:01:37.445Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  Before trying out any complex fixes, you must terminate all the active instances of OneDrive. After that, restart it to check if it connects with the server. Here's how:
 
-1. Press**Ctrl + Shift + Esc** to[open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Press**Ctrl + Shift + Esc** to [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. Go to the top search bar and type**OneDrive** .
 3. Switch to the**Details** tab. Right-click on the**OneDrive.exe** process and select the**End process tree** option from the context menu.
 4. A popup window will launch. Click on the**End process tree** option.  
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  OneDrive stores all your data in a dedicated cloud server maintained by Microsoft. Despite promising 99% uptime, it is common for cloud services like OneDrive to encounter outages. Or the service could be down due to scheduled maintenance.
 
- You can visit the[Microsoft Service Health page](https://portal.office.com/servicestatus) to check which services are down. Alternatively, you can use third-party websites like[DownDetector](https://downdetector.com/) . That way, you can know if other users also face the same server outage issue. If that's the case, you have to wait until Microsoft resolves the problem and brings up the OneDrive servers again.
+ You can visit the [Microsoft Service Health page](https://portal.office.com/servicestatus) to check which services are down. Alternatively, you can use third-party websites like [DownDetector](https://downdetector.com/) . That way, you can know if other users also face the same server outage issue. If that's the case, you have to wait until Microsoft resolves the problem and brings up the OneDrive servers again.
 
 ## 3\. Completely Shut Down and Reboot Your Computer
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  You can try clearing OneDrive telemetry log files in the app data folder. Here's how to do it:
 
-1. Press**Win + E** to[open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** to [open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Go to the address bar, type the following path, and replace the "**UserName** " with your PC's username:  
 C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Press the enter key to navigate to the OneDrive logs folder.
@@ -107,7 +107,7 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
 ## 9\. Restore or Reset the PC
 
- If you still face the OneDrive error code, it's time to[perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
+ If you still face the OneDrive error code, it's time to [perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
 
 ## Make OneDrive Functional Again
 

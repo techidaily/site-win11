@@ -1,7 +1,7 @@
 ---
 title: "Power Buttons Ahead: Crafting Shortcuts on Windows 11"
-date: 2024-06-25T11:35:30.423Z
-updated: 2024-06-26T11:35:30.423Z
+date: 2024-07-02T13:01:38.619Z
+updated: 2024-07-03T13:01:38.619Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
 
- While it's simple to[pin apps to your Windows 11 Start Menu](https://www.makeuseof.com/windows-11-more-pinned-start-menu/) , you can also add shortcuts to specific items near your profile name near its bottom. And just like the apps pinned to your Start Menu, they are pretty handy.
+ While it's simple to [pin apps to your Windows 11 Start Menu](https://www.makeuseof.com/windows-11-more-pinned-start-menu/) , you can also add shortcuts to specific items near your profile name near its bottom. And just like the apps pinned to your Start Menu, they are pretty handy.
 
  Furthermore, since they're at a different location than your other apps, they're much easier to find. So, instead of searching through droves of folders or icons in the Desktop or File Explorer, keeping your frequently visited folders right near the Power menu will become much more straightforward.
 

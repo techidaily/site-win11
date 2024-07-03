@@ -1,7 +1,7 @@
 ---
 title: Remedy for Unable to Open on GE's Sharing Feature
-date: 2024-06-25T11:35:35.892Z
-updated: 2024-06-26T11:35:35.892Z
+date: 2024-07-02T13:01:34.355Z
+updated: 2024-07-03T13:01:34.355Z
 tags:
   - windows10
   - windows11
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 
 ### Reinstall GeForce Experience
 
- Reinstalling GeForce Experience is another user-confirmed resolution for the “Unable to share” error. You can remove GeForce Experience via the Control Panel, as outlined in this article about[uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Restart your PC after uninstalling.
+ Reinstalling GeForce Experience is another user-confirmed resolution for the “Unable to share” error. You can remove GeForce Experience via the Control Panel, as outlined in this article about [uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Restart your PC after uninstalling.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/programs-and-features-applet.jpg)
 

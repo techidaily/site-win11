@@ -1,7 +1,7 @@
 ---
 title: "Mastery: Setting Up/Deactivating Metric Tracker in Win11"
-date: 2024-06-25T11:37:43.156Z
-updated: 2024-06-26T11:37:43.156Z
+date: 2024-07-02T13:01:35.859Z
+updated: 2024-07-03T13:01:35.859Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  The**Network & internet** section in the Settings app serves as a central location for all the network-related settings on Windows. You can visit that section to quickly enable or disable a metered connection for your computer's Wi-Fi network. Here are the steps for the same.
 
-1. Open the**Start menu** and click the**gear-shaped icon** to[launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Open the**Start menu** and click the**gear-shaped icon** to [launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select**Network & internet** from the left sidebar.
 3. Click on**Wi-Fi** from the right pane.
 4. Go to**Manage known networks** .
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
 
- If you're a power user who prefers to make system changes with a command-line tool, you can use the[Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to enable or disable metered connection for a Wi-Fi network on Windows. Here's how you can go about it.
+ If you're a power user who prefers to make system changes with a command-line tool, you can use the [Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to enable or disable metered connection for a Wi-Fi network on Windows. Here's how you can go about it.
 
 1. Right-click the**Start icon** or use the**Win + X** keyboard shortcut to open the Power User menu.
 2. Select**Terminal (Admin)** from the list.
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  The Command Prompt should display a message once the network profile is updated. After that, you can close the terminal window.
 
- Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
+ Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on [the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
 ## Efficiently Manage Your Data With Metered Connection
 

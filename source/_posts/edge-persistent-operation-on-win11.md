@@ -1,7 +1,7 @@
 ---
 title: "Edge: Persistent Operation on Win11?"
-date: 2024-06-25T11:43:18.664Z
-updated: 2024-06-26T11:43:18.664Z
+date: 2024-07-02T13:01:38.702Z
+updated: 2024-07-03T13:01:38.702Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ## 2\. Edit the Windows Registry
 
- Another method to prevent Edge from running in the background is to tweak the Registry. Microsoft Edge is set to automatically start background processes at Windows startup. You can[disable processes set to run on startup](https://www.makeuseof.com/windows-pc-too-many-background-processes/) from the Registry.
+ Another method to prevent Edge from running in the background is to tweak the Registry. Microsoft Edge is set to automatically start background processes at Windows startup. You can [disable processes set to run on startup](https://www.makeuseof.com/windows-pc-too-many-background-processes/) from the Registry.
 
- Before you make any changes to the Registry, make sure you[back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) to be safe in case something goes wrong.
+ Before you make any changes to the Registry, make sure you [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) to be safe in case something goes wrong.
 
  Press**Win + R,** type in regedit in the Run window, and press**Enter** . Once the Registry Editor opens, copy and paste the following path in the navigation bar at the top and press**Enter** :
 

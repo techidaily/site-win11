@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Widget Guide: Top 7 Methods"
-date: 2024-06-25T11:36:56.091Z
-updated: 2024-06-26T11:36:56.091Z
+date: 2024-07-02T13:01:37.362Z
+updated: 2024-07-03T13:01:37.362Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 3. Expand the**Taskbar items** drop-down menu.
 4. Enable the**Widgets** toggle.
 
- If you do not see the button on the Taskbar even after following the above steps, you need to put some more effort into[fixing the issues and getting widgets up and running on Windows 11](https://www.makeuseof.com/windows-11-widgets-not-working/) . And if it's the Windows 11 Taskbar that is not working as expected, you need to[fix possible issues that may be causing those anomalies in Taskbar](https://www.makeuseof.com/ways-to-fix-malfunctioning-windows-taskbar/) .
+ If you do not see the button on the Taskbar even after following the above steps, you need to put some more effort into [fixing the issues and getting widgets up and running on Windows 11](https://www.makeuseof.com/windows-11-widgets-not-working/) . And if it's the Windows 11 Taskbar that is not working as expected, you need to [fix possible issues that may be causing those anomalies in Taskbar](https://www.makeuseof.com/ways-to-fix-malfunctioning-windows-taskbar/) .
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
@@ -51,7 +51,7 @@ Follow the below steps to add widgets:
 2. At the top of the panel, you can see a "**+** " icon. Click on it.
 3. Select the widgets you want to see at the top of your widgets board.
 
- You can later unpin the widgets that you no longer need from the widget context menu. Also, you can[pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
+ You can later unpin the widgets that you no longer need from the widget context menu. Also, you can [pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
 
 ## 3\. Change the Size of Widgets
 
@@ -72,7 +72,7 @@ To change the size of widgets, follow the below steps:
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
- You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also[tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
+ You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also [tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
 
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 

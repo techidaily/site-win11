@@ -1,7 +1,7 @@
 ---
 title: Three Simplified Steps for Customizing Win11 UI
-date: 2024-06-25T11:23:14.175Z
-updated: 2024-06-26T11:23:14.175Z
+date: 2024-07-02T13:01:34.293Z
+updated: 2024-07-03T13:01:34.293Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ To reset the Windows 11 Settings app with the search menu:
 5. Select**Reset** again to confirm.  
 ![Reset Settings App in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-settings-app-in-windows-11.jpg)
 
- After completing the above steps, you can use one of the[many ways to access the Windows Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and configure it again.
+ After completing the above steps, you can use one of the [many ways to access the Windows Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and configure it again.
 
 ## 2\. How to Reset the Windows 11 Settings App via PowerShell
 
@@ -49,7 +49,7 @@ To reset the Windows 11 Settings app with the search menu:
 `Get-AppxPackage *Windows.ImmersiveControlPanel* | Reset-AppxPackage`  
 ![Reset Settings App Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-settings-app-using-powershell.jpg)
 
- If you're a PowerShell enthusiast, why not take the time to learn these[useful Windows PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to improve efficiency?
+ If you're a PowerShell enthusiast, why not take the time to learn these [useful Windows PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to improve efficiency?
 
 ## 3\. How to Reset the Windows 11 Settings App Using Command Prompt
 
@@ -58,7 +58,7 @@ To reset the Windows 11 Settings app with the search menu:
  To reset the Windows 11 Settings app using Command Prompt, use these steps:
 
 1. Press**Win + X** or right-click the**start icon** to open the Power User menu and select**Run** from the list.
-2. Type**cmd** in the text box and then press**Ctrl + Shift + Enter** on your keyboard to[open Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/#how-to-run-command-prompt-as-an-administrator-through-the-windows-search-tool) .
+2. Type**cmd** in the text box and then press**Ctrl + Shift + Enter** on your keyboard to [open Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/#how-to-run-command-prompt-as-an-administrator-through-the-windows-search-tool) .
 3. Select**Yes** when the User Account Control (UAC) prompt shows up.
 4. In the console, paste the following command and hit**Enter** :  
 `PowerShell -ExecutionPolicy Unrestricted -Command "& {$manifest = (Get-AppxPackage *immersivecontrolpanel*).InstallLocation + '\AppxManifest.xml' ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}"`
@@ -67,7 +67,7 @@ To reset the Windows 11 Settings app with the search menu:
 
  Once you run the above command, Windows will reset the Settings app on your computer.
 
- Do you find Command Prompt to be too complicated or boring to use? Here are some of[the best Command Prompt alternatives for Windows](https://www.makeuseof.com/best-command-prompt-alternatives-for-windows/) worth trying.
+ Do you find Command Prompt to be too complicated or boring to use? Here are some of [the best Command Prompt alternatives for Windows](https://www.makeuseof.com/best-command-prompt-alternatives-for-windows/) worth trying.
 
 ## Resetting the Windows 11 Settings App
 

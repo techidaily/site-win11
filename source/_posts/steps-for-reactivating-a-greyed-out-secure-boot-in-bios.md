@@ -1,7 +1,7 @@
 ---
 title: Steps for Reactivating a Greyed Out Secure Boot in BIOS
-date: 2024-06-25T11:22:42.766Z
-updated: 2024-06-26T11:22:42.766Z
+date: 2024-07-02T13:01:37.959Z
+updated: 2024-07-03T13:01:37.959Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,7 @@ To set an administrator password in BIOS:
 
  To fix the issue, boot into the BIOS Setup Utility and disable Fast Boot. This feature may not be available on all computers. If not available, skip to the next solution.
 
- Note that the fast boot feature is different from Fast Startup. Fast Boot is a BIOS feature, whereas[Fast Startup is a Windows feature to speed up the boot process](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) .
+ Note that the fast boot feature is different from Fast Startup. Fast Boot is a BIOS feature, whereas [Fast Startup is a Windows feature to speed up the boot process](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) .
 
 To disable fast boot in BIOS:
 
@@ -85,7 +85,7 @@ To restore BIOS Security settings to factory defaults:
 
 ### Prepare Your Computer for a BIOS Update
 
- Before you update your BIOS, you'll need to[suspend BitLocker protection](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/) . You may also need to[temporarily turn off Windows Security protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and third-party antivirus.
+ Before you update your BIOS, you'll need to [suspend BitLocker protection](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/) . You may also need to [temporarily turn off Windows Security protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and third-party antivirus.
 
  Next, check your current BIOS version. You don't want to install an older version of BIOS on your computer. So, press the**Win** key, type**system information** , and open the System Information app from the search results. In the System Information dialog, locate and check the**BIOS Version/Date** entry. Note down the BIOS version, for example,**AMI F.27, 3/17/2022** .
 
@@ -93,7 +93,7 @@ To restore BIOS Security settings to factory defaults:
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
- Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
+ Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the [HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
 

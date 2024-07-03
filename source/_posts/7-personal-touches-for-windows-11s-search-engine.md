@@ -1,7 +1,7 @@
 ---
 title: 7 Personal Touches for Windows 11'S Search Engine
-date: 2024-06-25T11:34:15.571Z
-updated: 2024-06-26T11:34:15.571Z
+date: 2024-07-02T13:01:34.618Z
+updated: 2024-07-03T13:01:34.618Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
- Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
+ Using [Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
 ![Screenshot of email & accounts settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11.jpg)
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
 
- The enhanced search extends the search to other parts of your PC, thereby improving the quality of your search results. This is done by[indexing the search results in Windows 11](https://www.makeuseof.com/windows-11-index-faster-search-results/) , which means storing information on these files to make them easily accessible by your PC during a search.
+ The enhanced search extends the search to other parts of your PC, thereby improving the quality of your search results. This is done by [indexing the search results in Windows 11](https://www.makeuseof.com/windows-11-index-faster-search-results/) , which means storing information on these files to make them easily accessible by your PC during a search.
 
  Usually, it is set to**Classic** by default on your PC; hence your search will be limited to certain prime locations on your computer. Turning on enhanced search will change this mode of operation.
 

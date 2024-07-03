@@ -1,7 +1,7 @@
 ---
 title: Tips to Secure Windows Sound Level Adjustments
-date: 2024-06-25T11:39:54.926Z
-updated: 2024-06-26T11:39:54.926Z
+date: 2024-07-02T13:01:35.090Z
+updated: 2024-07-03T13:01:35.090Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  If updating or reinstalling the driver didn't solve the issue, you may need to allow certain applications to take exclusive control of the audio device. Here's how to do it:
 
- To get started, launch Volume Mixer on your computer. If you need help, see our guide on[how to open Volume Mixer on Windows 11](https://www.makeuseof.com/open-volume-mixer-windows-11/) .
+ To get started, launch Volume Mixer on your computer. If you need help, see our guide on [how to open Volume Mixer on Windows 11](https://www.makeuseof.com/open-volume-mixer-windows-11/) .
 
  In the Volume Mixer window, click on the**Speaker** icon to open the Properties window. Switch to the**Advanced** tab, and you'll see the**Exclusive Mode** section here.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ## 4\. Create a New User Account
 
- If you're still unable to save settings in Windows Volume Mixer, you may need to[create a new Windows user account](https://www.makeuseof.com/windows-11-create-local-user-account/) . This process won't delete your old profile or data, but you'll need to reconfigure your settings. Once created, log out of your current account and log into the new one to see if the settings reset issue is resolved.
+ If you're still unable to save settings in Windows Volume Mixer, you may need to [create a new Windows user account](https://www.makeuseof.com/windows-11-create-local-user-account/) . This process won't delete your old profile or data, but you'll need to reconfigure your settings. Once created, log out of your current account and log into the new one to see if the settings reset issue is resolved.
 
 ## 5\. Perform a Few General Windows Fixes
 

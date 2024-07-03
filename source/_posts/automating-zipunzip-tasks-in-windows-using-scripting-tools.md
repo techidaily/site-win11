@@ -1,7 +1,7 @@
 ---
 title: Automating Zip/Unzip Tasks in Windows Using Scripting Tools
-date: 2024-06-25T11:26:31.791Z
-updated: 2024-06-26T11:26:31.791Z
+date: 2024-07-02T13:01:35.817Z
+updated: 2024-07-03T13:01:35.817Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ Here's how to zip files using Command Prompt:
 
 ## How to Zip Files Using Windows PowerShell
 
- There are several viable ways to[create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
+ There are several viable ways to [create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
 
 Here's how to zip files using Windows PowerShell:
 
@@ -60,7 +60,7 @@ Here's how to zip files using Windows PowerShell:
 
 ## How to Unzip Files Using Command Prompt
 
- There may be situations where you want to[unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
+ There may be situations where you want to [unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
 
 1. Launch Command Prompt with admin privileges.
 2. Use the**cd** command to head toward the zip file's location.

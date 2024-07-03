@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday: Save $6.12 on Windows 10"
-date: 2024-06-25T11:39:46.696Z
-updated: 2024-06-26T11:39:46.696Z
+date: 2024-07-02T13:01:37.938Z
+updated: 2024-07-03T13:01:37.938Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ## The Keysfan Black Friday Sale
 
- To celebrate Black Friday, Keysfan is offering some incredible discounts across its range of licenses. You can bag a copy of Windows for less than $7 or a copy of Microsoft Office for less than $14, along with loads of other great software deals. Check out the discounts available in the[Keysfan Black Friday Sale](https://www.keysfan.com/black-friday-sale-storm.html?ksf=vky35) !
+ To celebrate Black Friday, Keysfan is offering some incredible discounts across its range of licenses. You can bag a copy of Windows for less than $7 or a copy of Microsoft Office for less than $14, along with loads of other great software deals. Check out the discounts available in the [Keysfan Black Friday Sale](https://www.keysfan.com/black-friday-sale-storm.html?ksf=vky35) !
 
 ### Get Genuine Microsoft Windows Operating Systems from $6.12
 

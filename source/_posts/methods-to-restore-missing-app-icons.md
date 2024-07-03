@@ -1,7 +1,7 @@
 ---
 title: Methods to Restore Missing App Icons
-date: 2024-06-25T11:36:51.846Z
-updated: 2024-06-26T11:36:51.846Z
+date: 2024-07-02T13:01:38.042Z
+updated: 2024-07-03T13:01:38.042Z
 tags:
   - windows10
   - windows11
@@ -75,7 +75,7 @@ Finally, restart your device when the scan is complete.
 
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
 
- If a normal disk scan doesn’t help, then you’d need to scan and repair your hard drive using advanced tools such as DISM and SFC. As we covered in our guide on[how to repair corrupted files with built-in Windows tools](https://www.makeuseof.com/windows-built-in-repair-tools/) , DISM and SFC are handy services that can help repair Windows errors.
+ If a normal disk scan doesn’t help, then you’d need to scan and repair your hard drive using advanced tools such as DISM and SFC. As we covered in our guide on [how to repair corrupted files with built-in Windows tools](https://www.makeuseof.com/windows-built-in-repair-tools/) , DISM and SFC are handy services that can help repair Windows errors.
 
 Let’s start by checking out how you can run the DISM tool:
 
@@ -136,7 +136,7 @@ Now, here are the steps for disabling the Windows Defender Firewall:
 
 ## 7\. Use a System Restore Point
 
- Using a system restore point can help you tackle the issue at hand. However, this approach will only help if you’ve already learned[how to create a system restore point in Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and made one.
+ Using a system restore point can help you tackle the issue at hand. However, this approach will only help if you’ve already learned [how to create a system restore point in Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and made one.
 
  During the restoration process, the system restore tool will revert your PC to a previous state. As such, this tool will help only if the Task Manager error only started appearing recently.
 

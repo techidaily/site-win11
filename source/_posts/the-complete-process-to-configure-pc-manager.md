@@ -1,7 +1,7 @@
 ---
 title: The Complete Process to Configure PC Manager
-date: 2024-06-25T11:36:58.997Z
-updated: 2024-06-26T11:36:58.997Z
+date: 2024-07-02T13:01:37.383Z
+updated: 2024-07-03T13:01:37.383Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  Firstly, you need to download the beta version of the Microsoft PC Manager app from the official website. Then you need to install it on your system. Here’s how to do it.
 
-1. Visit the[official Microsoft PC Manager website](https://pcmanager-en.microsoft.com/) .
+1. Visit the [official Microsoft PC Manager website](https://pcmanager-en.microsoft.com/) .
 2. The website can load up in Mandarin. Google Translate will pop up asking your permission to convert the webpage. Or you can click the language button on top bar and change the language to English.
 3. Click the**Download** button to download the setup file on your system.  
 ![Download Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-microsoft-pc-manager.jpg)
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ![Manage large files in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/manage-large-files-in-pc-manger-app.jpg)
 
- The other two tools are shortcuts to system apps present on Windows. One is Storage Sense and the other opens up the Installed App list. Check out our guide on[How to Use Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) for more information.
+ The other two tools are shortcuts to system apps present on Windows. One is Storage Sense and the other opens up the Installed App list. Check out our guide on [How to Use Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) for more information.
 
 **Process Management** lists out the top apps in use that consume the most RAM on your system. Click on the**End** button to close a process without opening up Task Manager every time.
 

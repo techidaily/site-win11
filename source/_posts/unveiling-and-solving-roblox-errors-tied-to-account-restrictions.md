@@ -1,7 +1,7 @@
 ---
 title: Unveiling and Solving Roblox Errors Tied to Account Restrictions
-date: 2024-06-25T11:38:52.267Z
-updated: 2024-06-26T11:38:52.267Z
+date: 2024-07-02T13:01:37.534Z
+updated: 2024-07-03T13:01:37.534Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
  The error under discussion is primarily caused when your account's two settings are misconfigured: privacy and parental controls. Therefore, you should review both settings to determine whether any restrictions have been imposed by default or by someone else. Follow these steps to view these settings and make the necessary changes:
 
 1. First, close the Roblox Player app or Roblox launcher if you have it open.
-2. Open your preferred web browser, go to the[Roblox website](https://www.roblox.com/) , and sign in to your Roblox account.
+2. Open your preferred web browser, go to the [Roblox website](https://www.roblox.com/) , and sign in to your Roblox account.
 3. Once signed in, click on the**gear icon** in the top-right corner and select**Settings** .  
 ![Go to Settings on the Roblox Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-settings-on-the-roblox-website.jpg)
 4. Select the**Privacy** tab on the left.
@@ -83,7 +83,7 @@ If none of the above fixes help, proceed with the remaining steps.
 
  To confirm this, sign out of the Roblox Player app and the Roblox website and create a new temporary account using either of these clients. Once you have created your new account, log into it and change your account settings as described above. After that, run the same experiences again where you encountered the error earlier.
 
- If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the[Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
+ If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the [Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
 
 ## Run Roblox Experiences Without a Hitch
 

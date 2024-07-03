@@ -1,7 +1,7 @@
 ---
 title: Strategies for Reversing RDP Monochrome
-date: 2024-06-25T11:43:30.021Z
-updated: 2024-06-26T11:43:30.021Z
+date: 2024-07-02T13:01:35.323Z
+updated: 2024-07-03T13:01:35.323Z
 tags:
   - windows10
   - windows11
@@ -62,9 +62,9 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
  Another way of fixing the black screen is by updating the GPU driver. An outdated GPU driver leads to many problems, including the issue of a completely black screen.
 
- If you’re not a geek, we’ve covered a guide on[updating your GPU driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for help.
+ If you’re not a geek, we’ve covered a guide on [updating your GPU driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for help.
 
- Before moving forward, make sure you[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) on your desktop. It'll give you a safer side if your system gets corrupt or the GPU drivers behave weirdly after updating.
+ Before moving forward, make sure you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) on your desktop. It'll give you a safer side if your system gets corrupt or the GPU drivers behave weirdly after updating.
 
 ## 4\. Restart the Remote Desktop Service
 
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 Follow the below steps to enable WDDM for remote desktop connections:
 
- The following policy setting is only available on computers running Windows Pro and Enterprise editions. If you're not using that, here's a trick to[access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
+ The following policy setting is only available on computers running Windows Pro and Enterprise editions. If you're not using that, here's a trick to [access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
 
 1. Press**Win + R** , and type**gpedit.msc** in the Run dialog box. This will open the**Group Policy Editor** on Windows.  
 ![Local Group Policy Editor In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-local-group-policy-editor-from-run-dialog.jpg)

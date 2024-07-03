@@ -1,7 +1,7 @@
 ---
 title: "Winning Smoothly: Eradicate Lags From Star Wars BF2 on PC"
-date: 2024-06-25T11:35:33.725Z
-updated: 2024-06-26T11:35:33.725Z
+date: 2024-07-02T13:01:35.550Z
+updated: 2024-07-03T13:01:35.550Z
 tags:
   - windows10
   - windows11
@@ -38,11 +38,11 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 
 ## 2\. Check for a Third-party Software Conflict
 
- Sometimes, a third-party app installed on your computer can cause the mouse to malfunction. You can narrow down the conflicting software by performing a clean boot. If you're not sure how to do that, check out[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
+ Sometimes, a third-party app installed on your computer can cause the mouse to malfunction. You can narrow down the conflicting software by performing a clean boot. If you're not sure how to do that, check out [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  In the Clean Boot state, Windows boots with only the essential set of drivers and programs. Start the system in clean boot and play Battlefront 2 to check if the mouse continues to lag.
 
- Once you determine the problem is being caused due to third-party software, identify and uninstall the program to eliminate the problem. To begin with, disable third-party startup apps on your computer, as covered in[how to disable start-up apps in Windows](https://www.makeuseof.com/windows-11-disable-startup-programs/) . This includes customization tools, mods, and gaming overlays.
+ Once you determine the problem is being caused due to third-party software, identify and uninstall the program to eliminate the problem. To begin with, disable third-party startup apps on your computer, as covered in [how to disable start-up apps in Windows](https://www.makeuseof.com/windows-11-disable-startup-programs/) . This includes customization tools, mods, and gaming overlays.
 
  Disable all the programs one by one to narrow down the problematic app and then uninstall it to see if that helps you fix the mouse lag problem in Battlefront 2.
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 
  You can disable this feature to fix the mouse lag issue in Battlefront 2\. Here's how:
 
-1. Open the Run dialog box (see[how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), type**main.cpl** and click**OK** . It'll open the**Mouse Properties.**
+1. Open the Run dialog box (see [how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), type**main.cpl** and click**OK** . It'll open the**Mouse Properties.**
 2. Switch to the**Pointer Options** tab.
 3. In the**Motion** section, uncheck the**Enhance** **pointer precision.**
 4. Click Apply > OK.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 
  A buggy graphics driver can interfere with your computer's visual effect feature, causing the mouse lag in Battlefront 2\. To fix this, you will have to disable the transparency effect in the settings menu. Here's how to do it:
 
-1. Open the Settings menu (see[how to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose the Accessibility option.
+1. Open the Settings menu (see [how to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose the Accessibility option.
 2. Choose**Visual effects.**
 3. Disable the toggle next to**Transparency effects.**  
 ![Disable the Transparency Effect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Transparency-Effect.jpg)
@@ -101,7 +101,7 @@ Close the settings menu, launch the game and check for the issue.
 
  If disabling the transparency effect wasn't helpful, try downloading the latest graphics driver update on your computer. Newer versions of the driver are often the best way to eliminate any bug or issue in a computer.
 
- To[download the latest graphics driver updates on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) , follow the below instructions:
+ To [download the latest graphics driver updates on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) , follow the below instructions:
 
 1. Press the**Win + X** hotkeys to open the**Power menu.**
 2. Choose**Device Manager** from the menu list.
@@ -116,7 +116,7 @@ Windows will now look for and download any available driver update.
 
  Are you still facing the problem? If yes, then you're left with no other option than to reinstall Battlefront 2.
 
- First, uninstall Battlefront 2\. If your copy of Battlefront 2 came from an online game library (like Steam), you usually need to uninstall it through the library client. If not, follow the steps in[how to uninstall apps in Winfows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it. Once it's gone, reinstall the game and test for the issue.
+ First, uninstall Battlefront 2\. If your copy of Battlefront 2 came from an online game library (like Steam), you usually need to uninstall it through the library client. If not, follow the steps in [how to uninstall apps in Winfows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it. Once it's gone, reinstall the game and test for the issue.
 
 ## Play Battlefront 2 Without Any Mouse Lag
 

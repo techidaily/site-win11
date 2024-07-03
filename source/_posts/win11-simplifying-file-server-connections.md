@@ -1,7 +1,7 @@
 ---
 title: "Win11: Simplifying File Server Connections"
-date: 2024-06-25T11:40:06.803Z
-updated: 2024-06-26T11:40:06.803Z
+date: 2024-07-02T13:01:36.864Z
+updated: 2024-07-03T13:01:36.864Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 ## Configure Network Discovery in Windows
 
- Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
+ Windows has a feature called [network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
 
  This allows you to share any file or folder with other devices on the same network. Before mapping a network drive, make sure that network discovery is enabled on your computer.
 
@@ -44,7 +44,7 @@ Follow the sets below to enable network discovery on Windows:
 
  Remember that enabling network discovery may make your computer more vulnerable to security risks as it allows other devices on the network to access your computer.
 
- Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
+ Therefore, it's crucial to ensure that you have a strong password and [customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 ## 1\. Map a Network Drive Using File Explorer
 
@@ -81,7 +81,7 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
- Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+ Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some [useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -89,7 +89,7 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
 So, follow these simple instructions:
 
-1. Open[Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open [Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type the command line given below, but replace**DRIVE** with any drive letter and**\\\\ServerName\\SharedFolder** with the shared folder's path:  
 net use DRIVE \\ServerName\SharedFolder
 3. If the shared folder requires a username and password to access, you can add the /user parameter to the command, followed by a username and password in the format**username** and**pass** . For example:  

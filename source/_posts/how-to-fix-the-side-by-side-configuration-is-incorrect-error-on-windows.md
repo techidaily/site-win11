@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Side-by-Side Configuration Is Incorrect” Error on Windows
-date: 2024-06-25T11:40:23.906Z
-updated: 2024-06-26T11:40:23.906Z
+date: 2024-07-02T13:01:38.424Z
+updated: 2024-07-03T13:01:38.424Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 3. Use the left pane to navigate to**Custom Views > Summary page events** .  
 ![Event Viewer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Event-Viewer-on-Windows.jpg)
 4. Choose the most recent side-by-side error from the middle pane and note down the version number under the**General** tab.
-5. Open up your web browser and head over to the[Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
+5. Open up your web browser and head over to the [Microsoft Visual C++ Redistributable download page](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) .
 6. Download and install the Visual C++ package corresponding to your version number.
 
- Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
+ Restart your PC after this (see [how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
 
 ## 2\. Run the SFC and DISM Scans
 
@@ -75,7 +75,7 @@ To run the SFC scan on your computer:
 
  You should see a right checkmark next to the Repair button once the process is complete.
 
- Alternatively, you can repair your apps and programs from Control Panel. To learn more about this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
+ Alternatively, you can repair your apps and programs from Control Panel. To learn more about this, check our guide on [how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
 ## 5\. Reinstall the Problematic App
 
@@ -90,7 +90,7 @@ To run the SFC scan on your computer:
 
 ## 6\. Scan for Malware
 
- If your computer is infected with malware, you may encounter such errors when launching apps and programs. To check for this possibility, you can run a full system scan of your PC with Windows Defender. You can also use one of the[best third-party antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) for this.
+ If your computer is infected with malware, you may encounter such errors when launching apps and programs. To check for this possibility, you can run a full system scan of your PC with Windows Defender. You can also use one of the [best third-party antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) for this.
 
  If the scan uncovers anything suspicious, take the recommended steps to fix the issue and reboot your PC after that.
 

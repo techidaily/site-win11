@@ -1,7 +1,7 @@
 ---
 title: Optimizing Windows 11 Taskbar Performance
-date: 2024-06-25T11:44:21.701Z
-updated: 2024-06-26T11:44:21.701Z
+date: 2024-07-02T13:01:36.088Z
+updated: 2024-07-03T13:01:36.088Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,7 @@ To reinstall and register all Windows apps:
 
  If the taskbar starts to act up after installing a Windows update, uninstall the update to see if it helps fix the issue. Feature Windows updates can sometimes break more things they intend to fix.
 
- Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
+ Fortunately, you can [uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
 
 ## 4\. Close Conflicting System Services
 
@@ -81,7 +81,7 @@ To restart system services in Task Manager:
 
  Another nifty trick to fix the taskbar not working issue is to make the Start menu use XAML and resolve issues that may cause the menu to stop working.
 
- It is a Windows 10 workaround, but it works on Windows 11 as well. That said, this method involves modifying Windows Registry. Incorrect modifications to the registry entry can cause system malfunction. Make sure to create a restore point and t[ake a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you try the below steps.
+ It is a Windows 10 workaround, but it works on Windows 11 as well. That said, this method involves modifying Windows Registry. Incorrect modifications to the registry entry can cause system malfunction. Make sure to create a restore point and t [ake a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you try the below steps.
 
 To make the Start menu use XAML:
 
@@ -109,7 +109,7 @@ To make the Start menu use XAML:
 
  You can use a recent system restore point to restore your PC to an earlier point where the taskbar works. Restore point helps you recover Windows OS when a driver, feature, or application update breaks the system.
 
- To use a restore point, make sure you have set up your PC to[create automatic restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . If yes, follow these steps to restore your OS using system restore. The Restore Points affects system files and applications. Your data will not be affected during the process.
+ To use a restore point, make sure you have set up your PC to [create automatic restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . If yes, follow these steps to restore your OS using system restore. The Restore Points affects system files and applications. Your data will not be affected during the process.
 
 1. Press**Win + R** to open the**Run** dialog.
 2. Type**rstrui.exe** and click**OK** .  
@@ -127,7 +127,7 @@ To make the Start menu use XAML:
 
  A corrupt user profile can cause some system functions to stop working. To fix the issue, create a new user account and try to access the taskbar.
 
- You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
+ You can [create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
 
 ## Easy Fixes to Restore the Windows 11 Taskbar
 

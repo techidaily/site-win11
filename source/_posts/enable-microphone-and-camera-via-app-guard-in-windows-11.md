@@ -1,7 +1,7 @@
 ---
 title: Enable Microphone & Camera via App Guard in Windows 11
-date: 2024-06-25T11:31:12.715Z
-updated: 2024-06-26T11:31:12.715Z
+date: 2024-07-02T13:01:35.010Z
+updated: 2024-07-03T13:01:35.010Z
 tags:
   - windows10
   - windows11
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
  If you are more comfortable using the registry editor, you can enable your camera and microphone for Application Guard for Edge. All you need to do is open up the registry folder, make a few easy modifications, and restart your computer so that they can take effect.
 
- However, before you make any changes, it's essential that you[create a backup of the registry file](https://www.makeuseof.com/tag/backup-restore-windows-registry/) just in case something goes wrong.
+ However, before you make any changes, it's essential that you [create a backup of the registry file](https://www.makeuseof.com/tag/backup-restore-windows-registry/) just in case something goes wrong.
 
  To enable your mic & camera with the help of this tool, follow these steps:
 
-1. Search for**regedit** in the Windows search bar and click on the result to open the registry editor. To find out more, see[how to open the registry](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Search for**regedit** in the Windows search bar and click on the result to open the registry editor. To find out more, see [how to open the registry](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 2. When the UAC prompt appears, click**Yes** to confirm.
 3. In the Registry Editor window, go to the following location:  
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi  

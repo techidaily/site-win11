@@ -1,0 +1,131 @@
+---
+title: Can't Open Chrome? Try These Win11 Solutions Now.
+date: 2024-07-02T13:07:00.642Z
+updated: 2024-07-03T13:07:00.642Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Can't Open Chrome? Try These Win11 Solutions Now.
+excerpt: This Article Describes Can't Open Chrome? Try These Win11 Solutions Now.
+keywords: Fix Chrome Not Opening,Resolve Win11 Chrome Issue,Troubleshoot Chrome Accessibility,Chrome Fix in Win11,Open Chrome Windows 11,Win11 Chrome Opens Trick,Fix Chrome Refusal in Win11,Fix Chrome,Win11 Chrome Troubleshoot,Chrome Start in Windows 11,Fix Chrome Blocked Access,Win11 Open Chrome Tips,Chrome Launch Issue Windows 11,Fix Chrome Refuse Access
+thumbnail: https://thmb.techidaily.com/4c3c65f6b07b6c1127c499f9b9889ab3244702ce710d3692e68eb1f54ab083aa.jpg
+---
+
+## Can't Open Chrome? Try These Win11 Solutions Now
+
+ When you rely on Google Chrome for your daily browsing needs, it can be a major inconvenience if the browser suddenly stops opening on your Windows computer. Chances are either corrupted Chrome files or a resource-hungry plugin cause this problem to occur.
+
+ If you're dealing with this issue, this guide is here to help you resolve it and get back to running Google Chrome again.
+
+## 1\. Restart Your Computer
+
+ The first step to take when dealing with Google Chrome not opening is to restart your computer. It refreshes the system resources and can fix any minor issues that may be causing the problem.
+
+## 2\. End Chrome Processes in Task Manager
+
+ If restarting your computer didn't help, you can end all Google Chrome processes currently running in your Task Manager. Here's how to do it:
+
+1. Press**Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
+2. On the**Processes** tab, look for any Chrome services running.
+3. If you find it, right-click on it, and select**End task** .  
+![End Chrome Processes in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-chrome-processes-in-task-manager.jpg)
+
+After doing this, try to open Google Chrome again.
+
+## 3\. Disable Your Antivirus or Firewall Temporarily
+
+ Your antivirus or firewall can sometimes block Chrome from opening. In this case, you can try disabling them for a short while to determine the issue. But be careful as turning off your antivirus leaves your computer vulnerable.
+
+1. Click on Start and search for**Windows Security** .
+2. Select**Virus & threat protection** from the left pane.
+3. Under**Virus & threat protection settings** , click on**Manage settings** .
+4. Toggle off the**Real-time protection** switch.
+
+ Upon completing the above steps, close the window and restart your computer. When the system starts up, open the Chrome browser and check if the problem has been fixed.
+
+## 4\. Run Compatibility Troubleshooter
+
+ If Google Chrome is still not opening on your Windows computer, you can run the compatibility troubleshooter to reset your Google Chrome settings. This will identify and solve any compatibility problems that may be causing the issue.
+
+To run the compatibility troubleshooter, use these steps:
+
+1. Right-click the Google Chrome shortcut on the taskbar.
+2. In the menu that pops up, right-click on**Google Chrome** and choose**Properties** .
+3. In the Properties window, switch to the**Compatibility** tab.
+4. Next, click the**Run compatibility troubleshooter** button.  
+![Run compatibility troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-compatibility-troubleshooter.jpg)
+5. Then follow the on-screen instructions to complete the process.
+
+ After completing the above steps, launch Google Chrome again and see if it works now.
+
+## 5\. Delete the Chrome User Profile
+
+ If you're still having trouble, it might be time to delete the Chrome user profile. This will erase all your personal information, so make sure to back up any relevant data.
+
+ Usually, you delete Chrome user profiles through the browser itself. But given that you can't open it, here's an alternate way:
+
+1. Open Windows File Explorer and go to the following location. Alternatively, launch the Run dialog (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), enter the path below, and click**OK** :  
+C:\Users\%username%\AppData\Local\Google
+2. Right-click the**Chrome** folder and select**Delete** from the context menu.
+
+ After you follow the above steps, restart your computer and try opening Google Chrome again.
+
+## 6\. Reinstall Google Chrome
+
+ Sometimes, certain files that are essential for Google Chrome to run correctly may become corrupted or damaged, causing the browser to behave abnormally or stop working altogether. Uninstalling and reinstalling Google Chrome can help replace any damaged or corrupted files.
+
+To reinstall Google Chrome, follow these steps:
+
+1. Press**Win + I** on your keyboard to open the Settings menu.
+2. In the Windows Settings app, click**Apps > Installed apps** .
+3. Find**Google Chrome** in the list of installed apps.
+4. Click the three dots next to it and select**Uninstall** .  
+![Uninstall Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-google-chrome.jpg)
+5. To confirm, click**Uninstall** again.
+6. Follow the prompts to complete the uninstallation process.
+
+ After you follow the above steps, restart your computer. Once that is done, visit the [Google Chrome download page](https://www.google.com/chrome/) , then download and install the application.
+
+## Fixing Google Chrome Not Opening on Windows
+
+ While it can be frustrating when Google Chrome won't open on your Windows computer, there are multiple simple solutions that can often resolve the issue. Read this guide and put these steps into practice; you will soon be surfing the web in no time!
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/fixing-non-previewable-files-issue-in-outlook-for-personal-computers/"><u>Fixing Non-Previewable Files Issue in Outlook for Personal Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-risks-ignoring-windows-11-push-notifications/"><u>Understanding Risks: Ignoring Windows 11 Push Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reestablish-network-connection-after-failure-in-windows-11/"><u>How to Reestablish Network Connection After Failure in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-connect-remote-desktop-without-a-password-in-windows-11/"><u>How to Connect Remote Desktop Without a Password in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/cleaning-slates-in-windows-the-3-reset-routes/"><u>Cleaning Slates in Windows: The 3 Reset Routes</u></a></li>
+<li><a href="https://win11.techidaily.com/new-wave-windows-leap-from-the-legacy-of-11/"><u>New Wave Windows: Leap From the Legacy of 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-secure-access-tips-for-stuck-pins/"><u>Windows Secure Access: Tips for Stuck Pins</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-alter-windows-dashboard-imagery-effortlessly/"><u>How to Alter Windows Dashboard Imagery Effortlessly</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-proplus-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 Pro+ 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-instagram-potential-a-comprehensible-guide/"><u>[New] In 2024, Unlocking Instagram Potential  A Comprehensible Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fcps-ultimate-editing-aid-best-10-plug-ins-for-2024/"><u>FCP's Ultimate Editing Aid  Best 10 Plug-Ins for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>2024 Approved  Ultimate Chart Watcher  Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/initiate-direct-camera-streaming-with-vlc-for-2024/"><u>Initiate Direct Camera Streaming with VLC for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/economical-vr-headsets-from-the-east-for-2024/"><u>Economical VR Headsets From the East for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-foresight-select-youtube-stocks-hubs/"><u>[Updated] Financial Foresight  Select YouTube Stocks Hubs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-which-vimeo-e-sy-option-suits-your-needs-in-2024/"><u>[Updated] Which Vimeo E-Sy Option Suits Your Needs, In 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-display-stability-achieved/"><u>Windows 10 Display Stability Achieved</u></a></li>
+</ul></div>

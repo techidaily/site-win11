@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Using Windows 11 Snap Features
-date: 2024-06-25T11:24:33.793Z
-updated: 2024-06-26T11:24:33.793Z
+date: 2024-07-02T13:01:37.651Z
+updated: 2024-07-03T13:01:37.651Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/b5412951ba4c980abeddb9801e54de1f43b896bc3
 
 ## How to use Quick Settings on Windows 11
 
- With[Quick Settings enabled](https://www.makeuseof.com/windows-11-simple-quick-settings/) , you can do a lot of stuff without too many hassles. To get started, press the**Windows Key + A** shortcut, and your**Quick Settings** menu will be launched. Alternatively, head to the lower-right corner of your desktop screen, and click on the set of icons from below (Wi-Fi, speaker, battery, etc., which will be some of your options).
+ With [Quick Settings enabled](https://www.makeuseof.com/windows-11-simple-quick-settings/) , you can do a lot of stuff without too many hassles. To get started, press the**Windows Key + A** shortcut, and your**Quick Settings** menu will be launched. Alternatively, head to the lower-right corner of your desktop screen, and click on the set of icons from below (Wi-Fi, speaker, battery, etc., which will be some of your options).
 
 ![quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-settings.JPG)
 
  From there, the dialog box for your Quick Settings will open. You can then tweak your settings from here reasonably easily.
 
- For example, by clicking on**Accessibility** , a host of other options will pop open; for instance, you can choose everything from Magnifier and Color filters to[Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) , Sticker Keys, and so on, and make a series of changes—all from a single place.
+ For example, by clicking on**Accessibility** , a host of other options will pop open; for instance, you can choose everything from Magnifier and Color filters to [Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) , Sticker Keys, and so on, and make a series of changes—all from a single place.
 
 ![accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessibility-settings.JPG)
 

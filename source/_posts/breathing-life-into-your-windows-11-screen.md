@@ -1,7 +1,7 @@
 ---
 title: Breathing Life Into Your Windows 11 Screen
-date: 2024-06-25T11:41:54.941Z
-updated: 2024-06-26T11:41:54.941Z
+date: 2024-07-02T13:01:36.504Z
+updated: 2024-07-03T13:01:36.504Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Windows 11 comes with a built-in screen reader called Narrator that you can use if you need a screen reader. Here's how to open it via the Command Prompt:
 
-1. Open the Run Command dialog box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions).
+1. Open the Run Command dialog box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions).
 2. Type "cmd" in the text box and press**Ctrl + Shift + Enter** .
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
@@ -81,7 +81,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  On Windows 11, you can also start Narrator using the Control Panel. This is the easiest and most straightforward way to do so. To get started, follow these steps:
 
-1. Open the Control Panel (see[how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
+1. Open the Control Panel (see [how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
 2. In the control panel, change the screen view to**Large icons** .  
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
@@ -113,7 +113,7 @@ To open Narrator using Windows PowerShell, follow these steps:
 
  If you're looking for a quick way to open Narrator in Windows 11, there is no better way to do so than by using File Explorer. Here's how to do it:
 
-1. Open Windows File Explorer (see[how to open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for some quick ways to do this).
+1. Open Windows File Explorer (see [how to open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for some quick ways to do this).
 2. In the address bar, type "Narrator" and hit Enter.
 
 That's all; your Narrator should now be ready to go.

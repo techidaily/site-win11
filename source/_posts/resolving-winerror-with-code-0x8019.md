@@ -1,7 +1,7 @@
 ---
 title: Resolving WinError with Code 0X8019
-date: 2024-06-25T11:24:38.758Z
-updated: 2024-06-26T11:24:38.758Z
+date: 2024-07-02T13:01:37.898Z
+updated: 2024-07-03T13:01:37.898Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ Here are a few things you can try if you encounter this error.
 
 To try it, follow these steps:
 
-1. Press**Win + I** on your keyboard to[open System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [open System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select**System** from the left side of the screen.
 3. Then go to**Troubleshoot > Other troubleshooters** .  
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Run-Windows-Update-Troubleshooter.jpg)
@@ -69,7 +69,7 @@ To try it, follow these steps:
 
  Both scans are relatively quick and straightforward processes that don’t require any advanced technical knowledge. All you need to do is open Command Prompt as an administrator and follow these steps:
 
-1. Run Command Prompt as an administrator (see[how to run Command Prompt as an administrator](<http://How> to Run the Command Prompt as an Administrator in Windows) ).
+1. Run Command Prompt as an administrator (see [how to run Command Prompt as an administrator](<http://How> to Run the Command Prompt as an Administrator in Windows) ).
 2. If UAC appears, click**Yes** to grant privileges.
 3. Type the command in the Command Prompt window:**sfc /scannow** .
 4. Then press**Enter** on your keyboard.  

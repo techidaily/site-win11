@@ -1,7 +1,7 @@
 ---
 title: Addressing 'Unresponsive Task' Issues in Windows OS
-date: 2024-06-25T11:31:04.571Z
-updated: 2024-06-26T11:31:04.571Z
+date: 2024-07-02T13:01:34.151Z
+updated: 2024-07-03T13:01:34.151Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
  At times, temporary glitches with an app or program can trigger the “unable to terminate process” error on Windows. If it’s nothing major, you should be able to close the unresponsive program with the**Alt + F4** keyboard shortcut. Switch to the app or program you want to close and press**Alt + F4** together on your keyboard to close it.
 
- Check out[how to force close a program without the Task Manager](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) for more ways to close an app without using this tool.
+ Check out [how to force close a program without the Task Manager](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) for more ways to close an app without using this tool.
 
 ## 2\. Open Task Manager as an Administrator
 
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
 1. Click the magnifying icon on the taskbar to open the search menu.
 2. Type**Task Manager** in the box and select**Run as administrator** .
-3. When the[User Account Control (UAC)](https://www.makeuseof.com/tag/user-account-control-windows-10/) prompt appears, select**Yes** to continue.
+3. When the [User Account Control (UAC)](https://www.makeuseof.com/tag/user-account-control-windows-10/) prompt appears, select**Yes** to continue.
 4. Right-click on the process you want to terminate and select**End task** from the context menu.  
 ![Close Process Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/close-process-using-task-manager.jpg)
 
@@ -59,14 +59,14 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
  WMIC (or Windows Management Instrumentation Command-line) is another powerful tool for terminating processes on Windows. Again, you'll need to know the exact name of the process you want to kill. Once you have that, use the following steps to terminate the process with WMIC.
 
-1. Use any of your preferred methods to[open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Use any of your preferred methods to [open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Paste the following command in the console, replace**ProcessName** with the actual name of the process you want to terminate, and press**Enter** .  
 `wmic process where name='processname.exe' delete`  
 ![Terminate Process With WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/terminate-process-with-wmic.jpg)
 
 ## 5\. Use a Task Manager Alternative
 
- Finally, if none of the solutions help with the "unable to terminate process" error, you can consider using a[Task Manager alternative on Windows](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) . If you're looking for something with more power, Process Explorer is a solid choice.
+ Finally, if none of the solutions help with the "unable to terminate process" error, you can consider using a [Task Manager alternative on Windows](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) . If you're looking for something with more power, Process Explorer is a solid choice.
 
 1. [Download Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) on your computer.
 2. Double-click the**procexp64.exe** to open Process Explorer.

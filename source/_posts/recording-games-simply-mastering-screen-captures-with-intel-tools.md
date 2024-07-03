@@ -1,7 +1,7 @@
 ---
 title: "Recording Games Simply: Mastering Screen Captures with Intel Tools"
-date: 2024-06-25T11:34:25.564Z
-updated: 2024-06-26T11:34:25.564Z
+date: 2024-07-02T13:01:37.209Z
+updated: 2024-07-03T13:01:37.209Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 
 ## How Do I Record Gameplay With the Intel Graphics Command Center on Windows?
 
- If you're still new to this app, it's a good idea to first learn[how to add games to the Intel Graphics Command Center for better performance](https://www.makeuseof.com/windows-intel-graphics-command-center-add-remove-games/) . Once you're familiar with the Intel Graphics Command Center, you can follow the steps below to capture gameplay with it:
+ If you're still new to this app, it's a good idea to first learn [how to add games to the Intel Graphics Command Center for better performance](https://www.makeuseof.com/windows-intel-graphics-command-center-add-remove-games/) . Once you're familiar with the Intel Graphics Command Center, you can follow the steps below to capture gameplay with it:
 
 1. Launch the game you want to capture the gameplay from on your Windows PC.
-2. Launch Intel Graphics Command Center. If you don’t already have it, you can go to the Microsoft Store to download and install the[Intel Graphics Command Center](https://apps.microsoft.com/store/detail/intel%C2%AE-graphics-command-center/9PLFNLNT3G5G?hl=en-us&gl=us) .  
+2. Launch Intel Graphics Command Center. If you don’t already have it, you can go to the Microsoft Store to download and install the [Intel Graphics Command Center](https://apps.microsoft.com/store/detail/intel%C2%AE-graphics-command-center/9PLFNLNT3G5G?hl=en-us&gl=us) .  
 ![the intel graphics command center home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-home.jpg)
 3. In Intel Graphics Command Center, select the**Capture** tab in the top menu.  
 ![the intel graphics command center capture screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-capture-screen.jpg)
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbdd
 7. When you’re done recording, click the**Stop Recording** button – it will be right where the**Start Recording** button was.  
 ![the intel graphics command center showing the stop recording button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-stop-recording.jpg)
 
- Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the[best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
+ Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the [best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
 
 ## How to Create a Custom Capture Profile in Intel Graphics Command Center
 

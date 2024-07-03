@@ -1,7 +1,7 @@
 ---
 title: Digging Deep Into Digital Details, Step by Step
-date: 2024-06-25T11:22:51.313Z
-updated: 2024-06-26T11:22:51.313Z
+date: 2024-07-02T13:01:38.577Z
+updated: 2024-07-03T13:01:38.577Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  If you don’t want to use the keyboard at all, then you can open the file properties using the context menu.
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) and type**explorer.exe** . Press the enter key to open the File Explorer.
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) and type**explorer.exe** . Press the enter key to open the File Explorer.
 2. Navigate to the desired file or folder location.
 3. Now,**right-click** on the file and select the**Properties** option from the context menu.  
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  You can also view the file properties using the File Explorer app and not press a keyboard key even once. The option to view properties is hidden in the menu bar. Here’s how to open file properties using File Explorer:
 
-1. Press**Win + E** to[open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** to [open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Go to the file location and**click** on it to highlight it.
 3. Now, navigate to the top menu and click on the**three dots (...)** button.
 4. A drop-down menu will open. Select the**Properties** option from the menu.  

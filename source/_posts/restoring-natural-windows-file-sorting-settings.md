@@ -1,7 +1,7 @@
 ---
 title: Restoring Natural Windows File Sorting Settings
-date: 2024-06-25T11:27:41.548Z
-updated: 2024-06-26T11:27:41.548Z
+date: 2024-07-02T13:01:34.172Z
+updated: 2024-07-03T13:01:34.172Z
 tags:
   - windows10
   - windows11
@@ -62,7 +62,7 @@ start explorer.exe`
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
 
-1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on[how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
+1. Click on Start and search for**File Explorer Options** . To learn more about it, see our guide on [how to open the Folder Options on Windows](https://www.makeuseof.com/windows-10-open-folder-options/) .
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
@@ -72,12 +72,12 @@ start explorer.exe`
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
- The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
+ The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must [create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
 
  To reset folder view settings using the registry editor, do the following:
 
-1. Press**Win + R** on your keyboard to[open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
-2. Type**regedit** in the text box and press Enter. This will[open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Press**Win + R** on your keyboard to [open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Type**regedit** in the text box and press Enter. This will [open the Registry Editor window](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 3. Navigate to the following location:  
 HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  

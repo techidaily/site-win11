@@ -1,7 +1,7 @@
 ---
 title: "No Snip From PrtScan: How to Prevent Launch of Snipping Tool in Windows 11"
-date: 2024-06-25T11:44:13.549Z
-updated: 2024-06-26T11:44:13.549Z
+date: 2024-07-02T13:01:36.248Z
+updated: 2024-07-03T13:01:36.248Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ## How Did Windows 11 Claim the Print Screen Key?
 
- Microsoft recently released a new Insider Preview build of Windows 11, announced via the[Windows Blog](https://blogs.windows.com/windows-insider/2023/04/07/announcing-windows-11-insider-preview-build-22621-1546-and-22624-1546/) , that changes the way the Print Screen button functions by default. Earlier, the key would screenshot your entire screen and save it to the clipboard. You’d then have the option of importing this copied image data into a program such as a photo editor or even a word processor.
+ Microsoft recently released a new Insider Preview build of Windows 11, announced via the [Windows Blog](https://blogs.windows.com/windows-insider/2023/04/07/announcing-windows-11-insider-preview-build-22621-1546-and-22624-1546/) , that changes the way the Print Screen button functions by default. Earlier, the key would screenshot your entire screen and save it to the clipboard. You’d then have the option of importing this copied image data into a program such as a photo editor or even a word processor.
 
- While copying the screenshot to your clipboard sounds inconvenient, you also had the option of[instantly saving screenshots on Windows 11](https://www.makeuseof.com/windows-instantly-save-screenshots/) . However, the Snipping tool offers more functionality, which is probably why Microsoft decided[you should be using the Snipping tool](https://www.makeuseof.com/use-snipping-tool-windows/) instead of the plain vanilla print screen function.
+ While copying the screenshot to your clipboard sounds inconvenient, you also had the option of [instantly saving screenshots on Windows 11](https://www.makeuseof.com/windows-instantly-save-screenshots/) . However, the Snipping tool offers more functionality, which is probably why Microsoft decided [you should be using the Snipping tool](https://www.makeuseof.com/use-snipping-tool-windows/) instead of the plain vanilla print screen function.
 
  If you update to the latest Windows 11 build, pressing the Print Screen key will open the Windows Sipping tool instead. But that’s only if you haven’t previously changed this setting. If you have it set up to do something else, your preference will be preserved, Microsoft says.
 

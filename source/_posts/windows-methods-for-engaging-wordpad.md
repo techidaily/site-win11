@@ -1,7 +1,7 @@
 ---
 title: Windows Methods for Engaging WordPad
-date: 2024-06-25T11:36:49.115Z
-updated: 2024-06-26T11:36:49.115Z
+date: 2024-07-02T13:01:38.414Z
+updated: 2024-07-03T13:01:38.414Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ To open WordPad using the search tool, follow these steps:
 
  You can also use Windows File Explorer to access some useful programs installed on your Windows PC. To open WordPad using Windows Explorer, follow these steps:
 
-1. Open Windows File Explorer (see[how to open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/) ).
+1. Open Windows File Explorer (see [how to open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type the following and press**Enter** :  
 `C:\Program Files\Windows NT\Accessories\wordpad.exe`
 
@@ -85,7 +85,7 @@ To open WordPad using the Control Panel, follow these steps:
 
 To do this, follow these steps:
 
-1. Open the Run Command dialog box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
+1. Open the Run Command dialog box (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
 2. Type "cmd" to open Command Prompt, and "powershell" for Windows PowerShell.
 3. Now press**Ctrl + Shift + Enter** on your keyboard.
 4. If UAC prompts on the screen, click**Yes** to grant privileges.

@@ -1,7 +1,7 @@
 ---
 title: Transforming the Look of Windows 11'S Basic Text Editor
-date: 2024-06-25T11:42:00.016Z
-updated: 2024-06-26T11:42:00.016Z
+date: 2024-07-02T13:01:34.667Z
+updated: 2024-07-03T13:01:34.667Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
  Windows 11 Notepad now has its own Settings page from where you can set the Notepad theme you like.
 
-1. Open**Notepad** by searching for it the Windows search. Or use the[many ways to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) .
+1. Open**Notepad** by searching for it the Windows search. Or use the [many ways to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) .
 2. Tap on the**Settings** gear wheel icon on the top right.  
 ![Windows 11 Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows11-notepad.jpg)
 3. In the**Settings** page, tap on**the App theme** to expand the setting.
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 Once set, enjoy using Notepad with your preferred font.
 
- If you ever have problems opening Notepad, check out[how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
+ If you ever have problems opening Notepad, check out [how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
 
 ## Enjoy the Windows 11 Notepad With New Themes
 

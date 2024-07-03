@@ -1,7 +1,7 @@
 ---
 title: How to Recover From Windows 11'S Zero-A00F Camera Blunder
-date: 2024-06-25T11:37:12.270Z
-updated: 2024-06-26T11:37:12.270Z
+date: 2024-07-02T13:01:37.662Z
+updated: 2024-07-03T13:01:37.662Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ## 3\. Edit the Platform Registry Key
 
- Another confirmed fix for error 0xA00F429F is to edit the**Platform** registry key by creating a new EnableFrameServerMode DWORD. If you’re not entirely comfortable with editing the registry, you can[create a registry backup in Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before proceeding with this potential solution. Just make sure you tweak the registry exactly as follows:
+ Another confirmed fix for error 0xA00F429F is to edit the**Platform** registry key by creating a new EnableFrameServerMode DWORD. If you’re not entirely comfortable with editing the registry, you can [create a registry backup in Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before proceeding with this potential solution. Just make sure you tweak the registry exactly as follows:
 
 1. Open Registry Editor by launching Run (**Win + R**), inputting**regedit.exe** , and selecting**OK** .
 2. Clear whatever path is in Registry Editor’s address bar, and input the following key location:  
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
  One of the best ways to resolve issues with the Camera app is to reset it. So, it’s recommended users try doing that to fix error 0xA00F429F.
 
- You can clear the data for Windows Camera as covered in our[how to reset apps in Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) guide. While you’re at it, you can also try selecting Camera’s**Repair** option if resetting the app doesn’t make a difference.
+ You can clear the data for Windows Camera as covered in our [how to reset apps in Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) guide. While you’re at it, you can also try selecting Camera’s**Repair** option if resetting the app doesn’t make a difference.
 
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
  Another possible reason for error 0xA00F429F is the Windows DefenderfFirewall, which could be blocking the Camera app’s connectivity. So, check your firewall’s settings to make sure that the Windows Camera app is allowed through it.
 
- Our guide on[allowing apps through the Windows Defender firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) provides full instructions for how to apply this resolution.
+ Our guide on [allowing apps through the Windows Defender firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) provides full instructions for how to apply this resolution.
 
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ![The Driver Booster window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-booster-software.jpg)
 
- The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
+ The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our [Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our [best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
 ## 8\. Reinstall Windows Camera App
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 `Get-AppxPackage *camera* | Remove-AppxPackage`  
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
-4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
+4. Open the [Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)

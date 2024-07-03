@@ -1,7 +1,7 @@
 ---
 title: "Proven Strategy: Batch Convert HEIC to JPEG in Windows 11"
-date: 2024-06-25T11:39:01.487Z
-updated: 2024-06-26T11:39:01.487Z
+date: 2024-07-02T13:01:38.147Z
+updated: 2024-07-03T13:01:38.147Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
  Aside from that, installing this software also enables you to preview HEIC images in Explorer without converting them. You can convert multiple HEIC images to JPEG with CopyTrans as follows:
 
-1. Open this[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
+1. Open this [CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
 2. Click CopyTrans HEIC’s**Download** button and downloaded the executable.
 3. Double-click the**CopyTransHEICforWindowsv2.000.exe** file.
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
 1. Open Explorer after installing CopyTrans HEIC (there’s no need for a restart Windows).
 2. Bring up a folder that contains some HEIC images you want to convert.
-3. Hold the**Ctrl** key to[select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
+3. Hold the**Ctrl** key to [select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
 
-1. Open the[FoneTool](https://www.fonetool.com/download.html) download page.
+1. Open the [FoneTool](https://www.fonetool.com/download.html) download page.
 2. Click**Free Download for PC** to get the setup wizard for the freeware version.
 3. Then double-click**FoneTool\_free\_installer.Z1qPz.exe** to open FoneTool’s setup wizard.
 4. If you prefer to configure the installation in any way, click Customization in the setup window. Then you can click the**Select Path** button to change the directory.
@@ -87,9 +87,9 @@ Now it's time to convert images with FoneTool:
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
- There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
+ There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
-1. Open the[HEIC to JPEG Free Online Converter](https://heic.online/) web app.
+1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.

@@ -1,7 +1,7 @@
 ---
 title: "Keep Your System Safe: Spotting Hidden Threats in Windows"
-date: 2024-06-25T11:36:04.494Z
-updated: 2024-06-26T11:36:04.494Z
+date: 2024-07-02T13:01:34.952Z
+updated: 2024-07-03T13:01:34.952Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 
 ## Before We Get Started…
 
- Before investigating whether your device has been compromised, close all third-party and Windows applications. This will reduce the entries Task Manager or other[any alternatives to the Task Manager](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) you might be using and allow you to effectively identify suspicious connections established on your computer.
+ Before investigating whether your device has been compromised, close all third-party and Windows applications. This will reduce the entries Task Manager or other [any alternatives to the Task Manager](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) you might be using and allow you to effectively identify suspicious connections established on your computer.
 
  Afterward,[run a malware scan on your device using Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) or any reliable third-party antivirus software you usually use. This step will help you detect and automatically remove light infections inside your device, and they won't distract you when searching for more severe infections or security breaches.
 
@@ -74,7 +74,7 @@ Here's how you can analyze the suspicious connections:
 
 1. Note the**PID** next to the suspicious**Established** connection in Command Prompt.  
 ![Note the PID Next to the Suspicious Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-note-the-pid-next-to-the-suspicious-established-connection-in-command-prompt.jpg)
-2. Open Task Manager. (See the[different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and[11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
+2. Open Task Manager. (See the [different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and [11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
 3. Go to the**Details** tab.
 4. Click the**PID column** to sort processes according to their PIDs.
 5. Find the process with the same**PID** that you noted down earlier.  

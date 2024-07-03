@@ -1,7 +1,7 @@
 ---
 title: Top 4 Techniques for Mac Address Discovery in Windows 11
-date: 2024-06-25T11:33:56.956Z
-updated: 2024-06-26T11:33:56.956Z
+date: 2024-07-02T13:01:38.434Z
+updated: 2024-07-03T13:01:38.434Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ## 2\. Find Your Windows 11 MAC Address via the Command Prompt
 
- If you’re an old-school techie, you might prefer using[the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) as much as possible. Fortunately, you can quickly determine the MAC address of your Windows 11 device with just a single command as follows:
+ If you’re an old-school techie, you might prefer using [the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) as much as possible. Fortunately, you can quickly determine the MAC address of your Windows 11 device with just a single command as follows:
 
 1. Launch the**Start** menu, search for the**Command Prompt** , and select the Best match. Alternatively, you can right-click the**Taskbar** and select**Terminal (Admin)** .
 2. Type the below command and press**Enter**  
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ## 3\. Find the MAC Address of All Windows 11 Network Adapters
 
- Your Windows 11 system can have multiple MAC addresses for different connections. Wifi connections will have a separate MAC address from an Ethernet connection. Similarly, any VM or[VPN](https://www.makeuseof.com/tag/what-is-a-vpn-how-tunneling-works/) will use different network adapter IP configurations.
+ Your Windows 11 system can have multiple MAC addresses for different connections. Wifi connections will have a separate MAC address from an Ethernet connection. Similarly, any VM or [VPN](https://www.makeuseof.com/tag/what-is-a-vpn-how-tunneling-works/) will use different network adapter IP configurations.
 
  Here's how to check the MAC addresses of all active network adapters on Windows 11:
 

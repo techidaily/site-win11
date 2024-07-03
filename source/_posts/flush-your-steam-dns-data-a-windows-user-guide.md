@@ -1,7 +1,7 @@
 ---
 title: Flush Your Steam DNS Data - A Windows User Guide
-date: 2024-06-25T11:24:13.358Z
-updated: 2024-06-26T11:24:13.358Z
+date: 2024-07-02T13:01:36.821Z
+updated: 2024-07-03T13:01:36.821Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  If an IP address becomes outdated, or there's a change on either end of the server, you may run into issues that require your cache to be flushed. For example, if you're receiving host connection errors within Steam.
 
- You can check out[what a DNS server is](https://www.makeuseof.com/tag/what-is-dns-server/) if you'd like to know more, but even if you know nothing about them, flushing the Steam DNS cache is easy to do.
+ You can check out [what a DNS server is](https://www.makeuseof.com/tag/what-is-dns-server/) if you'd like to know more, but even if you know nothing about them, flushing the Steam DNS cache is easy to do.
 
 ## How to Flush the Steam DNS Cache on Windows
 

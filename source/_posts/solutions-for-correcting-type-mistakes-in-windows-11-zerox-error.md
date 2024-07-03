@@ -1,7 +1,7 @@
 ---
 title: Solutions for Correcting Type Mistakes in Windows 11 Zerox Error
-date: 2024-06-25T11:26:08.035Z
-updated: 2024-06-26T11:26:08.035Z
+date: 2024-07-02T13:01:38.596Z
+updated: 2024-07-03T13:01:38.596Z
 tags:
   - windows10
   - windows11
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  You might need to fix error 0x80049dd3 because your PC’s microphone has an outdated or corrupted driver. An easy way to check if that’s the case is to run a scan with a third-party tool like Driver Booster.
 
- If Driver Booster, or alternative software, shows your microphone’s driver needs updating, you can select to update it from there. Our[guide to updating drivers with Driver Booster 8](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) (now version 10) tells you how to update device drivers with that software.
+ If Driver Booster, or alternative software, shows your microphone’s driver needs updating, you can select to update it from there. Our [guide to updating drivers with Driver Booster 8](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) (now version 10) tells you how to update device drivers with that software.
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
 

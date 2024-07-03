@@ -1,7 +1,7 @@
 ---
 title: "Mastery of the Mechanics: Guaranteeing a Glitch-Free Gaming Experience"
-date: 2024-06-25T11:27:23.641Z
-updated: 2024-06-26T11:27:23.641Z
+date: 2024-07-02T13:01:36.076Z
+updated: 2024-07-03T13:01:36.076Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,9 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
 
- First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
+ First things first, and that's going over the basics. If you haven't already, you should run through [the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
 
- The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
+ The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on [troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
 
- This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
+ This process varies depending on what brand or model your graphics card is. We have a guide that explains [how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
 
 ## 3\. Disable Full Screen Optimizations
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery of Java VM Error on Windows
-date: 2024-06-25T11:36:12.303Z
-updated: 2024-06-26T11:36:12.303Z
+date: 2024-07-02T13:01:36.685Z
+updated: 2024-07-03T13:01:36.685Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To check the Java version installed on Windows:
 3. In the Command Prompt window, type the following command and press**Enter** :  
 `java -version`
 4. The output will list the JDK version installed on your computer and the installation date.
-5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
+5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the [Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
 ## 2\. End the Java Process in Task Manager
 
@@ -51,7 +51,7 @@ To check the Java version installed on Windows:
 
  Insufficient permission can prevent some Java apps from running on your computer. To fix the problem, run Java with administrative privilege. To run Java as an administrator on Windows, right-click on**Java.exe** and select**Run as administrator** .
 
- Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out[how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
+ Alternatively, you can set the Java.exe to always run as administrator. This way, you don’t need to run Java with administrative privileges each time you want to launch it. Check out [how to always run a program as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for more information.
 
 ## 4\. Increase the System Memory for Java
 
@@ -99,12 +99,12 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 
 To clean install Java:
 
-1. Go to the[Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp) and download the uninstaller.
+1. Go to the [Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp) and download the uninstaller.
 2. Run the executable and click**Agree** .
 3. Select all the versions of Java detected by the tool and click**Next** .
 4. Click**Yes** and wait as the uninstaller removes Java from your computer. Click**Close** .
 5. Restart your computer to apply the changes.
-6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
+6. Next, go to the [Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
 ## 6\. Install Java in a WindowsClean Boot State

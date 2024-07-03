@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Subtitles: Navigating Textual Glitches with Prime & Windows 11"
-date: 2024-06-25T11:33:05.079Z
-updated: 2024-06-26T11:33:05.079Z
+date: 2024-07-02T13:01:37.282Z
+updated: 2024-07-03T13:01:37.282Z
 tags:
   - windows10
   - windows11
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ## 2\. Eliminate Browser Issues
 
- If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually[clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
+ If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually [clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
 
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
- The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
+ The problem can also occur due to an issue in the current version of your browser. In this case, you can [update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ## 4\. Reinstall the Prime Video App
 
- If you're still facing the issue, you are left with no option other than to reinstall the Prime Video app. To do that, first[uninstall the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, launch the Microsoft Store and search for and download the Prime Video for Windows.
+ If you're still facing the issue, you are left with no option other than to reinstall the Prime Video app. To do that, first [uninstall the app from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, launch the Microsoft Store and search for and download the Prime Video for Windows.
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 

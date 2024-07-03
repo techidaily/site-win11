@@ -1,7 +1,7 @@
 ---
 title: Overcoming Monochrome Troubles with Store App
-date: 2024-06-25T11:22:36.483Z
-updated: 2024-06-26T11:22:36.483Z
+date: 2024-07-02T13:01:38.323Z
+updated: 2024-07-03T13:01:38.323Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 Open Microsoft Store again and check if it’s now working.
 
- If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
+ If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these [reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
 
 ## 2\. Check Your Internet Connection
 
- There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re[dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
+ There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re [dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
 
@@ -87,19 +87,19 @@ Go through the below steps to change the Windows region:
 
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
- Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
+ Also, you can [manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 ## 7\. Re-register the Microsoft Store
 
  If you couldn’t get Microsoft Store to work using the above solutions, you should re-register the app through PowerShell. The process is quite easy and fast.
 
- First, launch PowerShell with administrative rights. If you don't know how to do this, refer to[how to open PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/) .
+ First, launch PowerShell with administrative rights. If you don't know how to do this, refer to [how to open PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/) .
 
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
 ## 8\. Reset Your Windows PC
 
- If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
+ If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to [factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
 
 ## Get the Microsoft Store Working Again
 

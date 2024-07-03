@@ -1,7 +1,7 @@
 ---
 title: Step Up Your Calendar Game with Personalization Tips on a Windows PC
-date: 2024-06-25T11:39:32.767Z
-updated: 2024-06-26T11:39:32.767Z
+date: 2024-07-02T13:01:37.565Z
+updated: 2024-07-03T13:01:37.565Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85
 
  Once you’ve set up Microsoft 365 on your Windows PC, you can enable Outlook for Windows preview by sliding the **Try the new Outlook** toggle button in the top-right corner of your Microsoft Outlook client.
 
- Fortunately, you can[access the Outlook for Windows Preview app for free](https://www.makeuseof.com/outlook-preview-app-windows/) on Windows 10 and 11, even if you do not have a valid Microsoft 365 license. Here's how you can quickly get the Outlook for Windows preview app:
+ Fortunately, you can [access the Outlook for Windows Preview app for free](https://www.makeuseof.com/outlook-preview-app-windows/) on Windows 10 and 11, even if you do not have a valid Microsoft 365 license. Here's how you can quickly get the Outlook for Windows preview app:
 
 1. From the **Start** menu, launch the **Microsoft Store**.
 2. Search for **Mail** and install the app if you don't already have it.

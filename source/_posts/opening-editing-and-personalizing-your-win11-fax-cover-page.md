@@ -1,7 +1,7 @@
 ---
 title: Opening, Editing & Personalizing Your Win11 Fax Cover Page
-date: 2024-06-25T11:35:51.121Z
-updated: 2024-06-26T11:35:51.121Z
+date: 2024-07-02T13:01:36.942Z
+updated: 2024-07-03T13:01:36.942Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ This will get the Fax Cover Page Editor running on your computer.
 
  The Windows 11 Run dialog box is a powerful and convenient tool for quickly launching programs and accessing settings. To open Fax Cover Page Editor using the Run command, follow these steps:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type "fxscover" into the text field and hit**Enter** or click**OK** .  
 ![Open Fax Cover Page Editor Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-fax-cover-page-editor-using-run-command.jpg)
 

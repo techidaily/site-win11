@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Fix a Mouse Wheel That Keeps Zooming Instead of Scrolling on Windows
-date: 2024-06-25T11:35:32.820Z
-updated: 2024-06-26T11:35:32.820Z
+date: 2024-07-02T13:01:36.747Z
+updated: 2024-07-03T13:01:36.747Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  You’re likely to come across this issue if the Ctrl key is stuck. That’s because pressing Ctrl and using the mouse wheel usually zooms in or out on a page. So, just take a look at the Ctrl key and ensure that it’s not stuck or damaged.
 
- Are you one of those people who like[switching and remapping the keys on a Windows device](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) ? If so, then you’d need to ensure that the key that has replaced the Ctrl button isn’t stuck.
+ Are you one of those people who like [switching and remapping the keys on a Windows device](https://www.makeuseof.com/tag/missing-key-remap-fix-keyboard-layout/) ? If so, then you’d need to ensure that the key that has replaced the Ctrl button isn’t stuck.
 
  Not able to tell if the Ctrl key is stuck or not? If so, try using the on-screen keyboard.
 
@@ -96,7 +96,7 @@ Let’s start by exploring how you can update the mouse drivers:
 
  There’s a high chance that you’re dealing with a hardware-related issue. And in this instance, an easy way out is to use the Hardware and devices troubleshooter.
 
- But if you suspect that the issue is caused by something else, then you’d need to use the other relevant[Windows 11 built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) .
+ But if you suspect that the issue is caused by something else, then you’d need to use the other relevant [Windows 11 built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) .
 
  Now, here are the steps for using the Hardware and devices troubleshooter:
 
@@ -135,7 +135,7 @@ Let’s start by exploring how you can update the mouse drivers:
 
 1. Open the**Programs and Features** window through the previous steps.
 2. Right-click on each**Microsoft Visual C++ program** (one at a time) and select**Uninstall** .
-3. Install the[Microsoft Visual C++ programs](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) from the Microsoft Website.
+3. Install the [Microsoft Visual C++ programs](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) from the Microsoft Website.
 
 ## 7\. Restore Windows to a Previous State
 

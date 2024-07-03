@@ -1,7 +1,7 @@
 ---
 title: How to Clear Unidentified Devices Issue in Win 11
-date: 2024-06-25T11:42:47.184Z
-updated: 2024-06-26T11:42:47.184Z
+date: 2024-07-02T13:01:38.109Z
+updated: 2024-07-03T13:01:38.109Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 ## 1\. Try the Basic Repairs
 
- The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
+ The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to [restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
 
  If restarting the computer wasn't helpful, try plugging the USB device into a different USB port. Doing this will be especially helpful if a broken USB port is causing the problem.
 
@@ -67,7 +67,7 @@ Here's how to use the Hardware and Devices troubleshooter:
 
 ## 4\. Disable Fast Startup
 
- Windows has a[fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
+ Windows has a [fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
 
  So, try disabling this feature and check if it makes any difference. Here's how:
 

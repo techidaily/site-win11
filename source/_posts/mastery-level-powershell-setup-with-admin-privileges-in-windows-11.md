@@ -1,7 +1,7 @@
 ---
 title: "Mastery Level: PowerShell Setup with Admin Privileges in Windows 11"
-date: 2024-06-25T11:32:53.881Z
-updated: 2024-06-26T11:32:53.881Z
+date: 2024-07-02T13:01:35.288Z
+updated: 2024-07-03T13:01:35.288Z
 tags:
   - windows10
   - windows11
@@ -66,7 +66,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  A command prompt lets you run almost any program or application on your Windows device. To run Windows PowerShell using this tool, follow these steps:
 
-1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
+1. Run Command Prompt as an Administrator (see [how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
 `powershell Start-Process powershell -Verb runAs`
@@ -90,7 +90,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Here's how to start Windows PowerShell as an administrator with this tool.
 
-1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
+1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
 2. Select**Run new task** from the top of the page.
 3. In the pop-up menu, type "PowerShell" and check the "Create this task with administrative privileges" box.  
 ![Open Windows PowerShell Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-task-manager.jpg)
@@ -100,7 +100,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Windows Control Panel is a software program that contains many tools for managing settings on Windows. With this tool, you can launch almost any application installed on your computer. Follow these steps to open Windows PowerShell as an administrator:
 
-1. Use one of the many[ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
+1. Use one of the many [ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
 2. Click on**System and Security** .
 3. Scroll down to the bottom and select**Windows Tools** .
 4. Right-click on**Windows PowerShell** and select**Run as administrator** .  
@@ -126,7 +126,7 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 
  This method involves creating a batch file to open Windows PowerShell as an administrator. Here's how to do it:
 
-1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see[how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
+1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see [how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
 2. In Notepad, copy and paste the following command line:  
 Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 3. Now click on**File** and select**Save as** from the menu list.

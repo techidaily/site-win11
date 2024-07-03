@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Windows 11 Defenses: Adding Firewall to the Context Menu"
-date: 2024-06-25T11:36:22.136Z
-updated: 2024-06-26T11:36:22.136Z
+date: 2024-07-02T13:01:37.615Z
+updated: 2024-07-03T13:01:37.615Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,10 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
  OneClickFirewall is a freely available software that adds a couple of firewall context menu options. One is a**Block Internet Access** option that establishes a rule blocking the right-clicked program. The other option removes the rule when selected. This is how you can add those firewall block options to the context menu with OneClickFirewall.
 
-1. First, open the[OneClickFirewall](https://winaero.com/download-oneclickfirewall/) page.
+1. First, open the [OneClickFirewall](https://winaero.com/download-oneclickfirewall/) page.
 2. Select the**Click here to download the file** link.
-3. Open Windows File Explorer (see[how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ) to bring up the folder that contains the downloaded OneClickFirewall ZIP archive.
-4. Then extract the file as covered within our guide for[how to unzip](https://www.makeuseof.com/unzip-files-windows-10/) [archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .  
+3. Open Windows File Explorer (see [how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ) to bring up the folder that contains the downloaded OneClickFirewall ZIP archive.
+4. Then extract the file as covered within our guide for [how to unzip](https://www.makeuseof.com/unzip-files-windows-10/) [archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option2.jpg)
 5. Bring up the extracted OneClickFirewall folder.
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
@@ -45,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
  Right-click a program’s EXE file you’ve set up an outbound rule for and select**Show more options** \>**Restore Internet Access** . Then the previously blocked software will be allowed through the firewall again.
 
- If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+ If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on [how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ## How to Add Firewall Block Options With the Right Click App
 
  The Right Click app (full name (Right Click) Allow, Block or Remove - Windows Firewall) is an alternative to OneClickFirewall that adds similar context menu options for blocking and allowing programs through the firewall. However, this software also adds an option for removing software from the firewall. You can add firewall block options to the context menu with Right Click like this:
 
-1. Open the[(Right Click) Allow, Block or Remove - Windows Firewall](https://www.softpedia.com/get/System/OS-Enhancements/Tweaking-com-Right-Click-Allow-Block-or-Remove-Windows-Firewall.shtml) download page on Softpedia.
+1. Open the [(Right Click) Allow, Block or Remove - Windows Firewall](https://www.softpedia.com/get/System/OS-Enhancements/Tweaking-com-Right-Click-Allow-Block-or-Remove-Windows-Firewall.shtml) download page on Softpedia.
 2. Click**Download Now** \>**Softpedia Secure Download (US)** to obtain the ZIP.
 3. Open up whatever folder contains the downloaded **Tweaking.com-Right-Click\_Allow\_Block\_or\_Remove-Windows\_Firewall.zip** .
 4. Extract the **Tweaking.com-Right-Click\_Allow\_Block\_or\_Remove-Windows\_Firewall.zip** archive.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
- You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
+ You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many [ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
 ## Apply Firewall Blocks to Software via the Context Menu
 
