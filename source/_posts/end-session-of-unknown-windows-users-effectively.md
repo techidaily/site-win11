@@ -1,0 +1,116 @@
+---
+title: End Session of Unknown Windows Users Effectively
+date: 2024-06-25T11:43:26.756Z
+updated: 2024-06-26T11:43:26.756Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes End Session of Unknown Windows Users Effectively
+excerpt: This Article Describes End Session of Unknown Windows Users Effectively
+keywords: Windows Security Halt,Unauthorized Stop,End Windows Breach,Cease User Access,Lockdown Unknown PCs,Shut Down Anomalies,Terminate Suspicious Users
+thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582b1ae72dd2c30508b513eea6.png
+---
+
+## End Session of Unknown Windows Users Effectively
+
+### Quick Links
+
+* [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
+* [Sign Out Other Users Using the Command Prompt](#sign-out-other-users-using-the-command-prompt)
+* [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
+* [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
+
+### Key Takeaways
+
+* To sign out other users on Windows 11, you can use Task Manager, Command Prompt, or Process Explorer.
+* The Task Manager method works on any version of Windows, while the Command Prompt option only works for Pro and above versions of Windows. Process Explorer requires a separate download.
+* Be sure to consider any unsaved work before logging off a user.
+
+ Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
+
+## 1\. Sign Out Other Users Using the Task Manager
+
+ The Task Manager's **Users** tab keeps track of all the user sessions active on your computer. You can use it to manage user accounts on Windows, switch between different user accounts, and sign off other user accounts. If you only need to [sign out of your current session on Windows 11](https://www.makeuseof.com/windows-11-how-to-sign-out/), the process is much simpler, though.
+
+ You must be logged in as an administrator to sign off other user accounts; [check if your user account has administrator rights](https://www.makeuseof.com/check-windows-account-admin-rights/) if you're not sure. Importantly, when you sign out a user, the user's unsaved data might be lost. So tread carefully.
+
+ To sign out other users using Task Manager:
+
+1. Right-click on **Start** and select **Task Manager**. Alternatively, use the keyboard shortcut **Ctrl + Shift + Esc**.
+2. In Task Manager, open the **Users** tab in the left pane which displays the number of users currently logged in. If not visible, click the **Open Navigation** button (three horizontal bars) in the top left corner.  
+![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
+3. In the **Users** tab, locate the account you want to sign off.
+4. Right-click on the user account and select **Sign off**.  
+![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
+5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
+
+## 2\. Sign Out Other Users Using the Command Prompt
+
+ On Windows 11 Pro, Edu, and Enterprise editions, you can use Command Prompt's "query sessions" command to check and log off active user accounts. This command is unlikely to work on a Windows 11 Home, limiting your options.
+
+ To sign out other users using Command Prompt:
+
+1. Press the **Win** key and type **cmd**.
+2. Right-click on **Command Prompt** and select **Run as administrator**.
+3. In the Command Prompt window, type the following command to view all the active user sessions with a query:  
+`query session`
+4. The output will show all the active user sessions on your computer. Make a note of the user account **ID** you want to sign out. In this instance, we have **Tashreef** as **1** and **Guest21** as **3** under the **ID** column.  
+![Command Prompt With Query Session Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-query-session-command-running-on-windows-11.jpeg)
+5. Type the following command to sign out the specified user. Replace **2** below with the user account ID you want to sign out:  
+`Logoff 3`
+6. Upon successful execution, Windows will sign out the specified user account.  
+![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
+7. Once done, type **exit** and press Enter to close the Command Prompt.
+
+## 3\. Log Off Other Users Using Process Explorer
+
+ Process Explorer is part of [Windows Sysinternal Tools, a suite of system administration utilities](http://www.makeuseof.com/windows-sysinternals-guide/) from Microsoft. Though the freeware is popular among developers and system admins, anyone can use Process Explorer to use some of its advanced features.
+
+ Process Explorer is a powerful tool that maps all currently active processes and DLL files to the accounts running them. Our purpose is to show you how to use its user management feature to kick out other user sessions.
+
+1. Go to Microsoft's official [Process Explorer page](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) and download Process Exploreras a zip file to a location on your desktop.  
+![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
+2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
+![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
+3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
+![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
+4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
+![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
+5. Hover your cursor over the user account name and select **Logoff**.
+
+ Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
+
+## Ask Other Users Before You Sign Them Out
+
+ When you log off other users, any unsaved work in their accounts is lost. So do consider that before you apply the above methods. Logging off from a Windows account in a multi-user PC is a good habit because it reduces the chance of data loss and frees up the computer's resources for others. Always request others to sign off when their work is finished.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/boosting-microsoft-edge-speeding-tips-for-windows-1011/"><u>Boosting Microsoft Edge: Speeding Tips for Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-file-sharing-software-on-windows-os/"><u>The Best File-Sharing Software on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-steam-sync-issue/"><u>Solving Windows Steam Sync Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-overlooked-duo-of-windows-monitoring-metrics/"><u>The Overlooked Duo of Windows Monitoring Metrics</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-write-unavailable-issue-in-windows/"><u>Eradicating 'Write Unavailable' Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-systems-replacing-aged-windows-drivers-efficiently/"><u>Streamlining Systems: Replacing Aged Windows Drivers Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-gain-entry-windowsstore-apps-explorer/"><u>How To Gain Entry: WindowsStore Apps Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-win11-startup-options-a-comprehensive-guide/"><u>Navigating Win11 Startup Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-4k-laptop-choices-for-gamers/"><u>[Updated] Premier 4K Laptop Choices for Gamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s21-fe-5g-2023-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S21 FE 5G (2023)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media-for-2024/"><u>[Updated] Effortless Viewing  Automatic Playback of YouTube Videos on Social Media for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-visionaryshot-cutting-edge-windowsmac-captures/"><u>2024 Approved  VisionaryShot  Cutting-Edge Windows/Mac Captures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-windows-best-camcorders-reviewed-and-rated-for-2024/"><u>[Updated] Window's Best Camcorders Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bright-ideas-elevate-your-video-with-strategic-lighting/"><u>In 2024, Bright Ideas  Elevate Your Video with Strategic Lighting</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-webm-to-mp4-top-rated-conversion-tools-and-software-for-2024/"><u>Updated From WebM to MP4 Top-Rated Conversion Tools and Software for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-g22-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia G22 to Latest Samsung | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

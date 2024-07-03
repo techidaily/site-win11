@@ -1,0 +1,108 @@
+---
+title: Configuring Metered Connection for Wifi Networks on Win11
+date: 2024-06-25T11:35:57.871Z
+updated: 2024-06-26T11:35:57.871Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Configuring Metered Connection for Wifi Networks on Win11
+excerpt: This Article Describes Configuring Metered Connection for Wifi Networks on Win11
+keywords: Wi-Fi Metering Setup (Wifi+Metering),Windows 11 WLAN Metering,Configure Wi-Fi Metering (Win11),Win11 Wireless Meter Configurations,Metered Wi-Fi on Windows 11,Optimizing Metric in Win11 Wifi,Win11 Setup for Wifi Metering
+thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a3cf82559b42c4110e5fe7f0.jpg
+---
+
+## Configuring Metered Connection for Wifi Networks on Win11
+
+ If you're using a capped internet connection, such as a mobile hotspot, you'd want to limit your Windows PC's background data usage. That way, you ensure that background processes, like OneDrive or Steam, do not use up all your data while your computer's on.
+
+ But how do you configure your PC to treat a Wi-Fi network as a metered or unmetered connection? Luckily, Windows 11 provides a couple of different ways to enable or disable metered connections for a Wi-Fi network. Let's go over both of them in detail.
+
+## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
+
+ The**Network & internet** section in the Settings app serves as a central location for all the network-related settings on Windows. You can visit that section to quickly enable or disable a metered connection for your computer's Wi-Fi network. Here are the steps for the same.
+
+1. Open the**Start menu** and click the**gear-shaped icon** to[launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+2. Select**Network & internet** from the left sidebar.
+3. Click on**Wi-Fi** from the right pane.
+4. Go to**Manage known networks** .
+5. Select the network you want to configure.
+6. Enable the toggle next to**Metered connection** to set the Wi-Fi network as metered. If you want to set the network as an unmetered connection, disable the toggle.  
+![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
+
+ Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
+
+## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
+
+ If you're a power user who prefers to make system changes with a command-line tool, you can use the[Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to enable or disable metered connection for a Wi-Fi network on Windows. Here's how you can go about it.
+
+1. Right-click the**Start icon** or use the**Win + X** keyboard shortcut to open the Power User menu.
+2. Select**Terminal (Admin)** from the list.
+3. Select**Yes** when the User Account Control (UAC) prompt appears.
+4. In the terminal window, type the following command and press**Enter** to view a list of network profiles on your computer:  
+`netsh wlan show profiles`  
+![Network Profiles in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-profiles-in-windows.jpg)
+5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
+6. Next, run the following command to determine whether your connection is metered or unmetered.  
+`netsh wlan show profile name="Wi-Fi Name"`  
+ Make sure you replace**Wi-Fi Name** in the above command with the actual name of the network noted in the last step.
+7. Under the**Cost settings** section, check the value next to the**Cost** field. If it reads**Fixed** , the network is set as a metered connection. Conversely, if it reads**Unrestricted** , it is designated as an unmetered connection.
+8. Type the following command and press**Enter** to mark the network as a metered connection.  
+`netsh wlan set profileparameter name="Wi-Fi Name" cost=Fixed`  
+![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
+
+ If you want to disable the metered connection for a network, run the following command instead.
+
+`netsh wlan set profileparameter name="Wi-Fi Name" cost=Unrestricted`
+
+ The Command Prompt should display a message once the network profile is updated. After that, you can close the terminal window.
+
+ Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
+
+## Efficiently Manage Your Data With Metered Connection
+
+ Enabling or disabling the metered connection option for Wi-Fi networks in Windows is relatively simple, regardless of the method you use.
+
+ If you have a limited data plan, you can also set a data usage limit for your Wi-Fi connection. This way, Windows will notify you when you approach the set data limit.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/gpt4alls-local-window-companion-a-cost-free-chatbot-clone/"><u>GPT4All's Local Window Companion - A Cost-Free ChatBot Clone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-freeze-issues-photoshopping-onoff-windows-11-versions-2023/"><u>Overcoming Freeze Issues: Photoshopping On/Off Windows 11, Versions 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablish-clear-view-fixing-black-screens-on-win11/"><u>Reestablish Clear View: Fixing Black Screens on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-icon-badges-non-display-issue/"><u>Counteracting Icon Badges Non-Display Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-approaches-for-temporary-profiles-on-windows/"><u>Innovative Approaches for Temporary Profiles on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/7-noteworthy-changes-in-the-windows-11-file-explorer/"><u>7 Noteworthy Changes in the Windows 11 File Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-utils-for-efficient-gpu-performance-testing/"><u>Top 6 Windows Utils for Efficient GPU Performance Testing</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-unidentified-component-in-windows-lsass/"><u>Quick Fixes for Unidentified Component in Windows Lsass</u></a></li>
+<li><a href="https://win11.techidaily.com/which-window-suits-you-best-home-versus-pro-in-windows-11/"><u>Which Window Suits You Best? Home Versus Pro in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-unsigned-files-error-for-windows-1110/"><u>Bypassing Unsigned Files Error for Windows 11/10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-isolation-pro-eliminate-backgrounds-in-affinity/"><u>[New] Image Isolation Pro  Eliminate Backgrounds in Affinity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[Updated] In 2024, Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-building-a-brand-building-income-youtube-edition/"><u>[Updated] Building a Brand, Building Income  YouTube Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-best-free-mpeg-video-stitching-software/"><u>2024 Approved The Best Free MPEG Video Stitching Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-sources-of-high-frequency-glass-disintegration-sounds-for-2024/"><u>Updated Exploring Sources of High-Frequency Glass Disintegration Sounds for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[New] In 2024, Crafting Captivating Content  The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/building-bridges-pathways-for-graphic-design-aspirants-for-2024/"><u>Building Bridges  Pathways for Graphic Design Aspirants for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effortless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube/"><u>Effortless Entrepreneurship  Top 10 Easy-to-Create Biz Channels on YouToTube</u></a></li>
+</ul></div>

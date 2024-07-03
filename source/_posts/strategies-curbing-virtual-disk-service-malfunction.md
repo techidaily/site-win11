@@ -1,0 +1,102 @@
+---
+title: "Strategies: Curbing Virtual Disk Service Malfunction"
+date: 2024-06-25T11:27:23.336Z
+updated: 2024-06-26T11:27:23.336Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Strategies: Curbing Virtual Disk Service Malfunction"
+excerpt: "This Article Describes Strategies: Curbing Virtual Disk Service Malfunction"
+keywords: Disk Service Fix Strat,Anti-Malware for Disks,VDS Fix Tips,Drives Stability Control,Malfunction Prevention Guide,Virtual Disk Error Reduction,Service Failure Management
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
+---
+
+## Strategies: Curbing Virtual Disk Service Malfunction
+
+ Disk Management is a Windows utility with which users can partition and rename drives. However, some users have reported this Windows error message pops up when they try to access Disk Management: “Disk Management could not start Virtual Disk Service (VDS).” A variation of that error message also says, “Unable to connect to Virtual Disk Service.”
+
+ This error means users can’t access and utilize Disk Management. The issue more typically arises in remote connection environments. This is how you can fix the Disk Management Virtual Disk Service error in Windows 10 and 11\.
+
+## 1\. Disconnect External Drives From Your PC
+
+ First, try disconnecting all non-essential USB devices from your PC. Make sure there aren’t any external drives, USB sticks, mobile phones, or card readers connected to your PC. Then try [opening the Disk Management utility](https://www.makeuseof.com/ways-open-disk-management-windows-10/) again.
+
+## 2\. Run System File and Image Repair Scans
+
+ System file corruption could feasibly cause the Disk Management Virtual Disk Service error. So, check the integrity of system files on your PC with the Windows System File Checker command-line tool. That utility will also usually repair corrupted system files detected. This [how to run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide includes instructions for utilizing that tool.
+
+![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command.jpg)
+
+ If SFC detects corrupted system files but can’t repair them, you may need to run a Deployment Image Service Management scan. That’s a tool for fixing issues with the Windows system image. You can run that utility by executing this Deployment Image command within the Command Prompt:
+
+`DISM /Online /Cleanup-Image /RestoreHealth`
+
+## 3\. Enable and Run the Virtual Disk Service
+
+ A disabled Virtual Disk service is a common cause of the Disk Management VDS error. Disk Management can’t connect to VDS when the Virtual Disk service is disabled. So, try enabling and running the Virtual Disk service like this:
+
+1. To access Run, press **Win + R**.
+2. Enter **services.msc** inside the Run command dialog and press **Return**.
+3. Scroll down and double-click on **Virtual Disk** within the Services window.  
+![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-window.jpg)
+4. Select the **Automatic** setting on the **Startup type** menu.  
+![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-type-drop-down-menu.jpg)
+5. Press **Start** within the Virtual Disk Properties window.
+
+1. Select the window’s **Log on** tab.
+2. Next, click the **Allow service to interact with desktop** checkbox to select that option.  
+![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-on-tab.jpg)
+3. Click **Apply** to save your new Virtual Disk service settings.
+4. Select the Virtual Disk Properties window’s **OK** option.
+5. If you encounter the Disk Management VDS error within a remote connection environment, repeat the above steps to check the Virtual Disk service is enabled on both the local and remote PCs.
+
+## 4\. Allow Remote Volume Management Through Windows Defender Firewall
+
+ Windows Defender Firewall can cause the Disk Management VDS error by blocking that utility from connecting with Virtual Disk. So, make sure Remote Volume Management is allowed through that firewall on both local and remote PCs. Our [guide to allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) includes instructions for applying this resolution.
+
+![The allowed apps firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/firewall-options.jpg)
+
+## 5\. Turn Off Third-Party Security Software
+
+ If your PC includes a third-party security (antivirus) app, that software could be blocking Disk Management from establishing a VDS connection. Remember that many third-party security apps also incorporate firewalls along with antivirus components. So, try temporarily disabling both the firewall and antivirus module within your third-party security software.
+
+ To disable the firewall part, look for a turn-off firewall option within the settings tab of your antivirus software. You can usually turn off antivirus shields by right-clicking on security apps’ system tray icons and selecting disable options on their context menus. Select to turn off the antivirus shield for about an hour if you can, and try accessing Disk Management again to see if the issue persists.
+
+![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+## Manage Your Drives With Disk Management Again
+
+ The potential solutions in this guide aren’t totally guaranteed, but they’re the most likely ways to fix the Disk Management VDS error on a Windows PC. So, maybe one will get the Disk Management VDS issue sorted on your PC. Then you can manage and partition your drives with Disk Management again.
+
+ This error means users can’t access and utilize Disk Management. The issue more typically arises in remote connection environments. This is how you can fix the Disk Management Virtual Disk Service error in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/correcting-gaps-in-file-explorer-indexing/"><u>Correcting Gaps in File Explorer Indexing</u></a></li>
+<li><a href="https://win11.techidaily.com/1719368082467-switch-off-windows-11-defender-firewall-now/"><u>Switch Off Windows 11 Defender Firewall Now</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-windows-admin-imposed-setup-barriers/"><u>How to Tackle Windows 'Admin-Imposed' Setup Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-widget-guide-top-7-methods/"><u>Windows 11 Widget Guide: Top 7 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254078043-navigating-through-windows-issues-made-simple/"><u>Navigating Through Windows Issues Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-update-issue-0xca00a009/"><u>Overcoming Windows Update Issue #0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-management-app-collapses/"><u>Prevent Windows Management App Collapses</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-setup-utilize-windows-11s-troubleshooting/"><u>Streamline Your Setup: Utilize Windows 11'S Troubleshooting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-visual-storytelling-and-auditory-art-converting-instagrams-to-songs/"><u>[New] 2024 Approved  Visual Storytelling & Auditory Art  Converting Instagrams to Songs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up-for-2024/"><u>[Updated] Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-best-alternatives-to-audacity-for-2024/"><u>Updated 10 Best Alternatives to Audacity for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-magic-v2-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Magic V2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-symphony-on-your-phone-best-tone-acquisition-websites/"><u>[Updated] Symphony on Your Phone  Best Tone Acquisition Websites</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/best-digital-methods-for-silencing-unwanted-sound-in-recorded-music/"><u>Best Digital Methods for Silencing Unwanted Sound in Recorded Music</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/iconic-video-titles-youtubes-most-watched-lore/"><u>Iconic Video Titles  YouTube's Most-Watched Lore</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,0 +1,82 @@
+---
+title: Essential Role of Windows Batch Files in OS Functioning
+date: 2024-06-25T11:43:40.217Z
+updated: 2024-06-26T11:43:40.217Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Essential Role of Windows Batch Files in OS Functioning
+excerpt: This Article Describes Essential Role of Windows Batch Files in OS Functioning
+keywords: Batch File Impact,Operating System Uses,Windows Scripting Tools,OS Functionality Basics,Scripting for OS,System Batch Commands,Batch Execution OS Role
+thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a757fb94ecaebe8d1775e8b5.jpg
+---
+
+## Essential Role of Windows Batch Files in OS Functioning
+
+ Deleting the hidden "$Windows.\~BT" folder and recovering gigabytes of space on your hard drive is tempting. But what is this cryptically named folder for, and how critical is it to your Windows installation?
+
+## What Is the “$Windows.\~BT” Folder, and Should You Delete It?
+
+ Windows creates the "$Windows.\~BT" folder when you upgrade the operating system to a newer build. This folder contains all the essential files for the upgrade process, like temporary installation files and logs from the previous Windows installation.
+
+ Windows automatically removes the "$Windows.\~BT" folder after 10 days. As manually deleting this folder will [remove old Windows installation files](https://www.makeuseof.com/tag/delete-old-windows-update-files/), you won't be able to roll back to the previous Windows build using the **Go back** option in the Recovery menu within that time (for example, to [downgrade from Windows 11 to Windows 10](https://www.makeuseof.com/windows-11-downgrade-to-windows-10/)). Hence, you should only get rid of this folder if you are satisfied with the current Windows build on your PC. You can also safely delete the massive folder if Windows fails to do it automatically after the grace period.
+
+ But you shouldn't just delete this hidden folder like any other folder on the desktop. Instead, you should turn to the Disk Cleanup tool or the Command Prompt.
+
+## How to Find and Delete the "$Windows.\~BT" Folder
+
+ As "$Windows.\~BT" is a hidden folder, you need to [configure Windows to show hidden files and folders](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to find it in File Explorer. Once you do, the **C:\\$Windows.\~BT** directory will become visible.
+
+ You can’t delete the "$Windows.\~BT" folder directly, though. To do so, you need to run the Disk Cleanup tool. Here's how:
+
+1. Press **Win + R** to open the Run dialog box.
+2. Type **cleanmgr** in the box and press **Enter**.
+3. Use the dropdown menu to select the system drive (usually **C:**) and click **OK**.
+4. Click the **Clean up system files** button.
+5. Under **Files to delete**, use the checkboxes to select these options: **Previous Windows Installations**, **Windows Update Cleanup**, **Windows upgrade log files**, **Temporary Windows installation files**, and **Temporary files**.
+6. Click **OK**.
+7. Choose **Delete Files** to confirm.  
+![Delete the $Windows.~BT Folder Using the Disk Cleanup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/delete-the-windows-bt-folder-using-the-disk-cleanup-tool.jpg)
+
+ If the "$Windows.\~BT" folder shows up even after you run the Disk Cleanup tool, you'll need to execute a few commands in Command Prompt. For that, [open Command Prompt with administrative rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) and then run the following commands one by one.
+
+`takeown /F C:\$Windows.~BT\* /R /A
+icacls C:\$Windows.~BT\*.* /T /grant administrators:F
+rmdir /S /Q C:\$Windows.~BT\`
+
+ Once you run the above commands, the "$Windows.\~BT" folder will be deleted for good.
+
+ Now that you understand the purpose of the "$Windows.\~BT" folder, you can decide how to handle it. Beyond the "$Windows.\~BT" folder, you may also come across folders like "Windows.old," "$WinREAgent," "$SysReset," and others which can also be deleted safely using the Disk Cleanup tool.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-efficiency-essential-strategies-for-windows-11-users/"><u>Mastering Efficiency: Essential Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-11-and-11/"><u>How to Fix a Blank Login Screen in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-installation-of-ai-tools-in-windows/"><u>Efficient Installation of AI Tools in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-virtuoso-top-tips-to-overcome-blurry-windows-11-displays/"><u>Visual Virtuoso: Top Tips to Overcome Blurry Windows 11 Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-past-the-steam-file-access-hurdle/"><u>Stepping Past the Steam “File Access” Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-access-how-to-use-windows-11s-security-interface/"><u>Securing Access: How to Use Windows 11'S Security Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-for-resolving-password-hash-misalignment-on-windows/"><u>Essential Strategies for Resolving Password Hash Misalignment on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-new-strategies-behind-extended-updates-in-windows-11-h2/"><u>Exploring the New Strategies Behind Extended Updates in Windows 11 H2</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-system-sounds-despite-muted-status/"><u>Enable System Sounds Despite Muted Status</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>Expert Guide to Pixlr Edits  Top 15 Tricks for Perfection</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>2024 Approved  Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-nokia-c110-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Nokia C110.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-upload-window-movie-maker-video-to-vimeo-for-2024/"><u>[Updated] How to Upload Window Movie Maker Video to Vimeo for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-15-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 15 to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-intro-maker-software-for-pc-top-10-picks-online-and-offline/"><u>Updated In 2024, Intro Maker Software for PC Top 10 Picks Online & Offline</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-15-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 15 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-camera-to-community-shared-videos-on-twtplustumble/"><u>[Updated] 2024 Approved  From Camera to Community  Shared Videos on Twt+Tumble</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-commercial-sky-data-haven/"><u>In 2024, Premium Commercial Sky Data Haven</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-top-rated-hd-video-editing-tools-for-professionals-and-beginners/"><u>New 2024 Approved Top-Rated HD Video Editing Tools for Professionals and Beginners</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
