@@ -50,26 +50,7 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/8-ways-to-customize-windows-10-and-11-with-winbubble/"><u>8 Ways to Customize Windows 10 and 11 With WinBubble</u></a></li>
-<li><a href="https://win11.techidaily.com/ace-at-tech-how-to-revitalize-your-pcs-apps/"><u>Ace at Tech: How to Revitalize Your PC's Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/controlling-devices-in-the-dormant-system-state/"><u>Controlling Devices in the Dormant System State</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-windows-11-search-icon-from-a-text-bar/"><u>How to Change Windows 11 Search Icon From a Text Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-recording-techniques-gaming-screen-captures-with-intel/"><u>Advanced Recording Techniques: Gaming Screen Captures with Intel</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-the-electrical-footprint-of-your-personal-windows-pc/"><u>Analyzing the Electrical Footprint of Your Personal Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-6-factors-that-favor-windows-11/"><u>Unraveling 6 Factors That Favor Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-windows-activation-error-0x8007251d-and-how-do-you-fix-it/"><u>What Is the Windows Activation Error 0X8007251D and How Do You Fix It?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-reviewing-and-analyzing-previous-tweets/"><u>In 2024, Reviewing and Analyzing Previous Tweets</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-7-best-mp4-video-editors-on-mac-edit-mp4-videos-easily/"><u>Updated In 2024, 7 Best MP4 Video Editors on Mac Edit MP4 Videos Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-11-pro-max-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 11 Pro Max Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oneplus-12-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock OnePlus 12 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-total-insight-into-vscos-photography-ecosystem/"><u>In 2024, Total Insight Into VSCO's Photography Ecosystem</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-5-essential-online-aspect-ratio-calculators/"><u>New 5 Essential Online Aspect Ratio Calculators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[New] In 2024, How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-40i-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Hot 40i</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/unraveling-the-acoustic-patterns-of-crickets/"><u>Unraveling the Acoustic Patterns of Crickets</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

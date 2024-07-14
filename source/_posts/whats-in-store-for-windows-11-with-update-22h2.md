@@ -1,7 +1,7 @@
 ---
 title: What's in Store for Windows 11 with Update #22H2?
-date: 2024-06-25T11:26:28.477Z
-updated: 2024-06-26T11:26:28.477Z
+date: 2024-07-09T23:18:05.166Z
+updated: 2024-07-10T23:18:05.166Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  Microsoft introduced File Explorer tabs in the Windows 11 22H2 update last year. Tabs support might expand to the Notepad app as well. Microsoft is currently testing tabs in Notepad with Windows 11 Insiders, hinting that it has a high chance of becoming available in upcoming Moment updates.
 
- Just like how[File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
+ Just like how [File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
 
 ## 4\. Animated Icons in the Settings App
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  Snipping Tool is Windows 11's in-built screenshot capture application. However, the tool will not be limited to capturing only screenshots in the future. Microsoft is currently testing the ability to create screen recordings in the Snipping Tool app with Windows 11 Dev Channel Insiders. The likelihood is that a new Snipping Tool with screen recording capability will be available in the next Windows 11 Moment 2 update.
 
- The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our[guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
+ The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our [guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
 ## 6\. New Dark Mode Toggle
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 
  Image credit: Zac Bowden/[Twitter](https://twitter.com/zacbowden/status/1592528453903200257)
 
- As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our[guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
+ As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our [guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
 
 ## 7\. Task Manager Improvements
 
@@ -104,26 +104,4 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/what-is-the-windows-activation-error-0x8007251d-and-how-do-you-fix-it/"><u>What Is the Windows Activation Error 0X8007251D and How Do You Fix It?</u></a></li>
-<li><a href="https://win11.techidaily.com/winupgrade-hurdles-overcoming-error-code-xc004f050/"><u>WinUpgrade Hurdles: Overcoming Error Code Xc004f050</u></a></li>
-<li><a href="https://win11.techidaily.com/managing-out-of-memory-alerts-in-fantasy-school-of-wizardry-game/"><u>Managing Out-of-Memory Alerts in Fantasy School of Wizardry Game</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-define-custom-idle-timeframe/"><u>Windows: Define Custom Idle Timeframe</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-time-performance-top-5-wins-speed-up-solutions/"><u>Prime Time Performance: Top 5 Win's Speed-Up Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-audit-steps-for-default-user-permission-reset/"><u>Win11 Audit: Steps for Default User Permission Reset</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-temporary-path-errors-quick-fix-guide-for-windows-error-1152/"><u>Tackling Temporary Path Errors - Quick Fix Guide for Windows Error 1152</u></a></li>
-<li><a href="https://win11.techidaily.com/faster-booting-window-11s-boot-delay-adjustment-explained/"><u>Faster Booting: Window 11'S Boot Delay Adjustment Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-access-the-key-to-your-windows-11-folder/"><u>Conquering Access: The Key to Your Windows 11 Folder</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-for-deleting-ms-edge-win11/"><u>Step-by-Step Guide for Deleting MS Edge Win11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-game-saves-mastering-fbx-recording/"><u>[New] 2024 Approved  Streamline Game Saves  Mastering FBX Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-5-cutting-edge-streamers-camera-recommendations/"><u>[New] 5 Cutting-Edge Streamers' Camera Recommendations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-game-changer-elevating-your-virtual-reality-film-quality-for-2024/"><u>[New] The Game Changer  Elevating Your Virtual Reality Film Quality for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-path-to-outstanding-interviewer-expertise/"><u>[New] In 2024, The Path to Outstanding Interviewer Expertise</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-your-digital-presence-fb-video-creation-basics/"><u>2024 Approved  Enhancing Your Digital Presence  FB Video Creation Basics</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-easily-blur-photo-backgrounds-with-these-free-online-tools/"><u>Updated 2024 Approved Easily Blur Photo Backgrounds with These Free Online Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/white-list-microphones-for-frugal-filmmakers/"><u>White-List Microphones for Frugal Filmmakers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-ios-choices-for-superior-video-experience/"><u>In 2024, Premier iOS Choices for Superior Video Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-inconsistent-exports-securing-smooth-srt-outputs-for-2024/"><u>From Inconsistent Exports  Securing Smooth SRT Outputs for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-best-online-platforms-for-lyric-video-creation/"><u>The Best Online Platforms for Lyric Video Creation</u></a></li>
-</ul></div>
+

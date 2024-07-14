@@ -1,7 +1,7 @@
 ---
 title: Unlocking Win11 Drive Map Techniques
-date: 2024-06-25T11:38:10.119Z
-updated: 2024-06-26T11:38:10.119Z
+date: 2024-07-09T23:17:54.781Z
+updated: 2024-07-10T23:17:54.781Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 ## Configure Network Discovery in Windows
 
- Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
+ Windows has a feature called [network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
 
  This allows you to share any file or folder with other devices on the same network. Before mapping a network drive, make sure that network discovery is enabled on your computer.
 
@@ -44,7 +44,7 @@ Follow the sets below to enable network discovery on Windows:
 
  Remember that enabling network discovery may make your computer more vulnerable to security risks as it allows other devices on the network to access your computer.
 
- Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
+ Therefore, it's crucial to ensure that you have a strong password and [customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 ## 1\. Map a Network Drive Using File Explorer
 
@@ -81,7 +81,7 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
- Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+ Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some [useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -89,7 +89,7 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
 So, follow these simple instructions:
 
-1. Open[Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open [Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type the command line given below, but replace**DRIVE** with any drive letter and**\\\\ServerName\\SharedFolder** with the shared folder's path:  
 net use DRIVE \\ServerName\SharedFolder
 3. If the shared folder requires a username and password to access, you can add the /user parameter to the command, followed by a username and password in the format**username** and**pass** . For example:  
@@ -134,21 +134,4 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-telnet-activation-on-modern-windows/"><u>Quick Guide to Telnet Activation on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-win-lol-initial-load-issue/"><u>Resolving Win: LOL Initial Load Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-the-lockout-counter-after-incorrect-password-entry-windows-11-edition/"><u>Tweaking the Lockout Counter After Incorrect Password Entry, Windows 11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-winmedia-server-error/"><u>Troubleshooting WinMedia Server Error</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-wisdom-mastering-the-method-of-making-dossiers/"><u>Win11 Wisdom: Mastering the Method of Making Dossiers</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-opengl-error-3-from-nvidia/"><u>Correcting OpenGL Error 3 From NVIDIA</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-10-facts-about-instagram-reels-the-truth-you-may-ignore/"><u>[Updated] 2024 Approved  10 Facts About Instagram Reels-The Truth You May Ignore</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/revamping-video-meeting-banners-for-teammates-for-2024/"><u>Revamping Video Meeting Banners for Teammates for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamlining-with-obs-essential-tips-for-android-users-for-2024/"><u>Streamlining with OBS  Essential Tips for Android Users for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/advanced-mac-toolkit-screenaudio-recording-feature/"><u>Advanced Mac Toolkit  Screen/Audio Recording Feature</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-breaking-down-techniques-for-recording-google-meet-participants/"><u>In 2024, Breaking Down  Techniques for Recording Google Meet Participants</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-6-tips-for-your-first-facebook-ads-for-2024/"><u>New 6 Tips for Your First Facebook Ads for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-perfect-pc-playthrough-captures-6-tips-and-tricks/"><u>[New] In 2024, Perfect PC Playthrough Captures  6 Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-facebook-audio-downloaders-convert-to-mp3-instantly-for-2024/"><u>Top Facebook Audio Downloaders Convert to MP3 Instantly for 2024</u></a></li>
-</ul></div>
+

@@ -50,25 +50,7 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-screen-snapshotting-4-key-strategies-for-windows-users/"><u>Mastering the Art of Screen Snapshotting: 4 Key Strategies for Windows Users.</u></a></li>
-<li><a href="https://win11.techidaily.com/boosted-performance-with-smart-use-of-windows-11s-bar/"><u>Boosted Performance with Smart Use of Windows 11'S Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-behind-yourphoneexe-in-modern-windows-systems/"><u>What's Behind YourPhone.exe in Modern Windows Systems?</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-new-world-of-windows-11-avoidance-guide-top-8/"><u>Navigating the New World of Windows 11: Avoidance Guide (Top 8)</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-high-cpu-usage-a-guide-via-windows-resource-monitor/"><u>Conquering High CPU Usage: A Guide via Windows Resource Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-windows-pens-tablet-notes-companions/"><u>Excellent Windows Pens' Tablet Notes Companions</u></a></li>
-<li><a href="https://win11.techidaily.com/missing-dxgidll-in-win11-heres-an-action-plan/"><u>Missing Dxgi.dll in Win11? Here's an Action Plan</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-crafting-a-compelling-narrative-with-voiceover-and-visuals-for-2024/"><u>[New] Crafting a Compelling Narrative with Voiceover and Visuals for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a1-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A1 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-edit-youtube-videos-in-final-cut-pro-for-2024/"><u>[Updated] How to Edit YouTube Videos in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-captivating-realm-of-tiktok-dance-music-and-visual-effects-for-2024/"><u>The Captivating Realm of TikTok  Dance, Music & Visual Effects for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[Updated] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/method-to-archive-webcam-discussions/"><u>Method to Archive Webcam Discussions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-art-of-gameye-immersive-video-recording/"><u>[New] 2024 Approved  The Art of GamEye  Immersive Video Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-burst-mode-for-dynamic-videos/"><u>[Updated] Harnessing the Power of Burst Mode for Dynamic Videos</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

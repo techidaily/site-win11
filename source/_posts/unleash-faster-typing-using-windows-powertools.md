@@ -1,7 +1,7 @@
 ---
 title: Unleash Faster Typing Using Windows' PowerTools
-date: 2024-06-25T11:27:18.859Z
-updated: 2024-06-26T11:27:18.859Z
+date: 2024-07-09T23:17:56.147Z
+updated: 2024-07-10T23:17:56.147Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,9 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 
  Developed by Microsoft in collaboration with its community, PowerToys is a suite of open-source utilities you can install on your Windows 10 or 11 PC. With PowerToys, you can customize your Windows experience and enhance your productivity and efficiency.
 
- PowerToys was launched with Windows 95 and included a utility that enabled users to auto-play CDs. Today, PowerToys comprises many innovative tools, including one that lets you[extract text from images](https://www.makeuseof.com/windows-powertoys-extract-text-images/) and another that[converts your cursor into a handy color picker](https://www.makeuseof.com/powertoys-color-picker-guide/) .
+ PowerToys was launched with Windows 95 and included a utility that enabled users to auto-play CDs. Today, PowerToys comprises many innovative tools, including one that lets you [extract text from images](https://www.makeuseof.com/windows-powertoys-extract-text-images/) and another that [converts your cursor into a handy color picker](https://www.makeuseof.com/powertoys-color-picker-guide/) .
 
- It's easy to get PowerToys on your PC—look it up in the Microsoft Store and install it or download it from its[PowerToys Microsoft Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) .
+ It's easy to get PowerToys on your PC—look it up in the Microsoft Store and install it or download it from its [PowerToys Microsoft Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) .
 
  Once you have PowerToys, you can use the Keyboard Manager, Quick Accent, and Shortcut Guide to type faster. Remember that PowerToys must be activated and running in the background for these utilities to work.
 
@@ -94,7 +94,7 @@ To remap your keys with Keyboard Manager:
 
 ## How to Keep Shortcuts Handy With the Shortcut Guide
 
- You might not be able to always recall the[various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
+ You might not be able to always recall the [various Windows keyboard shortcuts](http://www.makeuseof.com/windows-11-keyboard-shortcuts/) , even if you are a Windows Power User. But the PowerToys Shortcut Guide has you covered.
 
  First,**Enable Shortcut Guide** in PowerToys Settings. Then choose to activate Shortcut Guide by**holding the Win key down for a set time** or use a**customized shortcut** .
 
@@ -132,25 +132,4 @@ To remap your keys with Keyboard Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/guide-for-reviving-a-stuck-download-space-on-windows-os/"><u>Guide for Reviving a Stuck Download Space on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-frozen-ctrl-key-functionality-in-windows-11-pcs/"><u>Addressing Frozen CTRL Key Functionality in Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-video-reset-error-on-windows-systems/"><u>Dealing with Video Reset Error on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-started-the-windows-11-guide-to-altering-fax-cover-pages/"><u>Getting Started: The Windows 11 Guide to Altering Fax Cover Pages</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-operational-intel-wi-fi-ax201-on-pcs/"><u>Fixing Non-Operational Intel Wi-Fi AX201 on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-steam-network-access-on-pc-windows/"><u>Unlocking Steam Network Access on PC Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/rewind-records-key-tools-to-modify-files-creation-dates/"><u>Rewind Records: Key Tools to Modify File's Creation Dates</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-post-zestful-days-of-life-on-windows-pcs/"><u>Reviving Post-Zestful Days of Life on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-set-win-10s-internet-safety-mechanism/"><u>How to Set Win 10’S Internet Safety Mechanism</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-v29-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo V29 Unlock Without Password</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-7-voice-changer-recorder-apps/"><u>In 2024, Top 7 Voice Changer Recorder Apps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-poco-c51-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Poco C51 Screen | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-meme-list-social-media-giants-clash/"><u>[New] In 2024, The Ultimate Meme List  Social Media Giants Clash</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-sound-with-ideal-cam-mics-list-for-2024/"><u>Perfecting Sound with Ideal Cam Mics List for 2024</u></a></li>
-</ul></div>
+

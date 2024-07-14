@@ -1,7 +1,7 @@
 ---
 title: How to Rescue Your Windows Mail App From the Clutches of 0X800713F
-date: 2024-06-25T11:40:30.315Z
-updated: 2024-06-26T11:40:30.315Z
+date: 2024-07-09T23:17:57.775Z
+updated: 2024-07-10T23:17:57.775Z
 tags:
   - windows10
   - windows11
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
 ## 3\. Reset and Repair the Mail App
 
- Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to[resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
+ Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to [resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  The Windows firewall filters inbound and outbound internet data. That firewall could be causing error 0x800713f by blocking the Mail and Calendar app. First, try temporarily disabling Windows Defender Firewall before opening Mail like this:
 
-1. Open Windows Defender Firewall in your Control Panel. If you’re not sure how to access that applet, have a look at our guide for[opening the Windows firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) .
+1. Open Windows Defender Firewall in your Control Panel. If you’re not sure how to access that applet, have a look at our guide for [opening the Windows firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) .
 2. Click the**Turn Windows Defender Firewall on or off** option situated along the left side of the WDF applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-defender-firewall-option.jpg)
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 4. Next, press the**OK** button below the firewall settings.
 5. Then bring up Mail and try adding an email account to it.
 
- If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
+ If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
 
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  If nothing else resolves error 0x800713f, maybe you need to reinstall Mail and Calendar. Doing that will give you a fresh and up-to-date Mail app. You can uninstall and reinstall that app like this:
 
-1. Use one of the many[ways to open the Apps & Features window](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) .
+1. Use one of the many [ways to open the Apps & Features window](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) .
 2. Click**Mail and Calendar’s menu button** (with the three dots) in Apps & Features.
 3. Select Mail and Calendar’s**Uninstall** option from there.  
 ![The Uninstall option for Mail and Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-uninstall-option2.jpg)
@@ -129,23 +129,4 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/addressing-conflicting-apps-camera-use-windows-error-0xa00f4243/"><u>Addressing Conflicting Apps' Camera Use: Windows Error 0xA00F4243</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-and-personalizing-win11s-default-screen-saver/"><u>Configuring and Personalizing Win11's Default Screen Saver</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-unchanged-environment-powertoys-settings-replication/"><u>Ensuring Unchanged Environment: PowerToys Settings Replication</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-task-manager-above-all-step-guide/"><u>Bring Task Manager Above All: Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-and-fixing-absence-of-hypervisor-on-windows-sandbox/"><u>Identifying and Fixing Absence of Hypervisor on Windows Sandbox</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-tackle-windows-admin-imposed-setup-barriers/"><u>How to Tackle Windows 'Admin-Imposed' Setup Barriers</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-mouse-pointer-prominence-in-windows-11/"><u>Enhancing Mouse Pointer Prominence in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-and-cost-free-windows-password-gen-options-listed/"><u>Secure & Cost-Free Windows Password Gen Options Listed</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-eleven-strategies-of-online-bliss-a-listicle-for-a-tranquil-state-of-mind/"><u>In 2024, Eleven Strategies of Online Bliss A Listicle for a Tranquil State of Mind</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generate-interest-making-your-own-youtube-intros/"><u>[New] 2024 Approved  Generate Interest  Making Your Own YouTube Intros</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cure-missing-fb-stories-on-devices-for-2024/"><u>Cure Missing FB Stories on Devices for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/what-you-should-know-about-m4r-files-before-converting-them-for-2024/"><u>What You Should Know About M4R Files Before Converting Them for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji-for-2024/"><u>New The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-catchy-cadences-in-creative-snaps-and-videos-for-2024/"><u>[New] Catchy Cadences in Creative Snaps and Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dissecting-the-full-package-logitechs-4k-webcam-experience/"><u>[New] In 2024, Dissecting the Full Package  Logitech’s 4K Webcam Experience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/deciphering-calm-techniques-to-reduce-audio-disturbances-from-natural-sources-in-digital-recordings-for-2024/"><u>Deciphering Calm Techniques to Reduce Audio Disturbances From Natural Sources in Digital Recordings for 2024</u></a></li>
-</ul></div>
+

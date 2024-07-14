@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting No Compatible Fingerprint in Windows
-date: 2024-06-25T11:30:19.703Z
-updated: 2024-06-26T11:30:19.703Z
+date: 2024-07-09T23:18:01.962Z
+updated: 2024-07-10T23:18:01.962Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ## 3\. Roll Back the Driver or the Latest Windows Update
 
- Have you encountered the error under discussion after updating the biometric driver or installing a Windows update recently? If this is the case, you should roll back these updates. Don't know how to do that? Our guide on[how to roll back a driver update on Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) describes the process. If you want to roll back a Windows update, then you need to[uninstall the most recent Windows Update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
+ Have you encountered the error under discussion after updating the biometric driver or installing a Windows update recently? If this is the case, you should roll back these updates. Don't know how to do that? Our guide on [how to roll back a driver update on Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) describes the process. If you want to roll back a Windows update, then you need to [uninstall the most recent Windows Update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
 
  Once you've undone both driver and Windows updates, try setting up Windows Hello biometric login again. If you continue to experience the same problem after rolling back these updates, it suggests that undoing these updates hasn't made a difference. In that case, you should reinstall the drivers and Windows update.
 
@@ -74,9 +74,9 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ## 6\. Disable Fast Startup
 
- According to some users on a[Microsoft community thread](https://answers.microsoft.com/en-us/windows/forum/all/fingerprint-reader-not-working/95cc0aef-2822-4b51-9f77-8697e6ace897) , disabling the Fast Startup feature has solved fingerprint recognition issues on their devices. Although Fast Startup speeds up your device's boot process, turning it on is known to cause unforeseen problems.
+ According to some users on a [Microsoft community thread](https://answers.microsoft.com/en-us/windows/forum/all/fingerprint-reader-not-working/95cc0aef-2822-4b51-9f77-8697e6ace897) , disabling the Fast Startup feature has solved fingerprint recognition issues on their devices. Although Fast Startup speeds up your device's boot process, turning it on is known to cause unforeseen problems.
 
- So, if you also keep this feature enabled on your device, disable it to see if it makes a difference. Don't know how to do that? Refer to our guide on[enabling or disabling Fast Startup on Windows 11](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) .
+ So, if you also keep this feature enabled on your device, disable it to see if it makes a difference. Don't know how to do that? Refer to our guide on [enabling or disabling Fast Startup on Windows 11](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) .
 
 ## 7\. Ensure the Biometric Reader Isn't Disabled in BIOS
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
 ## 8\. When Nothing Else Works…
 
- If nothing else works, run the Hardware and Devices troubleshooter, enable biometrics in the Local Group Policy Editor, and check for account-specific issues. If these steps fail to resolve the issue, perform a system restore as a last resort. Our guide on[fixing Windows Hello fingerprint recognition](https://www.makeuseof.com/windows-hello-fingerprint-not-working/) explains how to make the above-mentioned changes.
+ If nothing else works, run the Hardware and Devices troubleshooter, enable biometrics in the Local Group Policy Editor, and check for account-specific issues. If these steps fail to resolve the issue, perform a system restore as a last resort. Our guide on [fixing Windows Hello fingerprint recognition](https://www.makeuseof.com/windows-hello-fingerprint-not-working/) explains how to make the above-mentioned changes.
 
 ## Get Rid of Annoying Fingerprint Recognition Errors
 
@@ -110,22 +110,4 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/overcoming-win1011-nvidia-opengl-error-3/"><u>Overcoming Win10/11 NVIDIA OpenGL Error 3</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-reasons-for-preserving-your-win-11-alerts/"><u>Discover the Reasons for Preserving Your Win 11 Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/cross-platform-cloud-file-retrieval-methods/"><u>Cross-Platform Cloud File Retrieval Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/detailed-procedure-for-total-disabling-of-windows-subsystem/"><u>Detailed Procedure for Total Disabling of Windows Subsystem</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-non-automatic-timezone-change/"><u>Overcoming Windows' Non-Automatic Timezone Change</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-amd-graphics-driver-updates-in-the-windows-ecosystem/"><u>Mastery of AMD Graphics Driver Updates in the Windows Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/breakthrough-restore-microsofts-pc-manager-on-win/"><u>Breakthrough: Restore Microsoft's PC Manager on Win</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>[Updated] 2024 Approved  Mastering Mobile Audio  IPhone Voice Memos Made Easy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screen-recorder-pro-for-windows-11/"><u>2024 Approved  Screen Recorder Pro for Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-savvy-sentries-of-the-mind-top-quizzes/"><u>In 2024, Savvy Sentries of the Mind  Top Quizzes</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-camon-20-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 20 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola online without jailbreak</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-list-of-free-online-face-generators-for-fun-and-creativity/"><u>2024 Approved The Ultimate List of Free Online Face Generators for Fun and Creativity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-handheld-guide-to-youtube-production/"><u>[Updated] The Essential Handheld Guide to YouTube Production</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-of-the-best-top-avchd-video-editors/"><u>Updated In 2024, The Best of the Best Top AVCHD Video Editors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-realizing-youre-off-the-friends-list/"><u>[Updated] Realizing You're Off the Friends List</u></a></li>
-</ul></div>
+

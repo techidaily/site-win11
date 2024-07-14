@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through XPatch Issues: Error 0X80073712"
-date: 2024-06-25T11:32:14.542Z
-updated: 2024-06-26T11:32:14.542Z
+date: 2024-07-09T23:18:00.627Z
+updated: 2024-07-10T23:18:00.627Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ Here’s how to perform a complete system shutdown:
 
 Repeat the following steps to start the necessary services:
 
-1. Press**Win + R** to[launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
+1. Press**Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
 2. Services utility will launch on your system. Now locate the**Background Intelligent Transfer** service in the list.
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
@@ -111,7 +111,7 @@ Retrace the following steps to delete the pending.xml file:
 
 ## 8\. Reset Windows
 
- Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
+ Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning [how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as [SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
 
 ## Update Windows Without Hiccups
 
@@ -133,23 +133,4 @@ Retrace the following steps to delete the pending.xml file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/winning-fps-tools-the-top-6-counter-app-picks/"><u>Winning FPS Tools: The Top 6 Counter App Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-customize-windows-10-and-11-with-winbubble/"><u>8 Ways to Customize Windows 10 and 11 With WinBubble</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steam-service-failure-in-windows-11/"><u>Troubleshooting Steam Service Failure in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-windows-update-failure-0x800f0845/"><u>Dealing with Windows Update Failure - 0X800F0845</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-window-brighter-controls-the-ultimate-guide-for-multiscreen-enthusiasts/"><u>Top 6 Window Brighter Controls: The Ultimate Guide for Multiscreen Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solving-d3d11-gpu-issues-on-microsofts-latest-oses/"><u>Swiftly Solving D3D11 GPU Issues on Microsoft's Latest OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-dxgierrordeviceremoved-in-win-10-and-11/"><u>Handling DXGI_ERROR_DEVICE_REMOVED in Win 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/team-meeting-screens-not-showing-up/"><u>Team Meeting Screens Not Showing Up?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-decoding-the-impact-of-instagrams-algorithm-shifts/"><u>2024 Approved  Decoding the Impact of Instagram's Algorithm Shifts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-tecno-spark-10c-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Tecno Spark 10C?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-prime-7-media-gatherers-on-fb/"><u>[Updated] Prime 7 Media Gatherers on FB</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-explore-the-best-kept-secret-7-premium-transition-sounds-available-for-download/"><u>New In 2024, Explore the Best-Kept Secret 7 Premium Transition Sounds Available for Download</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-simple-to-sophisticated-weaving-multiple-images-into-your-insta-story/"><u>In 2024, From Simple to Sophisticated  Weaving Multiple Images Into Your Insta Story</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-list-of-preferred-linux-audio-recorders-and-how-to-make-the-most-out-of-your-sessions/"><u>Updated The Ultimate List of Preferred Linux Audio Recorders and How to Make the Most Out of Your Sessions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>[Updated] 2024 Approved  Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>[New] In 2024, Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 8 Plus?</u></a></li>
-</ul></div>
+

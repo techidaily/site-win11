@@ -1,7 +1,7 @@
 ---
 title: "Fixing Failed Syncs: A Guide to OneDrive Operations on Windows"
-date: 2024-06-25T11:44:16.586Z
-updated: 2024-06-26T11:44:16.586Z
+date: 2024-07-09T23:18:01.317Z
+updated: 2024-07-10T23:18:01.317Z
 tags:
   - windows10
   - windows11
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
- If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about[how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
+ If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about [how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
 ## 3\. Reset the OneDrive App
 
@@ -104,18 +104,18 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
  It’s also recommended to turn off any third-party firewalls installed. Some antivirus utilities also have firewalls. If you’ve installed any additional security software, select the option to disable its firewall if it has one.
 
- Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
+ Should this potential solution resolve error 0x80070185, set up a firewall exception for OneDrive. You can do that for the Windows firewall as instructed in our [how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) piece. Users with third-party firewalls can allow OneDrive through them with the exclusion settings in their security apps.
 
 ## 7\. Reinstall OneDrive
 
  Reinstalling OneDrive is a solution that’s worked for some users. This will give you a completely fresh and up-to-date OneDrive app. These are the steps for uninstalling and reinstalling OneDrive:
 
-1. Launch Run (see[how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions) and input**ms-settings:appsfeatures** inside its**Open** box.
+1. Launch Run (see [how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for instructions) and input**ms-settings:appsfeatures** inside its**Open** box.
 2. Select**OK** to view Apps & features in Settings.
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
 4. Select**Uninstall** for confirmation.
-5. Open the[OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
+5. Open the [OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
@@ -140,25 +140,4 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/discuss-the-limits-of-cultural-relativism-when-might-it-be-challenging-or-problematic-to-apply/"><u>Discuss the Limits of Cultural Relativism: When Might It Be Challenging or Problematic to Apply?</u></a></li>
-<li><a href="https://win11.techidaily.com/edge-persistent-operation-on-win11/"><u>Edge: Persistent Operation on Win11?</u></a></li>
-<li><a href="https://win11.techidaily.com/converting-from-pin-to-password-a-windows-11-users-guide-for-enhanced-security/"><u>Converting From PIN to Password: A Windows 11 User's Guide for Enhanced Security</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-process-unterminate-obstacles-in-windows/"><u>Overcoming 'Process Unterminate' Obstacles in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-your-keyboard-precise-text-pasting-hotkeys/"><u>Personalize Your Keyboard: Precise Text Pasting Hotkeys</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-connection-to-unreachable-windows-11-printer/"><u>Enabling Connection to Unreachable Windows 11 Printer</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-business-best-windows-time-management-and-productivity-software/"><u>Boost Your Business: Best Windows Time Management and Productivity Software</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
-<li><a href="https://win11.techidaily.com/hiding-archives-within-pictures-techniques-for-windows-users/"><u>Hiding Archives Within Pictures: Techniques for Windows Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unmasking-momentum-makers-seeking-out-niche-influencers/"><u>[New] Unmasking Momentum Makers  Seeking Out Niche Influencers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-m34-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy M34 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-facetime-call-screen-recording-the-beginners-guide/"><u>In 2024, FaceTime Call Screen Recording  The Beginner's Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/social-forecast-in-graphs-2023-edition-unveiled/"><u>Social Forecast in Graphs  2023 Edition Unveiled</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-elevating-brand-presence-a-guide-to-influencer-marketing-on-instagram-for-2024/"><u>[Updated] Elevating Brand Presence  A Guide to Influencer Marketing on Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-with-kinemaster-essentials-techniques-and-top-digital-counterparts-for-2024/"><u>From Novice to Pro with KineMaster  Essentials, Techniques & Top Digital Counterparts for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-effects-on-tiktok/"><u>New How to Add Effects on TikTok</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-voice-notes-masterclass-for-2024/"><u>Unlocking the Power of Voice Notes Masterclass for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-charm-with-cost-free-visual-aids/"><u>In 2024, Channel Charm with Cost-Free Visual Aids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-2023s-leading-cameras-for-samsung-gear-360-successors/"><u>In 2024, 2023'S Leading Cameras for Samsung Gear 360 Successors</u></a></li>
-</ul></div>
+

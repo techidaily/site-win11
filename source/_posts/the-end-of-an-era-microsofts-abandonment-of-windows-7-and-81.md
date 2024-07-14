@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Microsoft's Abandonment of Windows 7 and 8.1"
-date: 2024-06-25T11:24:31.483Z
-updated: 2024-06-26T11:24:31.483Z
+date: 2024-07-09T23:17:57.894Z
+updated: 2024-07-10T23:17:57.894Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
  Windows 7, which launched in 2009, actually ceased to have mainstream support in 2015\. However, due to its popularity, Microsoft extended it to 2020\. It then further extended security updates for Windows 7 until 2023 to give corporate users more time to upgrade to Windows 10 or 11.
 
- On the other hand, Windows 8.1, launched in 2013, had its mainstream support end in 2018\. Again, to give its customers time to upgrade, Microsoft extended support for Windows 8.1 until 2023\. However, given that[Windows 8 was an unpopular OS](https://www.makeuseof.com/windows-8-fail-retrospective/) , it didn't have as many users as its predecessor, which made it unlikely for Microsoft to provide additional extensions for its support.
+ On the other hand, Windows 8.1, launched in 2013, had its mainstream support end in 2018\. Again, to give its customers time to upgrade, Microsoft extended support for Windows 8.1 until 2023\. However, given that [Windows 8 was an unpopular OS](https://www.makeuseof.com/windows-8-fail-retrospective/) , it didn't have as many users as its predecessor, which made it unlikely for Microsoft to provide additional extensions for its support.
 
  Now that Microsoft is no longer releasing updates for both of these operating systems, it's high time that their users upgrade to Windows 10 or 11\. That way, they can ensure the security and smoothness of their computers.
 
@@ -40,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
  Image Credit: Anton Watman/[Shutterstock.com](https://www.shutterstock.com/image-photo/kazan-russia-20-june-2015-finger-293983433)
 
- If your computer is still running either of these operating systems, you should upgrade it to Windows 10\. Luckily, Microsoft still provides[free Windows 10 upgrades to Windows users](https://www.makeuseof.com/tag/can-still-upgrade-windows-10-free/) . You also don't need to upgrade your hardware, as Windows 7 and Windows 10 have the same system requirements.
+ If your computer is still running either of these operating systems, you should upgrade it to Windows 10\. Luckily, Microsoft still provides [free Windows 10 upgrades to Windows users](https://www.makeuseof.com/tag/can-still-upgrade-windows-10-free/) . You also don't need to upgrade your hardware, as Windows 7 and Windows 10 have the same system requirements.
 
- Alternatively, you can replace your Windows 7 with other[free Windows alternatives](https://www.makeuseof.com/tag/free-alternatives-to-windows-operating-systems/) . You can use Linux, Chromium OS, FreeBSD, and more.
+ Alternatively, you can replace your Windows 7 with other [free Windows alternatives](https://www.makeuseof.com/tag/free-alternatives-to-windows-operating-systems/) . You can use Linux, Chromium OS, FreeBSD, and more.
 
- Or, if you can afford it, why not buy a new laptop or PC instead? Several[great budget laptops you can buy](https://www.makeuseof.com/tag/best-laptops-under-500/) run Windows 11, ensuring you can get the latest security patches and cover your most basic needs.
+ Or, if you can afford it, why not buy a new laptop or PC instead? Several [great budget laptops you can buy](https://www.makeuseof.com/tag/best-laptops-under-500/) run Windows 11, ensuring you can get the latest security patches and cover your most basic needs.
 
 ## What Could Happen to Your PC If You Don't Upgrade to Windows 10 or 11?
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![Chrome Edge and Vivaldi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Chrome-Edge-Vivaldi.jpg)
 
- Google announced in[Google Chrome Help](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en) that Chrome 109 is the last version of Chrome that'll support Windows 7 and 8.1\. Given that some of the most popular browsers today, like Microsoft Edge and Google Chrome, use this as a base, you can no longer use the latest versions of these browsers.
+ Google announced in [Google Chrome Help](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en) that Chrome 109 is the last version of Chrome that'll support Windows 7 and 8.1\. Given that some of the most popular browsers today, like Microsoft Edge and Google Chrome, use this as a base, you can no longer use the latest versions of these browsers.
 
  While you can still use older versions of Chrome and Edge, these won't have the latest features and security protections. Furthermore, as companies release newer versions of their browsers, you can expect older ones to get less and less stable.
 
@@ -105,26 +105,4 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/a-step-by-step-for-window-bar-transparency-in-win11/"><u>A Step-by-Step for Window Bar Transparency in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-secrets-of-devhome-in-windows-11/"><u>Deciphering the Secrets of DevHome in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-correcting-security-keys-mismatch-in-windows-11-networks/"><u>Strategies for Correcting Security Keys Mismatch in Windows 11 Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-glitches-in-microsofts-nearby-sharing-service/"><u>Handling Glitches in Microsoft's Nearby Sharing Service</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-stop-windows-from-misidentifying-audio-device/"><u>Techniques to Stop Windows From Misidentifying Audio Device</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-windows-11-overcoming-5ghz-wi-fi-barriers/"><u>Breaking Down Windows 11: Overcoming 5GHz Wi-Fi Barriers</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-extend-windows-10-shutdown-for-ongoing-processes/"><u>Strategies to Extend Windows 10 Shutdown for Ongoing Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-vanishing-battery-time-indicator-in-windows-11/"><u>How to Fix the Vanishing Battery Time Indicator in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-unseen-power-in-photo-erasing-on-windows/"><u>The Unseen Power in Photo Erasing on Windows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-elevate-your-gopro-experience-with-top-rated-sd-card-picks/"><u>[Updated] In 2024, Elevate Your GoPro Experience with Top-Rated SD Card Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-security-camera-programs-2023-reviews-and-ratings/"><u>Updated 2024 Approved The Best Free Security Camera Programs 2023 Reviews and Ratings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-launch-your-youtube-presence-step-by-step-guide/"><u>[Updated] Launch Your YouTube Presence  Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-fusion-tweet-facebook-connectivity/"><u>[Updated] Social Media Fusion  Tweet-Facebook Connectivity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-first-flight-drones-for-youngsters-and-new-pilots-for-2024/"><u>Best First Flight Drones for Youngsters & New Pilots for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-stunning-gopro-timelapse-projects/"><u>[Updated] Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-playlist-of-timeless-anime-themes/"><u>The Ultimate Playlist of Timeless Anime Themes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode without Computer?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/1713951589142-to-get-cinematographs-of-a-music-video-you-need-to-understand-the-basics-of-camera-movement-as-well-framing-and-lighting-of-the-setup-are-illustrated-in-thi/"><u>To Get Cinematographs of a Music Video, You Need to Understand the Basics of Camera Movement. As Well Framing and Lighting of the Setup Are Illustrated in This Article for 2024</u></a></li>
-</ul></div>
+

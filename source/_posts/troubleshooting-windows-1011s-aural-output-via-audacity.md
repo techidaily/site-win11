@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 10/11'S Aural Output, via Audacity
-date: 2024-06-25T11:43:02.967Z
-updated: 2024-06-26T11:43:02.967Z
+date: 2024-07-09T23:17:59.147Z
+updated: 2024-07-10T23:17:59.147Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 
  Many Audacity users have confirmed enabling and running disabled Windows Audio and Endpoint Builder services can fix the Internal PortAudio error. So, this troubleshooting method will likely work if one of those services is disabled on your PC. This is how you can check and enable those services in Windows 11/10:
 
-1. First, bring up the Windows search box and search for Services. You can also use one of the other[ways to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) .
+1. First, bring up the Windows search box and search for Services. You can also use one of the other [ways to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) .
 2. Next, double-click**Windows Audio** to bring up further options for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service.jpg)
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
@@ -104,20 +104,20 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 2. Select Realtek High Definition Audio Driver or Realtek HD Manager.
 3. Click**Uninstall** to remove the driver.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
-4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
+4. Then bring up the [Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
 
 ## 7\. Reinstall Audacity
 
- A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our[ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
+ A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
 
- To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** link there to save the setup wizard. Then navigate to the directory your browser downloads to and double-click the**audacity-win-.3.2.5 x64.exe** file to reinstall Audacity.
+ To reinstall the software, open the [Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** link there to save the setup wizard. Then navigate to the directory your browser downloads to and double-click the**audacity-win-.3.2.5 x64.exe** file to reinstall Audacity.
 
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
- Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
+ Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This [uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
@@ -138,23 +138,4 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/from-software-to-functionality-ms-workspace-on-windows-1011/"><u>From Software to Functionality: MS Workspace on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-system-health-improvement-via-updates/"><u>Understanding System Health Improvement via Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/uninstalling-wsl-a-complete-guide-for-win-1011-users/"><u>Uninstalling WSL: A Complete Guide for Win 10/11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-weather-software-for-w10w11-pcs/"><u>Prime Weather Software for W10/W11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/guarding-against-hidden-threats-in-these-7-windows-processes/"><u>Guarding Against Hidden Threats in These 7 Windows Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-end-persistent-login-error-alerts-on-pc/"><u>Methods to End Persistent Login Error Alerts on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/10-essential-steps-for-accessing-windows-nettools/"><u>10 Essential Steps for Accessing Windows NetTools</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-workflow-coloring-without-conflict-on-windows/"><u>Streamlining Your Workflow: Coloring Without Conflict on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-nord-ce-3-lite-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Nord CE 3 Lite 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-6s-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 6s If Youve Tried Everything</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-realizing-your-audio-based-ppt-with-easy-s2t-tools-for-2024/"><u>[New] Realizing Your Audio-Based PPT with Easy S2T Tools for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s23-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S23 Phones? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-professional-grade-gaming-intros-best-maker-tools-for-pc-and-mac/"><u>New 2024 Approved Professional-Grade Gaming Intros Best Maker Tools for PC and Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-resolve-instagrams-video-problems-swiftly/"><u>[New] Resolve Instagram's Video Problems Swiftly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-if-quick-youtube-subscriptions-really-work-for-2024/"><u>[Updated] Discovering if Quick YouTube Subscriptions Really Work for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pinnacle-12-apps-for-unlimited-screen-recording/"><u>[New] 2024 Approved  Pinnacle 12 Apps for Unlimited Screen Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-instagram-tips-uploading-and-sharing-youtube-content/"><u>[New] Instagram Tips  Uploading & Sharing YouTube Content</u></a></li>
-</ul></div>
+

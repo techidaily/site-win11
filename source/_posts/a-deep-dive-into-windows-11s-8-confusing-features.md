@@ -1,7 +1,7 @@
 ---
 title: A Deep Dive Into Windows 11’S 8 Confusing Features
-date: 2024-06-25T11:24:49.451Z
-updated: 2024-06-26T11:24:49.451Z
+date: 2024-07-09T23:18:03.469Z
+updated: 2024-07-10T23:18:03.469Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  This change is happening piece by piece, and certain design elements either aren't finalized or are inconsistent with design elements found in other areas.
 
- This results in mismatching UI designs and, in some cases, poor performance. We've written about[how Windows 11's UI transition can affect performance](https://www.makeuseof.com/how-microsoft-improves-windows-11-performance/) , as well as how Microsoft plans to address this.
+ This results in mismatching UI designs and, in some cases, poor performance. We've written about [how Windows 11's UI transition can affect performance](https://www.makeuseof.com/how-microsoft-improves-windows-11-performance/) , as well as how Microsoft plans to address this.
 
  Due to this, it's likely some of these elements will be corrected before the end of Windows 11's lifespan.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  Elements such as the control panel, the task manager, troubleshooting apps and more have no dark mode equivalent. They will continue to display a bright white color scheme, clashing against the rest of your system.
 
- This is a prevalent issue that will show itself in other elements on this list. It's worth learning[how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
+ This is a prevalent issue that will show itself in other elements on this list. It's worth learning [how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
 
 ## 5\. Settings Is a Mess
 
@@ -121,21 +121,4 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/unhighlight-your-windows-11-desktop-with-ease/"><u>Unhighlight Your Windows 11 Desktop with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-printer-friendly-presentations-on-windows/"><u>Mastering the Art of Printer-Friendly Presentations on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-error-xc0000142-in-winoses/"><u>Addressing Error XC0000142 in WinOSes</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-microsofts-speech-recognition-in-windows-11/"><u>Restoring Microsoft's Speech Recognition in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/probing-the-heart-of-windows-systems-generating-insightful-reports/"><u>Probing the Heart of Windows Systems: Generating Insightful Reports</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-speed-up-download-speeds-in-utorrent-for-windows/"><u>How to Speed Up Download Speeds in uTorrent for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-combat-frozen-wireless-mice-on-windows-desktops/"><u>How to Combat Frozen Wireless Mice on Windows Desktops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>2024 Approved  Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-backtrack-fabricator-set/"><u>[Updated] Backtrack Fabricator Set</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/quick-youtube-revenue-assessments-available-for-2024/"><u>Quick YouTube Revenue Assessments Available for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>[New] 2024 Approved  Harmonic Hits  How to Choose the Perfect Song for IG Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-g24-power-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola G24 Power</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-essential-tutorial-for-archiving-your-google-voice-dialogue-with-both-mobile-and-computer-devices/"><u>New 2024 Approved The Essential Tutorial for Archiving Your Google Voice Dialogue with Both Mobile & Computer Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-personalizing-public-vs-private-settings-on-youtube/"><u>[Updated] Personalizing Public vs Private Settings on YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/crafting-cross-platform-content-strategy-with-igtv-and-fb/"><u>Crafting Cross-Platform Content Strategy with IGTV and FB</u></a></li>
-</ul></div>
+

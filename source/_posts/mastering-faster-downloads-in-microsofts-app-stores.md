@@ -1,7 +1,7 @@
 ---
 title: Mastering Faster Downloads in Microsoft's App Stores
-date: 2024-06-25T11:38:42.500Z
-updated: 2024-06-26T11:38:42.500Z
+date: 2024-07-09T23:17:56.202Z
+updated: 2024-07-10T23:17:56.202Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
 ## 1\. Check Your Internet Connection
 
- Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the [best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
- If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
+ If you are getting a slower download speed across all your internet-based apps, check out our guide on [how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
 ## 2\. Close Network-Consuming Applications
 
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 1. Open the**Task Manager** by pressing the**Ctrl + Shift + Esc** hotkeys.
 2. In the**Processes** tab, look in the**Network** column, and close all non-essential applications that are consuming a lot of data.
 
- Additionally, make sure the Microsoft Store is not running in[Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
+ Additionally, make sure the Microsoft Store is not running in [Efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/) , which makes it a less-priority process. To remove the Microsoft Store from efficiency mode, follow the below steps:
 
 1. In the Task Manager, right-click on the Microsoft Store.
 2. Click on the**Efficiency mode** option from the context menu.  
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
 ## 6\. Switch to the Google Public DNS
 
- By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
+ By default, the [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
 
 1. Launch the Start Menu, type**Control Panel** and press Enter.
 2. In the Control Panel, change the**View by** to**Category.**
@@ -140,26 +140,4 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/ideal-replacements-for-windows-snipping-functionality-in-other-oses/"><u>Ideal Replacements for Windows' Snipping Functionality in Other OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-office-hours-the-top-5-task-boosting-tools-for-win-11/"><u>Elevate Your Office Hours: The Top 5 Task-Boosting Tools for Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-steam-connectivity-issues-with-quick-solutions/"><u>Enhancing Steam Connectivity Issues with Quick Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-gpu-memory-potential-in-windows-11-os/"><u>Maximizing GPU Memory Potential in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-cpu-and-ram-overuse-caused-by-unrealcefsubprocess-on-pcs/"><u>Mitigating CPU and RAM Overuse Caused by UnrealCEFSubprocess on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-file-examination-in-win1011-with-new-tool-integration/"><u>Elevate File Examination in Win10/11 with New Tool Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-typing-prowess-changing-and-adding-keyboards-for-win-11/"><u>Boost Typing Prowess: Changing and Adding Keyboards for Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-and-manage-windows-11-writable-components/"><u>Explore and Manage Windows 11' Writable Components</u></a></li>
-<li><a href="https://win11.techidaily.com/4-cool-things-you-can-do-with-windows-11-god-mode/"><u>4 Cool Things You Can Do With Windows 11 God Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/graphics-correction-step-by-step-windows-11/"><u>Graphics Correction: Step-by-Step Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-guide-to-skype-call-audio-and-video-capture-windowsos-x-for-2024/"><u>[Updated] Guide to Skype Call Audio & Video Capture Windows/OS X for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-shopping-guide-to-free-desktop-screen-recorder-software-for-2024/"><u>[New] Shopping Guide to Free Desktop Screen Recorder Software for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-tools-for-youtube-screen-capturing/"><u>[New] Cutting-Edge Tools for YouTube Screen Capturing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/deciding-between-wirecast-and-obs-for-professional-streaming/"><u>Deciding Between Wirecast & OBS For Professional Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-haste-in-playlist-distribution-youtube-guide/"><u>[Updated] 2024 Approved  Haste in Playlist Distribution  YouTube Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-do-a-poll-on-instagram-stories-a-complete-guide/"><u>[Updated] How to Do a Poll on Instagram Stories - a Complete Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-image-illumination-the-essential-list-of-frame-enhancing-apps/"><u>2024 Approved  Image Illumination  The Essential List of Frame-Enhancing Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-balancing-core-and-supporting-visual-elements/"><u>[New] Balancing Core & Supporting Visual Elements</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-filmcrafters-compendium-unpacked-qanda/"><u>[Updated] FilmCrafters' Compendium  Unpacked Q&A</u></a></li>
-</ul></div>
+

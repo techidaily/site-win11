@@ -83,25 +83,7 @@ thumbnail: https://thmb.techidaily.com/45a1f9697d2bdeb16116c56d8bb656d37d6c88757
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-microsoft-store-crash-0x80073d26/"><u>Strategies to Overcome Microsoft Store Crash: 0X80073D26</u></a></li>
-<li><a href="https://win11.techidaily.com/7-affordable-solutions-to-skyrocket-your-pcs-hard-drive-size/"><u>7 Affordable Solutions to Skyrocket Your PC's Hard Drive Size</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-journey-10-key-windows-store-tools/"><u>Boost Your Journey: 10 Key Windows Store Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-ad-ds-printer-glitches-on-windows-11/"><u>Solving AD DS Printer Glitches on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steam-and-internet-connectivity-woes-on-pc-heres-a-fix/"><u>Steam & Internet Connectivity Woes on PC? Here's a Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-volume-preferences-after-software-changes/"><u>Restoring Lost Volume Preferences After Software Changes</u></a></li>
-<li><a href="https://win11.techidaily.com/1719354508470-fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-control-your-iphone-image-orientation/"><u>In 2024, How to Control Your iPhone Image Orientation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/turn-your-text-into-a-podcast-made-possible-for-2024/"><u>Turn Your Text Into a Podcast Made Possible for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>[Updated] Capturing Waves  How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-exclusive-review-top-10-gratis-gaming-screen-recorder-apps/"><u>[Updated] Exclusive Review  Top 10 Gratis Gaming Screen Recorder Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-financial-potential-how-to-earn-with-youtube-shorts/"><u>[New] 2024 Approved  Unlocking Financial Potential  How to Earn with YouTube Shorts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-extract-audio-from-youtube-videos-a-step-by-step-guide/"><u>Updated 2024 Approved How to Extract Audio From YouTube Videos A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/4-ways-to-watch-facebook-live-on-tv/"><u>4 Ways To Watch Facebook Live On TV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-media-extractor-quick-mp3-downloads-for-2024/"><u>[New] Facebook Media Extractor – Quick MP3 Downloads for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

@@ -71,24 +71,7 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/swift-solutions-customize-windows-menu-for-instant-removal/"><u>Swift Solutions: Customize Windows Menu for Instant Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-a-non-functional-spotify-client-in-windows-10/"><u>Troubleshooting a Non-Functional Spotify Client in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-winerror-740-resolving-operation-needs-promotion-in-windows-os/"><u>Overcoming WinError 740: Resolving 'Operation Needs Promotion' In Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-rectify-non-detected-windows-proxies/"><u>Tips to Rectify Non-Detected Windows Proxies</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-windows-for-secure-external-drive-handling/"><u>Configuring Windows for Secure External Drive Handling</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-your-windows-11-installation-essential-settings-guide/"><u>Personalize Your Windows 11 Installation: Essential Settings Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-tracking-yuzu-gameplay-on-windows/"><u>Fast-Tracking Yuzu Gameplay on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>In 2024, Boosting Income  Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cross-platform-comparison-iphone-vs-android-youtube-viewing/"><u>2024 Approved  Cross-Platform Comparison  IPhone vs Android YouTube Viewing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-make-movies-that-wow-a-comprehensive-guide-to-professional-video-production/"><u>Updated In 2024, Make Movies That Wow A Comprehensive Guide to Professional Video Production</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-windows-friendly-speech-recognition-apps/"><u>New In 2024, The Ultimate Guide to Choosing Windows-Friendly Speech Recognition Apps</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-gameplay-streaming-mastery-for-youtubers/"><u>2024 Approved  Elevating Gameplay  Streaming Mastery for YouTubers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-8-facebook-mp3-converters-you-need/"><u>The Ultimate List 8 Facebook MP3 Converters You Need</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterclasses-on-procuring-photo-and-video-borders/"><u>In 2024, Masterclasses on Procuring Photo & Video Borders</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

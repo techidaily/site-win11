@@ -139,28 +139,7 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/unlock-full-control-in-windows-cmd/"><u>Unlock Full Control in Windows CMD</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-xbox-audio-hurdles-with-windows-11-system-upgrades/"><u>Overcoming Xbox Audio Hurdles with Windows 11 System Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-network-barriers-reviving-spotify-streams/"><u>Overcoming Network Barriers: Reviving Spotify Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/boot-time-essentials-configuring-windows-startups/"><u>Boot Time Essentials: Configuring Windows Startups</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-code-4-spotify-error-on-w10w11-systems/"><u>Overcoming the Code 4 Spotify Error on W10/W11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/from-windows-to-kali-an-installation-journey/"><u>From Windows to Kali: An Installation Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-windows-11-desktop-tips-on-interactive-and-dynamic-walls/"><u>Transform Windows 11 Desktop: Tips on Interactive and Dynamic Walls</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-windows-application-speed-through-improved-networking/"><u>Enhance Windows Application Speed Through Improved Networking</u></a></li>
-<li><a href="https://win11.techidaily.com/yearly-best-offer-buy-now-at-612-for-eternal-win10-life/"><u>Yearly Best Offer: Buy Now at $6.12 for Eternal Win10 Life</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-revolutionizing-your-vocal-identity-top-10-high-tech-pitch-adjustment-tools/"><u>New 2024 Approved Revolutionizing Your Vocal Identity Top 10 High-Tech Pitch Adjustment Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-streamlined-melodic-archiving-the-most-convenient-recorder-devices-for-keeping-your-go-to-songs/"><u>Updated 2024 Approved Streamlined Melodic Archiving The Most Convenient Recorder Devices for Keeping Your Go-To Songs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premiere-seminar-title-assembler/"><u>Premiere Seminar Title Assembler</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-vhs-visuals-to-transform-video-projects/"><u>2024 Approved  Iconic VHS Visuals to Transform Video Projects</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-content-potential-how-to-increase-video-views-on-youtube/"><u>In 2024, Unleash Content Potential  How to Increase Video Views on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gain-traction-in-yt-mastering-green-screen-ctas/"><u>2024 Approved  Gain Traction in YT  Mastering Green Screen CTAs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-upload-longer-videos-on-instagram/"><u>2024 Approved  How to Upload Longer Videos on Instagram</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-real-time-broadcasting-a-beginners-guide/"><u>2024 Approved  Mastering Real-Time Broadcasting  A Beginner's Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-audacity-to-mp3-conversion-a-comprehensive-tutorial/"><u>2024 Approved Audacity to MP3 Conversion A Comprehensive Tutorial</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-scouring-for-meaningful-youtube-discussions/"><u>2024 Approved  Scouring for Meaningful YouTube Discussions</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

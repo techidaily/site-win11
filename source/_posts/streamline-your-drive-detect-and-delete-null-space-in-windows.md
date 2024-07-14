@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Drive: Detect and Delete Null Space in Windows"
-date: 2024-06-25T11:44:30.892Z
-updated: 2024-06-26T11:44:30.892Z
+date: 2024-07-09T23:17:58.867Z
+updated: 2024-07-10T23:17:58.867Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
  By default, not all users can delete every empty folder on a device; some can only be accessed, edited, and deleted by administrators.
 
- Since we'll be deleting all empty folders hiding on your device, logging in with an administrator account is best to avoid encountering errors later. Need help? Check out our[g](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/#how-to-enable-or-disable-the-windows-administrator-account) uide that explains[the Windows administrator account](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) in detail, including how to enable (or disable) it.
+ Since we'll be deleting all empty folders hiding on your device, logging in with an administrator account is best to avoid encountering errors later. Need help? Check out our [g](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/#how-to-enable-or-disable-the-windows-administrator-account) uide that explains [the Windows administrator account](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) in detail, including how to enable (or disable) it.
 
  Secondly, the methods we'll cover can help delete empty folders quickly, but only those are visible to us, not hidden. Therefore, if you want to delete all empty folders without leaving any hidden ones behind, you should first unhide all hidden folders. Follow these steps to do so:
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 1. Copy the path to the folder or drive you intend to scan for empty subfolders.
 2. Type**"Windows PowerShell"** into Windows Search, right-click on the**Windows PowerShell** app, then click**Run as administrator** .  
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
- Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+ Find out [how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 
  You can use any software that lets you find and delete empty folders, but we recommend 4dots' Empty Folder Cleaner for its ease of use. Let's take a look at how it aids in finding and deleting empty folders on Windows:
 
-1. Visit[4dots' official website](https://www.4dots-software.com/emptyfoldercleaner/#google%5Fvignette) to download Empty Folder Cleaner.
+1. Visit [4dots' official website](https://www.4dots-software.com/emptyfoldercleaner/#google%5Fvignette) to download Empty Folder Cleaner.
 2. Install the software on your device.
 3. Let Windows install any .NET Framework it prompts you to install.
 4. Once the application has been installed, run it.
@@ -110,25 +110,4 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-auditory-gain-on-windows-operating-system/"><u>Cease Auditory Gain on Windows Operating System</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-with-latest-patch-details/"><u>Unlocking Windows 11'S Potential with Latest Patch Details</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-not-recognized-fix-for-windows-users/"><u>Overcoming Device Not Recognized: Fix for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/a-simple-guide-to-mouse-customization-for-better-trail-control/"><u>A Simple Guide to Mouse Customization for Better Trail Control</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-lost-flight-buddy-copilot-in-windows-11/"><u>Reclaiming Lost Flight Buddy (Copilot) in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/auto-shutdown-hacks-for-idle-pcs-running-w10w11/"><u>Auto Shutdown Hacks for Idle PCs Running W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-notepad-to-dark-mode-on-windows-11plus/"><u>Switching Notepad to Dark Mode on Windows 11+</u></a></li>
-<li><a href="https://win11.techidaily.com/5-simple-ways-to-tell-if-your-pc-needs-restarting/"><u>5 Simple Ways to Tell if Your PC Needs Restarting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-effortless-instagram-to-mp4-top-2-secrets-exposed/"><u>[New] In 2024, Effortless Instagram to MP4  Top 2 Secrets Exposed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-steps-for-iphone-screen-shotting/"><u>[Updated] In 2024, Essential Steps for iPhone Screen Shotting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[Updated] Capture and Compose  Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-zero-cost-youtube-intros-essential-tips-and-templates/"><u>[Updated] 2024 Approved  Mastering Zero-Cost YouTube Intros  Essential Tips & Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-success-with-freefire-hashtag-tips-for-2024/"><u>[Updated] Harnessing Success with FreeFire Hashtag Tips for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-create-talking-cartoon-images-using-top-tools/"><u>New In 2024, Create Talking Cartoon Images Using Top Tools</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-discover-the-ultimate-flac-conversion-experience-top-picks-for-2024/"><u>Updated Discover the Ultimate FLAC Conversion Experience Top Picks for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cyberspace-supplement-facebook-story-saver/"><u>[Updated] In 2024, Cyberspace Supplement  Facebook Story Saver</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-kinemasters-gs-complete-guide-for-2024/"><u>Mastering KineMaster's GS  Complete Guide for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-be-a-youtube-vlogger/"><u>New In 2024, How to Be a YouTube Vlogger</u></a></li>
-</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Restoring Lost THX Audio Functionality in Windows
-date: 2024-06-25T11:36:32.791Z
-updated: 2024-06-26T11:36:32.791Z
+date: 2024-07-09T23:18:05.791Z
+updated: 2024-07-10T23:18:05.791Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d2538de48c05d03d5115f0d6f4197d40a4705facf
 
 ## 1\. Run the Windows Audio Troubleshooter
 
- The Windows Audio troubleshooter can find and fix common audio issues with the system's sound and audio devices. For instance, it should be one of your first ports of call if you want to[fix no audio on Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) .
+ The Windows Audio troubleshooter can find and fix common audio issues with the system's sound and audio devices. For instance, it should be one of your first ports of call if you want to [fix no audio on Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) .
 
  The troubleshooter will scan the system for issues and then recommend fixes accordingly.
 
@@ -42,7 +42,7 @@ To run the Windows Audio troubleshooter:
 
  You can set your preferred sound output device in the THX Spatial Audio interface. Since THX Spatial Audio routs the audio through its interface to your audio device, you must set it as the default audio output device on your PC.
 
- Fortunately, you can easily[switch between audio output devices in Windows 11](https://www.makeuseof.com/windows-11-change-sound-output-device/) . Follow these steps to check and set THX Spatial Audio as your default audio output device.
+ Fortunately, you can easily [switch between audio output devices in Windows 11](https://www.makeuseof.com/windows-11-change-sound-output-device/) . Follow these steps to check and set THX Spatial Audio as your default audio output device.
 
 1. Click the**Sound** icon in**Taskbar** .
 2. Click the**Speaker/Sound** icon beside the**Volume slider** .  
@@ -54,7 +54,7 @@ To run the Windows Audio troubleshooter:
 5. In the**Audio** Tab, toggle the switch for**THX Spatial Audio** to turn it on.
 6. Click the**Output Device** drop-down, and select your sound output device (**Speaker/Headphone)** .
 
- That's it. Next, click the**Test THX Spatial Audio** option to see if the sound is working. That said, if the issue is limited to a specific game title, check if your game is supported by[THX Spatial Audio](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fthx-spatial-audio%2Fgame-list) . You can search through the games list for compatible titles.
+ That's it. Next, click the**Test THX Spatial Audio** option to see if the sound is working. That said, if the issue is limited to a specific game title, check if your game is supported by [THX Spatial Audio](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fthx-spatial-audio%2Fgame-list) . You can search through the games list for compatible titles.
 
 ## 3\. Set Your Default Audio Device in Sound
 
@@ -115,7 +115,7 @@ To uninstall THX Spatial Audio:
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\`
 5. Locate the**Razer** key. If it exists, right-click and select**Delete** . Click**Yes** to confirm the action.
 6. Close Registry Editor and restart your PC.
-7. Next, go to the[THX Spatial Audio page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fp%2FRZ11-13000-0001) and download the installer. It's an online installer, so wait for the setup to download and install the app.
+7. Next, go to the [THX Spatial Audio page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fp%2FRZ11-13000-0001) and download the installer. It's an online installer, so wait for the setup to download and install the app.
 
  Additionally, if you have Razer Synapse installed, check if an update is available. To do this, launch the app and click on the**Settings** (**Gear**) icon on top of the toolbar. Next, open the**About** tab and click on**Check for updates.**
 
@@ -179,23 +179,4 @@ To reinstall the audio device driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/windows-11-understanding-and-turning-off-system-lockdown/"><u>Windows 11: Understanding & Turning Off System Lockdown</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-language-of-windows-updates/"><u>Decoding the Language of Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-directory-is-not-empty-error-0x80070091-in-windows-11-and-11/"><u>How to Fix the “Directory Is Not Empty” Error 0X80070091 in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-inflexible-scrollbar-issue-in-microsoft-excel-2016/"><u>Fix Inflexible Scrollbar Issue in Microsoft Excel 2016</u></a></li>
-<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-bridging-imessage-between-devices/"><u>From iPhone to Desktop: Bridging iMessage Between Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-global-communication-hotkeys-for-windows-language-switch/"><u>Optimizing Global Communication: Hotkeys for Windows Language SwitcH</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-unidentified-component-in-windows-lsass/"><u>Quick Fixes for Unidentified Component in Windows Lsass</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-it-administrator-cant-do-more-warning-in-winsec/"><u>Resolving 'IT Administrator Can’t Do More' Warning in WinSec</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/framelock-the-future-of-screen-capturing-in-2024/"><u>'Framelock' – The Future of Screen Capturing, In 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screencast-o-matic-review/"><u>[Updated] Screencast-O-Matic Review</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-thumbnail-mastery-boost-your-youtube-videos-visibility-with-these-pro-tips/"><u>Updated Thumbnail Mastery Boost Your YouTube Videos Visibility with These Pro Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-windows-movie-maker-download-complete-guide/"><u>New Windows Movie Maker Download Complete Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crafting-characters-the-art-of-3d-text-design/"><u>Crafting Characters  The Art of 3D Text Design</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-shots-from-the-2022-snowboard-x-games/"><u>[New] Best Shots From the 2022 Snowboard X Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-urban-escapades-top-10-games-akin-to-gta-v/"><u>[New] In 2024, Urban Escapades  Top 10 Games Akin to GTA V</u></a></li>
-</ul></div>
+

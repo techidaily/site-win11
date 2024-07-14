@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Disruptions: Preventing Unexpected Crashes in Dwarf Fortress"
-date: 2024-06-25T11:32:48.325Z
-updated: 2024-06-26T11:32:48.325Z
+date: 2024-07-09T23:18:03.684Z
+updated: 2024-07-10T23:18:03.684Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,9 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
 
- First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
+ First things first, and that's going over the basics. If you haven't already, you should run through [the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
 
- The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
+ The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on [troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
 
- This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
+ This process varies depending on what brand or model your graphics card is. We have a guide that explains [how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
 
 ## 3\. Disable Full Screen Optimizations
 
@@ -111,23 +111,4 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/why-you-shouldnt-use-ai-chatbots-to-generate-windows-11-keys/"><u>Why You Shouldn’t Use AI Chatbots to Generate Windows 11 Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-addressing-windows-onedrive-errors-and-restoring-folder-integration/"><u>Quick Guide: Addressing Windows OneDrive Errors and Restoring Folder Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-secret-of-your-computers-ram-type/"><u>Unlocking the Secret of Your Computer's RAM Type</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-windows-11s-security-and-credentials-panel/"><u>Guide to Windows 11'S Security & Credentials Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-erratic-errors-from-wins-protection-suite/"><u>Taming Erratic Errors From WINS Protection Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-basics-windows-system-configuration/"><u>Master the Basics: Windows System Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-resolving-operational-breakdowns-of-your-windows-stylus/"><u>Understanding and Resolving Operational Breakdowns of Your Windows Stylus</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-the-absent-hypervisor-fix-for-xc0351000-error/"><u>Finding the Absent Hypervisor - Fix for XC0351000 Error</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme 11 Pro+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-understanding-youtubes-revenue-streams/"><u>[Updated] Understanding YouTube's Revenue Streams</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-defy-2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Defy 2 FRP Without Computer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-gaming-sessions-pick-between-obs-or-shadowplay/"><u>2024 Approved  Capturing Gaming Sessions  Pick Between OBS or ShadowPlay</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-discover-the-best-10-mac-screenshot-and-recording-apps/"><u>[New] Discover the Best 10 Mac Screenshot and Recording Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-straightforward-screen-capture-app-win10-edition/"><u>[Updated] 2024 Approved  Straightforward Screen Capture App, Win10 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-mac-live-streaming-options-ranked-1-5-for-2024/"><u>Innovative Mac Live Streaming Options Ranked #1-5 for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-canon-videos-expert-video-editing-software-and-techniques-for-2024/"><u>New Elevate Your Canon Videos Expert Video Editing Software and Techniques for 2024</u></a></li>
-</ul></div>
+

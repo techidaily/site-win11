@@ -127,24 +127,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/strategies-for-troubleshooting-fs-problems-on-windows-11/"><u>Strategies for Troubleshooting FS Problems on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/from-boring-to-stunning-switching-themes-in-windows-11-made-simple/"><u>From Boring to Stunning: Switching Themes in Windows 11 Made Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-functional-state-in-dead-usb-ports-win-edition/"><u>Enabling Functional State in Dead USB Ports, Win Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-continuous-connection-stop-usb-sleep-in-win-11/"><u>Ensuring Continuous Connection: Stop USB Sleep in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-boosting-productivity-in-project-management-tools/"><u>Expert Tips for Boosting Productivity in Project Management Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/1719302930005-bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily.</u></a></li>
-<li><a href="https://win11.techidaily.com/the-convenient-path-to-iis-manager-entry-point/"><u>The Convenient Path to IIS Manager Entry Point</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleashing-the-power-of-color-in-final-cut-pro/"><u>2024 Approved Unleashing the Power of Color in Final Cut Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-screen-recording-software-compared-bandicam-vs-camtasia-for-2024/"><u>Top Screen Recording Software Compared  Bandicam Vs Camtasia for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-free-video-editors-for-newbies/"><u>Updated In 2024, Top Free Video Editors for Newbies</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-audio-visual-harmony-merging-films-and-recordings-in-the-digital-age/"><u>2024 Approved Audio-Visual Harmony Merging Films and Recordings in the Digital Age</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-s24-ultra-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy S24 Ultra Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/optimal-video-sizing-for-an-instagram-standout/"><u>Optimal Video Sizing for an Instagram Standout</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-best-alternative-top-10-flv-to-youtube-converter-apps/"><u>In 2024, Best Alternative  Top 10 FLV to YouTube Converter Apps</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

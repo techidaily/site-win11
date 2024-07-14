@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows XPatch Fixes for Error 0X80073712
-date: 2024-06-25T11:38:54.089Z
-updated: 2024-06-26T11:38:54.089Z
+date: 2024-07-09T23:17:55.609Z
+updated: 2024-07-10T23:17:55.609Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ Here’s how to perform a complete system shutdown:
 
 Repeat the following steps to start the necessary services:
 
-1. Press**Win + R** to[launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
+1. Press**Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**services.msc** and press the**enter** key
 2. Services utility will launch on your system. Now locate the**Background Intelligent Transfer** service in the list.
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
@@ -111,7 +111,7 @@ Retrace the following steps to delete the pending.xml file:
 
 ## 8\. Reset Windows
 
- Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
+ Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning [how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as [SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
 
 ## Update Windows Without Hiccups
 
@@ -133,21 +133,4 @@ Retrace the following steps to delete the pending.xml file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/the-science-behind-windows-11s-streamlined-file-safety-measures/"><u>The Science Behind Windows 11’S Streamlined File Safety Measures</u></a></li>
-<li><a href="https://win11.techidaily.com/re-engaging-with-ms-store-a-stepwise-approach-to-windows-pcs/"><u>Re-Engaging with MS Store: A Stepwise Approach to Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-responsiveness-of-the-windows-downloads-hub/"><u>Enhancing Responsiveness of the Windows Downloads Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/embracing-deity-interactions-with-your-windows-11-pc/"><u>Embracing Deity Interactions with Your Windows 11 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-potential-your-custom-hotkey-journey/"><u>Unlocking Windows Potential: Your Custom Hotkey Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-the-missing-entry-in-windows-os/"><u>Mending the Missing Entry in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-individual-gpo-settings-for-windows-users-1111-edition/"><u>Implementing Individual GPO Settings for Windows Users 11/11 Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-live-capture-compendium-the-finest-screen-recorders-in-obs/"><u>2024 Approved  Live Capture Compendium  The Finest Screen Recorders in OBS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-streaming-and-screen-capture-a-comprehensive-obs-analysis-for-2024/"><u>[New] Live Streaming & Screen Capture  A Comprehensive OBS Analysis for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-online-houses-purchasing-unique-tailored-boxed-gifts/"><u>Best Online Houses  Purchasing Unique, Tailored Boxed Gifts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-easily-remove-tiktok-logos-with-these-online-tools/"><u>Updated 2024 Approved Easily Remove TikTok Logos with These Online Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-rated-webcams-for-excellent-video-quality-on-zoom/"><u>Top-Rated Webcams for Excellent Video Quality on Zoom</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-creators-lab-building-an-unstoppable-channel/"><u>2024 Approved  The Creator's Lab  Building an Unstoppable Channel</u></a></li>
-</ul></div>
+

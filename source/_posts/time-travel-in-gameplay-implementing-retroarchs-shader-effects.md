@@ -1,7 +1,7 @@
 ---
 title: "Time Travel in Gameplay: Implementing RetroArch's Shader Effects"
-date: 2024-06-25T11:26:43.604Z
-updated: 2024-06-26T11:26:43.604Z
+date: 2024-07-09T23:18:00.360Z
+updated: 2024-07-10T23:18:00.360Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 
  Before moving to the shaders themselves, let's go over some other options in RetroArch that are just as important for how your emulated games will look.
 
- Note that, for this article, we take for granted that you have a basic setup of RetroArch up and running. If not, check our guide on[how to set up RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) .
+ Note that, for this article, we take for granted that you have a basic setup of RetroArch up and running. If not, check our guide on [how to set up RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) .
 
 1. While using RetroArch's full-screen menu, move to**Settings** and enter the**Drivers** submenu.  
 ![Retroarch Settings Drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/retroarch-settings-drivers.jpg)
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 
  For example, you might further improve the visuals of your games by combining a**CRT** with an**anti-aliasing** shader, but not by trying to stack three different CRT shaders on top of each other. In an extreme example, by stacking scanlines on top of scanlines, you might end up looking at a black screen instead of improved visuals.
 
- Shaders are great for making your games look the way you remember them, but they can't help you beat that final level boss. Don't fret, we won't tell anyone if you check our guide on[how to use RetroArch to make old games easier to beat](https://www.makeuseof.com/how-to-use-retroarch-cheat-retro-games/) !
+ Shaders are great for making your games look the way you remember them, but they can't help you beat that final level boss. Don't fret, we won't tell anyone if you check our guide on [how to use RetroArch to make old games easier to beat](https://www.makeuseof.com/how-to-use-retroarch-cheat-retro-games/) !
 
 ## Retro Games, the Way You Remember Them
 
@@ -119,26 +119,4 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/overcoming-winerror-740-resolving-operation-needs-promotion-in-windows-os/"><u>Overcoming WinError 740: Resolving 'Operation Needs Promotion' In Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-quick-and-accurate-screenshot-of-uac-prompts/"><u>Techniques for Quick and Accurate Screenshot of UAC Prompts</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-the-gains-from-dxvk-adoption/"><u>Windows Users - The Gains From DXVK Adoption</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedies-for-unsynchronized-google-drive-on-pc/"><u>Quick Remedies for Unsynchronized Google Drive on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-copy-pasting-malfunctions-in-windows-11/"><u>Rectifying Copy-Pasting Malfunctions in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-windows-environment-adding-to-the-desktop-menu/"><u>Personalizing Your Windows Environment: Adding to the Desktop Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-dns-on-windows-11/"><u>Step-by-Step: Setting Up DNS on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/drive-success-on-windows-1011-top-5-productivity-boosting-tools/"><u>Drive Success on Windows 10/11: Top 5 Productivity-Boosting Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-sticky-notebook-convergence-on-win11/"><u>Streamlining Sticky Notebook Convergence on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-uninstall-programs-without-admin-privileges-on-windows/"><u>How to Uninstall Programs Without Admin Privileges on WINDOWS</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New In 2024, Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-narzo-60-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2023s-top-methods-for-harmonizing-audio-levels-a-trifecta-of-speed-and-efficiency/"><u>Updated 2023S Top Methods for Harmonizing Audio Levels A Trifecta of Speed and Efficiency</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-screenflow-mastery-for-mac-users-a-critical-look-for-2024/"><u>[New] ScreenFlow Mastery for Mac Users – A Critical Look for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-premium-dj-visuals-library-seamless-download-experience/"><u>[New] Premium DJ Visuals Library - Seamless Download Experience</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-linkedin-video-engagement-aspect-ratio-tips-and-tricks/"><u>New 2024 Approved Unlock LinkedIn Video Engagement Aspect Ratio Tips and Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-8-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 8 Plus? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-extract-the-beat-from-any-song-using-online-tools/"><u>Updated In 2024, How to Extract the Beat From Any Song Using Online Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y36i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y36i Current Location of a Mobile Number | Dr.fone</u></a></li>
-</ul></div>
+

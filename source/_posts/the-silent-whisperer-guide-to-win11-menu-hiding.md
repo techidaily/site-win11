@@ -71,28 +71,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/unlocking-smooth-spotify-link-functionality-in-windows-11/"><u>Unlocking Smooth Spotify Link Functionality in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-password-guardians-revolutionizing-windows-11-life/"><u>Leading Password Guardians Revolutionizing Windows 11 Life</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-navigation-of-files-with-gallery-on-pc/"><u>Efficient Navigation of Files with Gallery on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-wsreset-troubleshooting-in-windows-environments/"><u>Mastering WSReset Troubleshooting in Windows Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-undetermined-status-messages-on-windows/"><u>Remedying 'Undetermined' Status Messages on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/freedomgpt-for-pc-running-ai-conversation-tools/"><u>FreedomGPT for PC: Running AI Conversation Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-virtual-boxs-capabilities-with-v70-on-windows-11-systems/"><u>Maximize Virtual Box's Capabilities with v7.0 on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-hardware-alerts-in-windows/"><u>Troubleshooting Steps for Hardware Alerts in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-non-functional-email-banners-for-office-users/"><u>Reviving Non-Functional Email Banners for Office Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-insta-rotation-rituals-mastering-angles-that-engage-captivate-and-amaze-for-2024/"><u>[Updated] Insta Rotation Rituals  Mastering Angles that Engage, Captivate, and Amaze for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-maximize-your-android-experience-with-these-top-5-ps2-games-apps-for-2024/"><u>[New] Maximize Your Android Experience with These Top 5 PS2 Games Apps for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-truth-behind-instas-video-selfie-authenticity-check/"><u>In 2024, The Truth Behind Insta's Video Selfie Authenticity Check</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-webcams-that-win-top-picks-for-youtube-stream-success/"><u>[Updated] Webcams that Win  Top Picks for YouTube Stream Success</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-realme-gt-3-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Realme GT 3</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-highlighting-the-top-10-budget-friendly-video-communication-platforms-for-industry-and-academia-for-2024/"><u>[Updated] Highlighting the Top 10 Budget-Friendly Video Communication Platforms  For Industry & Academia for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-find-x7-ultra-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-e13-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto E13 Phone Network-Ready</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

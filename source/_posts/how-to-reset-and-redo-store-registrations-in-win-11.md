@@ -1,7 +1,7 @@
 ---
 title: How to Reset and Redo Store Registrations in Win 11
-date: 2024-06-25T11:33:21.150Z
-updated: 2024-06-26T11:33:21.150Z
+date: 2024-07-09T23:18:05.743Z
+updated: 2024-07-10T23:18:05.743Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
 ![re register windows microsoft store apps current user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/re-register-windows-microsoft-store-apps-current-user.jpg)
 
- If the[Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
+ If the [Microsoft Store app issue](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) exists with a specific user account, you don’t need to re-register the app for all the user accounts on your computer. Instead, you can re-register the app only for the current user account.
 
 To re-register Microsoft Store apps for the current user:
 
@@ -68,22 +68,4 @@ To re-register Microsoft Store apps for the current user:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/key-to-the-past-windows-11s-historical-files-retrieval/"><u>Key to the Past: Windows 11’S Historical Files Retrieval</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-common-onedrive-issues-on-pc/"><u>Conquering Common OneDrive Issues on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-error-code-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Tackling Error Code 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-life-top-11-fixes-for-windows-11-issues/"><u>Simplify Your Life: Top 11 Fixes for Windows 11 Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-free-from-the-read-only-shackles-of-windows-11/"><u>Breaking Free From the Read-Only Shackles of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/paving-the-way-for-progress-updating-windows-drivers/"><u>Paving the Way for Progress: Updating Windows Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-err0r-code-e1-in-w10w11/"><u>Fixing Err0r: Code E1 in W10/W11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mobile-guide-embedding-songs-on-your-facebook-page-for-2024/"><u>Mobile Guide  Embedding Songs on Your Facebook Page for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-decode-the-mystery-top-7-tiktok-emojis-explored/"><u>[Updated] In 2024, Decode the Mystery  Top 7 TikTok Emojis Explored</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-magic5-ultimate-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor Magic5 Ultimate FRP Bypass</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-sustainable-scenes-for-filmmakers/"><u>[Updated] In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-mac-4k-monitor-selections-top-10-edition/"><u>In 2024, Premier Mac 4K Monitor Selections  Top 10 Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-7-ways-to-promote-twitch-stream/"><u>Updated 2024 Approved Top 7 Ways to Promote Twitch Stream</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-leading-image-editing-does-pickup-reign-supreme/"><u>2024 Approved  Android's Leading Image Editing  Does PickUp Reign Supreme?</u></a></li>
-</ul></div>
+

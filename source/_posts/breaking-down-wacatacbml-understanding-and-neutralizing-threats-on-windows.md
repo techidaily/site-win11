@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Wacatac.B!ml: Understanding and Neutralizing Threats on Windows"
-date: 2024-06-25T11:24:17.662Z
-updated: 2024-06-26T11:24:17.662Z
+date: 2024-07-09T23:18:04.679Z
+updated: 2024-07-10T23:18:04.679Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
  Have you discovered a Trojan infection after running a random security scan? Then, you should ensure that the Wacatac Trojan alert isn't a false positive. For that, follow the below steps:
 
-1. Visit the[VirusTotal website](https://www.virustotal.com/gui/home/upload) .  
+1. Visit the [VirusTotal website](https://www.virustotal.com/gui/home/upload) .  
 ![clicking on the choose file button on the VirusTotal official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-on-the-choose-file-button-on-the-virus-total-official-website.jpg)
 2. Navigate to the path of the affected item where Windows Defender has detected a Trojan. Most of the time, it'll be as follows:  
 `C:\WINDOWS\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE\QINNLJOV.htm`
@@ -86,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ## 3\. Run a Malware Scan in Safe Mode
 
- Often, the presence of malware prevents Windows Defender from removing infected files. To prevent this from happening, you should first[boot your Windows 10 device into Safe mode](https://www.makeuseof.com/tag/boot-windows-10-safe-mode/) (or[Windows 11)](https://www.makeuseof.com/windows-11-boot-safe-mode/) . By doing so, the malware won't interfere with removing infected files.
+ Often, the presence of malware prevents Windows Defender from removing infected files. To prevent this from happening, you should first [boot your Windows 10 device into Safe mode](https://www.makeuseof.com/tag/boot-windows-10-safe-mode/) (or [Windows 11)](https://www.makeuseof.com/windows-11-boot-safe-mode/) . By doing so, the malware won't interfere with removing infected files.
 
- Afterward, you should[run Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) . Remember that a full virus scan can take more than an hour, so be patient and allow it to complete. When the scan is complete, check whether Windows Security still reports a threat. If this is the case, run a malware scan with a third-party antivirus program.
+ Afterward, you should [run Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) . Remember that a full virus scan can take more than an hour, so be patient and allow it to complete. When the scan is complete, check whether Windows Security still reports a threat. If this is the case, run a malware scan with a third-party antivirus program.
 
  There are times when Windows Defender does not completely remove malware or keeps raising false flags despite removing the virus. Third-party software can help you determine whether the threat is present and, if it is, eradicate it. If that fails as well, reset your computer.
 
 ## 4\. Reset Your Operating System
 
- When none of the fixes work, you can reset Windows as a last resort. During the reset process, Windows will remove all installed apps and restore all customizations to default, but your files will remain intact (if you choose to do so). We have a[guide on factory resetting your Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) if you aren't familiar with it.
+ When none of the fixes work, you can reset Windows as a last resort. During the reset process, Windows will remove all installed apps and restore all customizations to default, but your files will remain intact (if you choose to do so). We have a [guide on factory resetting your Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) if you aren't familiar with it.
 
 ## Does the Wacatac Trojan Alert Appear When You Download a File?
 
@@ -105,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
  It has been reported that the Wacatac Trojan alerts sometimes appear when downloading a compressed file, particularly with the .RAR extension, even from legitimate sources. If that's the case for you, too, then follow the steps below:
 
 1. Copy the download link of the file you wish to download.
-2. Visit the[VirusTotal website](https://www.virustotal.com/gui/home/url) .
+2. Visit the [VirusTotal website](https://www.virustotal.com/gui/home/url) .
 3. Enter the URL in the URL scanner.  
 ![Entering the URL of the file to be downloaded in the URL scanner on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/entering-the-url-of-the-file-to-be-downloaded-in-the-url-scanner-on-the-virus-total-website.jpg)
 4. Hit**Enter** .  
 ![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
 
- If the VirusTotal scanner returns a clean result, you can download the file without worry. Just[whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
+ If the VirusTotal scanner returns a clean result, you can download the file without worry. Just [whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
 
 ## Protect Your Privacy From the Wacatac Trojan
 
@@ -133,21 +133,4 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/1719322242538-mastering-printer-troubles-reactivating-missing-wwinplusp-on-windows/"><u>Mastering Printer Troubles: Reactivating Missing WWin+P on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-key-to-seamless-slide-showouts-top-tips-for-powerpoint-printing-on-windows/"><u>The Key to Seamless Slide Showouts: Top Tips for PowerPoint Printing on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-accessing-win-11s-call-center/"><u>Quick Guide: Accessing Win 11'S Call Center</u></a></li>
-<li><a href="https://win11.techidaily.com/does-your-pc-tick-all-boxes-for-windows-11-upgrade/"><u>Does Your PC Tick All Boxes for Windows 11 Upgrade?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-subsystem-for-android-is-going-away-what-should-you-do-now/"><u>Windows Subsystem for Android Is Going Away: What Should You Do Now?</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-pristine-windows-display-perfection/"><u>Crafting Pristine Windows Display Perfection</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-traditional-windows-explorer-look/"><u>Reclaiming Traditional Windows Explorer Look</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-secrets-unlocked-banishing-instagram-video-fails/"><u>[Updated] In 2024, Secrets Unlocked  Banishing Instagram Video Fails</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-reno-10-pro-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Reno 10 Pro 5G Device</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-advanced-steps-to-record-silent-videos/"><u>In 2024, Advanced Steps to Record Silent Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo/"><u>[New] In 2024, Constructive Cuts  Streamlined Approaches for Length Adjustments on Vimeo</u></a></li>
-<li><a href="https://extra-information.techidaily.com/c-span-archive-download-legally-without-expense-for-2024/"><u>C-Span Archive  Download Legally Without Expense for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>[New] In 2024, Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-ringtones-guide-top-downloads/"><u>In 2024, Ultimate Ringtones Guide  Top Downloads</u></a></li>
-</ul></div>
+

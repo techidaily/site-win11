@@ -1,7 +1,7 @@
 ---
 title: Interpreting Windows Build Numbers
-date: 2024-06-25T11:44:08.332Z
-updated: 2024-06-26T11:44:08.332Z
+date: 2024-07-09T23:18:06.276Z
+updated: 2024-07-10T23:18:06.276Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
  Quality updates are generally categorized into four types; B, C, D, and out-of-band. Here is what every type does:
 
-* B updates - These are released on every second Tuesday of the month, known as[Patch Tuesday](https://www.makeuseof.com/everything-you-need-to-know-about-patch-tuesday/) . They contain security updates and critical bug fixes.
+* B updates - These are released on every second Tuesday of the month, known as [Patch Tuesday](https://www.makeuseof.com/everything-you-need-to-know-about-patch-tuesday/) . They contain security updates and critical bug fixes.
 * C updates - They are released in the third week of each month and typically include non-critical improvements. This may include fixes for a bug that is not a threat to the security of your system.
 * D updates - These are optional updates that are released in the fourth week of every month. They are typically used by Microsoft to receive feedback from the users on upcoming updates.
 * Out-of-band updates - These are emergency updates that do not follow a strict release schedule. They are released when a critical problem is discovered that needs to be fixed as soon as possible.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
 ![Driver updates in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-update.jpg)
 
- Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
+ Windows also gives you the option to [manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
 ## Understanding the Update Numbers
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
  This typically happens if the update you install is infected with bugs and vulnerabilities itself. The update can also conflict with the existing settings and configuration, leading to different issues and errors. In some cases, the updates you install can turn out to be incompatible with the hardware as well.
 
- If you encounter problems after installation, you can[uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or[roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
+ If you encounter problems after installation, you can [uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or [roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
 
 ## Making Sense of Update Names and Numbers
 
@@ -113,21 +113,4 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/streamlining-storage-windows-1011-automatic-file-deletion/"><u>Streamlining Storage: Windows 10/11 Automatic File Deletion</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-audio-access-failures-in-audacity/"><u>Troubleshooting Audio Access Failures in Audacity</u></a></li>
-<li><a href="https://win11.techidaily.com/key-techniques-to-refresh-windows-group-policy-settings/"><u>Key Techniques to Refresh Windows Group Policy Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-system-maintenance-tips-for-setting-active-windows-11-times/"><u>Navigating System Maintenance: Tips for Setting Active Windows 11 Times</u></a></li>
-<li><a href="https://win11.techidaily.com/new-horizons-in-windows-11-dissecting-update-wxxs-additions/"><u>New Horizons in Windows 11: Dissecting Update W.x.x's Additions</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-strategies-for-pinpointing-hardware-identification-in-windows/"><u>Advanced Strategies for Pinpointing Hardware Identification in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-tracking-disk-space-usage-in-windows-pcs/"><u>The Ultimate Guide to Tracking Disk Space Usage in Windows PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-nokia-150-2023-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Nokia 150 (2023)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discovering-the-best-screen-recorder-obs-studio-vs-fraps-for-2024/"><u>Discovering the Best Screen Recorder  OBS Studio Vs Fraps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-radiant-rendering-the-graders-artistic-journey/"><u>In 2024, Radiant Rendering  The Grader's Artistic Journey</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>[Updated] A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/reviving-relics-seamless-access-to-old-fb-narratives-on-tech/"><u>Reviving Relics  Seamless Access to Old FB Narratives on Tech</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-instagrams-algorithm-for-better-engagement/"><u>[Updated] 2024 Approved  Navigating Instagram's Algorithm for Better Engagement</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oppo-a59-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo A59 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-journey-to-immersive-storytelling-with-ios-and-vr/"><u>[New] Journey to Immersive Storytelling with IOS and VR</u></a></li>
-</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Effective Batch Conversion of HEIC to JPEG in Windows
-date: 2024-06-25T11:43:33.777Z
-updated: 2024-06-26T11:43:33.777Z
+date: 2024-07-09T23:18:03.299Z
+updated: 2024-07-10T23:18:03.299Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  Aside from that, installing this software also enables you to preview HEIC images in Explorer without converting them. You can convert multiple HEIC images to JPEG with CopyTrans as follows:
 
-1. Open this[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
+1. Open this [CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
 2. Click CopyTrans HEIC’s**Download** button and downloaded the executable.
 3. Double-click the**CopyTransHEICforWindowsv2.000.exe** file.
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
 1. Open Explorer after installing CopyTrans HEIC (there’s no need for a restart Windows).
 2. Bring up a folder that contains some HEIC images you want to convert.
-3. Hold the**Ctrl** key to[select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
+3. Hold the**Ctrl** key to [select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
 
-1. Open the[FoneTool](https://www.fonetool.com/download.html) download page.
+1. Open the [FoneTool](https://www.fonetool.com/download.html) download page.
 2. Click**Free Download for PC** to get the setup wizard for the freeware version.
 3. Then double-click**FoneTool\_free\_installer.Z1qPz.exe** to open FoneTool’s setup wizard.
 4. If you prefer to configure the installation in any way, click Customization in the setup window. Then you can click the**Select Path** button to change the directory.
@@ -87,9 +87,9 @@ Now it's time to convert images with FoneTool:
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
- There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
+ There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
-1. Open the[HEIC to JPEG Free Online Converter](https://heic.online/) web app.
+1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
@@ -125,26 +125,4 @@ Now it's time to convert images with FoneTool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/how-to-sidestep-no-uninstall-issue-on-windows-oses/"><u>How to Sidestep No Uninstall Issue on Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-websites-that-work-on-your-windows-pc/"><u>Crafting Websites That Work on Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/no-illusions-allowed-true-tales-of-unmasking-windows-ploys/"><u>No Illusions Allowed: True Tales of Unmasking Windows Ploys</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-improve-usb-interaction-points/"><u>Steps to Improve USB Interaction Points</u></a></li>
-<li><a href="https://win11.techidaily.com/from-blank-canvases-to-dynamic-displays-on-win-1011/"><u>From Blank Canvases to Dynamic Displays on Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-reclaiming-faulty-usb-connectivity-windows/"><u>Comprehensive Guide to Reclaiming Faulty USB Connectivity, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/1719302097899-opera-on-windows-end-the-stalling-spectacle-now/"><u>Opera on Windows: End the Stalling Spectacle Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-0x80070194-a-guide-to-onedrive-in-ws/"><u>Counteracting 0X80070194: A Guide to OneDrive in WS</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-incorporating-copy-and-move-commands-in-win-11/"><u>Step-by-Step Guide: Incorporating Copy & Move Commands in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-technique-to-effortlessly-install-win11-with-workstation-17/"><u>Unveiling the Technique to Effortlessly Install Win11 with Workstation 17</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-fundamental-features-to-consider-when-selecting-an-audio-editor-for-mac-users/"><u>New In 2024, Fundamental Features to Consider When Selecting an Audio Editor for Mac Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone XR?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-x-fold-2-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo X Fold 2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>In 2024, Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>[New] In 2024, Dominate IGTV With Follower Growth  Essential Techniques Reviewed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-balancing-visual-elements-with-ideal-video-ratios/"><u>[Updated] Balancing Visual Elements with Ideal Video Ratios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-best-ai-naming-assistants-for-podcast-innovation/"><u>[New] In 2024, The Best AI Naming Assistants for Podcast Innovation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-xcover-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy XCover 7 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your OnePlus Ace 2V | Dr.fone</u></a></li>
-</ul></div>
+

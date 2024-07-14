@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disruptive Discord JS Error in Windows Environments
-date: 2024-06-25T11:35:52.646Z
-updated: 2024-06-26T11:35:52.646Z
+date: 2024-07-09T23:18:03.600Z
+updated: 2024-07-10T23:18:03.600Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
 
 ## 1\. Run Discord With Admin Rights
 
- Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for[running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
+ Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for [running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
 
-1. Open this[Discord Enhancement Project](https://betterdiscord.app/) page.
+1. Open this [Discord Enhancement Project](https://betterdiscord.app/) page.
 2. Click the**Download v1.5.3** button.
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to go to the directory your browser downloads files to.
 4. Double-click the**BetterDiscord-Windows.exe** file.
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
 
-1. Check out our guide for[how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
+1. Check out our guide for [how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
 2. Click the menu button on the right side of the Discord app listed in Apps & Features to select**Uninstall** .
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 5. Reboot your Windows PC before reinstalling the Discord software.
-6. Open up the[download page for Discord](https://discord.com/download) .
+6. Open up the [download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
 
 ## Start Chatting in Discord Again on Windows
 
- So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the[submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
+ So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the [submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,26 +130,4 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/enhance-windows-application-speed-through-improved-networking/"><u>Enhance Windows Application Speed Through Improved Networking</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-risks-ignoring-windows-11-push-notifications/"><u>Understanding Risks: Ignoring Windows 11 Push Notifications</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-with-recalled-logon-code/"><u>Unlocking Windows with Recalled Logon Code</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-wireless-speaker-quality-in-win11-os/"><u>Enhancing Wireless Speaker Quality in Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-global-scripts-a-windows-font-guide/"><u>Unleashing Global Scripts: A Windows Font Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-path-to-correctness-resolving-server-stumbled-issues-in-win-store/"><u>Clear Path to Correctness: Resolving Server Stumbled Issues in Win Store</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-file-write-error-in-windows-11-os/"><u>Resolving File Write Error in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/corrective-guide-to-browser-paste-issues-on-windows/"><u>Corrective Guide to Browser Paste Issues on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-cant-connect-nvidia-error-on-win-11-devices/"><u>Bypassing the Can't Connect Nvidia Error on Win 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-username-modification-in-windows-11/"><u>Unlocking the Secrets of UserName Modification in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionize-sessions-with-pro-zoom-conversion-hacks/"><u>In 2024, Revolutionize Sessions with Pro-Zoom Conversion Hacks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-thrifty-computer-solutions-through-perfect-obs-arrangement/"><u>[New] Thrifty Computer Solutions Through Perfect OBS Arrangement</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-an-ultimate-guide-of-best-narrator-voice-generators/"><u>Updated In 2024, An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-mastering-troubleshooting-for-non-responsive-tiktok-chrome-ios/"><u>[Updated] 2024 Approved  Mastering Troubleshooting for Non-Responsive TikTok (Chrome, iOS)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chuckle-forge-mutant-comedy-creatures/"><u>[Updated] Chuckle Forge  Mutant Comedy Creatures</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-social-media-visuals-aspect-ratio-decisions/"><u>[Updated] In 2024, Social Media Visuals  Aspect Ratio Decisions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-educational-excellence-through-effective-lecture-audio-documentation-mac/"><u>[Updated] 2024 Approved  Educational Excellence Through Effective Lecture Audio Documentation (Mac)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktok-glitches-troubleshooting-iosandroid-issues/"><u>In 2024, TikTok Glitches  Troubleshooting iOS/Android Issues</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-hands-on-with-splice-a-detailed-review-of-the-video-editing-app-for-2024/"><u>Updated Hands-On with Splice A Detailed Review of the Video Editing App for 2024</u></a></li>
-</ul></div>
+

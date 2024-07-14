@@ -1,7 +1,7 @@
 ---
 title: "Unzipping Complex Archives: A Windows CLI Expert's Manual"
-date: 2024-06-25T11:44:11.953Z
-updated: 2024-06-26T11:44:11.953Z
+date: 2024-07-09T23:17:57.200Z
+updated: 2024-07-10T23:17:57.200Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ Here's how to zip files using Command Prompt:
 
 ## How to Zip Files Using Windows PowerShell
 
- There are several viable ways to[create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
+ There are several viable ways to [create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
 
 Here's how to zip files using Windows PowerShell:
 
@@ -60,7 +60,7 @@ Here's how to zip files using Windows PowerShell:
 
 ## How to Unzip Files Using Command Prompt
 
- There may be situations where you want to[unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
+ There may be situations where you want to [unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
 
 1. Launch Command Prompt with admin privileges.
 2. Use the**cd** command to head toward the zip file's location.
@@ -101,21 +101,4 @@ You've successfully unzipped the file.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/efficient-techniques-for-inspecting-and-cleansing-windows-trail/"><u>Efficient Techniques for Inspecting & Cleansing Windows Trail</u></a></li>
-<li><a href="https://win11.techidaily.com/brightening-your-computerenas-dark-background-issue/"><u>Brightening Your Computer'enas Dark Background Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/making-windows-alt-codes-function-again-51-characters/"><u>Making Windows ALT Codes Function Again (51 Characters)</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-insight-discerning-storage-type-on-windows/"><u>Exclusive Insight: Discerning Storage Type on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-your-computer-writes-on-new-program-placement/"><u>Deciphering Your Computer' Writes on New Program Placement</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-modify-calculators-color-scheme-dark/"><u>How To Modify Calculator's Color Scheme (Dark)</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-extend-a-volume-on-windows-without-erasing-personal-data/"><u>How to Extend a Volume on Windows Without Erasing Personal Data</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-the-ultimate-tutorial-on-how-to-openedit-srt-on-mac/"><u>[Updated] The Ultimate Tutorial on How to Open/Edit SRT on Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-take-on-using-luts-for-image-enhancement-in-pscc/"><u>2024 Approved  Expert's Take on Using LUTs for Image Enhancement in PSCC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-bold-and-bright-the-best-tiktok-pfp-strategies-to-impress/"><u>2024 Approved  Bold and Bright  The Best TikTok PFP Strategies to Impress</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>New Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-10-intro-creator-websites-for-beginners/"><u>Updated From Zero to Hero Top 10 Intro Creator Websites for Beginners</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>In 2024, Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/roblox-revealed-masterful-methods-for-closer-insight-for-2024/"><u>Roblox Revealed  Masterful Methods for Closer Insight for 2024</u></a></li>
-</ul></div>
+

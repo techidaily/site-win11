@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Screen Savers: A Guide to Win11"
-date: 2024-06-25T11:25:49.417Z
-updated: 2024-06-26T11:25:49.417Z
+date: 2024-07-09T23:18:05.046Z
+updated: 2024-07-10T23:18:05.046Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  Plus, you can change the text's surface and color style. Click**Sold Color** \>**Custom Color** \>**Choose Color** to bring up a palette. Then select a different text color on the palette and select**OK** .
 
- To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to[Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
+ To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to [Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  Clicking the**Settings** buttons for the Bubbles, Mystify, and Ribbons screensavers in Windows 11 won't open any options for them. To customize those screensavers, download and launch the freeware Winaero Screensaver Tweaker software. That portable app lets you tweak hidden options for Bubbles, Mystify, and Ribbons in Windows platforms dating back to Vista. This is how you can download and launch Winaero Screensaver Tweaker:
 
-1. Open the[Winaero Screensaver Tweaker](https://winaero.com/winaero-screensavers-tweaker/) download page.
+1. Open the [Winaero Screensaver Tweaker](https://winaero.com/winaero-screensavers-tweaker/) download page.
 2. Click the**Download Windows Screensavers** Tweaker link.
 3. Open whatever directory includes the**System\_Screensavers\_Tweaker.zip** file by pressing**Windows key** +**E** and navigating to it within File Explorer.
-4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
+4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
 6. Click the Windows 8 and x64 subfolders.
@@ -109,22 +109,4 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/turbo-charge-battlenet-downloads-for-smooth-gaming/"><u>Turbo Charge Battle.net Downloads for Smooth Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turn-off-overlay-effects-in-nvidia-graphics/"><u>How to Turn Off Overlay Effects in NVIDIA Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-low-usb-availability-windows-wise/"><u>Steps to Rectify Low USB Availability Windows-Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-cars-mouse-keys-and-acceleration-mastery/"><u>Winning Cars: Mouse, Keys, and Acceleration Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/the-perfect-blend-excelling-at-classic-games-in-hd-clarity-through-scummvm-on-windows/"><u>The Perfect Blend: Excelling at Classic Games in HD Clarity Through ScummVM on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-yourself-from-install-error-in-discord-set-up/"><u>Saving Yourself From Install Error in Discord Set-Up</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-troubleshooting-a-guide-to-fixing-windows-11-issues/"><u>Mastering Troubleshooting: A Guide to Fixing Windows 11 Issues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-6s-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 6s? Find the Best Solution Here</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/best-female-sounding-voice-transformation-software-for-men/"><u>Best Female-Sounding Voice Transformation Software for Men</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-and-clear-the-best-android-video-editing-apps-without-watermarks-for-2024/"><u>New Free and Clear The Best Android Video Editing Apps Without Watermarks for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/foundations-of-using-zooms-clustering-feature/"><u>Foundations of Using Zoom's Clustering Feature</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-pave-your-path-to-popularity-secure-1000-fansmonth-on-instagram-for-2024/"><u>[Updated] Pave Your Path to Popularity  Secure 1,000 Fans/Month on Instagram for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-magic-vs-2-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor Magic Vs 2.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-free-public-domain-pubg-screen-shots-for-2024/"><u>Best Free Public Domain PUBG Screen Shots for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-amplify-your-social-impact-with-these-innovative-fb-growth-tactics-for-2024/"><u>[Updated] Amplify Your Social Impact with These Innovative FB Growth Tactics for 2024</u></a></li>
-</ul></div>
+

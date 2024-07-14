@@ -1,7 +1,7 @@
 ---
 title: Streamlining Comic File Access in Modern Windows
-date: 2024-06-25T11:37:28.196Z
-updated: 2024-06-26T11:37:28.196Z
+date: 2024-07-09T23:18:06.302Z
+updated: 2024-07-10T23:18:06.302Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 
 ## First, Download Some Comics
 
- Firstly, download a few comic books to open and read in YACReader and Cover. The[GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
+ Firstly, download a few comic books to open and read in YACReader and Cover. The [GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
 
 ![The Download Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download-now-button.jpg)
 
- There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our[best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
+ There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our [best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
 
  When you’ve downloaded comics, it’s a good idea to set up a new, empty folder to store them. Right-click the desktop area of Windows 11 and select the**New** \>**Folder** options. Then input Comic Books for the directory’s title. Move your downloaded comics into that folder by dragging and dropping their files within File Explorer.
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
 
-1. Open the[Cover – Comic reader](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7) page on Microsoft Store.
+1. Open the [Cover – Comic reader](https://apps.microsoft.com/store/detail/cover-comic-reader/9WZDNCRFJ9W7) page on Microsoft Store.
 2. Press Cover’s**Get in Store** app button.
 3. Select the**Open Microsoft Store** option.
 4. Click**Get** to download and install Cover.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 
  YACReader is a good alternative freeware comic reader to Cover for Windows platforms dating back to Vista. Unlike Cover, YACReader doesn’t restrict you to a 25-comic library. It also incorporates some nice unique features. This is how you can open up comics with YACReader:
 
-1. Open the**Download** page on the[YACReader website](https://www.yacreader.com/) .
+1. Open the**Download** page on the [YACReader website](https://www.yacreader.com/) .
 2. Press the**Download YACReader** button.
 3. Select the File Explorer shortcut on the Windows taskbar.
 4. Open the folder your browser downloaded YACReader’s installer to, and double-click the**YACReader-v9.10.0.2210304-winx64-7z-qt6.exe** file.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 
 ## How to Read Comics in Your Web Browser
 
- You don’t have to install third-party software to read comics in Windows 11\. Instead, you can view and read them in a browser. Some comic book websites include options for viewing comics on them. Alongside the[best ways to read comics online for free](https://www.makeuseof.com/tag/best-read-comics-online-free/) , you can also try:
+ You don’t have to install third-party software to read comics in Windows 11\. Instead, you can view and read them in a browser. Some comic book websites include options for viewing comics on them. Alongside the [best ways to read comics online for free](https://www.makeuseof.com/tag/best-read-comics-online-free/) , you can also try:
 
 * [Read Comic Online](https://readcomiconline.li/)
 * GetComics (linked above)
@@ -128,21 +128,4 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/keep-it-neat-how-to-make-windows-recycle-bin-self-cleanse/"><u>Keep It Neat: How to Make Windows Recycle Bin Self-Cleanse</u></a></li>
-<li><a href="https://win11.techidaily.com/exploiting-windows-software-to-elevate-macos-usability/"><u>Exploiting Windows Software to Elevate macOS Usability</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-wls-2-strategies-optimizing-linux-experience-in-windows/"><u>Pro WLS 2 Strategies: Optimizing Linux Experience in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-over-silent-slack-alerts-in-win-11/"><u>Regain Control Over Silent Slack Alerts in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-diagnostics-timely-application-of-windows-ping/"><u>Navigating Network Diagnostics: Timely Application of Windows Ping</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-windows-access-denial-mysteries/"><u>Deciphering Windows Access Denial Mysteries</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-and-dxgidll-quick-fixes-for-the-missing-file/"><u>Win11 & Dxgi.dll: Quick Fixes for the Missing File</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alt/"><u>New 2024 Approved Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtubes-aspect-ratio-landscape-a-complete-tutorial/"><u>2024 Approved  Navigating YouTube's Aspect Ratio Landscape  A Complete Tutorial</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhancing-obs-on-a-thrifty-computer/"><u>[New] In 2024, Enhancing OBS on a Thrifty Computer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-paying-for-youtube-traffic-worthwhile-for-2024/"><u>Is Paying for YouTube Traffic Worthwhile for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/an-examination-of-photoshops-anti-shake-capabilities-for-2024/"><u>An Examination of Photoshop’s Anti-Shake Capabilities for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-kinemasters-expert-strategies-for-video-transitions/"><u>[Updated] Kinemaster's Expert Strategies for Video Transitions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/"><u>In 2024, Mastering Brand Collaboration on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlock-your-view-best-bargain-cam-recording-apps-for-2024/"><u>[New] Unlock Your View  Best Bargain Cam Recording Apps for 2024</u></a></li>
-</ul></div>
+

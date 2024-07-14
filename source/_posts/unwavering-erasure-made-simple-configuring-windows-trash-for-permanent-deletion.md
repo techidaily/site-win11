@@ -1,7 +1,7 @@
 ---
 title: "Unwavering Erasure Made Simple: Configuring Windows Trash for Permanent Deletion"
-date: 2024-06-25T11:34:48.184Z
-updated: 2024-06-26T11:34:48.184Z
+date: 2024-07-09T23:17:58.089Z
+updated: 2024-07-10T23:17:58.089Z
 tags:
   - windows10
   - windows11
@@ -26,19 +26,19 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
- Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
+ Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the [best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
  However, file shredder apps combat data recovery software by thoroughly eradicating files. Those tools permanently erase files by overwriting their data on hard drives. They do that with various data erasure overwrite standards, such as Gutmann’s and Schneier’s algorithms.
 
- So, you’ll need[third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
+ So, you’ll need [third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
 
- Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
+ Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on [if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
 
-1. Open the[Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
+1. Open the [Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
 2. Click the**Download Now** and the**External Mirror 1** options.
 3. Activate File Explorer by pressing its folder library taskbar button.
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
 
-1. First, open the[8GadgetPack download page](https://8gadgetpack.net/) .
+1. First, open the [8GadgetPack download page](https://8gadgetpack.net/) .
 2. Click**Download** on that 8GadgetPack page.
 3. Follow the instructions on the linked download page to install the 8GadgetPack software.
-4. Next, open this[Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
+4. Next, open this [Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
 5. Click Multi Trash’s**Download Now** \>**Secure Download (US)** options.
 6. Now open the 8GadgetPack software.
 7. Click the**Add gadget** option to view the desktop widget selection window.  
@@ -112,25 +112,4 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/reverse-icon-diminution-issues-on-windows-11/"><u>Reverse Icon Diminution Issues on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-easily-uninstall-applications-in-win-11/"><u>Breaking Barriers: Easily Uninstall Applications in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-system-backups-to-standard-configurations/"><u>Reverting System Backups to Standard Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-the-photos-app-background-blur-feature-on-windows-11/"><u>How to Use the Photos App Background Blur Feature on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-setting-up-or-removing-wi-fi-cost-tracking-in-win11/"><u>Guide: Setting Up or Removing Wi-Fi Cost Tracking in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-to-rectify-hiberflattening-windows/"><u>Easy Steps to Rectify HiberFlattening Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-heat-drainage-in-windows-11-computers/"><u>Reducing Heat Drainage in Windows 11 Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-mouse-indicator-for-personalized-windows-experience/"><u>Modify Mouse Indicator for Personalized Windows Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/actions-to-take-against-lunar-client-start-up-failure-notice/"><u>Actions to Take Against Lunar Client Start-Up Failure Notice</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-studio-technique-breakdown-comprehensive-xvideooverview/"><u>[Updated] Studio Technique Breakdown  Comprehensive XVideoOverview</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-capture-gaming-sessions-in-hd-using-obs/"><u>[New] In 2024, Capture Gaming Sessions in HD - Using OBS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-hidden-glances-instagram-story-viewing-without-revealing-personal-details-pc-android-iphone/"><u>2024 Approved  Hidden Glances  Instagram Story Viewing without Revealing Personal Details [PC, Android, iPhone]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-tutorial-for-aspiring-mukbang-creators/"><u>[Updated] Step-by-Step Tutorial for Aspiring Mukbang Creators</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-your-gaming-channel-on-youtube-for-2024/"><u>Crafting Your Gaming Channel on YouTube for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/the-singers-guide-to-cinematic-vocal-projection-using-filmora/"><u>The Singers Guide to Cinematic Vocal Projection Using Filmora</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-picks-lightweight-video-editors-for-seamless-editing-for-2024/"><u>Updated Top Picks Lightweight Video Editors for Seamless Editing for 2024</u></a></li>
-</ul></div>
+

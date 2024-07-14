@@ -1,7 +1,7 @@
 ---
 title: The Art of Web Sites Becoming Win Desktops
-date: 2024-06-25T11:32:40.040Z
-updated: 2024-06-26T11:32:40.040Z
+date: 2024-07-09T23:18:05.763Z
+updated: 2024-07-10T23:18:05.763Z
 tags:
   - windows10
   - windows11
@@ -51,11 +51,11 @@ To install a website and app using Microsoft Edge:
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
- Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
+ Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also [remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
 ## 2\. Install Websites as App Using Google Chrome
 
- Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also[run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
+ Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also [run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
 
 To add a shortcut to a website as an app in Chrome:
 
@@ -93,7 +93,7 @@ C:\Windows\System32\imageres.dll
 
 To install a website as an app using WebCatalog:
 
-1. Go to the[WebCatalog page](https://webcatalog.io/en/) and download the installer.
+1. Go to the [WebCatalog page](https://webcatalog.io/en/) and download the installer.
 2. Once installed, launch the app.  
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
@@ -121,7 +121,7 @@ To install a website as an app using WebCatalog:
 
 To create a desktop app using Web2Desk:
 
-1. Go to the[Web2Desk page](https://appmaker.xyz/web2desk) .
+1. Go to the [Web2Desk page](https://appmaker.xyz/web2desk) .
 2. Enter your website URL and app name in the respective fields.
 3. It will automatically fetch the website logo for the app icon. Click**Change** to add a custom icon from your local drive.
 4. Next, type your email address.
@@ -155,21 +155,4 @@ To create a desktop app using Web2Desk:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/command-prompt-wizardry-unmasking-your-ip/"><u>Command Prompt Wizardry: Unmasking Your IP</u></a></li>
-<li><a href="https://win11.techidaily.com/atlasos-resurgence-revitalize-retro-computers/"><u>AtlasOS Resurgence: Revitalize Retro Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/curating-a-personal-touch-for-windows-mouse-pointer/"><u>Curating a Personal Touch for Windows Mouse Pointer</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-samsung-flow-linking-winpc-and-galaxy-device/"><u>Mastering Samsung Flow: Linking WinPC & Galaxy Device</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-the-private-character-editor-in-windows/"><u>How to Open the Private Character Editor in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-scripts-in-windows-quick-fixes-for-loading-powershell-failures/"><u>Enabling Scripts in Windows: Quick Fixes for Loading PowerShell Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/first-day-with-windows-11-heres-what-not-to-do-top-7-mistakes/"><u>First Day with Windows 11? Here's What Not to Do! - Top 7 Mistakes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-visual-marvel-unveiled-eizos-coloredge-cg318-4k-reviewed/"><u>2024 Approved  A Visual Marvel Unveiled  EIZO's ColorEdge CG318-4K Reviewed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-elite-nintendo-switch-fighters-showdown-max-156-for-2024/"><u>[New] Elite Nintendo Switch Fighters Showdown (Max 156) for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS Max</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-in-the-era-of-streaming-find-facebooks-video-treasure/"><u>[New] 2024 Approved  In the Era of Streaming, Find Facebook's Video Treasure</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-best-fps-for-smooth-professional-video-recordings/"><u>[New] 2024 Approved  The Best FPS for Smooth, Professional Video Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gamers-paradise-our-candidate-7-best-fps-titles/"><u>Gamer's Paradise  Our Candidate 7 Best FPS Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y27s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y27s Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-overcoming-the-invisible-barrier-in-tiktok-world/"><u>[Updated] Overcoming the Invisible Barrier in TikTok World</u></a></li>
-</ul></div>
+

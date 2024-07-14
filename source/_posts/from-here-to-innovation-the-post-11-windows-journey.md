@@ -1,7 +1,7 @@
 ---
 title: "From Here to Innovation: The Post-11 Windows Journey"
-date: 2024-06-25T11:39:36.741Z
-updated: 2024-06-26T11:39:36.741Z
+date: 2024-07-09T23:17:59.012Z
+updated: 2024-07-10T23:17:59.012Z
 tags:
   - windows10
   - windows11
@@ -52,17 +52,17 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ## 4\. Animated Wallpapers
 
- Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can[set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
+ Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can [set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
 
- Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for[adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
+ Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for [adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
 
 ## What Else Do We Expect from Windows 12?
 
 [Windows 11's hardware requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) didn't sit well with many Windows users. However, TPM and Secure Boot are crucial security features that protect your computer. We expect these and other hardware requirements, including the 4GB RAM and 64GB of storage to increase even further for Windows 12.
 
- The new Windows version might also focus heavily on AI-based features according to Panos Panay, Microsoft's Chief Product Officer. He mentioned at the[AMD CES 2023 keynote](https://www.amd.com/en/events/ces) in January that AI will effectively reinvent the user's experience of using Windows.
+ The new Windows version might also focus heavily on AI-based features according to Panos Panay, Microsoft's Chief Product Officer. He mentioned at the [AMD CES 2023 keynote](https://www.amd.com/en/events/ces) in January that AI will effectively reinvent the user's experience of using Windows.
 
- Microsoft is also shifting back to a three-year release cycle for Windows (as reported by[Business Standard](https://www.business-standard.com/article/technology/microsoft-likely-to-unveil-windows-12-in-2024-may-see-branding-change-122071600359%5F1.html) ), which means Windows 12 might release in 2024\. A[Deskmodder article](https://www.deskmodder.de/blog/2022/02/20/windows-12-microsoft-beginnt-ab-maerz-mit-der-arbeit/) reveals that Microsoft started working on Windows 12 as early as March 2022.
+ Microsoft is also shifting back to a three-year release cycle for Windows (as reported by [Business Standard](https://www.business-standard.com/article/technology/microsoft-likely-to-unveil-windows-12-in-2024-may-see-branding-change-122071600359%5F1.html) ), which means Windows 12 might release in 2024\. A [Deskmodder article](https://www.deskmodder.de/blog/2022/02/20/windows-12-microsoft-beginnt-ab-maerz-mit-der-arbeit/) reveals that Microsoft started working on Windows 12 as early as March 2022.
 
  It's important to remember that you can't start using Windows 12 as soon as it releases. So even if Microsoft unveils Windows 12 by the end of 2024, it will take a few more months until you can actually start using Windows 12.
 
@@ -90,22 +90,4 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/expert-advice-on-photo-corrections-stripping-backdrops/"><u>Expert Advice on Photo Corrections: Stripping Backdrops</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-stalled-downloads-in-qbittorrent-for-windows/"><u>Reviving Stalled Downloads in qBittorrent for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/cross-platform-cloud-file-retrieval-methods/"><u>Cross-Platform Cloud File Retrieval Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-control-over-windows-input-methods/"><u>Unlock Full Control over Windows' Input Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-losses-commit-to-daily-windows-data-archiving/"><u>Avoid Losses: Commit to Daily Windows Data Archiving</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-prohibited-application-red-flag-in-windows/"><u>Fixing the Prohibited Application Red Flag in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionary-driver-solutions-at-no-cost-to-optimize-windows-cars/"><u>Revolutionary Driver Solutions at No Cost to Optimize Windows Cars</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-what-is-first-impression-review-video-for-2024/"><u>Updated What Is First Impression Review Video for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-a1x-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo A1x 5G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-s23-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE Passcode Easily Video Inside</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[Updated] Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-science-behind-instagram-video-dimensions-aspect-ratios-uncovered/"><u>The Science Behind Instagram Video Dimensions Aspect Ratios Uncovered</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-iptv-recording-on-various-platforms/"><u>[Updated] 2024 Approved  IPTV Recording on Various Platforms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[Updated] In 2024, Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-iphones-ringtone-personalization/"><u>Mastering iPhone's Ringtone Personalization</u></a></li>
-</ul></div>
+

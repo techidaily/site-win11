@@ -127,25 +127,7 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/mastering-faster-windows-11-boots-a-triad-of-tips/"><u>Mastering Faster Windows 11 Boots: A Triad of Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-error-0x80246007-in-windows-11s-update-process/"><u>Tackling Error 0X80246007 in Windows 11'S Update Process</u></a></li>
-<li><a href="https://win11.techidaily.com/error-2e-unravelled-enabling-windows-update/"><u>Error 2E Unravelled: Enabling Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/6-risks-of-using-cheap-windows-activation-keys/"><u>6 Risks of Using Cheap Windows Activation Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/breakthrough-restore-microsofts-pc-manager-on-win/"><u>Breakthrough: Restore Microsoft's PC Manager on Win</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-spending-habits-with-premium-windows-11-pro-key/"><u>Transform Spending Habits with Premium Windows 11 Pro Key</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-no-cost-player-titles-for-pcs-and-viewing/"><u>The Top 7 No-Cost Player Titles for PCs & Viewing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-drones-in-a-battlefield-dji-air-2-vs-hero8-black/"><u>[New] 2024 Approved  Drones in a Battlefield  DJi Air 2 VS Hero8 Black</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-4-ways-to-add-white-borders-on-mobile-and-desktop/"><u>In 2024, 4 Ways to Add White Borders on Mobile and Desktop</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-hobbyist-to-pro-professionalizing-gopro-videos/"><u>[Updated] From Hobbyist to Pro  Professionalizing GoPro Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-insiders-guide-to-ultimate-audio-equipment/"><u>The Insider's Guide to Ultimate Audio Equipment</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-quintessential-windows-10-auditory-harmony-software-picks/"><u>Updated 2024 Approved Quintessential Windows 10 Auditory Harmony Software Picks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>In 2024, Mastering Adobe Cloud  Essential Storage Insights & Top Alternatives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers/"><u>[New] Perfectly Pinned Prompts  Top Android & iPhones' Instagram Covers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-hacking-the-art-of-high-quality-twitch-video-captures-for-2024/"><u>[Updated] Hacking the Art of High-Quality Twitch Video Captures for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

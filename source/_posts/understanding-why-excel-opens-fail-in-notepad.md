@@ -96,29 +96,7 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/the-ultimate-playbook-9-proven-fixes-for-smooth-windows-videos/"><u>The Ultimate Playbook: 9 Proven Fixes for Smooth Windows Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-recurring-file-explorer-autoload/"><u>Stop Recurring File Explorer Autoload</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-access-post-error-code-22-fixing-a-locked-down-pc-in-windows-11/"><u>Restoring Access Post-Error Code 22: Fixing a Locked Down PC in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-switch-for-regedit-on-win11/"><u>Mastering the Switch for RegEdit on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solve-active-directory-issues-impacting-print-in-windows-11/"><u>How to Solve Active Directory Issues Impacting Print in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-mcuicntexe-entry-point-not-found-error-on-windows/"><u>How to Fix the “McUICnt.exe Entry Point Not Found” Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-failed-onedrive-cloud-sync/"><u>Strategies for Fixing Failed OneDrive Cloud Sync</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-microsoft-outlook-glitches-on-windows-devices/"><u>Mending Microsoft Outlook Glitches on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-unidentified-hdd-situations/"><u>Navigating Through Unidentified HDD Situations</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-pristine-windows-display-perfection/"><u>Crafting Pristine Windows Display Perfection</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-lava-yuva-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Lava Yuva 2 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-add-emoji-to-linkedin-post-5-tips-you-would-like-to-know/"><u>Updated 2024 Approved Add Emoji to Linkedin Post – 5 Tips You Would Like to Know</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleashing-creativity-top-20-anime-themed-tiktoks-for-2024/"><u>[New] Unleashing Creativity  Top 20 Anime-Themed TikToks for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-breaking-down-the-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>Updated 2024 Approved Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-apex-list-of-accurate-3ds-emulation-software-for-2024/"><u>[Updated] Apex List of Accurate 3DS Emulation Software for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-resonant-revelations-blending-visuals-with-vocal-tones-on-windows/"><u>2024 Approved  Resonant Revelations  Blending Visuals with Vocal Tones on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-12-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 12 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] In 2024, Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-filmmakers-must-visit-list-free-visual-effect-and-editing-websites-reviewed/"><u>[Updated] A Filmmaker's Must-Visit List  Free Visual Effect & Editing Websites Reviewed</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
