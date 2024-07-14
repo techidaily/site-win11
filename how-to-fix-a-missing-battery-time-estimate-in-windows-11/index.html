@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="Windows 11 Battery Time,Fixed Missing Battery,Restore Windows Timestamp,Estimating Battery Life,Solve Watts Time Loss,Correct Battery Duration,Unseen Power Countdown Fix">
     
     <meta name="author" content="David">
     <!-- preconnect -->
@@ -32,8 +31,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/battery-time.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-key.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-battery-dword.jpg">
-<meta property="article:published_time" content="2024-06-25T03:22:12.275Z">
-<meta property="article:modified_time" content="2024-06-26T03:22:12.275Z">
+<meta property="article:published_time" content="2024-07-13T01:44:11.443Z">
+<meta property="article:modified_time" content="2024-07-14T01:44:11.443Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -601,7 +600,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">5068</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">5866</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -654,15 +653,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 11:22:12</span>
-        <span class="mobile">2024-06-25 11:22:12</span>
+        <span class="desktop">2024-07-13 09:44:11</span>
+        <span class="mobile">2024-07-13 09:44:11</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 11:22:12</span>
-            <span class="mobile">2024-06-26 11:22:12</span>
+            <span class="desktop">2024-07-14 09:44:11</span>
+            <span class="mobile">2024-07-14 09:44:11</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -737,7 +736,7 @@
                 ></p>
 <p> It isn’t entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.</p>
 <h2 id="How-to-Enable-the-Battery-Time-Estimate-in-the-Registry"><a href="#How-to-Enable-the-Battery-Time-Estimate-in-the-Registry" class="headerlink" title="How to Enable the Battery Time Estimate in the Registry"></a>How to Enable the Battery Time Estimate in the Registry</h2><p> Whatever the cause of its disappearance, the battery time estimate is still part of the OS. And with a bit of Registry tweaking, it can be brought back into view.</p>
-<p> As always, it is a good idea to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up the Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before you make any changes. This is only a minor edit and shouldn’t cause problems, but it’s better to be safe than sorry.</p>
+<p> As always, it is a good idea to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up the Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before you make any changes. This is only a minor edit and shouldn’t cause problems, but it’s better to be safe than sorry.</p>
 <ol>
 <li>Click Windows Search and type<strong>Regedit</strong> to find the Registry Editor. You don’t need to choose Run as Administrator. Just select the search result.</li>
 <li>With the Registry Editor open, navigate to: <strong>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power</strong> .</li>
@@ -757,7 +756,7 @@
 <li>Repeat the previous two steps to create two more DWORD values called<strong>EnergyEstimationDisabled</strong> and<strong>UserBatteryDischargeEstimator</strong> .</li>
 <li>You don’t need to change the Value data for these, as they should default to a 0 value.</li>
 </ol>
-<p> Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you’re at it, check out<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/" >how to add shortcuts to the System Tray <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to make it even more useful.</p>
+<p> Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you’re at it, check out <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/" >how to add shortcuts to the System Tray <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to make it even more useful.</p>
 <h2 id="Fix-a-Missing-Battery-Time-Estimate-on-Windows"><a href="#Fix-a-Missing-Battery-Time-Estimate-on-Windows" class="headerlink" title="Fix a Missing Battery Time Estimate on Windows"></a>Fix a Missing Battery Time Estimate on Windows</h2><p> Not being able to easily see the estimate of battery time remaining probably isn’t going to keep you up at night. But it is a handy feature if using your laptop away from a power source. Luckily, a few minutes spent editing the Registry will fix the problem, so you always know how long it will be before your battery dies.</p>
 <p><ins class="adsbygoogle"
      style="display:block"
@@ -772,21 +771,47 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://win11.techidaily.com/the-silent-whisperer-guide-to-win11-menu-hiding/"><u>The Silent Whisperer Guide to Win11 Menu Hiding</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-text-glyphs-in-windows-11/"><u>Discovering Text Glyphs in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-cortana-integration-vivetool-approach/"><u>Optimizing Cortana Integration: ViveTool Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-common-closed-captions-issues-in-win11/"><u>Solving Common Closed Captions Issues in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-boot-on-windows-sound-service-reboot-needs/"><u>Troubleshooting Boot-On Windows Sound Service Reboot Needs</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-correcting-type-mistakes-in-windows-11-zerox-error/"><u>Solutions for Correcting Type Mistakes in Windows 11 Zerox Error</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-installer-errors-in-windows-10-and-11/"><u>Overcoming Windows Installer Errors in Windows 10 & 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/alidating-your-channels-ad-based-income-for-2024/"><u>[New] Validating Your Channel’s Ad-Based Income for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 8S Pro</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-13-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 13</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/2024-approved-cutting-edge-audio-capture-gear-top-7-list-2023-edition/"><u>2024 Approved  Cutting-Edge Audio Capture Gear  Top 7 List, 2023 Edition</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/2024-approved-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>2024 Approved  Sculpting Brilliance  A Deep Dive Into HDR in Lightroom</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/snap-clean-top-10-apps-to-sharpen-your-digital-world/"><u>Snap Clean  Top 10 Apps to Sharpen Your Digital World</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-itel-s23plus-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-peak-productivity-configure-multiple-monitors-in-win11/"><u>Achieve Peak Productivity: Configure Multiple Monitors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-start-the-quick-assist-tool-in-windows-11/"><u>How to Start the Quick Assist Tool in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/magix-vpx-review-transforming-media-with-ease/"><u>Magix VPX Review  Transforming Media with Ease</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-windows-temp-file-deletion-guide/"><u>Effortless Windows Temp File Deletion Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-windows-error-0x80073d26/"><u>Unraveling the Mystery of Windows' Error 0X80073D26</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/in-2024-how-to-drive-engagement-and-reach-on-tiktok-through-innovative-advertising/"><u>In 2024, How to Drive Engagement and Reach on TikTok Through Innovative Advertising</u></a></li>
+<li><a href="https://win11.techidaily.com/directly-to-dialer-windows-11-tutorial/"><u>Directly to Dialer: Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-why-you-cant-see-drive-letters-on-your-windows-system/"><u>Unveiling Why You Can't See Drive Letters on Your Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-1110s-required-privilege-error-code-0x80070522/"><u>Eradicating Windows 11/10'S “Required Privilege” Error: Code 0X80070522</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-without-drive-letters-reasons-and-redeeming-solutions-explored/"><u>Windows Without Drive Letters: Reasons and Redeeming Solutions Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-windows-server-settings/"><u>Unlocking Secure Windows Server Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-finest-zero-cost-windows-media-devices/"><u>Discover the Finest Zero-Cost Windows Media Devices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://audio-editing.techidaily.com/updated-2024-approved-enhancing-visuals-the-guide-to-blending-photos-with-music/"><u>Updated 2024 Approved Enhancing Visuals The Guide to Blending Photos with Music</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/10-premier-ios-games-fully-enjoyable-without-wireless-connection-for-2024/"><u>10 Premier iOS Games, Fully Enjoyable without Wireless Connection for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-account-lockout-tally-post-unsuccessful-login-attempts-in-windows-1011/"><u>Modifying Account Lockout Tally Post Unsuccessful Login Attempts in Windows 10/11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-disable-microsoft-edge-tab-preloading-in-windows-11/"><u>4 Ways to Disable Microsoft Edge Tab Preloading in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-frozen-grammarly-app-a-windows-users-guide/"><u>Fixing Frozen Grammarly App: A Windows User's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-graphics-from-windows-search-interface/"><u>Clearing Graphics From Windows Search Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-functional-state-in-dead-usb-ports-win-edition/"><u>Enabling Functional State in Dead USB Ports, Win Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/from-easy-access-to-higher-security-transitioning-your-logon-method-on-windows-11/"><u>From Easy Access to Higher Security: Transitioning Your Logon Method on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-mitigate-local-security-offline-issue/"><u>Essential Steps to Mitigate Local Security Offline Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-win-os-files-editable-again/"><u>How to Make Win OS Files Editable Again</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/new-winning-tv-recorder-strategies-no-cost-no-hassle-for-2024/"><u>[New] Winning TV Recorder Strategies (No-Cost, No Hassle) for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://smart-video-creator.techidaily.com/2024-approved-10-free-online-tools-to-create-stunning-invitation-videos/"><u>2024 Approved 10 Free Online Tools to Create Stunning Invitation Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/critics-common-grumbles-windows-11-unveiled/"><u>Critics' Common Grumbles: Windows 11 Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-rectify-erroneous-device-listings-in-windows/"><u>Guidelines to Rectify Erroneous Device Listings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-into-os-upgrade-schedules-and-methods/"><u>Essential Insights Into OS Upgrade Schedules & Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-budget-efficiency-windows-11-pro-discounts/"><u>Boost Budget Efficiency: Windows 11 Pro Discounts</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-2024-approved-youtube-alternatives-3-best-video-sharing-sites/"><u>[New] 2024 Approved  YouTube Alternatives  3 Best Video Sharing Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-windows-11-search-icon-from-a-text-bar/"><u>How to Change Windows 11 Search Icon From a Text Bar</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://voice-adjusting.techidaily.com/updated-2024-approved-experts-choice-optimal-free-digital-sound-cutter-platforms-accessible-via-the-web/"><u>Updated 2024 Approved Experts Choice Optimal, Free Digital Sound Cutter Platforms Accessible via the Web</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-wakeable-entities-on-dormant-windows/"><u>Controlling Wakeable Entities on Dormant Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-screen-capture-tool-in-windows-11-swiftly/"><u>Navigate to Screen Capture Tool in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/best-practices-for-github-desktop-adoption-in-windows-11/"><u>Best Practices for GitHub Desktop Adoption in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-crashes-sonic-frontiers-full-screen-fixes/"><u>Conquering Crashes: Sonic Frontiers Full-Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-essential-data-win-pc-ip-and-mac-via-powershell/"><u>Finding Essential Data: Win PC IP & MAC via PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/win-volume-adjustment-reviving-dull-edges/"><u>Win Volume Adjustment: Reviving Dull Edges</u></a></li>
 </ul></div>
 
         </div>
@@ -798,11 +823,11 @@
         <li><strong>Title:</strong> How to Fix a Missing Battery Time Estimate in Windows 11</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 11:22:12</li>
+                :</strong> 2024-07-13 09:44:11</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 11:22:12
+                    :</strong> 2024-07-14 09:44:11
             </li>
         
         <li>
@@ -846,13 +871,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/win-friendly-tools-the-8-best-video-editing-picks/"
+                        href="/how-to-rectify-iphone-images-problem-in-windows-environments/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Win-Friendly Tools: The 8 Best Video Editing Picks</span>
+                                <span class="post-nav-title-item">How to Rectify iPhone Images Problem in Windows Environments</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -862,10 +887,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/quick-recovery-methods-for-frozen-mouse-clicks/"
+                        href="/fixing-null-associated-app-error-on-windows-systems/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Quick Recovery Methods for Frozen Mouse Clicks</span>
+                                <span class="post-nav-title-item">Fixing Null Associated App Error on Windows Systems</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -900,7 +925,12 @@
                 
 
 		<!-- add seo affiliate products -->
-<a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" style="aspect-ratio: auto 728 / 90;" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://godlikehost.sjv.io/c/5597632/1920050/21774" target="_top" id="1920050"><img src="//a.impactradius-go.com/display-ad/21774-1920050" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920050/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_355" src="//a.impactradius-go.com/gen-ad-code/5597632/1993652/22993/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 
             </div>
 
