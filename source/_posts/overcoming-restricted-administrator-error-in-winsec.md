@@ -1,7 +1,7 @@
 ---
 title: Overcoming Restricted Administrator Error in WinSec
-date: 2024-06-25T11:44:42.379Z
-updated: 2024-06-26T11:44:42.379Z
+date: 2024-07-13T11:04:12.825Z
+updated: 2024-07-14T11:04:12.825Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
 ## 1\. Change Your User Account to an Admin Account
 
- You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
+ You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to [changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
 ## 2\. Uninstall Third-Party Security Software
 
- Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
+ Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to [removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
 1. To access the file search box, hold the Windows logo key and press S.
 2. Type**gpedit.msc** inside the file search box.
-3. Double-click**gpedit.msc** to[open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
+3. Double-click**gpedit.msc** to [open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
 4. Next, double-click**Computer Configuration** and**Administrative Templates** within Group Policy Editor’s sidebar.
 5. Expand the**Windows Components** folder in the sidebar.
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
- Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
+ Our article [about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
 ## 7\. Modify the Registry via Command Prompt
 
@@ -124,7 +124,7 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
- Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
+ Our guide on [creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 ## Start Utilizing Windows Security Again
 
@@ -146,3 +146,46 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-enable-startup-diagnostics/"><u>A Step-by-Step Guide to Enable Startup Diagnostics</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>In 2024, Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/winmc-lan-connectivity-woes-solutions-explored/"><u>WinMC LAN Connectivity Woes: Solutions Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-your-computers-msvcr110dll-void/"><u>Remedying Your Computer’s Msvcr110.dll Void</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-stills-to-movement-mastery-with-polaroids-latest-tech/"><u>2024 Approved  From Stills to Movement Mastery with Polaroid's Latest Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-dedicated-ram-win-11-edition-guide/"><u>Augmenting Dedicated RAM: Win 11 Edition Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-compatible-nds-emulators/"><u>Top Windows Compatible NDS Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-window-preview-failures-in-win-810/"><u>Addressing Window Preview Failures in Win 8/10</u></a></li>
+<li><a href="https://win11.techidaily.com/smoothly-switching-programs-for-your-first-win-11-experience/"><u>Smoothly Switching Programs for Your First Win 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-error-windows-security-cut-by-admin-policies/"><u>Deciphering Error: Windows Security Cut by Admin Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-overcoming-windows-1011s-isdonedll-errors/"><u>Deciphering and Overcoming Windows 10/11'S ISDone.dll Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-removing-windows-defender-error-0x80004004/"><u>Understanding & Removing Windows Defender Error 0X80004004</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>2024 Approved  Crafting Revenue in 20-Second Chunks  YouTube Shorts Magic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-quest-for-immersion-reviewing-benqs-ultra-hd-sw320-for-2024/"><u>[New] The Quest for Immersion  Reviewing BenQ's Ultra HD SW320 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-access-barriers-top-solutions/"><u>Navigating Through Windows Access Barriers: Top Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-your-digital-life-restarting-apps-in-windows-11/"><u>Managing Your Digital Life: Restarting Apps in Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-16-motion-blur-apps-for-videos-and-photos/"><u>New In 2024, Top 16 Motion Blur Apps for Videos & Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-creating-a-unified-multimedia-experience-on-iphone/"><u>In 2024, Creating a Unified Multimedia Experience on iPhone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 3 online without jailbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-overlay-effects-in-nvidia-graphics/"><u>How to Turn Off Overlay Effects in NVIDIA Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-windows-experience-filter-key-settings/"><u>Customize Your Windows Experience: Filter Key Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/the-invisible-handshake-direct-pc-links-in-windows-11-rdp/"><u>The Invisible Handshake: Direct PC Links in Windows 11 RDP</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-split-your-videos-with-ease-top-free-tools-for-2024/"><u>New Split Your Videos with Ease Top Free Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-entry-login-remote-desktop-innovations-on-win-11/"><u>Zero-Entry Login: Remote Desktop Innovations on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-steam-read-only-barrier-errors-in-windows-11/"><u>Eliminating Steam Read-Only Barrier Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-printer-network-errors-in-windows/"><u>Steps to Resolve Printer Network Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/dodging-unsupported-issue-in-windows-5-fixes/"><u>Dodging 'Unsupported' Issue in Windows: 5 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steam-network-access-on-pc-windows/"><u>Unlocking Steam Network Access on PC Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-your-gateway-to-classic-games-best-in-class-5gb-advance-emulators-compatible-with-pcs/"><u>[New] Your Gateway to Classic Games  Best-in-Class 5GB Advance Emulators Compatible with PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-13-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 13? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .rtf file</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/incorporating-external-audio-into-inshot-playlists/"><u>Incorporating External Audio Into InShot Playlists</u></a></li>
+<li><a href="https://win11.techidaily.com/quickening-boot-process-windows-11-timeout-reduction-guide/"><u>Quickening Boot Process: Windows 11 Timeout Reduction Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-setupuninstall-bings-ai-on-win-11-taskbar/"><u>Fast Setup/Uninstall: Bing's AI on Win 11 Taskbar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-messages-recovery-recover-deleted-messages-from-realme-by-fonelab-android-recover-messages/"><u>Realme Messages Recovery - Recover Deleted Messages from Realme</u></a></li>
+<li><a href="https://win11.techidaily.com/the-13-step-blueprint-to-reactivating-your-windows/"><u>The 13-Step Blueprint to Reactivating Your Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sculpting-success-in-visual-communications/"><u>[Updated] Sculpting Success in Visual Communications</u></a></li>
+</ul></div>

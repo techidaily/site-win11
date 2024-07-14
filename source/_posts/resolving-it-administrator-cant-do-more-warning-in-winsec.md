@@ -1,7 +1,7 @@
 ---
 title: Resolving 'IT Administrator Can’t Do More' Warning in WinSec
-date: 2024-06-25T11:26:25.582Z
-updated: 2024-06-26T11:26:25.582Z
+date: 2024-07-13T09:59:50.673Z
+updated: 2024-07-14T09:59:50.673Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 ## 1\. Change Your User Account to an Admin Account
 
- You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
+ You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to [changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
 ## 2\. Uninstall Third-Party Security Software
 
- Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
+ Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to [removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 1. To access the file search box, hold the Windows logo key and press S.
 2. Type**gpedit.msc** inside the file search box.
-3. Double-click**gpedit.msc** to[open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
+3. Double-click**gpedit.msc** to [open the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) window.
 4. Next, double-click**Computer Configuration** and**Administrative Templates** within Group Policy Editor’s sidebar.
 5. Expand the**Windows Components** folder in the sidebar.
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/371f85ea9dfa1babb000dca91773b4eb09149fff5
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
- Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
+ Our article [about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
 ## 7\. Modify the Registry via Command Prompt
 
@@ -124,7 +124,7 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
- Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
+ Our guide on [creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 ## Start Utilizing Windows Security Again
 
@@ -146,3 +146,60 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/a-guide-to-maintaining-perpetual-ps4-windows-tether/"><u>A Guide to Maintaining Perpetual PS4-Windows Tether</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-scrolling-text-effect/"><u>How To Add Scrolling Text Effect</u></a></li>
+<li><a href="https://win11.techidaily.com/7-essential-cryptography-tools-for-windows-users-146-chars/"><u>7 Essential Cryptography Tools for Windows Users (146 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-enable-or-disable-the-windows-spotlight-images-on-the-lock-screen/"><u>3 Ways to Enable or Disable the Windows Spotlight Images on the Lock Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-rapid-route-to-reclaimed-reddit-articles-for-2024/"><u>[Updated] Rapid Route to Reclaimed Reddit Articles for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/auto-displaying-images-craft-your-windows-11-slide-show-7-ways/"><u>Auto-Displaying Images: Craft Your Windows 11 Slide Show (7 Ways)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-the-flow-of-tasks-with-fast-outlook/"><u>Accelerate the Flow of Tasks with Fast Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-era-for-deletion-on-your-pcs-photo-gallery/"><u>A New Era for Deletion on Your PC's Photo Gallery</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-edit-videos-like-a-pro-64-bit-software-for-windows-8-and-up-for-2024/"><u>Updated Edit Videos Like a Pro 64-Bit Software for Windows 8 and Up for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/basic-techniques-transforming-fishy-chatter-in-the-win-world/"><u>Basic Techniques  Transforming Fishy Chatter in the Win World</u></a></li>
+<li><a href="https://win11.techidaily.com/3-essential-methods-to-enable-telnet-in-win11/"><u>3 Essential Methods to Enable Telnet in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-windows-wont-use-all-of-your-ram/"><u>4 Fixes to Try if Windows Won't Use All of Your RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369059725-streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719327784213-fixing-the-common-wwinplusp-errors-on-windows-devices/"><u>Fixing the Common WWin+P Errors on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-photo-preview-sizes-on-windows-11/"><u>Adjusting Photo Preview Sizes on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/activatingdeactivating-windows-11s-anti-phishing-filter/"><u>Activating/Deactivating Windows 11'S Anti-Phishing Filter</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-command-tab-to-taskmanager-in-windows-11-pro/"><u>Adding Command Tab to TaskManager in Windows 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/accurate-guide-transforming-heic-images-into-jpeg-format-with-w11-ease/"><u>Accurate Guide: Transforming HEIC Images Into JPEG Format with W11 Ease</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-k11-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo K11 5G Phone?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-enhancing-film-quality-with-simplified-audio-layer-control-in-premiere-pro-2023/"><u>New In 2024, Enhancing Film Quality with Simplified Audio Layer Control in Premiere Pro 2023</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11x-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11X 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ancestral-creations-public-domain-masterpieces/"><u>In 2024, Ancestral Creations  Public Domain Masterpieces</u></a></li>
+<li><a href="https://win11.techidaily.com/1719343067302-become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-filters-enable-or-disable-safeguard/"><u>Adjusting Windows Filters: Enable or Disable SafeGuard</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11s-0x800713f-email-problem/"><u>Addressing Windows 11'S 0X800713F Email Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-walkthrough-activate-windows-calculator/"><u>A Step-by-Step Walkthrough: Activate Window's Calculator</u></a></li>
+<li><a href="https://win11.techidaily.com/5-tactics-to-turn-windows-into-a-mac-like-interface/"><u>5 Tactics to Turn Windows Into a Mac-Like Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-remove-the-microsoft-store-app-from-windows-11/"><u>3 Ways to Remove the Microsoft Store App From Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-changing-dynamics-of-auditory-experience-in-the-newest-adobe-rush-release-for-2024/"><u>New Changing Dynamics of Auditory Experience in the Newest Adobe Rush Release for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-6-ios-slide-show-tools-for-latest-iphones/"><u>In 2024, Top 6 iOS Slide Show Tools for Latest iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/5-superior-windows-platform-bittorrent-apps/"><u>5 Superior Windows Platform BitTorrent Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-alert-it-admin-limited-power/"><u>Addressing Windows Alert: IT Admin Limited Power</u></a></li>
+<li><a href="https://win11.techidaily.com/a-handy-guide-to-resolving-windows-filesystem-problems/"><u>A Handy Guide to Resolving Windows Filesystem Problems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/apex-titles-for-hd-video-recording-technologies/"><u>Apex Titles for HD Video Recording Technologies</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreran-guide-to-install-and-configure-microsoft-pc-manager/"><u>A Compreran Guide to Install and Configure Microsoft PC Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-your-pc-a-guide-to-optimizing-windows-11-options/"><u>Adjusting Your PC: A Guide to Optimizing Windows 11 Options</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-mfc71udll-disappearance-on-pcs/"><u>Addressing Mfc71u.dll Disappearance on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-windows-odbc-connectivity/"><u>A Comprehensive Guide to Windows' ODBC Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/4-futuristic-windows-features-outgrowing-cortana/"><u>4 Futuristic Windows Features Outgrowing Cortana</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-look-at-windows-printer-administration-interface/"><u>A Comprehensive Look at Windows Printer Administration Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-issues-with-windows-alt-code-operations-53-characters/"><u>Addressing Issues with Windows Alt Code Operations (53 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-30005-for-unsuccessful-file-generation/"><u>Addressing Windows Error 30005 for Unsuccessful File Generation</u></a></li>
+<li><a href="https://win11.techidaily.com/automating-jpeg-creation-from-heic-images/"><u>Automating JPEG Creation From HEIC Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-review-the-full-package-of-the-logitech-4k-webcam/"><u>[New] In 2024, Review  The Full Package of the Logitech 4K Webcam</u></a></li>
+<li><a href="https://win11.techidaily.com/5-key-strategies-for-overcoming-onedrive-errors/"><u>5 Key Strategies for Overcoming OneDrive Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3-best-smartphones-for-recording-video/"><u>[Updated] 3 Best Smartphones for Recording Video</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-resize-images-in-windows-11/"><u>6 Ways to Resize Images in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719328295929-reduce-or-increase-software-size-on-windows-11-the-easy-way/"><u>Reduce or Increase Software Size on Windows 11 – The Easy Way!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-and-trim-videos-on-pc-top-software-options/"><u>Updated Cut and Trim Videos on PC Top Software Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-innovative-fb-video-editors-for-high-impact-advertising-campaigns/"><u>[Updated] Innovative Fb Video Editors for High-Impact Advertising Campaigns</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-0x800704b3-network-hurdles-in-win1011/"><u>Addressing 0X800704B3 Network Hurdles in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unclickable-elements-in-the-new-os/"><u>Addressing Unclickable Elements in the New OS</u></a></li>
+</ul></div>

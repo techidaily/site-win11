@@ -1,7 +1,7 @@
 ---
 title: Overcoming White Screen on Logging Into Win10/11
-date: 2024-06-25T11:26:12.540Z
-updated: 2024-06-26T11:26:12.540Z
+date: 2024-07-13T09:58:40.654Z
+updated: 2024-07-14T09:58:40.654Z
 tags:
   - windows10
   - windows11
@@ -32,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
  You can restore your login screen in Windows 11 using the**Ctrl + Alt + Delete** combo. It is a temporary workaround but should help you sign in and perform additional troubleshooting steps if necessary. To do this, make sure your PC is turned on. Next, press the**Ctrl + Alt + Delete** combo on your keyboard. This should force the sign-in screen to appear.
 
-**Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily[add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
+**Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily [add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
 
- This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
+ This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to [boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
 ## 3\. Install Pending Windows Updates
 
@@ -57,15 +57,15 @@ To check and update Windows 11:
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
 
- While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily[disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
+ While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily [disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
 
 ## 5\. Perform a System Restore
 
  Windows automatically creates new restore points on configured systems before a Windows, unsigned driver or a new program is installed. So if a bad update or driver causes the system to malfunction, you can use a restore point to undo the changes and restore your PC.
 
- If you can log in to your PC using the workaround above, explore our guide to[create and use a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) . If not, you can perform a system restore using Windows Recovery Environment. Here’s how to do it.
+ If you can log in to your PC using the workaround above, explore our guide to [create and use a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) . If not, you can perform a system restore using Windows Recovery Environment. Here’s how to do it.
 
- First, you need to[boot into the Windows Recovery Environment](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) , and there are many ways to do it. Assuming you cannot get past the lock screen, follow these steps to open the system recovery menu and perform a system restore.
+ First, you need to [boot into the Windows Recovery Environment](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) , and there are many ways to do it. Assuming you cannot get past the lock screen, follow these steps to open the system recovery menu and perform a system restore.
 
 1. Power off your PC. Press and hold the**Power** button to force a shutdown if necessary.
 2. Next, press the**Power** button to restart and start pressing the**F11** key until you see the recovery menu. Depending on the computer manufacturer, you may have to use the F2, F9, or**F12** keys to boot into**WinRE** .
@@ -97,7 +97,7 @@ To check and update Windows 11:
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
 
- Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can[disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
+ Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can [disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
 
 ## Fixing the No Login Screen Issue on Windows 11
 
@@ -121,3 +121,40 @@ To check and update Windows 11:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/exploring-methods-for-tcpip-port-audits-on-windows/"><u>Exploring Methods for TCP/IP Port Audits on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gratitude-unboxed-free-and-paid-creative-otus/"><u>2024 Approved  Gratitude Unboxed  Free & Paid Creative OTUs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-complete-tiktok-video-stitching-made-simple/"><u>[New] Complete TikTok Video Stitching Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/from-browsers-to-desktops-website-conversion-guide/"><u>From Browsers to Desktops: Website Conversion Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-bubbly-sign-up-and-logoff-procedures/"><u>[Updated] Bubbly Sign-Up and Logoff Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-text-glyphs-in-windows-11/"><u>Discovering Text Glyphs in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-methods-purging-directdraw-problems-from-win1011-systems/"><u>Expert Methods: Purging DirectDraw Problems From WIN10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-taskbar-clarity-with-w11-tricks/"><u>Enhancing Your Taskbar Clarity with W11 Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>In 2024, Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-package-unopenable-error-on-win11-10-oses/"><u>Eliminating the 'Package Unopenable' Error on Win11, 10 OSes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-hd-experience-1-blu-ray-players-list/"><u>[Updated] In 2024, Ultimate HD Experience  #1 Blu-Ray Players List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-what-makes-a-youtube-short-go-viral/"><u>[Updated] What Makes a YouTube Short Go Viral?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-viral-anime-themed-videos-for-tiktok-success-for-2024/"><u>[New] Viral Anime-Themed Videos for TikTok Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-and-configuring-windows-sandbox-in-win-11/"><u>Enabling and Configuring Windows Sandbox in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/grow-windows-capacity-without-file-loss/"><u>Grow Windows Capacity Without File Loss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-top-5-ultra-light-action-camera-list-for-2024/"><u>Pinnacle Top 5 Ultra-Light Action Camera List for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] In 2024, From Humble Beginnings  Surging Subscribers & Views in Youtube World</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-and-customizing-proxies-in-windows-11/"><u>Enabling and Customizing Proxies in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-fb-video-downloads-the-best-firefox-plugins-and-tools-of-the-year-for-2024/"><u>[Updated] Streamline FB Video Downloads  The Best Firefox Plugins and Tools of the Year for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-guide-windows-obs-not-starting-issue-resolution/"><u>Detailed Guide: Windows OBS Not Starting Issue Resolution</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-power-drain-windows-extender-optimization/"><u>Decreasing Power Drain: Windows Extender Optimization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>[Updated] In 2024, A Deep-Dive Into Digital Platform Wealth  Dailymotion & YouTube Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-identifying-high-space-usage-windows/"><u>Effective Strategies for Identifying High-Space Usage Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-backup-error-in-windows-file-history-configuration/"><u>Correcting “Backup Error” In Windows File History Configuration</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-integrating-spotlight-images-into-wallpaper/"><u>Elevate Your Workspace: Integrating Spotlight Images Into Wallpaper</u></a></li>
+<li><a href="https://win11.techidaily.com/distinguishing-variations-between-exe-and-traditional-msis/"><u>Distinguishing Variations Between EXE and Traditional MSIs</u></a></li>
+<li><a href="https://win11.techidaily.com/eliciting-hidden-taskbar-recon-in-windows-11/"><u>Eliciting Hidden Taskbar Recon in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jokes-jamboree-mastering-memelore-made-simple/"><u>In 2024, Jokes Jamboree  Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11s-behind-the-scenes-sid-processes/"><u>Exploring Windows 11'S Behind-the-Scenes SID Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-how-choosing-a-pc-over-a-mac-can-benefit-you-more-9/"><u>Decoding How Choosing a PC Over A Mac Can Benefit You More (#9)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1714063968244-are-you-searching-for-the-best-online-lyrics-video-maker-here-we-have-listed-some-of-the-greatest-tools-that-allow-effortless-video-editing-to-add-attractiv/"><u>Are You Searching for the Best Online Lyrics Video Maker? Here We Have Listed some of the Greatest Tools that Allow Effortless Video Editing to Add Attractive Lyrics. Read Ahead and Find the Tool that Best Fits Your Requirements for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-paths-unveiling-windows-11-calculator/"><u>Direct Paths: Unveiling Windows 11 Calculator</u></a></li>
+</ul></div>

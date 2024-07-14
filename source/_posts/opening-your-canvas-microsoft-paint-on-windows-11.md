@@ -1,7 +1,7 @@
 ---
 title: "Opening Your Canvas: Microsoft Paint on Windows 11"
-date: 2024-06-25T11:34:58.731Z
-updated: 2024-06-26T11:34:58.731Z
+date: 2024-07-13T10:30:17.236Z
+updated: 2024-07-14T10:30:17.236Z
 tags:
   - windows10
   - windows11
@@ -60,13 +60,13 @@ Now that Microsoft Paint is open, you can start working.
 
  Additionally, you can use the Command Prompt application in Windows 11 to open Microsoft Paint. It allows you to launch programs quickly by typing in a command rather than navigating through the Start menu or desktop icons. To open Microsoft Paint using Command Prompt, you need to take the following steps:
 
-1. Run Command Prompt as an administrator (see[how to run Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
+1. Run Command Prompt as an administrator (see [how to run Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. In the Command Prompt, type**mspaint** and press**Enter** .  
 ![Open Paint Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-command-prompt.jpg)
 
  The Microsoft Paint program will launch immediately and be ready for use.
 
- Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
+ Check out our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
 
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
 
@@ -87,7 +87,7 @@ The Microsoft Paint application will appear on your screen.
 
  With the help of this application, you can easily access programs like Microsoft Paint without having to search through menus or launch them from a desktop shortcut. To do this, follow these steps:
 
-1. Click on your Taskbar, press**Ctrl + Shift + Esc** , or use one of the many other[ways to open up the Task Manager window](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+1. Click on your Taskbar, press**Ctrl + Shift + Esc** , or use one of the many other [ways to open up the Task Manager window](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
 2. From there, select**More Details** if it is not already displayed.
 3. Select**Run new task** at the top of the Task Manager window.
 4. Type**mspaint** into the search field.  
@@ -150,3 +150,44 @@ Create a desktop shortcut as explained above.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/activate-and-optimize-windows-powershell-script-policies/"><u>Activate and Optimize Windows PowerShell Script Policies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a56s-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A56s 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-archive-your-favorite-movies-mac-screenshots-for-netflix/"><u>How to Archive Your Favorite Movies  Mac Screenshots for Netflix</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-x-post-production-mastering-the-art-of-chroma-keying/"><u>Updated FCP X Post-Production Mastering the Art of Chroma Keying</u></a></li>
+<li><a href="https://win11.techidaily.com/1719343225911-epic-launcher-uninstallation-hurdles-bust-them-on-windows-11/"><u>Epic Launcher Uninstallation Hurdles, Bust Them On Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-zero-cost-chromebook-recorders/"><u>[Updated] Best Zero Cost Chromebook Recorders</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-manage-tasks-as-an-admin-in-windows-11/"><u>Securely Manage Tasks as an Admin in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-systematic-approach-to-rejuvenating-your-media-software/"><u>A Systematic Approach to Rejuvenating Your Media Software</u></a></li>
+<li><a href="https://win11.techidaily.com/the-beginners-handbook-to-github-desktop-and-windows-integration/"><u>The Beginner's Handbook to GitHub Desktop & Windows Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-repeated-edge-desktop-additions/"><u>Stopping Repeated Edge Desktop Additions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-win1011-screen-flicker/"><u>How to Quickly Resolve WIN10/11 Screen Flicker</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-unreachable-issue-in-windows/"><u>Resolving 'Network Unreachable' Issue in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-conquering-chaos-muting-tactics-for-seamless-gmeet-participation-for-2024/"><u>[New] Conquering Chaos  Muting Tactics for Seamless GMeet Participation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-eradicate-fluctuating-display-on-windows-1011/"><u>Expert Tips to Eradicate Fluctuating Display on Windows 10/11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>[Updated] In 2024, The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-windows-11-quick-selective-copy-and-move/"><u>Unlock the Power of Windows 11: Quick Selective Copy & Move</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-narzo-60-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-win1011-unraveling-error-code-0x800704b3/"><u>Fixing Win10/11: Unraveling Error Code 0X800704B3</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tools-and-tricks-for-minecraft-recordings-for-2024/"><u>[New] Essential Tools and Tricks for Minecraft Recordings for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-mp3-creation-guide-top-video-to-audio-devices/"><u>In 2024, Expert MP3 Creation Guide  Top Video-to-Audio Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-video-editing-software-for-pc-users-windows/"><u>Top 8 Video Editing Software for PC Users (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-efficiency-in-the-digital-age-with-these-best-windows-tools/"><u>Boosting Efficiency in the Digital Age with These Best Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-file-management-skills-multi-zip-extraction-techniques/"><u>Elevate Your File Management Skills: Multi-Zip Extraction Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-screen-snapshotting-4-key-strategies-for-windows-users/"><u>Mastering the Art of Screen Snapshotting: 4 Key Strategies for Windows Users.</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-explore-our-top-8-selection-of-aural-designs-for-cutting-edge-video-sound-integration/"><u>2024 Approved Explore Our Top 8 Selection of Aural Designs for Cutting-Edge Video Sound Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011-failure-codes/"><u>Overcoming Windows 10/11 Failure Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/freezing-wi-fi-mouse-how-to-reset-and-restore-functionality-in-windows/"><u>Freezing Wi-Fi Mouse? How to Reset and Restore Functionality in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unexpected-reference-to-token-in-win10win11/"><u>Correcting Unexpected Reference to Token in Win10/Win11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-passion-unboxing-videos-made-simple/"><u>2024 Approved  Transform Your Passion  Unboxing Videos Made Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-create-time-lapse-video-with-canon-camera/"><u>How to Create Time-Lapse Video with Canon Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-effective-rgb-light-settings-in-win11/"><u>Tips for Effective RGB Light Settings in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-11s-fatal-error/"><u>Deciphering and Resolving Windows 11'S Fatal Error</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-customize-windows-10-and-11-with-winbubble/"><u>8 Ways to Customize Windows 10 and 11 With WinBubble</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise:</u></a></li>
+</ul></div>

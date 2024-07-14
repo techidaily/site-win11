@@ -1,7 +1,7 @@
 ---
 title: Avoiding Failure in Updates Due to 0X800f0845
-date: 2024-06-25T11:28:29.951Z
-updated: 2024-06-26T11:28:29.951Z
+date: 2024-07-13T10:06:34.170Z
+updated: 2024-07-14T10:06:34.170Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
 
  It's always better to try fixing Windows update errors first by using the Windows Update Troubleshooter. It scans your PC for problems, attempts to resolve them, and then applies the fixes.
 
-1. Right-click the**Windows icon** on the taskbar and select**Settings** . Or use the[many ways to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Right-click the**Windows icon** on the taskbar and select**Settings** . Or use the [many ways to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. On the left pane in**Settings** , click**System** . On the**System** page, click**Troubleshoot** on the right pane.
 3. In the**Troubleshoot** page, select**Other troubleshooters** .  
 ![Select Other Trouble-shooters in Troubleshoot Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-other-trouble-shooters.jpg)
@@ -69,7 +69,7 @@ Try updating Windows now and see if the update gets installed.
 
  And if the SFC doesn't work properly, and can’t repair your system files, you should run the DISM or Deployment Image Servicing and Management tool. DISM is a command-line tool that can be used to service and repair Windows images, including those used for Windows Recovery and Windows Setup.
 
- To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
+ To know how to run the SFC and DSIM, you can explore our guide on [CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
 
@@ -107,7 +107,7 @@ net start cryptsvc`
 
  What if none of the above solutions works for you? No worries, just install the update manually from the Microsoft Update Catalog.
 
-1. Open your browser to search for and visit the[Microsoft Update Catalog website](https://www.catalog.update.microsoft.com/Home.aspx) .
+1. Open your browser to search for and visit the [Microsoft Update Catalog website](https://www.catalog.update.microsoft.com/Home.aspx) .
 2. Copy the number of the cumulative update or any other update that failed to install from the**Windows Update history** page. Type the update number in the**Search bar** on the**Microsoft Update Catalog** page and hit the**Search** button.  
 ![Search For Update On Microsoft Update Catalog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-on-microsoft-update-catalog.jpg)
 3. The matching updates will show up on the results page. Check the update that applies to your Windows PC—whether it is for Windows 10 or 11, and whether it is for an ARM64-based system or an x64-based system.  
@@ -149,3 +149,39 @@ net start cryptsvc`
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/1719348018496-skip-bloatware-embrace-pure-windows-11-experience/"><u>Skip Bloatware: Embrace Pure Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-the-potential-of-filters-and-masks-for-online-conferencing-for-2024/"><u>Unlocking the Potential of Filters and Masks for Online Conferencing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719339382074-unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs.</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>2024 Approved  Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-reasons-users-prefer-older-windows-versions/"><u>7 Key Reasons Users Prefer Older Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/1719359813770-cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C</u></a></li>
+<li><a href="https://win11.techidaily.com/7-essential-windows-processes-that-could-be-hiding-a-virus/"><u>7 Essential Windows Processes That Could Be Hiding a Virus</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc/"><u>[Updated] In 2024, Freeze the Action! Find These Top 9 GIF Recipes on Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chic-characters-enhancing-facial-photo-appeal-with-picsart-motion-blur/"><u>In 2024, Chic Characters  Enhancing Facial Photo Appeal with Picsart Motion Blur</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
+<li><a href="https://win11.techidaily.com/a-windows-11-software-removal-primer-top-11-approaches-114-chars/"><u>A Windows 11 Software Removal Primer: Top 11 Approaches (114 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/a-quick-guide-to-restoring-functionality-of-your-windows-11-search-box/"><u>A Quick Guide to Restoring Functionality of Your Windows 11 Search Box</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nubia-red-magic-9-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nubia Red Magic 9 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-windows-driver-model-e1659/"><u>New Windows Driver - Model E1659</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-filter-flash-explore-the-most-popular-snap-filters-for-2024/"><u>[New] Filter Flash  Explore the Most Popular Snap Filters for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-harnessing-new-trends-transmitting-fb-videos-through-whatsapp-for-2024/"><u>[Updated] Harnessing New Trends  Transmitting FB Videos Through WhatsApp for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719362389609-determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-stop-automatic-office-updates-on-windows/"><u>4 Ways to Stop Automatic Office Updates on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-to-revamping-group-policy-settings/"><u>A Practical Approach to Revamping Group Policy Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/a-photographers-companion-fixing-your-windows-camera/"><u>A Photographer’s Companion: Fixing Your Window's Camera</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-weve-selected-the-best-online-video-stabilizers-that-enable-you-to-fix-your-videos-effortlessly-now-lets-see-web-based-platforms-used-to-stabili/"><u>New In 2024, Weve Selected the Best Online Video Stabilizers that Enable You to Fix Your Videos Effortlessly. Now Lets See Web-Based Platforms Used to Stabilize Your Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/9-strategies-for-troubleshooting-windows-10-blue-screen-crashes/"><u>9 Strategies for Troubleshooting Windows 10 Blue Screen Crashes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exclusive-review-of-showmore-authoritative-screen-capture-software/"><u>[Updated] Exclusive Review of ShowMore’ Authoritative Screen Capture Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seamless-google-meet-integration-for-youtube-enthusiasts-for-2024/"><u>[Updated] Seamless Google Meet Integration for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-immaculate-window-display-on-w11/"><u>A Guide to Immaculate Window Display on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-fix-for-inaccessible-screen-settings-in-windows/"><u>A Comprehensive Fix for Inaccessible Screen Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719368088856-troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comparative-study-of-cloud-and-physical-methods-for-windows-setup/"><u>A Comparative Study of Cloud & Physical Methods for Windows Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
+</ul></div>

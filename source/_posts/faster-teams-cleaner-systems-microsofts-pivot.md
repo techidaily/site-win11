@@ -1,7 +1,7 @@
 ---
 title: "Faster Teams, Cleaner Systems: Microsoft's Pivot"
-date: 2024-06-25T11:26:24.378Z
-updated: 2024-06-26T11:26:24.378Z
+date: 2024-07-13T09:59:24.358Z
+updated: 2024-07-14T09:59:24.358Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
- Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
+ Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the [best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
 
  Multi-Tenant Multi-Account (MTMA) allows you to use multiple work and school accounts simultaneously. You can see activities and real-time notifications for all your account in one place and respond to them. This makes it possible to switch between multiple accounts without quitting a meeting or dropping a call.
 
- Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like[scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
+ Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like [scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 To set the Update policy and enable public preview:
 
-1. Go to[Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
+1. Go to [Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
 2. Next, select**Teams** and click on**Teams Update policies** .
 3. Click**Add** to create a new policy and type a name.
 4. Next, toggle the switch for**Show preview features** and click**Apply** .
@@ -83,3 +83,42 @@ To set the Update policy and enable public preview:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/tranquil-technology-effortless-windows-11-shutdown/"><u>Tranquil Technology: Effortless Windows 11 Shutdown</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-glitch-0x80072746-a-fix-guide-for-windows-mail/"><u>Bypassing Glitch 0X80072746: A Fix Guide for Windows Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-browsing-copy-pasting-shortfalls-across-oses/"><u>Remedying Browsing Copy-Pasting Shortfalls Across OSes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-mac-with-a-macos-sierra-installation/"><u>2024 Approved  Boost Your Mac with a macOS Sierra Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-windows-laptop-lag-on-dual-screens/"><u>Overcoming the Hurdle of Window's Laptop Lag on Dual Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-windows-experience-select-top-optimizers-ranked/"><u>Prime Windows Experience: Select Top Optimizers Ranked</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc/"><u>In 2024, How to Optimize Your Media with Simple Video Spin Techniques in VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-bridging-imessage-between-devices/"><u>From iPhone to Desktop: Bridging iMessage Between Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-increase-dedicated-video-ram-vram-in-windows-11-and-11/"><u>How to Increase Dedicated Video RAM (VRAM) in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-administrator-settings-in-windows-security/"><u>Navigating Administrator Settings in Windows Security</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-seamless-blend-linking-spotify-and-discord-directly/"><u>2024 Approved  Seamless Blend  Linking Spotify & Discord Directly</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-your-digital-sketchpad-launching-ms-paint-on-win11/"><u>Unveiling Your Digital Sketchpad: Launching MS Paint on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-quality-with-these-5-free-windows-editors/"><u>Boost Quality with These 5 FREE Windows Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-boot-failures-8-fixes-for-virtual-machines-on-wm11os/"><u>Overcome Boot Failures: 8 Fixes for Virtual Machines on WM11OS</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-dxgi-error-by-reattaching-devices-in-windows/"><u>Bypassing DXGI ERROR by Reattaching Devices in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-lives-beyond-windows-11-expectations/"><u>Leading-Edge Lives: Beyond Windows 11 Expectations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-10-mobile-and-desktop-video-chat-apps/"><u>[Updated] 2024 Approved  Top 10 Mobile & Desktop Video Chat Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-persistent-login-challenges-with-ms-teams/"><u>Eliminating Persistent Login Challenges with MS Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-best-cryptographic-solutions-ranked-148-chars/"><u>Window's Best Cryptographic Solutions Ranked (148 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-locate-pcs-current-window-background-file/"><u>How to Locate PC's Current Window Background File</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-recording-gear-for-vloggers-for-2024/"><u>Ideal Recording Gear for Vloggers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/adapting-the-search-function-in-windows-11-for-you/"><u>Adapting the Search Function in Windows 11 for You</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-craft-individualized-farewell-soundtracks-without-spending/"><u>2024 Approved  Craft Individualized Farewell Soundtracks Without Spending</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-storytelling-free-soundtrack-options-available/"><u>[New] Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-change-facebook-cover-photo/"><u>[New] 2024 Approved  How to Change Facebook Cover Photo</u></a></li>
+<li><a href="https://win11.techidaily.com/prioritizing-improvement-in-windows-11/"><u>Prioritizing Improvement in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-for-re-establishing-managed-status-on-windows-11/"><u>Comprehensive Guide for Re-Establishing Managed Status on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-androidpc-junctioning/"><u>The Ultimate Guide to Android/PC Junctioning</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-bypassing-hiccups-and-blockades/"><u>Streamlining Windows 11: Bypassing Hiccups & Blockades</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-technologies-in-microsofts-ai-hub/"><u>Demystifying the Technologies in Microsoft's AI Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-sony-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Sony Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-sailing-through-full-screen-issues-sonic-style-on-w11/"><u>Smooth Sailing Through Full-Screen Issues, Sonic Style on W11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-simplify-video-editing-on-mac-mkvtoolnix-2023-guide-for-2024/"><u>New Simplify Video Editing on Mac MKVtoolnix 2023 Guide for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-10plus-video-editing-software-solutions-you-need-to-know-for-2024/"><u>Updated 10+ Video Editing Software Solutions You Need to Know for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-alternative-pdf-printer-in-windows/"><u>Setting Alternative PDF Printer in Windows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Navigating Win11 22H2 for Older Systems
-date: 2024-06-25T11:33:39.685Z
-updated: 2024-06-26T11:33:39.685Z
+date: 2024-07-13T10:24:53.808Z
+updated: 2024-07-14T10:24:53.808Z
 tags:
   - windows10
   - windows11
@@ -26,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
  If you have Windows 11 22H2 and Windows 10 ISO available, skip to the third step below. If not, follow all the steps to download the necessary ISOs and then perform an upgrade.
 
- While these steps shouldn’t cause any issues, it is better to[create a backup of any important Windows 11 data](https://www.makeuseof.com/windows-11-create-complete-backup/) on your system drive just in case something goes wrong and you need to perform a clean install.
+ While these steps shouldn’t cause any issues, it is better to [create a backup of any important Windows 11 data](https://www.makeuseof.com/windows-11-create-complete-backup/) on your system drive just in case something goes wrong and you need to perform a clean install.
 
 ## 1\. Download the Windows 11 22H2 ISO
 
 ![iso file download windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/iso-file-download-windows-11.jpg)
 
- You can[legally download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft server directly or using Media Creation Tool. For this guide, we’ll use Media Creation Tool to download the ISO image file.
+ You can [legally download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft server directly or using Media Creation Tool. For this guide, we’ll use Media Creation Tool to download the ISO image file.
 
-1. Go to the[Microsoft Software Download page](https://www.microsoft.com/software-download/windows11) .
+1. Go to the [Microsoft Software Download page](https://www.microsoft.com/software-download/windows11) .
 2. Click on**Download Now** under**Create Windows 11 Installation Media.**
 3. Run the**mediacreationtool.exe** file and accept the license terms.
 4. Review the selected language and edition. To change the language, uncheck**Use the recommended options for this PC** and select your preferred language.
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 
 To download Windows 10 ISO:
 
-1. Go to[Windows 10 download page](https://www.microsoft.com/en-us/software-download/windows10) .
+1. Go to [Windows 10 download page](https://www.microsoft.com/en-us/software-download/windows10) .
 2. Click the**Download Now** button under**Create Windows 10 installation media** .
 3. Run the**mediacreationtool.exe** file to open Windows 10 Setup dialog.
 4. Click on**Accept** .
@@ -72,7 +72,7 @@ To download Windows 10 ISO:
 ![mount windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mount-windows-10-iso.jpg)
 2. Open the**Sources** folder and locate the**appraiserres.dll** file. Copy the**DLL** file and move it to a different folder.  
 ![copy appraiserres dll windows 10 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-appraiserres-dll-windows-10-iso.jpg)
-3. Next, extract the Windows 11 ISO to a different folder. You can[use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
+3. Next, extract the Windows 11 ISO to a different folder. You can [use WinRAR to extract](https://www.win-rar.com/start.html?&L=0) the Windows 11 ISO file.  
 ![extract windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-windows-11-iso.jpg)
 4. Open the Windows 11 ISO's extracted folder and then the**Source** folder.
 5. Next, copy and paste the**appraiserres.dll** file copied from Windows 10 ISO into Windows 11 ISO's**Sources** folder.
@@ -134,3 +134,59 @@ To go back to the previous version:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/the-silent-key-syndrome-cure-for-muted-mouse-clicks/"><u>The Silent Key Syndrome: Cure for Muted Mouse Clicks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picart-anonymizer-swiftly-hide-identities/"><u>2024 Approved  PicArt Anonymizer  Swiftly Hide Identities</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-non-disappearing-edge-shortcuts/"><u>Solutions for Non-Disappearing Edge Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/xbox-games-on-windows-avoid-common-setup-pitfalls/"><u>Xbox Games on Windows: Avoid Common Setup Pitfalls</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-windows-lock-screen-timer-breakage/"><u>Repairing Window's Lock Screen Timer Breakage</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-revamp-for-windows-11-status-area-include-a-chosen-weather-symbol/"><u>Aesthetic Revamp for Windows 11 Status Area: Include a Chosen Weather Symbol</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spotlight-on-top-8-sites-where-3d-meets-lustrous-text/"><u>Spotlight on Top 8 Sites  Where 3D Meets Lustrous Text</u></a></li>
+<li><a href="https://win11.techidaily.com/a-slumberful-cycle-for-your-pcs-life/"><u>A Slumberful Cycle for Your PC's Life</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>[Updated] 2024 Approved  Efficient Screen Recording on Mac  Utilizing Key Combos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-se-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone SE Making It Possible</u></a></li>
+<li><a href="https://win11.techidaily.com/busted-byteguardian-wait-weigh-your-worthiness/"><u>Busted ByteGuardian? Wait, Weigh Your Worthiness</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-0x800713f-problem-repair-windows-11s-mail-service/"><u>Tackling 0X800713F Problem: Repair Windows 11'S Mail Service</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-video-game-best-free-online-video-enhancement-software/"><u>Updated Elevate Your Video Game Best Free Online Video Enhancement Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-multi-lens-modifiers-for-creative-video-effects/"><u>[Updated] Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-jamboree-discovering-5-entertaining-techniques/"><u>Command Prompt Jamboree: Discovering 5 Entertaining Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-direct-search-within-windows-11s-task-manager-interface/"><u>Activate Direct Search Within Windows 11'S Task Manager Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-code-0x800700e1-on-w10w11/"><u>Resolving Error Code: 0X800700E1 on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-full-functionality-to-windows-tablet-gestures/"><u>Restoring Full Functionality to Windows Tablet Gestures</u></a></li>
+<li><a href="https://win11.techidaily.com/surging-downloads-overcome-the-01kbs-stall-on-windows/"><u>Surging Downloads: Overcome the 0.1KB/S Stall on Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-premiere-elements-not-cutting-it-discover-these-10-alternative-video-editors/"><u>New In 2024, Premiere Elements Not Cutting It? Discover These 10 Alternative Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-combat-breakpoint-exception-error-in-windows/"><u>Solutions to Combat Breakpoint Exception Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-against-access-denied-a-comprehensive-guide-to-5-solutions/"><u>Winning Against 'Access Denied': A Comprehensive Guide to 5 Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-realme-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme 11 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-key-differences-between-windows-terminal-and-powershell/"><u>Understanding Key Differences Between Windows Terminal and PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-steam-game-symbols-from-nowhere/"><u>Restore Steam Game Symbols From Nowhere</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p55-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P55 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-xbox-mic-in-windows-11/"><u>Troubleshooting Non-Functional Xbox Mic in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-desktop-on-windows-11-with-vibrant-backdrops/"><u>Transform Your Desktop on Windows 11 with Vibrant Backdrops</u></a></li>
+<li><a href="https://win11.techidaily.com/7-w11-ui-aspects-that-seem-out-of-place/"><u>7 W11 UI Aspects That Seem Out of Place</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-screens-overcoming-windows-setup-woes/"><u>Secure Your Screens: Overcoming Windows Setup Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-unveiling-windows-11s-narrator-commands/"><u>Comprehensively Unveiling Windows 11'S Narrator Commands</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-playlist-composing-music-for-visuals-in-the-modern-era/"><u>Updated In 2024, The Ultimate Playlist Composing Music for Visuals in the Modern Era</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-windows-movie-maker-download-and-install-a-quick-start-guide/"><u>2024 Approved Windows Movie Maker Download and Install A Quick Start Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-unpopular-version-11-among-users/"><u>Windows Update – Unpopular Version 11 Among Users</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-to-fix-wi-fi-showing-limited-access-in-windows-11/"><u>9 Ways to Fix Wi-Fi Showing Limited Access in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-stunning-motion-blur-in-final-cut-pro/"><u>New 2024 Approved The Ultimate Guide to Creating Stunning Motion Blur in Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-error-pitfalls-with-anydesk-on-windows-platforms/"><u>Avoiding Error Pitfalls with AnyDesk on Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-windows-understanding-report-generation-and-analysis/"><u>The Art of Windows Understanding: Report Generation & Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-rdp-connectivity-issues-in-win10plus/"><u>Solving RDP Connectivity Issues in Win10+</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-12-channel-online-video-broadcast-system/"><u>[New] Premier 12-Channel Online Video Broadcast System</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-conflicting-apps-camera-use-windows-error-0xa00f4243/"><u>Addressing Conflicting Apps' Camera Use: Windows Error 0xA00F4243</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-retrieval-how-to-master-the-art-of-qr-scanning-with-windows/"><u>Effortless Data Retrieval: How to Master the Art of QR Scanning with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-personalizing-your-fn-keys-in-windows-os/"><u>Step-By Step Guide to Personalizing Your FN Keys in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-pathway-errors-with-windows-devices/"><u>Addressing Pathway Errors with Windows Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/seamless-stream-to-song-transition-with-top-video-mp3-tools/"><u>Seamless Stream-to-Song Transition with Top Video-MP3 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-the-memory-integrity-feature-grayed-out-on-windows-11/"><u>7 Ways to Fix the Memory Integrity Feature Grayed Out on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crystalvision-pro-screen-capturing-101/"><u>CrystalVision Pro  Screen Capturing 101</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-synapse-seamlessly-on-windows-1110-systems/"><u>Reinstating Synapse Seamlessly on Windows 11/10 Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>[Updated] In 2024, The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-poco-x5-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Poco X5 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-non-responsive-media-on-pc-guide/"><u>Solving Non-Responsive Media on PC: Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Responsive ALT Codes in Windows
-date: 2024-06-25T11:44:40.209Z
-updated: 2024-06-26T11:44:40.209Z
+date: 2024-07-13T11:04:28.171Z
+updated: 2024-07-14T11:04:28.171Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
 
-1. Press**Win + I** on your keyboard to[launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select the**Accessibility** tab in the left pane.
 3. On the right side, click**Mouse** under the Interaction section.
 4. Click the toggle to enable the**Mouse keys** .  
@@ -57,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  This is a more advanced solution and requires some familiarity with the Windows registry editor.
 
- If you are uncomfortable working with your computer's registry, get professional assistance. You should also[back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
+ If you are uncomfortable working with your computer's registry, get professional assistance. You should also [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
 
 To get started, follow these steps:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. In the text field, type "regedit" and press Enter or click the**OK** button.
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
@@ -87,7 +87,7 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
 
-1. Open the Control Panel (see[how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
+1. Open the Control Panel (see [how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
@@ -96,9 +96,9 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 ## 6\. Troubleshoot With a Clean Boot
 
- If none of the above solutions work, you can try[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
+ If none of the above solutions work, you can try [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
 
-1. Open the MSConfig tool (see[how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
+1. Open the MSConfig tool (see [how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
 2. Check the**Selective startup** box.
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
@@ -131,3 +131,58 @@ HKEY_CURRENT_USER\Control Panel\Input Method
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/a-systematic-approach-to-rejuvenating-your-media-software/"><u>A Systematic Approach to Rejuvenating Your Media Software</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-manage-tasks-as-an-admin-in-windows-11/"><u>Securely Manage Tasks as an Admin in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-efficiency-in-the-digital-age-with-these-best-windows-tools/"><u>Boosting Efficiency in the Digital Age with These Best Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-customize-windows-10-and-11-with-winbubble/"><u>8 Ways to Customize Windows 10 and 11 With WinBubble</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011-failure-codes/"><u>Overcoming Windows 10/11 Failure Codes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>2024 Approved  Action Sequence Mastery  Selecting GoPro's Best Cinematic LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-win1011-screen-flicker/"><u>How to Quickly Resolve WIN10/11 Screen Flicker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-android-experience-with-3d-videos/"><u>[Updated] Premium Android Experience with 3D Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-vlcs-network-live-stream-capabilities/"><u>2024 Approved  Unveiling VLC's Network Live Stream Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-90-gtmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor 90 GTMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-from-self-restarting-frequently/"><u>Stop Windows 11 From Self-Restarting Frequently</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-unreachable-issue-in-windows/"><u>Resolving 'Network Unreachable' Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-screen-snapshotting-4-key-strategies-for-windows-users/"><u>Mastering the Art of Screen Snapshotting: 4 Key Strategies for Windows Users.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/masterclass-in-creating-the-ideal-home-4k-editing-pc/"><u>Masterclass in Creating the Ideal Home 4K Editing PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s17e-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo S17e?</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-effective-rgb-light-settings-in-win11/"><u>Tips for Effective RGB Light Settings in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-chrome-profile-errors-for-windows-users/"><u>Unraveling Chrome Profile Errors for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creme-de-la-creme-of-vr-development-talent/"><u>[Updated] The Crème De La Crème of VR Development Talent</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-guide-to-revive-windows-11s-essential-directories/"><u>Tailored Guide to Revive Windows 11'S Essential Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/freezing-wi-fi-mouse-how-to-reset-and-restore-functionality-in-windows/"><u>Freezing Wi-Fi Mouse? How to Reset and Restore Functionality in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-7-plus-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 7 Plus In Easy Steps | Stellar</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-copyright-for-2024/"><u>[New] The Ultimate Guide to YouTube Copyright for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-beginners-handbook-to-github-desktop-and-windows-integration/"><u>The Beginner's Handbook to GitHub Desktop & Windows Integration</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleashing-the-power-of-visual-identity-mastering-discord-pfps/"><u>[New] Unleashing the Power of Visual Identity  Mastering Discord Pfp's</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-norge-language-skills-10-minute-routine/"><u>Efficient Norge Language Skills, 10-Minute Routine!</u></a></li>
+<li><a href="https://win11.techidaily.com/in-a-nutshell-how-to-spot-your-pcs-ram-quickly/"><u>In a Nutshell: How to Spot Your PC's RAM Quickly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-mac-video-software-alternatives-to-bandicam/"><u>Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-adobe-premiere-pro-cs6-mac-download-latest-update-for-2024/"><u>Updated Adobe Premiere Pro CS6 Mac Download - Latest Update for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-repeated-edge-desktop-additions/"><u>Stopping Repeated Edge Desktop Additions</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-video-editing-software-for-pc-users-windows/"><u>Top 8 Video Editing Software for PC Users (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-11s-fatal-error/"><u>Deciphering and Resolving Windows 11'S Fatal Error</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-file-management-skills-multi-zip-extraction-techniques/"><u>Elevate Your File Management Skills: Multi-Zip Extraction Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-win1011-unraveling-error-code-0x800704b3/"><u>Fixing Win10/11: Unraveling Error Code 0X800704B3</u></a></li>
+<li><a href="https://win11.techidaily.com/adapting-windows-lockscreen-for-user-preferences/"><u>Adapting Windows Lockscreen for User Preferences</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-f23-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo F23 5G fingerprint</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-and-optimize-windows-powershell-script-policies/"><u>Activate and Optimize Windows PowerShell Script Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-snatching-savvy-top-tools-to-transform-your-workflow/"><u>In 2024, Screen Snatching Savvy  Top Tools to Transform Your Workflow</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-effortless-video-and-image-backup-from-instagram/"><u>[Updated] In 2024, Effortless Video & Image Backup From Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/1719343225911-epic-launcher-uninstallation-hurdles-bust-them-on-windows-11/"><u>Epic Launcher Uninstallation Hurdles, Bust Them On Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-11r-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus 11R Unlock Without Password</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-high-quality-mobile-audio-editing-discover-the-best-alternatives-to-audacity-on-your-android-device-for-2024/"><u>Updated High-Quality Mobile Audio Editing Discover the Best Alternatives to Audacity on Your Android Device for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-devices-aesthetics-using-microsoft-store-themes/"><u>Optimizing Your Device's Aesthetics Using Microsoft Store Themes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unlock-free-voice-generation-capabilities-online-convert-text-into-audio-with-ease/"><u>Unlock Free Voice Generation Capabilities Online – Convert Text Into Audio with Ease!</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise:</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-blade-a73-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Blade A73 5GFRP Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-eradicate-fluctuating-display-on-windows-1011/"><u>Expert Tips to Eradicate Fluctuating Display on Windows 10/11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated In 2024, Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-a15-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy A15 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unexpected-reference-to-token-in-win10win11/"><u>Correcting Unexpected Reference to Token in Win10/Win11</u></a></li>
+</ul></div>

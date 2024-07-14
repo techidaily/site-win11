@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Correcting Windows Store Failures: Error X80072F30 Guide"
-date: 2024-06-25T11:24:37.542Z
-updated: 2024-06-26T11:24:37.542Z
+date: 2024-07-13T09:52:46.162Z
+updated: 2024-07-14T09:52:46.162Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  First, start by running the Windows Store Apps troubleshooter. That troubleshooter may not detect and address issues with MS Store, but it’s worth a try. You can launch that troubleshooting tool in Windows 11 like this:
 
-1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e[ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
+1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e [ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 3. Turn off the**Set the time automatically** option if enabled.  
 ![The Set the time automatically option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-set-time-automatically-option.jpg)
 4. Select the**Change** option for manually setting the date and time.
-5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the[World Clock](https://www.timeanddate.com/worldclock/) website.  
+5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the [World Clock](https://www.timeanddate.com/worldclock/) website.  
 ![The Change the date & time window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-date-time-window.jpg)
 6. Then select**Change** to set the new time.
 7. Also, make sure the time zone is set right by disabling the**Set time zone automatically** option and choosing an option on the**Time Zone** drop-down menu.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ## 5\. Turn Off Any Active Proxy Server Settings
 
- A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
+ A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
 
  Even if you’re positive you’ve never enabled such a feature, check the proxy server setting like this:
 
@@ -139,3 +139,56 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/8-handy-windows-11-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 11 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-the-windows-11-mixer-interface/"><u>A Beginner’s Guide to the Windows 11 Mixer Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/1719383152108-tackle-lagginess-in-winoutlook-effortlessly/"><u>Tackle Lagginess in WinOutlook, Effortlessly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-learn-to-use-montage-with-these-movies-for-2024/"><u>Updated Learn to Use Montage with These Movies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-concierge-guide-to-entering-your-windows-11-appshabitat/"><u>A Concierge Guide to Entering Your Windows 11 AppsHabitat</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers/"><u>In 2024, Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/1719322695938-new-windows-11-users-beware-of-these-top-8-errors/"><u>New Windows 11 Users, Beware of These Top 8 Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-walkthrough-windows-11-calendar/"><u>A Comprehensive Walkthrough: Windows 11 Calendar</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterpiece-makers-leading-ios-draw-tools/"><u>In 2024, Masterpiece Makers  Leading iOS Draw Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-troubleshooting-windows-desktop-icons/"><u>A Guide to Troubleshooting Windows Desktop Icons</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-workflow-efficiency-introducing-flow-launcher-methodology/"><u>Accelerate Workflow Efficiency: Introducing Flow Launcher Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366214502-efficient-support-paths-for-common-windows-concerns/"><u>Efficient Support Paths for Common Windows Concerns!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ps4-screen-recording-techniques-for-professional-gamers-for-2024/"><u>[Updated] Ps4 Screen Recording  Techniques for Professional Gamers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-chromes-best-5-sites-to-download-fb-videos/"><u>[New] In 2024, Chrome's Best 5 Sites to Download FB Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-digital-screen-capture-techniques/"><u>[Updated] Mastering Digital Screen Capture Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/7-actionable-tips-to-reduce-gaming-pcs-gui-load/"><u>7 Actionable Tips to Reduce Gaming PC's GUI Load</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369400663-unleash-the-true-power-of-windows-screen-capture-toolkit/"><u>Unleash the True Power of Windows' Screen Capture Toolkit</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-vs-skype-which-one-is-better-for-you/"><u>2024 Approved  Discord Vs. Skype  Which One Is Better For You?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-powerdirector-unleashed-in-depth-2024-analysis-and-guide/"><u>[New] PowerDirector Unleashed  In-Depth 2024 Analysis and Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1719367447353-multiplying-malware-defenses-think-again-windows/"><u>Multiplying Malware Defenses? Think Again, Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-to-your-profit-share-in-youtube-shorts/"><u>[New] 2024 Approved  A Step-by-Step Guide to Your Profit Share in YouTube Shorts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-audacity-strategies-for-top-quality-recordings/"><u>Proven Audacity Strategies for Top-Quality Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-sluggish-windows-based-excel-processes/"><u>Accelerate Sluggish Windows-Based Excel Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-clear-the-wallpaper-history-on-windows/"><u>3 Ways to Clear the Wallpaper History on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-recover-an-off-screen-window-in-windows-11-and-11/"><u>6 Ways to Recover an Off-Screen Window in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-fixing-your-windows-photo-app/"><u>A Comprehensive Guide to Fixing Your Windows Photo App</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-restoring-content-servers-connectivity/"><u>A Step-by-Step Guide to Restoring Content Servers' Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-network-security-key-mismatch-error-on-windows-11/"><u>5 Ways to Fix the Network Security Key Mismatch Error on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-ace-2v-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Ace 2V? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>[New] Maximize Content Consumption  6 Best Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://win11.techidaily.com/a-journey-into-celestial-mastery-windows-11s-divine-control/"><u>A Journey Into Celestial Mastery: Windows 11'S Divine Control</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-out-a-thorough-examination-of-dji-phantom-4/"><u>2024 Approved  Inside Out  A Thorough Examination of DJI Phantom 4</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-quickly-launch-apps-on-windows-11/"><u>5 Ways to Quickly Launch Apps on Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-efficient-ad-elimination-select-7-android-adblockers-for-2024/"><u>[New] Efficient Ad Elimination  Select 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-stepwise-approach-to-win11s-hyper-v-activation/"><u>A Stepwise Approach to Win11's Hyper-V Activation</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-fix-slack-notifications-not-working-on-windows-11/"><u>8 Ways to Fix Slack Notifications Not Working on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/trending-tweets-triumph-identifying-todays-highest-viewed-content/"><u>Trending Tweets Triumph  Identifying Today's Highest-Viewed Content</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-delete-a-drive-partition-on-windows/"><u>4 Ways to Delete a Drive Partition on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-world-of-youtube-content-creation-with-flair-for-2024/"><u>[Updated] Navigating the World of YouTube Content Creation with Flair for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-virality-equation-tiktok-vs-twitter/"><u>[Updated] 2024 Approved  The Virality Equation  TikTok Vs. Twitter</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-factory-reset-your-windows-computer/"><u>3 Ways to Factory Reset Your Windows Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-open-the-startup-repair-tool-on-windows/"><u>5 Ways to Open the Startup Repair Tool on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719338015239-team-share-dilemma-heres-the-solution/"><u>Team Share Dilemma? Here's the Solution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-your-posts-secrets-for-viral-instagram-videos/"><u>[New] 2024 Approved  Boosting Your Posts  Secrets for Viral Instagram Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/1719350786682-operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze</u></a></li>
+</ul></div>

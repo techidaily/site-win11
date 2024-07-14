@@ -1,7 +1,7 @@
 ---
 title: Correcting “Backup Error” In Windows File History Configuration
-date: 2024-06-25T11:38:29.012Z
-updated: 2024-06-26T11:38:29.012Z
+date: 2024-07-13T10:42:15.751Z
+updated: 2024-07-14T10:42:15.751Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,13 @@ To restart the File History Service in Windows:
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
 
- While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
+ While you're at it, try using a different USB port. This will help you determine if there’s a [problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
 ## 3\. Re-Select the Backup Drive and Restart File History
 
  Next, you can try re-selecting your backup drive in File History settings and see if that helps. Here are the steps for the same.
 
-1. Press**Win + R** or use one of the[many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** or use one of the [many ways to open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**control** in the box and press**Enter** .
 3. Click the**View by** drop-down menu and select**Large icons** .
 4. Select**File History** from the Control Panel menu items.
@@ -63,7 +63,7 @@ To restart the File History Service in Windows:
 
  Finally, if nothing else works, resetting File History may be your only option. You can accomplish this by deleting the File History data files from your computer.
 
- In order to delete File History data files, you’ll have to ensure that your PC is configured to[show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) . Here’s how to check.
+ In order to delete File History data files, you’ll have to ensure that your PC is configured to [show hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) . Here’s how to check.
 
 1. Open the Windows search menu.
 2. Type**File Explorer Options** in the search box and press**Enter** .
@@ -101,3 +101,45 @@ To restart the File History Service in Windows:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-from-novice-to-pro-key-edits-and-tips-to-maximize-mp3-potential/"><u>New In 2024, From Novice to Pro Key Edits and Tips to Maximize MP3 Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-lost-dll-mfc71u-on-windows/"><u>Troubleshooting Lost DLL: Mfc71u on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>[Updated] 2024 Approved  Keep Up With Friends' Moments  Best Live-Stream Tools Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-alert-disabling-windows-edition-tips/"><u>Chrome Alert Disabling: Windows Edition Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unresponsive-grammarly-service-windows/"><u>Addressing Unresponsive Grammarly Service Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-find-x6-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Find X6 Phone When You Forget the Password</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-social-media-food-frenzy-10-hits/"><u>[New] Social Media Food Frenzy  10 Hits</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-flawless-powerpoint-outputs-9-steps-for-windows-users/"><u>Achieving Flawless PowerPoint Outputs: 9 Steps for Windows Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-a2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi A2 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-tricks-for-mass-folder-creation-at-a-click-in-windows-oses/"><u>The Ultimate Tricks for Mass Folder Creation at a Click in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-smooth-windows-11-transitions-in-place-methods/"><u>Achieving Smooth Windows 11 Transitions: In-Place Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-ig-video-trends-building-your-next-marketing-plan-for-2024/"><u>[Updated] Navigating IG Video Trends  Building Your Next Marketing Plan for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-set-your-own-idle-screen-time/"><u>Windows: Set Your Own Idle Screen Time</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-program-install-pathways-in-windows/"><u>Unveiling Program Install Pathways in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-image-enlargement-and-reduction-the-top-six-methods/"><u>Windows 11 Image Enlargement and Reduction – The Top Six Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-transparent-perspective-reviewing-recordcasts-strengths/"><u>2024 Approved  Transparent Perspective  Reviewing RecordCast's Strengths</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-recently-accessed-windows-documents/"><u>Deciphering Recently Accessed Windows Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-reset-limit-after-unsuccessful-authentication-in-windows-1011/"><u>Updating Reset Limit After Unsuccessful Authentication in Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-fbs-video-ad-strategy-the-ultimate-blueprint-for-2024/"><u>Mastering FB's Video Ad Strategy  The Ultimate Blueprint for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-for-local-security-guard-off-error-message/"><u>Cure for 'Local Security Guard Off' Error Message</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-unwanted-zoom-in-your-computer-writings/"><u>Banish Unwanted Zoom in Your Computer' Writings</u></a></li>
+<li><a href="https://win11.techidaily.com/a-closer-look-six-wins-of-win11-over-macos/"><u>A Closer Look: Six Wins of Win11 Over MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/9-fixes-to-try-when-steam-is-stuck-on-verifying-installation-for-windows/"><u>9 Fixes to Try When Steam Is Stuck on Verifying Installation for Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/holographic-horizons-reimagined-movies/"><u>Holographic Horizons  Reimagined Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-windows-traditional-explore-view/"><u>Unleashing Windows' Traditional Explore View</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-device-health-check-up-the-ultimate-guide-for-windows-11s-uptime/"><u>Dive Into Device Health Check-Up: The Ultimate Guide for Windows 11'S Uptime</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>[Updated] In 2024, Advancing Google Meet Sessions  Implementing Effects & Masks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-honor-70-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Honor 70 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-influential-edge-mastering-sponsorship-and-promotion-on-social-media/"><u>[Updated] In 2024, The Influential Edge  Mastering Sponsorship and Promotion on Social Media</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-vmstart-fixes-to-avoid-errors-in-windows-11/"><u>Unlocking Your VMstart: Fixes to Avoid Errors in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-ace-2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus Ace 2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-of-the-best-top-5-free-mpeg-video-cutting-tools/"><u>Updated In 2024, Best of the Best Top 5 Free MPEG Video Cutting Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-f25-pro-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo F25 Pro 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-simplified-installation-dive-into-ifunnys-meme-world/"><u>2024 Approved  Simplified Installation  Dive Into iFunny's Meme World</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamline-your-social-feeds-twitter-instagram-and-facebook/"><u>Streamline Your Social Feeds: Twitter, Instagram, & Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-yuva-2-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Yuva 2 Pro Bricked Devices | Dr.fone</u></a></li>
+</ul></div>

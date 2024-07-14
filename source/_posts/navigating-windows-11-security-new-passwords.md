@@ -1,7 +1,7 @@
 ---
 title: "Navigating Windows 11 Security: New Passwords"
-date: 2024-06-25T11:41:39.367Z
-updated: 2024-06-26T11:41:39.367Z
+date: 2024-07-13T10:53:39.258Z
+updated: 2024-07-14T10:53:39.258Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ## What If You Have Forgotten Your Windows Administrator Password?
 
- Most Windows computers have more than one sign-in option. So, if your[Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
+ Most Windows computers have more than one sign-in option. So, if your [Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
 
- To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to[reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
+ To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to [reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
 
 ## 1\. Change the Account Password Using Ctrl + Alt + Delete
 
@@ -63,7 +63,7 @@ To change the account password:
 
  If you don’t know your current password but can log in using an alternate option, you can reset the password using the User Accounts utility. It allows you to add or remove a user account and reset the password without needing the current password.
 
- Note that you can only reset the password for a different user account, not your currently logged-in account. Make sure to log in with a different administrator account. If you don't have another account with administrator privilege, you can[enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) and reset the user account password.
+ Note that you can only reset the password for a different user account, not your currently logged-in account. Make sure to log in with a different administrator account. If you don't have another account with administrator privilege, you can [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) and reset the user account password.
 
 To reset the user account password:
 
@@ -122,7 +122,7 @@ To change the Windows account password using Control Panel:
 
 ## 6\. Change Account Password Using Local Users and Groups
 
- Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to[set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
+ Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to [set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
 
  Additionally, it also allows you to reset your user account password. Follow these steps to change the user account password using lusrmgr.
 
@@ -140,7 +140,7 @@ To change the Windows account password using Control Panel:
 
  If you sign in with a Microsoft account, you can reset the password for the Microsoft account online. Here’s how to do it.
 
-1. Go to the[Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
+1. Go to the [Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-online-password-security.jpg)
 2. Next, click on the**Password** security block.  
 ![change my password microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-my-password-microsoft-account.jpg)
@@ -172,3 +172,55 @@ To change the Windows account password using Control Panel:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/declutter-your-computer-finding-and-purging-windows-empties/"><u>Declutter Your Computer: Finding & Purging Windows' Empties</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-powershell-on-windows-system/"><u>Troubleshooting: No PowerShell on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inability-to-install-windows-store-apps/"><u>Resolving Inability to Install Windows Store Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>Streamlined Capturing  Top 5 Mac Tools for Effective Snipping</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-and-resolve-windows-error-code-0xc00000f-quickly/"><u>Avoid and Resolve Windows Error Code: 0Xc00000f Quickly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[New] Capturing Motion  Setting up a Timelapse on an iPad</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/clearing-up-tiktok-problems-on-android-and-iphone-quickly/"><u>Clearing up TikTok Problems on Android & iPhone Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-the-feel-personalizing-touchpad-settings-in-windows-11/"><u>Fine-Tune the Feel: Personalizing Touchpad Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-list-of-windows-most-reliable-usage-monitors/"><u>Exclusive List of Windows' Most Reliable Usage Monitors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-def-mastery-the-leading-blu-ray-devs/"><u>High-Def Mastery  The Leading Blu-Ray Devs</u></a></li>
+<li><a href="https://win11.techidaily.com/biometric-management-for-windows-11-domain-based/"><u>Biometric Management for Windows 11, Domain-Based</u></a></li>
+<li><a href="https://win11.techidaily.com/procedure-opening-driver-verifier-for-fault-analysis/"><u>Procedure: Opening Driver Verifier for Fault Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-principles-for-designing-fb-ad-content-for-2024/"><u>[New] Principles for Designing FB Ad Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-gaming-queens-top-10-female-youtubers-for-2024/"><u>Ultimate Gaming Queens  Top 10 Female YouTubers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-to-do-management-in-the-microsoft-ecosystem/"><u>Mastering To-Do Management in the Microsoft Ecosystem</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/understanding-and-proficiently-implementing-cc-rights/"><u>Understanding and Proficiently Implementing CC Rights</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-halted-by-error-2e-solutions-here/"><u>Windows Update Halted by Error 2E? Solutions Here</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-devhome-transforming-your-w11-experience/"><u>The Essence of DevHome: Transforming Your W11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-gain-entry-windowsstore-apps-explorer/"><u>How To Gain Entry: WindowsStore Apps Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-uninstalling-apps-on-windows-11/"><u>Efficiently Uninstalling Apps on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-prohibited-application-red-flag-in-windows/"><u>Fixing the Prohibited Application Red Flag in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-devhome-navigating-windows-11-with-ease/"><u>Introducing DevHome: Navigating Windows 11 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-windows-activation-flaw-0x803f700f/"><u>Mastering the Resolution of Windows Activation Flaw 0X803F700f</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-microsoft-store-sign-in-blocks/"><u>Navigate Through Microsoft Store Sign-In Blocks</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-soundscape-windows-11-spatial-tips/"><u>Elevate Your Soundscape: Windows 11 Spatial Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/ready-for-success-testing-your-meeting-tech-on-windows/"><u>Ready for Success: Testing Your Meeting Tech on Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-phone-friendly-format-tips-for-shooting-vertical-video-for-2024/"><u>Updated Phone-Friendly Format Tips for Shooting Vertical Video for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-dual-display-the-netflix-floating-window-guide/"><u>Navigating Dual Display  The Netflix Floating Window Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/your-quick-reference-to-fixing-windows-photo-application/"><u>Your Quick Reference to Fixing Window's Photo Application</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-task-manager-unresponsiveness/"><u>Overcoming Windows Task Manager Unresponsiveness</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-non-responsive-shift-in-windows/"><u>Streamline Non-Responsive Shift in Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguarding-data-update-windows-11-user-passwords/"><u>Safeguarding Data: Update Windows 11 User Passwords</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-errors-with-windows-event-logger/"><u>Overcoming Errors with Windows Event Logger</u></a></li>
+<li><a href="https://win11.techidaily.com/old-wallpapers-no-more-discover-three-solutions/"><u>Old Wallpapers No More! Discover Three Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/revel-in-rich-software-diversity-on-windows/"><u>Revel in Rich Software Diversity on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-xc0000142-in-microsoft-oses/"><u>Remedying Error XC0000142 in Microsoft OSes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-8-youtube-ranks-expertly-navigating-with-key-tools/"><u>In 2024, Top 8 YouTube Ranks  Expertly Navigating with Key Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-windows-11-help-application-use/"><u>Steps to Regain Windows 11 Help Application Use</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-pin-someone-on-snapchat-all-you-need-to-know-for-2024/"><u>[Updated] How to Pin Someone on Snapchat  All You Need to Know for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-username-modification-in-windows-11/"><u>Unlocking the Secrets of UserName Modification in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-real-time-update-of-task-manager-in-win-11/"><u>Quicken Real-Time Update of Task Manager in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-photoshop-wont-launch-in-windows-1011/"><u>Troubleshooting PhotoShop Won't Launch in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/advancing-windows-experience-the-significance-of-16gb-ram/"><u>Advancing Windows Experience: The Significance of 16GB RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-device-engagement-in-power-save-mode/"><u>Maximizing Device Engagement in Power Save Mode</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-x5-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco X5 Lock Screen Clock in Seconds</u></a></li>
+</ul></div>

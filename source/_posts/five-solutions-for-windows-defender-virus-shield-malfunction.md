@@ -1,7 +1,7 @@
 ---
 title: Five Solutions for Windows Defender Virus Shield Malfunction
-date: 2024-06-25T11:27:35.240Z
-updated: 2024-06-26T11:27:35.240Z
+date: 2024-07-13T10:03:35.494Z
+updated: 2024-07-14T10:03:35.494Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,7 @@ Here is how you can restart the Security Center Service:
 
  You can also enable the Windows Defender services using the Registry Editor. In this method, we will disable the DisableAntiSpyware and DisableAntiVirus values. Then, we will delete any corrupt Registry entries that malware may have introduced in the system.
 
- However, before we proceed, we recommend[creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , just to be safe.
+ However, before we proceed, we recommend [creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , just to be safe.
 
 Once that is done, proceed with the steps below:
 
@@ -78,9 +78,9 @@ Once that is done, proceed with the steps below:
 
  If the system cannot install the Windows Defender update automatically, you can also manually install it.
 
- This can be done by heading over to the[Microsoft security updates](https://www.microsoft.com/en-us/wdsi/defenderupdates) page and finding the required update in the "manually download the update" section. You can then select the appropriate version based on your system and install it.
+ This can be done by heading over to the [Microsoft security updates](https://www.microsoft.com/en-us/wdsi/defenderupdates) page and finding the required update in the "manually download the update" section. You can then select the appropriate version based on your system and install it.
 
- You can also use the Powershell utility to install the update manually. We have discussed the[different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
+ You can also use the Powershell utility to install the update manually. We have discussed the [different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
 
 ## 4\. Reset Windows Security
 
@@ -99,9 +99,9 @@ Here is how you can reset the Windows Security app:
 
  In case you have a third party installed on the system, it might be interfering with the processes of Windows Defender, preventing it from updating or functioning properly.
 
- If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses[how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
+ If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses [how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
 
- If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
+ If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some [best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
 
 ## Get Windows Defender Up and Running Again
 
@@ -124,3 +124,46 @@ Here is how you can reset the Windows Security app:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-asus-rog-phone-8-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Asus ROG Phone 8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelperfect-pro-focus-on-mac-and-windows-snaps-for-2024/"><u>[New] PixelPerfect Pro  Focus on Mac & Windows Snaps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-application-speed-through-improved-networking/"><u>Enhance Windows Application Speed Through Improved Networking</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-camera-error-a00f4289-in-windows-environments/"><u>Eradicating Camera Error A00F4289 in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-disk-usage-errors-in-modern-windows-os/"><u>Circumventing Disk Usage Errors in Modern Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/wu-and-orchestrator-the-pillars-of-update-routine/"><u>WU & Orchestrator: The Pillars of Update Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-approaches-to-restoring-windows-11-logins/"><u>Masterful Approaches to Restoring Windows 11 Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-exception-handling-error-in-windows-devices/"><u>How to Overcome Exception Handling Error in Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-and-personalizing-win11s-default-screen-saver/"><u>Configuring and Personalizing Win11's Default Screen Saver</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhance-your-cameras-outputs-10-free-paid-upgrade-lut-sets-available-for-2024/"><u>Enhance Your Cameras' Outputs  10 FREE, Paid-Upgrade LUT Sets Available for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-an-overheating-windows-laptop-when-gaming/"><u>How to Fix an Overheating Windows Laptop When Gaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-easy-recording-setups-for-lol-enthusiasts-3-ways/"><u>[New] In 2024, Easy Recording Setups for LOL Enthusiasts (3 Ways)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quintessential-5-filters-for-depth-video/"><u>In 2024, Quintessential 5 Filters for Depth Video</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-lsa-protection-error-on-windows/"><u>How to Fix the LSA Protection Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-open-the-system-information-tool-on-windows/"><u>10 Ways to Open the System Information Tool on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-spontaneous-search-menu-open-in-win11/"><u>Fixing Spontaneous Search Menu Open in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-your-sandbox-a-win-11-guide/"><u>Configure Your Sandbox: A Win 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-regain-file-viewer-rights-in-windows-1011/"><u>How to Regain File Viewer Rights in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/critical-guide-restoring-lost-logins-in-windows-11/"><u>Critical Guide: Restoring Lost Logins in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860796573-new-capture-and-share-your-mac-life-free/"><u>[New] Capture & Share Your Mac Life, FREE!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-lost-files-restore-with-smart-windows-11-fixes/"><u>Dxgi.dll Lost Files? Restore with Smart Windows 11 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-utilize-microsofts-phone-link-on-mobile-devices/"><u>How to Utilize Microsoft's Phone Link on Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/winfreedomgpt-guide-launching-unrestricted-chatbots/"><u>WinFreedomGPT Guide: Launching Unrestricted ChatBots</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-rewind-game-pc-redemption/"><u>AtlasOS Rewind: Game PC Redemption</u></a></li>
+<li><a href="https://win11.techidaily.com/investigating-windows-n-editions-for-business-purposes/"><u>Investigating Windows N Editions: For Business Purposes</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-docker-setup-tips-for-optimized-wsl-2-use/"><u>Elevate Your Docker Setup: Tips for Optimized WSL 2 Use</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-a-cleaner-windows-11-desktop-layout/"><u>Designing a Cleaner Windows 11 Desktop Layout</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>In 2024, Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-google-nearby-to-link-devices-easily/"><u>Leveraging Google Nearby to Link Devices Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-windows-selection-of-best-nintendo-switch-imitators/"><u>Exclusive Windows Selection of Best Nintendo Switch Imitators</u></a></li>
+<li><a href="https://win11.techidaily.com/1719302097899-opera-on-windows-end-the-stalling-spectacle-now/"><u>Opera on Windows: End the Stalling Spectacle Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-save-locations-on-windows-devices/"><u>How to Resolve Save Locations on Windows Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-13c-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi 13C 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-organize-your-pcenas-7-prime-windows-photos-tools/"><u>Effortlessly Organize Your PC'enas: 7 Prime Windows Photos Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-policies-an-in-depth-analysis-using-3-different-views/"><u>Exploring Windows Policies: An In-Depth Analysis Using 3 Different Views</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unravel-winerror-incorrect-file-backups-in-windows/"><u>How to Unravel WinError: Incorrect File Backups in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-top-methods-for-an-effective-windows-11-launch/"><u>Discover the Top Methods for an Effective Windows 11 Launch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips-for-2024/"><u>Mastering the Use and Maintenance of M1 Max Clips for 2024</u></a></li>
+</ul></div>

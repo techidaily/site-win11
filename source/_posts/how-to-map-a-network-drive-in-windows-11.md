@@ -1,7 +1,7 @@
 ---
 title: How to Map a Network Drive in Windows 11
-date: 2024-06-25T11:29:40.799Z
-updated: 2024-06-26T11:29:40.799Z
+date: 2024-07-13T10:11:15.199Z
+updated: 2024-07-14T10:11:15.199Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 
 ## Configure Network Discovery in Windows
 
- Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
+ Windows has a feature called [network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
 
  This allows you to share any file or folder with other devices on the same network. Before mapping a network drive, make sure that network discovery is enabled on your computer.
 
@@ -44,7 +44,7 @@ Follow the sets below to enable network discovery on Windows:
 
  Remember that enabling network discovery may make your computer more vulnerable to security risks as it allows other devices on the network to access your computer.
 
- Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
+ Therefore, it's crucial to ensure that you have a strong password and [customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 ## 1\. Map a Network Drive Using File Explorer
 
@@ -81,7 +81,7 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
- Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+ Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some [useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -89,7 +89,7 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
 So, follow these simple instructions:
 
-1. Open[Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open [Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type the command line given below, but replace**DRIVE** with any drive letter and**\\\\ServerName\\SharedFolder** with the shared folder's path:  
 net use DRIVE \\ServerName\SharedFolder
 3. If the shared folder requires a username and password to access, you can add the /user parameter to the command, followed by a username and password in the format**username** and**pass** . For example:  
@@ -135,3 +135,38 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-whatsapp-status-with-these-top-rated-video-makers/"><u>Updated Elevate Your WhatsApp Status with These Top-Rated Video Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tactics-avoiding-counterfeit-creations-on-microsofts-platform/"><u>Tech Tactics: Avoiding Counterfeit Creations on Microsoft's Platform</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-building-a-youtubing-brand-from-scratch-with-these-8-courses/"><u>[New] 2024 Approved  Building a YouTubing Brand From Scratch with These 8 Courses</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-perplexity-of-blued-in-windows-10/"><u>Overcoming the Perplexity of Blued in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-your-phones-role-in-windows-recording/"><u>Navigating Your Phone's Role in Windows Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-file-access-preventing-read-only-windows-folders/"><u>Secure File Access: Preventing Read-Only Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-challenge-of-windows-error-0xc0000001/"><u>Overcoming the Challenge of Windows Error 0XC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/routine-task-for-eliminating-steam-dns-cache-on-pc/"><u>Routine Task for Eliminating Steam DNS Cache on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-upload-tiktok-videos-to-twitter-for-2024/"><u>How to Upload TikTok Videos to Twitter for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/shining-up-dull-desktops-with-vibrant-colors/"><u>Shining Up Dull Desktops with Vibrant Colors</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-network-barriers-reviving-spotify-streams/"><u>Overcoming Network Barriers: Reviving Spotify Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-photoshop-performance-issues/"><u>Streamlining Windows Photoshop Performance Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-steam-sync-issue/"><u>Solving Windows Steam Sync Issue</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-scratch-to-pro-understanding-xml-files-in-fcpx-for-2024/"><u>New From Scratch to Pro Understanding XML Files in FCPX for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-0x800713f-malfunction-in-windows-mail/"><u>Swift Solution to 0X800713F Malfunction in Windows Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/targeted-user-group-policies-implementing-changes-step-by-step/"><u>Targeted User Group Policies: Implementing Changes Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-issues-with-windows-system-health-indicator/"><u>Remedying Issues with Windows System Health Indicator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-photoshops-role-in-crafting-stunning-hdr-visuals/"><u>[New] Photoshop's Role in Crafting Stunning HDR Visuals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-v29e-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V29e Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-file-sharing-software-on-windows-os/"><u>The Best File-Sharing Software on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-unresponsive-windows-media-files/"><u>Steps to Rectify Unresponsive Windows Media Files</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-older-bios-setup-elements/"><u>Refreshing Older BIOS Setup Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-window-11-wallpaper-settings-for-individual-monitors/"><u>Navigating Window 11 Wallpaper Settings for Individual Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-pathway-to-choosing-between-game-and-studio-nvidia-drivers/"><u>Personalized Pathway to Choosing Between Game and Studio Nvidia Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-stopping-bsod-from-vmware-on-windows-11/"><u>Strategies for Stopping BSOD From VMware on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y27s-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y27s Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-m34-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy M34 Lock Screen Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-tracking-disk-space-usage-in-windows-pcs/"><u>The Ultimate Guide to Tracking Disk Space Usage in Windows PCs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-history-series-youtube-recommendations-for-learners-for-2024/"><u>[Updated] Essential History Series  YouTube Recommendations for Learners for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-playstation-services-on-pc-and-laptops/"><u>Quick Fixes for PlayStation Services on PC & Laptops</u></a></li>
+</ul></div>

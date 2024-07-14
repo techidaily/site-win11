@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Eliminating Server Glitches Impacting MS Store on Win 11/11"
-date: 2024-06-25T11:32:26.422Z
-updated: 2024-06-26T11:32:26.422Z
+date: 2024-07-13T10:20:46.799Z
+updated: 2024-07-14T10:20:46.799Z
 tags:
   - windows10
   - windows11
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The Microsoft Store has a cache containing temporary, thumbnail, and log file data. A clogged-up cache with corrupted data can cause many MS Store issues. So, some users might need to reset (clear) that cache to fix the “server stumbled” error.
 
- You can clear that cache by entering the**WSreset.exe** command as outlined in method two within our guide on[how to reset the Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
+ You can clear that cache by entering the**WSreset.exe** command as outlined in method two within our guide on [how to reset the Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
 ![The wsreset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsreset-command.jpg)
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  Some users use a proxy server to mask their IP address, but doing sooften causes Microsoft Store connection errors. If you’ve got an intermediary proxy server enabled on your PC, disable it via Settings or the Control Panel.
 
- Our guide on[how to disable the proxy server settings on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) provides step-by-step instructions for both methods.
+ Our guide on [how to disable the proxy server settings on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) provides step-by-step instructions for both methods.
 
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-a-proxy-server-option.jpg)
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The “server stumbled” error message highlights that the error could be linked to your PC’s DNS (Domain Name System) server. So, changing to a more reliable public server like Google DNS is a potential resolution that could feasibly work for some users.
 
- It is indeed the case some users have confirmed setting a Google DNS fixed this error on their PCs. To do that, check out our article about[how to change a DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) , which also includes Google’s IPv4 addresses.
+ It is indeed the case some users have confirmed setting a Google DNS fixed this error on their PCs. To do that, check out our article about [how to change a DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) , which also includes Google’s IPv4 addresses.
 
 ![DNS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-settings.jpg)
 
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  Reregistering Microsoft Store will reset that app to its factory defaults. That’s a troubleshooting method worth trying if nothing else resolves the “server stumbled” error. You can apply this potential fix by executing a PowerShell command that generally reregisters pre-installed Windows apps.
 
- Our article about[reregistering Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) includes step-by-step instructions for executing that command.
+ Our article about [reregistering Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) includes step-by-step instructions for executing that command.
 
 ![The reregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reregister-command.jpg)
 
@@ -136,3 +136,38 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/humor-hub-iphones-galore/"><u>Humor Hub  IPhones Galore</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-booting-procedures-complete-guide/"><u>Navigating Windows' Booting Procedures Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-speaker-recognition-errors/"><u>Rectifying Windows Speaker Recognition Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-motorola-edge-40-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Motorola Edge 40</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-filming-perfecting-the-chroma-key-effect-for-2024/"><u>[Updated] Instagram Filming  Perfecting the Chroma Key Effect for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-unbidden-command-window-activations/"><u>Preventing Unbidden Command Window Activations</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-silent-speaker-issue-in-win11-environments/"><u>Resolving Silent Speaker Issue in Win11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-camera-app-error-0xa00f425d-in-windows-11/"><u>Overcoming Camera App Error 0xA00F425D in Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-complete-mac-powered-guide-to-ootd-videography/"><u>In 2024, The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-error-nvidia-geforce-x0001/"><u>Overcoming Windows 11 Error: Nvidia GeForce X0001</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-archives-within-pictures-techniques-for-windows-users/"><u>Hiding Archives Within Pictures: Techniques for Windows Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiny-tale-telling-framework/"><u>2024 Approved  Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capture-and-convey-top-10-image-writing-aid-apps-iosandroid/"><u>Capture and Convey  Top 10 Image Writing Aid Apps (iOS/Android)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1110-app-installation-obstacles-in-oculus/"><u>Overcoming Windows 11/10 App Installation Obstacles in Oculus</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unmatched-warfare-the-hunt-for-top-fps-games/"><u>[New] In 2024, Unmatched Warfare  The Hunt for Top FPS Games</u></a></li>
+<li><a href="https://win11.techidaily.com/no-window-no-problem-master-the-art-of-reviving-hidden-apps-on-win-1011-with-6-tactics/"><u>No Window, No Problem! Master the Art of Reviving Hidden Apps on Win 10/11 with 6 Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-local-devices-avoid-in-use-names-errors/"><u>Overcoming Windows' Local Devices: Avoid In-Use Names Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-unresponsive-mail-alerts-on-windows-11/"><u>How to Overcome Unresponsive Mail Alerts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-how-ai-pcs-outperform-standard-computers/"><u>Revealing How AI PCs Outperform Standard Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-non-recognized-ports-and-devices-on-windows-11/"><u>How to Fix Non-Recognized Ports and Devices on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-self-triggered-command-prompt-issues/"><u>Fixing Self-Triggered Command Prompt Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-memory-and-cpu-for-streamers-on-w11/"><u>Optimizing Memory & CPU for Streamers on W11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sierra-navigating-desktop-drives-with-ease/"><u>[New] Sierra  Navigating Desktop, Drives with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/from-concept-to-reality-paving-new-ways-in-windows-11-widgets/"><u>From Concept to Reality: Paving New Ways in Windows 11 Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/quantify-windows-computer-power-usage-for-optimization/"><u>Quantify Windows Computer Power Usage for Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-seamless-program-deployment/"><u>Navigating Windows 11'S Seamless Program Deployment</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-get-assistance-problems/"><u>Overcoming Windows 11 'Get Assistance' Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-art-of-effective-online-engagement-on-fb/"><u>[New] 2024 Approved  The Art of Effective Online Engagement on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-record-ruckus-samsung-phone-gaming-chronicles/"><u>[New] Record Ruckus  Samsung Phone Gaming Chronicles</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-on-windows-thwarting-the-downloading-dilemma/"><u>Opera on Windows: Thwarting the Downloading Dilemma</u></a></li>
+</ul></div>

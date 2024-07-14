@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Fixing Unsupported Devices Warning"
-date: 2024-06-25T11:23:16.788Z
-updated: 2024-06-26T11:23:16.788Z
+date: 2024-07-13T09:47:27.459Z
+updated: 2024-07-14T09:47:27.459Z
 tags:
   - windows10
   - windows11
@@ -74,15 +74,15 @@ Repeat the following steps:
 
 ### 5\. Scan the Hard Disk Using CHKDSK
 
- It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
+ It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the [command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
 ### 6\. Run an SFC and DISM Scan
 
- If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a[DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
+ If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a [DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
 
 ### 7\. Use a Linux Installation Media to Access the USB Disk Drive
 
- This method is more of a workaround to not lose your data. If you don’t have a second system nearby, you can[create a Linux installation media](https://www.makeuseof.com/tag/install-ubuntu-computer-using-usb-flash-drive/) and use the Try Ubuntu mode to mount and access the contents of the USB disk. It will save the effort of searching for another computer, and you can successfully create a backup of the USB disk.
+ This method is more of a workaround to not lose your data. If you don’t have a second system nearby, you can [create a Linux installation media](https://www.makeuseof.com/tag/install-ubuntu-computer-using-usb-flash-drive/) and use the Try Ubuntu mode to mount and access the contents of the USB disk. It will save the effort of searching for another computer, and you can successfully create a backup of the USB disk.
 
  To access the USB disk using Linux installation media repeat the following steps:
 
@@ -98,13 +98,13 @@ Repeat the following steps:
 
  If none of those worked, it's time to apply more general fixes before diving into more drastic measures. There are a few different error messages related to storage drive formatting issues that Windows can throw, and all of them share some common fixes.
 
- As such, check out[how to fix format disk errors on Windows without formatting your drive](<http://How> to Fix Format Disk Errors Without Formatting Your Hard Drive on Windows) for more tips.
+ As such, check out [how to fix format disk errors on Windows without formatting your drive](<http://How> to Fix Format Disk Errors Without Formatting Your Hard Drive on Windows) for more tips.
 
 ### 9\. Reset Windows
 
  If nothing seems to work, and you see the error with every USB disk you try to connect to the system, consider a complete Windows reset. It will remove all your system files and installed apps (though you can choose to keep personal files on the system drive).
 
- However, before[performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try[System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can[factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
+ However, before [performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try [System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can [factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
 ## Access USB Disk Contents Without Formatting
 
@@ -128,3 +128,59 @@ Repeat the following steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-heightened-aesthetics-editing-high-resolution-footage-in-fcpx-for-instagram-for-2024/"><u>[New] Heightened Aesthetics  Editing High-Resolution Footage in FCPX for Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-audit-steps-for-default-user-permission-reset/"><u>Win11 Audit: Steps for Default User Permission Reset</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-harnessing-your-youtube-content-for-financial-rewards/"><u>[New] 2024 Approved  Harnessing Your YouTube Content for Financial Rewards</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-dual-users-conflict-with-one-ms-login/"><u>Bypassing Dual Users’ Conflict with One MS Login</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ideal-choices-the-best-9-gif-recorder-software-on-your-pc/"><u>[Updated] 2024 Approved  Ideal Choices  The Best 9 GIF Recorder Software on Your PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/breakdown-effective-video-conferencing-using-discord-for-2024/"><u>Breakdown  Effective Video Conferencing Using Discord for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-shared-access-tools-google-vs-microsofts-nearby-sharing/"><u>Assessing Shared Access Tools: Google Vs. Microsoft's Nearby Sharing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-color-correction-best-practices-top-11/"><u>The Art of Color Correction  Best Practices (Top 11)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g22-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G22 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-a-sleeker-system-auto-delete-files-on-windows/"><u>The Key to a Sleeker System: Auto-Delete Files on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-audio-configuration-for-spatiality/"><u>Windows 11 Audio Configuration for Spatiality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>[New] 2024 Approved  Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-missed-emotions-easy-emoji-15-integration-for-win11/"><u>Avoid Missed Emotions: Easy Emoji 15 Integration for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-the-gap-how-to-locate-and-utilize-hidden-windows-11-enhancements/"><u>Fix the Gap: How to Locate & Utilize Hidden Windows 11 Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-another-users-ms-error-on-pc/"><u>Troubleshooting: Another User's MS Error on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-winning-streak-with-fps-techniques/"><u>Elevating Your Winning Streak with FPS Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-file-error-xc10100bf/"><u>Addressing Windows File Error XC10100BF</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-youtube-content-seo-methods-revealed-for-2024/"><u>[Updated] Elevate Your YouTube Content  SEO Methods Revealed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-repeated-sign-in-alerts-team-collaboration-edition/"><u>Avoiding Repeated Sign-In Alerts: Team Collaboration Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-troubleshooting-freezing-spotify-app-on-windows-11/"><u>Tips for Troubleshooting Freezing Spotify App on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] From Concept to Creation  YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-windows-video-editing-adding-stunning-3d-effects-made-easy/"><u>Updated 2024 Approved Windows Video Editing Adding Stunning 3D Effects Made Easy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-rectified-invisible-shortcut-on-youtube/"><u>[New] 2024 Approved  Rectified  Invisible Shortcut on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-fixing-search-service-disruptions/"><u>Understanding and Fixing Search Service Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-managing-setup-host-cpu-use/"><u>Efficiently Managing Setup Host CPU Use</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-freeze-no-more-top-solutions-for-windows-11-users/"><u>Chrome Freeze No More: Top Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-adobe-photoshop-on-windows-11-and-11/"><u>Unlock Adobe Photoshop on Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-random-restarts-on-windows-11-systems/"><u>Troubleshoot Random Restarts on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintessential-4-password-sentinels-of-windows-11-era/"><u>The Quintessential 4 Password Sentinels of Windows 11 Era</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expert-strategies-for-high-quality-macbook-webcam-recordings/"><u>2024 Approved  Expert Strategies for High-Quality MacBook Webcam Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/blue-screen-breakdown-an-insiders-approach/"><u>Blue Screen Breakdown: An Insider's Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-ms-office-erase-error-code-0x80041015/"><u>Unlocking Windows MS Office: Erase Error Code 0X80041015</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-your-printer-fast-windows-fixes/"><u>Turbocharge Your Printer: Fast Windows Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-common-win-printer-issues/"><u>Easy Fixes for Common Win-Printer Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visual-appeal-with-custom-pointer-design/"><u>Enhancing Visual Appeal with Custom Pointer Design</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-of-errors-in-organization-managed-windows-11-settings/"><u>Correction of Errors in Organization-Managed Windows 11 Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-8-flawless-recorder-picks/"><u>[Updated] Leading 8 Flawless Recorder Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/enthrall-homes-embrace-the-spirit-of-yuletide/"><u>Enthrall Homes, Embrace the Spirit of Yuletide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-behind-the-scenes-with-lexis-audio-editor-expert-reviews-and-practical-walkthroughs/"><u>Updated Behind the Scenes with Lexis Audio Editor Expert Reviews and Practical Walkthroughs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-8-linux-friendly-video-cutters/"><u>[Updated] Top 8 Linux-Friendly Video Cutters</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-esd-format-to-compatible-windows-isos/"><u>Transforming ESD Format to Compatible Windows ISOs</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-users-handbook-on-amplifying-mouse-cursor-lighting-on-win-11/"><u>A User's Handbook on Amplifying Mouse Cursor Lighting on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-dual-camera-request-error-code-0xa00f4243/"><u>Dealing with Dual Camera Request Error (Code 0xA00F4243)</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tips-and-tricks-for-rearranging-your-youtube-playlists/"><u>[Updated] Tips & Tricks for Rearranging Your YouTube Playlists</u></a></li>
+<li><a href="https://win11.techidaily.com/the-overlooked-duo-of-windows-monitoring-metrics/"><u>The Overlooked Duo of Windows Monitoring Metrics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-to-rectify-iphone-photo-out-of-focus/"><u>Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-cut-trim-and-edit-avi-videos-with-the-best-tools-windows-mac-android-iphone-online/"><u>New 2024 Approved Cut, Trim, and Edit AVI Videos with the Best Tools Windows, MAC, Android, iPhone, Online</u></a></li>
+</ul></div>

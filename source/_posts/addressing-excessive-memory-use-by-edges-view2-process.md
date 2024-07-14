@@ -1,7 +1,7 @@
 ---
 title: Addressing Excessive Memory Use by Edge's View2 Process
-date: 2024-07-09T23:24:30.412Z
-updated: 2024-07-10T23:24:30.412Z
+date: 2024-07-13T11:18:38.507Z
+updated: 2024-07-14T11:18:38.507Z
 tags:
   - windows10
   - windows11
@@ -95,3 +95,43 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/1719343067302-become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreran-guide-to-install-and-configure-microsoft-pc-manager/"><u>A Compreran Guide to Install and Configure Microsoft PC Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprerante-tale-to-transform-your-windows-11-desk/"><u>A Comprerante Tale to Transform Your Windows 11 Desk</u></a></li>
+<li><a href="https://win11.techidaily.com/a-scholarly-approach-to-embracing-hdr-in-windows-11-workflows/"><u>A Scholarly Approach to Embracing HDR in Windows 11 Workflows</u></a></li>
+<li><a href="https://win11.techidaily.com/9-quick-ways-to-fix-wwe-2k23-crashing-on-windows-11/"><u>9 Quick Ways to Fix WWE 2K23 Crashing on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/5-tactics-to-turn-windows-into-a-mac-like-interface/"><u>5 Tactics to Turn Windows Into a Mac-Like Interface</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-play-8t-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Play 8T?</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-look-at-windows-printer-administration-interface/"><u>A Comprehensive Look at Windows Printer Administration Interface</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-beginners-blueprint-setting-up-on-youtube/"><u>[Updated] In 2024, A Beginner's Blueprint  Setting Up on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/a-fresh-approach-to-managing-settings-in-win11-ui/"><u>A Fresh Approach to Managing Settings in Win11 UI</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-the-unable-to-record-macro-error-in-excel-2003-stellar-by-stellar-guide/"><u>How to Fix the Unable to Record Macro Error in Excel 2003? | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/5-top-win-drawing-apps-that-challenge-procreates-edge/"><u>5 Top Win Drawing Apps That Challenge Procreate's Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/a-handy-manual-assessing-and-annulling-window-history-data/"><u>A Handy Manual: Assessing & Annulling Window History Data</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-do-you-love-making-and-uploading-status-on-whatsapp-for-your-friends-and-family-it-has-certainly-become-a-trend-nowadays-continue-reading-to-learn-about/"><u>New Do You Love Making and Uploading Status on WhatsApp for Your Friends and Family? It Has Certainly Become a Trend Nowadays. Continue Reading to Learn About the Best WhatsApp Status Maker Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-upgrading-virtualbox-v70-in-win11/"><u>A Beginner's Guide to Upgrading VirtualBox v7.0 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/7-strong-arguments-against-switching-from-win10-to-win11-immediately/"><u>7 Strong Arguments Against Switching From Win10 to Win11 Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/a-universal-companion-windows-now-app-for-iosmac-and-windows-devices/"><u>A Universal Companion: Windows Now App for iOS/Mac and Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/9-pros-of-modernizing-to-windows-revamped-outlook/"><u>9 Pros of Modernizing to Windows' Revamped Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-windows-wont-use-all-of-your-ram/"><u>4 Fixes to Try if Windows Won't Use All of Your RAM</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-a2-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi A2</u></a></li>
+<li><a href="https://win11.techidaily.com/5-key-strategies-for-overcoming-onedrive-errors/"><u>5 Key Strategies for Overcoming OneDrive Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-walkthrough-activate-windows-calculator/"><u>A Step-by-Step Walkthrough: Activate Window's Calculator</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twit-tumble-sharing-videos-seamlessly/"><u>[Updated] In 2024, Twit-Tumble  Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/1719327784213-fixing-the-common-wwinplusp-errors-on-windows-devices/"><u>Fixing the Common WWin+P Errors on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-setup-must-have-windows-store-essentials/"><u>Accelerate Setup: Must-Have Windows Store Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compre-written-by-derek-walsh-phd-dr-jeffrey-l-gardiner-phd-and-david-c-muller-phd-from-their-book-understanding-the-psychology-of-religion-exploring-god-33/"><u>A Compre Written by Derek Walsh, PhD; Dr. Jeffrey L. Gardiner, PhD; and David C. Muller, PhD; From Their Book Understanding the Psychology of Religion: Exploring God Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-remove-the-microsoft-store-app-from-windows-11/"><u>3 Ways to Remove the Microsoft Store App From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-era-for-deletion-on-your-pcs-photo-gallery/"><u>A New Era for Deletion on Your PC's Photo Gallery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y77t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y77t</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-p55-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel P55 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-imovie-projects-into-youtube-shows/"><u>[New] Transforming iMovie Projects Into YouTube Shows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-e13-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto E13 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/5-superior-windows-platform-bittorrent-apps/"><u>5 Superior Windows Platform BitTorrent Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-life-after-windows-movie-maker-exploring-new-options/"><u>Updated In 2024, Life After Windows Movie Maker Exploring New Options</u></a></li>
+<li><a href="https://win11.techidaily.com/a-handy-guide-to-resolving-windows-filesystem-problems/"><u>A Handy Guide to Resolving Windows Filesystem Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/7-essential-cryptography-tools-for-windows-users-146-chars/"><u>7 Essential Cryptography Tools for Windows Users (146 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/3-essential-methods-to-enable-telnet-in-win11/"><u>3 Essential Methods to Enable Telnet in Win11</u></a></li>
+</ul></div>

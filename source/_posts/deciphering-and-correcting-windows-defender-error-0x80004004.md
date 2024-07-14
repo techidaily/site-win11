@@ -1,7 +1,7 @@
 ---
 title: Deciphering & Correcting Windows Defender Error 0X80004004
-date: 2024-06-25T11:31:03.614Z
-updated: 2024-06-26T11:31:03.614Z
+date: 2024-07-13T10:16:04.949Z
+updated: 2024-07-14T10:16:04.949Z
 tags:
   - windows10
   - windows11
@@ -60,7 +60,7 @@ Here is how you can do that:
 
  As we mentioned above, the issue can also occur if you have another third-party security program installed on the system. It might be interfering with the process of Microsoft Defender, leading to the issue.
 
- If you have a different program offering the same functionalities installed, then we recommend uninstalling it and checking if that makes any difference. Our guide on[removing software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) should help you perform the steps with ease.
+ If you have a different program offering the same functionalities installed, then we recommend uninstalling it and checking if that makes any difference. Our guide on [removing software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) should help you perform the steps with ease.
 
  If you do not want to uninstall the program just yet, you can also disable it temporarily and try performing the action that was initially leading to the Defender error. To disable such programs, you can right-click on their icon in the taskbar and choose**Disable until the computer is restarted** .
 
@@ -72,13 +72,13 @@ Here is how you can do that:
 
 ### Run the Windows Update Troubleshooter
 
- If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+ If you are encountering the error code while trying to update Microsoft Defender, then you can [run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
- If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
+ If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on [the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
@@ -86,7 +86,7 @@ Here is how you can do that:
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
- Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+ Our guide on [the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -108,3 +108,52 @@ Here is how you can do that:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-win11-dns-client-service-adjustment/"><u>Essential Tips for Win11 DNS Client Service Adjustment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v27e-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo V27e?</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-typical-windows-explore-view-configuration/"><u>Revive Typical Windows Explore View Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/flip-your-lens-6-simple-steps-for-picture-spin-on-windows-11/"><u>Flip Your Lens: 6 Simple Steps for Picture Spin on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enliven-windows-11-desktop-a-step-by-step-guide-to-animated-walls/"><u>Enliven Windows 11 Desktop: A Step-by-Step Guide to Animated Walls</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-systemsettings-crashes-in-windows-11/"><u>Overcoming SystemSettings Crashes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/make-your-grans-old-computer-senior-friendly-and-simple/"><u>Make Your Gran’s Old Computer Senior-Friendly & Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-error-code-0x80073cf3-at-microsoft-store-windows-1111/"><u>Unraveling Error Code 0X80073CF3 at Microsoft Store, Windows 11/11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-fight-club-best-of-10-battle-royale-titles/"><u>[New] Elite Fight Club  Best of 10 Battle Royale Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-your-guide-to-color-perfection-on-windows/"><u>Overcoming Obstacles: Your Guide to Color Perfection on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-behind-the-scenes-of-changing-usernames-on-google-meet/"><u>In 2024, Behind the Scenes of Changing Usernames on Google Meet</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-copy-pasting-malfunctions-in-windows-11/"><u>Rectifying Copy-Pasting Malfunctions in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-6-figure-views-prime-hashtag-strategies-for-success-for-2024/"><u>[New] 6-Figure Views  Prime Hashtag Strategies for Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-monitor-1-and-2-in-windows/"><u>How to Change Monitor 1 and 2 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-bsod-data-for-system-debugging/"><u>Leveraging BSOD Data for System Debugging</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-notes-obsidian-canvas-approach/"><u>Streamline Your Notes: Obsidian Canvas Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/extracting-tabbed-files-windows-11-quick-guide/"><u>Extracting Tabbed Files: Windows 11 Quick Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/advance-your-task-management-with-windows-flow-launcher/"><u>Advance Your Task Management with Windows' Flow Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/gently-lowering-highs-a-guide-to-windowed-serenity/"><u>Gently Lowering Highs: A Guide to Windowed Serenity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-swift-and-efficient-turning-youtube-vids-into-mp4-high-definition-via-online-service/"><u>[Updated] 2024 Approved  Swift & Efficient  Turning YouTube Vids Into MP4, High-Definition via Online Service</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-system-sounds-in-windows-11-by-activating-mixer-feature/"><u>Perfect System Sounds in Windows 11 by Activating Mixer Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-error-x70-file-and-directory-recovery-on-windows-1011/"><u>Bypassing Error X70: File and Directory Recovery on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-expect-from-microsofts-win11-feb-release/"><u>What to Expect From Microsoft's Win11 Feb Release</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-to-resolve-battlenet-login-on-pcs/"><u>Troubleshooting Steps to Resolve Battle.net Login on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-window-11-dual-screen-usage/"><u>Perfecting Window 11 Dual Screen Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/winx-troubleshooting-correcting-nvidias-retrieval-errors/"><u>WinX Troubleshooting: Correcting NVIDIA's Retrieval Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-malwarebytes-cant-properly-called-proc/"><u>Troubleshooting Error: Malwarebytes Can't Properly Called Proc</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-default-heat-reduction-rules-in-winos/"><u>Reclaiming Default Heat Reduction Rules in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-win-lol-initial-load-issue/"><u>Resolving Win: LOL Initial Load Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/best-lighter-browsing-options-tested-for-memory-conservation/"><u>Best Lighter Browsing Options Tested For Memory Conservation</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-characters-on-windows-11-screen/"><u>Navigating the Characters on Windows 11 Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-the-heart-of-windows-print-controls/"><u>Accessing the Heart of Windows Print Controls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-photo-editing-the-eraser-guide-in-psx-for-2024/"><u>Mastering Photo Editing  The Eraser Guide in PSX for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-isdonedll-isarcextract-failures/"><u>Overcoming Common ISDone.dll (ISArcExtract) Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unseen-second-monitor-problems/"><u>Solving Unseen Second Monitor Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-strategies-for-pinpointing-hardware-identification-in-windows/"><u>Advanced Strategies for Pinpointing Hardware Identification in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-gpu-memory-potential-in-windows-11-os/"><u>Maximizing GPU Memory Potential in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugged-access-navigating-localized-onedrive-files/"><u>Unplugged Access: Navigating Localized OneDrive Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-audio-the-ultimate-guide-to-music-icons/"><u>2024 Approved  Instagram Audio  The Ultimate Guide to Music Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-edges-load-times-and-resource-use/"><u>Decreasing Edge's Load Times and Resource Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pro-video-recording-methods-for-multiple-systems-for-2024/"><u>[Updated] Pro Video Recording Methods for Multiple Systems for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-benefits-of-windows-11-overtaking-macos/"><u>Top Benefits of Windows 11 Overtaking macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-windows-a-start-free-of-ads/"><u>Streamlined Windows: A Start Free of Ads</u></a></li>
+</ul></div>

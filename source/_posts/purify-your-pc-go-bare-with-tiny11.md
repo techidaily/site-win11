@@ -1,7 +1,7 @@
 ---
 title: "Purify Your PC: Go Bare with Tiny11"
-date: 2024-06-25T11:32:27.324Z
-updated: 2024-06-26T11:32:27.324Z
+date: 2024-07-13T10:20:45.747Z
+updated: 2024-07-14T10:20:45.747Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
 ### 1\. Downloading Tiny11 ISO File and Creating a Bootable USB Drive
 
- The installation method is pretty straightforward. All you need to do is to[download the Tiny11 ISO image file](https://archive.org/details/tiny-11-NTDEV/Screenshot%5F20230203-100044%5FYouTube.jpg) . It is available on the internet archive website and there isn't any official website from the makers yet. Scroll down and pick the most recent build of Tiny11 and select download.
+ The installation method is pretty straightforward. All you need to do is to [download the Tiny11 ISO image file](https://archive.org/details/tiny-11-NTDEV/Screenshot%5F20230203-100044%5FYouTube.jpg) . It is available on the internet archive website and there isn't any official website from the makers yet. Scroll down and pick the most recent build of Tiny11 and select download.
 
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
 
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
- Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
+ Rufus offers the most convenient method to [create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
 
 ### 2\. Installing Tiny11
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
 ![List of installed apps in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/list-of-installed-apps-in-tiny11.jpg)
 
- Many pinned apps which are mostly bloatware, appear on the Start menu, and you can unpin them. You don’t need to sign in to the Microsoft account and can use[a local account on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) instead. OneDrive is also out of the picture. Even the persistent Edge browser is missing from the OS. But how will you browse the web? Thankfully, the Microsoft Store app is still there, and you can use it to download a web browser like[Chrome or Firefox](https://www.makeuseof.com/tag/chrome-vs-firefox-android-browser/) .
+ Many pinned apps which are mostly bloatware, appear on the Start menu, and you can unpin them. You don’t need to sign in to the Microsoft account and can use [a local account on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) instead. OneDrive is also out of the picture. Even the persistent Edge browser is missing from the OS. But how will you browse the web? Thankfully, the Microsoft Store app is still there, and you can use it to download a web browser like [Chrome or Firefox](https://www.makeuseof.com/tag/chrome-vs-firefox-android-browser/) .
 
  Coming to the performance aspect, we first tested it on a virtual machine with 2 GB RAM and two processor cores. The system was usable but after launching a web browser the CPU usage and Memory usage shot to 75 percent levels. When we opened a few more tabs, the CPU and RAM usage hovered in the 90-100 percent range. So, it is best if you use a system with a processor that has four or more cores and at least 4 GB RAM to run and multitask smoothly.
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
  Well, this isn’t an official/Microsoft-approved release. Tiny11 is a personal project at the moment which delivers surprisingly well on its claims. But should you install a tweaked ISO file on your primary system?
 
- Well, no. As fun as it sounds, this is clearly a fun experiment that you can do on an old computer (just to revive it). However, if you are willing to ignore these concerns, you can[install Windows 11 on a system with unsupported hardware](https://www.makeuseof.com/windows-11-hardware-requirements-shouldnt-bypass/) and run it.
+ Well, no. As fun as it sounds, this is clearly a fun experiment that you can do on an old computer (just to revive it). However, if you are willing to ignore these concerns, you can [install Windows 11 on a system with unsupported hardware](https://www.makeuseof.com/windows-11-hardware-requirements-shouldnt-bypass/) and run it.
 
 ## Try a Lightweight Build of Windows 11
 
@@ -110,3 +110,67 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/tackling-cannot-end-task-on-your-computer/"><u>Tackling 'Cannot End Task' On Your Computer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-diy-approach-for-animated-emoji-addition-on-nitro-free-discord/"><u>[New] In 2024, DIY Approach for Animated Emoji Addition on Nitro-Free Discord</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-igtv-followers-essential-techniques-to-grow-your-audience/"><u>2024 Approved  Mastering IGTV Followers  Essential Techniques to Grow Your Audience</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-false-negatives-restoring-accurate-game-status-in-discord-windows/"><u>Eliminating False Negatives: Restoring Accurate Game Status in Discord (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-detox-for-pcs-a-collection-of-13-revival-methods/"><u>Digital Detox for PCs: A Collection of 13 Revival Methods</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-decodome-top-10-themes-for-betterdiscorders/"><u>[New] In 2024, DecoDome - Top 10 Themes for BetterDiscorders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>The Updated Method to Bypass Huawei Nova Y71 FRP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pushing-past-plateaus-the-strategic-guide-for-youtube-success/"><u>[Updated] Pushing Past Plateaus  The Strategic Guide for Youtube Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-buzzing-beats-leading-music-distortion-apps/"><u>[New] In 2024, Buzzing Beats  Leading Music Distortion Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-access-the-key-to-your-windows-11-folder/"><u>Conquering Access: The Key to Your Windows 11 Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-solutions-for-unfunctional-resource-monitor-app/"><u>Win11: Solutions for Unfunctional Resource Monitor App</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlocks-lost-luster-await-wise-wisdom-before-shift/"><u>BitLocks Lost Luster: Await Wise Wisdom Before Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-security-protocols-for-generalist-windows-user/"><u>Altering Security Protocols for Generalist Windows User</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-fbm-hiccups-today/"><u>Swiftly Solve Your Windows FBM Hiccups Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-reversed-color-effects-in-pictures/"><u>Expert Tips  Reversed Color Effects in Pictures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-7-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 7 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-xs-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone XS</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-winrars-summation-oversights-a-6-step-approach/"><u>Correcting WinRAR's Summation Oversights: A 6-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-linux-capabilities-through-windows-software/"><u>Elevating Linux Capabilities Through Windows Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-quickstart-guide-making-videography-easier-with-pixiz/"><u>In 2024, Quickstart Guide  Making Videography Easier with Pixiz</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-discover-vintage-luts-premiere-pro-free-and-paid-options-available-for-2024/"><u>New Discover Vintage LUTs Premiere Pro Free and Paid Options Available for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-wi-fi-access-via-windows-11-the-hotspot-setup-process/"><u>Streamlining Wi-Fi Access via Windows 11: The Hotspot Setup Process</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-viewership-with-animated-subscribe-buttons-in-filmora-easy-guide/"><u>Boosting Viewership with Animated Subscribe Buttons in Filmora (Easy Guide)</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-terminal-in-quake-mode-on-windows/"><u>Utilizing Terminal in Quake Mode on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-mini-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 mini Lock Screen with Notifications?</u></a></li>
+<li><a href="https://win11.techidaily.com/tethering-tech-microsofts-vision-in-windows-11-phones/"><u>Tethering Tech: Microsoft's Vision in Windows 11 Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-windows-screenshot-game-4-key-solutions/"><u>Boost Your Windows Screenshot Game: 4 Key Solutions.</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-have-you-seen-the-facebook-cartoon-app-everyones-using-lately/"><u>Updated In 2024, Have You Seen the Facebook Cartoon App Everyones Using Lately</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-extended-monitor-lag-in-windows/"><u>Strategies to Combat Extended Monitor Lag in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-phones-capability-for-windows-recording/"><u>Streamline Phone's Capability for Windows Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-challenge-write-permissions-for-steam-folders/"><u>Easing the Challenge: Write Permissions for Steam Folders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-content-game-youtube-and-facebook-sync/"><u>2024 Approved  Elevate Your Content Game  YouTube & Facebook Sync</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-better-performance-on-roblox-windows-edition/"><u>Elevate Your Gaming: Better Performance on Roblox Windows Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ideal-echo-reapers-in-colleges/"><u>In 2024, Ideal Echo Reapers in Colleges</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-disabled-windows-accounts-after-fails/"><u>Bypassing Disabled Windows Accounts After Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/5-creative-ways-to-transform-windows-for-a-mac-appearance/"><u>5 Creative Ways to Transform Windows for a Mac Appearance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-10-best-free-video-conference-app-for-android-and-iphone/"><u>[New] 2024 Approved  10 Best Free Video Conference App for Android and iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-heart-of-windows-11-registry-explained/"><u>Delving Into the Heart of Windows 11: Registry Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-pathway-to-restoring-deleted-facebook-likes/"><u>The Pathway to Restoring Deleted Facebook Likes</u></a></li>
+<li><a href="https://win11.techidaily.com/eye-catching-laptops-exhibited-at-ifa-2023/"><u>Eye-Catching Laptops Exhibited at IFA 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-best-free-video-meeting-software-roundup-for-professional-and-educational-purposes/"><u>[New] The Best Free Video Meeting Software Roundup for Professional and Educational Purposes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-slow-motion-playback-on-vlc-for-2024/"><u>Updated Unlock Slow Motion Playback on VLC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-using-windows-11-snap-features/"><u>Essential Tips for Using Windows 11 Snap Features</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-integrating-secondary-antivirus-without-defenders-hindrance/"><u>Tips for Integrating Secondary Antivirus Without Defender’s Hindrance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-drone-footage-with-advanced-techniques/"><u>[New] Streamlining Your Drone Footage with Advanced Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-your-instagram-stories-with-a-blend-of-pictures-a-beginners-guide/"><u>In 2024, Enhance Your Instagram Stories with a Blend of Pictures  A Beginner's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-package-registration-problems-on-windows-devices/"><u>Eliminating Package Registration Problems on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/why-win10-is-more-than-enough-in-the-current-tech-scene/"><u>Why Win10 Is More Than Enough in the Current Tech Scene</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-imovie-for-windows-10-no-here-are-the-top-alternatives/"><u>Updated In 2024, IMovie for Windows 10? No! Here Are the Top Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-diaries-7-excelent-notetakers-for-pcs-and-slate/"><u>Digital Diaries: 7 Excelent Notetakers for PCs & Slate</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-image-editing-efficiently-removing-backdrops/"><u>The Art of Image Editing: Efficiently Removing Backdrops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Galaxy S23 FE</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-11s-printer-interface-max-52-chars/"><u>Streamline Windows 11'S Printer Interface (Max 52 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-pristine-windows-display-perfection/"><u>Crafting Pristine Windows Display Perfection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-asmrs-influence-on-your-life-for-2024/"><u>[Updated] Navigating ASMR’s Influence on Your Life for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unrestricted-windows-dialogue-embrace-freedomgpt/"><u>Unrestricted Windows Dialogue: Embrace FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-from-windows-11-and-10s-s-mode/"><u>Breaking Free From Windows 11 and 10'S S Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-inner-gamer-strategic-play-and-success-at-zero-cost/"><u>Unleash Your Inner Gamer: Strategic Play & Success at Zero-Cost</u></a></li>
+</ul></div>

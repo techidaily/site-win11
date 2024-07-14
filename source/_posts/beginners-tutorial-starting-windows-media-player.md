@@ -1,0 +1,180 @@
+---
+title: "Beginner's Tutorial: Starting Windows Media Player"
+date: 2024-07-13T11:25:24.053Z
+updated: 2024-07-14T11:25:24.053Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Beginner's Tutorial: Starting Windows Media Player"
+excerpt: "This Article Describes Beginner's Tutorial: Starting Windows Media Player"
+keywords: Windows MPEG Player Start,Basic WMPlayer Guide,Learning WMPlayer Use,Newcomer WMPlayer Help,Launching WMPlayer Easy,Introduction to WMPlayer,Starting Media Player Basics
+thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52b18cfdee70ac40508a6e091.jpg
+---
+
+## Beginner's Tutorial: Starting Windows Media Player
+
+ If you're looking for an easy way to play and manage your media files in Windows 11, then Windows Media Player is what you need. It's a free built-in application that allows you to quickly access your audio, video, and photo files with just a few clicks. In this article, we'll show you how to open Windows Media Player in Windows 11.
+
+## 1\. How to Open Windows Media Player Using Search Tool
+
+ If you're seeking information about how to open Windows Media Player on your computer, the Windows Search tool is a good place to start. To open Windows Media Player using the search tool, do the following:
+
+1. Press**Win + Q** on your keyboard.  
+![Open Windows Media Player Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-search-tool.jpg)
+2. From here, type “**Windows Media Player Legacy** ” into the search bar.
+
+ Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
+
+## 2\. How to Open Windows Media Player Using Run Dialog Box
+
+ The Run dialog box is one of the most useful tools on Windows. It's a quick and easy way to access frequently used programs and files without having to search through your computer's file system.
+
+To open Windows Media Player using the Run command, do the following:
+
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . For more information, check out our [complete guide to Windows Keyboard Shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+2. In the Run dialog box, type**wmplayer.exe** and click**OK** .
+
+ That's it. This is how you can open Windows Media Player on your PC.
+
+## 3\. How to Open Windows Media Player Via Task Manager
+
+ Task Manager is a powerful Windows tool you can use to manage your computer's resources as well as close unresponsive programs, but it isn't limited to this. You can also use it to open applications, such as Windows Media Player, quickly and easily.
+
+To open Windows Media Player using Task Manager, follow these steps:
+
+1. First, press the**Ctrl + Shift + Esc** keys simultaneously on your keyboard.
+2. In the Task Manager window, click on**More details** if necessary.
+3. Click**Run new task** at the top of the page.  
+![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
+4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
+
+ This will open up Media Player, so you can enjoy all your media files without any trouble!
+
+## 4\. How to Open Windows Media Player From File Explorer
+
+ Another way to access Windows Media Player is by using File Explorer. To do this, follow the below steps:
+
+1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard. This will open the File Explorer window.
+2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
+
+## 5\. How to Open Windows Media Player With the Start Menu
+
+ The Start menu works as a central hub on your computer from where you can access the files and programs you have installed. To open Windows Media Player from the Start Menu, follow these steps:
+
+1. The first thing you need to do is open the Start Menu by clicking on the Windows logo at the bottom left of your screen.
+2. From here, click**All apps** in the top right corner.
+3. Then scroll down and click**Windows Tools** in the list.  
+![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
+4. Double-click**Windows Media Player Legacy** on the next page.
+
+## 6\. How to Open Windows Media Player Using Control Panel
+
+ The Control Panel is a feature on Windows that allows you to access and manage system settings easily. With the help of this tool, you can access almost any application you have installed.
+
+ To start Windows Media Player from the Control Panel, follow these steps:
+
+1. Click on**Start** , search for**Control Panel** , and select it from the top of the list.
+2. In the Control Panel window, make sure that the View option is set to Large or Small icons.
+3. Scroll down and click**Windows Tools** . This will open a new folder containing advanced tools for system administrators.  
+![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
+4. Now double-click**Windows Media Player Legacy** to launch the tool.
+
+## 7\. How to Open Windows Media Player With a Desktop Shortcut
+
+ Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
+
+ To open Windows Media Player from a desktop shortcut, you must first create its shortcut. Here's how to do it.
+
+1. Right-click on your desktop area and select**New > Shortcut** .  
+![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
+2. In the text box, type the following path and click**Next** or press**Enter** .  
+C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+3. Give the shortcut a name and click**Finish** .
+
+ You will now have a shortcut icon on your desktop. Now, whenever you need to open the Windows Media Player tool, just double-click its shortcut.
+
+ There is another way to create a desktop shortcut that only takes a few seconds. The steps are as follows:
+
+1. Go to the Start menu and search for**Windows Tools** .
+2. Then select the result from the top of the list.
+3. Next, locate**Windows Media Player Legacy** and drag it to the desktop.
+
+ After creating the shortcut, double-click it to launch Windows Media Player Legacy.
+
+## 8\. How to Open Windows Media Player Using a Keyboard Shortcut
+
+ Windows offers multiple ways to open Windows Media Player, but the keyboard shortcut is the quickest and easiest way. To use it, follow these steps:
+
+1. Make a Windows Media Player shortcut as per method number seven.
+2. Right-click on the shortcut icon and select**Properties** .  
+![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
+3. Type any letter or number in the shortcut field.
+4. Next, click**Apply > OK** to save the changes
+
+ Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
+
+## Media Player Is Now at Your Fingertips
+
+ After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-optimizing.techidaily.com/visual-harmony-integrating-dynamic-beats-into-your-filmic-expressions/"><u>Visual Harmony Integrating Dynamic Beats Into Your Filmic Expressions</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-resurgence-guide-for-older-tech/"><u>AtlasOS Resurgence Guide for Older Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-defaults-20-ways-to-personalize-windows-11/"><u>Beyond Defaults: 20 Ways to Personalize Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y27-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y27 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-social-sharing-simplified-photos-from-your-device-now-for-2024/"><u>[Updated] Social Sharing Simplified  Photos From Your Device Now for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/best-vmms-aligned-with-windows-11-system-requirements/"><u>Best VMMs Aligned with Windows 11 System Requirements</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-the-basics-windows-11s-hidden-treasures-revealed/"><u>Beyond the Basics: Windows 11'S Hidden Treasures Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-missing-configuration-backup-by-nvidia-cp/"><u>Addressing Missing Configuration Backup by Nvidia CP</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-application-launch-descriptors/"><u>Breaking Down Application Launch Descriptors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-playlist-plan-for-insta/"><u>In 2024, The Ultimate Playlist Plan for Insta</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-download-all-favorites-without-spending/"><u>[New] 2023  Download All Favorites Without Spending</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-windows-notepad-system-disruptions/"><u>Avoiding Windows Notepad System Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/awaken-clandestine-windows-11-search-sentinel/"><u>Awaken Clandestine Windows 11 Search Sentinel</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-performance-using-ntfs-file-compression-wisely/"><u>Boost Performance: Using NTFS File Compression Wisely</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-win-11-context-menu-to-omit-additional-entry/"><u>Adjusting Win 11 Context Menu to Omit Additional Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-self-shutting-windows-11-units/"><u>Addressing Self-Shutting Windows 11 Units</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-your-virtual-space-windows-11-home/"><u>Accessing Your Virtual Space: Windows 11 Home</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-user-management-via-windows-terminal/"><u>Advanced User Management via Windows Terminal</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-igtv-saved-iosandroid-techniques-and-tricks-for-2024/"><u>[Updated] IGTV Saved  IOS/Android Techniques and Tricks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/action-plan-if-powershell-isnt-displayed-by-windows/"><u>Action Plan if PowerShell Isn’t Displayed by Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/banishing-lags-7-solutions-to-boost-windows-keyboard-speed/"><u>Banishing Lags: 7 Solutions to Boost Window's Keyboard Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/battle-the-bake-off-effective-tactics-to-reduce-gaming-laptops-temperature/"><u>Battle the Bake-Off: Effective Tactics to Reduce Gaming Laptop’s Temperature</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-wake-up-alerts-win-1011-full-charge-ding/"><u>Boosting Wake-Up Alerts: Win 10/11 FULL CHARGE DING</u></a></li>
+<li><a href="https://win11.techidaily.com/adjust-your-user-profiles-home-path-on-win11-os/"><u>Adjust Your User Profiles' Home Path on Win11 OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mastering-linkedin-video-thumbnails-tips-and-tricks-for-success/"><u>Updated 2024 Approved Mastering LinkedIn Video Thumbnails Tips and Tricks for Success</u></a></li>
+<li><a href="https://win11.techidaily.com/bask-in-the-best-of-microsofts-winstore-treasures/"><u>Bask in the Best of Microsoft’s WinStore Treasures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-download-free-sound-effects-for-youtubers/"><u>[Updated] In 2024, Download Free Sound Effects for YouTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/blending-elegance-with-utility-the-asus-vivobook-s-15-edition/"><u>Blending Elegance with Utility: The ASUS Vivobook S 15 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-prints-with-microsofts-shielded-browsing/"><u>Activating Prints with Microsoft's Shielded Browsing</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-add-software-icons-to-windows-desktop/"><u>Boost Productivity: Add Software Icons to Windows Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/administrative-evolution-reimagining-control-in-a-windows-world/"><u>Administrative Evolution: Reimagining Control in a Windows World</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-epicurean-epics-the-hottest-food-trends-on-tiktok-for-2024/"><u>[Updated] Epicurean Epics  The Hottest Food Trends on TikTok for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-joining-the-twitter-community-from-scratch/"><u>[Updated] Joining the Twitter Community From Scratch</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-soloing-videos-discarding-unwanted-audio-in-mp4-formats/"><u>2024 Approved Soloing Videos Discarding Unwanted Audio in MP4 Formats</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-11-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 11 5G</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-out-loud-crafting-humorous-video-ideas-for-short-films/"><u>Laugh Out Loud  Crafting Humorous Video Ideas for Short Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spatial-realities-compared-the-meta-and-omni-experience/"><u>2024 Approved  Spatial Realities Compared  The Meta and Omni Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-limits-why-16gb-ram-is-key-for-modern-pcs/"><u>Beyond Limits: Why 16GB RAM Is Key for Modern PCs</u></a></li>
+</ul></div>

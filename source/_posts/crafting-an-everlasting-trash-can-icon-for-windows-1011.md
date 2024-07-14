@@ -1,7 +1,7 @@
 ---
 title: Crafting an Everlasting Trash Can Icon for Windows 10/11
-date: 2024-06-25T11:26:30.226Z
-updated: 2024-06-26T11:26:30.226Z
+date: 2024-07-13T09:59:16.459Z
+updated: 2024-07-14T09:59:16.459Z
 tags:
   - windows10
   - windows11
@@ -26,19 +26,19 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
- Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
+ Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the [best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
  However, file shredder apps combat data recovery software by thoroughly eradicating files. Those tools permanently erase files by overwriting their data on hard drives. They do that with various data erasure overwrite standards, such as Gutmann’s and Schneier’s algorithms.
 
- So, you’ll need[third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
+ So, you’ll need [third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
 
- Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
+ Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on [if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
 
-1. Open the[Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
+1. Open the [Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
 2. Click the**Download Now** and the**External Mirror 1** options.
 3. Activate File Explorer by pressing its folder library taskbar button.
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
 
-1. First, open the[8GadgetPack download page](https://8gadgetpack.net/) .
+1. First, open the [8GadgetPack download page](https://8gadgetpack.net/) .
 2. Click**Download** on that 8GadgetPack page.
 3. Follow the instructions on the linked download page to install the 8GadgetPack software.
-4. Next, open this[Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
+4. Next, open this [Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
 5. Click Multi Trash’s**Download Now** \>**Secure Download (US)** options.
 6. Now open the 8GadgetPack software.
 7. Click the**Add gadget** option to view the desktop widget selection window.  
@@ -113,3 +113,44 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-github-desktop-on-windows-11-a-complete-guide/"><u>Mastering GitHub Desktop on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers-for-2024/"><u>A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-disk-differentiation-hdd-and-ssd-recognition-on-pcs/"><u>Simplifying Disk Differentiation: HDD & SSD Recognition on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-pc-performance-deficiencies-amidst-intel-errors/"><u>Tackling PC Performance Deficiencies Amidst Intel Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-discovery-of-software-installs-for-windows-users/"><u>Seamless Discovery of Software Installs for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-context-menu-choices-with-automatic-patch-information/"><u>Enriching Context Menu Choices with Automatic Patch Information</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-free-avi-video-rotators-for-windows-mac-android-and-iphone/"><u>New The Ultimate List of Free AVI Video Rotators for Windows, MAC, Android, and iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/error-2e-unravelled-enabling-windows-update/"><u>Error 2E Unravelled: Enabling Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-forcing-printer-deletion-in-win-1011/"><u>Quick Guide: Forcing Printer Deletion in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-the-aw-snap-error-in-chrome/"><u>How to Stop the Aw, Snap! Error in Chrome</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-melodymorpher-x-cutting-edge-voice-transformation-and-mastering-software/"><u>2024 Approved MelodyMorpher X Cutting-Edge Voice Transformation & Mastering Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncovering-the-truth-behind-4-second-youtube-subscriptions/"><u>2024 Approved  Uncovering the Truth Behind 4-Second YouTube Subscriptions</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-avoid-no-permission-on-windows-file-viewing/"><u>Strategies to Avoid 'No Permission' On Windows File Viewing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a1x-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A1x 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-turn-off-unsolicited-game-suggestions-for-w11/"><u>Learn to Turn Off Unsolicited Game Suggestions for W11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-looks-like-youre-stranded-on-xbox-error/"><u>Guide to Overcoming 'Looks Like You're Stranded' On Xbox Error</u></a></li>
+<li><a href="https://win11.techidaily.com/add-on-troubleshooters-for-improved-software-functionality/"><u>Add-On Troubleshooters for Improved Software Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-z50-ultra-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia Z50 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/the-obsidian-way-to-clean-clear-notes/"><u>The Obsidian Way to Clean, Clear Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstall-simplified-top-methods-for-windows-11-users-111-chars/"><u>Uninstall Simplified: Top Methods for Windows 11 Users (111 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-google-chrome-from-creating-random-tabs/"><u>How To Prevent Google Chrome From Creating Random Tabs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-eliminating-restricted-admin-windows-alert/"><u>Strategies for Eliminating Restricted Admin Windows Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tools-for-managing-users-in-command-prompt/"><u>Essential Tools for Managing Users in Command Prompt</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-finding-high-quality-monstrous-soundscapes/"><u>Updated 2024 Approved Finding High-Quality Monstrous Soundscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/top-quick-strategies-for-black-screen-in-wins-1011/"><u>Top Quick Strategies for Black Screen in Wins 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pc-potential-by-clearing-windows-temp-files/"><u>Unlock Your PC Potential by Clearing Windows Temp Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-hub-essential-apps-for-meme-makers/"><u>[New] Humor Hub  Essential Apps for Meme Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-accelerating-your-creative-process-with-mac-dvd-authoring/"><u>[New] Accelerating Your Creative Process with Mac DVD Authoring</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-no-click-spaces-within-windows-11-interface/"><u>Combatting No-Click Spaces Within Windows 11 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-what-users-find-flawed-in-windows-11/"><u>Deciphering What Users Find Flawed in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/concealed-commands-disguise-power-settings-in-start-screen/"><u>Concealed Commands: Disguise Power Settings in Start Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-path-not-found-on-pc-systems/"><u>Fixing Path Not Found on PC Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-video-editing-apps-for-mac-users/"><u>Top Video Editing Apps for Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/three-methods-to-remove-microsoft-store-from-pcs/"><u>Three Methods to Remove Microsoft Store From PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-google-nearby-sharing-service-in-windows/"><u>Re-Establishing Google Nearby Sharing Service in Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/best-places-for-downloading-free-lofi-imagery-and-tunes/"><u>Best Places for Downloading Free Lofi Imagery and Tunes</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Crafting Websites That Work on Your Windows PC
-date: 2024-06-25T11:23:47.271Z
-updated: 2024-06-26T11:23:47.271Z
+date: 2024-07-13T09:49:02.857Z
+updated: 2024-07-14T09:49:02.858Z
 tags:
   - windows10
   - windows11
@@ -51,11 +51,11 @@ To install a website and app using Microsoft Edge:
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
- Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
+ Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also [remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
 ## 2\. Install Websites as App Using Google Chrome
 
- Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also[run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
+ Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also [run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
 
 To add a shortcut to a website as an app in Chrome:
 
@@ -93,7 +93,7 @@ C:\Windows\System32\imageres.dll
 
 To install a website as an app using WebCatalog:
 
-1. Go to the[WebCatalog page](https://webcatalog.io/en/) and download the installer.
+1. Go to the [WebCatalog page](https://webcatalog.io/en/) and download the installer.
 2. Once installed, launch the app.  
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
@@ -121,7 +121,7 @@ To install a website as an app using WebCatalog:
 
 To create a desktop app using Web2Desk:
 
-1. Go to the[Web2Desk page](https://appmaker.xyz/web2desk) .
+1. Go to the [Web2Desk page](https://appmaker.xyz/web2desk) .
 2. Enter your website URL and app name in the respective fields.
 3. It will automatically fetch the website logo for the app icon. Click**Change** to add a custom icon from your local drive.
 4. Next, type your email address.
@@ -156,3 +156,41 @@ To create a desktop app using Web2Desk:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/steps-for-rectifying-file-history-missteps-in-windows-os/"><u>Steps for Rectifying File History Missteps in Windows OS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/connect-with-more-audiences-smart-multitasking-on-youtube-and-twitch/"><u>Connect with More Audiences  Smart Multitasking on YouTube and Twitch</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-rectifying-mmc-snap-in-failures/"><u>A Guide to Rectifying MMC Snap-In Failures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-update-problem-code-0x800f0922/"><u>Tackling Windows Update Problem - Code 0X800f0922</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-intel-unison-power-for-effective-pc-phone-calls/"><u>Harnessing Intel Unison Power for Effective PC Phone Calls</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-speedy-social-snooping-techniques-for-fb-users-for-2024/"><u>[Updated] Speedy Social Snooping Techniques for FB Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tango-dancing-devices-androidwindows-synchro/"><u>Tech Tango: Dancing Devices - Android/Windows Synchro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-password-storage-windows-text-file-security-tips/"><u>Mastering Password Storage: Windows Text File Security Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-twitterscape-with-these-pc-tips/"><u>Streamline Your Twitterscape with These PC Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/win1110-nat-transition-altering-type-effectively/"><u>Win11/10 NAT Transition: Altering Type Effectively</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Updated 2024 Approved Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-art-of-attraction-mastering-youtubes-glamour-trove/"><u>2024 Approved  The Art of Attraction  Mastering Youtube's Glamour Trove</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-adobe-premiere-essentials-top-20-free-title-and-intro-templates/"><u>2024 Approved Adobe Premiere Essentials Top 20 Free Title and Intro Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-stream-viewer-unraveler/"><u>[New] 2024 Approved  Stream Viewer Unraveler</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a78-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A78 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unclouding-your-display-secrets-to-a-sharp-windows-11-screen/"><u>Unclouding Your Display: Secrets to a Sharp Windows 11 Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-grammarly-disabled-status-on-windows-pcs/"><u>Fixing Grammarly Disabled Status on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-removing-false-device-notifications/"><u>Mastering the Art of Removing False Device Notifications</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-article-aims-to-provide-a-step-by-step-guide-to-changing-a-videos-speed-by-using-the-speed-adjustment-panel-and-duration-panel-on-wonders/"><u>2024 Approved This Article Aims to Provide a Step-by-Step Guide to Changing a Videos Speed by Using the Speed Adjustment Panel and Duration Panel on Wondershare Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-faster-windows-11-boots-a-triad-of-tips/"><u>Mastering Faster Windows 11 Boots: A Triad of Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-itel-a70-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-media-makers-code-0x8007043c-issue/"><u>Overcoming Windows Media Maker's Code 0X8007043C Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-computers-visual-experience-with-enhanced-vram/"><u>Optimize Your Computer's Visual Experience with Enhanced VRAM</u></a></li>
+<li><a href="https://win11.techidaily.com/smoothing-windows-11-update-combat-error-0x30017/"><u>Smoothing Windows 11 Update: Combat Error 0X30017</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-snap-open-apps-in-windows-11/"><u>Swiftly Snap Open Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-windows-based-counter-strike-play/"><u>Supercharge Windows-Based Counter-Strike Play</u></a></li>
+<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-highlight-and-search-features-in-windows-11-os/"><u>Mastering Highlight & Search Features in Windows 11 OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mov-video-cutter-reviews-top-6-free-options/"><u>Updated In 2024, MOV Video Cutter Reviews Top 6 Free Options</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-12-websites-with-triggered-animate-on-scroll-examples-for-2024/"><u>Updated 12 Websites with Triggered Animate on Scroll Examples for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correct-xbox-games-access-error-in-windows-pcs/"><u>Guide to Correct Xbox Games Access Error in Windows PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlocking-picture-in-picture-a-beginners-guide-to-final-cut-pro/"><u>New Unlocking Picture-in-Picture A Beginners Guide to Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-access-denial-mysteries/"><u>Deciphering Windows Access Denial Mysteries</u></a></li>
+</ul></div>

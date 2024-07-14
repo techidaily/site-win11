@@ -1,7 +1,7 @@
 ---
 title: Top 12 Redundant Windows Extras for Removal
-date: 2024-06-25T11:22:39.843Z
-updated: 2024-06-26T11:22:39.843Z
+date: 2024-07-13T09:45:41.613Z
+updated: 2024-07-14T09:45:41.613Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  Those still on Windows 8.1 or (the unsupported) Windows 7 can click on the Start button and search for**Programs and Features** . This will open a similar list where you can review everything currently installed on your system and uninstall unneeded apps.
 
- Depending on the software, the app might uninstall immediately or require you to advance through some dialog boxes. See our[guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more info.
+ Depending on the software, the app might uninstall immediately or require you to advance through some dialog boxes. See our [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more info.
 
  Now, let's look at what apps you should uninstall from Windows—remove any of the below if they're on your system!
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  Shortly after Apple announced the deprecation of QuickTime for Windows,[Trend Micro](https://blog.trendmicro.com/urgent-call-action-uninstall-quicktime-windows-today/) announced that the software had a few critical vulnerabilities. Since Apple will never patch these, it's not safe to have QuickTime installed anymore.
 
- Removing QuickTime shouldn't cause any disruptions, as iTunes doesn't rely on it. If you need a replacement for QuickTime, use[VLC](https://www.videolan.org/vlc/index.html) , which will play pretty much anything.
+ Removing QuickTime shouldn't cause any disruptions, as iTunes doesn't rely on it. If you need a replacement for QuickTime, use [VLC](https://www.videolan.org/vlc/index.html) , which will play pretty much anything.
 
 ## 2\. CCleaner
 
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  CCleaner was once a trusted Windows app for cleaning junk, but its reputation went downhill after it was acquired by Avast. Past issues include forced updates without permission, data collection that enabled itself even if you disabled the function, and the software distributing malware unknowingly.
 
- When[we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow[our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
+ When [we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow [our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
 
 ## 3\. Crappy PC Cleaners
 
- Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as[registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
+ Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as [registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
 
- Read our guide to cleaning mentioned above for a proper cleanup method. If your computer feels slow, try some[ways to make Windows faster](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
+ Read our guide to cleaning mentioned above for a proper cleanup method. If your computer feels slow, try some [ways to make Windows faster](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
 
 ## 4\. uTorrent
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  Aside from having ads crammed into the interface, uTorrent also includes offers for other software tools, which is annoying. Its worst offense came in 2015, when the app was found to bundle in cryptocurrency mining software without letting users know. This wasted your system resources in the background to make money for the company, which allegedly gave some to charity.
 
- There's no reason to bother with uTorrent. We think[qBittorrent](https://www.qbittorrent.org/) is[the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
+ There's no reason to bother with uTorrent. We think [qBittorrent](https://www.qbittorrent.org/) is [the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
 
 ## 5\. Adobe Flash Player and Shockwave Player
 
@@ -72,21 +72,21 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  A similar runtime plugin, Adobe Shockwave Player, was discontinued in 2019\. The company no longer offers it for download, and you're extremely unlikely to find a website that needs it.
 
- You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to[enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
+ You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to [enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
 
 ## 6\. Java
 
  Java is another media runtime, and it includes two components: Java on the desktop, and the Java plugin for browsers (which is notorious for having security problems). Though it was once fairly common, very few websites use it nowadays. At the time of writing,[W3Techs](https://w3techs.com/technologies/details/cp-javaruntime/all/all) shows that a fraction of one percent of websites use Java.
 
- Modern versions of Chrome and Firefox don't support it, which means that[Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
+ Modern versions of Chrome and Firefox don't support it, which means that [Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
 
 ## 7\. Microsoft Silverlight
 
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
 
- Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at[W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
+ Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at [W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
- Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in[Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
+ Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in [Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
 
 ## 8\. All Toolbars and Junk Browser Extensions
 
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  Consider these unnecessary programs you should get rid of, as none of them are required for Windows to function. Some of the preinstalled branded programs, like photo apps, gaming tools, or anything that duplicates Windows utilities, are completely unnecessary. Others, such as driver/BIOS update utilities (like Lenovo System Update), are worth keeping around.
 
- Of course, we can't comment specifically on every piece of manufacturer software. To find out about what you should delete from your system, it's a good idea to check out[Should I Remove It?](https://www.shouldiremoveit.com/) , which gives an overview of what each program does and how others have rated it.
+ Of course, we can't comment specifically on every piece of manufacturer software. To find out about what you should delete from your system, it's a good idea to check out [Should I Remove It?](https://www.shouldiremoveit.com/) , which gives an overview of what each program does and how others have rated it.
 
  When in doubt, anything from the manufacturer is probably not necessary. But it's always good to double-check.
 
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
- Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our[Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our[overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
+ Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our [Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our [overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
 ## 12\. WinRAR
 
@@ -147,3 +147,51 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-pc-performance-deficiencies-amidst-intel-errors/"><u>Tackling PC Performance Deficiencies Amidst Intel Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-disk-differentiation-hdd-and-ssd-recognition-on-pcs/"><u>Simplifying Disk Differentiation: HDD & SSD Recognition on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-no-click-spaces-within-windows-11-interface/"><u>Combatting No-Click Spaces Within Windows 11 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/error-2e-unravelled-enabling-windows-update/"><u>Error 2E Unravelled: Enabling Windows Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-google-images-and-speed-a-handy-collage-creation-routine/"><u>In 2024, Google Images & Speed  A Handy Collage Creation Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-password-storage-windows-text-file-security-tips/"><u>Mastering Password Storage: Windows Text File Security Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-looks-like-youre-stranded-on-xbox-error/"><u>Guide to Overcoming 'Looks Like You're Stranded' On Xbox Error</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-rectifying-file-history-missteps-in-windows-os/"><u>Steps for Rectifying File History Missteps in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-update-problem-code-0x800f0922/"><u>Tackling Windows Update Problem - Code 0X800f0922</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prestigious-vr-movie-collection-to-watch/"><u>[Updated] Prestigious VR Movie Collection to Watch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-recovering-lost-live-footage-strategies-for-uninterrupted-streams/"><u>[Updated] 2024 Approved  Recovering Lost Live Footage  Strategies for Uninterrupted Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/the-obsidian-way-to-clean-clear-notes/"><u>The Obsidian Way to Clean, Clear Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-forcing-printer-deletion-in-win-1011/"><u>Quick Guide: Forcing Printer Deletion in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-the-aw-snap-error-in-chrome/"><u>How to Stop the Aw, Snap! Error in Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-what-users-find-flawed-in-windows-11/"><u>Deciphering What Users Find Flawed in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-turn-off-unsolicited-game-suggestions-for-w11/"><u>Learn to Turn Off Unsolicited Game Suggestions for W11</u></a></li>
+<li><a href="https://win11.techidaily.com/concealed-commands-disguise-power-settings-in-start-screen/"><u>Concealed Commands: Disguise Power Settings in Start Screen</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-permission-to-browse-friends-media-content-on-smschat-services/"><u>[Updated] Permission to Browse Friends' Media Content on SMS/Chat Services</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-highlight-and-search-features-in-windows-11-os/"><u>Mastering Highlight & Search Features in Windows 11 OS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-discovery-of-software-installs-for-windows-users/"><u>Seamless Discovery of Software Installs for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-github-desktop-on-windows-11-a-complete-guide/"><u>Mastering GitHub Desktop on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/three-methods-to-remove-microsoft-store-from-pcs/"><u>Three Methods to Remove Microsoft Store From PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-choosing-a-professional-video-editor-filmora-against-democreator/"><u>[New] Choosing a Professional Video Editor  Filmora Against Democreator</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-of-control-for-winapps-and-browsers/"><u>The Blueprint of Control for WinApps & Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-media-makers-code-0x8007043c-issue/"><u>Overcoming Windows Media Maker's Code 0X8007043C Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-snap-open-apps-in-windows-11/"><u>Swiftly Snap Open Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-google-chrome-from-creating-random-tabs/"><u>How To Prevent Google Chrome From Creating Random Tabs</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-google-nearby-sharing-service-in-windows/"><u>Re-Establishing Google Nearby Sharing Service in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-path-not-found-on-pc-systems/"><u>Fixing Path Not Found on PC Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correct-xbox-games-access-error-in-windows-pcs/"><u>Guide to Correct Xbox Games Access Error in Windows PCs</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-avoid-no-permission-on-windows-file-viewing/"><u>Strategies to Avoid 'No Permission' On Windows File Viewing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pc-potential-by-clearing-windows-temp-files/"><u>Unlock Your PC Potential by Clearing Windows Temp Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716069636589-new-in-2024-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[New] In 2024, Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfect-recorder-chromebooks-best-friend-for-2024/"><u>[Updated] Perfect Recorder  Chromebook's Best Friend for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-quick-strategies-for-black-screen-in-wins-1011/"><u>Top Quick Strategies for Black Screen in Wins 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-eliminating-restricted-admin-windows-alert/"><u>Strategies for Eliminating Restricted Admin Windows Alert</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-audience-wave-top-hash-tags-to-swell-youtube-views/"><u>2024 Approved  Audience Wave  Top Hash Tags to Swell Youtube Views</u></a></li>
+</ul></div>

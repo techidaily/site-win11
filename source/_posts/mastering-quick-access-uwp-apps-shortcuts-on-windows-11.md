@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Access: UWP Apps Shortcuts on Windows 11"
-date: 2024-06-25T11:28:29.264Z
-updated: 2024-06-26T11:28:29.264Z
+date: 2024-07-13T10:07:08.089Z
+updated: 2024-07-14T10:07:08.089Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
  Windows 11 has an accessible Applications folder that includes your installed UWP apps. You can select to create shortcuts for MS Store apps from that folder as follows:
 
-1. First, press the**Windows** +**R** hotkey to[start the Run tool](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. First, press the**Windows** +**R** hotkey to [start the Run tool](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**shell:AppsFolder** inside Run’s**Open** box.
 3. Click**OK** to view the Applications folder.
 4. Right-click a UWP app you want to add to the desktop and select**Create shortcut** .  
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 * Media Player:**mswindowsmusic:**
 * Get Help:**ms-contact-support:**
 
- Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
+ Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this [how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
 
@@ -111,3 +111,46 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-on-mac-via-parallels/"><u>Mastering Windows 11 on Mac via Parallels</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-approaches-to-restoring-windows-11-logins/"><u>Masterful Approaches to Restoring Windows 11 Logins</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-splitcam-verdict-unrivaled-camera-quality-or-not/"><u>[Updated] In 2024, SplitCam Verdict  Unrivaled Camera Quality or Not?</u></a></li>
+<li><a href="https://win11.techidaily.com/methodology-for-disabling-onedrive-indicator-in-windows-11/"><u>Methodology for Disabling OneDrive Indicator in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/investigating-windows-n-editions-for-business-purposes/"><u>Investigating Windows N Editions: For Business Purposes</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-missing-window-panes-with-win11-6-tips/"><u>Reclaiming Missing Window Panes with Win11 (6 Tips)</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-windows-webcam-transition-techniques/"><u>Seamless Android-Windows Webcam Transition Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-peaceful-play-with-mic-free-ps5/"><u>Enjoy Peaceful Play with Mic-Free PS5</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-utilize-microsofts-phone-link-on-mobile-devices/"><u>How to Utilize Microsoft's Phone Link on Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/roblox-error-403-resolving-access-denied-in-win/"><u>Roblox Error 403: Resolving Access Denied in Win</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft/"><u>[New] In 2024, Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-solution-how-to-brighten-a-video-on-android/"><u>[Updated][Solution] How to Brighten a Video on Android</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-use-vimeo-record-tool-for-2024/"><u>[New] How to Use Vimeo Record Tool for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-windows-update-failure-code-xc004f050/"><u>Reverse Windows Update Failure Code XC004F050</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-devices-in-sleep-mode-of-win11-pc/"><u>Resurrecting Devices in Sleep Mode of Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/onedrive-path-alteration-guide-for-windows-11-users/"><u>OneDrive Path Alteration Guide for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tap-into-tagging-techniques-for-6kplus-youtube-vistas-for-2024/"><u>Tap Into #Tagging Techniques for $6K+ YouTube Vistas for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-s17-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo S17 Phones with/without a PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-incorporating-vimeo-videos-seamlessly-in-microsoft-slides-for-2024/"><u>[New] Incorporating Vimeo Videos Seamlessly in Microsoft Slides for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-compatibility-of-brightness-controls-via-fn-key-win-11/"><u>Restoring Compatibility of Brightness Controls via Fn Key Win 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webinar-recording-tactics-zero-price-strategy/"><u>[New] In 2024, Webinar Recording Tactics  Zero Price Strategy</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-masterclass-transforming-everyday-images-for-tiktok-vids/"><u>[New] Masterclass  Transforming Everyday Images for TikTok Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-to-connect-to-a-network/"><u>Navigating Windows to Connect to a Network</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/camera-connoisseurs-hits-the-best-6-of-the-years-4k-cameras-for-2024/"><u>Camera Connoisseurs' Hits  The Best 6 of the Year's 4K Cameras for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-dormant-services-console-a-list-of-7-restoration-techniques/"><u>Reviving a Dormant Services Console: A List of 7 Restoration Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-greyed-out-pin-deletion-in-windows-11-interface/"><u>Resetting Greyed-Out Pin Deletion in Windows 11 Interface</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-legacy-boot-configurations/"><u>Reinstating Legacy Boot Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-windows-audioscape-via-driver-update-steps/"><u>Revamping Windows Audioscape via Driver Update Steps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-zero-cost-game-video-editing-tools-this-year/"><u>New Best Zero-Cost Game Video Editing Tools This Year</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/calculating-the-sequence-length-of-a-20mb-file/"><u>Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-google-nearby-to-link-devices-easily/"><u>Leveraging Google Nearby to Link Devices Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-display-technology-an-in-depth-exploration-of-windows-11s-hdr/"><u>Reimagining Display Technology: An In-Depth Exploration of Windows 11'S HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-fixing-unsupported-devices-warning/"><u>Quick Guide: Fixing Unsupported Devices Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-reviving-copy-paste-feature-across-browsers/"><u>Quick Guide: Reviving Copy-Paste Feature Across Browsers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-social-media-potential-stream-to-fb-via-obs/"><u>[Updated] In 2024, Unlocking Social Media Potential  Stream to FB via OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-prime-audiosubtitle-malfunctions-on-windows-11-systems/"><u>Resolve Prime Audio/Subtitle Malfunctions on Windows 11 Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-14-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 14 Pro - 4 Easy Ways</u></a></li>
+</ul></div>

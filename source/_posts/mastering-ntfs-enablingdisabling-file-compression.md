@@ -1,7 +1,7 @@
 ---
 title: "Mastering NTFS: Enabling/Disabling File Compression"
-date: 2024-06-25T11:32:00.536Z
-updated: 2024-06-26T11:32:00.536Z
+date: 2024-07-13T10:19:38.886Z
+updated: 2024-07-14T10:19:38.886Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 ## 1\. Enable NTFS File Compression Through the File Explorer
 
- The quickest way to enable NTFS[file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
+ The quickest way to enable NTFS [file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
 
 1. Open the File Explorer and head toward the folder you want to compress.
 2. Right-click on the target folder and choose**Properties** from the context menu.
@@ -52,7 +52,7 @@ Similarly, you can compress an entire drive. Here's how:
  If you are a power user, you can use the Command Prompt to enable file compression on Windows 11\. Here are the steps to do it:
 
 1. Press the**Win + S** hotkeys to open the**Windows Search.**
-2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane. If this method is not working, you can use any other way to[open Command Prompt with admin rights](https://www.makeuseof.com/how-to-always-open-command-prompt-as-administrator-windows/) .
+2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane. If this method is not working, you can use any other way to [open Command Prompt with admin rights](https://www.makeuseof.com/how-to-always-open-command-prompt-as-administrator-windows/) .
 3. Type the following command and press**Enter** to enable file compression.  
 `fsutil behavior set disablecompression 0`
 
@@ -120,3 +120,41 @@ Similarly, you can compress an entire drive. Here's how:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/2024-approved-capturing-moments-with-full-screen-movies-on-iphones/"><u>2024 Approved  Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-high-cpu-usage-by-wmi-service/"><u>Addressing High Cpu Usage by WMI Service</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-0x0000004e-on-windows-11-systems/"><u>Conquering Error 0X0000004E on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-unique-characteristics-of-ai-computers/"><u>Delving Into Unique Characteristics of AI Computers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools/"><u>[Updated] 2024 Approved  Optimize Video Search with These Top 7 Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-extend-a-volume-on-windows-without-erasing-personal-data/"><u>How to Extend a Volume on Windows Without Erasing Personal Data</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-guide-to-full-battery-indicators-in-win-oses/"><u>Advanced Guide to Full Battery Indicators in Win OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/debating-choco-and-wslm-top-pick-for-windows-software/"><u>Debating Choco and WSLM: Top Pick for Windows Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quickcapture-studio-chrome-os-snapper/"><u>2024 Approved  QuickCapture Studio  Chrome OS Snapper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combatting-unsuccessful-onedrive-operations-on-os/"><u>Combatting Unsuccessful OneDrive Operations on OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-error-0xfffffff-with-ease/"><u>Solving Windows' Error 0xFFFFFFF with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/restarting-routine-efficiently-installing-windows-11/"><u>Restarting Routine: Efficiently Installing Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-blueprint-for-an-enhanced-taskbar-in-microsofts-next-windows-release/"><u>A Blueprint for an Enhanced Taskbar in Microsoft's Next Windows Release</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unwanted-windows-start-up-in-bios-landing/"><u>Overcoming Unwanted Windows Start-Up in BIOS Landing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-onedrive-files-offline-on-a-windows-pc/"><u>How to Access OneDrive Files Offline on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-is-now-microsofts-new-ai-enhanced-taskbar-for-windows-11-users/"><u>The Future Is Now: Microsoft’s New AI-Enhanced Taskbar for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-0x800713f-error-on-the-windows-mail-service/"><u>How to Repair 0X800713f Error on the Windows Mail Service</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-collection-20-free-adobe-premiere-title-templates/"><u>In 2024, The Ultimate Collection 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-x887a0006-dxgi-error-in-windows-11/"><u>Quick Fixes for X887A0006: DXGI Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-customize-your-outlook-calendar-on-windows/"><u>How to Customize Your Outlook Calendar on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-uncover-hidden-system-startups/"><u>Tips to Uncover Hidden System Startups</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-tech-appbrowser-rule/"><u>Understanding Windows Tech: App/Browser Rule</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-this-blog-post-shows-how-to-create-an-eye-catching-paper-rip-effect-for-your-videos-using-wondershare-filmora-with-these-easy-to-follow-steps/"><u>Updated This Blog Post Shows How to Create an Eye-Catching Paper Rip Effect for Your Videos Using Wondershare Filmora with These Easy-to-Follow Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-onedrive-and-microsoft-id-for-pc-users/"><u>Bridging the Gap: OneDrive & Microsoft ID for PC Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-common-anydesk-errors-on-windows/"><u>Mastering the Art of Resolving Common AnyDesk Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-saving-hurdles-with-steps-to-fix-pubg/"><u>Overcoming Saving Hurdles with Steps to Fix PUBG</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-folder-navigation-in-win-11-movecopy-command-addition/"><u>Optimizing Folder Navigation in Win 11 - Move/Copy Command Addition</u></a></li>
+<li><a href="https://win11.techidaily.com/crack-the-ms-pc-manager-install-issue-on-windows-xp/"><u>Crack the MS PC Manager Install Issue on Windows XP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-pixlr-upgrades-for-enhanced-results/"><u>[Updated] 2024 Approved  Essential Pixlr Upgrades for Enhanced Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-easily-remove-tiktok-watermarks-best-online-solutions-for-2024/"><u>Updated Easily Remove TikTok Watermarks Best Online Solutions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unable-to-open-error-in-geforce-experience-windows/"><u>Resolving Unable to Open Error in GeForce Experience Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-understanding-and-turning-off-system-lockdown/"><u>Windows 11: Understanding & Turning Off System Lockdown</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Z50 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+</ul></div>

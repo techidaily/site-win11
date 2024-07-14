@@ -1,7 +1,7 @@
 ---
 title: "Window Terminal: Design Your Own Palette"
-date: 2024-06-25T11:42:24.525Z
-updated: 2024-06-26T11:42:24.525Z
+date: 2024-07-13T10:56:49.237Z
+updated: 2024-07-14T10:56:49.237Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 
 ## How Do I Edit a Color Scheme in Windows Terminal?
 
- Editing the color scheme is just one of the many[ways you can customize the Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) . To do that, follow the steps below:
+ Editing the color scheme is just one of the many [ways you can customize the Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) . To do that, follow the steps below:
 
 1. Right-click**Start** and select**Terminal** .  
 ![opening windows terminal from the power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-open-start.jpg)
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 
 1. Right-click**Start** and select**Terminal** .
 2. In the tab bar at the top, click on the**dropdown arrow** and select**Settings** from the menu.
-3. In the**Profiles** section of the left side menu, select**Defaults** if you want to apply the scheme to all profiles or select a specific profile, such as[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or Command Prompt, to apply it to that particular one.  
+3. In the**Profiles** section of the left side menu, select**Defaults** if you want to apply the scheme to all profiles or select a specific profile, such as [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or Command Prompt, to apply it to that particular one.  
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
@@ -86,3 +86,37 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/1719307817163-keyboard-keyscalyping-restore-your-arrows-now/"><u>Keyboard Keyscalyping? Restore Your Arrows Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719218745181-panels-in-peril-bring-them-back-with-these-hacks/"><u>Panels in Peril? Bring Them Back with These Hacks!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/13-enhanced-functions-for-windows-11-in-the-newest-update/"><u>13 Enhanced Functions for Windows 11 in the Newest Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-android-photo-editing-uncovered-complete-review-of-lightroom-app/"><u>2024 Approved  Android Photo Editing Uncovered  Complete Review of Lightroom App</u></a></li>
+<li><a href="https://win11.techidaily.com/10-quick-tips-recognizing-your-xbox-controller-in-windows/"><u>10 Quick Tips: Recognizing Your Xbox Controller in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/12-common-windows-11-aesthetic-oddities/"><u>12 Common Windows 11 Aesthetic Oddities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unprecedented-engagement-reaching-for-a-million-audience/"><u>[New] Unprecedented Engagement  Reaching for a Million Audience</u></a></li>
+<li><a href="https://win11.techidaily.com/1719231160491-streamline-your-desktop-no-overlaps/"><u>Streamline Your Desktop: No Overlaps!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719265267578-fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-upgrade-your-experience-10-high-performance-drives/"><u>[Updated] 2024 Approved  Upgrade Your Experience  #10 High-Performance Drives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-economical-virtual-reality-solutions-for-2024/"><u>Unveiling Economical Virtual Reality Solutions for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/10-fixes-for-windows-restoring-controllers-with-steam/"><u>10 Fixes for Windows: Restoring Controllers with Steam</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-distinctive-sphere-of-influence/"><u>[New] 2024 Approved  Crafting a Distinctive Sphere of Influence</u></a></li>
+<li><a href="https://win11.techidaily.com/1719251209823-overcome-wwinplusprint-hurdles-for-seamless-operations-in-windows/"><u>Overcome WWin+Print Hurdles for Seamless Operations in Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719239311887-unlock-the-future-at-an-irresistible-price-best-windows-11-deal-612lifetime-key-lovers-delight/"><u>Unlock the Future at an Irresistible Price – Best Windows 11 Deal, $6.12/Lifetime, Key Lovers' Delight</u></a></li>
+<li><a href="https://win11.techidaily.com/1719268980675-optimize-disk-space-clear-temporary-windows-files-now/"><u>Optimize Disk Space: Clear Temporary Windows Files Now!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-leveraging-full-motion-video-on-iphones-for-2024/"><u>[New] Leveraging Full Motion Video on iPhones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719264863745-unwanted-file-explorer-activation-stopped/"><u>Unwanted File Explorer Activation Stopped!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254323833-overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719258150800-win-rpc-problems-here-are-5-fixes-you-need/"><u>Win RPC Problems? Here Are 5 Fixes You Need</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-microphone-selection-for-high-res-video-shooting/"><u>In 2024, Ultimate Microphone Selection for High-Res Video Shooting</u></a></li>
+<li><a href="https://win11.techidaily.com/1719209276170-essential-windows-store-top-10-crucial-apps/"><u>Essential Windows Store: Top 10 Crucial Apps!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719299925084-understanding-and-correcting-windows-error-0xc00000f/"><u>Understanding & Correcting Windows Error: 0Xc00000f</u></a></li>
+<li><a href="https://win11.techidaily.com/1719284853027-ready-set-gain-administrator-status/"><u>Ready, Set, Gain Administrator Status!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719301836134-clear-and-confident-windows-viewing-top-6-fixes-now/"><u>Clear and Confident Windows Viewing: Top 6 Fixes Now!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-mr-beasts-cash-flow/"><u>[New] Unveiling Mr. Beast's Cash Flow</u></a></li>
+<li><a href="https://win11.techidaily.com/1719218034374-provide-examples-from-real-life-where-understanding-another-cultures-perspective-could-lead-to-better-communication-and-relationships/"><u>Provide Examples From Real Life Where Understanding Another Culture's Perspective Could Lead to Better Communication and Relationships</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y28-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y28 5G For Mobile Legends? | Dr.fone</u></a></li>
+</ul></div>

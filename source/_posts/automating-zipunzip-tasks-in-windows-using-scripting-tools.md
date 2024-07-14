@@ -1,7 +1,7 @@
 ---
 title: Automating Zip/Unzip Tasks in Windows Using Scripting Tools
-date: 2024-07-02T13:01:35.817Z
-updated: 2024-07-03T13:01:35.817Z
+date: 2024-07-13T09:59:10.999Z
+updated: 2024-07-14T09:59:10.999Z
 tags:
   - windows10
   - windows11
@@ -102,3 +102,51 @@ You've successfully unzipped the file.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/how-to-adjust-metric-tracking-features-for-a-wi-fi-network-in-windows-11/"><u>How to Adjust Metric Tracking Features for a Wi-Fi Network in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-mouse-lagging-in-star-wars-battlefront-2-on-windows-try-these-8-fixes/"><u>Is Your Mouse Lagging in Star Wars Battlefront 2 on Windows? Try These 8 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-microsoft-offices-0x80041015-problematic-error/"><u>Solutions to Microsoft Office's 0X80041015 Problematic Error</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-your-pcs-dead-hub-a-windows-fix-guide/"><u>Resurrecting Your PC's Dead Hub: A Windows Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-vscode-errors-in-latest-windows-update/"><u>Preventing VSCode Errors in Latest Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/4-easy-ways-to-create-a-new-folder-in-windows-11/"><u>4 Easy Ways to Create a New Folder in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/curb-the-constant-reopening-of-windows-file-explorer/"><u>Curb the Constant Reopening of Windows' File Explorer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-nativescreenvid-chrome-os-recording-tool/"><u>In 2024, NativeScreenVid  Chrome OS Recording Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/security-essentials-pre-upgrade-activation-of-tpm-and-secure-boot/"><u>Security Essentials: Pre-Upgrade Activation of TPM & Secure Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-the-look-of-windows-11s-basic-text-editor/"><u>Transforming the Look of Windows 11'S Basic Text Editor</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-pc-speaker-capture-with-audacity-a-step-by-step-guide/"><u>In 2024, Mastering PC Speaker Capture with Audacity A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-write-operation-failures-in-winos/"><u>Steps to Rectify Write Operation Failures in WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-the-summary-size-of-your-pics/"><u>Customizing the Summary Size of Your Pics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11-fs-data-loss-and-corruption/"><u>Solutions for Windows 11 FS Data Loss and Corruption</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x80072f30-on-windows/"><u>How to Fix the Microsoft Store Error 0X80072F30 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-w11s-0x8004def5-onedrive-malfunction/"><u>Unraveling the Mystery of W11's 0X8004def5 OneDrive Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-error-0xca00a009-in-microsoft-windows/"><u>Unraveling Error 0xCA00A009 in Microsoft Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-in-depth-exploration-of-razers-kiyo-cam/"><u>In 2024, In-Depth Exploration of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-xfffeeee-error-on-your-office-printer/"><u>Eliminating XFFFEEEE Error on Your Office Printer</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-indefinite-deletion-settings-in-windows-desktop-bin/"><u>Initiating Indefinite Deletion Settings in Windows Desktop Bin</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-read-only-folders-without-compromise-in-windows/"><u>Correcting Read-Only Folders Without Compromise in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-complex-windows-11-install-issues/"><u>Navigating Through Complex Windows 11 Install Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-windows-canary-channel-explained/"><u>Unraveling the Mystery: Windows Canary Channel Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-soft-shadows-on-smiles-introducing-motion-blur-to-faces-in-photos-with-picsart/"><u>In 2024, Soft Shadows on Smiles  Introducing Motion Blur to Faces in Photos with Picsart</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-chapters-essentials-for-seamless-cutting/"><u>In 2024, Vimeo Chapters Essentials for Seamless Cutting</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-difference-between-chkdsk-sfc-and-dism-in-windows/"><u>What Is the Difference Between CHKDSK, SFC, and DISM in Windows?</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-app-migration-tips-to-fix-windows-task-manager-positions/"><u>Avoid App Migration: Tips to Fix Windows Task Manager Positions</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-pomodoro-strategies-best-windows-timer-selections/"><u>Optimal Pomodoro Strategies - Best Windows Timer Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-a-stopped-netflix-window-program/"><u>Solutions for a Stopped Netflix Window Program</u></a></li>
+<li><a href="https://win11.techidaily.com/alleviating-saturated-capacity-in-chatgpt/"><u>Alleviating Saturated Capacity in ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-deep-into-windows-restoration-options/"><u>Dive Deep Into Windows Restoration Options</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-deletion-with-windows-context-add-ons/"><u>Streamlining Deletion with Windows Context Add-Ons</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-11-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 11 Pro 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-boosting-earnings-in-cosmetic-videography/"><u>2024 Approved  Boosting Earnings in Cosmetic Videography</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mend-windows-11s-system-settings-problems/"><u>How to Mend Windows 11'S System Settings Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-upscale-your-old-videos-with-madvr-for-windows/"><u>How to Upscale Your Old Videos With MadVR for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-game-access-issues-windows-and-xbox-edition/"><u>Tackling Game Access Issues - Windows and Xbox Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XR</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-normalcy-in-corporate-governed-chromium-and-microsoft-edge-browsing/"><u>Regaining Normalcy in Corporate-Governed Chromium & Microsoft Edge Browsing</u></a></li>
+<li><a href="https://win11.techidaily.com/1719322242538-mastering-printer-troubles-reactivating-missing-wwinplusp-on-windows/"><u>Mastering Printer Troubles: Reactivating Missing WWin+P on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-the-application-was-unable-to-start-xc000003e-on-win11-and-11/"><u>Strategies to Address The Application Was Unable to Start Xc000003e on Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-common-windows-11-pitfalls/"><u>Addressing Common Windows 11 Pitfalls</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Keyboard Mastery for Streamlined Project Planning
-date: 2024-06-25T11:38:12.364Z
-updated: 2024-06-26T11:38:12.364Z
+date: 2024-07-13T10:41:42.847Z
+updated: 2024-07-14T10:41:42.847Z
 tags:
   - windows10
   - windows11
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
- If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+ If you like using your keyboard to get around your productivity suite, check out [what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -201,3 +201,38 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions/"><u>Archive Artistry  Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/best-male-to-female-voice-changers-2024/"><u>Best Male to Female Voice Changers 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-video-reset-error-on-windows-systems/"><u>Dealing with Video Reset Error on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-freezing-clicks-your-action-plan-for-windows/"><u>Mend Freezing Clicks: Your Action Plan for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-walkthrough-restoring-default-search-features-in-windows-11/"><u>Detailed Walkthrough: Restoring Default Search Features in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-enable-data-transfer-operations-in-edges-protective-mode-win-11/"><u>Guide: Enable Data Transfer Operations in Edge's Protective Mode, Win 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>2024 Approved  Exploring the World Through Your Camera Lens  A Beginner's Roadmap for Success</u></a></li>
+<li><a href="https://win11.techidaily.com/equalize-internet-pace-syncing-laptop-and-mobile-phones/"><u>Equalize Internet Pace: Syncing Laptop & Mobile Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-update-error-0x80246007-in-windows-11-and-11/"><u>How to Fix the Windows Update Error 0X80246007 in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-window-11-custom-taskbar-sizing/"><u>Guide to Window 11 Custom Taskbar Sizing</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-screen-brilliance-adjustments-in-windows-11/"><u>Mastering Screen Brilliance Adjustments in Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-15-instagram-videophoto-downloaders-for-2024/"><u>[Updated] Top 15 Instagram Video/Photo Downloaders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-autominimize-windows-woes-no-more/"><u>Master AutoMinimize: Windows Woes No More</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-hyper-v-in-windows-11-steps-to-follow/"><u>Enabling Hyper-V in Windows 11: Steps to Follow</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-error-740-on-winos/"><u>Mastering the Art of Correcting Error 740 on WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-typing-experience-speed-up-windows-keyboard-delay/"><u>Enhance Your Typing Experience: Speed Up Windows Keyboard Delay</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-how-to-upload-tiktok-videos-on-chromeandroidiphone/"><u>2024 Approved  How to Upload Tiktok Videos on Chrome/Android/iPhone?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-excellent-no-cost-live-camera-capturer/"><u>[Updated] Excellent No-Cost Live Camera Capturer</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-pc-to-recognize-razer-devices-again/"><u>How to Get Your PC to Recognize Razer Devices Again</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-auditory-theatre-plays/"><u>[New] Top-Tier Auditory Theatre Plays</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-typing-managing-filter-keys-on-pcs/"><u>Elevate Your Typing: Managing Filter Keys on PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-budget-headphones-to-enhance-game-sounds/"><u>[New] In 2024, Ultimate Budget Headphones to Enhance Game Sounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-quick-windows-photo-zoom/"><u>[New] In 2024, Ultimate Quick Windows Photo Zoom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>[Updated] Navigating Zoom with Skype  A Guide to Seamless Video Calls</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creativity-easy-video-editing-with-gopro-quik-for-macbook/"><u>New In 2024, Unleash Your Creativity Easy Video Editing with GoPro Quik for MacBook</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-mastering-3d-painting-shortcuts/"><u>Expert Tips for Mastering 3D Painting Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-regaining-original-windows-configs/"><u>Expert Advice: Regaining Original Windows Configs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-toolbar-in-microsoft-pc-manager-on-windows-11/"><u>How to Use the Toolbar in Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-experience-with-these-ultimate-strategies-for-win-11/"><u>Elevate Your Gaming Experience with These Ultimate Strategies for Win 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-android-apps-youtube-video-downloads-compared/"><u>[Updated] Best Android Apps  YouTube Video Downloads Compared</u></a></li>
+</ul></div>

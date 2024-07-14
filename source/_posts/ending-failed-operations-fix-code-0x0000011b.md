@@ -1,7 +1,7 @@
 ---
 title: "Ending Failed Operations: Fix Code 0X0000011B"
-date: 2024-06-25T11:32:51.303Z
-updated: 2024-06-26T11:32:51.303Z
+date: 2024-07-13T10:22:33.397Z
+updated: 2024-07-14T10:22:33.397Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/177db7c45381f8f94f304fef5764a3ae21d49762f
 
 ## 1\. Restart the Print Spooler Service
 
- A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the[print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
+ A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the [print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
 
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** .
@@ -55,7 +55,7 @@ To check and install Windows updates:
 
 ## 3\. Install the Printer Manually via the Local Port
 
- A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
+ A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to [add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
 
 1. Press**Win + I** to open**Settings** .
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
@@ -87,7 +87,7 @@ To check and install Windows updates:
 
  To fix the error without uninstalling the security update, you’ll need to create a new registry entry to disable the feature. Here’s how to do it.
 
- Note that modifying your Windows Registry involves risk. We recommend you[back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and[create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
+ Note that modifying your Windows Registry involves risk. We recommend you [back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
 
 Next, follow these steps to disable CVE-2021-1678 mitigation:
 
@@ -143,3 +143,58 @@ To uninstall Windows updates:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-bluetooth-mouse-blackout-on-windows-systems/"><u>Overcoming Bluetooth Mouse Blackout on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-pcs-idle-state-with-scheduled-shutdowns/"><u>Optimize Your PC's Idle State with Scheduled Shutdowns</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-ubuntu-video-editing-essentials-10-free-software-solutions/"><u>New Ubuntu Video Editing Essentials 10 Free Software Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] In 2024, Unveiling Secrets  The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-open-the-windows-network-connections-tool/"><u>10 Ways to Open the Windows Network Connections Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/1719313088233-break-free-from-windows-update-problems-quickly/"><u>Break Free From Windows Update Problems Quickly!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unleash-the-virtuoso-in-you-tiktok-videos-made-worthy-by-themed-designs-for-2024/"><u>Unleash the Virtuoso in You  TikTok Videos Made Worthy by Themed Designs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>[New] Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://win11.techidaily.com/1719313398544-maximize-full-screen-capture-efficiency-with-these-fixes-in-windows/"><u>Maximize Full-Screen Capture Efficiency with These Fixes in Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254078043-navigating-through-windows-issues-made-simple/"><u>Navigating Through Windows Issues Made Simple</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-brand-with-these-11-free-animated-logo-generators-for-2024/"><u>Elevate Your Brand with These 11 Free Animated Logo Generators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254765561-solutions-for-non-responsive-windows-shift/"><u>Solutions for Non-Responsive Windows Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/1719319611800-overcoming-challenges-in-full-screen-snip-and-sketch-capturing/"><u>Overcoming Challenges in Full-Screen Snip & Sketch Capturing.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-playlist-turnaround-a-simple-4-step-plan/"><u>[New] YouTube Playlist Turnaround  A Simple 4-Step Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/why-and-how-to-choose-effective-encoders-on-your-pc/"><u>Why and How to Choose Effective Encoders on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/1719307585235-the-key-to-no-fuss-vbox-installation-deps-please/"><u>The Key to No-Fuss VBox Installation? Deps, Please!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-service-failure-in-windows-11/"><u>Troubleshooting Steam Service Failure in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/echno-titans-earnings-forecast-on-gaming-channels/"><u>[New] Techno Titans  Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-can-i-use-twitter-archive-for-2024/"><u>How Can I Use Twitter Archive for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-broken-usb-connections-on-windows-systems/"><u>Tackling Broken USB Connections on Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-file-explorers-gallery-view-capability/"><u>Unlocking File Explorer's Gallery View Capability</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-removing-the-isdonedll-issue-on-w11/"><u>Quick Fix Guide: Removing the ISDone.dll Issue on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/10-pro-tips-for-naming-and-organizing-files-in-windows/"><u>10 Pro Tips for Naming and Organizing Files in Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-entry-level-mic-tips-for-youtube-voice-talents/"><u>In 2024, Entry-Level Mic Tips for YouTube Voice Talents</u></a></li>
+<li><a href="https://win11.techidaily.com/10-substitutes-for-bitlocker-in-winxp-systems/"><u>10 Substitutes for BitLocker in WinXP Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-redirecting-onedrive-storage-location/"><u>Win 11 - Redirecting OneDrive Storage Location</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-roi-with-effective-animated-social-media-campaigns-for-2024/"><u>[New] Mastering ROI with Effective Animated Social Media Campaigns for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[Updated] From Airwaves to Archives  Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-freebies-best-media-centers-for-windows-users/"><u>Top 7 Freebies: Best Media Centers for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-user-administration-in-windows-11/"><u>Streamlining User Administration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719249883200-revive-keys-in-crisis-arrows-rescued/"><u>Revive Keys in Crisis: Arrows Rescued!</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-implications-of-removing-windows-11s-taskbar-chatting-capability-on-you/"><u>Unpacking the Implications of Removing Windows 11'S Taskbar Chatting Capability on You</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-yourself-from-install-error-in-discord-set-up/"><u>Saving Yourself From Install Error in Discord Set-Up</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-warhammer-40k-players-stop-pc-lag-issues/"><u>Winning Strategies for Warhammer 40K Players - Stop PC Lag Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/quickfire-tips-for-unbeatable-win-cs-speed/"><u>Quickfire Tips for Unbeatable Win CS Speed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/uncover-11-free-effective-youtube-naming-solutions/"><u>Uncover 11 Free, Effective YouTube Naming Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-photos-from-moving-frames-on-windows-11-for-2024/"><u>Capturing Photos From Moving Frames on Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-leading-the-pack-2023s-8-facebook-movie-downloads/"><u>[New] 2024 Approved  Leading the Pack  2023'S #8 Facebook Movie Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/1719302930005-bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily.</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-nonexistent-hardware-warning-in-windows/"><u>Overcoming Nonexistent Hardware Warning in WIndows</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-why-steam-cant-synch-files-in-pc-settings/"><u>Unraveling Why Steam Can't Synch Files in PC Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/reinvent-the-way-you-handle-aging-pcs-less-windows/"><u>Reinvent the Way You Handle Aging PCs: Less Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-microcapture-video-logger-analysis-and-options/"><u>[Updated] In 2024, MicroCapture Video Logger Analysis & Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-decoding-the-nuances-of-whatsapp-audio-messages/"><u>[Updated] In 2024, Decoding the Nuances of WhatsApp Audio Messages</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-basic-to-breakthrough-content-crafting-the-top-10-simplest-youtube-projects-for-2024/"><u>[New] Basic to Breakthrough Content  Crafting the Top 10 Simplest YouTube Projects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-mastery-in-artificially-inspired-visuals-using-paint-cocreator-on-win11/"><u>Step-by-Step Mastery in Artificially Inspired Visuals Using Paint Cocreator on Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[Updated] 2024 Approved  Comparing Livestream Tools  Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
+</ul></div>

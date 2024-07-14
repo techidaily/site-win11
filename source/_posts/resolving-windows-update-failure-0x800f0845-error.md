@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Update Failure: 0X800F0845 Error"
-date: 2024-06-25T11:36:20.610Z
-updated: 2024-06-26T11:36:20.610Z
+date: 2024-07-13T10:35:29.920Z
+updated: 2024-07-14T10:35:29.920Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  It's always better to try fixing Windows update errors first by using the Windows Update Troubleshooter. It scans your PC for problems, attempts to resolve them, and then applies the fixes.
 
-1. Right-click the**Windows icon** on the taskbar and select**Settings** . Or use the[many ways to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Right-click the**Windows icon** on the taskbar and select**Settings** . Or use the [many ways to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. On the left pane in**Settings** , click**System** . On the**System** page, click**Troubleshoot** on the right pane.
 3. In the**Troubleshoot** page, select**Other troubleshooters** .  
 ![Select Other Trouble-shooters in Troubleshoot Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-other-trouble-shooters.jpg)
@@ -69,7 +69,7 @@ Try updating Windows now and see if the update gets installed.
 
  And if the SFC doesn't work properly, and can’t repair your system files, you should run the DISM or Deployment Image Servicing and Management tool. DISM is a command-line tool that can be used to service and repair Windows images, including those used for Windows Recovery and Windows Setup.
 
- To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
+ To know how to run the SFC and DSIM, you can explore our guide on [CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
 
@@ -107,7 +107,7 @@ net start cryptsvc`
 
  What if none of the above solutions works for you? No worries, just install the update manually from the Microsoft Update Catalog.
 
-1. Open your browser to search for and visit the[Microsoft Update Catalog website](https://www.catalog.update.microsoft.com/Home.aspx) .
+1. Open your browser to search for and visit the [Microsoft Update Catalog website](https://www.catalog.update.microsoft.com/Home.aspx) .
 2. Copy the number of the cumulative update or any other update that failed to install from the**Windows Update history** page. Type the update number in the**Search bar** on the**Microsoft Update Catalog** page and hit the**Search** button.  
 ![Search For Update On Microsoft Update Catalog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-on-microsoft-update-catalog.jpg)
 3. The matching updates will show up on the results page. Check the update that applies to your Windows PC—whether it is for Windows 10 or 11, and whether it is for an ARM64-based system or an x64-based system.  
@@ -149,3 +149,40 @@ net start cryptsvc`
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-enhancing-classroom-learning-through-recorders/"><u>[Updated] 2024 Approved  Enhancing Classroom Learning Through Recorders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlocking-the-power-to-preserve-instagrams-live-features/"><u>[New] 2024 Approved  Unlocking the Power to Preserve Instagram's Live Features</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-interruptexceptionnothandled-in-w11-bsods/"><u>Resolving INTERRUPT_EXCEPTION_NOT_HANDLED in W11 BSODs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-melodies-compliance-and-policies/"><u>[New] Instagram Melodies  Compliance and Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-from-the-service-did-not-respond-windows-error-1053/"><u>How to Recover From The Service Did Not Respond Windows Error 1053</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-valheim-agriculture-seed-selection-insights-for-2024/"><u>[New] Mastering Valheim Agriculture  Seed Selection Insights for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a59-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo A59 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ntfs-enablingdisabling-file-compression/"><u>Mastering NTFS: Enabling/Disabling File Compression</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-samsung-galaxy-xcover-6-pro-tactical-edition-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy XCover 6 Pro Tactical Edition, is it possible?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bypass-windows-defender-antivirus-blockage/"><u>How to Bypass Windows Defender Antivirus Blockage</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-lost-connection-fixes-for-wifi-failures-in-win11/"><u>Reviving Your Lost Connection: Fixes for Wifi Failures in Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-preserving-past-a-guide-to-digitally-archiving-faded-prints/"><u>2024 Approved  Preserving Past  A Guide to Digitally Archiving Faded Prints</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-synapse-glitches-in-1011-windows-edition/"><u>Repairing Synapse Glitches in 10/11 Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-0xc000003e-application-startup-troubleshooting/"><u>Mastering 0xC000003E Application Startup Troubleshooting</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-guide-to-twitter-video-aspect-ratios/"><u>New In 2024, The Ultimate Guide to Twitter Video Aspect Ratios</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-windows-hello-fingerprint-recognition-issues/"><u>Quick Fixes to Windows Hello Fingerprint Recognition Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/showcasing-taskmanager-preeminent-style/"><u>Showcasing TaskManager Preeminent Style</u></a></li>
+<li><a href="https://win11.techidaily.com/how-are-c-and-d-drive-identities-unique/"><u>How Are C: And D: Drive Identities Unique?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-spotifys-ad-potential-a-complete-guide-for-2024/"><u>Unlocking Spotify's Ad Potential  A Complete Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-system-call-failed-error-on-windows-10-and-11/"><u>How to Fix the “System Call Failed” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-first-ar-chat-app/"><u>Unveiling the First AR Chat App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-facebook-video-grabber/"><u>[Updated] Top 5 Facebook Video Grabber</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-video-frame-changer/"><u>2024 Approved  Twitter Video Frame Changer</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-out-of-memory-alerts-in-fantasy-school-of-wizardry-game/"><u>Managing Out-of-Memory Alerts in Fantasy School of Wizardry Game</u></a></li>
+<li><a href="https://win11.techidaily.com/sound-sufferers-fix-your-fading-keyboard-tone/"><u>Sound Sufferers! Fix Your Fading Keyboard Tone</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-for-windows-11-widgets-a-comprehensive-list-of-enhancements/"><u>New Horizons for Windows 11 Widgets: A Comprehensive List of Enhancements</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-expert-tips-for-maximizing-your-experience-with-twistedwave-sound-editing-suite/"><u>Updated In 2024, Expert Tips for Maximizing Your Experience with TwistedWave Sound Editing Suite</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-link-sharing-twitter-writes-on-whatsapp/"><u>2024 Approved  Direct Link  Sharing Twitter' Writes on WhatsApp</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effectively-restart-your-windows-graphics-driver/"><u>How to Effectively Restart Your Windows Graphics Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-printer-severance-guide-for-windows-computers/"><u>Immediate Printer Severance Guide for Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/old-school-keys-new-horizon-initiate-windows-11-with-windows-7-key/"><u>Old-School Keys, New Horizon: Initiate Windows 11 with Windows 7 Key</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-management-app-collapses/"><u>Prevent Windows Management App Collapses</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-outlook-folder-unreadable-error-steps-for-personal-computers/"><u>Resolve 'Outlook Folder Unreadable' Error: Steps for Personal Computers</u></a></li>
+</ul></div>

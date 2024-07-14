@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Device Discovery: Razer and Windows 11 Compatibility"
-date: 2024-06-25T11:30:52.892Z
-updated: 2024-06-26T11:30:52.892Z
+date: 2024-07-13T10:15:49.566Z
+updated: 2024-07-14T10:15:49.566Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
  First, before you hop into the troubleshooting steps, note that Synapse will not detect non-Razer devices. There are even some Razer products Synapse 3.0 and 2.0 don’t support. It might be the case Synapse isn’t detecting your hardware because it doesn’t support it. So, double-check your Razer Synapse software supports the device it’s not detecting.
 
- You can check supported hardware at the[Razer Synapse 3 supported device page](https://mysupport.razer.com/app/answers/detail/a%5Fid/4130/~/razer-synapse-3-supported-devices) . Click a category on that page to see if your device is listed there. You can also check compatibility for version 2.0 at the[Razer Synapse 2.0](https://mysupport.razer.com/app/answers/detail/a%5Fid/4131/~/razer-synapse-2.0-supported-devices) supported device page. If your device is listed among the supported hardware on one of those pages, your Synapse software should detect it.
+ You can check supported hardware at the [Razer Synapse 3 supported device page](https://mysupport.razer.com/app/answers/detail/a%5Fid/4130/~/razer-synapse-3-supported-devices) . Click a category on that page to see if your device is listed there. You can also check compatibility for version 2.0 at the [Razer Synapse 2.0](https://mysupport.razer.com/app/answers/detail/a%5Fid/4131/~/razer-synapse-2.0-supported-devices) supported device page. If your device is listed among the supported hardware on one of those pages, your Synapse software should detect it.
 
 ## 1\. Run the Hardware and Devices Troubleshooter
 
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
  A lot of users have also said they’ve been able to fix Synapse not detecting devices by selecting a**Repair** option for that software. Synapse has a**Repair** option you can select on a Razer Gaming Software window. This is how you can select that option in Windows 11/10:
 
-1. Bring up the Windows uninstaller utility in the Control Panel with a method in our guide for[opening Programs and Features on Windows](https://www.makeuseof.com/windows-open-programs-and-features-tool/) .
+1. Bring up the Windows uninstaller utility in the Control Panel with a method in our guide for [opening Programs and Features on Windows](https://www.makeuseof.com/windows-open-programs-and-features-tool/) .
 2. Then select Razer Synapse in Programs and Features.
 3. Click the**Change** button for Razer Synapse.  
 ![The Change button for Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-button.jpg)
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
 
-1. Click**Download Now** on the[Razer Synapse](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022703&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3) page.
+1. Click**Download Now** on the [Razer Synapse](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022703&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3) page.
 2. Double-click the downloaded**RazerSynapseInstaller\_V1.12.0.385.exe** file to open the setup wizard.  
 ![The Razer software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-installer.jpg)
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
@@ -108,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
 ## 6\. Disable Antivirus Utilities
 
- Temporarily antivirus apps on your PC to ensure they aren’t blocking Synapse in any way. You can disable Windows Security’s real-time protection as outlined in our guide for[disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) . If there’s a third-party antivirus tool on your PC, turn off its shield via its system tray icon’s context menu.
+ Temporarily antivirus apps on your PC to ensure they aren’t blocking Synapse in any way. You can disable Windows Security’s real-time protection as outlined in our guide for [disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) . If there’s a third-party antivirus tool on your PC, turn off its shield via its system tray icon’s context menu.
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
- Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
+ Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the [exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
 ## Configure Your Razer Devices in Synapse Again on Windows
 
- Those potential solutions will most likely resolve Synapse not detecting connected devices. Then you can reconfigure your Razer mouse, keyboard, or any other supported hardware with that software. However, any users who still need more troubleshooting guidance for this issue can submit a ticket to Razer’s support service by clicking the**Contact Support** button on this[Synapse 3 page](https://mysupport.razer.com/app/answers/detail/a%5Fid/3783/~/razer-synapse-3-support) .
+ Those potential solutions will most likely resolve Synapse not detecting connected devices. Then you can reconfigure your Razer mouse, keyboard, or any other supported hardware with that software. However, any users who still need more troubleshooting guidance for this issue can submit a ticket to Razer’s support service by clicking the**Contact Support** button on this [Synapse 3 page](https://mysupport.razer.com/app/answers/detail/a%5Fid/3783/~/razer-synapse-3-support) .
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,3 +134,59 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/minimalist-pc-large-space-slight-lag/"><u>Minimalist PC - Large Space, Slight Lag</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/understanding-facebooks-policy-on-media-content-sharing-for-2024/"><u>Understanding Facebook's Policy on Media Content Sharing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-tracking-and-managing-network-data-using-netstat-in-win11/"><u>Master the Art of Tracking and Managing Network Data Using Netstat in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-at-tech-how-to-revitalize-your-pcs-apps/"><u>Ace at Tech: How to Revitalize Your PC's Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-search-tracing-programs-settlement-in-windows/"><u>Streamlining Your Search: Tracing Programs' Settlement in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-learning-visuals-in-win-11/"><u>Setting Up Learning Visuals in Win 11</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-deciphering-youtubes-cc-policy-for-video-makers-for-2024/"><u>[Updated] Deciphering YouTube's CC Policy for Video Makers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-profit-from-your-youtube-channels/"><u>[New] In 2024, How to Profit From Your YouTube Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highlighted-top-5-minimalist-action-camera-picks/"><u>Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-intrusive-edge-toolbar-items/"><u>Removing Intrusive Edge Toolbar Items</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-sony-xperia-10-v-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Sony Xperia 10 V to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-unlock-your-windows-pin/"><u>Efficient Methods to Unlock Your Windows PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-installation-hurdles-in-windows-1011/"><u>Understanding & Resolving Installation Hurdles in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-finding-fixes-for-systemsettingsexe-in-win11/"><u>Tips for Finding Fixes for SystemSettings.exe in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/biometric-breakthrough-turned-breach-windows-hellos-future/"><u>Biometric Breakthrough Turned Breach: Windows Hello's Future?</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-internal-audio-faults-in-audacity-wos-edition/"><u>Dissecting Internal Audio Faults in Audacity, WOS Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-1011-installer-errors/"><u>Navigating Through Windows 10/11 Installer Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-xpatch-fixes-for-error-0x80073712/"><u>Mastering Windows XPatch Fixes for Error 0X80073712</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-closed-captions-a-windows-10-experts-method/"><u>Troubleshoot Closed Captions: A Windows 10 Expert's Method</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-photo-corrections-stripping-backdrops/"><u>Expert Advice on Photo Corrections: Stripping Backdrops</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-zero-cost-maximum-creativity-9-free-online-movie-makers/"><u>2024 Approved Zero Cost, Maximum Creativity 9 Free Online Movie Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-chrome-download-errors-on-windows-systems/"><u>Fixing Chrome Download Errors on Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-a-narrative-structure-for-2024/"><u>Creating a Narrative Structure for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-strategy-batch-convert-heic-to-jpeg-in-windows-11/"><u>Proven Strategy: Batch Convert HEIC to JPEG in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-resolve-windows-high-dpi-screen-scaling/"><u>Strategies to Resolve Windows High DPI Screen Scaling</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streaming-showdown-obs-and-shadowtoolkit/"><u>[New] 2024 Approved  Streaming Showdown  OBS & ShadowToolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/familiarize-yourself-with-microsoft-family-safety/"><u>Familiarize Yourself With Microsoft Family Safety</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-a-course-for-change-windows-11-explore-evolution/"><u>Charting a Course for Change: Windows 11 Explore Evolution</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-missing-windows-storage-access/"><u>Regain Missing Windows Storage Access</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-android-apps-for-clear-screen-recordings/"><u>In 2024, Optimal Android Apps for Clear Screen Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-microsofts-zero-error-in-windows-11-shop/"><u>Rectifying Microsoft's Zero-Error in Windows 11 Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/gpu-strain-tested-the-most-effective-win-utilities-ranked/"><u>GPU Strain Tested: The Most Effective Win Utilities Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-0x80246007-from-windows-update-on-w10w11/"><u>Eliminating Error Code 0X80246007 From Windows Update on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-pairings-winning-webp-viewers-and-windows-devices/"><u>Top 4 Pairings: Winning WebP Viewers & Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-plugged-inspection-error-for-audio-hardware-on-winos/"><u>Fixing Plugged Inspection Error for Audio Hardware on WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-esd-and-its-transformation-into-iso-format-for-pcs/"><u>Understanding ESD and Its Transformation Into ISO Format for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-essential-elements-missing-windows-error/"><u>Overcoming 'Essential Elements Missing' Windows Error</u></a></li>
+<li><a href="https://win11.techidaily.com/traversing-through-system-failsafe-files-after-blue-screen/"><u>Traversing Through System Failsafe Files After Blue Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-deactivated-menu-items-on-windows/"><u>Steps to Reactivate Deactivated Menu Items on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-rdc-launches-windows-11-guide/"><u>Effortless RDC Launches - Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-and-solving-roblox-errors-tied-to-account-restrictions/"><u>Unveiling and Solving Roblox Errors Tied to Account Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/7-affordable-solutions-to-skyrocket-your-pcs-hard-drive-size/"><u>7 Affordable Solutions to Skyrocket Your PC's Hard Drive Size</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-check-your-public-ip-address-using-command-prompt-in-windows-1110/"><u>How to Check Your Public IP Address Using Command Prompt in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/booting-into-safety-6-ways-to-enter-windows-11s-safe-mode/"><u>Booting Into Safety: 6 Ways to Enter Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/tactical-steps-to-evade-windows-account-prompts/"><u>Tactical Steps to Evade Windows Account Prompts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/reviewing-multiple-cameras-are-there-upgrades/"><u>Reviewing Multiple Cameras  Are There Upgrades?</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-era-of-taskbars-proposing-key-improvements-to-microsofts-design/"><u>A New Era of Taskbars: Proposing Key Improvements to Microsoft's Design</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-try-connecting-error-on-windows-11-devices/"><u>Conquering Try Connecting Error on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-performance-and-functionality-with-alomwares-tools/"><u>Optimize Performance & Functionality with AlomWare's Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-brightest-tools-top-video-editors-for-adjusting-lighting/"><u>In 2024, The Brightest Tools Top Video Editors for Adjusting Lighting</u></a></li>
+</ul></div>

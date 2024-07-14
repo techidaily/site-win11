@@ -1,7 +1,7 @@
 ---
 title: Steps to Tweak Controlled Chrome/Edge Configurations for Work Computers
-date: 2024-06-25T11:31:32.676Z
-updated: 2024-06-26T11:31:32.676Z
+date: 2024-07-13T10:17:45.278Z
+updated: 2024-07-14T10:17:45.278Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 
  To determine the cause, turn off the Web Shielded feature. To do this, open**AVG antivirus Settings** and select**Basic protection** . Select the**Web Shield** tab, toggle the switch, and select**1 Hour** to temporarily turn off protection.
 
- Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
+ Next, launch Task Manager (see [how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/15566fd0d6cad9f26c793e08c16498fac2c5b4803
 
  A potentially unwanted application often modifies the Windows Registry to set policies for the browser. You can manually remove these policies from Registry Editor to remove the message.
 
- Note that modification to your Windows Registry involves risk. Make sure to[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and[back up your Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding with the below step.
+ Note that modification to your Windows Registry involves risk. Make sure to [create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and [back up your Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before proceeding with the below step.
 
 1. Press**Win + R** to open**Run** .
 2. Type**regedit** and click**OK** to open**Registry Editor** .
@@ -111,7 +111,7 @@ To reset Microsoft Edge:
 
 To remove adware using MalwareBytes:
 
-1. Go to the[Malwarebytes AdwCleaner page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023584/https://www.malwarebytes.com/adwcleaner) and download the cleaner.
+1. Go to the [Malwarebytes AdwCleaner page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023584/https://www.malwarebytes.com/adwcleaner) and download the cleaner.
 2. Run the app and click**Scan Now** . It will scan your computer for potentially unwanted programs and adware and populate the screen.
 3. Once the scan is complete, click**Next** to quarantine selected items.
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
@@ -154,3 +154,69 @@ To perform a Windows system reset:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-8-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 8? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-puzzle-of-inaccessible-secure-boot-in-windows-bios/"><u>Solving the Puzzle of Inaccessible Secure Boot in Windows BIOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-list-top-rated-mac-mp3-tagging-tools-revealed/"><u>New The Ultimate List Top-Rated Mac MP3 Tagging Tools Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screenflow-for-mac-review/"><u>[New] ScreenFlow for Mac Review</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-absent-bluetooth-listings-on-pc-device-manager/"><u>Fixing Absent Bluetooth Listings on PC Device Manager</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>In 2024, From Raw Footage to Polished Content  YouTube Studio Edition</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/meme-masterpiece-wave/"><u>Meme Masterpiece Wave</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-start-on-walls-top-3-techniques/"><u>Fresh Start on Walls: Top 3 Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-list-7-cost-free-video-tags-extractors-on-youtube/"><u>[New] 2024 Approved  Essential List  7 Cost-Free Video Tags Extractors on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-strategies-for-background-blur-perfection-using-windows-11-photos-app/"><u>In-Depth Strategies for Background Blur Perfection Using Windows 11 Photos App</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-discord-setup-mistakes-in-win-11/"><u>Guide to Correcting Discord Setup Mistakes in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-on-stopping-discords-autostart-and-updating-habits/"><u>Guide on Stopping Discord's Autostart & Updating Habits</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-blue-screen-wins-unhandled-exception/"><u>How to Address Blue Screen: Win's Unhandled Exception</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-file-write-error-in-windows-11-os/"><u>Resolving File Write Error in Windows 11 OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/master-meetings-the-ultimate-list-of-10-free-recorders/"><u>Master Meetings  The Ultimate List of 10 Free Recorders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-13t-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi 13T Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-update-issue-0xca00a009/"><u>Overcoming Windows Update Issue #0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/must-remember-tips-for-clean-installation-of-windows/"><u>Must-Remember Tips for Clean Installation of Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-spot-and-defeat-keygen-malware-in-your-windows-os-environment/"><u>How to Spot & Defeat Keygen Malware in Your Windows OS Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/neutralizing-windows-update-triggers/"><u>Neutralizing Windows Update Triggers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-zte-axon-40-lite-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from ZTE Axon 40 Lite FRP Bypass</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>[New] In 2024, Unlock Your Tech Potential  Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/pioneering-techniques-for-effective-qr-scanning-on-pcs/"><u>Pioneering Techniques for Effective QR Scanning on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-net-not-installed-app-warning/"><u>Solving Windows' .NET Not Installed App Warning</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-say-goodbye-to-wmm-10-free-alternatives-for-video-editing/"><u>2024 Approved Say Goodbye to WMM 10 Free Alternatives for Video Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instas-funniest-and-touchiest-memetic-hub-a-list-of-10/"><u>[New] In 2024, Insta's Funniest & Touchiest Memetic Hub  A List of 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-curbing-virtual-disk-service-malfunction/"><u>Strategies: Curbing Virtual Disk Service Malfunction</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-knowing-that-you-want-to-make-your-photos-look-the-best-we-have-accumulated-the-top-ten-free-tools-that-will-let-you-blur-a-photos-background-online/"><u>In 2024, Knowing that You Want to Make Your Photos Look the Best, We Have Accumulated the Top Ten Free Tools that Will Let You Blur a Photos Background Online Conveniently</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-inspecting-and-cleaning-windows-logs/"><u>Mastering the Art of Inspecting & Cleaning Windows Logs</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-linuxs-power-to-boost-android-on-windows/"><u>Leveraging Linux's Power to Boost Android on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-pc-transferring-preferences-from-one-to-another/"><u>Securing Your PC: Transferring Preferences From One to Another</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-simplified-methods-to-record-gotomeeting-chats-for-2024/"><u>[Updated] Simplified Methods to Record GoToMeeting Chats for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-smart-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Smart 8 Pro Phone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-best-photo-boosts-for-perfecting-your-feed-for-2024/"><u>[New] Best Photo Boosts for Perfecting Your Feed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram/"><u>In 2024, From Raw Footage to Social Stardom  The Art of Video Cropping on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-scheduler-issues-restore-smoothness/"><u>Tackle Windows Scheduler Issues, Restore Smoothness</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-the-mechanics-guaranteeing-a-glitch-free-gaming-experience/"><u>Mastery of the Mechanics: Guaranteeing a Glitch-Free Gaming Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[Updated] In 2024, Precision Screen Capturing  Top Tools Reviewed on PC/Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-single-board-compatible-with-windows/"><u>Exclusive Single-Board Compatible with Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-10-free-speech-to-text-apps-for-android-and-ios-for-2024/"><u>Updated Top 10 FREE Speech-to-Text Apps for Android & iOS, for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pixelpunch-custom-humor-images/"><u>[Updated] PixelPunch  Custom Humor Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-efficiently-removing-youtube-channels-a-device-centric-approach/"><u>[New] 2024 Approved  Efficiently Removing Youtube Channels  A Device-Centric Approach</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-kapwing-editor-how-to-shorten-videos-and-make-them-shine/"><u>New In 2024, Kapwing Editor How to Shorten Videos and Make Them Shine</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-mouse-indicator-for-personalized-windows-experience/"><u>Modify Mouse Indicator for Personalized Windows Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-upgrade-error-0xc004f050/"><u>How to Fix the Windows Upgrade Error 0Xc004f050</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-14-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 14 without Security Questions?</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolving-common-fall-guys-connectivity-issues-windows/"><u>Quick Guide to Resolving Common Fall Guys Connectivity Issues (Windows)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-cinematic-magic-free-slow-motion-video-editing-with-filmora/"><u>Updated Unlock Cinematic Magic Free Slow Motion Video Editing with Filmora</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-c51-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco C51 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-in-windows-11-here-are-top-8-blunders-to-evade/"><u>First Steps in Windows 11? Here Are Top 8 Blunders to Evade</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-started-the-windows-11-guide-to-altering-fax-cover-pages/"><u>Getting Started: The Windows 11 Guide to Altering Fax Cover Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-exploration-of-neglected-windows-11-capabilities/"><u>In-Depth Exploration of Neglected Windows 11 Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-conexant-hd-audio-compatibility-with-win10/"><u>[Resolved]: Conexant HD Audio Compatibility with Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-grant-write-access-for-steam-folders-in-win-11/"><u>Techniques to Grant Write Access for Steam Folders in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-workday-the-top-5-apps-to-skyrocket-windows-efficiency/"><u>Optimize Your Workday: The Top 5 Apps to Skyrocket Windows Efficiency</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-meme-makers-playbook-for-widespread-impact/"><u>In 2024, Meme Makers' Playbook for Widespread Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-display-driver-found-on-windows-11/"><u>Overcoming No Display Driver Found on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-tech-connection-winpc-galaxy-with-flow-app/"><u>Empowering Tech Connection - WinPC, Galaxy with Flow App</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-create-viral-tiktok-content-step-by-step-templates-guide-for-2024/"><u>[Updated] Create Viral TikTok Content  Step-by-Step Templates Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/sleight-of-keyboard-how-to-make-keys-unseen/"><u>Sleight of Keyboard: How to Make Keys Unseen</u></a></li>
+</ul></div>

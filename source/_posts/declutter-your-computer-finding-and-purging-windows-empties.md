@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your Computer: Finding & Purging Windows' Empties"
-date: 2024-06-25T11:40:18.088Z
-updated: 2024-06-26T11:40:18.088Z
+date: 2024-07-13T10:48:12.605Z
+updated: 2024-07-14T10:48:12.605Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
  By default, not all users can delete every empty folder on a device; some can only be accessed, edited, and deleted by administrators.
 
- Since we'll be deleting all empty folders hiding on your device, logging in with an administrator account is best to avoid encountering errors later. Need help? Check out our[g](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/#how-to-enable-or-disable-the-windows-administrator-account) uide that explains[the Windows administrator account](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) in detail, including how to enable (or disable) it.
+ Since we'll be deleting all empty folders hiding on your device, logging in with an administrator account is best to avoid encountering errors later. Need help? Check out our [g](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/#how-to-enable-or-disable-the-windows-administrator-account) uide that explains [the Windows administrator account](http://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) in detail, including how to enable (or disable) it.
 
  Secondly, the methods we'll cover can help delete empty folders quickly, but only those are visible to us, not hidden. Therefore, if you want to delete all empty folders without leaving any hidden ones behind, you should first unhide all hidden folders. Follow these steps to do so:
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 1. Copy the path to the folder or drive you intend to scan for empty subfolders.
 2. Type**"Windows PowerShell"** into Windows Search, right-click on the**Windows PowerShell** app, then click**Run as administrator** .  
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
- Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+ Find out [how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
  You can use any software that lets you find and delete empty folders, but we recommend 4dots' Empty Folder Cleaner for its ease of use. Let's take a look at how it aids in finding and deleting empty folders on Windows:
 
-1. Visit[4dots' official website](https://www.4dots-software.com/emptyfoldercleaner/#google%5Fvignette) to download Empty Folder Cleaner.
+1. Visit [4dots' official website](https://www.4dots-software.com/emptyfoldercleaner/#google%5Fvignette) to download Empty Folder Cleaner.
 2. Install the software on your device.
 3. Let Windows install any .NET Framework it prompts you to install.
 4. Once the application has been installed, run it.
@@ -111,3 +111,41 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/crafting-a-flawlessly-new-windows-experience-in-11th-gen/"><u>Crafting a Flawlessly New Windows Experience in 11Th Gen</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unsuccessful-image-saving-on-win11-pc/"><u>Addressing Unsuccessful Image Saving on Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-the-isdonedll-error-in-windows-11-and-11x/"><u>Dealing with the ISDone.dll Error in Windows 11 & 11X</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-solution-for-geforce-now-error-xc0f1103f-on-windows-11/"><u>Comprehensive Solution for GeForce Now Error: Xc0f1103f on Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-filtering-the-truth-in-your-insta-network/"><u>[New] 2024 Approved  Filtering the Truth in Your Insta Network</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-tackle-programming-problems-on-vistawindows-7/"><u>Efficient Methods to Tackle Programming Problems on Vista/Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-computer-storage-c-d-distinctions/"><u>Clarifying Computer Storage: C, D Distinctions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-search-of-perfection-the-top-10-live-streamers/"><u>[New] In Search of Perfection  The Top 10 Live Streamers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-end-of-an-era-microsofts-abandonment-of-windows-7-and-81/"><u>The End of an Era: Microsoft's Abandonment of Windows 7 and 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-step-by-step-guide-to-posting-on-instagram-for-2024/"><u>[Updated] A Step-by-Step Guide to Posting on Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-steam-disconnect-in-windows-os/"><u>Troubleshoot Steam Disconnect in Windows OS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-your-pcs-usb-troubleshooting-guide-for-windows-users/"><u>Unblock Your PC's USB: Troubleshooting Guide for Windows Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-anime-soundtracks-setting-the-mood-for-viral-shorts/"><u>In 2024, Anime Soundtracks  Setting the Mood for Viral Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bringing-back-tunes-to-twitters-video-posts/"><u>[New] In 2024, Bringing Back Tunes to Twitter's Video Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/beginning-the-speedy-support-function-of-w11/"><u>Beginning the Speedy Support Function of W11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-desktop-aesthetics-with-a-custom-weather-icon-in-windows-11/"><u>Elevate Desktop Aesthetics with a Custom Weather Icon in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>[New] 2024 Approved  Navigating URL Integration in IG Stories and Posts</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breaking-barriers-youtube-marketing-mastery/"><u>[Updated] In 2024, Breaking Barriers  YouTube Marketing Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-chaos-into-clarity-with-obsidian-visual-techniques/"><u>Transforming Chaos Into Clarity with Obsidian Visual Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-icon-recovery-step-by-step-guide/"><u>Windows 11 Icon Recovery: Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unveiling-personalization-updating-user-status-and-images-in-discord/"><u>[New] 2024 Approved  Unveiling Personalization  Updating User Status and Images in Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/the-simple-way-to-self-empty-the-recycle-bin-on-windows/"><u>The Simple Way to Self-Empty the Recycle Bin on Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-itel-p40plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Itel P40+.</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-a-quick-fix-to-skip-windows-login-dialogs/"><u>Craft a Quick Fix to Skip Windows Login Dialogs</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-inoperative-touchscreen-actions-in-windows/"><u>Addressing Inoperative Touchscreen Actions in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-checklist-for-top-tier-instagram-reels-for-2024/"><u>The Ultimate Checklist for Top-Tier Instagram Reels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-highest-praised-videos-celebrating-the-15-most-outstanding-unboxing-youtubers-2024/"><u>[New] Highest Praised Videos  Celebrating the 15 Most Outstanding Unboxing YouTubers, 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-retry-interval-for-unsuccessful-login-attempts/"><u>Adjusting Retry Interval for Unsuccessful Login Attempts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[New] 2024 Approved  Streamlined Screen Recording on Mac  Best Apps of Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-windows-11s-8-confusing-features/"><u>A Deep Dive Into Windows 11’S 8 Confusing Features</u></a></li>
+<li><a href="https://win11.techidaily.com/unclogging-a-stuck-windows-11-settings-bar-the-search-solution/"><u>Unclogging a Stuck Windows 11 Settings Bar - The Search Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/7-strategies-to-rectify-chromes-profile-problems-on-desktop/"><u>7 Strategies to Rectify Chrome's Profile Problems on Desktop</u></a></li>
+</ul></div>

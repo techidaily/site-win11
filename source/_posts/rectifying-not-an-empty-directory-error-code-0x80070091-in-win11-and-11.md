@@ -1,7 +1,7 @@
 ---
 title: Rectifying Not an Empty Directory Error Code 0X80070091 in Win11 & 11
-date: 2024-06-25T11:28:11.924Z
-updated: 2024-06-26T11:28:11.924Z
+date: 2024-07-13T10:06:06.895Z
+updated: 2024-07-14T10:06:06.895Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
 
- Run Command Prompt with elevated (administrative) rights. Our guide about[running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
+ Run Command Prompt with elevated (administrative) rights. Our guide about [running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
 
 `rmdir /s "folder path"`
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ## 3\. Scan System Files With an SFC Scan
 
- Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
+ Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
@@ -112,3 +112,40 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-editing.techidaily.com/updated-back-up-and-organize-your-files-to-protect-any-misfortune-befalling-them-the-article-will-guide-you-on-how-to-back-up-and-manage-your-footage-for-20/"><u>Updated Back up and Organize Your Files to Protect Any Misfortune Befalling Them. The Article Will Guide You on How to Back up and Manage Your Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-digital-life-with-exclusive-ms-choice/"><u>Elevate Your Digital Life with Exclusive MS Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-trouble-with-updates-code-0x80246007/"><u>Tackling the Trouble with Update's Code 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-0x0000004e-on-windows-11-systems/"><u>Conquering Error 0X0000004E on Windows 11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-k11-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo K11 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-raw-to-ready-adding-elegant-fades-in-premiere-for-2024/"><u>[New] From Raw to Ready  Adding Elegant Fades in Premiere for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-visual-experience-with-greater-vram/"><u>Enhancing Your Visual Experience with Greater VRAM</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-eliminate-your-instagram-existence-a-comprehensive-walkthrough/"><u>[New] How to Eliminate Your Instagram Existence  A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-understanding-and-turning-off-system-lockdown/"><u>Windows 11: Understanding & Turning Off System Lockdown</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-oculus-quest-2-for-windows-vr-use/"><u>Modifying Oculus Quest 2 for Windows VR Use</u></a></li>
+<li><a href="https://win11.techidaily.com/debating-choco-and-wslm-top-pick-for-windows-software/"><u>Debating Choco and WSLM: Top Pick for Windows Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-theta-s-deep-dive-an-extensive-review/"><u>[New] Theta S Deep Dive  An Extensive Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-4-fastest-lenovo-record-methods/"><u>[New] 2024 Approved  The 4 Fastest Lenovo Record Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/create-engaging-audio-waveform-videos-with-these-web-apps-for-2024/"><u>Create Engaging Audio Waveform Videos with These Web Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-windows-configuration-pathways/"><u>Decoding the Windows Configuration Pathways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-influencers-roadmap-instagram-edition-for-2024/"><u>[New] The Influencer's Roadmap  Instagram Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-high-cpu-usage-by-wmi-service/"><u>Addressing High Cpu Usage by WMI Service</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-absence-of-monitor-on-startup/"><u>Remedy for Absence of Monitor on Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-sluggish-outlook-on-your-computer/"><u>Sidestep Sluggish Outlook on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-saving-hurdles-with-steps-to-fix-pubg/"><u>Overcoming Saving Hurdles with Steps to Fix PUBG</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-display-adjustment-overcoming-overscan/"><u>Mastering Windows Display Adjustment: Overcoming Overscan</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-only-guide-youll-need-to-learn-about-wav-converter/"><u>Updated In 2024, The Only Guide Youll Need to Learn About Wav Converter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-youtube-promotion-costs/"><u>[New] Breaking Down Youtube Promotion Costs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-onedrive-files-offline-on-a-windows-pc/"><u>How to Access OneDrive Files Offline on a Windows PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-turn-your-video-content-into-revenue-the-vimeo-monetization-way/"><u>[New] 2024 Approved  Turn Your Video Content Into Revenue  The Vimeo Monetization Way</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-photo-overlays-for-windows-11/"><u>Adjusting Photo Overlays for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-unique-characteristics-of-ai-computers/"><u>Delving Into Unique Characteristics of AI Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-0x800713f-error-on-the-windows-mail-service/"><u>How to Repair 0X800713f Error on the Windows Mail Service</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-hiding-or-revealing-windows-protection-sectors/"><u>Stealth Mode: Hiding or Revealing Windows Protection Sectors</u></a></li>
+<li><a href="https://win11.techidaily.com/winerror-solved-addressing-ms-store-0x80072f17/"><u>WinError Solved: Addressing MS Store 0X80072f17</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-live-recording-gadgets-for-youtube-content-creators/"><u>2024 Approved  Best Live Recording Gadgets for YouTube Content Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-x887a0006-dxgi-error-in-windows-11/"><u>Quick Fixes for X887A0006: DXGI Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-folder-navigation-in-win-11-movecopy-command-addition/"><u>Optimizing Folder Navigation in Win 11 - Move/Copy Command Addition</u></a></li>
+</ul></div>

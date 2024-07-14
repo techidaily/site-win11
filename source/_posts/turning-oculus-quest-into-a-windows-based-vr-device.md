@@ -1,7 +1,7 @@
 ---
 title: Turning Oculus Quest Into a Windows-Based VR Device
-date: 2024-06-25T11:37:39.583Z
-updated: 2024-06-26T11:37:39.583Z
+date: 2024-07-13T10:39:59.150Z
+updated: 2024-07-14T10:39:59.150Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 
  However, not all PCs are compatible with the Oculus Quest 2 headset. You’ll need a VR-ready PC to utilize Oculus Link. Most VR-ready PCs are advertised as such, and some have stickers stuck on them to highlight their VR readiness.
 
- If you’re not sure about your computer’s VR compatibility, have a look at your PC’s page on its manufacturer’s website for further details. This[Meta Quest Link compatibility](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/meta-quest-link-compatibility/) webpage also includes minimum PC system requirement info.
+ If you’re not sure about your computer’s VR compatibility, have a look at your PC’s page on its manufacturer’s website for further details. This [Meta Quest Link compatibility](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/meta-quest-link-compatibility/) webpage also includes minimum PC system requirement info.
 
  You’ll also need a long link cable for connecting the Oculus Quest 2 to your desktop or laptop. There is an alternative wireless Air Link option, but here we’re looking at how to connect headsets with a cable.
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 
  The only other thing you’ll need aside from the VR-ready PC and Oculus Link cable is the Oculus Desktop software for Windows. Oculus Desktop is freely available software with which you can connect Oculus headsets and manage your PC VR apps in Windows 11/10\. It’s big software that consumes about 9.26 gigabytes of drive space. You can download and install the Oculus app as follows:
 
-1. Open the[Meta Quest 2](https://www.meta.com/gb/quest/setup/?utm%5Fsource=www.meta.com&utm%5Fmedium=dollyredirect) page in a browser.
+1. Open the [Meta Quest 2](https://www.meta.com/gb/quest/setup/?utm%5Fsource=www.meta.com&utm%5Fmedium=dollyredirect) page in a browser.
 2. Click the**Download Software** option for the Oculus Quest 2.  
 ![The Download Software option for Oculus Windows app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-software-option.jpg)
 3. Double-click the**OculusSetup** file once it's downloaded.
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 3. Click the**Test** button to check the connection and select**Continue** . Note that a USB 3.0 connection is recommended because of its faster data transfer rate.
 4. Select**Close** at the setup complete message.
 5. Now your Oculus Quest 2 will be connected to the PC. Put on the headset and input the unlock pattern as per usual to enter the home environment.
-6. Select the**Allow** option to allow your PC to access the data on the Oculus Quest 2\. Then you can[transfer files from the Oculus Quest 2 to your PC](https://www.makeuseof.com/transfer-files-oculus-quest-2-windows/) .  
+6. Select the**Allow** option to allow your PC to access the data on the Oculus Quest 2\. Then you can [transfer files from the Oculus Quest 2 to your PC](https://www.makeuseof.com/transfer-files-oculus-quest-2-windows/) .  
 ![The Allow option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-connected-device-to-access-files.jpg)
 7. The second prompt asks you to enable Oculus Quest Link. Select the**Enable** option.  
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
@@ -142,3 +142,64 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/win-11-set-default-touch-input-placement/"><u>Win 11: Set Default Touch Input Placement</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-new-folders-into-windows-11s-menu/"><u>Integrating New Folders Into Windows 11'S Menu</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-7-emojis-to-rule-your-tiktok-experience/"><u>[New] In 2024, Top 7 Emojis to Rule Your TikTok Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mail-service-halt-fixing-0x800713f-in-win11/"><u>Overcoming Mail Service Halt: Fixing 0X800713F in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screenflow-demystified-essential-tools-for-your-mac-creation/"><u>In 2024, ScreenFlow Demystified  Essential Tools for Your Mac Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-windows-steam-speed-eliminating-zero-downloads/"><u>Elevate Windows Steam Speed: Eliminating Zero-Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-path-to-flawless-film-recording-device-agnostic-guide-for-2024/"><u>[New] The Path to Flawless Film Recording  Device Agnostic Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-importance-in-preserving-win-11-notifications/"><u>Unveiling the Importance in Preserving Win 11 Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-group-policy-intricacies-through-gpresult/"><u>Deciphering Group Policy Intricacies Through GPResult</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mend-the-win-network-access-issue/"><u>How to Mend the WIN Network Access Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-missing-driver-issues/"><u>Overcoming Windows Error: Missing Driver Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/a-walkthrough-for-transferring-old-games-to-windows-gallery/"><u>A Walkthrough for Transferring Old Games to Windows Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/confirming-windows-11s-integrity-quick-checks/"><u>Confirming Windows 11'S Integrity: Quick Checks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-charting-updates-youtube-money-standards/"><u>[New] In 2024, Charting Updates  YouTube Money Standards</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-embrace-the-future-of-tv-engage-with-fb-live-via-roku/"><u>[New] Embrace the Future of TV  Engage with FB Live via Roku</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-gpos-ensuring-compliance-on-modern-windows/"><u>Revitalizing GPOs: Ensuring Compliance on Modern Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-step-by-step-voice-memo-creation-on-ios-devices/"><u>[Updated] In 2024, Step-by-Step Voice Memo Creation on iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-10-and-11s-0x0000011b-faults/"><u>Addressing Windows 10 & 11'S 0X0000011B Faults</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-innovative-gb-recorder-for-games-on-fbx/"><u>[Updated] In 2024, Innovative GB Recorder for Games on FBX</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-unresponsive-voice-commands/"><u>Troubleshooting Windows 11: Unresponsive Voice Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-pcs-powertoys-10-essential-tips/"><u>Mastering Windows PCs: PowerToys' 10 Essential Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/yourdevice-link-assessing-risks-and-benefits-in-w10-systems/"><u>YourDevice Link - Assessing Risks and Benefits in W10 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s24-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S24 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-windows-pin-entry/"><u>Troubleshooting Non-Responsive Windows PIN Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-backing-up-and-restoring-notebooks/"><u>A Practical Approach: Backing Up & Restoring Notebooks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-se-2022-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone SE (2022) has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-energy-visibility-personalized-notifications-for-fully-charged-batteries-on-win11/"><u>Enhanced Energy Visibility: Personalized Notifications for Fully Charged Batteries on Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes/"><u>[New] 2024 Approved  Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-issue-code-0x80071a90/"><u>Decoding Windows Issue: Code 0X80071a90</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-video-visibility-on-youtube-with-seo-insights/"><u>In 2024, Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveil-secretive-watch-video-icon/"><u>[New] 2024 Approved  Unveil Secretive Watch Video Icon</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-free-top-8-apps-to-get-likes-on-facebook-android-and-iphone/"><u>2024 Approved  FREE Top 8 Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-vanishing-steam-game-images/"><u>How to Revive Vanishing Steam Game Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-obs-or-wirecast-your-ultimate-guide-to-broadcast-software/"><u>[New] OBS or Wirecast? Your Ultimate Guide to Broadcast Software</u></a></li>
+<li><a href="https://win11.techidaily.com/scrutinizing-password-ingress-windows-pass-and-no-pass-outcomes/"><u>Scrutinizing Password Ingress: Windows Pass & No-Pass Outcomes</u></a></li>
+<li><a href="https://win11.techidaily.com/nullify-non-compliance-notifications-in-win11/"><u>Nullify Non-Compliance Notifications in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-paste-issues-across-popular-browsers/"><u>How to Rectify Paste Issues Across Popular Browsers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfecting-video-quality-from-yt-shorts-to-mp4-format/"><u>2024 Approved  Perfecting Video Quality  From YT Shorts to MP4 Format</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-game-streams-with-ai-enhanced-portraits-for-2024/"><u>[New] Mastering Game Streams with AI-Enhanced Portraits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-software-instability-in-windows-store-purchases/"><u>Addressing Software Instability in Windows Store Purchases</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-restore-your-usb-wi-fi-on-a-pc/"><u>7 Key Steps to Restore Your USB Wi-Fi On a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-microsoft-ai-hub-features/"><u>Exploring Microsoft AI Hub Features</u></a></li>
+<li><a href="https://win11.techidaily.com/offline-process-for-extra-users-in-windows-11/"><u>Offline Process for Extra Users in Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-the-best-price-official-guide-to-filmora-discount-codes-for-2024/"><u>Updated Get the Best Price Official Guide to Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-access-issues-with-these-top-5-windows-fixes-on-security-keys/"><u>Unlock Access Issues with These Top 5 Windows Fixes on Security Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-black-screen-during-games-on-win/"><u>Resolving Black Screen During Games on WIN</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-bt-folder-functionality/"><u>Understanding Windows ~BT Folder Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expertise-in-iphones-macro-photography-secrets-revealed-for-2024/"><u>Expertise in iPhone's Macro Photography Secrets Revealed for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-replace-windows-movie-maker-on-your-mac-with-these-top-5-apps/"><u>Updated 2024 Approved Replace Windows Movie Maker on Your Mac with These Top 5 Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-unveiled-a-deep-dive-into-w11s-core/"><u>DevHome Unveiled: A Deep Dive Into W11's Core</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-new-windows-11-taskbar-features/"><u>Mastering the New Windows 11 Taskbar Features</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/want-to-make-professional-looking-videos-keep-reading-to-give-your-videos-a-cinematic-feel-with-the-audio-mixer-of-filmora/"><u>Want to Make Professional-Looking Videos? Keep Reading to Give Your Videos a Cinematic Feel with the Audio Mixer of Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-bluetooth-attempt-error-in-windows/"><u>Mastering the Fix: Bluetooth Attempt Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/awakening-the-veiled-query-power-in-windows-11/"><u>Awakening the Veiled Query Power in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pro-tips-configuring-stopwatches-in-obs-studio-for-2024/"><u>Pro Tips  Configuring Stopwatches in OBS Studio for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Setting Specific Windows Lockdown Period
-date: 2024-06-25T11:36:02.063Z
-updated: 2024-06-26T11:36:02.063Z
+date: 2024-07-13T10:34:26.793Z
+updated: 2024-07-14T10:34:26.793Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
  Now let's go ahead and explore how to lock your PC automatically via the Registry Editor.
 
-1. Type**Registry Editor** in**Windows Search** and select**Registry Editor** under**Best match** . Or use one of the many[ways to open the Registry Editor in Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+1. Type**Registry Editor** in**Windows Search** and select**Registry Editor** under**Best match** . Or use one of the many [ways to open the Registry Editor in Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) .
 2. Click on**Yes** on the UAC prompt.
 3. In the left pane, use the following path to reach the**System** registry key: **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System**  
 ![Navigate to System Key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/navigate-to-system-key-in-registry-editor.jpg)
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 7. Now double-click on**InactivityTimeoutSecs** DWORD, and enter the time after which you want your PC to get locked.
 8. Finally, close the Registry Editor and restart your PC to apply the changes.
 
- Now your PC will get locked if you're not using it or are away from it after the time you have set in the Registry Editor. If you're on a Windows 11 machine, you can also[explore a few other ways to lock your PC](https://www.makeuseof.com/windows-11-ways-to-lock/) .
+ Now your PC will get locked if you're not using it or are away from it after the time you have set in the Registry Editor. If you're on a Windows 11 machine, you can also [explore a few other ways to lock your PC](https://www.makeuseof.com/windows-11-ways-to-lock/) .
 
  To stop your PC from getting locked automatically, modify the**InactivityTimeoutSecs** DWORD value in the Registry Editor by changing the time to**0** seconds.
 
@@ -97,3 +97,43 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-change-sky-background-with-adobe-photoshop-best-ways/"><u>Updated In 2024, How To Change Sky Background With Adobe Photoshop Best Ways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-macpc-screenshot-toolkit-for-desktops/"><u>[Updated] 2024 Approved  Best MacPC Screenshot Toolkit for Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/the-10-best-apps-to-replace-windows-11s-default-apps/"><u>The 10 Best Apps to Replace Windows 11'S Default Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/quashing-the-spontaneous-search-on-win11-pc/"><u>Quashing the Spontaneous Search on Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-fixes-conquering-the-fatal-javascript-glitch-in-discord-win-11/"><u>Step-by-Step Fixes: Conquering the Fatal Javascript Glitch in Discord Win 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 15</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-asuss-proart-pa-329q-a-full-review-of-a-top-tier-workstation-monitor/"><u>[Updated] Inside Asus’s ProArt PA 329Q  A Full Review of a Top-Tier Workstation Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/to-keep-or-not-to-delete-the-case-of-pagefilesys/"><u>To Keep or Not to Delete: The Case of Pagefile.sys</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-using-lesser-known-windows-11-assets-efficiently/"><u>Pro-Tips for Using Lesser Known Windows 11 Assets Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-solve-package-problems-in-windows-oses/"><u>Strategies to Solve Package Problems in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-methods-how-to-determine-hard-drivessd-status-in-windows-system/"><u>Swift Methods: How to Determine Hard Drive/SSD Status in Windows System</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-video-transitions-in-videos-for-2024/"><u>Updated How to Add Video Transitions in Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-fix-to-unknown-not-initialized-in-windows/"><u>Step-by-Step Fix to 'Unknown Not Initialized' In Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/protocols-to-enter-windows-administrative-hub/"><u>Protocols to Enter Windows' Administrative Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-driver-not-running-error-in-windows-11/"><u>Solutions for Driver Not Running Error in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-tactical-edition-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Tactical Edition Phone without PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-services-command-line-tool-with-these-7-steps/"><u>Restoring Window's Services Command Line Tool with These 7 Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-gaming-excellence-recorded-best-pcmac-software-compiled/"><u>[New] Gaming Excellence Recorded  Best Pc/Mac Software Compiled</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-mail-issues-with-html-enhanced-emails/"><u>Troubleshooting Windows 11 Mail Issues with HTML-Enhanced Emails</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-closed-nvidia-cp-window-in-w11-os/"><u>Overcoming Closed Nvidia CP Window in W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-5ghz-wireless-hurdles/"><u>Overcoming Windows 11 5GHz Wireless Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-exception-breaking-point-achieved-in-windows/"><u>Troubleshooting Error: Exception Breaking Point Achieved in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-conflict-between-apps-and-computers-default-audio/"><u>Remedying the Conflict Between Apps and Computer's Default Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-pc-with-apples-imessage/"><u>Setting Up Your PC with Apple's iMessage</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-guide-reactivate-disabled-slack-notifications/"><u>Win 11 Guide: Reactivate Disabled Slack Notifications</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-authentic-growth-proven-youtube-view-strategies/"><u>Navigating Authentic Growth  Proven YouTube View Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/why-gamers-should-trust-windows-vision-and-performance/"><u>Why Gamers Should Trust Windows' Vision and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-not-writable-file-problems-in-windows-11/"><u>Solutions for Not Writable File Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prolong-shutdown-in-windows-10-amidst-active-processes/"><u>Techniques to Prolong Shutdown in Windows 10 Amidst Active Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-experience-clearing-and-rebuilding-icons/"><u>Streamlining Your Experience: Clearing and Rebuilding Icons</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-viewing-experience-enable-av1-on-youtube/"><u>In 2024, Elevate Viewing Experience – Enable AV1 on YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ways-to-make-sure-your-recording-slideshow-in-powerpoint-is-not-wrong-for-2024/"><u>Ways to Make Sure Your Recording Slideshow in Powerpoint Is Not Wrong for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerated-guide-to-polish-study/"><u>Accelerated Guide to Polish Study</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-missing-thermal-policy-in-windows-environment/"><u>Restoring Missing Thermal Policy in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-choices-activating-filters-on-windows-11-files/"><u>Streamline Choices: Activating Filters on Windows 11 Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Eliminating Windows Hello Login Fingerprint Failure
-date: 2024-06-25T11:25:51.192Z
-updated: 2024-06-26T11:25:51.192Z
+date: 2024-07-13T09:57:15.265Z
+updated: 2024-07-14T09:57:15.265Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ## 3\. Roll Back the Driver or the Latest Windows Update
 
- Have you encountered the error under discussion after updating the biometric driver or installing a Windows update recently? If this is the case, you should roll back these updates. Don't know how to do that? Our guide on[how to roll back a driver update on Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) describes the process. If you want to roll back a Windows update, then you need to[uninstall the most recent Windows Update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
+ Have you encountered the error under discussion after updating the biometric driver or installing a Windows update recently? If this is the case, you should roll back these updates. Don't know how to do that? Our guide on [how to roll back a driver update on Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) describes the process. If you want to roll back a Windows update, then you need to [uninstall the most recent Windows Update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
 
  Once you've undone both driver and Windows updates, try setting up Windows Hello biometric login again. If you continue to experience the same problem after rolling back these updates, it suggests that undoing these updates hasn't made a difference. In that case, you should reinstall the drivers and Windows update.
 
@@ -74,9 +74,9 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ## 6\. Disable Fast Startup
 
- According to some users on a[Microsoft community thread](https://answers.microsoft.com/en-us/windows/forum/all/fingerprint-reader-not-working/95cc0aef-2822-4b51-9f77-8697e6ace897) , disabling the Fast Startup feature has solved fingerprint recognition issues on their devices. Although Fast Startup speeds up your device's boot process, turning it on is known to cause unforeseen problems.
+ According to some users on a [Microsoft community thread](https://answers.microsoft.com/en-us/windows/forum/all/fingerprint-reader-not-working/95cc0aef-2822-4b51-9f77-8697e6ace897) , disabling the Fast Startup feature has solved fingerprint recognition issues on their devices. Although Fast Startup speeds up your device's boot process, turning it on is known to cause unforeseen problems.
 
- So, if you also keep this feature enabled on your device, disable it to see if it makes a difference. Don't know how to do that? Refer to our guide on[enabling or disabling Fast Startup on Windows 11](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) .
+ So, if you also keep this feature enabled on your device, disable it to see if it makes a difference. Don't know how to do that? Refer to our guide on [enabling or disabling Fast Startup on Windows 11](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) .
 
 ## 7\. Ensure the Biometric Reader Isn't Disabled in BIOS
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ## 8\. When Nothing Else Works…
 
- If nothing else works, run the Hardware and Devices troubleshooter, enable biometrics in the Local Group Policy Editor, and check for account-specific issues. If these steps fail to resolve the issue, perform a system restore as a last resort. Our guide on[fixing Windows Hello fingerprint recognition](https://www.makeuseof.com/windows-hello-fingerprint-not-working/) explains how to make the above-mentioned changes.
+ If nothing else works, run the Hardware and Devices troubleshooter, enable biometrics in the Local Group Policy Editor, and check for account-specific issues. If these steps fail to resolve the issue, perform a system restore as a last resort. Our guide on [fixing Windows Hello fingerprint recognition](https://www.makeuseof.com/windows-hello-fingerprint-not-working/) explains how to make the above-mentioned changes.
 
 ## Get Rid of Annoying Fingerprint Recognition Errors
 
@@ -111,3 +111,41 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/how-to-fix-stuttering-in-warhammer-40000-boltgun-on-windows/"><u>How to Fix Stuttering in Warhammer 40,000: Boltgun on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-compression-command-prompt-and-powershell-techniques/"><u>Mastering File Compression: Command Prompt & PowerShell Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-color-management-not-working-on-windows/"><u>How to Fix Color Management Not Working on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-shiver-in-windows-11/"><u>Stop Screen Shiver in Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-make-every-moment-epic-add-slow-motion-effects-to-your-videos-for-free/"><u>Updated In 2024, Make Every Moment Epic Add Slow Motion Effects to Your Videos for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-accelerated-learning-path-with-final-cut-pro/"><u>In 2024, Accelerated Learning Path with Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-linux-capabilities-on-windows-10/"><u>How to Unlock Linux Capabilities on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-qt-engine-initialization-problem-in-software/"><u>Rectifying Qt Engine Initialization Problem in Software</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-security-add-safe-websites-now/"><u>Optimize Windows Security: Add Safe Websites Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-creativity-top-10-yt-reaction-hacks/"><u>2024 Approved  Mastering Creativity  Top 10 YT Reaction Hacks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-play-40c-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor Play 40C</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-0x0000004e-on-windows-xp7/"><u>Decoding and Fixing 0X0000004E on Windows XP/7</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-configuring-multimonitors-in-win11/"><u>Maximize Productivity: Configuring Multimonitors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-offline-setup-path-of-win11/"><u>Navigating the Offline Setup Path of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-ordering-clumped-taskbar-icons/"><u>Guidelines for Ordering Clumped Taskbar Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unauthorized-save-errors-in-windows/"><u>Overcoming Unauthorized Save Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-windows-11-wait-longer-when-shutting-down-if-you-have-running-tasks/"><u>How to Make Windows 11 Wait Longer When Shutting Down if You Have Running Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-visual-delight-windows-wallpapers-guidebook/"><u>Fine-Tuning Visual Delight: Windows Wallpapers Guidebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-sony-vegas-not-your-cup-of-tea-discover-top-alternatives-for-windows/"><u>New In 2024, Sony Vegas Not Your Cup of Tea? Discover Top Alternatives for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-gpu-settings-on-windows-11-pcs/"><u>Revitalize GPU Settings on Windows 11 PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-12-proplus-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-temporarily-turn-off-your-pcs-firewall/"><u>How to Temporarily Turn Off Your PC's Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-iis-manager-top-8-approaches/"><u>Breaking Into IIS Manager: Top 8 Approaches</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-defender-written-by-michael-cramer/"><u>Navigating Windows Defender' Written by Michael Cramer</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-unraveling-the-sixest-methods-for-copying-file-and-folders-locations/"><u>Mastering Windows 11: Unraveling the Sixest Methods for Copying File & Folders' Locations</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-guide-to-troubleshoot-function-keys-in-win-11/"><u>Fix: Guide to Troubleshoot Function Keys in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-tackling-winos-isdonedll-errors/"><u>Comprehensive Guide to Tackling WinOS ISDone.dll Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-access-tackling-onedrive-logins-in-windows/"><u>Reviving Access: Tackling OneDrive Logins in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-steam-cloud-error-in-windows/"><u>How to Fix the Steam Cloud Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/innovation-at-your-fingertips-windows-erase-feature/"><u>Innovation at Your Fingertips: Window's Erase Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/nix-the-need-for-speedy-pointers-on-windows-11/"><u>Nix the Need for Speedy Pointers on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-avi-to-mkv-streaming-any-video-format-to-google-chromecast/"><u>Updated In 2024, From AVI to MKV Streaming Any Video Format to Google Chromecast</u></a></li>
+</ul></div>

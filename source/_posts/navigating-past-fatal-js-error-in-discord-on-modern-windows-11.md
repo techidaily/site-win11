@@ -1,7 +1,7 @@
 ---
 title: Navigating Past Fatal JS Error in Discord on Modern Windows 11
-date: 2024-06-25T11:44:31.852Z
-updated: 2024-06-26T11:44:31.852Z
+date: 2024-07-13T11:04:10.702Z
+updated: 2024-07-14T11:04:10.702Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 
 ## 1\. Run Discord With Admin Rights
 
- Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for[running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
+ Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for [running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
 
-1. Open this[Discord Enhancement Project](https://betterdiscord.app/) page.
+1. Open this [Discord Enhancement Project](https://betterdiscord.app/) page.
 2. Click the**Download v1.5.3** button.
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to go to the directory your browser downloads files to.
 4. Double-click the**BetterDiscord-Windows.exe** file.
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
 
-1. Check out our guide for[how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
+1. Check out our guide for [how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
 2. Click the menu button on the right side of the Discord app listed in Apps & Features to select**Uninstall** .
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 5. Reboot your Windows PC before reinstalling the Discord software.
-6. Open up the[download page for Discord](https://discord.com/download) .
+6. Open up the [download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
 
 ## Start Chatting in Discord Again on Windows
 
- So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the[submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
+ So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the [submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,3 +131,37 @@ thumbnail: https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-visualedge-hdsr-app/"><u>In 2024, VisualEdge HDSR App</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-visual-experience-with-greater-vram/"><u>Enhancing Your Visual Experience with Greater VRAM</u></a></li>
+<li><a href="https://win11.techidaily.com/from-basic-to-winning-converting-batch-to-executable/"><u>From Basic to Winning: Converting Batch to Executable</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-hiding-or-revealing-windows-protection-sectors/"><u>Stealth Mode: Hiding or Revealing Windows Protection Sectors</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-how-to-enhance-your-workflow-via-menus/"><u>The Blueprint: How to Enhance Your Workflow via Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/window-terminal-design-your-own-palette/"><u>Window Terminal: Design Your Own Palette</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-absence-of-monitor-on-startup/"><u>Remedy for Absence of Monitor on Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-digital-life-with-exclusive-ms-choice/"><u>Elevate Your Digital Life with Exclusive MS Choice</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 7 Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>2024 Approved  Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-handsonguide-to-yourwebcamrecord/"><u>2024 Approved  HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-oculus-quest-2-for-windows-vr-use/"><u>Modifying Oculus Quest 2 for Windows VR Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comparative-review-finding-your-teams-preferred-chat-application-slack-or-discord-in-2024/"><u>Comparative Review  Finding Your Team's Preferred Chat Application - Slack or Discord, In 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-dissecting-the-power-and-usability-of-adobes-audio-editor-adobe-audition/"><u>In 2024, Dissecting the Power and Usability of Adobes Audio Editor (Adobe Audition)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-display-adjustment-overcoming-overscan/"><u>Mastering Windows Display Adjustment: Overcoming Overscan</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-trouble-with-updates-code-0x80246007/"><u>Tackling the Trouble with Update's Code 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/decode-widows-code-to-unfreeze-handbrake/"><u>Decode Widows' Code to Unfreeze HandBrake</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-compression-via-cli/"><u>The Essential Guide to File Compression via CLI</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-assembling-a-taskbar-on-windows-11-slate/"><u>The Ultimate Guide to Assembling a Taskbar on Windows 11 Slate</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-disconnected-google-drive-windows-filesystem/"><u>Mending Disconnected Google Drive Windows Filesystem</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-guide-to-zoom-video-in-vlc/"><u>Updated 2024 Approved Easy Guide to Zoom Video in VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-photo-overlays-for-windows-11/"><u>Adjusting Photo Overlays for Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-adjust-twitter-video-compact-summary/"><u>[New] In 2024, Adjust Twitter Video Compact Summary</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[New] In 2024, Premier iOS Gaming Experience  Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-digital-picture-perfect-with-audio-touches/"><u>In 2024, Digital Picture Perfect with Audio Touches</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-sluggish-outlook-on-your-computer/"><u>Sidestep Sluggish Outlook on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-windows-configuration-pathways/"><u>Decoding the Windows Configuration Pathways</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-decrease-extras-in-win-11-context-list/"><u>How to Decrease Extras in Win 11 Context List</u></a></li>
+<li><a href="https://win11.techidaily.com/winerror-solved-addressing-ms-store-0x80072f17/"><u>WinError Solved: Addressing MS Store 0X80072f17</u></a></li>
+</ul></div>

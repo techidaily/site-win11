@@ -1,7 +1,7 @@
 ---
 title: "Windows: Mastering App & Browser Oversight"
-date: 2024-06-25T11:45:25.378Z
-updated: 2024-06-26T11:45:25.378Z
+date: 2024-07-13T11:06:55.459Z
+updated: 2024-07-14T11:06:55.459Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
  It uses what Microsoft knows about the various websites and apps it learns based on the internet information and then decides whether it would be safe to access that service.
 
- We have covered a variety of[ways you can enable or disable Windows SmartScreen](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) before, which includes reputation-based protection. As we're focusing on just one area, we will stick with the most straightforward method here.
+ We have covered a variety of [ways you can enable or disable Windows SmartScreen](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) before, which includes reputation-based protection. As we're focusing on just one area, we will stick with the most straightforward method here.
 
  On**Windows Security** , head to**App & browser control** and select**Reputation-based protection** settings. Now, toggle on the**Check apps and files** button, and your settings will be turned on. Finally, click on**Yes** to confirm your settings.
 
@@ -90,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
 ## 3\. Exploit Protection
 
- Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As[Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
+ Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As [Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
 
 ![exploit protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exploit-protection.jpg)
 
- Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
+ Microsoft has covered the exploit protection feature in much more granular detail on [Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
 
 ## Get App and Browser Control on a Windows PC
 
@@ -119,3 +119,39 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/transforming-text-into-talk-a-windows-11-guide/"><u>Transforming Text Into Talk: A Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-success-must-haves-from-microsoft-store/"><u>Accelerated Success: Must-Haves From Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-dev-home-for-windows-11/"><u>What Is Dev Home for Windows 11?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach/"><u>[New] Decoding and Manipulating Gender Presentation Online  A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hackers-guide-to-swiftly-executing-windows-actions/"><u>The Hacker's Guide to Swiftly Executing Windows Actions</u></a></li>
+<li><a href="https://win11.techidaily.com/5-quick-wins-to-tackle-your-window-writes-woes/"><u>5 Quick Wins to Tackle Your Window' Writes Woes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-enhancing-your-windows-gifs-with-harmonious-audio-infusions/"><u>New In 2024, Enhancing Your Windows GIFs with Harmonious Audio Infusions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-widget-guide-top-7-methods/"><u>Windows 11 Widget Guide: Top 7 Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-optimal-display-choices-the-top-5-for-ps5-games/"><u>[New] In 2024, Optimal Display Choices  The Top 5 For PS5 Games</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-procedure-of-sfc-scanning/"><u>Unraveling the Procedure of SFC Scanning</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-solution-guide-tackling-11-windows-11-hiccups/"><u>The Ultimate Solution Guide: Tackling 11 Windows 11 Hiccups</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-the-best-12-cameras-to-elevate-your-vlogs-for-2024/"><u>Discover the Best 12 Cameras to Elevate Your Vlogs for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-list-of-free-security-camera-software/"><u>In 2024, The Ultimate List of Free Security Camera Software</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-virtual-disk-error-handling-in-windows-systems/"><u>Streamlining Virtual Disk Error Handling in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-potential-effective-windows-storage-visualization/"><u>Unleashing Potential: Effective Windows Storage Visualization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-become-a-sticker-master-turning-any-gif-into-an-icon-on-messaging-apps/"><u>[Updated] Become a Sticker Master  Turning Any GIF Into an Icon on Messaging Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-in-tech-flipping-old-games-with-dosbox-x/"><u>Time Travel in Tech: Flipping Old Games with DOSBox-X</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-more-views-the-art-of-crafting-titles-and-tags-for-youtube/"><u>In 2024, Unlock More Views  The Art of Crafting Titles & Tags for YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to Word 2000</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-error-adjusting-gif-sizes-for-discord-games-on-windows-11/"><u>Taming the Error: Adjusting GIF Sizes for Discord Games on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/averting-interruptions-with-solid-connections-in-windows/"><u>Averting Interruptions with Solid Connections in Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-iphone-screen-space-with-smaller-videos/"><u>[New] Maximize iPhone Screen Space with Smaller Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-linux-vm-setup-with-windows-and-hyper-v-integration/"><u>Streamlining Linux VM Setup with Windows and Hyper-V Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-0x800f0922-update-problem-in-windows-11/"><u>Troubleshoot 0X800f0922 Update Problem in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-v29-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo V29 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers-for-2024/"><u>[New] Free vs Paid Gaming Entrances  Top 12 Insights for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reinstate-lunar-client-after-launch-failed/"><u>Strategies to Reinstate Lunar Client After Launch Failed</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-art-of-photo-transformation-in-windows/"><u>The Hidden Art of Photo Transformation in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-process-to-configure-pc-manager/"><u>The Complete Process to Configure PC Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-0xa00f429f-camera-error-on-windows-devices/"><u>Troubleshooting 0xA00F429F Camera Error on Windows Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examining-the-impact-of-aurora-on-home-entertainment-for-2024/"><u>Examining the Impact of Aurora on Home Entertainment for 2024</u></a></li>
+</ul></div>

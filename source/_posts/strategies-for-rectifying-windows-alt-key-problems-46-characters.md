@@ -1,7 +1,7 @@
 ---
 title: Strategies for Rectifying Windows ALT Key Problems (46 Characters)
-date: 2024-06-25T11:36:24.307Z
-updated: 2024-06-26T11:36:24.307Z
+date: 2024-07-13T10:35:35.316Z
+updated: 2024-07-14T10:35:35.316Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
 
-1. Press**Win + I** on your keyboard to[launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [launch the Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select the**Accessibility** tab in the left pane.
 3. On the right side, click**Mouse** under the Interaction section.
 4. Click the toggle to enable the**Mouse keys** .  
@@ -57,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  This is a more advanced solution and requires some familiarity with the Windows registry editor.
 
- If you are uncomfortable working with your computer's registry, get professional assistance. You should also[back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
+ If you are uncomfortable working with your computer's registry, get professional assistance. You should also [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
 
 To get started, follow these steps:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. In the text field, type "regedit" and press Enter or click the**OK** button.
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
@@ -87,7 +87,7 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
 
-1. Open the Control Panel (see[how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
+1. Open the Control Panel (see [how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
@@ -96,9 +96,9 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 ## 6\. Troubleshoot With a Clean Boot
 
- If none of the above solutions work, you can try[performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
+ If none of the above solutions work, you can try [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will start your computer with only essential services and programs running, which can help identify any potential conflicts or issues with startup items that may be causing ALT codes to malfunction.
 
-1. Open the MSConfig tool (see[how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
+1. Open the MSConfig tool (see [how to open MSConfig on Windows](https://www.makeuseof.com/windows-11-open-msconfig/) ) and select the**General** tab.
 2. Check the**Selective startup** box.
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
@@ -131,3 +131,55 @@ HKEY_CURRENT_USER\Control Panel\Input Method
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/conquering-windows-control-with-administrator-rights/"><u>Conquering Windows Control with Administrator Rights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-video-sharing-via-discord-channels/"><u>[Updated] 2024 Approved  Mastering Video Sharing via Discord Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-efficient-windows-11-shortcuts-for-uwp-apps/"><u>Crafting Efficient Windows 11 Shortcuts for UWP Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-rename-your-user-account-directory/"><u>Win 11: Rename Your User Account Directory</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-image-editing-techniques-for-subject-isolation/"><u>Advanced Image Editing: Techniques for Subject Isolation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-the-essence-of-the-google-podcast-application/"><u>2024 Approved  In-Depth Analysis  The Essence of the Google Podcast Application</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-diskusage-in-windows-strategies-for-effective-drive-space-analysis/"><u>Decoding DiskUsage in Windows: Strategies for Effective Drive Space Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-steps-to-correct-steam-file-privileges-failure/"><u>Win11 Steps to Correct Steam File Privileges Failure</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-instantly-display-pics-on-platforms-with-this-guide/"><u>[Updated] Instantly Display Pics on Platforms with This Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-shutdown-the-guide-to-auto-mode-with-windows-1011/"><u>Efficient Shutdown: The Guide to Auto Mode with Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/copying-powertoys-preferences-to-another-pc/"><u>Copying PowerToys Preferences to Another PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-non-detected-windows-proxies/"><u>Tips to Rectify Non-Detected Windows Proxies</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-pre-use-disk-formatting-notice-on-windows/"><u>Eliminating Pre-Use Disk Formatting Notice on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-your-social-safe-a-quick-checklist-for-9-warning-signs/"><u>Keep Your Social Safe: A Quick Checklist for 9 Warning Signs</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-image-snapshots-for-win-11-pcs/"><u>Adjusting Image Snapshots for Win 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/ending-failed-operations-fix-code-0x0000011b/"><u>Ending Failed Operations: Fix Code 0X0000011B</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-windows-alt-key-errors-48-characters/"><u>Diagnosing Windows Alt Key Errors (48 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-windows-error-0x80070522-enhance-client-access-control/"><u>Eliminate Window's Error 0X80070522: Enhance Client Access Control</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exclusive-access-prime-video-downloader-picks/"><u>[Updated] Exclusive Access  Prime Video Downloader Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-whatsapp-status-video-makers-free-and-paid/"><u>Updated 2024 Approved The Ultimate Guide to WhatsApp Status Video Makers Free and Paid</u></a></li>
+<li><a href="https://win11.techidaily.com/struggling-with-game-installs-xbox-app-solutions/"><u>Struggling with Game Installs: Xbox App Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-resource-hub-free-high-quality-slide-decks-and-ideas/"><u>[New] Resource Hub  Free, High-Quality Slide Decks and Ideas</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-achieving-seamless-gaming-with-switch-pro-and-steam/"><u>In 2024, Achieving Seamless Gaming with Switch Pro & Steam</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>Cutting-Edge Openings at No Cost  The Best YouTube Intro Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-fps-tools-the-top-6-counter-app-picks/"><u>Winning FPS Tools: The Top 6 Counter App Picks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-google-pixel-7a-frp-bypass-by-drfone-android/"><u>About Google Pixel 7a FRP Bypass</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-se-2020-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone SE (2020) That Wont Turn on | Stellar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sound-capture-module-for-iphone-24-year/"><u>Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-x80072f30-quick-fix-for-windows-store-problems/"><u>Eliminate X80072F30: Quick Fix for Windows Store Problems</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-achieving-audio-equilibrium-methods-for-adjusting-sound-pressure-levels-with-vlc/"><u>In 2024, Achieving Audio Equilibrium Methods for Adjusting Sound Pressure Levels with VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-seamless-slide-showouts-top-tips-for-powerpoint-printing-on-windows/"><u>The Key to Seamless Slide Showouts: Top Tips for PowerPoint Printing on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-customize-windows-menu-for-instant-removal/"><u>Swift Solutions: Customize Windows Menu for Instant Removal</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-10-best-memes-right-now-include-image-gifvideo/"><u>Updated 10 Best Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-computing-redeemed-by-atlasos/"><u>Classic Computing Redeemed by AtlasOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-m14-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy M14 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/directives-for-disabling-errors-on-gaming-platform/"><u>Directives for Disabling Errors on Gaming Platform</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-start-to-finish-how-to-record-your-desktop-with-filmora-scrn/"><u>New From Start to Finish How to Record Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-analysis-strategy-for-music-video-creation-for-2024/"><u>Cost Analysis Strategy for Music Video Creation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-ui-stability-solutions-for-recurring-crashes/"><u>Windows UI Stability: Solutions for Recurring Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-file-inspection-6-steps-for-windows/"><u>The Art of File Inspection: 6 Steps for Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-7-cameras-unbeatable-in-underwater-shooting/"><u>Prime 7 Cameras  Unbeatable In Underwater Shooting</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/why-vimeo-slideshow-maker-become-more-and-more-popular-for-2024/"><u>Why Vimeo Slideshow Maker Become More and More Popular for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/creating-seamless-meeting-transitions-with-slackplusfilmora-for-2024/"><u>Creating Seamless Meeting Transitions with Slack+Filmora for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mastering-close-up-web-views-on-screen/"><u>[Updated] Mastering Close-Up Web Views on Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-flashy-windows-11-monitor/"><u>Overcome Flashy Windows 11 Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-clone-without-third-party-reliance-in-windows/"><u>Crafting Clone Without Third-Party Reliance in Windows</u></a></li>
+</ul></div>

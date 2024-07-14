@@ -1,7 +1,7 @@
 ---
 title: How to Fix This App Has Been Blocked by Your System Administrator Error in Windows
-date: 2024-06-25T11:28:34.570Z
-updated: 2024-06-26T11:28:34.570Z
+date: 2024-07-13T10:07:00.154Z
+updated: 2024-07-14T10:07:00.154Z
 tags:
   - windows10
   - windows11
@@ -67,7 +67,7 @@ To run an app as an administrator:
 1. Right-click on the app icon and select**Run as administrator** .
 2. Click**Yes** if prompted by User Account Control.
 
- Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
+ Check if the app launches ad administrator without the error. If yes, you can [set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
 ## 4\. Repair or Reset the Microsoft Store Apps
 
@@ -100,21 +100,21 @@ Reset the Microsoft Store app:
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
 
- You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
+ You can [disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
 
 ## 6\. Turn Off Your Antivirus Program
 
  False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
 
- You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
+ You can [temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
- If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+ If the error is resolved, add the app to your security program's allowed list. You can also [allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
  User Account Control settings are another common trigger for the This app has been blocked by your system administrator error. You can modify the User Account Control settings in Registry Editor to remove the admin block and resolve the error.
 
- Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to[create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a[system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
+ Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to [create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a [system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
 
 To remove the admin block using Registry Editor:
 
@@ -154,3 +154,45 @@ To remove the admin block using Registry Editor:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-steps-for-logging-virtual-exchanges/"><u>[New] Essential Steps for Logging Virtual Exchanges</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-recovery-methods-for-frozen-mouse-clicks/"><u>Quick Recovery Methods for Frozen Mouse Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-your-windows-experience-adding-contextual-items/"><u>Upgrading Your Windows Experience: Adding Contextual Items</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11s-camera-issue-fixing-a00f425d-error/"><u>Tackling Windows 11'S Camera Issue: Fixing A00F425D Error</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-gaming-with-dxvk-the-windows-perspective/"><u>Revolutionizing Gaming with DXVK - The Windows Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/rewind-records-key-tools-to-modify-files-creation-dates/"><u>Rewind Records: Key Tools to Modify File's Creation Dates</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-harnessing-tiktoks-hottest-hashtags-for-visibility/"><u>[New] In 2024, Harnessing TikTok's Hottest HashTags for Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-a-halted-wow-installation/"><u>Reactivating a Halted WoW Installation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-hd-an-in-depth-analysis-of-eizos-cg318-4k-for-2024/"><u>Beyond HD  An In-Depth Analysis of EIZO's CG318-4K for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-regain-control-over-non-operational-media-playback/"><u>Strategies to Regain Control Over Non-Operational Media Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-clipchamp-solve-windows-11-install-problems/"><u>Unlocking ClipChamp: Solve Windows 11 Install Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-protective-recording-strategies-to-mask-personal-information/"><u>[Updated] 2024 Approved  Protective Recording  Strategies to Mask Personal Information</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-covert-query-beam-of-windows-11/"><u>Unveiling the Covert Query Beam of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-dns-cache-how-to-clear-and-maintain-efficiency/"><u>Win11's DNS Cache: How to Clear and Maintain Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-weather-software-for-w10w11-pcs/"><u>Prime Weather Software for W10/W11 PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-hd-video-recorder-macpc-fullscreen/"><u>[Updated] Elite HD Video Recorder  MacPC Fullscreen</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-more-disk-room-in-windows-here-are-the-7-best-aids/"><u>Unleash More Disk Room in Windows - Here Are the 7 Best Aids</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-enhancing-your-virtual-presence-top-skype-voice-modification-apps-for-2024/"><u>New Enhancing Your Virtual Presence Top Skype Voice Modification Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-break-barriers-enhancing-live-social-media-collaborations/"><u>[New] In 2024, Break Barriers  Enhancing Live Social Media Collaborations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/leading-applications-to-create-fast-motion-in-iphone-for-2024/"><u>Leading Applications to Create Fast Motion in iPhone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-windows-safescreen-state-against-user-tweaks/"><u>Protecting Windows SafeScreen State Against User Tweaks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming/"><u>[Updated] Comparing Core Titles  Oculus, HTC Vive & PS VR in Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/win-friendly-tools-the-8-best-video-editing-picks/"><u>Win-Friendly Tools: The 8 Best Video Editing Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-most-entertaining-video-dubbing-apps-for-mobile-devices/"><u>New 2024 Approved S Most Entertaining Video Dubbing Apps for Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-gaming-potential-android-on-win-11-through-google-services-access/"><u>Unlock Gaming Potential: Android on Win 11 Through Google Services Access</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-failed-logon-retry-timeframe-in-win-1011/"><u>Setting Failed Logon Retry Timeframe in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-disabling-error-0xc00000f-on-pc/"><u>Solutions for Disabling Error 0Xc00000f on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/reflect-organize-and-proliferate-using-obsidian-canvas/"><u>Reflect, Organize, and Proliferate: Using Obsidian Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-extracting-sids-from-users-on-windows-11/"><u>Unraveling the Mystery: Extracting SIDs From Users on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-android-studio-on-windows-for-faster-compilation/"><u>Optimizing Android Studio on Windows for Faster Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-windows-model-chronology/"><u>Pinpointing Windows Model Chronology</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-unhandled-exception-strategies-to-mitigate-on-pc/"><u>Simplifying Unhandled Exception: Strategies to Mitigate on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-windows-visual-aid-the-cursor/"><u>Tailoring Your Window's Visual Aid: The Cursor</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-inability-to-link-with-nvidia-experience-on-pcs/"><u>Overcoming the Inability to Link with NVIDIA Experience on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-multi-screen-setup-on-windows-11-os/"><u>Streamlining Multi-Screen Setup on Windows 11 OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tomorrows-scrutiny-innovative-perspectives/"><u>[New] Tomorrow’s Scrutiny  Innovative Perspectives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-avoid-snappy-disappointments-streaking-wisdom/"><u>[Updated] 2024 Approved  Avoid Snappy Disappointments  Streaking Wisdom</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-audiences-on-the-rise-gauge/"><u>In 2024, Audiences on the Rise Gauge</u></a></li>
+</ul></div>

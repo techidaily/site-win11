@@ -1,7 +1,7 @@
 ---
 title: How to Increase Dedicated Video RAM (VRAM) in Windows 11 and 11
-date: 2024-06-25T11:43:45.512Z
-updated: 2024-06-26T11:43:45.512Z
+date: 2024-07-13T11:01:11.698Z
+updated: 2024-07-14T11:01:11.698Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
- Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
+ Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're [using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
 
 ## How to Increase VRAM in Windows
 
- The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of[the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
+ The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of [the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
 
  However, if this isn't an option for you (like on laptops), you may be able to increase your dedicated VRAM in two ways.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  Thus, you can modify a Registry value to change the amount VRAM your system reports to games. This doesn't actually increase your VRAM; it just modifies that dummy value. If a game refuses to start because you "don't have enough VRAM," upping this value might fix that.
 
- Open a Registry Editor window by typing**regedit** into the Start Menu. Remember that you can mess up your system if you modify the wrong values, so take care[while editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
+ Open a Registry Editor window by typing**regedit** into the Start Menu. Remember that you can mess up your system if you modify the wrong values, so take care [while editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
 
 Head to the following location:
 
@@ -78,7 +78,7 @@ Head to the following location:
 
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
 
- These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
+ These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or [freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
@@ -88,7 +88,7 @@ Head to the following location:
 
  A big factor in VRAM consumption is your monitor's resolution (more specifically, the resolution you're running a game at). Video RAM stores the frame buffer, which holds an image before and during the time that your GPU displays it on the screen. Higher-quality displays (such as a 4K HDR monitor) use more VRAM because higher-resolution images take more pixels to display.
 
- Aside from your monitor's display, textures in a game can drastically affect how much VRAM you need. Most modern[PC games let you fine-tune graphical settings](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) for performance or visual quality.
+ Aside from your monitor's display, textures in a game can drastically affect how much VRAM you need. Most modern [PC games let you fine-tune graphical settings](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) for performance or visual quality.
 
  You may be able to play a game from several years ago at**Low** or**Medium** settings with a cheaper card (or even integrated graphics). But**High** or**Ultra** quality, or custom mods that make in-game textures look even better than they normally do, will need lots of video RAM.
 
@@ -114,13 +114,13 @@ Head to the following location:
 
  Thus, a cheap $75 graphics card will have a small amount of VRAM, while a $500 graphics card will pack a lot more. If a weak GPU isn't powerful enough to render video that takes 8GB of VRAM to store, it's a waste to have that much VRAM in the card.
 
- Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
+ Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only [factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
 
- Conversely, not having enough VRAM is a huge problem. If VRAM fills up, the system has to rely on standard RAM and performance will take a huge hit. You'll[suffer from a lower frame rate](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , texture pop-ins, and other adverse effects. In extreme cases, the game could slow to a crawl and become unplayable (anything under 30FPS).
+ Conversely, not having enough VRAM is a huge problem. If VRAM fills up, the system has to rely on standard RAM and performance will take a huge hit. You'll [suffer from a lower frame rate](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , texture pop-ins, and other adverse effects. In extreme cases, the game could slow to a crawl and become unplayable (anything under 30FPS).
 
  Remember that VRAM is only one factor in performance. If you don't have a powerful enough CPU, rendering 4K video will take forever. A lack of system RAM prevents you from running many programs at once, and using a mechanical hard drive will severely limit your system performance too. And some cheaper graphics cards use slow DDR3 VRAM, which is inferior to DDR6 and DDR5 used in modern cards.
 
@@ -161,3 +161,64 @@ Head to the following location:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-legal-implications-and-tips-when-archiving-whatsapp-call-recordings/"><u>2024 Approved  Legal Implications & Tips When Archiving WhatsApp Call Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-non-adjacent-partition-integration/"><u>A Comprehensive Guide to Non-Adjacent Partition Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-windows-11s-speedy-startup/"><u>A Beginner's Guide to Windows 11'S Speedy Startup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-to-facebook-video-streams-on-your-apple-tv/"><u>Navigating to Facebook Video Streams on Your Apple TV</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-update-speed-of-task-monitor-win-11/"><u>Accelerate Update Speed of Task Monitor Win 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streaming-software-showdown-the-verdict-on-wirecast-vs-obs-for-2024/"><u>Streaming Software Showdown  The Verdict on Wirecast Vs. OBS for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-storm-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Storm 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>2024 Approved  The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
+<li><a href="https://win11.techidaily.com/1719336618337-quick-fix-guide-overcome-incompatibility-in-windows-xp/"><u>Quick-Fix Guide: Overcome Incompatibility in Windows XP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tomtoms-adventure-cam-series-innovative-2023-edition/"><u>TomTom’s Adventure Cam Series  Innovative 2023 Edition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-essential-elements-to-design-a-victory-winning-tiktok-advertisement/"><u>[Updated] In 2024, Essential Elements to Design a Victory-Winning TikTok Advertisement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-motorola-moto-g84-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Motorola Moto G84 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://win11.techidaily.com/1719363277312-chrome-stuck-unlock-windows-11s-quick-fixes-now/"><u>Chrome Stuck? Unlock Windows 11'S Quick Fixes Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-s23plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy S23+ Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/a-chronological-study-of-the-windows-taskbar/"><u>A Chronological Study of the Windows Taskbar</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-advanced-strategies-for-quiet-capturing/"><u>In 2024, Advanced Strategies for Quiet Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-add-a-merry-flair-to-your-windows-11/"><u>7 Ways to Add a Merry Flair to Your Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/5-immediate-actions-reviving-disabled-windows-defender-protection/"><u>5 Immediate Actions: Reviving Disabled Windows Defender Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/7-pivotal-points-for-reconnecting-your-obs-studio-link-win-compatible/"><u>7 Pivotal Points for Reconnecting Your OBS Studio Link (Win-Compatible)</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-desktop-writing-assistants-windows/"><u>5 Must-Have Desktop Writing Assistants (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-upholding-windows-datetime-integrity/"><u>Guidelines for Upholding Windows Date/Time Integrity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-inserting-chapters-into-your-youtube-content/"><u>2024 Approved  Step-by-Step  Inserting Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-open-exe-files-on-windows-try-these-fixes/"><u>Can’t Open EXE Files on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/7-symptoms-your-pc-may-need-a-new-beginning/"><u>7 Symptoms Your PC May Need A New Beginning</u></a></li>
+<li><a href="https://win11.techidaily.com/7-common-concerns-against-moving-to-windows-11/"><u>7 Common Concerns Against Moving to Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-tri-method-approach-to-understanding-and-applying-windows-policies/"><u>A Tri-Method Approach to Understanding and Applying Windows Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-tutorial-on-windows-11-hotspot-setup-procedures/"><u>A Comprehensive Tutorial on Windows 11 Hotspot Setup Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-windows-snap-configurations-via-powertoys/"><u>A Comprehensive Guide to Windows Snap Configurations via PowerToys</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-the-best-online-tools-for-vhs-photo-upgrading/"><u>[Updated] In 2024, Navigating the Best Online Tools for VHS Photo Upgrading</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-dawn-for-unadvertised-windows-start-menus/"><u>A New Dawn for Unadvertised Windows Start Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-s-mode-understanding-its-role-in-security/"><u>Windows 11'S 'S Mode': Understanding Its Role in Security</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-roadmap-to-your-computers-heart-mouse-prop/"><u>A Step-by-Step Roadmap to Your Computer's Heart - Mouse Prop</u></a></li>
+<li><a href="https://win11.techidaily.com/5-effective-ways-to-manipulate-image-size-on-windows-11/"><u>5 Effective Ways to Manipulate Image Size on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-slash-energy-drain-by-default-desktop-window-manager/"><u>7 Ways to Slash Energy Drain by Default Desktop Window Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/1719335120399-python-package-installation/"><u>Python Package Installation:</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-view-the-applied-group-policies-on-windows/"><u>3 Ways to View the Applied Group Policies on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adding-efficiency-program-troubleshooting-tool-inclusion/"><u>Adding Efficiency: Program Troubleshooting Tool Inclusion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-selecting-the-right-video-recorder-for-teaching/"><u>In 2024, Selecting the Right Video Recorder for Teaching</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-epic-tiktok-gamers-top-10-influencers/"><u>In 2024, Epic TikTok Gamers  Top 10 Influencers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bypass-windows-update-error-codes-a-step-by-step-approach/"><u>How to Bypass Windows Update Error Codes: A Step-by-Step Approach</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-10-crazy-cool-examples-of-ar-video/"><u>Updated In 2024, Best 10 Crazy-Cool Examples of AR Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-waterless-screen-recording-top-12-tools/"><u>[Updated] 2024 Approved  Waterless Screen Recording  Top 12 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-managing-windows-11-default-applications/"><u>A Comprehensible Guide to Managing Windows 11 Default Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-accessing-windows-odbc-tools/"><u>A Beginner's Guide to Accessing Windows' ODBC Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-archive-adventure-revisiting-classic-facebook/"><u>[Updated] 2024 Approved  Archive Adventure  Revisiting Classic Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-create-identity-a-quick-walkthrough-of-customizing-your-youtube-url/"><u>[Updated] 2024 Approved  Create Identity  A Quick Walkthrough of Customizing Your YouTube Url</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-steamuidll-not-loaded-problems-in-windows-steam/"><u>Solving “Steamui.dll Not Loaded” Problems in Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-0x30017-update-issue-in-windows-os/"><u>Troubleshooting 0X30017 Update Issue in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-for-reactivating-windows-photo-viewer-in-win11/"><u>A Comprehensible Guide for Reactivating Windows Photo Viewer in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-to-revitalize-frozen-spotify-win11/"><u>Essential Techniques to Revitalize Frozen Spotify Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>[New] 2024 Approved  The Art of Crafting Exceptional Instagram Ringtone Alerts  A Compreeved Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-windowsapps-protection-measures/"><u>Strategies to Overcome WindowsApps Protection Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/"><u>6 Ways to Fix the Windows 11 Mail App When It Shows HTML Code for Emails</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-and-correcting-uninitialized-disk-errors-in-win/"><u>Confronting & Correcting 'Uninitialized Disk' Errors in Win</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-shifts-revitalizing-vhs-graphics-with-computer-magic/"><u>Seamless Shifts  Revitalizing VHS Graphics with Computer Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-steps-for-dolby-atmos-in-windows-11/"><u>Installation Steps for Dolby Atmos in Windows 11</u></a></li>
+</ul></div>

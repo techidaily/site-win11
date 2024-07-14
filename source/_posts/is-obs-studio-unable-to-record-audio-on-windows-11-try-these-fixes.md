@@ -1,7 +1,7 @@
 ---
 title: Is OBS Studio Unable to Record Audio on Windows 11? Try These Fixes
-date: 2024-06-25T11:28:12.482Z
-updated: 2024-06-26T11:28:12.482Z
+date: 2024-07-13T10:05:53.526Z
+updated: 2024-07-14T10:05:53.526Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
 ## 1\. Restart OBS Studio
 
- Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
+ Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to [launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
 
  Next, relaunch the OBS Studio and check if it is able to record audio. If not, it's time for some more complicated fixes.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
 
-1. Open the**Settings** app (see how to[launch the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar.
+1. Open the**Settings** app (see how to [launch the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar.
 2. Select**Sound** from the right pane.
 3. Under the**Advanced section,** choose the**Volume Mixer** option.
 4. Under the**Apps section,** unmute OBS Studio if muted and adjust the slider accordingly.  
@@ -107,7 +107,7 @@ Restart OBS Studio and check if the problem persists.
 
 ## 8\. Download the Latest Audio Driver Updates
 
- A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to[update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
+ A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to [update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
 
 You can do that by following the below steps:
 
@@ -146,3 +146,51 @@ You can do that by following the below steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-s-most-popular-mkv-clip-editors-for-mac/"><u>2024 Approved S Most Popular MKV Clip Editors for Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-functional-cortana-on-windows-11/"><u>Addressing Non-Functional Cortana on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-interrupt-error-in-windows-11-screensaver/"><u>Swift Solution to INTERRUPT ERROR in Windows 11 Screensaver</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-the-realm-of-online-performers-vtubers-for-2024/"><u>Exploring the Realm of Online Performers (Vtubers) for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-15-video-grabbers-windows-10-edition/"><u>Top 15 Video Grabbers  Windows 10 Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-elevate-your-digital-identity-top-101-masterclass-in-personal-bios/"><u>2024 Approved  Elevate Your Digital Identity  Top 101 Masterclass in Personal Bios</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-premium-collection-expert-tiktok-downloader-tools/"><u>[New] Premium Collection  Expert TikTok Downloader Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disrupted-microphone-linkage-in-pc-gaming-with-valorant/"><u>Addressing Disrupted Microphone Linkage in PC Gaming with Valorant</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-concealed-viewing-of-instagrams-private-content-on-devices/"><u>[New] 2024 Approved  Concealed Viewing of Instagram's Private Content on Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-missing-driver-issues/"><u>Overcoming Windows Error: Missing Driver Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-to-recover-unlit-computer-monitors/"><u>Strategies to Recover Unlit Computer Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-a-secure-hardware-removal-window-tip/"><u>Designing a Secure Hardware Removal Window Tip</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-fatal-error-code-0x8007007e/"><u>Addressing Windows Fatal Error: Code 0X8007007E</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-backing-up-and-restoring-notebooks/"><u>A Practical Approach: Backing Up & Restoring Notebooks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>2024 Approved  Secure & Spacious  Our Compilation of Best 20 Free Cloud Services</u></a></li>
+<li><a href="https://win11.techidaily.com/security-simplified-defaults-in-windows-11-setup/"><u>Security Simplified: Defaults in Windows 11 Setup</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-video-creators-companion-selecting-perfect-camera-stabilizers/"><u>[New] In 2024, Video Creator's Companion  Selecting Perfect Camera Stabilizers</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-workflow-creating-windows-11-folders-en-masse/"><u>Accelerate Workflow: Creating Windows 11 Folders En Masse</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-ringtone-makers-for-iphone-users/"><u>In 2024, Premier Ringtone Makers for iPhone Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-audit-your-windows-drive-space-usage-efficiently/"><u>How to Audit Your Windows Drive Space Usage Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-complexity-set-terminal-as-the-default-cli/"><u>Cut-Down Complexity: Set Terminal as the Default CLI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>[New] Unraveling Success's Secrets  How to Amass More Subscribers on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/wired-for-security-swiftly-repairing-windows-features/"><u>Wired for Security: Swiftly Repairing Windows Features</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-windows-11-experience-introducing-an-augmented-run-feature/"><u>Master Your Windows 11 Experience: Introducing an Augmented Run Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-unlock-regular-startup-for-outlook-on-safe-mode/"><u>Steps to Unlock Regular Startup for Outlook on Safe Mode</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>[Updated] 2024 Approved  A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/audio-artistry-rendering-and-animating-auditory-data-in-roxio-media-creator-for-2024/"><u>Audio Artistry Rendering and Animating Auditory Data in Roxio Media Creator for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-device-unreachable-errors/"><u>Resolving Windows Device Unreachable Errors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-tips-that-show-anybody-on-youtube-to-mp3-converter-review/"><u>New In 2024, Tips That Show Anybody on Youtube to Mp3 Converter Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[Updated] 2024 Approved  Achieve Flawless Imagery  How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-not-empty-directory-problem-in-windows-os/"><u>Steps to Overcome Not Empty Directory Problem in Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s17-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S17 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-proxy-perfection-top-video-editing-software-for-4k-creators/"><u>Updated 2024 Approved Proxy Perfection Top Video Editing Software for 4K Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-blank-spaces-in-windows-explorer/"><u>Eliminating Blank Spaces in Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-unrecognized-app-warning-during-windows-setup/"><u>Fix Unrecognized App Warning During Windows Setup</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streaming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>In 2024, Streaming Made Simple  Convert and Broadcast MP3 Songs Online</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-repair-tool-guide/"><u>Breaking Down Windows Repair Tool Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-pcs-archives-functionality/"><u>Enhance Your PC's Archives Functionality</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-sonic-enhancement-removing-unwanted-noise-in-your-recordings-using-wondershare-filmora/"><u>Updated In 2024, Sonic Enhancement Removing Unwanted Noise in Your Recordings Using Wondershare Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rescue-your-windows-mail-app-from-the-clutches-of-0x800713f/"><u>How to Rescue Your Windows Mail App From the Clutches of 0X800713F</u></a></li>
+<li><a href="https://win11.techidaily.com/confirming-windows-11s-integrity-quick-checks/"><u>Confirming Windows 11'S Integrity: Quick Checks</u></a></li>
+</ul></div>

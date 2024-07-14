@@ -1,7 +1,7 @@
 ---
 title: "Paint Your Thoughts: Desktop Design Mastery in Windows"
-date: 2024-06-25T11:25:10.508Z
-updated: 2024-06-26T11:25:10.508Z
+date: 2024-07-13T09:54:39.782Z
+updated: 2024-07-14T09:54:39.782Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
 
-1. Open the[Epic Pen](https://epicpen.com/) website.
+1. Open the [Epic Pen](https://epicpen.com/) website.
 2. Click the**Download For Free** button to scroll down the homepage.
 3. Select the**Download Epic Pen** option for the free version.
 4. Find and double-click the**Epic Pen Setup v3.11.44.exe** file in whatever folder your browser usually downloads to.
@@ -51,7 +51,7 @@ Now you can get scribbling on the Windows desktop.
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
- Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
+ Epic Pen’s camera option enables you to save your drawings and annotations by [taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
 
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
@@ -65,9 +65,9 @@ Now you can get scribbling on the Windows desktop.
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
 
-1. Open the[gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
+1. Open the [gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
 2. Press the**Download** button to bring up a couple of location options. Pick the one closest to your location and download the file.
-3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
+3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
@@ -111,3 +111,52 @@ Now you can get scribbling on the Windows desktop.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-resolving-inbox-notifications-on-pcs/"><u>Comprehensive Guide to Resolving Inbox Notifications on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-win11-22h2-for-older-systems/"><u>Navigating Win11 22H2 for Older Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/is-steam-unable-to-connect-to-the-internet-on-windows-heres-how-to-fix-it/"><u>Is Steam Unable to Connect to the Internet on Windows? Here's How to Fix It</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-fcp-aspect-ratio-adjustment-a-beginners-guide-updated/"><u>Updated 2024 Approved FCP Aspect Ratio Adjustment A Beginners Guide (Updated )</u></a></li>
+<li><a href="https://win11.techidaily.com/dispel-limitations-escalating-internet-speed-past-100mbps-in-windows/"><u>Dispel Limitations: Escalating Internet Speed Past 100Mbps in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-poco-c55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Poco C55? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-clear-obstacles-no-access-allowed-windows-errors/"><u>Methods to Clear Obstacles: No Access Allowed Windows Errors</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>New Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-fidelity-screen-capture-suite-review-march-2023-for-2024/"><u>[Updated] High-Fidelity Screen Capture Suite Review – March 2023 for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-m6-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco M6 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-tackle-misdirected-token-call-on-windows/"><u>Methods to Tackle Misdirected Token Call” On Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rescuing-flaky-windows-programs/"><u>Mastering the Art of Rescuing Flaky Windows Programs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-uncovering-the-power-of-splice-a-thorough-app-review/"><u>Updated Uncovering the Power of Splice A Thorough App Review</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-delaying-windows-10-shutdown-processes/"><u>Mastering the Art of Delaying Windows 10 Shutdown Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/6-high-performance-windows-video-editors-unveiled/"><u>6 High-Performance Windows Video Editors Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-leading-10-live-streaming-services-for-2024/"><u>Unveiling the Leading 10 Live-Streaming Services for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-shifting-printer-preferences-in-windows/"><u>Overcoming Shifting Printer Preferences in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winter-wonderland-offering-apps-from-microsofts-store/"><u>Winter Wonderland: Offering Apps From Microsoft's Store</u></a></li>
+<li><a href="https://win11.techidaily.com/6-methods-to-supercharge-virtual-machine-speed-in-windows/"><u>6 Methods to Supercharge Virtual Machine Speed in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-exploring-youtube-comments/"><u>[New] The Essential Guide to Exploring YouTube Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/from-simple-logon-to-strong-authentication-changing-your-windows-11-login-habit/"><u>From Simple Logon to Strong Authentication: Changing Your Windows 11 Login Habit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/framework-for-cost-analysis-in-music-video-making-for-2024/"><u>Framework for Cost Analysis in Music Video Making for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/decrease-roblox-latency-on-windows/"><u>Decrease Roblox Latency on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-screen-grabbers-5-non-windows-counterparts-to-snipping-tool/"><u>Elite Screen Grabbers: 5 Non-Windows Counterparts to Snipping Tool</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cant-miss-these-buzzing-tiktok-trials-for-2024/"><u>Can't Miss These Buzzing TikTok Trials for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-wizardry-admin-skills-unveiled/"><u>Command Prompt Wizardry: Admin Skills Unveiled</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-of-the-best-28-video-to-gif-converters/"><u>New 2024 Approved The Best of the Best 28 Video to GIF Converters</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-scripts-in-windows-quick-fixes-for-loading-powershell-failures/"><u>Enabling Scripts in Windows: Quick Fixes for Loading PowerShell Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11s-hidden-data-files/"><u>Navigating Through Windows 11'S Hidden Data Files</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-error-0x800700e1-in-windows-11-os/"><u>Essential Fixes for Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-mouse-without-borders-and-peek-features-in-powertoys/"><u>How to Use the Mouse Without Borders and Peek Features in PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-homescreen-without-altering-windows-11-start-menu/"><u>Modify Homescreen without Altering Windows 11 Start Menu</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-amassing-attention-on-ig-a-guide-for-a-thousand-likesmonth/"><u>[New] The Art of Amassing Attention on IG  A Guide for a Thousand Likes/Month</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-active-directory-issues-impacting-print-in-windows-11/"><u>How to Solve Active Directory Issues Impacting Print in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-installation-in-vmware-17-player/"><u>Mastering Windows 11 Installation in VMWare 17 Player</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-windows-read-only-settings-easily/"><u>Changing Windows Read-Only Settings Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-premium-editing-platform-tailored-to-vimeo/"><u>[New] In 2024, Premium Editing Platform Tailored to Vimeo</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-pushing-boundaries-top-15-revolutionary-songs-in-rock/"><u>Updated 2024 Approved Pushing Boundaries Top 15 Revolutionary Songs in Rock</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-the-confusion-five-windows-cures-to-unsupported-boots/"><u>Clearing Up the Confusion: Five Windows Cures to Unsupported Boots</u></a></li>
+<li><a href="https://win11.techidaily.com/file-locations-decoded-win11s-best-practices-for-retrieving-file-and-folder-paths-6-methods/"><u>File Locations Decoded: Win11's Best Practices for Retrieving File & Folder Paths (6 Methods)</u></a></li>
+<li><a href="https://win11.techidaily.com/foster-innovation-for-privacy-protection-explore-cutting-edge-technologies-like-onboard-anonymization-systems-or-secure-data-transmission-techniques-to-mini44/"><u>Foster Innovation for Privacy Protection: Explore Cutting-Edge Technologies Like Onboard Anonymization Systems or Secure Data Transmission Techniques to Minimize the Risk of Violating Customer's Privacy During Cookie Deliveries.</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-retain-calculator-top-status-on-win-os/"><u>Methods to Retain Calculator Top Status on Win OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-enhancing-interface-through-ms-store-themes/"><u>Effortlessly Enhancing Interface Through MS Store Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-does-microsofts-copilot-key-transform-windows-11/"><u>How Does Microsoft's Copilot Key Transform Windows 11?</u></a></li>
+</ul></div>

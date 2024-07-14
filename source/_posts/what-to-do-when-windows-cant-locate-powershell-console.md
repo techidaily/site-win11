@@ -1,7 +1,7 @@
 ---
 title: What to Do When Windows Can't Locate PowerShell Console
-date: 2024-06-25T11:32:46.848Z
-updated: 2024-06-26T11:32:46.848Z
+date: 2024-07-13T10:22:12.495Z
+updated: 2024-07-14T10:22:12.495Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 8. Click**OK** to save the changes.  
 ![Enable PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-PowerShell-on-Windows.jpg)
 
- Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
+ Restart your computer after this (see [how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
 
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 5. Double-click on the PowerShell executable file and see if it works. If it does, right-click on it and select**Send to > Desktop (create shortcut)** .  
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
 
- You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
+ You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on [how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
 ## 4\. Scan Your Computer for Corrupted System Files
 
@@ -70,7 +70,7 @@ To run the SFC scan on Windows:
 
  The SFC scan will start verifying the integrity of your system files and fix any issues with them. The scan might take a while, so be patient.
 
- Next, you need to run the DISM scan. This is another diagnostic tool that Windows offers. It can automatically detect any issues with the system image and fix them. If you want to learn more about them, check out our guide on the[differences between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
+ Next, you need to run the DISM scan. This is another diagnostic tool that Windows offers. It can automatically detect any issues with the system image and fix them. If you want to learn more about them, check out our guide on the [differences between CHKDSK, SFC, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  To run DISM,[open Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) again. Paste the following command in the console and press**Enter** .
 
@@ -95,7 +95,7 @@ To update PowerShell on Windows:
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
- Using Command Prompt isn't the only way to update PowerShell on Windows. If you want to learn other methods, check our guide on[how to install or update PowerShell on Windows](https://www.makeuseof.com/windows-11-powershell-install-update/) .
+ Using Command Prompt isn't the only way to update PowerShell on Windows. If you want to learn other methods, check our guide on [how to install or update PowerShell on Windows](https://www.makeuseof.com/windows-11-powershell-install-update/) .
 
 ## 6\. Create a New User Account
 
@@ -135,3 +135,58 @@ To create a new user account on Windows, use these steps.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/activating-windows-11-writable-driver-verifier/"><u>Activating Windows 11' Writable Driver Verifier</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-admin-blocked-application-issue/"><u>Troubleshooting Admin-Blocked Application Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-ce-3-lite-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord CE 3 Lite 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-and-set-up-windows-sandbox-in-windows-11/"><u>How to Enable and Set Up Windows Sandbox in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-11-and-11-desktop-context-menu-not-working/"><u>How to Fix the Windows 11 & 11 Desktop Context Menu Not Working</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-lightweightscreencapture-no-fuss-just-fun/"><u>[New] 2024 Approved  LightweightScreenCapture - No Fuss, Just Fun</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlock-your-pcs-potential-exciting-new-windows-10-games/"><u>[Updated] 2024 Approved  Unlock Your PC’s Potential  Exciting New Windows 10 Games</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y78-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y78 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-mending-the-internal-error-in-rdp-on-windows-11-and-11-pro/"><u>Guide to Mending the Internal Error in RDP on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>Escape From Ennui with Humor  Top 20 Funny Faces in Social Media Jail</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-restoring-windows-11-search-efficiency/"><u>Essential Tips: Restoring Windows 11 Search Efficiency</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-mac-video-maker-guide-simplify-your-video-creation/"><u>New The Ultimate Mac Video Maker Guide Simplify Your Video Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-processor-limits-in-power-options-menu/"><u>Demystifying Processor Limits in Power Options Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-barriers-easily-uninstall-applications-in-win-11/"><u>Breaking Barriers: Easily Uninstall Applications in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-failure-codes-0x80072f8f/"><u>Addressing Windows Failure Codes: 0X80072f8f</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-non-operational-wsresetexe-in-windows/"><u>Troubleshooting: Resolving Non-Operational WSReset.exe in Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-unveiling-our-exclusive-package-of-free-youtube-adornments/"><u>2024 Approved  Unveiling Our Exclusive Package of Free YouTube Adornments!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-new-potentials-with-macos-11-big-sur/"><u>Unlocking New Potentials with macOS 11 Big Sur</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screencaptureelite-the-5-star-apeaksoft-evaluation-for-2024/"><u>[New] ScreenCaptureElite – The 5-Star Apeaksoft Evaluation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-with-top-windows-to-do-apps/"><u>Enhance Your Workflow with Top Windows To-Do Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5plus-windows-1011-productivity-boosters-for-maximum-output/"><u>Top 5+ Windows 10/11 Productivity Boosters for Maximum Output</u></a></li>
+<li><a href="https://win11.techidaily.com/circumvent-unauthorized-windows-login-errors-easy-guide/"><u>Circumvent Unauthorized Windows Login Errors (Easy Guide)</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-metered-connection-for-wifi-networks-on-win11/"><u>Configuring Metered Connection for Wifi Networks on Win11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>[Updated] The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-update-checks-with-these-9-fixes-on-windows-setup/"><u>Accelerate Update Checks with These 9 Fixes on Windows Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivate-with-voice-intros-that-intrigue/"><u>2024 Approved  Captivate with Voice  Intros That Intrigue</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-basics-easy-access-aids-for-novices/"><u>Windows Basics: Easy-Access Aids for Novices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-proven-methods-for-downloading-multiple-tiktok-videos-for-2024/"><u>[Updated] Proven Methods for Downloading Multiple TikTok Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-friendly-methods-to-resolve-error-1-in-games/"><u>Win-Friendly Methods to Resolve Error 1 in Games</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-accessing-and-opening-verifier-manager-w11/"><u>Guide: Accessing and Opening Verifier Manager W11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-introducing-effortless-group-image-assembling-via-picshot/"><u>2024 Approved  Introducing Effortless Group Image Assembling via Picshot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>[New] In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oneplus-11r-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On OnePlus 11R? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-vpn-network-disconnection-on-a-remote-work-pc/"><u>Fixing VPN Network Disconnection on a Remote Work PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-at-memes-app-version-for-2024/"><u>The Best at Memes (App Version) for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-6-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 6 Online</u></a></li>
+<li><a href="https://win11.techidaily.com/1719352195023-quick-fixes-for-your-windows-hurdles-and-complications/"><u>Quick Fixes for Your Windows Hurdles & Complications</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-gionee-f3-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-insufficient-ram-warning-for-hogwarts-simulator/"><u>Fixing Insufficient RAM Warning for Hogwarts Simulator</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-smoothly-eradicate-lags-from-star-wars-bf2-on-pc/"><u>Winning Smoothly: Eradicate Lags From Star Wars BF2 on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-hot-30-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Hot 30 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-non-persistent-nvidia-panel-changes/"><u>Correcting Non-Persistent Nvidia Panel Changes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>Prime Choices in Cinema Cameras  From Newbies to Professionals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-most-user-friendly-video-editing-apps/"><u>Updated 2024 Approved The Most User-Friendly Video Editing Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-syncing-ios-calendar-with-windows-1011/"><u>From iPhone to Desktop: Syncing iOS Calendar with Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-overlooked-windows-extras-a-step-by-step-manual/"><u>Enabling Overlooked Windows Extras: A Step-by-Step Manual</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discounted-artisan-logos-best-free-emblem-tools/"><u>[New] 2024 Approved  Discounted Artisan Logos  Best Free Emblem Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-special-traits-of-ai-machines/"><u>Understanding the Special Traits of AI Machines</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+</ul></div>

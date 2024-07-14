@@ -1,7 +1,7 @@
 ---
 title: Mastering Dark Theme for Notepad (Win 11)
-date: 2024-06-25T11:36:49.410Z
-updated: 2024-06-26T11:36:49.410Z
+date: 2024-07-13T10:36:17.599Z
+updated: 2024-07-14T10:36:17.599Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 ## How to Enable Dark Mode in Notepad on Windows 10
 
- If you're unsure about this feature, read our guide on[what dark mode really is and how it works](https://www.makeuseof.com/what-is-dark-mode-and-how-does-it-work/) before we get into the nitty gritty of enabling it.
+ If you're unsure about this feature, read our guide on [what dark mode really is and how it works](https://www.makeuseof.com/what-is-dark-mode-and-how-does-it-work/) before we get into the nitty gritty of enabling it.
 
  The simplest way of enabling dark mode in Notepad on Windows 10 is by modifying the Ease of Access settings in the Settings app. If you do not wish to enable that feature, then you can download a similar third-party application using the Microsoft Store.
 
@@ -50,7 +50,7 @@ Here is how you can enable it:
 
  As we mentioned earlier, the high contrast feature might not be for everyone. If you do not want to enable it, then you can download a third-party alternative using the Microsoft Store.
 
- The most popular option is the[Black Notepad app](https://apps.microsoft.com/store/detail/black-notepad/9P20VW17VMPK?hl=en-us&gl=US) , whose functionality is almost similar to that of the default notepad in Windows. It is available for free in the Microsoft Store, so you can download and start using it in no time.
+ The most popular option is the [Black Notepad app](https://apps.microsoft.com/store/detail/black-notepad/9P20VW17VMPK?hl=en-us&gl=US) , whose functionality is almost similar to that of the default notepad in Windows. It is available for free in the Microsoft Store, so you can download and start using it in no time.
 
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
 
@@ -64,7 +64,7 @@ Here is how you can enable it:
 
 ## How to Enable Dark Mode in Notepad on Windows 11
 
- The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
+ The new Windows operating system also allows users to [enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
 
 ### 1\. Use the Settings App
 
@@ -94,7 +94,7 @@ Follow these steps to proceed:
 
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
 
- To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
+ To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our [guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
 
 ## How to Enable Dark Theme in Notepad++
 
@@ -135,3 +135,57 @@ Follow these steps to proceed:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/enabling-and-configuring-windows-sandbox-in-win-11/"><u>Enabling and Configuring Windows Sandbox in Win 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-this-device-is-being-used-by-another-application-audio-error/"><u>How to Fix Windows' This Device Is Being Used by Another Application Audio Error</u></a></li>
+<li><a href="https://win11.techidaily.com/eliciting-hidden-taskbar-recon-in-windows-11/"><u>Eliciting Hidden Taskbar Recon in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/is-the-outlook-app-not-syncing-on-windows-heres-how-to-fix-it/"><u>Is the Outlook App Not Syncing on Windows? Here’s How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-code-a00f425d-on-windows-11-camera-app/"><u>Resolving Error Code A00F425D on Windows 11 Camera App</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-disconnecting-printers-in-windows/"><u>Quick Fixes for Disconnecting Printers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-methods-for-tcpip-port-audits-on-windows/"><u>Exploring Methods for TCP/IP Port Audits on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/re-activate-your-pc-addressing-error-code-22-in-windows-11/"><u>Re-Activate Your PC: Addressing Error Code 22 in Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapping-with-style-a-guide-to-cartoon-faces-in-snapchat/"><u>[New] Snapping with Style  A Guide to Cartoon Faces in Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlock-window-history-with-spring-screenrecorder-for-2024/"><u>[Updated] Unlock Window History with Spring ScreenRecorder for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mac-users-top-5-mkv-decoders/"><u>[Updated] Mac Users  Top 5 MKV Decoders</u></a></li>
+<li><a href="https://win11.techidaily.com/grow-windows-capacity-without-file-loss/"><u>Grow Windows Capacity Without File Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-wmp-playback-issues/"><u>Guide to Overcoming WMP Playback Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-microsoft-store-eradicating-code-0x80072f30/"><u>Mastering the Microsoft Store: Eradicating Code 0X80072F30</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-breaking-free-overcoming-the-shadowban-phenomenon/"><u>[New] 2024 Approved  Breaking Free  Overcoming the Shadowban Phenomenon</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-dealing-with-invalid-app-installs-on-windows/"><u>Guide: Dealing with Invalid App Installs on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-package-unopenable-error-on-win11-10-oses/"><u>Eliminating the 'Package Unopenable' Error on Win11, 10 OSes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximize-impact-instagrams-ideal-video-resolution-for-2024/"><u>[Updated] Maximize Impact  Instagram's Ideal Video Resolution for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-windows-11-ways-to-boost-workflow-and-productivity-45/"><u>Proven Windows 11 Ways to Boost Workflow and Productivity (45)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-wows-unexpected-crash-in-windows-1111/"><u>How to Tackle WoW’s Unexpected Crash in Windows 11/11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-dji-drone-video-livestreams-on-fb-for-2024/"><u>[New] The Ultimate Guide to DJI Drone Video Livestreams on FB for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/no-illusions-allowed-true-tales-of-unmasking-windows-ploys/"><u>No Illusions Allowed: True Tales of Unmasking Windows Ploys</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-monetization-unlocking-partnerships-without-limits/"><u>2024 Approved  Maximizing Monetization  Unlocking Partnerships Without Limits</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-methods-purging-directdraw-problems-from-win1011-systems/"><u>Expert Methods: Purging DirectDraw Problems From WIN10/11 Systems</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-phantom-v-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Phantom V Fold Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-addressing-windows-onedrive-errors-and-restoring-folder-integration/"><u>Quick Guide: Addressing Windows OneDrive Errors and Restoring Folder Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-and-customizing-proxies-in-windows-11/"><u>Enabling and Customizing Proxies in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-0x00000001-restoring-xbox-playability/"><u>Remedy for 0X00000001: Restoring Xbox Playability</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11s-behind-the-scenes-sid-processes/"><u>Exploring Windows 11'S Behind-the-Scenes SID Processes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-the-power-of-videos-to-drive-fb-traffic/"><u>[Updated] Unlocking the Power of Videos to Drive FB Traffic</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-identifying-high-space-usage-windows/"><u>Effective Strategies for Identifying High-Space Usage Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unlock-your-devices-voice-customization-transforming-siris-speech-patterns/"><u>Updated Unlock Your Devices Voice Customization Transforming Siris Speech Patterns</u></a></li>
+<li><a href="https://win11.techidaily.com/multitasking-made-simple-windows-1110-window-cascade-guide/"><u>Multitasking Made Simple: Windows 11/10 Window Cascade Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-taskbar-clarity-with-w11-tricks/"><u>Enhancing Your Taskbar Clarity with W11 Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-soundstage-shows/"><u>[New] Exclusive Soundstage Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>2024 Approved  Lullabies on a Screen  Analysis of Story Tapes for Sleep</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-zte-axon-40-lite-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From ZTE Axon 40 Lite to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-display-issues-in-modern-windows-versions/"><u>Overcoming Common Display Issues in Modern Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-integrating-spotlight-images-into-wallpaper/"><u>Elevate Your Workspace: Integrating Spotlight Images Into Wallpaper</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 11 Pro | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/growth-plans-for-windows-hard-drive-without-data-loss/"><u>Growth Plans for Windows Hard Drive without Data Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/from-browsers-to-desktops-website-conversion-guide/"><u>From Browsers to Desktops: Website Conversion Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/premium-laptops-highlighted-at-ifa-2023/"><u>Premium Laptops Highlighted at IFA 2023</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-edit-avi-videos-for-free-top-editor-choices/"><u>New 2024 Approved Edit AVI Videos for Free Top Editor Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/reintroduce-missing-cameras-to-device-manager-display/"><u>Reintroduce Missing Cameras to Device Manager Display</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-riding-through-the-year-motorcycles-no-1-helmet-cameras-guide/"><u>In 2024, Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide</u></a></li>
+</ul></div>

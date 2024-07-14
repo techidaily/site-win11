@@ -1,7 +1,7 @@
 ---
 title: Resolving Email Alert Issues in Windows Desktop Environment
-date: 2024-06-25T11:36:55.810Z
-updated: 2024-06-26T11:36:55.810Z
+date: 2024-07-13T10:37:37.567Z
+updated: 2024-07-14T10:37:37.567Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ To access notification settings in the Mail app:
 
 ## 2\. Enable Mail App Notifications From Windows Settings
 
- Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned[how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
+ Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned [how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
 
  To enable Mail app notifications from Windows Settings, do the following:
 
@@ -100,7 +100,7 @@ Once removed, restart the Mail app and add your account again.
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
- If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
+ If you're interested in Focus Assist, be sure to check out [how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
 ## 7\. Disable Battery Saver Mode
 
@@ -116,7 +116,7 @@ Once removed, restart the Mail app and add your account again.
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
 
-1. Right-click on the**Start icon** or press**Win + X** to open the[Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
+1. Right-click on the**Start icon** or press**Win + X** to open the [Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
 2. Select**Installed apps** from the menu.
 3. Scroll down to locate the Mail app on the list.
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
@@ -154,3 +154,42 @@ Once removed, restart the Mail app and add your account again.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/tailored-timelines-your-facebook-newsfeed-reimagined/"><u>Tailored Timelines: Your Facebook Newsfeed Reimagined</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-tricks-for-pinpointing-lost-windows-keys/"><u>Advanced Tricks for Pinpointing Lost Windows Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-a-touch-of-nature-implementing-weather-icon-in-windows-11-status-bar/"><u>Adding a Touch of Nature: Implementing Weather Icon in Windows 11 Status Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-your-finances-with-windows-11-pro-discounts/"><u>Ace Your Finances with Windows 11 Pro Discounts</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-printer-disconnection-on-windows-11-devices/"><u>Addressing Printer Disconnection on Windows 11 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/ways-to-make-sure-you-get-the-most-up-to-date-cartoon-character-design-tips/"><u>Ways to Make Sure You Get the Most up to Date Cartoon Character Design Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-device-access-problems-in-audacity-win/"><u>Addressing Device Access Problems in Audacity (Win)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-and-correcting-window-based-roblox-error-403/"><u>Addressing and Correcting Window-Based Roblox Error 403</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>In 2024, Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-lawful-to-screen-capture-youtube-content/"><u>Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-installation-access-violation-on-win1011/"><u>Addressing Installation Access Violation on Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-clutter-with-a-sleek-setup-using-your-android-tab-in-w11/"><u>Avoiding Clutter with a Sleek Setup: Using Your Android Tab in W11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets-for-2024/"><u>Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/actions-to-address-invalid-label-warning-in-windows-11/"><u>Actions to Address 'Invalid Label' Warning in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-scribblers-ios-and-androids-leading-image-editors/"><u>[Updated] Best Scribblers  IOS & Android's Leading Image Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-external-disk-to-explorers-sidebar/"><u>Adding External Disk to Explorer's Sidebar</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-vs-dailymention-identifying-key-variations/"><u>In 2024, YouTube Vs. DailyMention  Identifying Key Variations</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-adobe-acquisition-through-microsofts-marketplace/"><u>Achieving Adobe Acquisition Through Microsoft's Marketplace</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rogging-into-digital-marketing-establishing-a-yt-channel-on-mobile-for-2024/"><u>Leapfrogging Into Digital Marketing  Establishing a YT Channel on Mobile for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/audioscapes-redefined-mastering-the-windows-driver-update-technique/"><u>Audioscapes Redefined: Mastering the Windows Driver Update Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-downloads-utorrents-secrets-to-speedier-win-os-files/"><u>Accelerating Downloads: UTorrent's Secrets to Speedier WIN OS Files</u></a></li>
+<li><a href="https://win11.techidaily.com/actions-for-correcting-microsoft-outlook-glitches-on-windows/"><u>Actions for Correcting Microsoft Outlook Glitches on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-open-failed-error-on-ges-sharing-feature/"><u>Addressing Open Failed Error on GE's Sharing Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>[Updated] In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://win11.techidaily.com/app-elegance-overlooked-as-they-deplete-your-pcs-power/"><u>App Elegance Overlooked as They Deplete Your PC's Power</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-chatbots-maintaining-security-in-your-windows-11-access/"><u>Avoiding Chatbots: Maintaining Security in Your Windows 11 Access</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disconnected-apps-from-files-in-windows-os/"><u>Addressing Disconnected Apps From Files in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-the-implications-of-device-isolation-on-windows-audio/"><u>Assessing the Implications of Device Isolation on Windows Audio</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>In 2024, Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
+<li><a href="https://win11.techidaily.com/artistic-substitutes-to-procreate-windows-based/"><u>Artistic Substitutes to Procreate, Windows-Based</u></a></li>
+<li><a href="https://win11.techidaily.com/actions-to-take-when-ipad-images-fault-during-transfer-to-windows/"><u>Actions to Take When iPad Images Fault During Transfer to Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-the-art-of-extended-frame-shooting/"><u>[New] Unlocking the Art of Extended Frame Shooting</u></a></li>
+</ul></div>

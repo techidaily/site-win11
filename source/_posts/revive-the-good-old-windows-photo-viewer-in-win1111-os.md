@@ -1,7 +1,7 @@
 ---
 title: Revive the Good Old Windows Photo Viewer in Win11/11 OS
-date: 2024-06-25T11:38:40.325Z
-updated: 2024-06-26T11:38:40.325Z
+date: 2024-07-13T10:42:56.162Z
+updated: 2024-07-14T10:42:56.162Z
 tags:
   - windows10
   - windows11
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
 1. Press **Win + R** to open the **Run** dialog. Input **notepad** and click **OK**.
 2. Copy and paste the following script into the notepad file:  
-`Windows Registry Editor Version 5.00[-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
+`Windows Registry Editor Version 5.00 [-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
 ![Notepad App Showing a Registry Script to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-registry-script-to-disable-windows-photo-viewer-in-windows-11.png)
 3. Press **Ctrl + Shift + S** to open the **Save** dialog.
 4. Type **DeactivateWindowsPhotoViewer.reg** as the file name. Click the **Save as type** drop-down, choose **All files (\*.\*)**, then click **Save**.  
@@ -90,3 +90,55 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/fixing-common-windows-camera-app-malfunctions/"><u>Fixing Common Windows Camera App Malfunctions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-hear-and-save-discovering-the-best-audio-devices-for-effortless-voice-recording/"><u>New Hear & Save Discovering the Best Audio Devices for Effortless Voice Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-25-instagram-hashtags-to-get-likes-and-followers/"><u>[Updated] Top 25 Instagram Hashtags to Get Likes and Followers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-note-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi Note 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-mastery-starts-here-the-best-cameras-of-all-levels-for-2024/"><u>Cinematic Mastery Starts Here  The Best Cameras of All Levels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decipher-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>[Updated] In 2024, Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
+<li><a href="https://win11.techidaily.com/master-guide-winning-strategies-for-selecting-best-windows-emulators/"><u>Master Guide: Winning Strategies for Selecting Best Windows Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/gpt4alls-local-window-companion-a-cost-free-chatbot-clone/"><u>GPT4All's Local Window Companion - A Cost-Free ChatBot Clone</u></a></li>
+<li><a href="https://win11.techidaily.com/historical-code-to-contemporary-computing-windows-7-to-11-activation/"><u>Historical Code to Contemporary Computing: Windows 7 to 11 Activation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-best-screen-recorders-for-windows-1110/"><u>In 2024, Top 5 Best Screen Recorders for Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-chromes-erroneous-virus-protection-alerts/"><u>How to Reset Chrome's Erroneous Virus Protection Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-procedure-for-windows-error-0xca00a009/"><u>Correction Procedure for Windows Error 0xCA00A009</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-practices-for-documenting-chat-history-on-whatsapp/"><u>In 2024, Best Practices for Documenting Chat History on WhatsApp</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-to-mp3-conversion-guide/"><u>In 2024, Instagram to MP3  Conversion Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-antivirus-conflicts-with-ms-defender/"><u>Navigating Through Antivirus Conflicts with MS Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-windows-experience-the-power-of-winstall-for-app-groups/"><u>Optimizing Your Windows Experience: The Power of Winstall for App Groups</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-20-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 20 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-non-changeable-energy-modes-in-windows-11/"><u>Navigating Non-Changeable Energy Modes in Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/demystifying-the-functionality-of-googles-audio-streaming-feature-podcast-edition-for-2024/"><u>Demystifying the Functionality of Googles Audio Streaming Feature Podcast Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-methods-for-engaging-wordpad/"><u>Windows Methods for Engaging WordPad</u></a></li>
+<li><a href="https://win11.techidaily.com/break-the-code-a-list-of-quick-access-techniques-for-credentials-in-win11/"><u>Break the Code: A List of Quick Access Techniques for Credentials in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-without-mishap-avoiding-errors-in-windows-11/"><u>Navigating Without Mishap: Avoiding Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-pc-repair-access-with-windows-troubleshooting-hotkeys/"><u>Enhancing PC Repair Access with Windows Troubleshooting Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-user-authentication-management-for-domains-in-w11/"><u>Perfecting User Authentication Management for Domains in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-sealed-boxes-to-digital-realm-unlocking-windows-11-with-a-window-7-key/"><u>From Sealed Boxes to Digital Realm: Unlocking Windows 11 With a Window 7 Key</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-windows-mouse-experience/"><u>Customize Your Windows Mouse Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>In 2024, Instagram Film Techniques  Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-direct-methods-reverse-film-frames-on-vlc-platform-for-2024/"><u>[New] Direct Methods  Reverse Film Frames on VLC Platform for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-snipping-tool-in-windows-11/"><u>How to Open the Snipping Tool in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-must-have-video-invite-tools-for-ios-and-android-users/"><u>New In 2024, Must-Have Video Invite Tools for iOS and Android Users</u></a></li>
+<li><a href="https://win11.techidaily.com/gpt4all-free-chatbot-clones-at-home-for-windows/"><u>GPT4All: Free ChatBot Clones at Home for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winxpxo11-how-to-prevent-closed-folders-double-clicked/"><u>WinXP/XO11 - How to Prevent Closed Folders, Double-Clicked</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-file-properties-a-windowayers-manual/"><u>Fine-Tuning File Properties: A Window'ayer's Manual</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-ephemeral-fades-in-digital-recording-software-audacity/"><u>[Updated] Perfecting Ephemeral Fades in Digital Recording Software Audacity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>In 2024, Transforming Your Videos' First Impression  FB Cover Makeover Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-read-only-on-windows-folders-amidst-issues/"><u>Bypassing Read-Only on Windows Folders Amidst Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-itel-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Itel</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhance-info-blocks-templates-for-youtube-titles-for-2024/"><u>Enhance Info Blocks  Templates for YouTube Titles for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-11x-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme 11X 5G.</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pc-bypassing-windows-11-lag-and-latency/"><u>Ignite Your PC: Bypassing Windows 11 Lag & Latency</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-in-use-errors-unique-device-names-on-windows-pcs/"><u>Clearing Up In Use Errors: Unique Device Names on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-taskbar-space-on-windows-11-os/"><u>Customizing Taskbar Space on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/alert-systems-top-7-windows-processes-for-infection-scrutiny/"><u>Alert Systems: Top 7 Windows Processes for Infection Scrutiny</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reat-video-platform-debate-vimeo-and-youtube/"><u>The Great Video Platform Debate  Vimeo & YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-bypassing-defender-firewall-in-win11/"><u>Mastering the Art of Bypassing Defender Firewall in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11-connectivity-the-5g-challenge/"><u>Addressing Windows 11 Connectivity: The 5G Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/grasping-group-policies-in-windows-environments/"><u>Grasping Group Policies in Windows Environments</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-secrets-audio-extraction-tools-and-methods-for-modern-media-consumption-windows-mac-iosandroid-updated/"><u>New Unveiling the Secrets Audio Extraction Tools and Methods for Modern Media Consumption (Windows, Mac, iOS/Android - Updated )</u></a></li>
+<li><a href="https://win11.techidaily.com/in-place-upgrade-mastery-simplify-your-transition-to-windows-11/"><u>In-Place Upgrade Mastery: Simplify Your Transition to Windows 11</u></a></li>
+</ul></div>

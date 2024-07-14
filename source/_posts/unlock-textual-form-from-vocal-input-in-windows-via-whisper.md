@@ -1,7 +1,7 @@
 ---
 title: Unlock Textual Form From Vocal Input in Windows via Whisper
-date: 2024-06-25T11:25:28.977Z
-updated: 2024-06-26T11:25:28.977Z
+date: 2024-07-13T09:55:54.983Z
+updated: 2024-07-14T09:55:54.983Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ## What Is OpenAI's Whisper?
 
- ChatGPT is all the rage nowadays, and we already saw[how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
+ ChatGPT is all the rage nowadays, and we already saw [how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
 
  Powered by deep learning and neural networks, Whisper is a natural language processing system that can "understand" speech and transcribe it into text. But it's also its own thing, sitting at a spot right among all similar solutions:
 
@@ -37,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ## Why Are AMD GPUs Not Supported?
 
- For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on[what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
+ For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on [what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
 
- CUDA is proprietary Nvidia technology, only compatible with Nvidia GPUs. The closest alternatives for AMD's hardware are OpenCL and Radeon Compute Platform. To learn more about how each company's solutions compare, check our article on[AMD Compute Units vs. Nvidia CUDA Cores](https://www.makeuseof.com/compute-units-vs-cuda-cores-whats-the-difference/) .
+ CUDA is proprietary Nvidia technology, only compatible with Nvidia GPUs. The closest alternatives for AMD's hardware are OpenCL and Radeon Compute Platform. To learn more about how each company's solutions compare, check our article on [AMD Compute Units vs. Nvidia CUDA Cores](https://www.makeuseof.com/compute-units-vs-cuda-cores-whats-the-difference/) .
 
  Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
 
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
 
- For Windows, to keep this guide simple, we'll use Chocolatey extensively for installing most of the necessary software parts. Check our guide on[the quickest way to install Windows software](https://www.makeuseof.com/tag/quickest-way-install-windows-software-command-prompt/) for more info on Chocolatey.
+ For Windows, to keep this guide simple, we'll use Chocolatey extensively for installing most of the necessary software parts. Check our guide on [the quickest way to install Windows software](https://www.makeuseof.com/tag/quickest-way-install-windows-software-command-prompt/) for more info on Chocolatey.
 
  For Linux and Macs, the installation process (excluding the Windows path variable, and easy-to-use batch files we'll create) should be similar.
 
-1. To install and use Whisper, you must have**Python** and its**PIP** tool installed and added to the Windows "Path" variable. For info on that, check our article on[how to install Python PIP on Windows, Mac, and Linux](https://www.makeuseof.com/tag/install-pip-for-python/) .
+1. To install and use Whisper, you must have**Python** and its**PIP** tool installed and added to the Windows "Path" variable. For info on that, check our article on [how to install Python PIP on Windows, Mac, and Linux](https://www.makeuseof.com/tag/install-pip-for-python/) .
 2. Install**FFMPEG** through Chocolatey with this command:  
 `choco install ffmpeg`  
  Also, install its Python version with:  
@@ -93,9 +93,9 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 
 ## How to Record Your Voice
 
- You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see[how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
+ You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see [how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
 
- For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
+ For a more full-featured option, try**Audacity** . Learn how to do it with our guide on [how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
 
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
 
@@ -195,3 +195,51 @@ For example:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/how-to-revive-windows-11s-help-interaction/"><u>How to Revive Windows 11'S Help Interaction</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilize-task-manager-app-placement-techniques/"><u>Stabilize Task Manager App Placement Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/edge-persistent-operation-on-win11/"><u>Edge: Persistent Operation on Win11?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-pc-graphics-fix-in-windows-1011/"><u>Mastering PC Graphics Fix in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-strategies-for-eradicating-microsoft-defender-footprints/"><u>Win 11 Strategies for Eradicating Microsoft Defender Footprints</u></a></li>
+<li><a href="https://win11.techidaily.com/3-key-steps-for-a-quick-return-to-desktop-in-wins-1011/"><u>3 Key Steps for a Quick Return to Desktop in Wins 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-system-sounds-despite-muted-status/"><u>Enable System Sounds Despite Muted Status</u></a></li>
+<li><a href="https://win11.techidaily.com/best-web-browsing-practices-minimizing-resources-across-platforms/"><u>Best Web Browsing Practices: Minimizing Resources Across Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/erasing-email-on-windows-sign-in-a-guide/"><u>Erasing Email on Windows Sign-In: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-ntoskrnlexe-overload-issue/"><u>Addressing Ntoskrnl.exe Overload Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/end-session-of-unknown-windows-users-effectively/"><u>End Session of Unknown Windows Users Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/strategizing-domain-users-biometric-use-on-w11/"><u>Strategizing Domain Users' Biometric Use on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-with-linuxs-sudo-feature/"><u>Navigating Windows with Linux's Sudo Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-multi-device-sticky-note-integration-on-win11/"><u>Seamless Multi-Device Sticky Note Integration on WIN11</u></a></li>
+<li><a href="https://win11.techidaily.com/openai-whisper-for-windows-voice-to-text-techniques-unveiled/"><u>OpenAI Whisper for Windows: Voice-to-Text Techniques Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-yuzu-gameplay-on-windows/"><u>Fast-Tracking Yuzu Gameplay on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-memory-shortage-error-in-windows-based-vms/"><u>Solutions for 'Memory Shortage' Error in Windows-Based VMs</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-fix-kit-conquering-error-code-0x80-cookies/"><u>Microsoft Store Fix Kit: Conquering Error Code 0X80 Cookies</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-enable-widgets-on-windows-11-system/"><u>Harness the Power: Enable Widgets on Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/the-rise-of-ai-in-next-gen-windows/"><u>The Rise of AI in Next-Gen Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-smooth-directx-installation-on-pc/"><u>Step-by-Step Guide to Smooth DirectX Installation on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-purging-partitions-on-your-win-os/"><u>Mastering the Art of Purging Partitions on Your Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unauthorized-access-to-secure-devices-win/"><u>Addressing Unauthorized Access to Secure Devices Win</u></a></li>
+<li><a href="https://win11.techidaily.com/zip-file-disguise-for-windows-11-enthusiasts/"><u>Zip File Disguise for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-up-against-silence-fixes-to-free-your-spacebar/"><u>Speak Up Against Silence: Fixes to Free Your Spacebar</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-printer-connectivity-windows-10-way/"><u>Enhance Printer Connectivity, Windows 10 Way</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-unsupported-devices-warning-when-upgrading-windows/"><u>How to Handle Unsupported Devices Warning When Upgrading Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-backstage-pass-for-streamers-recording-on-twitch/"><u>In 2024, The Backstage Pass for Streamers  Recording on Twitch</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-stuck-scrolling-in-excel-window-edition/"><u>Solutions for Stuck Scrolling in Excel, Window Edition</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>New 2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tranquil-sleep-soundtrack-expertly-selected-voices/"><u>2024 Approved  Tranquil Sleep Soundtrack  Expertly Selected Voices</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-navigation-for-uwp-apps-with-windows-11-links/"><u>Rapid Navigation for UWP Apps with Windows 11 Links</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-what-are-the-best-10-gif-creator/"><u>In 2024, What Are the Best 10 GIF Creator?</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-the-barriers-to-switching-out-of-s-mode/"><u>Dismantling the Barriers to Switching Out of S Mode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-master-screen-recording-on-windows-macos-and-android-devices/"><u>2024 Approved  Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-open-the-appsfolder-in-windows-11/"><u>7 Ways to Open the AppsFolder in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-your-pcs-ram-landscape-on-windows/"><u>Navigate Your PC's RAM Landscape on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-youtube-srt-extraction-three-practical-approaches-for-downloading/"><u>[New] 2024 Approved  YouTube SRT Extraction  Three Practical Approaches for Downloading</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-directing-tweeted-vids-to-fb-audiences/"><u>[Updated] Directing Tweeted Vids to FB Audiences</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstalling-the-redundant-or-missing-windows-tools-and-add-ons/"><u>Reinstalling the Redundant or Missing Windows Tools & Add-Ons</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-enhancing-your-youtube-projects-a-compreayer-of-visual-improvement/"><u>[New] 2024 Approved  Enhancing Your YouTube Projects  A Compreayer of Visual Improvement</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-visual-impact-with-auto-color-settings-in-windows-11/"><u>Maximize Visual Impact with Auto Color Settings in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-teachers-using-youtube-in-classroom/"><u>[New] Tips for Teachers Using YouTube in Classroom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>[Updated] 2024 Approved  Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
+</ul></div>

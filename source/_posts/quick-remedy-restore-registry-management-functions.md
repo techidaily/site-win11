@@ -1,7 +1,7 @@
 ---
 title: "Quick Remedy: Restore Registry Management Functions"
-date: 2024-06-25T11:37:41.658Z
-updated: 2024-06-26T11:37:41.658Z
+date: 2024-07-13T10:39:45.872Z
+updated: 2024-07-14T10:39:45.872Z
 tags:
   - windows10
   - windows11
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes a**Prevent access to registry editing tools** option. If you’re a Pro or Enterprise user, check if that policy setting is enabled and causing the issue at hand. This is how you can enable Registry Editor access with Group Policy Editor:
 
-1. Open Run (see[how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), type**gpedit.msc** in that accessory’s command box, and select**OK** .
+1. Open Run (see [how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), type**gpedit.msc** in that accessory’s command box, and select**OK** .
 2. Select User Configuration in Group Policy Editor’s sidebar.
 3. Double-click**Administrative Templates** \>**System** to reach the**Prevent access to registry editing tools** option.  
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-group-policy-editor.jpg)
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ## 6\. Perform a System Restore
 
- Restoring Windows to an earlier date can fix corrupted files. If you have the System Restore tool turned on, that might be worth a try. You can roll back Windows as outlined in our guide for[creating restore points in Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and utilizing System Restore. Select a restore point predating the “cannot find regedit.exe” error on your PC if you can.
+ Restoring Windows to an earlier date can fix corrupted files. If you have the System Restore tool turned on, that might be worth a try. You can roll back Windows as outlined in our guide for [creating restore points in Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and utilizing System Restore. Select a restore point predating the “cannot find regedit.exe” error on your PC if you can.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-tool.jpg)
 
@@ -138,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ## 7\. Reset Windows
 
- This last resolution will restore Windows 11/10 to a factory default configuration, which will likely resolve the “cannot find regedit.exe” issue. However, this is the last thing you should try since resetting Windows will also remove software packages that weren’t preinstalled. Our guide about[factory resetting a Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes the steps for applying this fix.
+ This last resolution will restore Windows 11/10 to a factory default configuration, which will likely resolve the “cannot find regedit.exe” issue. However, this is the last thing you should try since resetting Windows will also remove software packages that weren’t preinstalled. Our guide about [factory resetting a Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes the steps for applying this fix.
 
 ![The Reset this PC button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-button.jpg)
 
@@ -162,3 +162,39 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/regain-missing-windows-storage-access/"><u>Regain Missing Windows Storage Access</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-building-your-brand-through-effective-fb-reel-strategies/"><u>[Updated] 2024 Approved  Building Your Brand Through Effective FB Reel Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/minimalist-pc-large-space-slight-lag/"><u>Minimalist PC - Large Space, Slight Lag</u></a></li>
+<li><a href="https://win11.techidaily.com/reasons-behind-non-existent-drive-letters-and-fix-methods/"><u>Reasons Behind Non-Existent Drive Letters and Fix Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-iphone-methods-for-spherical-footage/"><u>[New] Pro iPhone Methods for Spherical Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-unlock-your-windows-pin/"><u>Efficient Methods to Unlock Your Windows PIN</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-audio-notes-essential-tips-for-2024/"><u>Mastering Audio Notes  Essential Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-tracking-and-managing-network-data-using-netstat-in-win11/"><u>Master the Art of Tracking and Managing Network Data Using Netstat in Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-with-windows-11-rebuild/"><u>New Horizons with Windows 11 Rebuild</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-essential-elements-missing-windows-error/"><u>Overcoming 'Essential Elements Missing' Windows Error</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-posting-videos-on-twitter-step-by-step/"><u>[New] Posting Videos on Twitter Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-script-setbacks-winerror-solutions-revealed/"><u>Navigating Script Setbacks: WinError Solutions Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>In 2024, Crafted Perfection  Ranking the Best 7 Stardew Mods (#7)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-get-adobe-premiere-pro-cs6-mac-version-absolutely-free/"><u>New Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free</u></a></li>
+<li><a href="https://win11.techidaily.com/team-meeting-screens-not-showing-up/"><u>Team Meeting Screens Not Showing Up?</u></a></li>
+<li><a href="https://win11.techidaily.com/tactical-steps-to-evade-windows-account-prompts/"><u>Tactical Steps to Evade Windows Account Prompts</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-intrusive-edge-toolbar-items/"><u>Removing Intrusive Edge Toolbar Items</u></a></li>
+<li><a href="https://win11.techidaily.com/biometric-breakthrough-turned-breach-windows-hellos-future/"><u>Biometric Breakthrough Turned Breach: Windows Hello's Future?</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-plugged-inspection-error-for-audio-hardware-on-winos/"><u>Fixing Plugged Inspection Error for Audio Hardware on WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-internal-audio-faults-in-audacity-wos-edition/"><u>Dissecting Internal Audio Faults in Audacity, WOS Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-master-movie-making-a-step-by-step-guide-to-pro-level-videos/"><u>Updated Master Movie Making A Step-by-Step Guide to Pro-Level Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-settings-mastery-for-efficient-pc-use-on-win-11/"><u>Quick Settings Mastery for Efficient PC Use on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/gpu-strain-tested-the-most-effective-win-utilities-ranked/"><u>GPU Strain Tested: The Most Effective Win Utilities Ranked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-science-enthusiasts-top-15-channel-list/"><u>[New] Science Enthusiasts' Top 15 Channel List</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-and-solving-roblox-errors-tied-to-account-restrictions/"><u>Unveiling and Solving Roblox Errors Tied to Account Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-ms-store-malfunctions-error-code-0x80072f17-solution/"><u>Mending MS Store Malfunctions: Error Code 0X80072f17 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-admin-level-function-disruptions/"><u>Steps to Mend Admin-Level Function Disruptions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-tool-for-perfect-openings-anywhere-you-go/"><u>[Updated] Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-xpatch-fixes-for-error-0x80073712/"><u>Mastering Windows XPatch Fixes for Error 0X80073712</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlocking-creative-expression-tips-for-sharing-gifs-on-snapchat/"><u>[Updated] 2024 Approved  Unlocking Creative Expression  Tips for Sharing GIFs on Snapchat</u></a></li>
+</ul></div>

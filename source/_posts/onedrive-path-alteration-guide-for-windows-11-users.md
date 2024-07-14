@@ -1,7 +1,7 @@
 ---
 title: OneDrive Path Alteration Guide for Windows 11 Users
-date: 2024-06-25T11:23:08.626Z
-updated: 2024-06-26T11:23:08.626Z
+date: 2024-07-13T09:47:26.411Z
+updated: 2024-07-14T09:47:26.411Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
 
- If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
+ If you’re new to the concept, check out our articles on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and [why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 ### 1\. Unlinking OneDrive
 
- The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
+ The first thing to do is to [unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
 
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
@@ -52,7 +52,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
 
-1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll[re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
+1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll [re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
 2. Once you’re signed in, you are presented with a screen that shows where Windows will set up your OneDrive folder. (By default, the system selects your user folder.)
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
@@ -64,7 +64,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
- Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+ Additionally, there are many [ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -87,3 +87,41 @@ With that done, you can now relocate your OneDrive folder.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/syncing-multiple-computers-to-one-printer-seamlessly/"><u>Syncing Multiple Computers to One Printer Seamlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/outstanding-5-streamer-gadgets-online-for-2024/"><u>Outstanding 5 Streamer Gadgets Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activate-superior-control-over-windows-11-task-management/"><u>How to Activate Superior Control Over Windows 11 Task Management</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-restoring-secure-file-connections-on-win/"><u>Strategies for Restoring Secure File Connections on Win</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-your-emulated-games-into-playnite-on-windows/"><u>How to Add Your Emulated Games Into Playnite on Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-browser-add-ons-streamlined-vimeo-video-downloading/"><u>[Updated] Essential Browser Add-Ons  Streamlined Vimeo Video Downloading</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-camera-conflict-error-0xa00f4243/"><u>Remedying Windows' Camera Conflict Error 0xA00F4243</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-not-found-the-ultimate-list/"><u>Overcoming Windows Not Found: The Ultimate List</u></a></li>
+<li><a href="https://win11.techidaily.com/the-easy-guide-to-opening-iis-explorer/"><u>The Easy Guide to Opening IIS Explorer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-building-an-mc-village-housing-essentials/"><u>In 2024, Building an MC Village  Housing Essentials</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-find-n3-flip-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Find N3 Flip Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-ultimate-guide-to-countdown-animation-in-videos-for-2024/"><u>New Ultimate Guide to Countdown Animation in Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovative-templates-for-zero-cost-youtube-intros-for-2024/"><u>Innovative Templates for Zero-Cost YouTube Intros for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-heavy-requirements-tiny11-delight/"><u>Escape Heavy Requirements: Tiny11 Delight</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-d3d11-hardware-error-in-w11w10-environments/"><u>Fixing D3D11 Hardware Error in W11/W10 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-erroneous-non-existing-device-alert-on-win-11/"><u>Overcoming Erroneous Non-Existing Device Alert on Win 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-youtube-music-to-your-android-phone-top-6-free-apps-for-2024/"><u>[Updated] Download YouTube Music to Your Android Phone  Top 6 Free Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/from-obscured-space-to-optimization-windows-guide-for-reclaiming-disk/"><u>From Obscured Space to Optimization: Windows Guide for Reclaiming Disk</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-glitches-in-microsofts-nearby-sharing-service/"><u>Handling Glitches in Microsoft's Nearby Sharing Service</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-shortcut-creation-on-windows-11/"><u>Harness the Power of Shortcut Creation on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-troubleshooting-fs-problems-on-windows-11/"><u>Strategies for Troubleshooting FS Problems on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-sign-out-problem-due-to-malware-intrusion/"><u>Remedying Windows Sign-Out Problem Due to Malware Intrusion</u></a></li>
+<li><a href="https://win11.techidaily.com/guidance-to-reconnect-controlled-audio-from-windows-bluetooth-devices/"><u>Guidance to Reconnect Controlled Audio From Windows' Bluetooth Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-map-a-network-drive-in-windows-11/"><u>How to Map a Network Drive in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-storage-strategies-with-a-focus-on-windows-diskusage/"><u>Streamlining Storage Strategies with a Focus on Windows' DiskUsage</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-solutions-workarounds-when-renaming-folders-is-impossible-on-win-11/"><u>Innovative Solutions: Workarounds When Renaming Folders Is Impossible on Win 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quickvid-simplified-w11-screen-capture-software/"><u>[New] QuickVid  Simplified W11 Screen Capture Software</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-dxgierrordeviceremoved-in-win-10-and-11/"><u>Handling DXGI_ERROR_DEVICE_REMOVED in Win 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-updeactivating-wi-fi-data-tracking-on-windows-11/"><u>Setting Up/Deactivating Wi-Fi Data Tracking on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/smashing-through-disconnection-issues-during-wins-discord-setup/"><u>Smashing Through Disconnection Issues During Win's Discord Setup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-camera-roundup-top-picks-for-superior-videography/"><u>[Updated] 2024 Approved  Camera Roundup  Top Picks for Superior Videography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-techniques-to-frame-photos-with-leading-lines-iphone/"><u>[New] Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
+</ul></div>

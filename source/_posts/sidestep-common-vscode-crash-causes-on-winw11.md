@@ -1,7 +1,7 @@
 ---
 title: Sidestep Common VSCode Crash Causes on WinW11
-date: 2024-06-25T11:35:27.286Z
-updated: 2024-06-26T11:35:27.286Z
+date: 2024-07-13T10:32:28.169Z
+updated: 2024-07-14T10:32:28.169Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Before moving on to more complex fixes for the app, completely close Visual Studio Code using Task Manager and restart it. Here's how to do it:
 
-1. Right-click on the**Start** button to open the[Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) . Click on the**Task Manager** option.
+1. Right-click on the**Start** button to open the [Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) . Click on the**Task Manager** option.
 2. Locate the Visual Studio Code process in the list of active processes.
 3. Right-click on it and click on the**End Task** option from the context menu. It will close Visual Studio Code app and all its associated processes.  
 ![Terminate Visual Studio Code and Restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/terminate-visual-studio-code-and-restart.jpg)
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
 ## 4\. Perform a Clean Boot
 
- Often, third-party apps and services can interfere with other apps and cause app freezes and crashes. So, to rule out this possibility, do a[clean boot of your Window system](https://www.makeuseof.com/clean-boot-windows-11/) with only Microsoft-related services enabled on startup.
+ Often, third-party apps and services can interfere with other apps and cause app freezes and crashes. So, to rule out this possibility, do a [clean boot of your Window system](https://www.makeuseof.com/clean-boot-windows-11/) with only Microsoft-related services enabled on startup.
 
  If Visual Studio Code works fine after a clean boot, retry the clean boot while enabling some third-party service. Repeat this process until you find the problematic service or app.
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
 ## 6\. Exclude Visual Studio Code in Windows Defender
 
- Antivirus programs do not play nicely with apps and programs and often wrongly flag them. So, add an exclusion for the Visual Studio Code app. If you use a third-party antivirus on your system, add an exclusion for the Visual Studio Code app directory by accessing its settings. You can even[temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and run the app to check if it crashes now.
+ Antivirus programs do not play nicely with apps and programs and often wrongly flag them. So, add an exclusion for the Visual Studio Code app. If you use a third-party antivirus on your system, add an exclusion for the Visual Studio Code app directory by accessing its settings. You can even [temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and run the app to check if it crashes now.
 
 ## 7\. Update Visual Studio Code
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Repeat the following steps to reinstall Visual Studio Code using Winget:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**cmd** in the text input box and press**Ctrl + Shift + Enter** to launch the command prompt with administrator rights.
 3. Accept the UAC prompt and click on the**Yes** button.
 4. Type the following command and press enter key:**Winget list**
@@ -107,7 +107,7 @@ winget uninstall Microsoft.VisualStudioCode
 
 ## 10\. Use the Web Version
 
- Microsoft even offers a[web version of Visual Studio Code](https://vscode.dev/) which you can use as a temporary solution. You can sign in to the web version and sync your files and settings. Moreover, you can install a PWA from the browser of Visual Studio Code and launch it directly from your desktop.
+ Microsoft even offers a [web version of Visual Studio Code](https://vscode.dev/) which you can use as a temporary solution. You can sign in to the web version and sync your files and settings. Moreover, you can install a PWA from the browser of Visual Studio Code and launch it directly from your desktop.
 
 ## Visual Studio Code Won’t Crash Anymore on Windows 11
 
@@ -130,3 +130,72 @@ winget uninstall Microsoft.VisualStudioCode
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a05s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A05s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-gif-design-for-beginners/"><u>[Updated] Simplifying GIF Design for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resetting-and-changing-login-credentials-in-win-11/"><u>Guide to Resetting and Changing Login Credentials in Win 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-a-course-youtubes-best-brands/"><u>[Updated] In 2024, Charting a Course  YouTube's Best Brands</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-visual-upgrades-with-themes-from-microsoft-store/"><u>Harnessing Visual Upgrades with Themes From Microsoft Store</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-sendtransfer-large-video-files-from-iphone-to-mac/"><u>How to Send/Transfer Large Video Files From iPhone to Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-dolby-atmos-integration-in-windows-1011/"><u>The Ultimate Guide to Dolby Atmos Integration in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-save-and-retain-user-defined-volume-on-windows/"><u>Steps to Save & Retain User-Defined Volume on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>[New] In 2024, TikTok and Twittersphere Crossover  The Viral Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-potential-with-microsofts-pc-manager-in-win11/"><u>Unlocking Potential with Microsoft's PC Manager in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-enter-key-capabilities-in-win-os/"><u>Regaining Full Enter Key Capabilities in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-re-establish-bluetooth-linkage-on-windows-1011/"><u>How To Re-Establish Bluetooth Linkage on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-giants-rivalry-facebook-vs-youtube-and-spaces-for-2024/"><u>Streaming Giants' Rivalry  Facebook Vs. YouTube & Spaces for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disconnect-fixing-gif-size-problems-in-discord-on-windows/"><u>Overcoming Disconnect: Fixing GIF Size Problems in Discord on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-professional-videographers-choice-for-screen-recordings-for-2024/"><u>[New] Professional Videographer's Choice for Screen Recordings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/powertoys-integration-into-win11-systems/"><u>PowerToys Integration Into Win11 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-v27e-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo V27e to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-pro-audio-insight-expertly-selected-9-mic-recorder-devices/"><u>In 2024, Pro Audio Insight  Expertly Selected 9 Mic Recorder Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-preview-failures-in-microsoft-mail/"><u>Tackling the Challenge of Preview Failures in Microsoft Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solution-fixing-windows-auto-detect-proxy-errors/"><u>Immediate Solution: Fixing Windows' Auto Detect Proxy Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-for-icloud-users-with-windows-pcs/"><u>Seamless Setup for iCloud Users with Windows PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-zoom-in-your-daily-gmail-routine/"><u>In 2024, How to Use Zoom in Your Daily Gmail Routine</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-crafting-auditory-landscapes-the-artistic-synergy-between-film-edits-and-pianissimo-passages/"><u>Updated 2024 Approved Crafting Auditory Landscapes The Artistic Synergy Between Film Edits and Pianissimo Passages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-sound-integration-with-powerpoint-displays/"><u>Streamline Sound Integration with PowerPoint Displays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spark-change-with-these-10-inspirational-classics/"><u>[New] Spark Change with These 10 Inspirational Classics</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-potential-a-comprehensive-guide-to-windows-11s-in-place-upsurge/"><u>Unleashing Potential: A Comprehensive Guide to Windows 11'S In-Place Upsurge</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-phantom-v-fold-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Phantom V Fold FRP?</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-windows-ethernet-connection-access/"><u>Regaining Windows Ethernet Connection Access</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-analysis-ergonomic-furnitures-impact-on-efficiency/"><u>[New] A Comprehensive Analysis  Ergonomic Furniture's Impact on Efficiency</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-imessage-for-windows-expert-techniques-revealed/"><u>Leveraging iMessage for Windows: Expert Techniques Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-x6-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco X6 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-frame-by-frame-flow-essential-tactics-to-combat-video-lag-windows/"><u>Mastering Frame-by-Frame Flow: Essential Tactics to Combat Video Lag Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-files-vanish-permanently-in-your-desktop-trash-bin-windows-11/"><u>How to Make Files Vanish Permanently in Your Desktop Trash Bin (Windows 11)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-online-add-on-social-media-story-vault/"><u>In 2024, Online Add-On  Social Media Story Vault</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-spectacular-top-liquid-physics-gaming/"><u>In 2024, Spectacular Top Liquid Physics Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-private-character-editor-in-windows/"><u>How to Open the Private Character Editor in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-review-of-bandicams-efficacy-in-multimedia-projects/"><u>Expert Review of Bandicam's Efficacy in Multimedia Projects</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-11-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 11? Heres the Best Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secret-of-your-computers-ram-type/"><u>Unlocking the Secret of Your Computer's RAM Type</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-platforms-revolutionizing-how-you-discover-youtube-keywords-for-2024/"><u>Top 10 Platforms Revolutionizing How You Discover YouTube Keywords for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fundamentals-of-windows-executable-files-pe/"><u>Fundamentals of Windows Executable Files (PE)</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-stop-net-core-error-message/"><u>Troubleshooting Windows: Stop .NET Core Error Message</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-pc-saving-spotlight-pictures-as-wallpapers/"><u>Personalizing Your PC: Saving Spotlight Pictures as Wallpapers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-icons-bunching-up-on-the-windows-11-taskbar/"><u>How to Fix Icons Bunching Up on the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-prevent-and-repair-vmstart-errors-in-wm11os/"><u>8 Ways to Prevent and Repair VMstart Errors in WM11OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-error-0x80300024-problems/"><u>Unraveling Windows' Error 0X80300024 Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-on-mending-windows-1011-corrupted-recycle-bin/"><u>Masterclass on Mending Windows 10/11 Corrupted Recycle Bin</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-note-savvy-in-the-world-of-windows-11/"><u>Sticky Note Savvy in the World of Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-beneath-the-surface-assessing-huawei-p10-writability-features/"><u>In 2024, Beneath the Surface  Assessing Huawei P10' Writability Features</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-resolve-audacitys-device-open-error-on-pc/"><u>Method to Resolve Audacity's Device Open Error on PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-free-green-screen-apps-for-android-and-ios-devices-2023-edition/"><u>Updated 2024 Approved Best Free Green Screen Apps for Android and iOS Devices 2023 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-unresponsive-process-in-windows/"><u>Steps to Resolve 'Unresponsive Process' In Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-error-e8024002e-for-smooth-updates/"><u>Overcoming Error E:8024002E for Smooth Updates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elite-choices-in-total-sweep-cinematography-for-2024/"><u>Elite Choices in Total Sweep Cinematography for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-telnet-enablement-in-win11/"><u>Step-by-Step: Telnet Enablement in Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oppo-a78-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Oppo A78 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/power-buttons-ahead-crafting-shortcuts-on-windows-11/"><u>Power Buttons Ahead: Crafting Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/instagrammable-pcs-how-to-add-your-chosen-weather-image-in-windows-11-status-bar/"><u>Instagrammable PCs: How to Add Your Chosen Weather Image in Windows 11 Status Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-past-to-present-playing-flash-games-without-adobe/"><u>From Past to Present: Playing Flash Games Without Adobe</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-wsl-a-complete-guide-for-win-1011-users/"><u>Uninstalling WSL: A Complete Guide for Win 10/11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/from-problem-to-perfection-tactics-to-install-missing-features-in-windows-11-and-11-pro/"><u>From Problem to Perfection: Tactics to Install Missing Features in Windows 11 & 11 Pro</u></a></li>
+</ul></div>

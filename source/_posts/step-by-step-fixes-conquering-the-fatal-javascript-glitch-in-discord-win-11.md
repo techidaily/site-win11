@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes: Conquering the Fatal Javascript Glitch in Discord Win 11"
-date: 2024-06-25T11:23:49.346Z
-updated: 2024-06-26T11:23:49.346Z
+date: 2024-07-13T09:49:38.587Z
+updated: 2024-07-14T09:49:38.587Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ## 1\. Run Discord With Admin Rights
 
- Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for[running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
+ Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for [running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
 
-1. Open this[Discord Enhancement Project](https://betterdiscord.app/) page.
+1. Open this [Discord Enhancement Project](https://betterdiscord.app/) page.
 2. Click the**Download v1.5.3** button.
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to go to the directory your browser downloads files to.
 4. Double-click the**BetterDiscord-Windows.exe** file.
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
 
-1. Check out our guide for[how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
+1. Check out our guide for [how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
 2. Click the menu button on the right side of the Discord app listed in Apps & Features to select**Uninstall** .
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 5. Reboot your Windows PC before reinstalling the Discord software.
-6. Open up the[download page for Discord](https://discord.com/download) .
+6. Open up the [download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ## Start Chatting in Discord Again on Windows
 
- So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the[submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
+ So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the [submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,3 +131,56 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/accelerated-email-checking-add-gmail-to-your-windows-side/"><u>Accelerated Email Checking: Add Gmail to Your Window's Side</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-perfecting-your-presence-skills-to-master-with-logitech-cam/"><u>In 2024, Perfecting Your Presence  Skills to Master with Logitech Cam</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-zeroxc000003e-problem-in-pc-application-startup/"><u>Addressing ZeroXc000003e Problem in PC Application Startup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-elevate-your-group-dynamics-with-discord-roles/"><u>In 2024, Elevate Your Group Dynamics with Discord Roles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>[Updated] 2024 Approved  Framing Perfection  A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-synchronized-data-across-your-multiple-windows-desktops-with-aoemi/"><u>Achieve Synchronized Data Across Your Multiple Windows Desktops With AOEMi</u></a></li>
+<li><a href="https://win11.techidaily.com/android-extension-in-w11-workspace-enhancing-productivity/"><u>Android Extension in W11 Workspace: Enhancing Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-the-account-lockout-counter-following-unsuccessful-logins-in-w10w11/"><u>Adjusting the Account Lockout Counter Following Unsuccessful Logins in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-strategies-keeping-epic-launcher-non-freezing/"><u>Avoidance Strategies: Keeping Epic Launcher Non-Freezing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>In 2024, Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-clock-display-window-10-and-11-guide/"><u>Adjusting Clock Display: Window 10 & 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-v22h2-update-installation-obstacle-in-win11/"><u>Addressing V22H2 Update Installation Obstacle in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-perfect-xbox-audio-with-windows-1011/"><u>Achieving Perfect Xbox Audio with Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-wsl-2s-error-4294967295-on-a-win-os/"><u>Addressing WSL 2'S ERROR 4294967295 on a Win OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-the-soundtrack-adding-editing-and-cropping-music/"><u>Pioneering the Soundtrack  Adding, Editing, and Cropping Music</u></a></li>
+<li><a href="https://win11.techidaily.com/address-windows-missing-camera-mystery-in-device-manager/"><u>Address Windows' Missing Camera Mystery in Device Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-monitors-order-in-windows/"><u>Altering Monitors' Order in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-optimal-efficiency-nircmd-tips-for-mastering-windows-11/"><u>Achieve Optimal Efficiency: NirCmd Tips for Mastering Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-finest-no-cost-recording-software-today/"><u>[Updated] Unveiling the Finest No-Cost Recording Software Today</u></a></li>
+<li><a href="https://win11.techidaily.com/autonomous-windows-update-an-offline-methodology/"><u>Autonomous Windows Update: An Offline Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-system-awakening-tweak-windows-11-boot-timeout/"><u>Accelerating System Awakening: Tweak Windows 11 Boot Timeout</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-directories-to-your-windows-11-quick-access-menu/"><u>Adding Directories to Your Windows 11 Quick Access Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/acceleration-at-fingertips-3-ways-to-enhance-mouse-double-click-speed/"><u>Acceleration at Fingertips: 3 Ways to Enhance Mouse Double-Click Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/automating-windows-11-app-installation-a-guide-to-winstall/"><u>Automating Windows 11 App Installation: A Guide to Winstall</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-empty-folder-warning-windows/"><u>Addressing Empty Folder Warning Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/optimal-sizing-for-youtube-thumbnail-impact/"><u>Optimal Sizing for YouTube Thumbnail Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/automation-bane-keep-your-windows-backdrop-steady/"><u>Automation Bane: Keep Your Windows Backdrop Steady</u></a></li>
+<li><a href="https://win11.techidaily.com/assess-if-your-system-qualifies-for-new-windows-11/"><u>Assess if Your System Qualifies for New Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-cannot-access-errors-for-files-in-win1011/"><u>Addressing 'Cannot Access' Errors for Files in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-0x0-failure-in-win11-setup-procedures/"><u>Avoid 0X0 Failure in Win11 Setup Procedures</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-innovative-audio-design-on-tiktok-how-to-change-your-speaking-style/"><u>[Updated] In 2024, Innovative Audio Design on TikTok  How to Change Your Speaking Style</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-workflow-creating-windows-shortcuts-for-uwp/"><u>Accelerating Workflow: Creating Windows Shortcuts for UWP</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-definitive-list-of-popular-software-for-auditory-disentanglement-from-video-footage/"><u>Updated In 2024, The Definitive List of Popular Software for Auditory Disentanglement From Video Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pivotal-insights-into-online-story-crafting/"><u>2024 Approved  Pivotal Insights Into Online Story Crafting</u></a></li>
+<li><a href="https://win11.techidaily.com/alter-display-angle-in-windows-settings/"><u>Alter Display Angle in Windows Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-reddits-golden-threads-a-commendable-collection-top-10/"><u>In 2024, Reddit's Golden Threads  A Commendable Collection (Top 10)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-sync-failures-with-microsoft-to-do/"><u>Addressing Sync Failures with Microsoft To Do</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/high-cash-content-creators/"><u>High-Cash Content Creators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-reimagining-teams-background-beforeafter-conversations/"><u>[Updated] In 2024, Reimagining Teams' Background Before/After Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/adept-methods-for-switching-file-types-in-windows/"><u>Adept Methods for Switching File Types in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-mobile-devices-for-windows-mic-input/"><u>Amplify Mobile Devices for Windows Mic Input</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-software-removal-crafting-wins-context-menu-aids/"><u>Accelerating Software Removal: Crafting Win's Context Menu Aids</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-windows-11-spatial-audio-setup-guide/"><u>Activating Windows 11: Spatial Audio Setup Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/administrative-task-mastery-initiating-task-manager-in-win11/"><u>Administrative Task Mastery: Initiating Task Manager in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-app-guard-features-with-graphical-upgrades-on-edge/"><u>Augmenting App Guard Features with Graphical Upgrades on Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-full-control-with-admin-cmd-role/"><u>Achieve Full Control with Admin CMD Role</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mobile-by-design-expert-advice-for-creating-effective-vertical-aspect-ratios-for-2024/"><u>Updated Mobile by Design Expert Advice for Creating Effective Vertical Aspect Ratios for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-cleanup-banishing-bloatware-on-win11/"><u>Accelerated Cleanup: Banishing Bloatware on Win11</u></a></li>
+</ul></div>

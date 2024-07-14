@@ -1,7 +1,7 @@
 ---
 title: Mastering the Installation of ARM-Based Windows 11 From ISO
-date: 2024-06-25T11:22:27.884Z
-updated: 2024-06-26T11:22:27.884Z
+date: 2024-07-13T09:45:10.735Z
+updated: 2024-07-14T09:45:10.735Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
  Like its predecessor, the newest iteration of Microsoft's popular operating system can run on compatible ARM devices. However, Windows 11 now uses the new ARM64EC application binary interface (ABI) for ARM devices. It helps developers achieve native speed and makes it compatible with x64 apps and their dependencies.
 
- Microsoft explains in detail[ARM64EC and its potential on its Windows Blogs](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/) .
+ Microsoft explains in detail [ARM64EC and its potential on its Windows Blogs](https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/) .
 
  If you have an ARM-based device that hasn't officially received the upgrade yet or want to install Windows 11 on your ARM-based Mac, you can do so using the Windows 11 ARM64 ISO file. That said,[Windows 11 and M1 Macs bring some additional challenges](https://www.makeuseof.com/will-windows-11-work-on-mac/) to the table that you should be aware of.
 
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ## How to Download Windows 11 ARM64 ISO
 
- To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to[download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
+ To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to [download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
 To download the Windows 11 ARM ISO:
 
-1. Go to the[UUP Dump page](https://uupdump.net/) .
+1. Go to the [UUP Dump page](https://uupdump.net/) .
 2. Type**Windows 11** in the search bar and hit**Enter** to view the search results.  
 ![uup dump upgrade windows 11 arm64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uup-dump-upgrade-windows-11-arm64.jpg)
 3. When the search page appears, look for the**Windows 11 ARM64** build and click on the build you want to download. You can press**Ctrl + F** to open**Finder** and type**Upgrade to Windows 11** to locate all the builds. Make sure it is an**arm64** build and not the standard x64.
@@ -67,7 +67,7 @@ To download the Windows 11 ARM ISO:
 4. UUP Dump will run the script in Windows Terminal and download the necessary files. Once downloaded, the Terminal window will turn blue, indicating the ISO building process is in progress.
 5. When the prompt appears, press**0** to exit.
 
- UUP Dump will save the ISO to your initially extracted folder. You can now use it to[create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to[create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
+ UUP Dump will save the ISO to your initially extracted folder. You can now use it to [create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to [create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
 
 ## Upgrade Your ARM-based PC to Windows 11
 
@@ -89,3 +89,45 @@ To download the Windows 11 ARM ISO:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/the-illusion-is-over-separating-authentic-from-counterfeit-windows-store-titles/"><u>The Illusion Is Over: Separating Authentic From Counterfeit Windows Store Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-disabled-usb-wi-fi-adapters-in-windows/"><u>How To Reactivate Disabled USB Wi-Fi Adapters in Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pushing-the-limits-advanced-strategies-for-google-podcasting/"><u>2024 Approved  Pushing the Limits  Advanced Strategies for Google Podcasting</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-iphone-photography-lighting-tips/"><u>[Updated] 2024 Approved  IPhone Photography Lighting Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-microsoft-m365-flaw-error-30015-26/"><u>Mitigating Microsoft M365 Flaw: Error 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-windows-alignment-combat-overscan-effects/"><u>Perfect Windows Alignment: Combat Overscan Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-intermittent-default-printer-choice/"><u>Managing Intermittent Default Printer Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-the-good-old-windows-photo-viewer-in-win1111-os/"><u>Revive the Good Old Windows Photo Viewer in Win11/11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/team-meeting-screens-not-showing-up/"><u>Team Meeting Screens Not Showing Up?</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-windows-n-variants-whats-worth-it/"><u>Comparing Windows N Variants: What's Worth It?</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-photo-ordering-software-roundup/"><u>Essential Windows Photo Ordering Software Roundup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-schedule-a-post-on-your-facebook-plusfree-tools-2023/"><u>[Updated] How to Schedule a Post on Your Facebook [+Free Tools 2023]</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-faster-downloads-in-microsofts-app-stores/"><u>Mastering Faster Downloads in Microsoft's App Stores</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-360-rotation-visual-exploration-for-2024/"><u>Perfect 360° Rotation Visual Exploration for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11-sandbox-initialization/"><u>Navigating Through Windows 11 Sandbox Initialization</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-of-online-video-reversal-software/"><u>Updated The Ultimate List of Online Video Reversal Software</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-on-activating-and-running-sfc-on-pc/"><u>Guide on Activating and Running SFC on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-control-key-operability-with-ease-on-windows-11/"><u>Restoring Control Key Operability with Ease on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remote-procedure-call-woes-five-quick-solutions/"><u>Remote Procedure Call Woes - Five Quick Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-devices-in-the-dormant-system-state/"><u>Controlling Devices in the Dormant System State</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-computer-written-record-with-ms-audits/"><u>Streamlining Your Computer’ Written Record with MS Audits</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-message-rendering-issues-in-discord-desktop/"><u>Addressing Message Rendering Issues in Discord Desktop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-11-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 11 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>Mastery in Missed  Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-microphone-use-a-deep-dive-into-win-11/"><u>Conquering Microphone Use: A Deep Dive Into Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-ending-the-gpsvc-hang-up-loop/"><u>Strategies for Ending the GPSVC Hang-Up Loop</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-splice-video-editor-a-thorough-exploration-of-its-capabilities/"><u>In 2024, Splice Video Editor A Thorough Exploration of Its Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-microsoft-stores-error-x80131500/"><u>Troubleshooting Microsoft Store's Error X80131500</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unrecognized-hardware-issue-on-windows-1110/"><u>Solving ‘Unrecognized Hardware’ Issue on Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-settings-mastery-for-efficient-pc-use-on-win-11/"><u>Quick Settings Mastery for Efficient PC Use on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-with-windows-printmanagement-msc-errors/"><u>Overcoming Obstacles with Windows 'Printmanagement' MSC Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11s-mail-app-converting-html-in-emails-back-to-plain-text/"><u>Solutions for Windows 11'S Mail App: Converting HTML in Emails Back to Plain Text</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dive-deep-into-the-world-of-creator-studio/"><u>[Updated] Dive Deep Into the World of Creator Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/delve-into-artificially-inspired-visuals-how-to-use-paint-cocreator-win11/"><u>Delve Into Artificially Inspired Visuals: How to Use Paint Cocreator (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win-ratio-valorant-optimization-guide/"><u>Enhancing Win Ratio: Valorant Optimization Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-video-sequences-fixing-delay-on-windows/"><u>Speeding Up Video Sequences: Fixing Delay on Windows</u></a></li>
+</ul></div>

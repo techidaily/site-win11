@@ -1,7 +1,7 @@
 ---
 title: How to Add a Desktop Trash Bin for Permanently Deleting Files on Windows 11 & 11
-date: 2024-06-25T11:43:30.673Z
-updated: 2024-06-26T11:43:30.673Z
+date: 2024-07-13T11:00:12.140Z
+updated: 2024-07-14T11:00:12.140Z
 tags:
   - windows10
   - windows11
@@ -26,19 +26,19 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
- Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
+ Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the [best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
  However, file shredder apps combat data recovery software by thoroughly eradicating files. Those tools permanently erase files by overwriting their data on hard drives. They do that with various data erasure overwrite standards, such as Gutmann’s and Schneier’s algorithms.
 
- So, you’ll need[third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
+ So, you’ll need [third-party file shredder software](https://www.makeuseof.com/best-file-shredder-programs/) if you want to permanently erase files beyond potential recovery. Free File Wiper and Multi Trash are apps that add file shredder bins to the Windows 11/10 desktop. Those are bins you can drag and drop files to for permanent erasure.
 
- Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
+ Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on [if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
 
-1. Open the[Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
+1. Open the [Free File Wiper download page](https://www.softpedia.com/get/Security/Secure-cleaning/Free-File-Wiper.shtml) .
 2. Click the**Download Now** and the**External Mirror 1** options.
 3. Activate File Explorer by pressing its folder library taskbar button.
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  Multi Trash is a gadget you can add to the desktop with the 8GadgetPack software. This desktop gadget is a 3-in-1 bin for recycling, deleting, and shredding files. When set to shred files, it will permanently erase them. This is how you can add Multi Trash to the Windows desktop.
 
-1. First, open the[8GadgetPack download page](https://8gadgetpack.net/) .
+1. First, open the [8GadgetPack download page](https://8gadgetpack.net/) .
 2. Click**Download** on that 8GadgetPack page.
 3. Follow the instructions on the linked download page to install the 8GadgetPack software.
-4. Next, open this[Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
+4. Next, open this [Multi Trash gadget](https://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) [download page](http://www.softpedia.com/get/Windows-Widgets/System-Utilities/Multi-Trash.shtml) .
 5. Click Multi Trash’s**Download Now** \>**Secure Download (US)** options.
 6. Now open the 8GadgetPack software.
 7. Click the**Add gadget** option to view the desktop widget selection window.  
@@ -113,3 +113,54 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/enhancing-device-communication-efficiency-by-optimizing-windows-systems/"><u>Enhancing Device Communication Efficiency by Optimizing Windows Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimize-your-livestream-top-5-best-practices/"><u>[Updated] 2024 Approved  Optimize Your Livestream  Top 5 Best Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/system-fixes-for-error-0x800700e1-in-windows-11/"><u>System Fixes for Error 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-financial-backbone-of-microsofts-windows-11/"><u>The Financial Backbone of Microsoft's Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-a-personalized-windows-console-experience/"><u>Craft a Personalized Windows Console Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-video-capture-tools-for-blogging-platforms/"><u>In 2024, Top 10 Video Capture Tools for Blogging Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/enter-the-inner-workings-of-your-pc/"><u>Enter the Inner Workings of Your PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-discovering-innovation-in-tiktok-a-complete-backdrop-transformation-handbook-for-2024/"><u>[Updated] Discovering Innovation in TikTok  A Complete Backdrop Transformation Handbook for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-6-unique-sources-for-premium-youtube-imagery/"><u>2024 Approved  Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-ties-with-windows-11-store/"><u>Cutting Ties with Windows 11 Store</u></a></li>
+<li><a href="https://win11.techidaily.com/10-solutions-for-stuck-pin-locks-on-windows/"><u>10 Solutions for Stuck PIN Locks on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-secrets-of-devhome-in-windows-11/"><u>Deciphering the Secrets of DevHome in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-installed-disk-issue-on-windows-11-system/"><u>Fixing Non-Installed Disk Issue on Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/8-microsoft-apps-you-must-install-on-android-if-you-have-a-windows-pc/"><u>8 Microsoft Apps You Must Install on Android if You Have a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-notepad-to-dark-mode-on-windows-11plus/"><u>Switching Notepad to Dark Mode on Windows 11+</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-way-for-printer-use-by-one-pc-only/"><u>Clearing the Way for Printer Use by One PC Only</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-screen-grabber-software-in-the-windows-10-arena/"><u>[New] 2024 Approved  Top Screen Grabber Software in the Windows 10 Arena</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-smoothly-fading-audio-within-lumafusion-for-2024/"><u>Techniques for Smoothly Fading Audio Within Lumafusion for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-vm-experience-seamless-upgrade-to-virtualbox-v70-on-w11-systems/"><u>Elevate Your VM Experience: Seamless Upgrade to VirtualBox v7.0 on W11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-void-recovering-startups-on-windows/"><u>Bridging the Void: Recovering Startups on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-menu-unlocking-ancestral-functions/"><u>Windows 11'S Menu: Unlocking Ancestral Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-geforce-0x0001-in-windows-1011-environment/"><u>Addressing GeForce 0X0001 in Windows 10/11 Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-unlock-windows-defense-against-admins-choice/"><u>Techniques to Unlock Windows Defense Against Admins' Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-immersive-surround-sound-incorporating-atmos-into-win-1011/"><u>Achieve Immersive Surround Sound: Incorporating Atmos Into Win 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-the-invalid-token-reference-in-modern-oses/"><u>Dealing with the Invalid Token Reference in Modern OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/1719374785731-unlock-additional-space-on-your-windows-system-for-free/"><u>Unlock Additional Space on Your Windows System, For Free!</u></a></li>
+<li><a href="https://win11.techidaily.com/excellent-windows-pens-tablet-notes-companions/"><u>Excellent Windows Pens' Tablet Notes Companions</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-settings-error-in-nvidias-geforce-app-windows-11/"><u>Steps to Overcome 'Settings Error' In NVIDIA's GeForce App (Windows 11)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-top-time-lapse-video-editing-software/"><u>Updated From Zero to Hero Top Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/trick-to-invoke-admin-level-powershell-on-your-win11-pc/"><u>Trick to Invoke Admin-Level PowerShell on Your Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-auto-shutdown-techniques-for-idle-windows-pcs/"><u>Easy Auto-Shutdown Techniques for Idle Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-excessive-gpu-usage-in-windows-desktop-window/"><u>Decreasing Excessive GPU Usage in Windows Desktop Window</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-display-management-in-windows-11/"><u>Understanding Display Management in Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-can-i-utilize-frequency-slicing-for-superior-acoustic-performance/"><u>Updated 2024 Approved Can I Utilize Frequency Slicing for Superior Acoustic Performance?</u></a></li>
+<li><a href="https://win11.techidaily.com/dont-overlook-the-side-effects-of-bargain-windows-keys/"><u>Don't Overlook: The Side Effects of Bargain Windows Keys</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life/"><u>Updated 2024 Approved The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-high-definition-cam-transcription-programs/"><u>[New] 2024 Approved  High Definition Cam Transcription Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-accessing-windows-11s-security-settings/"><u>Guide: Accessing Windows 11'S Security Settings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-tips-for-editing-your-videos-in-youtube-studio/"><u>[New] 2024 Approved  Essential Tips for Editing Your Videos in YouTube Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-ceasing-wired-pc-keyboard-on-windows/"><u>Tutorial: Ceasing Wired PC Keyboard on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-zeroxc000003e-application-errors-in-win1011/"><u>Strategies to Tackle ZeroXc000003e Application Errors in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-auto-clickers-with-hotkeys-for-windows/"><u>The 5 Best Auto Clickers With Hotkeys for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-activate-black-background-on-wincalc/"><u>Guide to Activate Black Background on WinCalc</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-best-split-screen-video-apps-for-ios-and-android/"><u>In 2024, Best Split Screen Video Apps for iOS And Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/eyesharp-hd-high-definition-chromecasting-for-2024/"><u>EyeSharp HD  High Definition Chromecasting for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quieting-beats-step-by-step/"><u>[New] Quieting Beats Step-by-Step</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11"
-date: 2024-06-25T11:33:49.069Z
-updated: 2024-06-26T11:33:49.069Z
+date: 2024-07-13T10:25:38.103Z
+updated: 2024-07-14T10:25:38.103Z
 tags:
   - windows10
   - windows11
@@ -111,3 +111,42 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/restoring-java-functionality-after-failed-installation/"><u>Restoring Java Functionality After Failed Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/next-steps-for-mobile-connectivity-in-windows-11/"><u>Next Steps for Mobile Connectivity in Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-style-sleuths-influential-beauty-creators/"><u>2024 Approved  Style Sleuths  Influential Beauty Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-grammarly-non-functionality-in-windows-10/"><u>Fixing Grammarly Non-Functionality in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-lost-flight-buddy-copilot-in-windows-11/"><u>Reclaiming Lost Flight Buddy (Copilot) in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-screen-clarity-challenges/"><u>Mastery Over Windows Screen Clarity Challenges</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-narzo-n55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme Narzo N55 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-potential-of-time-extension/"><u>2024 Approved  Unlocking the Potential of Time Extension</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unseen-aspects-the-hidden-secrets-of-instagram-stories-viewers/"><u>In 2024, Unseen Aspects  The Hidden Secrets of Instagram Stories Viewers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-secure-a-library-of-premium-free-graphic-designs/"><u>[Updated] How to Secure a Library of Premium, Free Graphic Designs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-transform-your-virtual-presence-with-google-meets-effects-features-for-2024/"><u>[Updated] Transform Your Virtual Presence with Google Meet's Effects Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-system-configurations-optimizing-usage-options/"><u>Master System Configurations: Optimizing Usage Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-discard-a-drives-divisional-structure-in-windows/"><u>Simplified Techniques to Discard a Drive's Divisional Structure in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-note-visibility-in-win-11/"><u>Maximizing Note Visibility in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-power-indicators-full-charge-alerts-for-windows-11/"><u>Mastering Power Indicators: Full Charge Alerts for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/get-icloud-running-without-glitches-on-your-windows-device/"><u>Get iCloud Running Without Glitches on Your Window's Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-coal-renewable-energy-fuels-all-of-fb/"><u>Beyond Coal: Renewable Energy Fuels All of FB</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-top-list-best-livestream-shopping-apps-of-for-2024/"><u>Updated Top List Best Livestream Shopping Apps Of for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram-for-2024/"><u>Mastering Multimedia Posts  Multiphotograph & Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mellowing-down-post-high-life-hectic-windows-routine/"><u>Mellowing Down Post-High Life Hectic Windows Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/from-minuscule-to-monumental-boosting-windows-11-icon-sizes/"><u>From Minuscule to Monumental - Boosting Windows 11 Icon Sizes</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-disconnect-solution-non-operative-printer-removal-in-win-1011/"><u>Quick Disconnect Solution: Non-Operative Printer Removal in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-systemsettingsexe-failure-on-windows-11/"><u>Preventing SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-win-10s-internet-safety-mechanism/"><u>How to Set Win 10’S Internet Safety Mechanism</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-0x0000004e-on-win11-devices/"><u>Remedying Error 0X0000004E on Win11 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-smart-8-hd-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Smart 8 HD by Name | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-ultimate-3-auditory-enhancement-devices-for-mp3-files/"><u>2024 Approved Ultimate 3 Auditory Enhancement Devices for MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-direct-voice-communication-for-xbox-on-windows-11/"><u>Reinstating Direct Voice Communication for Xbox on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instructions-for-customizing-spiritual-sounds-as-ringtones/"><u>Instructions for Customizing Spiritual Sounds as Ringtones</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-easy-to-use-video-editors-for-home-users/"><u>Updated In 2024, Easy-to-Use Video Editors for Home Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly-for-2024/"><u>Streamlining Virtual Meetings  Integrating Zoom with SKYPE Effortlessly for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-unable-to-open-on-ges-sharing-feature/"><u>Remedy for Unable to Open on GE's Sharing Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/sharpen-outlook-response-in-the-windows-realm/"><u>Sharpen Outlook Response in the Windows Realm</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-your-favorite-microsoft-store-for-windows-devices/"><u>Reinstate Your Favorite Microsoft Store for Windows Devices</u></a></li>
+</ul></div>

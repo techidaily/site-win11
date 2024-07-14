@@ -1,7 +1,7 @@
 ---
 title: Transitioning HEIC Pictures to JPEG in W10/W11
-date: 2024-06-25T11:40:43.824Z
-updated: 2024-06-26T11:40:43.824Z
+date: 2024-07-13T10:50:53.304Z
+updated: 2024-07-14T10:50:53.304Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
  Aside from that, installing this software also enables you to preview HEIC images in Explorer without converting them. You can convert multiple HEIC images to JPEG with CopyTrans as follows:
 
-1. Open this[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
+1. Open this [CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
 2. Click CopyTrans HEIC’s**Download** button and downloaded the executable.
 3. Double-click the**CopyTransHEICforWindowsv2.000.exe** file.
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
 1. Open Explorer after installing CopyTrans HEIC (there’s no need for a restart Windows).
 2. Bring up a folder that contains some HEIC images you want to convert.
-3. Hold the**Ctrl** key to[select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
+3. Hold the**Ctrl** key to [select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
 
-1. Open the[FoneTool](https://www.fonetool.com/download.html) download page.
+1. Open the [FoneTool](https://www.fonetool.com/download.html) download page.
 2. Click**Free Download for PC** to get the setup wizard for the freeware version.
 3. Then double-click**FoneTool\_free\_installer.Z1qPz.exe** to open FoneTool’s setup wizard.
 4. If you prefer to configure the installation in any way, click Customization in the setup window. Then you can click the**Select Path** button to change the directory.
@@ -87,9 +87,9 @@ Now it's time to convert images with FoneTool:
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
- There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
+ There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
-1. Open the[HEIC to JPEG Free Online Converter](https://heic.online/) web app.
+1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
@@ -126,3 +126,47 @@ Now it's time to convert images with FoneTool:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/1719368088856-troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comparative-study-of-cloud-and-physical-methods-for-windows-setup/"><u>A Comparative Study of Cloud & Physical Methods for Windows Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/1719362389609-determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreenas-for-navigating-windows-11s-troubleshooter/"><u>A Compreenas for Navigating Windows 11'S Troubleshooter</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-most-budget-friendly-options-10-great-software-for-recording-discord-talk/"><u>[Updated] 2024 Approved  The Most Budget-Friendly Options  10 Great Software for Recording Discord Talk</u></a></li>
+<li><a href="https://win11.techidaily.com/1719339382074-unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/6-effortless-steps-to-add-social-media-live-content-online/"><u>6 Effortless Steps to Add Social Media Live Content Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-exploring-the-purpose-of-instagram-story-sections/"><u>In 2024, Exploring the Purpose of Instagram Story Sections</u></a></li>
+<li><a href="https://win11.techidaily.com/a-photographers-companion-fixing-your-windows-camera/"><u>A Photographer’s Companion: Fixing Your Window's Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/1719348018496-skip-bloatware-embrace-pure-windows-11-experience/"><u>Skip Bloatware: Embrace Pure Windows 11 Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-encyclopedia-of-diverse-video-capture-units/"><u>[Updated] Encyclopedia of Diverse Video Capture Units</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-essential-manual-to-fb-video-playback-settings/"><u>[New] The Essential Manual to FB Video Playback Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-stop-automatic-office-updates-on-windows/"><u>4 Ways to Stop Automatic Office Updates on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
+<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easy-process-invert-video-order-using-vlc-application/"><u>[New] 2024 Approved  Easy Process  Invert Video Order Using VLC Application</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-zen-of-sleep-curated-asmr-vocalists/"><u>[Updated] The Zen of Sleep  Curated ASMR Vocalists</u></a></li>
+<li><a href="https://win11.techidaily.com/7-essential-windows-processes-that-could-be-hiding-a-virus/"><u>7 Essential Windows Processes That Could Be Hiding a Virus</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simple-guide-to-finding-out-what-model-you-run-on-windows/"><u>A Simple Guide to Finding Out What Model You Run on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719359813770-cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/9-reasons-pcs-are-better-than-macs/"><u>9 Reasons PCs Are Better Than Macs</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-from-voice-to-print-effective-speech-to-text-strategies/"><u>New From Voice to Print Effective Speech-to-Text Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-change-taskbar-history-19852023/"><u>A Window Into Change: Taskbar History (1985–2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/a-windows-11-software-removal-primer-top-11-approaches-114-chars/"><u>A Windows 11 Software Removal Primer: Top 11 Approaches (114 Chars)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-reasons-users-prefer-older-windows-versions/"><u>7 Key Reasons Users Prefer Older Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-to-revamping-group-policy-settings/"><u>A Practical Approach to Revamping Group Policy Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-immaculate-window-display-on-w11/"><u>A Guide to Immaculate Window Display on W11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-simple-yet-powerful-video-editors-for-learners/"><u>New Simple yet Powerful Video Editors for Learners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-4k-unveiled-hp-dreamcolors-technological-leap/"><u>In 2024, 4K Unveiled  HP DreamColor's Technological Leap</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/simplified-sound-conversion-top-6-apps-for-youtube-to-mp3-on-iphone-for-2024/"><u>Simplified Sound Conversion  Top 6 Apps for YouTube to MP3 on iPhone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-fix-for-inaccessible-screen-settings-in-windows/"><u>A Comprehensive Fix for Inaccessible Screen Settings in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discreet-downloaders-ranked-2023s-best-8-selections/"><u>[Updated] Discreet Downloaders Ranked  2023'S Best 8 Selections</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-edge-40-neo-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Edge 40 Neo FRP Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/a-quick-guide-to-restoring-functionality-of-your-windows-11-search-box/"><u>A Quick Guide to Restoring Functionality of Your Windows 11 Search Box</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-can-you-view-all-shared-videos-and-photos-on-messenger/"><u>[Updated] How Can You View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://win11.techidaily.com/9-strategies-for-troubleshooting-windows-10-blue-screen-crashes/"><u>9 Strategies for Troubleshooting Windows 10 Blue Screen Crashes</u></a></li>
+</ul></div>

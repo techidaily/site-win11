@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot a Faulty Esc Key in Windows 10 and Beyond
-date: 2024-06-25T11:39:50.248Z
-updated: 2024-06-26T11:39:50.248Z
+date: 2024-07-13T10:47:53.375Z
+updated: 2024-07-14T10:47:53.375Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 ![Esc key on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/esc-key-on-a-keyboard.jpg)
 
- If you are using an external keyboard, you can try disconnecting and reconnecting it. While you're at it, try a different USB port this time to determine[if there’s an issue with the USB port on your computer](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
+ If you are using an external keyboard, you can try disconnecting and reconnecting it. While you're at it, try a different USB port this time to determine [if there’s an issue with the USB port on your computer](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
 
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
 
@@ -68,11 +68,11 @@ To run the keyboard troubleshooter on Windows:
 
 ## 5\. Uninstall Any Key Mapping Software
 
- Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+ Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on [different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ## 6\. Run SFC and DISM Scans
 
- Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+ Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
 ## 7\. Update or Reinstall Keyboard Drivers
 
@@ -98,11 +98,11 @@ To run the keyboard troubleshooter on Windows:
 
  If the Esc key is still not working at this point, it’s worth ensuring that your PC isn’t infected by malware. For that, you can run a full system scan using Windows Defender or a third-party antivirus program.
 
- Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
+ Make sure you take [the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
 
 ## 10\. Troubleshoot in Clean Boot State
 
- At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
+ At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
 
@@ -141,3 +141,61 @@ To perform a system restore on Windows, use these steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/managing-disk-space-wisely-recognizing-huge-file-and-folder-use/"><u>Managing Disk Space Wisely: Recognizing Huge File & Folder Use</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-managing-packages-via-winget-on-win11/"><u>Advanced Techniques for Managing Packages via Winget on Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clear-vision-on-recordcast-usability-for-2024/"><u>Clear Vision on RecordCast Usability for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xbox-play-network-errors-on-windows-1011-systems/"><u>Fixing Xbox Play Network Errors on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-access-to-steam-remote-play/"><u>Winning Back Access to Steam Remote Play</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-frozen-menu-items-in-windows-11-desktop/"><u>Addressing Frozen Menu Items in Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-personalized-windows-speech-to-text-app-using-whisper-and-ahk/"><u>Creating a Personalized Windows Speech-to-Text App Using Whisper & AHK</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-no-response-to-click-events/"><u>Tackling Windows 11: No Response to Click Events</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-valheim-planting-manual-for-2024/"><u>The Ultimate Valheim Planting Manual for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-windows-ui-cli-features-for-taskmgr-windowed-console/"><u>Augmenting Windows UI: CLI Features for TaskMgr Windowed Console</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-action-plan-9-steps-to-stop-wwe-crashes-in-windows/"><u>Accelerated Action Plan: 9 Steps to Stop WWE Crashes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-computers-small-smart-and-windows/"><u>Innovative Computers: Small, Smart, and Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-playback-how-to-start-windows-media-player/"><u>Initiating Playback - How to Start Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-alerts-for-unrequested-system-recommendations/"><u>Cease Alerts for Unrequested System Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-chkdsk-sfc-and-dism-for-system-repairing/"><u>Decoding CHKDSK, SFC & DISM for System Repairing</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-typing-efficiency-with-w11-bespo-points/"><u>Elevate Typing Efficiency with W11, Bespo Points</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-purpose-of-pagefilesys-and-should-it-be-deleted/"><u>What Is the Purpose of Pagefile.sys and Should It Be Deleted?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-missing-battery-time-estimate-in-windows-11/"><u>How to Fix a Missing Battery Time Estimate in Windows 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-enhancing-communication-adding-emojis-to-disco-statuses/"><u>2024 Approved  Enhancing Communication  Adding Emojis to Disco Statuses</u></a></li>
+<li><a href="https://win11.techidaily.com/audio-amplifiers-4-essential-tools-that-push-pc-sounds-past-100/"><u>Audio Amplifiers: 4 Essential Tools that Push PC Sounds Past 100%%</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-s17-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo S17 Pro Lock Screen Password</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-error-0x80004004-on-defender/"><u>Deciphering and Correcting Error 0X80004004 on Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-type-speed-cutting-down-lag-on-windows-11/"><u>Accelerating Type Speed: Cutting Down Lag on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-moto-g84-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto G84 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-operation-failed-0x0000011b-in-windows/"><u>Overcoming Operation Failed 0X0000011B in Windows</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-gt-10-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix GT 10 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-retrieve-faded-bios-messages/"><u>Tips to Retrieve Faded BIOS Messages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-secrets-to-stellar-igtv-footage-capture/"><u>[New] Unveiling the Secrets to Stellar IGTV Footage Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-null-associated-app-error-on-windows-systems/"><u>Fixing Null Associated App Error on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboardmouse-wake-issues-fix-for-win11-users/"><u>Keyboard/Mouse Wake Issues: Fix for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-your-windows-stylus-device/"><u>Mastering the Art of Fixing Your Windows Stylus Device</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-tabs-on-pc-login-separating-goals-from-errors/"><u>Keeping Tabs on PC Login: Separating Goals From Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-common-setbacks-when-launching-csgo-on-w11/"><u>Avoiding Common Setbacks When Launching CS:GO on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-iphone-images-problem-in-windows-environments/"><u>How to Rectify iPhone Images Problem in Windows Environments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cutting-edge-livestream-software-selection-for-2024/"><u>[New] Cutting-Edge Livestream Software Selection for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-see-what-is-taking-up-too-much-disk-space-on-your-windows-pc/"><u>How to See What Is Taking Up Too Much Disk Space on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-opengl-error-3-from-nvidia/"><u>Correcting OpenGL Error 3 From NVIDIA</u></a></li>
+<li><a href="https://win11.techidaily.com/augment-windows-taskbar-with-numeric-key-and-caps-indicator-symbols/"><u>Augment Windows Taskbar with Numeric Key & Caps Indicator Symbols</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-ultimate-voice-communication-applications-for-gaming-community-2023-edition/"><u>Updated Ultimate Voice Communication Applications for Gaming Community - 2023 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-generic-device-halt-a-guide/"><u>Bypassing Windows Generic Device Halt: A Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-landscape-mastery-tips-that-work-like-magic/"><u>[Updated] IPhone Landscape Mastery  Tips That Work Like Magic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f14-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy F14 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-cannot-open-file-problems-in-win1110/"><u>Mastering the Art of Fixing 'Cannot Open File' Problems in Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-flow-optimize-your-windows-11-hdd/"><u>Mastering Data Flow: Optimize Your Windows 11 HDD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixels-of-laughter-mobile-apps-transform-images/"><u>Pixels of Laughter  Mobile Apps Transform Images</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-to-change-file-formats-on-pc/"><u>Expert Strategies to Change File Formats on PC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-pull-in-viewers-with-the-best-tiktok-caption-ideas-for-engagement/"><u>[Updated] In 2024, Pull in Viewers With The Best TikTok Caption Ideas for Engagement</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-power-of-two-networks-a-window-guide-to-dual-connectivity/"><u>Leveraging the Power of Two Networks: A Window Guide to Dual Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-cannot-preview-error-with-microsoft-office-outlook/"><u>Resolving 'Cannot Preview' Error with Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-fix-steam-not-detecting-your-controller-on-windows/"><u>10 Ways to Fix Steam Not Detecting Your Controller on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-network-shield-controls-on-windows/"><u>Mastering Network Shield Controls on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-20-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark 20 Fingerprint Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-cannot-locate-gpeditmsc-error-in-windows/"><u>Addressing the Cannot Locate Gpedit.msc Error in Windows</u></a></li>
+</ul></div>

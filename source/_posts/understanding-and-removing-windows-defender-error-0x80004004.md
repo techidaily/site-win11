@@ -1,7 +1,7 @@
 ---
 title: Understanding & Removing Windows Defender Error 0X80004004
-date: 2024-06-25T11:42:42.180Z
-updated: 2024-06-26T11:42:42.180Z
+date: 2024-07-13T10:57:47.567Z
+updated: 2024-07-14T10:57:47.567Z
 tags:
   - windows10
   - windows11
@@ -60,7 +60,7 @@ Here is how you can do that:
 
  As we mentioned above, the issue can also occur if you have another third-party security program installed on the system. It might be interfering with the process of Microsoft Defender, leading to the issue.
 
- If you have a different program offering the same functionalities installed, then we recommend uninstalling it and checking if that makes any difference. Our guide on[removing software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) should help you perform the steps with ease.
+ If you have a different program offering the same functionalities installed, then we recommend uninstalling it and checking if that makes any difference. Our guide on [removing software from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) should help you perform the steps with ease.
 
  If you do not want to uninstall the program just yet, you can also disable it temporarily and try performing the action that was initially leading to the Defender error. To disable such programs, you can right-click on their icon in the taskbar and choose**Disable until the computer is restarted** .
 
@@ -72,13 +72,13 @@ Here is how you can do that:
 
 ### Run the Windows Update Troubleshooter
 
- If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+ If you are encountering the error code while trying to update Microsoft Defender, then you can [run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
- If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
+ If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on [the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
@@ -86,7 +86,7 @@ Here is how you can do that:
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
- Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+ Our guide on [the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -108,3 +108,43 @@ Here is how you can do that:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-join-the-flavor-party-with-these-top-15-recipe-videos-that-are-baking-on-social-media/"><u>[New] 2024 Approved  Join the Flavor Party with These Top 15 Recipe Videos That Are Baking on Social Media</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>In 2024, Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-compilation-of-instrumental-scores-for-cinematic-projects/"><u>Updated The Ultimate Compilation of Instrumental Scores for Cinematic Projects</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-strategies-for-high-quality-adobe-recordings/"><u>[Updated] Top Strategies for High-Quality Adobe Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>2024 Approved  A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-to-revamping-group-policy-settings/"><u>A Practical Approach to Revamping Group Policy Settings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068691809-updated-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[Updated] 2024 Approved  Expert Picks  Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simple-guide-to-finding-out-what-model-you-run-on-windows/"><u>A Simple Guide to Finding Out What Model You Run on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Motorola Moto G84 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comparative-study-of-cloud-and-physical-methods-for-windows-setup/"><u>A Comparative Study of Cloud & Physical Methods for Windows Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/a-windows-11-software-removal-primer-top-11-approaches-114-chars/"><u>A Windows 11 Software Removal Primer: Top 11 Approaches (114 Chars)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing/"><u>In 2024, A Guide to High-Quality Slow Motion Images for Instagram Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/1719359813770-cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-breaking-down-the-most-influential-youtube-personalities/"><u>In 2024, Breaking Down the Most Influential YouTube Personalities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-windows-call-platforms-7-1-ranked/"><u>[Updated] 2024 Approved  Leading Windows Call Platforms  #7-#1 Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/7-essential-windows-processes-that-could-be-hiding-a-virus/"><u>7 Essential Windows Processes That Could Be Hiding a Virus</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-reasons-users-prefer-older-windows-versions/"><u>7 Key Reasons Users Prefer Older Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-stop-automatic-office-updates-on-windows/"><u>4 Ways to Stop Automatic Office Updates on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-change-taskbar-history-19852023/"><u>A Window Into Change: Taskbar History (1985–2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/1719368088856-troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/a-photographers-companion-fixing-your-windows-camera/"><u>A Photographer’s Companion: Fixing Your Window's Camera</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-c55-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme C55 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-examination-the-dji-phantom-3-experience/"><u>[New] In-Depth Examination  The DJI Phantom 3 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/1719339382074-unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs.</u></a></li>
+<li><a href="https://win11.techidaily.com/9-reasons-pcs-are-better-than-macs/"><u>9 Reasons PCs Are Better Than Macs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-app-for-video-consumption-analysis/"><u>[Updated] Innovative App for Video Consumption Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-immaculate-window-display-on-w11/"><u>A Guide to Immaculate Window Display on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719348018496-skip-bloatware-embrace-pure-windows-11-experience/"><u>Skip Bloatware: Embrace Pure Windows 11 Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-macvideo-editor/"><u>2024 Approved MacVideo Editor</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-youtube-mp3-converters-ranked/"><u>[Updated] The Ultimate Guide  YouTube Mp3 Converters Ranked</u></a></li>
+</ul></div>

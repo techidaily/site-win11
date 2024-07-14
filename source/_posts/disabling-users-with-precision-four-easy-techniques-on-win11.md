@@ -1,7 +1,7 @@
 ---
 title: "Disabling Users with Precision: Four Easy Techniques on Win11"
-date: 2024-06-25T11:41:09.831Z
-updated: 2024-06-26T11:41:09.831Z
+date: 2024-07-13T10:51:16.571Z
+updated: 2024-07-14T10:51:16.571Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 
 ## 1\. How to Disable a User Account in Windows Settings
 
- Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you[add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
+ Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you [add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
 
 To disable user accounts via Settings:
 
@@ -61,7 +61,7 @@ To disable a user account using PowerShell:
 `Enable-LocalUser -Name &ldquo;NewUser&rdquo;`
 5. In the above command replace NewUser with your user account name.
 
- When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
+ When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to [lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -110,7 +110,7 @@ To disable a user account using Command Prompt:
 
  Windows 11 Home users will have to rely on a third-party tool to disable a user account via the Local User and Groups console. Lusrmgr is a third-party snap-in that offers similar functionalities as the Local Users and Groups Management console.
 
- To install the tool, follow our guide to[enable Local User and Group Management on Windows 11](https://www.makeuseof.com/windows-home-edition-enable-local-user-group-management/) . Once done, follow the steps below:
+ To install the tool, follow our guide to [enable Local User and Group Management on Windows 11](https://www.makeuseof.com/windows-home-edition-enable-local-user-group-management/) . Once done, follow the steps below:
 
 1. Double-click on the**lusrmgr.exe** file to launch the application.
 2. In the**Local users and groups** dialog, select**Users** .
@@ -143,3 +143,54 @@ To disable a user account using Command Prompt:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/fixing-null-associated-app-error-on-windows-systems/"><u>Fixing Null Associated App Error on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-device-not-found-problems-in-windows/"><u>Addressing 'Device Not Found' Problems in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboardmouse-wake-issues-fix-for-win11-users/"><u>Keyboard/Mouse Wake Issues: Fix for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/audio-amplifiers-4-essential-tools-that-push-pc-sounds-past-100/"><u>Audio Amplifiers: 4 Essential Tools that Push PC Sounds Past 100%%</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-error-0x80004004-on-defender/"><u>Deciphering and Correcting Error 0X80004004 on Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-of-windowed-app-repositioning-techniques/"><u>Avoidance of Windowed App Repositioning Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-ultimate-collection-s-best-podcasts-on-leveraging-social-media-for-marketing-success/"><u>Updated 2024 Approved The Ultimate Collection S Best Podcasts on Leveraging Social Media for Marketing Success</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-managing-packages-via-winget-on-win11/"><u>Advanced Techniques for Managing Packages via Winget on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-action-plan-9-steps-to-stop-wwe-crashes-in-windows/"><u>Accelerated Action Plan: 9 Steps to Stop WWE Crashes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-access-to-steam-remote-play/"><u>Winning Back Access to Steam Remote Play</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-full-compatibility-with-ios-events-in-windows/"><u>Achieving Full Compatibility with iOS Events in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-frozen-menu-items-in-windows-11-desktop/"><u>Addressing Frozen Menu Items in Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-to-change-file-formats-on-pc/"><u>Expert Strategies to Change File Formats on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-generic-device-halt-a-guide/"><u>Bypassing Windows Generic Device Halt: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-typing-efficiency-with-w11-bespo-points/"><u>Elevate Typing Efficiency with W11, Bespo Points</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-opengl-error-3-from-nvidia/"><u>Correcting OpenGL Error 3 From NVIDIA</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-operational-windows-rules-in-office-365/"><u>Addressing Non-Operational Windows Rules in Office 365</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-tabs-on-pc-login-separating-goals-from-errors/"><u>Keeping Tabs on PC Login: Separating Goals From Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-fix-steam-not-detecting-your-controller-on-windows/"><u>10 Ways to Fix Steam Not Detecting Your Controller on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-playback-how-to-start-windows-media-player/"><u>Initiating Playback - How to Start Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-personalized-windows-speech-to-text-app-using-whisper-and-ahk/"><u>Creating a Personalized Windows Speech-to-Text App Using Whisper & AHK</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-chkdsk-sfc-and-dism-for-system-repairing/"><u>Decoding CHKDSK, SFC & DISM for System Repairing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-curtail-unexpected-youtube-recommendations/"><u>[New] In 2024, Curtail Unexpected YouTube Recommendations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-fine-tuning-frequency-flux-innovative-approaches-to-minimize-noise-in-audacity/"><u>Updated Fine-Tuning Frequency Flux Innovative Approaches to Minimize Noise in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-purpose-of-pagefilesys-and-should-it-be-deleted/"><u>What Is the Purpose of Pagefile.sys and Should It Be Deleted?</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-windows-11s-system32-folder/"><u>Accessing Windows 11'S System32 Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-alerts-for-unrequested-system-recommendations/"><u>Cease Alerts for Unrequested System Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-retrieve-faded-bios-messages/"><u>Tips to Retrieve Faded BIOS Messages</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-12-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 12</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11s-unresponsive-wi-fi-detection/"><u>Addressing Windows 11'S Unresponsive Wi-Fi Detection</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unlocking-free-integration-techniques-for-music-in-online-visual-media-for-2024/"><u>New Unlocking Free Integration Techniques for Music in Online Visual Media for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-no-response-to-click-events/"><u>Tackling Windows 11: No Response to Click Events</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>2024 Approved  Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-windows-ui-cli-features-for-taskmgr-windowed-console/"><u>Augmenting Windows UI: CLI Features for TaskMgr Windowed Console</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-common-setbacks-when-launching-csgo-on-w11/"><u>Avoiding Common Setbacks When Launching CS:GO on W11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-gopro-modifications/"><u>2024 Approved  Quintessential Gopro Modifications</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-type-speed-cutting-down-lag-on-windows-11/"><u>Accelerating Type Speed: Cutting Down Lag on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xbox-play-network-errors-on-windows-1011-systems/"><u>Fixing Xbox Play Network Errors on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-operation-failed-0x0000011b-in-windows/"><u>Overcoming Operation Failed 0X0000011B in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-cannot-locate-gpeditmsc-error-in-windows/"><u>Addressing the Cannot Locate Gpedit.msc Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-cannot-preview-error-with-microsoft-office-outlook/"><u>Resolving 'Cannot Preview' Error with Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/augment-windows-taskbar-with-numeric-key-and-caps-indicator-symbols/"><u>Augment Windows Taskbar with Numeric Key & Caps Indicator Symbols</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y55s-5g-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y55s 5G (2023) to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-advanced-features-in-intova-edge-x-for-2024/"><u>Exploring Advanced Features in Intova Edge X for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-intro-video-makers-top-picks-for-customizing-your-movie-openers/"><u>New 2024 Approved Intro Video Makers Top Picks for Customizing Your Movie Openers</u></a></li>
+</ul></div>

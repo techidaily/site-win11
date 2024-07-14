@@ -1,7 +1,7 @@
 ---
 title: Configuring and Personalizing Win11's Default Screen Saver
-date: 2024-06-25T11:23:11.911Z
-updated: 2024-06-26T11:23:11.911Z
+date: 2024-07-13T09:46:58.098Z
+updated: 2024-07-14T09:46:58.098Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
  Plus, you can change the text's surface and color style. Click**Sold Color** \>**Custom Color** \>**Choose Color** to bring up a palette. Then select a different text color on the palette and select**OK** .
 
- To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to[Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
+ To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to [Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
  Clicking the**Settings** buttons for the Bubbles, Mystify, and Ribbons screensavers in Windows 11 won't open any options for them. To customize those screensavers, download and launch the freeware Winaero Screensaver Tweaker software. That portable app lets you tweak hidden options for Bubbles, Mystify, and Ribbons in Windows platforms dating back to Vista. This is how you can download and launch Winaero Screensaver Tweaker:
 
-1. Open the[Winaero Screensaver Tweaker](https://winaero.com/winaero-screensavers-tweaker/) download page.
+1. Open the [Winaero Screensaver Tweaker](https://winaero.com/winaero-screensavers-tweaker/) download page.
 2. Click the**Download Windows Screensavers** Tweaker link.
 3. Open whatever directory includes the**System\_Screensavers\_Tweaker.zip** file by pressing**Windows key** +**E** and navigating to it within File Explorer.
-4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
+4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
 6. Click the Windows 8 and x64 subfolders.
@@ -110,3 +110,57 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/correcting-windows-update-failure-0x8024800c/"><u>Correcting Windows Update Failure: 0X8024800C</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-rectifying-the-network-not-reachable-error-in-windows-11/"><u>Winfixer: Rectifying the 'Network Not Reachable' Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-crash-error-0x800704cf-in-windows/"><u>Quick Fix for Microsoft Store Crash: Error 0X800704CF in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reverse-failed-zip-file-extractions-on-windows-11/"><u>How To Reverse Failed Zip File Extractions on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/swapping-sequence-a-simple-guide-to-reversed-playlists-for-2024/"><u>Swapping Sequence  A Simple Guide to Reversed Playlists for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-savers-a-guide-to-win11/"><u>Tailoring Screen Savers: A Guide to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-solid-state-drive-speed-on-windows-via-ssd-fresh/"><u>Elevate Solid State Drive Speed on Windows via SSD Fresh</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-system-health-improvement-via-updates/"><u>Understanding System Health Improvement via Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-update-fault-x8019/"><u>Eliminating Windows Update Fault X8019</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-text-formatting-how-to-change-text-style-in-discord-in-2024/"><u>[New] Discord Text Formatting  How to Change Text Style in Discord, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-new-strategies-behind-extended-updates-in-windows-11-h2/"><u>Exploring the New Strategies Behind Extended Updates in Windows 11 H2</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-past-security-checks-on-your-wins-system/"><u>How to Clear Past Security Checks on Your Wins System</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-efficient-device-communication-via-google-sharing/"><u>Tips for Efficient Device Communication via Google Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-revamped-widget-picker-in-win11/"><u>Configuring Revamped Widget Picker in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-home-screen-norm-setting-default-position-of-win-11-keyboards/"><u>Achieving Home Screen Norm: Setting Default Position of Win 11 Keyboards</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-microcomputers-reviewed/"><u>Essential Windows Microcomputers Reviewed</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software/"><u>Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-market-prowess-the-art-of-strategy-unpacked/"><u>In 2024, Market Prowess  The Art of Strategy Unpacked</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-tips-for-access-denied-on-nvidia-panel/"><u>Quick-Fix Tips for Access Denied on NVIDIA Panel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cloud-storage-pricing-comparison-and-best-price-2024/"><u>Cloud Storage Pricing Comparison and Best Price 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-re-enable-your-windows-11-device-after-error-22/"><u>Expert Tips to Re-Enable Your Windows 11 Device After Error 22</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-11-tablet-bar-accessibility/"><u>Maximizing Windows 11 Tablet Bar Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-speech-recognition-launch-failures-in-windows-os/"><u>Overcoming Speech Recognition Launch Failures in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-functionality-of-component-services-utility-in-windows/"><u>Exploring the Functionality of Component Services Utility in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-print-on-edge-security-mode-windows-11/"><u>Enabling Print on Edge Security Mode Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-simplified-webcam-editing-and-distribution-methods/"><u>In 2024, Simplified WebCam Editing & Distribution Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-repairing-code-0x0000004e-on-pcs/"><u>Step-by-Step: Repairing Code 0X0000004E on PCs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/voice-generating-services-with-zero-cost-top-9-pick-for-2024/"><u>Voice Generating Services with Zero Cost – Top 9 Pick for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-email-apps-0x800713f-issue-on-win11/"><u>Navigating Through Email App's 0X800713F Issue on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-not-handled-exception-error-on-pcs/"><u>Tips for Dealing with Not Handled Exception Error on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-turn-off-chrome-notifications-windows-version/"><u>Steps to Turn Off Chrome Notifications, Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-efficiency-utilizing-windows-11s-taskbar-search/"><u>Dive Into Efficiency: Utilizing Windows 11'S Taskbar Search</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-alternative-methods-in-windows-exploration-no-ls/"><u>Deciphering Alternative Methods in Windows Exploration (No LS)</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-hello-login-fingerprint-failure/"><u>Eliminating Windows Hello Login Fingerprint Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-steps-for-purging-microsoft-defender-traces-from-win-11/"><u>Strategic Steps for Purging Microsoft Defender Traces From Win 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[New] 2024 Approved  Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-slow-printer-on-windows/"><u>How to Fix a Slow Printer on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-clipboard-problems-in-windows-11/"><u>Diagnosing Clipboard Problems in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/removing-borders-quick-and-effective-image-retouch-methods/"><u>Removing Borders  Quick & Effective Image Retouch Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/chronology-clash-wintime-harmony-guide/"><u>Chronology Clash? WinTime Harmony Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/superior-7-dslr-choices-perfect-for-social-media-streaming-for-2024/"><u>Superior 7 DSLR Choices Perfect for Social Media Streaming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-endless-scrolls-on-large-datasheets-windows/"><u>Overcome Endless Scrolls on Large Datasheets, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-approach-installing-and-using-outlook-preview-for-windows-11-users/"><u>Tailored Approach: Installing and Using Outlook Preview for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-stop-infinite-data-depletion-in-windows/"><u>5 Ways to Stop Infinite Data Depletion in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-recurring-anydesk-errors-on-windows/"><u>Unraveling the Mysteries of Recurring AnyDesk Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/flashback-fun-enjoying-oldschool-games-with-dosbox-x/"><u>Flashback Fun: Enjoying Oldschool Games with DOSBox-X</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-game-on-camera-strategies-for-videographers-in-sports/"><u>[Updated] 2024 Approved  Game On, Camera! Strategies for Videographers in Sports</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-os-install-windows-for-steam-deck/"><u>Streamline OS Install: Windows for Steam Deck</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Lava Blaze 2 5G | Dr.fone</u></a></li>
+</ul></div>

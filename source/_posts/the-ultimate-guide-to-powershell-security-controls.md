@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to PowerShell Security Controls
-date: 2024-06-25T11:33:46.649Z
-updated: 2024-06-26T11:33:46.649Z
+date: 2024-07-13T10:26:18.650Z
+updated: 2024-07-14T10:26:18.650Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,7 @@ To change execution policy using Settings:
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
 
- You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
+ You can use a [PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
  Also, the Settings app can only enable or disable the RemoteSigned execution policy. Whereas PowerShell lets you set other policies and scopes as well.
 
@@ -139,3 +139,37 @@ The below table briefly explains all the execution policy scopes:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-content-creator.techidaily.com/video-editing-on-chromebook-the-best-online-solutions-for-2024/"><u>Video Editing on Chromebook The Best Online Solutions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/total-flush-out-of-windows-subsystem/"><u>Total Flush Out of Windows Subsystem</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[Updated] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-control-over-windows-input-methods/"><u>Unlock Full Control over Windows' Input Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-gpu-capabilities-the-6-best-testers-in-windows/"><u>Navigate Through GPU Capabilities: The 6 Best Testers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/powertoys-batch-renaming-made-simple/"><u>PowerToys' Batch Renaming Made Simple</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 15 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-pc-exploration-via-everythingapp/"><u>Swift PC Exploration via EverythingApp</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco X6 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-overcoming-onedrive-errors-on-windows/"><u>Winning at Overcoming OneDrive Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-outlook-error-0x80040610-on-windows-devices/"><u>Quick Fix for Outlook Error 0X80040610 on Windows Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-system-failures-blue-screen-aftermath-in-windows/"><u>Delving Into System Failures: Blue Screen Aftermath in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-update-and-clean-the-cache-of-windows-symbols/"><u>Techniques to Update and Clean the Cache of Windows Symbols</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-techniques-for-optimizing-the-file-size-of-broadcast-content/"><u>Updated 2024 Approved Techniques for Optimizing the File Size of Broadcast Content</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fast-startup-in-windows-11/"><u>Mastering Fast Startup in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-basics-top-10-windows-store-picks/"><u>Mastering the Basics: Top 10 Windows Store Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-image-quality-with-auto-hdr-in-w11/"><u>Maximizing Image Quality with Auto HDR in W11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-defy-2withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Defy 2with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/linking-legacy-and-modernity-initiating-windows-11-with-a-window-7-code/"><u>Linking Legacy and Modernity: Initiating Windows 11 with a Window 7 Code</u></a></li>
+<li><a href="https://win11.techidaily.com/stalling-windows-auto-updates-four-methods/"><u>Stalling Windows Auto-Updates: Four Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-windows-complications-with-java-installer/"><u>Steps to Fix Windows Complications with Java Installer</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-11s-cam-access-silence-protocol/"><u>Altering Windows 11'S Cam Access Silence Protocol</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-tools-for-superior-macos-experience/"><u>Utilizing Windows Tools for Superior macOS Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-visual-guide-to-mastering-aspect-ratios-on-youtube/"><u>[New] The Visual Guide to Mastering Aspect Ratios on YOUTUBE</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-screen-captures-adding-sound-in-the-snipping-tool-max-156/"><u>Elevate Your Screen Captures: Adding Sound in the Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-visuals-perfecting-banners-and-thumbnails/"><u>In 2024, YouTube Visuals  Perfecting Banners and Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/1719361152872-lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever!</u></a></li>
+<li><a href="https://win11.techidaily.com/boosted-performance-with-smart-use-of-windows-11s-bar/"><u>Boosted Performance with Smart Use of Windows 11'S Bar</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-discover-the-best-video-editing-apps-for-windows/"><u>2024 Approved Discover the Best Video Editing Apps for Windows</u></a></li>
+</ul></div>

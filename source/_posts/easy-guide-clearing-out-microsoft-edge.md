@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Clearing Out Microsoft Edge"
-date: 2024-06-25T11:44:07.993Z
-updated: 2024-06-26T11:44:07.993Z
+date: 2024-07-13T11:01:59.479Z
+updated: 2024-07-14T11:01:59.479Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,14 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
  Once you run the above commands, Microsoft Edge will be removed from your PC. If you want to install the browser in the future, you can do so by downloading it from the Microsoft Store.
 
- If you'd like to get more out of this tool, be sure to check out[the Windows Command Prompt commands you must know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) .
+ If you'd like to get more out of this tool, be sure to check out [the Windows Command Prompt commands you must know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) .
 
 ## 2\. How to Uninstall Microsoft Edge Using Windows PowerShell
 
  Like Command Prompt, you can also use Windows PowerShell to uninstall Microsoft Edge from your Windows 11 PC. Unlike the previous method, this one does not require you to know Microsoft Edge's version number. Here's how it works.
 
 1. Press**Win + S** to open the search menu. Type in**Windows PowerShell** and select**Run as administrator** .
-2. Select**Yes** when the[User Account Control (UAC)](https://www.makeuseof.com/tag/user-account-control-windows-10/) prompt appears.
+2. Select**Yes** when the [User Account Control (UAC)](https://www.makeuseof.com/tag/user-account-control-windows-10/) prompt appears.
 3. Paste the following command and press**Enter** .  
 `get-appxpackage *edge*`  
 ![Uninstall Microsoft Edge With Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Windows-PowerShell-1.jpg)
@@ -62,7 +62,7 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
 ## 3\. How to Uninstall Microsoft Edge Beta, Dev, or Canary Channel Builds Using the Settings App
 
- Unlike the stable version, removing a preview build of Microsoft Edge is relatively simple. You can uninstall it just like any other app. Here's how to do it using[Windows 11 Settings app](https://www.makeuseof.com/windows-11-settings-whats-new/) .
+ Unlike the stable version, removing a preview build of Microsoft Edge is relatively simple. You can uninstall it just like any other app. Here's how to do it using [Windows 11 Settings app](https://www.makeuseof.com/windows-11-settings-whats-new/) .
 
 1. Press**Win + I** to open the Settings app.
 2. Navigate to the**Apps** tab and click on**Installed apps** .
@@ -71,11 +71,11 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 5. Select**Uninstall** again when the confirmation pop-up appears.  
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
 
- Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
+ Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different [ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
 
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
 
- Although uninstalling Edge from your computer is easy, it does not prevent newer Windows updates from potentially reinstalling the browser. To get around this, you need to[edit a few registry files](https://www.makeuseof.com/windows-registry-file-guide/) on your PC. For that, use the following steps:
+ Although uninstalling Edge from your computer is easy, it does not prevent newer Windows updates from potentially reinstalling the browser. To get around this, you need to [edit a few registry files](https://www.makeuseof.com/windows-registry-file-guide/) on your PC. For that, use the following steps:
 
 1. Press**Win + R** to open the Run dialog box.
 2. Type**regedit** in the box and press**Enter** .
@@ -111,3 +111,52 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/elevate-your-file-handling-in-win-11-by-adding-movecopy-menus/"><u>Elevate Your File Handling in Win 11 by Adding Move/Copy Menus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ig-boom-technique-how-to-amass-a-massive-follower-count-quickly/"><u>In 2024, The IG Boom Technique  How to Amass a Massive Follower Count Quickly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimizing-audio-clarity-in-home-vo-recording-setups/"><u>[New] In 2024, Optimizing Audio Clarity in Home VO Recording Setups</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-collective-windows-11-folder-making/"><u>Revolutionize File Management with Collective Windows 11 Folder Making</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-top-20-creative-snapchat-lens-ideas-for-unique-shots/"><u>[Updated] 2024 Approved  Top 20 Creative Snapchat Lens Ideas for Unique Shots</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unsuccessful-image-saving-on-win11-pc/"><u>Addressing Unsuccessful Image Saving on Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-unidentified-usb-port-problems/"><u>Overcoming Windows 11'S Unidentified USB Port Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-the-isdonedll-error-in-windows-11-and-11x/"><u>Dealing with the ISDone.dll Error in Windows 11 & 11X</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-rectify-predominant-windows-anydesk-mishaps/"><u>Essential Steps to Rectify Predominant Windows AnyDesk Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-computer-storage-c-d-distinctions/"><u>Clarifying Computer Storage: C, D Distinctions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rectifying-bluetooth-pin-related-disconnects/"><u>Mastering the Art of Rectifying Bluetooth PIN-Related Disconnects</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-winerror-with-code-0x8019/"><u>Resolving WinError with Code 0X8019</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-content-for-successful-instagram-story-segments-for-2024/"><u>[New] Crafting Content for Successful Instagram Story Segments for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-flawlessly-new-windows-experience-in-11th-gen/"><u>Crafting a Flawlessly New Windows Experience in 11Th Gen</u></a></li>
+<li><a href="https://win11.techidaily.com/beginning-the-speedy-support-function-of-w11/"><u>Beginning the Speedy Support Function of W11</u></a></li>
+<li><a href="https://win11.techidaily.com/experts-choice-10-error-finder-apps-for-pc/"><u>Expert's Choice: 10 Error Finder Apps for PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-error-x70-on-windows-file-and-folder-restoration-guide/"><u>Eradicating Error X70 on Windows: File and Folder Restoration Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-end-persistent-login-error-alerts-on-pc/"><u>Methods to End Persistent Login Error Alerts on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-creative-potential-with-picart-clear-skies/"><u>[New] Unleash Your Creative Potential with PicArt Clear Skies</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-deity-interactions-with-your-windows-11-pc/"><u>Embracing Deity Interactions with Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-personalizing-your-desktop-with-widgets/"><u>Mastering Window 11: Personalizing Your Desktop with Widgets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-virtual-frontiers-the-most-wanted-vr-devices-for-2024/"><u>[Updated] Virtual Frontiers  The Most Wanted VR Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-freespace-a-comprehensive-windows-approach/"><u>Enhancing FreeSpace: A Comprehensive Windows Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-inoperative-touchscreen-actions-in-windows/"><u>Addressing Inoperative Touchscreen Actions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-overcoming-windows-11s-rename-limitations/"><u>Essential Fixes: Overcoming Windows 11'S Rename Limitations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-audio-enhancement-including-tracks-in-vimeo-clips/"><u>2024 Approved  Audio Enhancement  Including Tracks in Vimeo Clips</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-a-quick-fix-to-skip-windows-login-dialogs/"><u>Craft a Quick Fix to Skip Windows Login Dialogs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-find-hidden-watch-tile-artwork/"><u>[Updated] In 2024, Find Hidden Watch Tile Artwork</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-retry-interval-for-unsuccessful-login-attempts/"><u>Adjusting Retry Interval for Unsuccessful Login Attempts</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-ms-paint-within-windows-11/"><u>Initiating MS Paint Within Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-tackle-programming-problems-on-vistawindows-7/"><u>Efficient Methods to Tackle Programming Problems on Vista/Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-absence-of-battery-life-duration-in-pcs-running-win-11/"><u>Overcoming the Absence of Battery Life Duration in PCs Running Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-performance-managing-memory-usage-for-connected-services/"><u>Improving Performance: Managing Memory Usage for Connected Services</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-solution-for-geforce-now-error-xc0f1103f-on-windows-11/"><u>Comprehensive Solution for GeForce Now Error: Xc0f1103f on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-dive-deep-into-windows-11-the-ultimate-guide-to-video-cutting/"><u>2024 Approved  Dive Deep Into Window's 11  The Ultimate Guide to Video Cutting</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-desktop-aesthetics-with-a-custom-weather-icon-in-windows-11/"><u>Elevate Desktop Aesthetics with a Custom Weather Icon in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>[Updated] In 2024, Simplify Tech Transitions  Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-out-of-space-files-warning/"><u>How to Handle Out of Space Files Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-failed-security-codes-in-game-launcher-windows-edition/"><u>Quick Fixes for Failed Security Codes in Game Launcher Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inoperative-windows-11-speech-recognition/"><u>Resolving Inoperative Windows 11 Speech Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-amd-graphics-driver-updates-in-the-windows-ecosystem/"><u>Mastery of AMD Graphics Driver Updates in the Windows Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-preventing-heat-in-w11-systems/"><u>Essential Steps for Preventing Heat in W11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-swiftly-address-roblox-error-262/"><u>How to Swiftly Address Roblox Error 262</u></a></li>
+</ul></div>

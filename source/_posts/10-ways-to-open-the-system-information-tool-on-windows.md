@@ -1,7 +1,7 @@
 ---
 title: 10 Ways to Open the System Information Tool on Windows
-date: 2024-06-25T11:23:16.502Z
-updated: 2024-06-26T11:23:16.502Z
+date: 2024-07-13T09:46:51.805Z
+updated: 2024-07-14T09:46:51.805Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
 
- Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to[run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
+ Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to [run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
 
  Now, here’s how to open the System Information tool using the Run command dialog box:
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/a080ef814e8219bc0372e6a68a593bc00b4cb1212
 
 ## 5\. Use the System Settings
 
- You can always use the system settings to customize or repair the apps on your PC (see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
+ You can always use the system settings to customize or repair the apps on your PC (see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
 
  Here are the steps for opening the System Information app using the system settings:
 
@@ -174,3 +174,52 @@ Want to make the System Information tool easily accessible?
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-highly-recommended-auto-cameras-for-vehicle-tracking/"><u>[New] 2024 Approved  Highly Recommended Auto Cameras for Vehicle Tracking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-your-memory-perfecting-iphone-album-organization-and-icloud-backup/"><u>[New] Optimize Your Memory  Perfecting iPhone Album Organization and iCloud Backup</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-addressing-printer-errors-linked-to-domain-services/"><u>Essential Guide: Addressing Printer Errors Linked to Domain Services</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-voice-typing-failure-in-windows-11-error-code-0x80049dd3/"><u>Fixing Voice Typing Failure in Windows 11 (Error Code: 0X80049DD3)</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-keys-to-release-verification-holds-during-windows-update/"><u>Nine Keys to Release Verification Holds During Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/non-light-no-problem-master-five-cures-for-backlit-keyboard-failure/"><u>Non-Light, No Problem: Master Five Cures for Backlit Keyboard Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-windows-11-logins-restoration/"><u>Mastering Quick Windows 11 Logins Restoration</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-win-rpc-failures-five-must-try-fixes/"><u>Navigating Win RPC Failures: Five Must-Try Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/hosting-multiple-oses-linux-vm-inside-hyper-v-on-a-windows-machine/"><u>Hosting Multiple OSes: Linux VM Inside Hyper-V on a Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/does-the-geforce-experience-scan-fail-on-windows-heres-how-to-fix-it/"><u>Does the GeForce Experience Scan Fail on Windows? Here’s How to Fix It</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-disappearances-in-system-navigator/"><u>Eradicating Disappearances in System Navigator</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-stuck-swift-solutions-for-a-smooth-windows-patch/"><u>Opera Stuck? Swift Solutions for a Smooth Windows Patch</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-step-by-step-incorporating-songs-into-your-facebook-timeline/"><u>[Updated] Step-by-Step  Incorporating Songs Into Your Facebook Timeline</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-mac-video-editor-adobe-premiere-pro-for-pros/"><u>The Ultimate Mac Video Editor Adobe Premiere Pro for Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-facebook-video-performance/"><u>In 2024, Boosting Facebook Video Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-app-hiccup-geforce-x0001/"><u>Overcoming Windows 11 App Hiccup: GeForce X0001</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rapid-fire-creation-of-google-collage-photos/"><u>[Updated] Rapid-Fire Creation of Google Collage Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-webcam-capture-apps-18/"><u>The Ultimate Guide to Webcam Capture Apps - #18</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-alternatives-how-to-access-imessage-on-windows/"><u>Exploring Alternatives: How to Access iMessage on Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/live-audio-modification-masters-reviewed-which-ones-should-you-try-first-in-2024/"><u>Live Audio Modification Masters Reviewed Which Ones Should You Try First, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-non-loading-drivers-functional-on-windows-11/"><u>How to Make Non-Loading Drivers Functional on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-common-flaws-in-windows-applications/"><u>Essential Tips to Overcome Common Flaws in Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-why-your-windows-11-icons-are-diminishing/"><u>Discover Why Your Windows 11 Icons Are Diminishing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-vimeo-videos-on-instagram-a-complete-guide/"><u>[New] In 2024, Vimeo Videos on Instagram  A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11s-onedrive-error-def5-woes/"><u>Navigating Through Windows 11'S Onedrive Error DEF5 Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-windows-11-efficiency-with-these-5-reliability-checks/"><u>Maximize Your Windows 11 Efficiency with These 5 Reliability Checks</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-image-navigation-using-file-explorer-windows/"><u>Effortless Image Navigation Using File Explorer Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/make-ms-word-defaultly-use-reading-pane-for-email-attachments-no-editing/"><u>Make MS Word Defaultly Use Reading Pane for Email Attachments, No Editing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unify-your-mov-files-top-5-free-video-joining-solutions-for-2024/"><u>Unify Your MOV Files Top 5 Free Video Joining Solutions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[New] 2024 Approved  Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-accessing-windows-11-homescreen/"><u>Expert Tips on Accessing Windows 11 Homescreen</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/evolving-channels-8-fastest-video-climbers/"><u>Evolving Channels 8  Fastest Video Climbers</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-team-chats-on-windows-1110/"><u>Ensuring Smooth Team Chats on Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-blank-display-of-startup-items/"><u>Eradicating Blank Display of Startup Items</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jovial-graphics-via-adobe-tools/"><u>In 2024, Jovial Graphics via Adobe Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-guide-to-unwavering-visual-captures/"><u>[Updated] In 2024, A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-launch-failures-fixing-windows-speech-recognition/"><u>Overcoming Launch Failures: Fixing Windows Speech Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/outsmart-windows-delete-temp-files-without-fuss/"><u>Outsmart Windows: Delete Temp Files Without Fuss</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-update-schedules-setting-active-periods-windows-11/"><u>Mastering Update Schedules: Setting Active Periods Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-rescue-deskanywhere-on-win11/"><u>Essential Tips to Rescue DeskAnywhere on Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-broadcast-essentials-for-macos-users-on-mixer/"><u>[New] Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://win11.techidaily.com/reset-your-microsoft-store-password-heres-how/"><u>Reset Your Microsoft Store Password, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-fixes-for-stuck-game-resolutions-in-windows/"><u>Insightful Fixes for Stuck Game Resolutions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-monitor-settings-in-latest-os-version/"><u>Fine-Tune Monitor Settings in Latest OS Version</u></a></li>
+</ul></div>

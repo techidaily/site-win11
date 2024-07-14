@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Fix Optional Features Not Installing on Windows 11 & 11
-date: 2024-06-25T11:23:45.519Z
-updated: 2024-06-26T11:23:45.519Z
+date: 2024-07-13T09:48:53.221Z
+updated: 2024-07-14T09:48:53.221Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To use the DISM tool, follow these steps:
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
- Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
+ Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the [DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
 ## 2\. Run the System File Checker or SFC Utility
 
@@ -45,14 +45,14 @@ To use the DISM tool, follow these steps:
 
 To check your system using SFC, follow these steps:
 
-1. Open the Command Prompt with administrative rights using any of the[ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open the Command Prompt with administrative rights using any of the [ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
 Want to know the best part?
 
- The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+ The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best [ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
 ## 3\. Reset the Windows Update Components
 
@@ -95,7 +95,7 @@ Follow these steps to run the update troubleshooter on Windows:
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
- The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+ The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try [installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 ## 5\. Update Windows to the Latest Version
 
@@ -173,3 +173,80 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/expertly-navigate-and-enhance-text-via-the-snipping-tool/"><u>Expertly Navigate and Enhance Text via the Snipping Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-access-to-your-favorite-ms-store-games-and-tools/"><u>Regaining Access to Your Favorite MS Store Games & Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/from-blank-canvases-to-dynamic-displays-on-win-1011/"><u>From Blank Canvases to Dynamic Displays on Win 10/11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-blur-the-video-background-in-after-effects/"><u>New How To Blur The Video Background in After Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-monitoring-loved-comments-on-youtube/"><u>[Updated] Mastering the Art of Monitoring Loved Comments on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-not-trusted-update-error-in-winos/"><u>Strategies to Overcome Not Trusted Update Error in WinOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-recommended-5-ps1-game-simulators-on-your-pc-for-2024/"><u>Expert-Recommended 5 PS1 Game Simulators on Your PC for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-command-gain-admin-status/"><u>Regain Command - Gain Admin Status</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-synthesizing-soundscapes-the-definitive-list-of-the-best-7-daws-to-elevate-your-guitar-experience-for-2024/"><u>Updated Synthesizing Soundscapes The Definitive List of the Best 7 DAWs to Elevate Your Guitar Experience for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-maximizing-speed-and-efficiency-in-3d-painting/"><u>Pro Tips for Maximizing Speed and Efficiency in 3D Painting</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-best-of-the-bunch-top-rated-meme-generator-apps-for-android-and-ios/"><u>New 2024 Approved Best of the Bunch Top-Rated Meme Generator Apps for Android and iOS</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-blue-screen-analysis-key-to-troubleshooting/"><u>Windows Blue Screen Analysis: Key to Troubleshooting</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-cab-files-explained-formatting-and-implementation/"><u>Windows CAB Files Explained: Formatting and Implementation</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-the-fn-key-operations-and-tips/"><u>Utilizing the FN Key: Operations and Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>In 2024, A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functioning-automated-rules-in-microsoft-outlook/"><u>Restoring Functioning Automated Rules in Microsoft Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/activation-procedure-for-copypaste-functionality-in-w11s-security-mode-edge/"><u>Activation Procedure for Copy/Paste Functionality in W11's Security Mode, Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-code-0x0000004e-hiccups/"><u>Resolving Windows Code 0X0000004E Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-a-microsoft-account-and-a-local-account-are-different-on-windows/"><u>6 Ways a Microsoft Account and a Local Account Are Different on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-for-mcuicntexe-entry-point-loss-in-windows-systems/"><u>Cure for McUICnt.exe Entry Point Loss in Windows Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-logging-in-run-commands-on-pcs/"><u>Fixing No Logging in Run Commands on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cut-to-connect-advanced-editing-with-kinemaster-for-2024/"><u>From Cut to Connect  Advanced Editing with Kinemaster for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-sam-errors-windows-edition/"><u>Unraveling the Mysteries of SAM Errors, Windows Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-melodies-on-discord-top-tier-bots-for-sonic-enthusiasts-for-2024/"><u>[New] Mastering Melodies on Discord  Top-Tier Bots for Sonic Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-new-year-updated-lg-360-full-review-insights/"><u>2024 Approved  New Year, Updated LG 360  Full Review Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-io-errors-in-photo-import-from-apple-devices/"><u>Essential Fixes for I/O Errors in Photo Import From Apple Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtube-post-upload-process/"><u>2024 Approved  Understanding YouTube Post-Upload Process</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-fundamentals-of-transcribing-audio-for-no-charge-discover-the-best-three-methods/"><u>Updated 2024 Approved Fundamentals of Transcribing Audio for No Charge - Discover the Best Three Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-high-res-pixel-myths-in-consoles/"><u>Debunking High-Res Pixel Myths in Consoles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-analyzing-multi-angle-video-technology-trends-today/"><u>2024 Approved  Analyzing Multi-Angle Video Technology Trends Today</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-vlc-slow-motion-step-by-step-guide/"><u>New VLC Slow Motion Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-explore-and-engage-ifunny-meme-downloads/"><u>2024 Approved  Explore & Engage  IFunny Meme Downloads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-instant-video-posting-to-twitter-from-phone-avoid-the-retweet-for-2024/"><u>[New] Instant Video Posting to Twitter From Phone – Avoid the Retweet for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-system-top-5-tips-for-mastering-windows-folders/"><u>Supercharge Your System: Top 5 Tips for Mastering Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-not-recognized-fix-for-windows-users/"><u>Overcoming Device Not Recognized: Fix for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-show-more-pins-on-windows-11-start/"><u>Pro Tips: Show More Pins on Windows 11 Start</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vlc-slow-motion-a-step-by-step-guide/"><u>In 2024, VLC Slow Motion A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-enabling-windows-11-toolbar-elements/"><u>Guide to Enabling Windows 11 Toolbar Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/a-fresh-start-for-your-computers-firewall-settings/"><u>A Fresh Start for Your Computer's Firewall Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-window-icons-on-windows/"><u>Refreshing Window Icons on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-tactics-for-repeated-usernamepassword-alerts/"><u>Bypass Tactics for Repeated Username/Password Alerts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-set-up-facebook-streaming-pcmaclaptop-tutorial-with-obs/"><u>[New] 2024 Approved  Set Up Facebook Streaming  PC/Mac/Laptop Tutorial with OBS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-decoding-tiktoks-use-of-pfp-what-does-it-stand-for/"><u>[New] In 2024, Decoding TikTok’s Use of 'PFP'  What Does It Stand For?</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-extend-windows-10-shutdown-for-ongoing-processes/"><u>Strategies to Extend Windows 10 Shutdown for Ongoing Processes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gaming-channel-evolution-best-14-video-ideas-on-youtube-for-2024/"><u>Gaming Channel Evolution  Best 14 Video Ideas on YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/investing-in-success-budget-for-youtube-growth/"><u>Investing in Success  Budget for YouTube Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/from-start-menu-to-control-panel-a-guide/"><u>From Start Menu to Control Panel: A Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-videos-with-gif-a-simple-guide-for-vimeo-creators-for-2024/"><u>Elevate Videos with GIF  A Simple Guide for Vimeo Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-non-automatic-timezone-change/"><u>Overcoming Windows' Non-Automatic Timezone Change</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-find-n3-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Find N3 Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-xs-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone XS?</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-and-fixing-the-windows-update-hurdles/"><u>Breaking Down and Fixing the Windows Update Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/pixelprecision-snag-9-tactics-to-reinstate-it/"><u>PixelPrecision Snag? 9 Tactics to Reinstate It</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-key-activation-issues/"><u>Troubleshooting Windows Key Activation Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-efficiency-quick-access-to-system-restore-in-windows-11/"><u>Unlocking Efficiency: Quick Access to System Restore in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-nvidias-geforce-error-x0001-on-windows-1011/"><u>Steps to Fix Nvidia's GeForce Error X0001 on Windows 10/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ps5xbox-series-x-top-gaming-tvs-unveiled/"><u>PS5/Xbox Series X  Top Gaming TVs Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-websites-reviewed-secure-purchase-of-custom-youtube-soundtracks/"><u>2024 Approved  Best Websites Reviewed  Secure Purchase of Custom YouTube Soundtracks</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-task-management-easy-run-tool-integration-on-windows/"><u>Upgrade Your Task Management: Easy Run Tool Integration on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-analysis-hibernations-role-in-windows/"><u>Insightful Analysis: Hibernation's Role in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/making-your-windows-11-pin-more-secure-and-elongated/"><u>Making Your Windows 11 PIN More Secure & Elongated</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-design-principles-essential-knowledge-of-yt-banners-and-art-for-2024/"><u>Mastering Design Principles  Essential Knowledge of YT Banners & Art for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-tranquil-touchscreen-best-idle-phone-adventures/"><u>2024 Approved  Tranquil Touchscreen  Best Idle Phone Adventures</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-x5s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco X5s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unknown-hardware-in-windows-1110/"><u>Troubleshooting Unknown Hardware in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-your-xbox-on-a-slow-pc-steps-to-take/"><u>Resurrect Your Xbox on a Slow PC: Steps to Take</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-force-delete-or-uninstall-a-printer-in-windows-11-and-11/"><u>How to Force Delete or Uninstall a Printer in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-github-desktop-for-windows-os-devops/"><u>Harness the Power of GitHub Desktop for Windows OS DevOps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-a-guide-to-color-grade-your-picture-in-lightroom/"><u>2024 Approved A Guide to Color Grade Your Picture in LightRoom</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-password-policy-setting-new-limit-post-failed-logins/"><u>Revamping Password Policy: Setting New Limit Post Failed Logins</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Preventing VSCode Errors in Latest Windows Update
-date: 2024-06-25T11:42:02.473Z
-updated: 2024-06-26T11:42:02.473Z
+date: 2024-07-13T10:55:28.142Z
+updated: 2024-07-14T10:55:28.142Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  Before moving on to more complex fixes for the app, completely close Visual Studio Code using Task Manager and restart it. Here's how to do it:
 
-1. Right-click on the**Start** button to open the[Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) . Click on the**Task Manager** option.
+1. Right-click on the**Start** button to open the [Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) . Click on the**Task Manager** option.
 2. Locate the Visual Studio Code process in the list of active processes.
 3. Right-click on it and click on the**End Task** option from the context menu. It will close Visual Studio Code app and all its associated processes.  
 ![Terminate Visual Studio Code and Restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/terminate-visual-studio-code-and-restart.jpg)
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
 ## 4\. Perform a Clean Boot
 
- Often, third-party apps and services can interfere with other apps and cause app freezes and crashes. So, to rule out this possibility, do a[clean boot of your Window system](https://www.makeuseof.com/clean-boot-windows-11/) with only Microsoft-related services enabled on startup.
+ Often, third-party apps and services can interfere with other apps and cause app freezes and crashes. So, to rule out this possibility, do a [clean boot of your Window system](https://www.makeuseof.com/clean-boot-windows-11/) with only Microsoft-related services enabled on startup.
 
  If Visual Studio Code works fine after a clean boot, retry the clean boot while enabling some third-party service. Repeat this process until you find the problematic service or app.
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
 ## 6\. Exclude Visual Studio Code in Windows Defender
 
- Antivirus programs do not play nicely with apps and programs and often wrongly flag them. So, add an exclusion for the Visual Studio Code app. If you use a third-party antivirus on your system, add an exclusion for the Visual Studio Code app directory by accessing its settings. You can even[temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and run the app to check if it crashes now.
+ Antivirus programs do not play nicely with apps and programs and often wrongly flag them. So, add an exclusion for the Visual Studio Code app. If you use a third-party antivirus on your system, add an exclusion for the Visual Studio Code app directory by accessing its settings. You can even [temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and run the app to check if it crashes now.
 
 ## 7\. Update Visual Studio Code
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  Repeat the following steps to reinstall Visual Studio Code using Winget:
 
-1. Press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**cmd** in the text input box and press**Ctrl + Shift + Enter** to launch the command prompt with administrator rights.
 3. Accept the UAC prompt and click on the**Yes** button.
 4. Type the following command and press enter key:**Winget list**
@@ -107,7 +107,7 @@ winget uninstall Microsoft.VisualStudioCode
 
 ## 10\. Use the Web Version
 
- Microsoft even offers a[web version of Visual Studio Code](https://vscode.dev/) which you can use as a temporary solution. You can sign in to the web version and sync your files and settings. Moreover, you can install a PWA from the browser of Visual Studio Code and launch it directly from your desktop.
+ Microsoft even offers a [web version of Visual Studio Code](https://vscode.dev/) which you can use as a temporary solution. You can sign in to the web version and sync your files and settings. Moreover, you can install a PWA from the browser of Visual Studio Code and launch it directly from your desktop.
 
 ## Visual Studio Code Won’t Crash Anymore on Windows 11
 
@@ -130,3 +130,47 @@ winget uninstall Microsoft.VisualStudioCode
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/elevating-your-batch-scripts-creating-windows-exes/"><u>Elevating Your Batch Scripts: Creating Windows EXEs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/storage-space-used-daily-extended-video-size-for-2024/"><u>Storage Space Used  Daily Extended Video Size for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-early-edge-tab-launches-on-windows-11/"><u>Prevent Early Edge Tab Launches on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/constructing-an-audio-experience-beyond-boundaries-in-windows-11/"><u>Constructing an Audio Experience Beyond Boundaries in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-whatsapp-room-assembly-guide/"><u>[New] WhatsApp Room Assembly Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-onedrive-server-failures-a-quick-guide/"><u>Overcoming Windows OneDrive Server Failures: A Quick Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-voice-alteration-devices-a-guide-to-introductions-assessments-and-substitutes/"><u>2024 Approved Voice Alteration Devices A Guide to Introductions, Assessments, and Substitutes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-windows-activation-error-0x803f700f-hurdle/"><u>Overcoming the Windows Activation Error 0X803F700f Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-turn-off-auto-start-for-spotify/"><u>Guide to Turn Off Auto-Start for Spotify</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conquering-low-light-shots-on-iphone/"><u>[New] Conquering Low-Light Shots on iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-m6-pro-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco M6 Pro 4G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-optimize-your-startup-programs-in-windows-11-for-improved-performance/"><u>How to Optimize Your Startup Programs in Windows 11 for Improved Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-windows-icon-placement-strategies/"><u>Perfect Window's Icon Placement Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/proper-methods-to-turn-windows-key-onoff/"><u>Proper Methods to Turn Windows Key On/Off</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-to-combat-dxgi-errors/"><u>Effective Techniques to Combat DXGI Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/making-your-desktop-more-dynamic-activate-windows-11-widget-bar/"><u>Making Your Desktop More Dynamic: Activate Window's 11 Widget Bar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-visuals-saving-and-downloading-on-smartphones-for-2024/"><u>Twitter's Visuals  Saving and Downloading on Smartphones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-dormant-screen-saver-configurations-in-windows/"><u>Revitalizing Dormant Screen Saver Configurations in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-your-unboxing-game-8-tips-from-experts/"><u>Perfect Your Unboxing Game  8 Tips From Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-for-fps-performance/"><u>Optimizing System Resources for FPS Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>In 2024, Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-insight-discerning-storage-type-on-windows/"><u>Exclusive Insight: Discerning Storage Type on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-natural-windows-file-sorting-settings/"><u>Restoring Natural Windows File Sorting Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-photo-size-transformation-with-these-six-ways-on-windows-11/"><u>Master the Art of Photo Size Transformation with These Six Ways on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/open-windows-ease-of-access-center-top-5-tactics/"><u>Open Windows Ease of Access Center: Top 5 Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-what-the-fn-keys-do-in-windows-11-and-11/"><u>How to Change What the Fn Keys Do in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-elimination-guide-for-wsl-on-windows-11-systems/"><u>Permanent Elimination Guide for WSL on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/five-solutions-for-windows-defender-virus-shield-malfunction/"><u>Five Solutions for Windows Defender Virus Shield Malfunction</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unveiling-dynamic-volume-control-mastering-audio-ducking-techniques/"><u>New Unveiling Dynamic Volume Control Mastering Audio Ducking Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/exploiting-windows-software-to-elevate-macos-usability/"><u>Exploiting Windows Software to Elevate macOS Usability</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unrivaled-tag-analyzers-your-key-to-hashtag-success-fbtwitterinsta-for-2024/"><u>[Updated] Unrivaled Tag Analyzers  Your Key to Hashtag Success (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-105-classic-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia 105 Classic Phone Without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-notification-service-for-phone-link-app/"><u>Restoring Windows Notification Service for Phone Link App</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-diskspace-tools-for-windows-context-menu/"><u>Quick Access DiskSpace: Tools for Window's Context Menu</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-discover-the-leading-free-game-recording-tools-for-2024/"><u>[New] Discover the Leading Free Game Recording Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-device-interaction-with-windows-and-galaxy/"><u>Revolutionizing Device Interaction with Windows & Galaxy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-breaking-barriers-next-level-strategies-for-fb-video-success/"><u>[Updated] In 2024, Breaking Barriers  Next-Level Strategies for FB Video Success</u></a></li>
+</ul></div>

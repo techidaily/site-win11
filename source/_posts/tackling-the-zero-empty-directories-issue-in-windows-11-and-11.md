@@ -1,7 +1,7 @@
 ---
 title: Tackling the Zero-Empty Directories Issue in Windows 11 & 11
-date: 2024-06-25T11:36:11.400Z
-updated: 2024-06-26T11:36:11.400Z
+date: 2024-07-13T10:34:37.443Z
+updated: 2024-07-14T10:34:37.443Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
 
- Run Command Prompt with elevated (administrative) rights. Our guide about[running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
+ Run Command Prompt with elevated (administrative) rights. Our guide about [running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
 
 `rmdir /s "folder path"`
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 ## 3\. Scan System Files With an SFC Scan
 
- Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
+ Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
@@ -112,3 +112,57 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/how-to-resolve-file-download-failures-in-windows-1011/"><u>How to Resolve File Download Failures in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-sound-error-on-audacity-in-win1011/"><u>Resolving Sound Error on Audacity in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-shortage-of-usb-interface-points-in-windows/"><u>Fixing Shortage of USB Interface Points in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-code-0xc0000142-in-winos/"><u>Resolving Code 0XC0000142 in WINOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-learn-to-make-a-flawless-square-video-in-imovie-for-instagram/"><u>[Updated] In 2024, Learn to Make a Flawless Square Video in iMovie for Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-printer-uninstallation-without-recovery-options/"><u>Mastering Printer Uninstallation without Recovery Options</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-fixes-for-windows-11-taskbar-loss/"><u>Guiding Fixes for Windows 11 Taskbar Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/smart-pc-enhancement-add-gmail-bar-to-taskbar-border/"><u>Smart PC Enhancement: Add Gmail Bar to Taskbar Border</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-jump-into-action-on-tiktok-live-easy-methods-revealed-for-2024/"><u>[New] Jump Into Action on TikTok Live  Easy Methods Revealed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-system-use-with-6-advanced-trackers-for-win-users/"><u>Streamline System Use with 6 Advanced Trackers for Win Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-step-by-step-pathway-to-youtube-video-enhancement/"><u>2024 Approved  Your Step-By-Step Pathway to YouTube Video Enhancement</u></a></li>
+<li><a href="https://win11.techidaily.com/get-rid-of-unwanted-files-setting-up-scheduled-deletions-on-win11/"><u>Get Rid of Unwanted Files: Setting Up Scheduled Deletions on Win11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fix-invisible-facebook-watch-icon-now-fixed-for-2024/"><u>[New] Fix  Invisible Facebook Watch Icon, Now Fixed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-past-windows-0x80242016-update-fails/"><u>Navigating Past Windows' 0X80242016 Update Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-one-sided-windows-headphone-sound-loss/"><u>Fixing One-Sided Windows Headphone Sound Loss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveil-the-magic-of-media-rotation-using-vlc-players-features/"><u>[New] Unveil the Magic of Media Rotation Using VLC Player's Features</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-1011s-recycle-bin-issues/"><u>Navigating Through Windows 10/11'S Recycle Bin Issues</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-create-video-with-music-for-free-for-2024/"><u>How to Create Video with Music for FREE for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-discover-the-best-snapchat-video-edits-on-android-and-iphone/"><u>[New] Discover the Best Snapchat Video Edits on Android and iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasts-intros-hook-up-listeners-with-podcast-intro-script-for-2024/"><u>Podcasts Intros  Hook Up Listeners With Podcast Intro Script for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/macs-visual-excellence-10-list-of-ultimate-screens/"><u>Mac's Visual Excellence  #10 List of Ultimate Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-fatal-application-hiccups-windows-edition/"><u>Overcoming Fatal Application Hiccups: Windows Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-s23-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy S23 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-techniques-for-unlocking-your-system-writable-files/"><u>Powerful Techniques for Unlocking Your System' Writable Files</u></a></li>
+<li><a href="https://win11.techidaily.com/from-chaos-to-clarity-manage-all-open-windows-win1110/"><u>From Chaos to Clarity: Manage All Open Windows (Win11/10)</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-laptop-studio-2-the-artists-dream-device-unveiled/"><u>Surface Laptop Studio 2: The Artist's Dream Device Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-passion-an-essential-guide-to-10-motivational-films/"><u>In 2024, Ignite Passion  An Essential Guide to 10 Motivational Films</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-5-best-windows-movie-maker-for-mac/"><u>New 2024 Approved Top 5 Best Windows Movie Maker for Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-screens-boost-your-pcs-performance-with-hotkeys/"><u>Streamlined Screens: Boost Your PC's Performance with Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-microsofts-safe-mode-only-constraint/"><u>Navigating Through Microsoft's Safe Mode Only Constraint</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>2024 Approved  Step Into Cinematic Quality  Using Instagram’s Chroma Keying Effect</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/balancing-dynamics-with-controlled-decays-for-2024/"><u>Balancing Dynamics with Controlled Decays for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-insights-new-folder-formation-in-windows-11/"><u>Innovative Insights: New Folder Formation in Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tips-to-keep-tiktok-videos-on-mobile-devices/"><u>[New] In 2024, Tips to Keep TikTok Videos on Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-glitch-nvidia-experiences-x0001-in-w11/"><u>Fixing Glitch: Nvidia Experience's X0001 in W11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-platforms-for-animated-3d-creation/"><u>[Updated] Ultimate Platforms for Animated 3D Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-filmoras-secrets-to-captivating-youtube-trailers/"><u>[New] 2024 Approved  Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-virtual-anonymity-to-facebook-fame-how-to-expand-your-audience-for-2024/"><u>From Virtual Anonymity to Facebook Fame  How to Expand Your Audience for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/sketch-mastery-for-desktop-users-in-windows-11/"><u>Sketch Mastery for Desktop Users in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/instructional-manual-restoring-originality-in-windows-11-search/"><u>Instructional Manual: Restoring Originality in Windows 11 Search</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone SE</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-stabilization-made-easy-a-premiere-pro-tutorial/"><u>Updated 2024 Approved Video Stabilization Made Easy A Premiere Pro Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/paint-your-thoughts-desktop-design-mastery-in-windows/"><u>Paint Your Thoughts: Desktop Design Mastery in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-startup-changing-boot-timeout-in-windows-11/"><u>Optimize Startup: Changing Boot Timeout in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-a-simple-pin-a-comprehensive-approach-to-switching-passwords-in-windows-11/"><u>From a Simple PIN: A Comprehensive Approach to Switching Passwords in Windows 11</u></a></li>
+</ul></div>

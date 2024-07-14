@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Acquire & Implement Microsoft Store's Application Bundles
-date: 2024-06-25T11:36:16.845Z
-updated: 2024-06-26T11:36:16.845Z
+date: 2024-07-13T10:34:28.874Z
+updated: 2024-07-14T10:34:28.874Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
 To download appx, appxbundle or msixbundle using Adguard:
 
-1. Go to[Microsoft Store](https://apps.microsoft.com/store/apps) on your browser, search, and open the app you want to download.
+1. Go to [Microsoft Store](https://apps.microsoft.com/store/apps) on your browser, search, and open the app you want to download.
 2. Copy the app URL, including the product ID, from the address bar. For example, the app URL for the Xbox app on Microsoft Store will look like this:  
 `https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z`
-3. Next, go to the[Adguard page](https://store.rg-adguard.net/) and paste the app URL.
+3. Next, go to the [Adguard page](https://store.rg-adguard.net/) and paste the app URL.
 4. On the right side, click the**RP** drop-down and select**Retail** .
 5. Click the**Check mark** button to generate a direct download link. It will populate the page with msixbundle, appx or appxbundle, and other associated files.
 6. You only need to download the full app package. The rest are app dependencies that you don’t need to download in most cases. For example, in this instance, we only need to download**msixbundle** , which is also the largest file in the list.
@@ -48,7 +48,7 @@ To download appx, appxbundle or msixbundle using Adguard:
 
 To generate a Microsoft Store app downloading link using Fiddler:
 
-1. Download and install the[Fidler Classic app](https://www.telerik.com/download/fiddler) . You’ll need to enter your email and territory to download the app.
+1. Download and install the [Fidler Classic app](https://www.telerik.com/download/fiddler) . You’ll need to enter your email and territory to download the app.
 2. Open**Fiddler** , and click the**WinConfig** button in the top left corner. Click**Yes** if prompted by User Account Control.  
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
@@ -81,7 +81,7 @@ To generate a Microsoft Store app downloading link using Fiddler:
 1. Locate the saved app package in the**Downloads** folder.
 2. Next, double-click on the file to open the installation wizard and click on the**Install** button to install the software.
 
- Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
+ Unfortunately, this installation method does not work always. You are likely to run into errors like [this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
 
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
@@ -89,7 +89,7 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
  Microsoft offers an official App Installer to sideload Windows 10 apps. However, this app installer also works on Windows 11\. If you encounter an error when sideloading apps using the convention double-click method, the App Installer will do the trick.
 
- Make sure to[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before installing App Installer. Once installed, you may not be able to uninstall the app. And it can also fiddle with Windows PowerShell’s ability to sideload apps.
+ Make sure to [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before installing App Installer. Once installed, you may not be able to uninstall the app. And it can also fiddle with Windows PowerShell’s ability to sideload apps.
 
 To install App Installer:
 
@@ -146,3 +146,40 @@ To enable Developer Mode on Windows 11
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/redefining-computing-10-top-alternatives-to-windows-defaults/"><u>Redefining Computing: 10 Top Alternatives to Windows' Defaults</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-quick-solutions-for-cursor-on-black-screen/"><u>Win10/11: Quick Solutions for Cursor on Black Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-p55-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel P55 5G Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-next-level-of-collaboration-youtubes-elite-meetups-for-2024/"><u>The Next Level of Collaboration  Youtube's Elite Meetups for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-image-clarity-with-windows-11s-enhanced-photo-app/"><u>Maximizing Image Clarity with Windows 11'S Enhanced Photo App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-your-tweeted-visuals-ultimate-gif-saver-guide/"><u>Elevate Your Tweeted Visuals  Ultimate GIF Saver Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-astute-beginners-treatise-on-vector-types-and-software-selection/"><u>[New] Astute Beginners' Treatise on Vector Types & Software Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-security-basics-in-windows-11-setup/"><u>Restoring Security Basics in Windows 11 Setup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-useful-tips-and-apps-for-taking-amazing-android-photography/"><u>2024 Approved  Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-access-control-personalized-windows-pin-creation/"><u>Revolutionize Access Control: Personalized Windows Pin Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/the-silent-stalker-unveiled-preventive-measures-against-wacatacbml/"><u>The Silent Stalker Unveiled: Preventive Measures Against Wacatac.B!ml</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-resolving-steam-service-disruptions-in-windows-11/"><u>Unraveling & Resolving Steam Service Disruptions in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-potential-views-best-keyword-resources-ranked-for-2024/"><u>Unleashing Potential Views  Best Keyword Resources Ranked for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-past-the-steam-file-access-hurdle/"><u>Stepping Past the Steam “File Access” Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-sync-blueprint-for-android-plus-microsoft-os/"><u>The Perfect Sync Blueprint for Android + Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-memory-efficiency-for-device-interaction-windows/"><u>Streamlining Memory Efficiency for Device Interaction Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-reinitializing-unwanted-apps/"><u>Mastering Window 11: Reinitializing Unwanted Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-11-taskbar-discrepan-marketplace/"><u>Rectifying Windows 11 Taskbar Discrepan Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-rectify-slow-windows-app-connections-for-peak-performance/"><u>Swiftly Rectify Slow Windows App Connections for Peak Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-robloxs-restrictive-error-403-on-pc/"><u>Unraveling Roblox's Restrictive Error 403 on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-and-prevent-windows-drive-vanishing/"><u>Pinpoint and Prevent Windows Drive Vanishing</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-stop-background-programs/"><u>Mastering Window 11: Stop Background Programs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-free-or-paid-the-complete-guide-to-joining-disconitro/"><u>[New] 2024 Approved  Free or Paid? The Complete Guide to Joining DiscoNitro</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-connection-error-restoring-mb-link-on-windows-11/"><u>Overcoming Connection Error: Restoring MB Link on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y36i-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y36i FRP?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[New] 2024 Approved  Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-network-drive-setup-a-comprehensive-walkthrough/"><u>Win11's Network Drive Setup: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-screen-snafus-with-sonic-frontiers-securing-smooth-play-on-w11/"><u>Navigating Screen Snafus with Sonic Frontiers - Securing Smooth Play on W11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tackling-photo-mismatch-on-fb-conversation-screen-for-2024/"><u>[Updated] Tackling Photo Mismatch on FB Conversation Screen for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/provide-examples-from-real-life-where-understanding-another-cultures-perspective-could-lead-to-better-communication-and-relationships/"><u>Provide Examples From Real Life Where Understanding Another Culture's Perspective Could Lead to Better Communication and Relationships.</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocked-windows-reviving-context-menus-swiftly/"><u>Unblocked Windows: Reviving Context Menus Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-image-adjustment-the-six-essential-techniques/"><u>Windows 11 Image Adjustment: The Six Essential Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-system-performance-wins-top-diagnostic-list/"><u>Smooth System Performance: Win's Top Diagnostic List</u></a></li>
+</ul></div>

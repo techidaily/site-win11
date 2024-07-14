@@ -1,7 +1,7 @@
 ---
 title: Reverting Win11 Terminal Back to Basics
-date: 2024-06-25T11:33:47.899Z
-updated: 2024-06-26T11:33:47.899Z
+date: 2024-07-13T10:26:07.834Z
+updated: 2024-07-14T10:26:07.834Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
- The Command Prompt is a command line tool that can help you accomplish a number of tasks on your computer. It lets you run programs, manage files, and even troubleshoot problems with the operating system. We covered a lot of its functionality in our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) , but for now, we'll just explore resetting the Windows Terminal settings.
+ The Command Prompt is a command line tool that can help you accomplish a number of tasks on your computer. It lets you run programs, manage files, and even troubleshoot problems with the operating system. We covered a lot of its functionality in our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) , but for now, we'll just explore resetting the Windows Terminal settings.
 
  To reset Windows Terminal Settings back to their defaults, follow these steps:
 
@@ -59,7 +59,7 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 
  Windows PowerShell is another command line application that you can use to restore Windows Terminal Settings to their default state. To figure out how, follow these steps:
 
-1. Open Windows PowerShell. You can do this by pressing**Win + R** , typing "PowerShell", and then pressing**Enter** . You can also one of the other[ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
+1. Open Windows PowerShell. You can do this by pressing**Win + R** , typing "PowerShell", and then pressing**Enter** . You can also one of the other [ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 2. In the PowerShell window, copy and paste the following command:  
 ![Reset Windows Terminal Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-powershell.jpg)  
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
@@ -98,3 +98,55 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-go-viral-on-youtube-with-impressive-music-reaction-content-for-2024/"><u>[Updated] How to Go Viral on YouTube with Impressive Music Reaction Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-display-with-best-time-clock-screen-savers/"><u>Enhance PC Display with Best Time Clock Screen Savers</u></a></li>
+<li><a href="https://win11.techidaily.com/unyielding-security-seven-ways-to-shield-your-system/"><u>Unyielding Security: Seven Ways to Shield Your System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-exclusive-list-of-best-video-chat-apps-for-iphone-and-android-for-2024/"><u>[Updated] Exclusive List of Best Video Chat Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-chrome-file-uploading-woes-a-guide-for-windows-devices/"><u>Navigate Chrome File Uploading Woes: A Guide for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-xbox-audio-hurdles-with-windows-11-system-upgrades/"><u>Overcoming Xbox Audio Hurdles with Windows 11 System Upgrades</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-essentials-for-professionals-advanced-strategies-in-video-tagging/"><u>[New] Essentials for Professionals  Advanced Strategies in Video Tagging</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-ace-2-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Ace 2 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-uninstall-programs-without-admin-privileges-on-windows/"><u>How to Uninstall Programs Without Admin Privileges on WINDOWS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-setting-up-bings-chat-for-windows-11-users/"><u>Streamline Setting Up Bing's Chat for Windows 11 Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/explore-and-learn-about-discord-stickers/"><u>Explore & Learn About Discord Stickers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevating-your-tone-techniques-for-a-louder-clearer-vocal-performance-in-video-production-for-2024/"><u>Updated Elevating Your Tone Techniques for a Louder, Clearer Vocal Performance in Video Production for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inaccessible-window-resolutions-8-simple-steps/"><u>Fixing Inaccessible Window Resolutions: 8 Simple Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-google-pixel-8-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Google Pixel 8 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-sync-windows-plus-android-via-flow-app/"><u>Streamlining Sync: Windows + Android via Flow App</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-error-code-31-in-windows-systems/"><u>Understanding and Solving Error Code 31 in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-windows-11-with-additional-firewall-options-via-context-menu/"><u>Securing Windows 11 with Additional Firewall Options via Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-define-custom-idle-timeframe/"><u>Windows: Define Custom Idle Timeframe</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-a2plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi A2+ FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>[Updated] Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-step-by-step-guide-to-mastering-business-on-snap-for-2024/"><u>A Step-by-Step Guide to Mastering Business on Snap for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-streams-stopping-abrupt-download-drops/"><u>Optimize Windows Streams: Stopping Abrupt Download Drops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-user-friendly-guide-to-logging-gotomeeting-events/"><u>[New] 2024 Approved  User-Friendly Guide to Logging GoToMeeting Events</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/skyrocketing-views-live-stream-techniques-for-gamers/"><u>Skyrocketing Views  Live Stream Techniques for Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-6-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 6 Pattern Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/tidy-up-your-machine-best-windows-software-to-ditch/"><u>Tidy Up Your Machine: Best Windows Software to Ditch</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-windows-11-theme-archive/"><u>The Forgotten Windows 11 Theme Archive</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-achieving-smooth-transitions-utilizing-audio-ducking-for-elegant-music-fades-in-powerdirector/"><u>New In 2024, Achieving Smooth Transitions Utilizing Audio Ducking for Elegant Music Fades in PowerDirector</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-remediation-for-elusive-obs-studio-issue-on-win-11-pcs/"><u>Swift Remediation for Elusive OBS Studio Issue on Win 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/a-detailed-exploration-of-win11s-voice-control-shortcuts/"><u>A Detailed Exploration of Win11's Voice Control Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-correction-for-rpc-failures/"><u>Mastering Windows Error Correction for RPC Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-program-commands-keybinding-setup/"><u>Windows Program Commands: Keybinding Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-restore-screen-share-in-teams/"><u>Steps to Restore Screen Share in Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-user-interaction-ai-integration-into-windows-11/"><u>Redefining User Interaction: AI Integration Into Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-out-trash-onedrive-from-your-pcs-file-explorer/"><u>Taking Out Trash: OneDrive From Your PC's File Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-comfortable-computing-environment-configuring-active-periods-and-managing-updates-in-windows-11/"><u>Crafting a Comfortable Computing Environment: Configuring Active Periods & Managing Updates in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-animated-the-best-tools-for-creating-moving-photos/"><u>Get Animated The Best Tools for Creating Moving Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-intel-wi-fi-6a-driver-failure-in-windows-os/"><u>Solutions for Intel Wi-Fi 6A Driver Failure in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-enforced-driver-checks-for-easier-updates/"><u>Skirting Enforced Driver Checks for Easier Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-school-inspired-themes-for-win-11/"><u>Turn On School-Inspired Themes for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-access-how-to-use-windows-11s-security-interface/"><u>Securing Access: How to Use Windows 11'S Security Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-web-safety-including-reliable-domains-in-windows-11/"><u>Tailored Web Safety: Including Reliable Domains in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/systematic-solutions-locating-and-correcting-windows-errors-via-the-power-of-command-prompt/"><u>Systematic Solutions: Locating & Correcting Windows Errors via the Power of Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-utilizing-qr-scanners-in-windows/"><u>The Ultimate Guide to Utilizing QR Scanners in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-automatic-detect-of-proxy-issues/"><u>Fixing Windows' Automatic Detect of Proxy Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/system-tray-simplified-the-art-of-minimizing-apps-on-windows/"><u>System Tray Simplified: The Art of Minimizing Apps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mastery-directing-app-and-browser-traffic/"><u>Windows Mastery: Directing App and Browser Traffic</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming-for-2024/"><u>Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Method to Release Administrator-Restricted Apps
-date: 2024-06-25T11:45:23.465Z
-updated: 2024-06-26T11:45:23.465Z
+date: 2024-07-13T11:06:48.504Z
+updated: 2024-07-14T11:06:48.504Z
 tags:
   - windows10
   - windows11
@@ -67,7 +67,7 @@ To run an app as an administrator:
 1. Right-click on the app icon and select**Run as administrator** .
 2. Click**Yes** if prompted by User Account Control.
 
- Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
+ Check if the app launches ad administrator without the error. If yes, you can [set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
 ## 4\. Repair or Reset the Microsoft Store Apps
 
@@ -100,21 +100,21 @@ Reset the Microsoft Store app:
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
 
- You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
+ You can [disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
 
 ## 6\. Turn Off Your Antivirus Program
 
  False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
 
- You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
+ You can [temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
- If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+ If the error is resolved, add the app to your security program's allowed list. You can also [allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
  User Account Control settings are another common trigger for the This app has been blocked by your system administrator error. You can modify the User Account Control settings in Registry Editor to remove the admin block and resolve the error.
 
- Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to[create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a[system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
+ Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to [create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a [system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
 
 To remove the admin block using Registry Editor:
 
@@ -154,3 +154,67 @@ To remove the admin block using Registry Editor:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/rapid-retrieval-for-missed-snaps-for-2024/"><u>Rapid Retrieval for Missed Snaps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-app-install-failures-on-microsoft-store/"><u>Correcting App Install Failures on Microsoft Store</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-stock-image-memes-stories-that-stood-the-test/"><u>2024 Approved  Behind Stock Image Memes  Stories That Stood the Test</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-fix-windows-key-problems/"><u>Essential Steps to Fix Windows Key Problems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expert-tips-for-seamless-iphone-screen-recordings/"><u>2024 Approved  Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-windows-11-installation-with-these-essential-tweaks/"><u>Streamline Your Windows 11 Installation with These Essential Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-clarity-in-note-taking-with-obsidian-design/"><u>Visual Clarity in Note-Taking with Obsidian Design</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-11-settings/"><u>In-Depth Analysis of Windows 11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-why-windows-fails-to-execute-exe-files/"><u>Decoding Why Windows Fails to Execute .exe Files</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-insights-accurate-mac-location-techniques-in-windows-11/"><u>Expert Insights: Accurate MAC Location Techniques in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-filing-mastery-key-principles-max-156/"><u>Windows Filing Mastery: Key Principles (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/from-ios-to-desktop-seamless-sync-with-windows-os/"><u>From iOS to Desktop: Seamless Sync with Windows OS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-conquering-snapchat-send-gifs-with-ease/"><u>[Updated] In 2024, Conquering Snapchat  Send Gifs with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-honor-x50i-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Honor X50i Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-auditory-gain-on-windows-operating-system/"><u>Cease Auditory Gain on Windows Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-beast-boosting-fps-in-cs-go/"><u>Unleash the Beast - Boosting FPS in CS Go</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-redesigned-windows-11-widget-pickers/"><u>Enabling Redesigned Windows 11 Widget Pickers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-free-filter-treasures-through-instagrams-advanced-searches-for-2024/"><u>[Updated] Unraveling Free Filter Treasures Through Instagram’s Advanced Searches for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ten-simple-steps-for-fixing-def5-onedrive-woes-on-win11/"><u>Ten Simple Steps for Fixing DEF5: OneDrive Woes on Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-note-30-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Note 30? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-hidden-login-screens-in-windows-11/"><u>Eradicating Hidden Login Screens in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-internet-companion-fb-story-backup-tool/"><u>[Updated] In 2024, Internet Companion  FB Story Backup Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-plots-and-dialogues-for-radios/"><u>Pinnacle Plots & Dialogues for Radios</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-zero-empty-directories-issue-in-windows-11-and-11/"><u>Tackling the Zero-Empty Directories Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-resolving-roblox-glitches-on-pc/"><u>Guidelines for Resolving Roblox Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-pathways-to-windows-performance-details/"><u>Efficient Pathways to Windows Performance Details</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-fix-rpc-fails-on-your-pc/"><u>Master Plan to Fix RPC Fails on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-role-and-usage-of-windows-component-services/"><u>Deciphering the Role & Usage of Windows Component Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-spark-creativity-with-costless-auditory-extras/"><u>[Updated] Spark Creativity with Costless Auditory Extras</u></a></li>
+<li><a href="https://win11.techidaily.com/5-simple-ways-to-unlock-startup-repairs-in-windows/"><u>5 Simple Ways to Unlock Startup Repairs in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transform-your-social-media-experience-livestream-fb-flawlessly/"><u>[New] Transform Your Social Media Experience  Livestream FB Flawlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-intensive-resource-usage-managing-dropboxs-cpu-in-windows/"><u>Lowering Intensive Resource Usage: Managing Dropbox's CPU in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-guide-using-vlc-for-videos/"><u>2024 Approved  Ultimate Guide  Using VLC for Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-a-strategy-to-resolve-locked-windows-update/"><u>Unveiling a Strategy to Resolve Locked Windows Update</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-hit-the-floor-with-optimal-posting-hours/"><u>[New] Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-alter-windows-dashboard-imagery-effortlessly/"><u>How to Alter Windows Dashboard Imagery Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-for-setting-windows-backups-against-original-standards/"><u>Instructions for Setting Windows Backups Against Original Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/the-unmatched-features-in-windows-10-why-its-superior-to-win11/"><u>The Unmatched Features in Windows 10: Why It's Superior to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/clipit-woes-uncover-top-fixes-for-swift-recovery/"><u>ClipIt Woes? Uncover Top Fixes for Swift Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-your-device-the-ultimate-guide-for-model-names/"><u>Discover Your Device: The Ultimate Guide for Model Names</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g14-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G14 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-identity-made-simple-discover-the-10-best-banner-maker-apps/"><u>[Updated] In 2024, Channel Identity Made Simple  Discover the 10 Best Banner Maker Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-dissecting-digital-communication-discord-versus-skype-for-2024/"><u>[Updated] Dissecting Digital Communication  Discord Versus Skype for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-the-effectiveness-of-win-based-discord-queries/"><u>Improving the Effectiveness of Win-Based Discord Queries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-gain-momentum-with-these-strategies-for-trending-youtubers/"><u>[Updated] In 2024, Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-eliminating-an-obsolete-linkedin-identity-stepwise-guide/"><u>[New] Eliminating an Obsolete LinkedIn Identity  Stepwise Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-audience-favorites-for-successful-hauls/"><u>In 2024, Understanding Audience Favorites for Successful Hauls</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-parsing-hiccup-code-0xc00ce556/"><u>Correcting Windows Parsing Hiccup Code 0xC00CE556</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-usage-options-on-windows-11-devices-and-systems/"><u>Streamlining Usage Options on Windows 11 Devices and Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortless-pathways-to-scour-for-mass-video-downloads-on-tiktok/"><u>2024 Approved  Effortless Pathways to Scour for Mass Video Downloads on TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-out-of-place-window-elements/"><u>Correcting Out-of-Place Window Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-old-ribbon-revival-in-new-windows/"><u>Guide for Old Ribbon Revival in New Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-no-server-errors-a-windows-guide-to-apex-success-(156-chars/"><u>Eliminating No-Server Errors: A Windows Guide to Apex Success (<156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/uncluttered-windows-desktop-at-a-glance/"><u>Uncluttered Windows Desktop at a Glance</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-java-vm-error-on-windows/"><u>Unraveling the Mystery of Java VM Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/from-digital-tunes-to-physical-form-transforming-your-mp3s-on-pc-using-imgburn-windows/"><u>From Digital Tunes to Physical Form: Transforming Your MP3s on PC Using ImgBurn (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-operation-failed-error-code-0x0000011b/"><u>Tackling Operation Failed Error: Code 0X0000011B</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audio-access-failures-in-audacity/"><u>Troubleshooting Audio Access Failures in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-skip-recurring-enter-credentials-messages/"><u>Techniques to Skip Recurring 'Enter Credentials' Messages</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Decrease Extras in Win 11 Context List
-date: 2024-06-25T11:42:24.234Z
-updated: 2024-06-26T11:42:24.234Z
+date: 2024-07-13T10:56:25.997Z
+updated: 2024-07-14T10:56:25.997Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 ## 1\. How to Remove "Show More Options" From the Context Menu With Folder Options
 
- The[Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to[enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
+ The [Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to [enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
 
  Here's how to use the folder option to remove the "show more options" entry from the context menu:
 
@@ -49,7 +49,7 @@ Next, restart your computer for the changes to take effect.
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
- Now, you will have to restart Windows Explorer to see the changes. To do that, open the**Task Manager** (see how to[launch the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on**Windows Explorer,** and choose**Restart.**
+ Now, you will have to restart Windows Explorer to see the changes. To do that, open the**Task Manager** (see how to [launch the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on**Windows Explorer,** and choose**Restart.**
 
  Check if you can see the changes. If not, then you will have to restart your computer for the changes to take effect.
 
@@ -61,7 +61,7 @@ Next, restart your computer for the changes to take effect.
 
  Another quick way to remove the "show more options" entry is through the Registry Editor. Here's what you need to do:
 
- Before making any changes to the registry, ensure you've[created a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) or[back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . This will ensure your system settings and files are secure, and you can quickly access them if something goes wrong.
+ Before making any changes to the registry, ensure you've [created a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) or [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . This will ensure your system settings and files are secure, and you can quickly access them if something goes wrong.
 
 1. Open the Start Menu, type**Registry Editor** in the search bar, and press Enter.
 2. In the Registry Editor, navigate to the following location:  
@@ -78,7 +78,7 @@ Next, restart your computer for the changes to take effect.
 
  Here's how to download Winaero Tweaker and use it to remove the "show more options" entry from the context menu:
 
-1. Download the[Winaero Tweaker zip file](https://winaero.com/downloads/winaerotweaker.zip) on your computer.
+1. Download the [Winaero Tweaker zip file](https://winaero.com/downloads/winaerotweaker.zip) on your computer.
 2. Unzip the file, open the executable, and then follow the on-screen instructions to install it on your computer.
 3. Launch Winaero Tweaker and choose the**Classic Full Context Menus** option from the left sidebar.  
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
@@ -107,3 +107,55 @@ Next, restart your computer for the changes to take effect.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/effortlessly-incorporate-google-maps-into-windows/"><u>Effortlessly Incorporate Google Maps Into Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-visualcapture-reviewer-tool-for-2024/"><u>[Updated] VisualCapture Reviewer Tool for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-clip-sound-and-format-transformation/"><u>[Updated] Twitter Clip  Sound and Format Transformation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>In 2024, Premiere Pros' Picks  Professional Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-note-visibility-in-win-11/"><u>Maximizing Note Visibility in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-your-favorite-microsoft-store-for-windows-devices/"><u>Reinstate Your Favorite Microsoft Store for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/get-icloud-running-without-glitches-on-your-windows-device/"><u>Get iCloud Running Without Glitches on Your Window's Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-win-10s-internet-safety-mechanism/"><u>How to Set Win 10’S Internet Safety Mechanism</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/audio-archive-collect-and-examine-music-files/"><u>Audio Archive  Collect & Examine Music Files</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-windows-task-management-addressing-misplaced-cpu-metrics/"><u>Fixes for Windows Task Management: Addressing Misplaced CPU Metrics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-narzo-60-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme Narzo 60 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mellowing-down-post-high-life-hectic-windows-routine/"><u>Mellowing Down Post-High Life Hectic Windows Routine</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-history-in-action-top-7-engaging-civilization-wars/"><u>2024 Approved  History in Action  Top 7 Engaging Civilization Wars</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-handling-winservicesexe-errors/"><u>Expert Tips for Handling Winservices.exe Errors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-systemsettingsexe-failure-on-windows-11/"><u>Preventing SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-x5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco X5</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-power-indicators-full-charge-alerts-for-windows-11/"><u>Mastering Power Indicators: Full Charge Alerts for Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/interrupting-real-time-recording-on-quicktime/"><u>Interrupting Real-Time Recording on QuickTime</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-discard-a-drives-divisional-structure-in-windows/"><u>Simplified Techniques to Discard a Drive's Divisional Structure in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-unable-to-open-on-ges-sharing-feature/"><u>Remedy for Unable to Open on GE's Sharing Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/from-minuscule-to-monumental-boosting-windows-11-icon-sizes/"><u>From Minuscule to Monumental - Boosting Windows 11 Icon Sizes</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-lost-flight-buddy-copilot-in-windows-11/"><u>Reclaiming Lost Flight Buddy (Copilot) in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-grammarly-non-functionality-in-windows-10/"><u>Fixing Grammarly Non-Functionality in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-java-functionality-after-failed-installation/"><u>Restoring Java Functionality After Failed Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/next-steps-for-mobile-connectivity-in-windows-11/"><u>Next Steps for Mobile Connectivity in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-users-a-comprehensive-guide-to-windows-tweaks-via-alomware/"><u>Empowering Users: A Comprehensive Guide to Windows Tweaks via AlomWare</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-command-capabilities-for-the-windowed-world/"><u>Craft Command Capabilities for the Windowed World</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-system-failures-code-0xc0000001/"><u>Eradicating System Failures: Code 0xC0000001</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-progressive-presentation-kick-off/"><u>[New] Progressive Presentation Kick-Off</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-hurdles-of-error-0x80040610-a-comprehensive-approach/"><u>Eliminating the Hurdles of Error 0X80040610: A Comprehensive Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-mouse-pointer-prominence-in-windows-11/"><u>Enhancing Mouse Pointer Prominence in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-offline-windows-update-plan/"><u>Crafting an Offline Windows Update Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-screen-clarity-challenges/"><u>Mastery Over Windows Screen Clarity Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-in-windows-top-5-productivity-enhancers-you-cant-miss/"><u>Excel in Windows: Top 5 Productivity Enhancers You Can't Miss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicating-shadow-window-on-windows-11/"><u>Eradicating Shadow Window on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-20-free-to-use-pubg-image-arrays/"><u>2024 Approved  Premium 20 Free-to-Use PUBG Image Arrays</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-0x0000004e-on-win11-devices/"><u>Remedying Error 0X0000004E on Win11 Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-explore-2023-finding-out-what-youve-lately-watched-on-fb/"><u>2024 Approved  Explore 2023  Finding Out What You've Lately Watched on Fb</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-disconnect-solution-non-operative-printer-removal-in-win-1011/"><u>Quick Disconnect Solution: Non-Operative Printer Removal in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/master-system-configurations-optimizing-usage-options/"><u>Master System Configurations: Optimizing Usage Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enjoy-youtube-music-anytime-with-these-23-essential-no-cost-audio-extractors/"><u>[Updated] In 2024, Enjoy YouTube Music Anytime with These 23 Essential, No-Cost Audio Extractors</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-direct-voice-communication-for-xbox-on-windows-11/"><u>Reinstating Direct Voice Communication for Xbox on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/sharpen-outlook-response-in-the-windows-realm/"><u>Sharpen Outlook Response in the Windows Realm</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-unwatched-to-watched-top-10-reasons-and-solutions-for-no-views/"><u>In 2024, From Unwatched to Watched  Top 10 Reasons & Solutions for No Views</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-reactivating-razer-device-detection-by-synapse-software/"><u>Solutions for Reactivating Razer Device Detection by Synapse Software</u></a></li>
+</ul></div>

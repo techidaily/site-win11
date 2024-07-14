@@ -1,7 +1,7 @@
 ---
 title: "Decrypting Wacatac.B!ml Trojan: A Step-by-Step Windows Cleanup"
-date: 2024-06-25T11:42:13.042Z
-updated: 2024-06-26T11:42:13.042Z
+date: 2024-07-13T10:55:10.901Z
+updated: 2024-07-14T10:55:10.901Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  Have you discovered a Trojan infection after running a random security scan? Then, you should ensure that the Wacatac Trojan alert isn't a false positive. For that, follow the below steps:
 
-1. Visit the[VirusTotal website](https://www.virustotal.com/gui/home/upload) .  
+1. Visit the [VirusTotal website](https://www.virustotal.com/gui/home/upload) .  
 ![clicking on the choose file button on the VirusTotal official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-on-the-choose-file-button-on-the-virus-total-official-website.jpg)
 2. Navigate to the path of the affected item where Windows Defender has detected a Trojan. Most of the time, it'll be as follows:  
 `C:\WINDOWS\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE\QINNLJOV.htm`
@@ -86,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ## 3\. Run a Malware Scan in Safe Mode
 
- Often, the presence of malware prevents Windows Defender from removing infected files. To prevent this from happening, you should first[boot your Windows 10 device into Safe mode](https://www.makeuseof.com/tag/boot-windows-10-safe-mode/) (or[Windows 11)](https://www.makeuseof.com/windows-11-boot-safe-mode/) . By doing so, the malware won't interfere with removing infected files.
+ Often, the presence of malware prevents Windows Defender from removing infected files. To prevent this from happening, you should first [boot your Windows 10 device into Safe mode](https://www.makeuseof.com/tag/boot-windows-10-safe-mode/) (or [Windows 11)](https://www.makeuseof.com/windows-11-boot-safe-mode/) . By doing so, the malware won't interfere with removing infected files.
 
- Afterward, you should[run Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) . Remember that a full virus scan can take more than an hour, so be patient and allow it to complete. When the scan is complete, check whether Windows Security still reports a threat. If this is the case, run a malware scan with a third-party antivirus program.
+ Afterward, you should [run Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) . Remember that a full virus scan can take more than an hour, so be patient and allow it to complete. When the scan is complete, check whether Windows Security still reports a threat. If this is the case, run a malware scan with a third-party antivirus program.
 
  There are times when Windows Defender does not completely remove malware or keeps raising false flags despite removing the virus. Third-party software can help you determine whether the threat is present and, if it is, eradicate it. If that fails as well, reset your computer.
 
 ## 4\. Reset Your Operating System
 
- When none of the fixes work, you can reset Windows as a last resort. During the reset process, Windows will remove all installed apps and restore all customizations to default, but your files will remain intact (if you choose to do so). We have a[guide on factory resetting your Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) if you aren't familiar with it.
+ When none of the fixes work, you can reset Windows as a last resort. During the reset process, Windows will remove all installed apps and restore all customizations to default, but your files will remain intact (if you choose to do so). We have a [guide on factory resetting your Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) if you aren't familiar with it.
 
 ## Does the Wacatac Trojan Alert Appear When You Download a File?
 
@@ -105,13 +105,13 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  It has been reported that the Wacatac Trojan alerts sometimes appear when downloading a compressed file, particularly with the .RAR extension, even from legitimate sources. If that's the case for you, too, then follow the steps below:
 
 1. Copy the download link of the file you wish to download.
-2. Visit the[VirusTotal website](https://www.virustotal.com/gui/home/url) .
+2. Visit the [VirusTotal website](https://www.virustotal.com/gui/home/url) .
 3. Enter the URL in the URL scanner.  
 ![Entering the URL of the file to be downloaded in the URL scanner on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/entering-the-url-of-the-file-to-be-downloaded-in-the-url-scanner-on-the-virus-total-website.jpg)
 4. Hit**Enter** .  
 ![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
 
- If the VirusTotal scanner returns a clean result, you can download the file without worry. Just[whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
+ If the VirusTotal scanner returns a clean result, you can download the file without worry. Just [whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
 
 ## Protect Your Privacy From the Wacatac Trojan
 
@@ -134,3 +134,46 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/optimize-startup-changing-boot-timeout-in-windows-11/"><u>Optimize Startup: Changing Boot Timeout in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-the-look-of-window-11s-search-field/"><u>Altering the Look of Window 11'S Search Field</u></a></li>
+<li><a href="https://win11.techidaily.com/enablingdisabling-user-biometric-use-by-domains/"><u>Enabling/Disabling User Biometric Use by Domains</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-becoming-the-next-star-how-to-utilize-voice-changer-plus-app-for-iphones-effectively/"><u>Updated 2024 Approved Becoming the Next Star How to Utilize Voice Changer Plus App for iPhones Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-reasons-for-preserving-your-win-11-alerts/"><u>Discover the Reasons for Preserving Your Win 11 Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-windows-access-denied-error-code-0x80070522/"><u>Correcting the Windows Access Denied Error: Code 0X80070522</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-x-record-pc-suite-release/"><u>2024 Approved  X-Record PC Suite Release</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-device-stall-code-0x887a0006-guide/"><u>Fixing Device Stall: Code 0X887A0006 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-past-windows-0x80242016-update-fails/"><u>Navigating Past Windows' 0X80242016 Update Fails</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-m1-powered-laptops-to-videographers-needs/"><u>Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-insights-new-folder-formation-in-windows-11/"><u>Innovative Insights: New Folder Formation in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-1011s-recycle-bin-issues/"><u>Navigating Through Windows 10/11'S Recycle Bin Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/balancing-act-equalizing-pc-and-mobile-internet-speeds/"><u>Balancing Act: Equalizing PC & Mobile Internet Speeds</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-updating-halt-from-e8024002e/"><u>Eradicating Windows Updating Halt From E:8024002E</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unleashing-full-hd-clarity-on-every-tweet-scroll-for-2024/"><u>[Updated] Unleashing Full HD Clarity on Every Tweet Scroll for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/get-rid-of-unwanted-files-setting-up-scheduled-deletions-on-win11/"><u>Get Rid of Unwanted Files: Setting Up Scheduled Deletions on Win11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-earning-through-youtube-partnerships/"><u>2024 Approved  Earning Through YouTube Partnerships</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-printer-uninstallation-without-recovery-options/"><u>Mastering Printer Uninstallation without Recovery Options</u></a></li>
+<li><a href="https://win11.techidaily.com/instructional-manual-restoring-originality-in-windows-11-search/"><u>Instructional Manual: Restoring Originality in Windows 11 Search</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-glitch-nvidia-experiences-x0001-in-w11/"><u>Fixing Glitch: Nvidia Experience's X0001 in W11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-dj-design-samples-high-quality-downloads-ready/"><u>2024 Approved  Exclusive DJ Design Samples  High-Quality Downloads Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-fixes-for-windows-11-taskbar-loss/"><u>Guiding Fixes for Windows 11 Taskbar Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/from-chaos-to-clarity-manage-all-open-windows-win1110/"><u>From Chaos to Clarity: Manage All Open Windows (Win11/10)</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-organization-synergizing-to-do-and-ifttt/"><u>Enhance Organization: Synergizing To-Do & IFTTT</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-nows-the-time-top-ten-hourly-viewers-picks/"><u>In 2024, Now's the Time  Top Ten Hourly Viewers' Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/from-a-simple-pin-a-comprehensive-approach-to-switching-passwords-in-windows-11/"><u>From a Simple PIN: A Comprehensive Approach to Switching Passwords in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-techniques-to-prevent-disconnect-errors-during-discord-setup/"><u>Avoidance Techniques to Prevent Disconnect Errors During Discord Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-cpu-gpu-and-ram-usage-figures-on-pcs/"><u>Deciphering CPU, GPU, & RAM Usage Figures on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-shortage-of-usb-interface-points-in-windows/"><u>Fixing Shortage of USB Interface Points in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-file-download-failures-in-windows-1011/"><u>How to Resolve File Download Failures in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/expressive-ideas-on-a-canvas-direct-drawing-in-windows-11/"><u>Expressive Ideas on a Canvas: Direct Drawing in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-beacon-of-ringtone-richness-online/"><u>2024 Approved  Beacon of Ringtone Richness Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spicing-up-videos-with-youtube-music-linking-techniques/"><u>In 2024, Spicing Up Videos with YouTube Music Linking Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-browsing-post-windows-installation/"><u>Effortless Browsing Post-Windows Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-one-sided-windows-headphone-sound-loss/"><u>Fixing One-Sided Windows Headphone Sound Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simple-guide-to-mouse-customization-for-better-trail-control/"><u>A Simple Guide to Mouse Customization for Better Trail Control</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-microsofts-safe-mode-only-constraint/"><u>Navigating Through Microsoft's Safe Mode Only Constraint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-hdr-capturing-dynamic-range-in-your-images/"><u>In 2024, IPhone HDR  Capturing Dynamic Range in Your Images</u></a></li>
+<li><a href="https://win11.techidaily.com/covert-compression-techniques-for-windows-1011-users/"><u>Covert Compression Techniques for Windows 10/11 Users</u></a></li>
+</ul></div>

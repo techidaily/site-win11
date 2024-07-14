@@ -1,7 +1,7 @@
 ---
 title: Enhancing Folder Context Menus on Windows 11
-date: 2024-06-25T11:28:32.714Z
-updated: 2024-06-26T11:28:32.714Z
+date: 2024-07-13T10:06:49.223Z
+updated: 2024-07-14T10:06:49.223Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 
 ## How to Add a Move to Folder Context Menu Option
 
- To add new context menu options in Windows 11/10, you must tweak the[Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
+ To add new context menu options in Windows 11/10, you must tweak the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
 
-1. Bring up the Registry Editor with a method included in our[how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
+1. Bring up the Registry Editor with a method included in our [how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
 2. Click inside the address bar at the top of Registry Editor, and erase the current key location there.
 3. Then enter this**ContextMenuHandlers** key location and press**Return** :  
 `HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers`
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
 
-1. Head over to[the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
+1. Head over to [the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
 2. Press WinBubble’s**Download Now** button.
 3. Click the**Softpedia Mirror (US)** option for the download location.
 4. Next, bring up a**Downloads** tab or page in whatever web browser you’re utilizing. You can do that in Chrome, Edge, Firefox, or Opera with the**Ctrl** +**J** hotkey.
@@ -120,3 +120,52 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-studio-vs-fraps-best-screen-recording-tools-battle/"><u>2024 Approved  OBS Studio vs Fraps  Best Screen Recording Tools Battle</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-disruptions-fixing-video-restart-error/"><u>Avoiding Disruptions: Fixing Video Restart Error</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-system-restore-problem-code-0x80780119/"><u>Addressing System Restore Problem: Code 0X80780119</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-the-character-visualization-tool/"><u>Accessing the Character Visualization Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-invalid-profile-alerts-on-windows-1011/"><u>Addressing Invalid Profile Alerts on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/augment-context-menu-with-higher-powers/"><u>Augment Context Menu with Higher Powers</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-epic-games-account-unlock-on-windows/"><u>Addressing Epic Games Account Unlock on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-content-creator-to-cash-magnet-instagrams-guide-for-2024/"><u>[Updated] From Content Creator to Cash Magnet  Instagram's Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-audacitys-unexpected-device-access-in-winos/"><u>Addressing Audacity's Unexpected Device Access in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-chrome-downloads-disruptions-in-the-windows-os/"><u>Addressing Chrome Downloads Disruptions in the Windows OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-instruction-1-same-diffits-level-provide-a-list-of-five-alternative-phrases-that-convey-similar-meaning-to-thrilling-adventure-series-for-youn/"><u>2024 Approved Instruction 1 (Same Diffits Level) Provide a List of Five Alternative Phrases that Convey Similar Meaning to Thrilling Adventure Series for Young Explorers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-free-voice-changer-and-how-to-video-voice-editing-with-filmora/"><u>New 2024 Approved Best Free Voice Changer & How to Video Voice Editing With Filmora</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 15 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-success-reinstalling-microsofts-pc-manager-in-winxp/"><u>Achieve Success: Reinstalling Microsoft's PC Manager in WinXP</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-adobe-auto-rigger-is-awesome/"><u>Updated 2024 Approved Adobe Auto Rigger Is AWESOME</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-instantaneous-sharability-tweeting-videos-on-snapchat-network-for-2024/"><u>[New] Instantaneous Sharability  Tweeting Videos on Snapchat Network for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-visual-disk-space-analyzer-to-windows-explorer-menu/"><u>Adding Visual Disk Space Analyzer to Windows Explorer Menu</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[New] 2024 Approved  Behind the Scenes  How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-msvcr110dll-disappearance/"><u>Addressing msvcr110.dll Disappearance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-magic-v2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor Magic V2 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-and-fixing-the-call-not-invoked-issue-in-malwarebytes/"><u>Addressing and Fixing the Call Not Invoked Issue in Malwarebytes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pro-level-strategies-for-remote-audio-capture/"><u>In 2024, Pro-Level Strategies for Remote Audio Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-captivating-life-enriching-video-content-for-2024/"><u>[Updated] Creating Captivating Life-Enriching Video Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-tray-graphics-windows-resource-indicators-displayed/"><u>Amplify Tray Graphics: Windows Resource Indicators Displayed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-revolutionize-your-shooting-essential-camera-gear-guide-for-2024/"><u>[New] Revolutionize Your Shooting  Essential Camera Gear Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-disk-read-failures-on-your-pc/"><u>Avoiding Disk Read Failures on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/adapt-window-placement-for-windows-os/"><u>Adapt Window Placement for Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11-share-glitches-with-nvidia/"><u>Addressing Windows 11 Share Glitches with NVIDIA</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zoo-call-sounds-crystal-clear-with-fixes/"><u>Zoo Call Sounds Crystal Clear with Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-virtualization-setting-up-win11-with-vmware-17-player/"><u>Accelerating Virtualization: Setting Up Win11 with VMware 17 Player</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-tips-for-organizing-files-in-win-os-max-156/"><u>Advanced Tips for Organizing Files in Win OS (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-brightness-control-software-for-windows-multiscreen-enthusiasts/"><u>Advanced Brightness Control Software for Windows Multiscreen Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-edge-how-to-get-rid-of-it-in-w11/"><u>Avoiding Edge: How to Get Rid of It in W11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-complete-guide-for-setting-up-and-managing-regular-meetings-on-google/"><u>[New] 2024 Approved  The Complete Guide for Setting Up and Managing Regular Meetings on Google</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-journey-of-rhythms-choreographing-tiktok-on-macos/"><u>[New] Journey of Rhythms  Choreographing TikTok on MacOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-vanishing-act-cutting-duration-on-youtube/"><u>2024 Approved  Video Vanishing Act  Cutting Duration on YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a54-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A54 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-system32-folder-on-windows-11/"><u>Accessing System32 Folder on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-windows-11-task-managers-search-functionality/"><u>Activate Windows 11 Task Manager's Search Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-your-competitive-counter-strike-gameplay/"><u>Ace Your Competitive Counter-Strike Gameplay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-a-vlog-has-many-elements-to-answer-while-setting-up-ideas-for-it-there-are-several-things-into-which-you-should-look-this-article-presents-a-picture/"><u>In 2024, A Vlog Has Many Elements to Answer. While Setting up Ideas for It, There Are Several Things Into Which You Should Look. This Article Presents a Picture of How a Vlog Video Is Made Perfectly</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-domain-services-print-problems-in-win11/"><u>Addressing Domain Services Print Problems in Win11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-the-power-of-engagement-to-monetize-facebook/"><u>[New] In 2024, Unlock the Power of Engagement to Monetize Facebook</u></a></li>
+</ul></div>

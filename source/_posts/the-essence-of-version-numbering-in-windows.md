@@ -1,7 +1,7 @@
 ---
 title: The Essence of Version Numbering in Windows
-date: 2024-06-25T11:40:56.744Z
-updated: 2024-06-26T11:40:56.744Z
+date: 2024-07-13T10:51:52.470Z
+updated: 2024-07-14T10:51:52.470Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  Quality updates are generally categorized into four types; B, C, D, and out-of-band. Here is what every type does:
 
-* B updates - These are released on every second Tuesday of the month, known as[Patch Tuesday](https://www.makeuseof.com/everything-you-need-to-know-about-patch-tuesday/) . They contain security updates and critical bug fixes.
+* B updates - These are released on every second Tuesday of the month, known as [Patch Tuesday](https://www.makeuseof.com/everything-you-need-to-know-about-patch-tuesday/) . They contain security updates and critical bug fixes.
 * C updates - They are released in the third week of each month and typically include non-critical improvements. This may include fixes for a bug that is not a threat to the security of your system.
 * D updates - These are optional updates that are released in the fourth week of every month. They are typically used by Microsoft to receive feedback from the users on upcoming updates.
 * Out-of-band updates - These are emergency updates that do not follow a strict release schedule. They are released when a critical problem is discovered that needs to be fixed as soon as possible.
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
 ![Driver updates in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-update.jpg)
 
- Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
+ Windows also gives you the option to [manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
 ## Understanding the Update Numbers
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  This typically happens if the update you install is infected with bugs and vulnerabilities itself. The update can also conflict with the existing settings and configuration, leading to different issues and errors. In some cases, the updates you install can turn out to be incompatible with the hardware as well.
 
- If you encounter problems after installation, you can[uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or[roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
+ If you encounter problems after installation, you can [uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or [roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
 
 ## Making Sense of Update Names and Numbers
 
@@ -114,3 +114,47 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/how-to-fix-stuttering-in-warhammer-40000-boltgun-on-windows/"><u>How to Fix Stuttering in Warhammer 40,000: Boltgun on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-tiktok-presence-50plus-trending-tags/"><u>[Updated] Elevate Your TikTok Presence  50+ Trending Tags</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-linux-capabilities-on-windows-10/"><u>How to Unlock Linux Capabilities on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-windows-11-wait-longer-when-shutting-down-if-you-have-running-tasks/"><u>How to Make Windows 11 Wait Longer When Shutting Down if You Have Running Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-steam-cloud-error-in-windows/"><u>How to Fix the Steam Cloud Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/set-personalized-idle-lock-on-windows/"><u>Set Personalized Idle Lock on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capture-every-moment-premium-no-cost-windowsmac-tools/"><u>2024 Approved  Capture Every Moment  Premium, No-Cost Windows/Mac Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snapseed-simplified-photo-editing-made-accessible/"><u>[New] Snapseed Simplified  Photo Editing Made Accessible</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-temporarily-turn-off-your-pcs-firewall/"><u>How to Temporarily Turn Off Your PC's Firewall</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-unleash-your-creativit/"><u>2024 Approved Unleash Your Creativit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionary-iphone-techniques-for-hdr-photos/"><u>In 2024, Revolutionary iPhone Techniques for HDR Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/say-goodbye-to-troubleshooting-woes-on-vistawindows-7/"><u>Say Goodbye to Troubleshooting Woes on Vista/Windows 7</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>In 2024, Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-defender-written-by-michael-cramer/"><u>Navigating Windows Defender' Written by Michael Cramer</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-qt-engine-initialization-problem-in-software/"><u>Rectifying Qt Engine Initialization Problem in Software</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-perfecting-music-syncs-with-gifs-on-a-windows-device/"><u>In 2024, Perfecting Music Syncs with Gifs on a Windows Device</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-offline-setup-path-of-win11/"><u>Navigating the Offline Setup Path of Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-comprehensive-analysis-bublcams-360-vision/"><u>[Updated] In 2024, Comprehensive Analysis  Bublcam's 360 Vision</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-configuring-multimonitors-in-win11/"><u>Maximize Productivity: Configuring Multimonitors in Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-z-fold-5-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy Z Fold 5 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovation-at-your-fingertips-windows-erase-feature/"><u>Innovation at Your Fingertips: Window's Erase Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-windows-ram-cache-cleanse-procedures/"><u>Step-by-Step: Windows RAM Cache Cleanse Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-access-tackling-onedrive-logins-in-windows/"><u>Reviving Access: Tackling OneDrive Logins in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-avoid-dwarf-fortress-freezes-on-windows-systems/"><u>Steps to Avoid Dwarf Fortress Freezes on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-successfully-reconnecting-win11-to-5g-wi-fi/"><u>Steps for Successfully Reconnecting Win11 to 5G Wi-Fi</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-asana-app-performance-on-windows-systems/"><u>Reviving Asana App Performance on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-desktop-efficiency-with-wmdesk/"><u>Revolutionize Desktop Efficiency with WmDesk</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-superior-ai-friends-in-virtual-space-for-2024/"><u>[New] Superior AI Friends in Virtual Space for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-image-snap-shot-size/"><u>Setting Up Your Image Snap Shot Size</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-setting-up-a-digital-stage-for-real-time-viewers/"><u>[New] Setting Up a Digital Stage for Real-Time Viewers</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-gpu-settings-on-windows-11-pcs/"><u>Revitalize GPU Settings on Windows 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-unraveling-the-sixest-methods-for-copying-file-and-folders-locations/"><u>Mastering Windows 11: Unraveling the Sixest Methods for Copying File & Folders' Locations</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-windows-1011-camera-app-error-a00f429f/"><u>Steps to Eliminate Windows 10/11 Camera App Error A00F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unauthorized-save-errors-in-windows/"><u>Overcoming Unauthorized Save Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-compression-command-prompt-and-powershell-techniques/"><u>Mastering File Compression: Command Prompt & PowerShell Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-personalize-windows-11-files-via-added-movecopy/"><u>Streamline and Personalize Windows 11 Files via Added 'Move'/'Copy'</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-360-degree-pro-cams-2023-edition-review-for-2024/"><u>Leading 360-Degree Pro Cams  2023 Edition Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/nix-the-need-for-speedy-pointers-on-windows-11/"><u>Nix the Need for Speedy Pointers on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-security-add-safe-websites-now/"><u>Optimize Windows Security: Add Safe Websites Now</u></a></li>
+</ul></div>

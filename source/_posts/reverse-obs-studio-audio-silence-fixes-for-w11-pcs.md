@@ -1,7 +1,7 @@
 ---
 title: "Reverse OBS Studio Audio Silence: Fixes for W11 PCs"
-date: 2024-06-25T11:24:19.772Z
-updated: 2024-06-26T11:24:19.772Z
+date: 2024-07-13T09:51:29.390Z
+updated: 2024-07-14T09:51:29.390Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
 ## 1\. Restart OBS Studio
 
- Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
+ Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to [launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
 
  Next, relaunch the OBS Studio and check if it is able to record audio. If not, it's time for some more complicated fixes.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
 
-1. Open the**Settings** app (see how to[launch the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar.
+1. Open the**Settings** app (see how to [launch the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar.
 2. Select**Sound** from the right pane.
 3. Under the**Advanced section,** choose the**Volume Mixer** option.
 4. Under the**Apps section,** unmute OBS Studio if muted and adjust the slider accordingly.  
@@ -107,7 +107,7 @@ Restart OBS Studio and check if the problem persists.
 
 ## 8\. Download the Latest Audio Driver Updates
 
- A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to[update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
+ A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to [update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
 
 You can do that by following the below steps:
 
@@ -146,3 +146,65 @@ You can do that by following the below steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/discover-file-systems-better-with-diskspace-added-to-windows-menu/"><u>Discover File Systems Better with Diskspace Added to Windows Menu</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-list-top-rated-srt-translation-services/"><u>[Updated] A Comprehensive List  Top-Rated SRT Translation Services</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-enhance-your-watch-experience-with-faster-instagram-videos/"><u>[New] 2024 Approved  Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more/"><u>FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-instagram-video-dimensions-what-you-need-to-know-for-maximum-engagement/"><u>2024 Approved Instagram Video Dimensions What You Need to Know for Maximum Engagement</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-strategies-for-enhancing-clarity-eliminating-unwanted-noise-from-internet-streamed-music-and-voices/"><u>New 2024 Approved Strategies for Enhancing Clarity Eliminating Unwanted Noise From Internet-Streamed Music and Voices</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nubia-red-magic-9-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nubia Red Magic 9 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-get-your-fb-message-videos-flowing-again-on-mobile-devices/"><u>[Updated] In 2024, How to Get Your FB Message Videos Flowing Again on Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-long-start-ups-in-windows-11-easily-and-swiftly/"><u>Conquering Long Start-Ups in Windows 11 Easily and Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-visual-upgrades-with-themes-from-microsoft-store/"><u>Harnessing Visual Upgrades with Themes From Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-cant-connect-nvidia-error-on-win-11-devices/"><u>Bypassing the Can't Connect Nvidia Error on Win 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fundamentals-of-windows-executable-files-pe/"><u>Fundamentals of Windows Executable Files (PE)</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-optimal-msoffice-functionality-on-w11/"><u>Achieving Optimal MSOffice Functionality on W11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone X</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-files-vanish-permanently-in-your-desktop-trash-bin-windows-11/"><u>How to Make Files Vanish Permanently in Your Desktop Trash Bin (Windows 11)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-olympic-ice-showdown-highlights-of-speed-skating-short-track/"><u>[New] Olympic Ice Showdown  Highlights of Speed Skating Short Track</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-for-secure-external-drive-handling/"><u>Configuring Windows for Secure External Drive Handling</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resetting-and-changing-login-credentials-in-win-11/"><u>Guide to Resetting and Changing Login Credentials in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-re-establish-bluetooth-linkage-on-windows-1011/"><u>How To Re-Establish Bluetooth Linkage on Windows 10/11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-10-best-hashtag-tracker-for-facebook-twitter-and-instagram/"><u>[New] 2024 Approved  10 Best Hashtag Tracker for Facebook, Twitter and Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-make-a-private-story-on-snapchat-a-complete-guide/"><u>In 2024, How to Make a Private Story on Snapchat  A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-icons-bunching-up-on-the-windows-11-taskbar/"><u>How to Fix Icons Bunching Up on the Windows 11 Taskbar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/champions-of-cutting-edge-vr-creation/"><u>Champions of Cutting-Edge VR Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-the-catastrophe-recycle-bin-errors-in-win1011/"><u>Curbing the Catastrophe: Recycle Bin Errors in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-your-interview-role-a-comprehensive-guide/"><u>Perfecting Your Interview Role  A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-0x80780119-on-system-image/"><u>Addressing Windows Error 0X80780119 on System Image</u></a></li>
+<li><a href="https://win11.techidaily.com/which-window-suits-you-best-home-versus-pro-in-windows-11/"><u>Which Window Suits You Best? Home Versus Pro in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/safety-vs-entertainment-balancing-risks-with-quizzes/"><u>Safety Vs. Entertainment: Balancing Risks with Quizzes</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-addressing-inaudible-wireless-speaker-issues/"><u>Win11: Addressing Inaudible Wireless Speaker Issues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-final-cut-pro-techniques-for-2024/"><u>Updated Audio Fade Ins and Outs Made Easy 2 Final Cut Pro Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-ms-store-downloads-techniques-and-tips/"><u>Boosting MS Store Downloads: Techniques and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/instagrammable-pcs-how-to-add-your-chosen-weather-image-in-windows-11-status-bar/"><u>Instagrammable PCs: How to Add Your Chosen Weather Image in Windows 11 Status Bar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-microsoft-can-improve-windows-11s-clipboard-history/"><u>9 Ways Microsoft Can Improve Windows 11'S Clipboard History</u></a></li>
+<li><a href="https://win11.techidaily.com/from-problem-to-perfection-tactics-to-install-missing-features-in-windows-11-and-11-pro/"><u>From Problem to Perfection: Tactics to Install Missing Features in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-to-manage-files-and-tabs-windows-11/"><u>Expert Strategies to Manage Files and Tabs (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-private-character-editor-in-windows/"><u>How to Open the Private Character Editor in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fog-no-more-secrets-for-crisp-clean-filming-for-2024/"><u>Fog No More  Secrets for Crisp, Clean Filming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unrequested-file-explorer-startups/"><u>Addressing Unrequested File Explorer Startups</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-blackout-getting-out-of-dark-mode/"><u>Bypassing The Blackout: Getting Out Of Dark Mode</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-artisans-of-cinematic-magic-unveiling-every-roles-importance-in-movie-creation/"><u>New The Artisans of Cinematic Magic Unveiling Every Roles Importance in Movie Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackle-chromiums-network-access-via-windows-settings-blockers/"><u>Unshackle Chromium's Network Access via Windows Settings Blockers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximizing-your-story-potential-with-instagram-highlights-for-2024/"><u>Maximizing Your Story Potential with Instagram Highlights for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-imessage-for-windows-expert-techniques-revealed/"><u>Leveraging iMessage for Windows: Expert Techniques Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-on-computing-power-spent-by-malware-scanners/"><u>Cut Down on Computing Power Spent by Malware Scanners</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photos-shortcuts-for-the-savvy-editor/"><u>Windows Photos Shortcuts for the Savvy Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-blueprint-for-successful-reddit-contributions/"><u>Step-by-Step Blueprint for Successful Reddit Contributions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-avoid-last-minute-fb-stress-with-these-free-tools/"><u>In 2024, Avoid Last-Minute FB Stress with These Free Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-discover-the-hottest-tiktok-products-at-amazon/"><u>In 2024, Discover the Hottest TikTok Products at Amazon</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-windows-programming-file-layout-pe/"><u>Deciphering the Windows Programming File Layout (PE)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncharted-territories-discovering-hidden-vlc-capabilities/"><u>[New] Uncharted Territories  Discovering Hidden VLC Capabilities</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-what-make-aesthetic-cartoon-drawing-more-understandable/"><u>New 2024 Approved What Make Aesthetic Cartoon Drawing More Understandable</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-guide-implementing-animated-wallpapers-on-desktop/"><u>Windows 11 Guide: Implementing Animated Wallpapers on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-internet-connections-a-guide-for-steam-on-windows/"><u>Fixing Internet Connections: A Guide for Steam on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-full-screen-issues-in-sonic-adventure-on-windows-11/"><u>Winning Over Full-Screen Issues in Sonic Adventure on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solution-fixing-windows-auto-detect-proxy-errors/"><u>Immediate Solution: Fixing Windows' Auto Detect Proxy Errors</u></a></li>
+</ul></div>

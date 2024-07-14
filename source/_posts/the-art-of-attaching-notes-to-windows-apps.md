@@ -1,7 +1,7 @@
 ---
 title: The Art of Attaching Notes to Windows Apps
-date: 2024-06-25T11:31:36.298Z
-updated: 2024-06-26T11:31:36.299Z
+date: 2024-07-13T10:17:49.623Z
+updated: 2024-07-14T10:17:49.623Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,11 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  Stick A Note is a freeware and portable note-taking software for Windows 11 and Windows 10 from the talented solo developer Anand Gupta. By pressing that app's hotkey, you can add a note to any software window you wish. Follow these steps to get stuck in with Stick A Note:
 
-1. First, open the[Stick A Note](https://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Stick-A-Note.shtml) Softpedia page.
+1. First, open the [Stick A Note](https://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Stick-A-Note.shtml) Softpedia page.
 2. Select Softpedia's**Download Now** and**Secure Download (US)** options.
 3. [Bring up Windows 11's Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/) from the taskbar by clicking its folder library icon.
 4. Navigate to the folder the Stick A Note ZIP file downloaded in.
-5. Extract the downloaded**Stick A Note 3.0.1 (1).zip** archive. Our[how-to unzip files in Windows 10 guide](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting ZIPs.
+5. Extract the downloaded**Stick A Note 3.0.1 (1).zip** archive. Our [how-to unzip files in Windows 10 guide](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting ZIPs.
 
 1. Double-click**Stick A Note.exe** in that software's extracted folder.
 2. Next, double-click the**Stick A Note** system tray icon.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  Alas, Notezilla isn't freeware software. It's retailing at a reasonable $29.95 on the Conceptworld site. You can try out Notezilla by downloading and installing its 30-day trial package. This is how you can stick notes to windows with Notezilla:
 
-1. Open the[Notezilla](https://www.conceptworld.com/Notezilla/Download) download page on Conceptworld's website.
+1. Open the [Notezilla](https://www.conceptworld.com/Notezilla/Download) download page on Conceptworld's website.
 2. Select**Download Now** for the 64-bit Windows Notezilla version.
 3. Next, open your browser software's download tab. That tab is accessible in Chrome, Opera, Firefox, and Edge with a**Ctrl** +**J** keyboard shortcut.
 4. Click**NotezillaSetup.exe** to view the software's setup wizard.
@@ -121,3 +121,38 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/steps-for-fixing-microsoft-store-installation-errors/"><u>Steps for Fixing Microsoft Store Installation Errors</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplifying-vfx-with-magix-video-pro-x/"><u>[New] Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-the-path-of-your-onedrive-file-space-in-windows/"><u>Steering the Path of Your OneDrive File Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-blank-screen-issues-after-attempting-to-connect/"><u>Tackling Blank Screen Issues After Attempting to Connect</u></a></li>
+<li><a href="https://win11.techidaily.com/reintroduce-missing-5ghz-connection-in-windows-11-effective-fixes-here/"><u>Reintroduce Missing 5GHz Connection in Windows 11: Effective Fixes Here</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-issues-with-ccleaner-not-working-on-windows-1011/"><u>Solving Issues with CCleaner Not Working on Windows 10/11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-12-pro-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 12 Pro Activation Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-disabled-network-visibility-in-windows/"><u>Solving Disabled Network Visibility in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-prepare-win11-in-vmware-17-player/"><u>Step-by-Step Guide to Prepare Win11 in VMware 17 Player</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x9b-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X9b Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-windows-11-sign-in-complexity/"><u>Simplifying Windows 11 Sign-In Complexity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-free-gamers-choice-top-10-easy-record-software-listing/"><u>[Updated] 2024 Approved  Free Gamers' Choice  Top 10 Easy Record Software Listing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-essential-list-of-zoom-voice-modification-apps-for-adding-personality-and-humor-to-your-conversations/"><u>Updated In 2024, The Essential List of Zoom Voice Modification Apps for Adding Personality and Humor to Your Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-non-loading-dll-in-windows-steam/"><u>Strategies for Fixing Non-Loading Dll in Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcome-ppt-save-blunders-6-quick-fixes-windows-users-need/"><u>Swiftly Overcome PPT Save Blunders: 6 Quick Fixes Windows Users Need</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unbeatable-tools-to-sharpen-your-webcam-vids/"><u>[Updated] 2024 Approved  Unbeatable Tools to Sharpen Your Webcam Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/severing-non-primary-users-in-the-windows-ecosystem/"><u>Severing Non-Primary Users in the Windows Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-mkv-conversion-to-mp4-in-windows-systems/"><u>Simplifying MKV Conversion to MP4 in Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-list-best-high-definition-blu-ray-decks/"><u>[Updated] 2024 Approved  Ultimate List  Best High-Definition Blu-Ray Decks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-importance-of-format-conversion-mp3-to-mp4-explained-for-2024/"><u>Updated The Importance of Format Conversion MP3 to MP4 Explained for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-chat-disappearance-in-windows-11-what-it-entails-for-users/"><u>Taskbar Chat Disappearance in Windows 11: What It Entails for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-graphics-restoration-on-latest-windows-oses/"><u>Simplifying Graphics Restoration on Latest Windows OSes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-quick-views-snap-and-share/"><u>[New] 2024 Approved  FB Quick Views  Snap & Share</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-lost-link-a-comprehensive-guide-to-reinstating-defective-adapters-in-windows/"><u>Reviving the Lost Link: A Comprehensive Guide to Reinstating Defective Adapters in Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-how-to-convert-youtube-videos-to-gifs-no-download/"><u>[New] How to Convert YouTube Videos to GIFs [No Download]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-budget-friendly-tools-for-seamless-edits-for-2024/"><u>[Updated] Vimeo's Budget-Friendly Tools for Seamless Edits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-handle-no-device-drivers-issue-in-system-setup/"><u>Steps to Handle 'No Device Drivers' Issue in System Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/take-control-of-your-system-utilizing-alomware-tools-effectively/"><u>Take Control of Your System: Utilizing AlomWare Tools Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-predominant-rainmeter-malfunctions-in-windows/"><u>Remedying Predominant Rainmeter Malfunctions in Windows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11 Installation in VMWare 17 Player
-date: 2024-06-25T11:33:36.578Z
-updated: 2024-06-26T11:33:36.578Z
+date: 2024-07-13T10:24:47.367Z
+updated: 2024-07-14T10:24:47.367Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
  Here’s what you will need to install Windows 11 with TPM support in VMware Workstation 17 Player:
 
-1. A Windows 11 ISO image file. Check our detailed guide on[how to download the Windows 11 ISO file](https://www.makeuseof.com/windows-iso-direct-download/) .
+1. A Windows 11 ISO image file. Check our detailed guide on [how to download the Windows 11 ISO file](https://www.makeuseof.com/windows-iso-direct-download/) .
 2. A Windows 10 or above operating system with TPM 2.0 and virtualization support.
 3. The latest version of VMware Workstation 17 Player must be pre-installed on the host system.
 4. Adequate computing resources to run Windows 11 as a virtual machine. The list includes 64 GB disk space, 4 GB RAM, and a dual-core x64 processor.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 1. Go to the top menu of VMware Player and click on the**Player** button.
 2. Select the**Manage** option from the drop-down menu and click on the**Install VMware tools** option. It will mount the VMware tools setup image file in Windows File Explorer.  
 ![Installing VMware Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-vmware-tools.jpg)
-3. Press**Win + E** to[launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and open the mounted ISO file drive.
+3. Press**Win + E** to [launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and open the mounted ISO file drive.
 4. Locate and select the**setup64.exe** file. Press**Ctrl + Shift + Enter** to launch the setup with admin privileges.
 5. In the VMware tools installation window, click on the**Next** button and select the**Complete** installation option.  
 ![Installing VMware Tools 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-vmware-tools-2.jpg)
@@ -121,3 +121,51 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-captivating-youtube-openers-two-ways/"><u>2024 Approved  Creating Captivating YouTube Openers - Two Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-playstation-services-on-pc-and-laptops/"><u>Quick Fixes for PlayStation Services on PC & Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-window-11-wallpaper-settings-for-individual-monitors/"><u>Navigating Window 11 Wallpaper Settings for Individual Monitors</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-resurrect-inactive-windows-email-rule-configurations/"><u>Methods to Resurrect Inactive Windows Email Rule Configurations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-for-simple-steps-to-apply-fade-in-effect-to-your-text-in-premiere-pro-here-are-two-different-methods-along-with-an-alternative-way/"><u>New 2024 Approved Looking for Simple Steps to Apply Fade in Effect to Your Text in Premiere Pro? Here Are Two Different Methods Along with an Alternative Way to Fade Text in Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/make-the-best-out-of-what-you-have-even-without-11/"><u>Make the Best Out of What You Have, Even Without 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-mastering-gopro-quik-on-mac-effortless-video-editing/"><u>In 2024, Mastering GoPro Quik on Mac Effortless Video Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audiovisual-expertise-selecting-top-video-minds/"><u>Audiovisual Expertise  Selecting Top Video Minds</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-display-performance-with-high-ppi-settings/"><u>Maximizing Display Performance with High PPI Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-handle-printmanagement-service-failure/"><u>Essential Tips to Handle 'PrintManagement' Service Failure</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-amazing-techniques-of-motion-graphics-in-premiere-pro/"><u>New 2024 Approved Amazing Techniques of Motion Graphics in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-top-11-best-online-facebook-cover-photo-makers/"><u>[Updated] In 2024, Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-challenge-of-windows-error-0xc0000001/"><u>Overcoming the Challenge of Windows Error 0XC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-troubleshoot-common-issues-with-closed-captioning-in-windows-11/"><u>How to Troubleshoot Common Issues with Closed Captioning in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-connoisseurs-guide-to-file-details/"><u>Keyboard Connoisseur's Guide to File Details</u></a></li>
+<li><a href="https://win11.techidaily.com/disentangling-same-account-issues-on-a-device/"><u>Disentangling Same-Account Issues on a Device</u></a></li>
+<li><a href="https://win11.techidaily.com/making-older-computers-more-comfortable-for-seniors/"><u>Making Older Computers More Comfortable for Seniors</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-low-resource-utilization-wlanextexe/"><u>Mastering Low Resource Utilization: Wlanext.EXE</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-your-phones-role-in-windows-recording/"><u>Navigating Your Phone's Role in Windows Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-best-friends-at-your-feeds-disposal-topest-15-trusty-gratis-aid-sites/"><u>2024 Approved  Best Friends at Your Feed's Disposal  Topest 15 Trusty, Gratis Aid Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-steps-to-clear-up-steam-errors-in-games-on-windows/"><u>Immediate Steps to Clear Up Steam Errors in Games on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-windows-admin-imposed-setup-barriers/"><u>How to Tackle Windows 'Admin-Imposed' Setup Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-canvas-on-windows-desktops-tips-and-tricks/"><u>Digital Canvas on Windows Desktops: Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-hyper-v-installation-on-w11-home-edition/"><u>Mastering Hyper-V Installation on W11 Home Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-windows-update-stuck-at-100-here-are-6-fixes/"><u>Is Your Windows Update Stuck at 100%%? Here Are 6 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-windows-11-a-guide-to-taskbar-search-functionality/"><u>Dive Into Windows 11: A Guide to Taskbar Search Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-file-system-errors-in-windows-10-and-11/"><u>How to Fix File System Errors in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-frustrations-with-a-fix-to-non-working-pen-devices-in-windows/"><u>Easing Frustrations with a Fix to Non-Working Pen Devices in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-network-barriers-reviving-spotify-streams/"><u>Overcoming Network Barriers: Reviving Spotify Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-troubleshooting-a-guide-to-fixing-windows-11-issues/"><u>Mastering Troubleshooting: A Guide to Fixing Windows 11 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-updates-error-0x80242016-fix/"><u>Mastering Windows Updates' Error 0X80242016 Fix</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-pathway-to-choosing-between-game-and-studio-nvidia-drivers/"><u>Personalized Pathway to Choosing Between Game and Studio Nvidia Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-new-home-for-onedrive-folder-in-windows/"><u>Configuring New Home for OneDrive Folder in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok/"><u>[New] Upgrade Your Creativity  Easy Steps for Transforming Video Backgrounds on TikTok</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamlining-tiktok-twitter-integration/"><u>Streamlining TikTok-Twitter Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-solid-state-drive-harnessing-power-of-windows-and-fresh/"><u>Elevate Your Solid State Drive - Harnessing Power of Windows & Fresh</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-stunning-collage-artistry/"><u>[Updated] Step-by-Step Guide to Stunning Collage Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-widget-integration-into-windows-11/"><u>Mastering the Art of Widget Integration Into Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-perplexity-of-blued-in-windows-10/"><u>Overcoming the Perplexity of Blued in Windows 10</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/assistance-by-danny-from-colombia-for-the-disadvantaged/"><u>Assistance by Danny From Colombia for the Disadvantaged</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A1 5G | Dr.fone</u></a></li>
+</ul></div>

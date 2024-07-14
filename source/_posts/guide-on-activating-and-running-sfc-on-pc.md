@@ -1,7 +1,7 @@
 ---
 title: Guide on Activating and Running SFC on PC
-date: 2024-06-25T11:38:47.901Z
-updated: 2024-06-26T11:38:47.901Z
+date: 2024-07-13T10:43:34.363Z
+updated: 2024-07-14T10:43:34.363Z
 tags:
   - windows10
   - windows11
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
- If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+ If you’re unfamiliar with operating system files, please read our guide on [what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our [beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 ## What Happens After I Run the System File Checker?
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
 
- In that case, you can run SFC by[creating a bootable Windows disc or drive](https://www.makeuseof.com/tag/make-bootable-usb-cd-dvd-install-windows-using-iso-file/) and using it to fix damaged system files. This is called an offline scan.
+ In that case, you can run SFC by [creating a bootable Windows disc or drive](https://www.makeuseof.com/tag/make-bootable-usb-cd-dvd-install-windows-using-iso-file/) and using it to fix damaged system files. This is called an offline scan.
 
  The important thing to remember about an offline scan is that you need to tell the SFC where to find Windows on the bootable drive. Here’s what a**/scannow** command would look like if you ran it offline:
 
@@ -120,3 +120,59 @@ thumbnail: https://thmb.techidaily.com/09207a7f08746a7a51db3d8aa3727dd060158727f
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/is-voice-access-not-working-on-windows-11-heres-how-to-fix-it/"><u>Is Voice Access Not Working on Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-wsl-registration-failure-with-error-x80370102/"><u>Mastering The Fix: WSL Registration Failure with Error X80370102</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-pioneering-publishing-platforms-fb-and-its-video-distribution-insights-for-2024/"><u>[New] Pioneering Publishing Platforms  FB and Its Video Distribution Insights for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-accessing-cloud-drives-from-windows-drive-letters/"><u>Effortlessly Accessing Cloud Drives: From Windows Drive Letters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easy-steps-for-arranging-a-google-meeting/"><u>[New] Easy Steps for Arranging a Google Meeting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-money-mastery-made-simple-reddits-13-best-income-streams/"><u>[New] Money Mastery Made Simple  Reddit's 13 Best Income Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skyrocket-your-periscope-live-transmission-time/"><u>[New] Skyrocket Your Periscope Live Transmission Time</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/viral-success-starts-with-these-49-quotable-tiktok-statements-for-2024/"><u>Viral Success Starts with These 49-Quotable TikTok Statements for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/power-up-your-gym-sessions-with-these-top-20-songs/"><u>Power Up Your Gym Sessions with These Top 20 Songs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-disconnected-remote-resources-in-windows/"><u>Strategies to Address Disconnected Remote Resources in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-techniques-for-recording-instagram-stories/"><u>[Updated] Essential Techniques for Recording Instagram Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-silent-tab-disabling-in-windows-11/"><u>Navigating to Silent Tab Disabling in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-program-format-pe/"><u>Demystifying Windows Program Format (PE)</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-windows-11s-voice-recorder-usability-via-shortcut-guide/"><u>Elevating Windows 11'S Voice Recorder Usability via Shortcut Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/key-techniques-eradicating-predominant-anomalies-with-anydesk-on-windows/"><u>Key Techniques: Eradicating Predominant Anomalies with AnyDesk on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>In 2024, Instant Transformation  Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-ricoh-theta-s-in-full-review/"><u>Exploring Ricoh Theta S in Full Review</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2-effective-ways-to-make-srt-file-translation-like-a-pro/"><u>Updated 2 Effective Ways to Make SRT File Translation Like a Pro</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-one-self-portrait-to-a-thousand-mastering-the-art-of-repeating-yourself-on-tiktok/"><u>In 2024, From One Self-Portrait to a Thousand  Mastering the Art of Repeating Yourself on TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-spark-10c-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Spark 10C Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-the-absence-of-dxgidll-in-windows-11/"><u>How to Rectify the Absence of Dxgi.dll in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-new-row-insertion-issues-in-excel-windows/"><u>Strategies for Fixing New Row Insertion Issues in Excel Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streaming-windows-network-shares-from-smartphones/"><u>Streaming Windows Network Shares From Smartphones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/major-listing-of-affordable-visual-content-sites-for-2024/"><u>Major Listing of Affordable Visual Content Sites for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-witness-youtube-techniques-for-rapid-rendering/"><u>[Updated] Quick-Witness YouTube Techniques for Rapid Rendering</u></a></li>
+<li><a href="https://win11.techidaily.com/linux-perfection-bypassing-wsl/"><u>Linux Perfection: Bypassing WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-mouse-click-rate-with-just-a-few-tweaks/"><u>Skyrocket Mouse Click Rate with Just a Few Tweaks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mac-os-compatible-download-splice-video-editor-and-start-editing-for-2024/"><u>Mac OS Compatible Download Splice Video Editor and Start Editing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/review-of-surface-laptop-go-3s-new-cpu-unchanged-shortcomings/"><u>Review of Surface Laptop Go 3'S New CPU - Unchanged Shortcomings</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-windows-11-top-20-optimizations-guide/"><u>Mastering Your Windows 11: Top 20 Optimizations Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-np-settings-a-simple-fix-guide/"><u>Windows NP Settings: A Simple Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-hidden-icons-in-windows-11/"><u>Guiding Through Hidden Icons in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-freezing-and-black-steam-in-winos/"><u>Troubleshooting Freezing & Black Steam in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-a-complete-walkthrough-of-wpm-on-windows-os/"><u>Unlock Full Potential: A Complete Walkthrough of WPM on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-the-windows-world-crafting-and-examining-system-data/"><u>Inside the Windows World: Crafting and Examining System Data</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-xbox-game-pass-x8007e9-error-in-windows/"><u>Solutions for Xbox Game Pass X8007E9 Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-lost-dxgidll-with-effective-win11-tactics/"><u>Regain Lost Dxgi.dll with Effective Win11 Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/top-notch-windows-11-skins-no-one-knows/"><u>Top-Notch Windows 11 Skins No One Knows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-transform-your-videos-top-mobile-editing-apps-for-iphone-and-android-users/"><u>Updated In 2024, Transform Your Videos Top Mobile Editing Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-keyboard-method-to-resize-programs/"><u>Navigating Windows 11'S Keyboard Method to Resize Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/smoothing-out-irregularities-a-guide-to-correction-of-windows-charmap-issues/"><u>Smoothing Out Irregularities: A Guide to Correction of Windows CharMap Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-rectifying-webcam-error-code-a00f4289-on-windows-11/"><u>Deciphering and Rectifying Webcam Error Code A00F4289 on Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleash-your-adventure-essential-tactics-for-saving-your-vr-gaming-experience/"><u>[Updated] Unleash Your Adventure  Essential Tactics for Saving Your VR Gaming Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mirthful-user-sign-up-saga/"><u>[Updated] Mirthful User Sign-Up Saga</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-visionary-designs-for-future-mojave-dwellings/"><u>In 2024, Visionary Designs for Future Mojave Dwellings</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-quick-fixes-for-five-common-defender-disruptions/"><u>Troubleshooting Guide: Quick Fixes For Five Common Defender Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-into-your-windows-11-screen/"><u>Breathing Life Into Your Windows 11 Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-approach-to-sound-channel-division/"><u>Understanding Windows’ Approach to Sound Channel Division</u></a></li>
+</ul></div>

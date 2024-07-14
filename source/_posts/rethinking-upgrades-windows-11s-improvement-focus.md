@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Upgrades: Windows 11’S Improvement Focus"
-date: 2024-06-25T11:30:14.464Z
-updated: 2024-06-26T11:30:14.464Z
+date: 2024-07-13T10:13:31.018Z
+updated: 2024-07-14T10:13:31.018Z
 tags:
   - windows10
   - windows11
@@ -30,11 +30,11 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
  Justin Duino / MakeUseOf
 
- When Microsoft released Windows 11 in October 2021, it was called the Windows version for gaming. However, it’s become apparent that[Microsoft’s focus regarding Windows 11 has shifted](https://www.makeuseof.com/future-of-windows-11-ai/) . The company has increasingly prioritized[artificial intelligence (AI)](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) with its continuous stream of Copilot integrations.
+ When Microsoft released Windows 11 in October 2021, it was called the Windows version for gaming. However, it’s become apparent that [Microsoft’s focus regarding Windows 11 has shifted](https://www.makeuseof.com/future-of-windows-11-ai/) . The company has increasingly prioritized [artificial intelligence (AI)](https://www.makeuseof.com/artificial-intelligence-ai-simple-terms/) with its continuous stream of Copilot integrations.
 
- In December 2023, Executive Vice President and Consumer Chief Marketing Officer[Yusuf Mehdi mentioned](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/) Microsoft's commitment “to bringing more innovation and advanced capabilities to Copilot” in 2024.
+ In December 2023, Executive Vice President and Consumer Chief Marketing Officer [Yusuf Mehdi mentioned](https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/) Microsoft's commitment “to bringing more innovation and advanced capabilities to Copilot” in 2024.
 
- The fruits of this commitment are now being realized in Windows 11, as several AI-powered features, updates, and improvements have been announced and released.[A Copilot key is even available on some newer Windows 11 PC keyboards](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , making the AI assistant more accessible. Furthermore, in April 2024, Executive Vice President and Chief Commercial Officer[Judson Althoff announced](https://blogs.microsoft.com/blog/2024/04/24/leading-in-the-era-of-ai-how-microsofts-platform-differentiation-and-copilot-empowerment-are-driving-ai-transformation/) Microsoft's goal of a “Copilot on every desk, every device and across every role.”
+ The fruits of this commitment are now being realized in Windows 11, as several AI-powered features, updates, and improvements have been announced and released.[A Copilot key is even available on some newer Windows 11 PC keyboards](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , making the AI assistant more accessible. Furthermore, in April 2024, Executive Vice President and Chief Commercial Officer [Judson Althoff announced](https://blogs.microsoft.com/blog/2024/04/24/leading-in-the-era-of-ai-how-microsofts-platform-differentiation-and-copilot-empowerment-are-driving-ai-transformation/) Microsoft's goal of a “Copilot on every desk, every device and across every role.”
 
  It’s clear that Copilot and AI, not gaming, have become central to realizing Windows 11's full potential and Microsoft's broader ambitions.
 
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
  Justin Duino / MakeUseOf
 
- Microsoft’s Copilot features, while cool and awesome, sometimes feel more like fun additions than substantial improvements to Windows 11\. For instance, the ability to make video chats look like paintings or[create images with Copilot](https://www.makeuseof.com/how-use-bing-image-creator-free/) might be entertaining, but it doesn’t necessarily address the usability of Windows 11.
+ Microsoft’s Copilot features, while cool and awesome, sometimes feel more like fun additions than substantial improvements to Windows 11\. For instance, the ability to make video chats look like paintings or [create images with Copilot](https://www.makeuseof.com/how-use-bing-image-creator-free/) might be entertaining, but it doesn’t necessarily address the usability of Windows 11.
 
- When I had the “Standard hardware security not supported” Windows Security error, Microsoft took a while to address this bug. In the meantime, the company released new Copilot features, including the seemingly unnecessary[Copilot + Notepad integration](https://www.makeuseof.com/supercharge-notepad-copilot/) . Releasing cool AI features, no matter how advanced, before addressing lingering issues reveals concerning priorities.
+ When I had the “Standard hardware security not supported” Windows Security error, Microsoft took a while to address this bug. In the meantime, the company released new Copilot features, including the seemingly unnecessary [Copilot + Notepad integration](https://www.makeuseof.com/supercharge-notepad-copilot/) . Releasing cool AI features, no matter how advanced, before addressing lingering issues reveals concerning priorities.
 
- Where are the features that improve the functionality of Windows 11 over Windows 10? For most of us, everyday productivity does not revolve around Notepad, Paint, Snipping Tool, and Clipchamp. One of[Copilot's best uses would be automating troubleshooting](https://www.makeuseof.com/copilot-fix-problems-in-windows/) , but unfortunately, it can't do that yet.
+ Where are the features that improve the functionality of Windows 11 over Windows 10? For most of us, everyday productivity does not revolve around Notepad, Paint, Snipping Tool, and Clipchamp. One of [Copilot's best uses would be automating troubleshooting](https://www.makeuseof.com/copilot-fix-problems-in-windows/) , but unfortunately, it can't do that yet.
 
  Windows 10 set a high standard by delivering real features; for instance, Device Guard strengthened protection while Continuum and Hello modernized interaction methods. Most of Windows 11's changes have revolved around redesigns or AI-fueled capabilities in areas like image generation, content creation, and automation. While amazing demonstrations of technological progress, they don’t really improve the essential day-to-day functionality of the operating system.
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
  Similarly, it’s easier and better to work with multiple monitors on W11 than on W10\. The new and improved Widgets feature, integration of Teams, and Focus mode are also welcome Windows 11 additions. These features represent the type of functional updates we want to see prioritized over fun AI features.
 
- Admittedly, Copliot has huge potential, and should only get more capable as[AI PCs become more common](https://www.makeuseof.com/what-is-ai-pc/) . Eventually, the AI assistant should meaningfully augment Windows 11's core functionality.
+ Admittedly, Copliot has huge potential, and should only get more capable as [AI PCs become more common](https://www.makeuseof.com/what-is-ai-pc/) . Eventually, the AI assistant should meaningfully augment Windows 11's core functionality.
 
  Copilot's integration into apps and browsers on your W11 PC could save you valuable time, allowing you to focus on important tasks. The issue is when the balance is tipped in favor of fun Copilot features over functional features. As Microsoft continues to improve Windows 11, we can only hope that they will strive to create an operating system that is not just more fun but also better.
 
@@ -85,3 +85,52 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-8-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 8 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-jvm-not-created-a-windows-solution/"><u>Addressing JVM Not Created: A Windows Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/adjust-desktop-presence-embedding-this-pc-icons/"><u>Adjust Desktop Presence: Embedding 'This PC' Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-collaboration-the-5-top-windows-fs-software-picks/"><u>Accelerated Collaboration: The 5 Top Windows FS Software Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/asus-s15-oled-a-blend-of-class-and-convenience-for-students/"><u>Asus S15 OLED - A Blend of Class and Convenience for Students</u></a></li>
+<li><a href="https://win11.techidaily.com/alert-essential-windows-processes-to-watch-for-malware/"><u>Alert: Essential Windows Processes to Watch for Malware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essential-studio-handbook-xvideo-studio-guide-for-2024/"><u>[Updated] The Essential Studio Handbook  XVideo Studio Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-vanished-pc-displays-at-launch/"><u>Addressing Vanished PC Displays at Launch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-t2-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo T2 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-supported-issue-during-os-setup-and-update/"><u>Addressing 'No Supported' Issue During OS Setup and Update</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-recovery-tactics-for-unavailable-defender-security-features/"><u>Accelerated Recovery Tactics for Unavailable Defender Security Features</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-system-index-for-optimization/"><u>Altering System Index for Optimization</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-find-n3-flip-easily-by-drfone-android/"><u>How To Unlock a Oppo Find N3 Flip Easily?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-faster-facebook-videos/"><u>[New] The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-windows-steam-transfers-averting-sudden-halt/"><u>Amplify Windows Steam Transfers: Averting Sudden Halt</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-s23plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy S23+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-store-glitch-code-0x80073cf3/"><u>Addressing Windows Store Glitch: Code 0X80073CF3</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-troubleshooting-locating-and-fixing-system-error-messages-using-commands/"><u>Advanced Windows Troubleshooting: Locating & Fixing System Error Messages Using Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/averting-unwanted-windows-store-automatization/"><u>Averting Unwanted Windows Store Automatization</u></a></li>
+<li><a href="https://win11.techidaily.com/automating-productivity-with-to-do-and-ifttt/"><u>Automating Productivity with To-Do and IFTTT</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-geforce-notaxc0f1103f-windows-errors/"><u>Addressing GeForce NotaXC0F1103F Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-visual-angle-in-windows-configuration/"><u>Altering Visual Angle in Windows Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-driver-verifier-manager-w11-edition/"><u>Accessing Driver Verifier Manager W11 Edition</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-a-beginners-guide-to-tell-you-what-3d-animation-is/"><u>2024 Approved A Beginners Guide to Tell You What 3D Animation Is</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-engage-and-captivate-with-these-top-tier-unpacked-vids-for-2024/"><u>[Updated] Engage and Captivate with These Top-Tier Unpacked Vids for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-essential-techniques-for-slow-mo-tiktok-content-creation/"><u>[Updated] Essential Techniques for Slow Mo TikTok Content Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/approaches-for-correcting-err-87-invalid-parameters-on-winos/"><u>Approaches for Correcting Err 87: Invalid Parameters on WinOS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-visual-virtuosity-mastering-motivation-on-instagram/"><u>[New] Visual Virtuosity  Mastering Motivation on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-functional-gadget-alert-in-windows-11/"><u>Addressing Non-Functional Gadget Alert in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-account-access-in-windows-11-easily/"><u>Altering Account Access in Windows 11 Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-incompatible-format-in-windows-vlc-error/"><u>Addressing Incompatible Format in Windows VLC Error</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-removing-restrictions-in-windows/"><u>Advanced Techniques: Removing Restrictions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-install-net-application-complaint/"><u>Addressing the Install .NET Application Complaint</u></a></li>
+<li><a href="https://win11.techidaily.com/advice-for-fixing-untraceable-windows-drives/"><u>Advice for Fixing Untraceable Windows Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disrupted-copy-and-paste-on-windows-11/"><u>Addressing Disrupted Copy & Paste on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boost-or-dial-down-youtube-audio-with-devices/"><u>Boost or Dial Down YouTube Audio with Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-faulty-timed-lock-screen-issue-windows/"><u>Addressing Faulty Timed Lock Screen Issue Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-failed-logon-wait-duration-settings/"><u>Adjusting Failed Logon Wait Duration Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/automated-uninstall-process-for-printers-in-windows-11/"><u>Automated Uninstall Process for Printers in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-windows-11-volume-mixer-shortcut/"><u>Accessing Windows 11 Volume Mixer Shortcut</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-imaging-separating-subjects-from-surroundings/"><u>Advanced Imaging: Separating Subjects From Surroundings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-inspirational-article-leaderboard-maker/"><u>[Updated] Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-a-functional-system-update-alert-in-win11-pro/"><u>Adding a Functional System Update Alert in Win11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/automatic-program-management-in-windows-os/"><u>Automatic Program Management in Windows OS</u></a></li>
+</ul></div>

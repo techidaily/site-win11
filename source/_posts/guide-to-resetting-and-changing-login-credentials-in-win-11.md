@@ -1,7 +1,7 @@
 ---
 title: Guide to Resetting and Changing Login Credentials in Win 11
-date: 2024-06-25T11:35:26.367Z
-updated: 2024-06-26T11:35:26.367Z
+date: 2024-07-13T10:31:59.645Z
+updated: 2024-07-14T10:31:59.645Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 ## What If You Have Forgotten Your Windows Administrator Password?
 
- Most Windows computers have more than one sign-in option. So, if your[Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
+ Most Windows computers have more than one sign-in option. So, if your [Windows user account PIN isn’t working](https://www.makeuseof.com/something-happened-your-pin-isnt-available-windows/) , you can use the account password to sign in and vice versa.
 
- To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to[reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
+ To be able to change your account password, you must either remember your current password or be able to log in to your PC with an alternate sign-in option. If you are locked out of your account without no option to sign in, follow our guide to [reset a forgotten Windows administrator password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) instead.
 
 ## 1\. Change the Account Password Using Ctrl + Alt + Delete
 
@@ -63,7 +63,7 @@ To change the account password:
 
  If you don’t know your current password but can log in using an alternate option, you can reset the password using the User Accounts utility. It allows you to add or remove a user account and reset the password without needing the current password.
 
- Note that you can only reset the password for a different user account, not your currently logged-in account. Make sure to log in with a different administrator account. If you don't have another account with administrator privilege, you can[enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) and reset the user account password.
+ Note that you can only reset the password for a different user account, not your currently logged-in account. Make sure to log in with a different administrator account. If you don't have another account with administrator privilege, you can [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) and reset the user account password.
 
 To reset the user account password:
 
@@ -122,7 +122,7 @@ To change the Windows account password using Control Panel:
 
 ## 6\. Change Account Password Using Local Users and Groups
 
- Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to[set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
+ Local Users and Groups snap-in lets you make advanced changes to your user account. You can use it to [set password expiration for Windows user accounts](https://www.makeuseof.com/enable-disable-password-expiration-windows-11/) , add account expiry and restrict users from changing account passwords.
 
  Additionally, it also allows you to reset your user account password. Follow these steps to change the user account password using lusrmgr.
 
@@ -140,7 +140,7 @@ To change the Windows account password using Control Panel:
 
  If you sign in with a Microsoft account, you can reset the password for the Microsoft account online. Here’s how to do it.
 
-1. Go to the[Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
+1. Go to the [Microsoft account security page](https://account.microsoft.com/security) and sign in with your username and password.  
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-online-password-security.jpg)
 2. Next, click on the**Password** security block.  
 ![change my password microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-my-password-microsoft-account.jpg)
@@ -172,3 +172,50 @@ To change the Windows account password using Control Panel:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/steps-to-tweak-controlled-chromeedge-configurations-for-work-computers/"><u>Steps to Tweak Controlled Chrome/Edge Configurations for Work Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-windows-print-service/"><u>Troubleshooting Non-Operational Windows Print Service</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-disassembling-dism-for-image-recovery/"><u>The Art of Disassembling Dism for Image Recovery</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-hot-40-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 40 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-procedure-for-restoring-original-windows-11-search-settings/"><u>Simplified Procedure for Restoring Original Windows 11 Search Settings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-90-lite-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-archive-video-discussions-with-ease-and-security/"><u>[New] How to Archive Video Discussions with Ease & Security</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-complete-guide-to-customizing-tiktok-user-speech-patterns/"><u>2024 Approved  The Complete Guide to Customizing TikTok User Speech Patterns</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-excessive-pc-resources-by-unrealcefsubprocess-in-windows/"><u>Tackling Excessive PC Resources by UnrealCEFSubprocess in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-wisdom-mastering-the-method-of-making-dossiers/"><u>Win11 Wisdom: Mastering the Method of Making Dossiers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-motorola-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Motorola using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-application-size-modification-with-keys-on-win11/"><u>Streamlining Application Size Modification with Keys on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/winoses-mastery-of-local-policies-applied-to-single-users/"><u>WinOSes: Mastery of Local Policies Applied to Single Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-mend-failed-jvm-initialization-in-windows/"><u>Techniques to Mend Failed JVM Initialization in WINDOWS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-swift-and-steady-follower-filtering-the-leading-twitter-tools-list-for-2024/"><u>[New] Swift and Steady Follower Filtering  The Leading Twitter Tools List for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>In 2024, Flipping Photos for Followers  A Rotational Approach for Insta Success</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-tips-counteracting-camera-app-fails/"><u>Winning Tips: Counteracting Camera App Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-uac-alerts-a-windows-screenshot-guide/"><u>Capturing UAC Alerts: A Windows ScreenShot Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[Updated] 2024 Approved  From Amateur to Professional  Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>[New] 2024 Approved  Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-resolving-0x800704cf-error-in-windows-store/"><u>Unraveling and Resolving 0X800704CF Error in Windows' Store</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-6-typical-windows-display-issues/"><u>Troubleshooting 6 Typical Windows Display Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/breach-the-barrier-opening-credential-store/"><u>Breach the Barrier: Opening Credential Store</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-a-non-functional-spotify-client-in-windows-10/"><u>Troubleshooting a Non-Functional Spotify Client in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-attaching-notes-to-windows-apps/"><u>The Art of Attaching Notes to Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-speakers-not-detected-issue/"><u>Resolving Windows: Speakers Not Detected Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-automatic-shutdown-for-w10w11/"><u>Setting Up Automatic Shutdown for W10/W11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-magic5-ultimate-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic5 Ultimate Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-premier-league-of-youtubes-most-watched-shorters-for-2024/"><u>The Premier League of YouTube's Most Watched Shorters for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-swapping-screen-orientation-by-90-degrees/"><u>The Ultimate Guide to Swapping Screen Orientation by 90 Degrees</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-smart-8-hd-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Smart 8 HD to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-setup-utilize-windows-11s-troubleshooting/"><u>Streamline Your Setup: Utilize Windows 11'S Troubleshooting</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-meaning-behind-windows-patches/"><u>Unraveling the Meaning Behind Window's Patches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-microphone-for-different-youtube-channel-types-for-2024/"><u>[New] Best Microphone for Different YouTube Channel Types for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-enigmatic-eye-slick-camera-tech/"><u>The Enigmatic Eye  Slick Camera Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-2-unleashed-microsofts-near-perfect-creator-tool/"><u>Studio 2 Unleashed: Microsoft's Near-Perfect Creator Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-eternal-delete-with-a-customized-windows-trash-bin-setup-11/"><u>Unleash Eternal Delete with a Customized Windows Trash Bin Setup (11)</u></a></li>
+<li><a href="https://win11.techidaily.com/syncing-with-windows-11-changing-default-actions-smoothly/"><u>Syncing with Windows 11: Changing Default Actions Smoothly</u></a></li>
+<li><a href="https://win11.techidaily.com/1719378810676-shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-installation-sites-for-pc-apps-on-windows/"><u>Tracing Installation Sites for PC Apps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-mitigate-winerror-0x80780119/"><u>Strategies to Mitigate WinError 0X80780119</u></a></li>
+</ul></div>

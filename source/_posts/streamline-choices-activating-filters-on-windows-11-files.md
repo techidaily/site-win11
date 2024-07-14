@@ -1,7 +1,7 @@
 ---
 title: "Streamline Choices: Activating Filters on Windows 11 Files"
-date: 2024-06-25T11:23:43.137Z
-updated: 2024-06-26T11:23:43.137Z
+date: 2024-07-13T09:49:40.682Z
+updated: 2024-07-14T09:49:40.682Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
 ## 2\. Enable Checkboxes Using the Folder Option
 
- The[Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to[clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
+ The [Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to [clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
 
 Here's how to use the Folder Option to enable the checkboxes:
 
@@ -82,3 +82,51 @@ Here's how to use the Folder Option to enable the checkboxes:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-capturing-uac-alerts/"><u>Advanced Techniques for Capturing UAC Alerts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-navigating-speedy-downloads-for-tiktok-hits/"><u>2024 Approved  Navigating Speedy Downloads for TikTok Hits</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-empty-directory-issue-in-windows-11-error-0x80070091/"><u>Addressing Non-Empty Directory Issue in Windows 11: Error #0X80070091</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-11-laptop-touchpad-sensitivity-guide/"><u>Adjusting Windows 11 Laptop Touchpad Sensitivity Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/are-some-of-your-keyboard-keys-not-working-heres-how-to-fix-them-on-windows/"><u>Are Some of Your Keyboard Keys Not Working? Here's How to Fix Them on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-frustration-with-11-troubleshooting-windows-tips/"><u>Avoid Frustration with 11 Troubleshooting Windows Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-the-art-of-completing-a-perfect-windows-update/"><u>Ace the Art of Completing a Perfect Window's Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlb files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-10-essential-movie-trailer-apps-for-ios-devices-this-year/"><u>Updated 2024 Approved 10 Essential Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-prints-with-secure-browsing-feature-edge/"><u>Activating Prints with Secure Browsing Feature (Edge)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pixelpilots-perspective-leading-screen-recording-tools-of-the-year/"><u>[New] 2024 Approved  PixelPilot's Perspective  Leading Screen Recording Tools of the Year</u></a></li>
+<li><a href="https://win11.techidaily.com/approaches-to-compatibility-issues-for-windows-packages/"><u>Approaches to Compatibility Issues for Windows Packages</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-alchemy-how-to-seamlessly-change-windows-11-themes-and-enrich-your-workspace/"><u>Aesthetic Alchemy: How to Seamlessly Change Windows 11 Themes and Enrich Your Workspace</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-keystrokes-mastery-via-typingaid/"><u>Accelerating Keystrokes: Mastery via TypingAid</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-online-titles-simplified/"><u>In 2024, Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://win11.techidaily.com/aim-for-zero-error-windows-1011-bin-repair-guide/"><u>Aim for Zero-Error: Windows 10/11 Bin Repair Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-get-started-with-3d-animation-best-free-and-paid-software-options/"><u>New In 2024, Get Started with 3D Animation Best Free and Paid Software Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-retrieving-tweets-as-gifs-for-2024/"><u>[Updated] Mastering the Art of Retrieving Tweets as GIFs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/accessible-configuration-of-win11-connectivity-options/"><u>Accessible Configuration of Win11 Connectivity Options</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y78t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y78t?</u></a></li>
+<li><a href="https://win11.techidaily.com/activation-protocol-engaging-modernized-widget-pickers-toolset/"><u>Activation Protocol: Engaging Modernized Widget Pickers Toolset</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/market-mastery-in-3-easy-steps-with-key-vocabulary/"><u>Market Mastery in 3 Easy Steps with Key Vocabulary</u></a></li>
+<li><a href="https://win11.techidaily.com/access-windows-greatness-through-microsoft-store/"><u>Access Windows Greatness Through Microsoft Store</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-luts-implementation-for-cinematographic-coloring/"><u>In 2024, Luts Implementation for Cinematographic Coloring</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-common-problems-with-windows-hello-fingerprint-detection/"><u>Addressing Common Problems with Windows Hello Fingerprint Detection</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-new-windows-editions-which-fits-you-best-home-or-pro/"><u>Assessing New Windows Editions: Which Fits You Best, Home or Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-onedrives-incorrect-tag-issue/"><u>Addressing Windows Error: OneDrive’s Incorrect Tag Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-local-administrator-tools-in-windows-1110-home/"><u>Activating Local Administrator Tools in Windows 11/10 Home</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-inability-to-find-powershell-scripts/"><u>Addressing Windows Inability to Find PowerShell Scripts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-90-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 90 Pro</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-accelerate-clan-growth-9-rapid-fire-tips-for-popularity/"><u>[Updated] Accelerate Clan Growth  9 Rapid-Fire Tips for Popularity</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-not-sufficient-usb-issue-in-windows/"><u>Addressing “Not Sufficient USB” Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-windows-compression-and-archiving-tools/"><u>Activating Windows Compression & Archiving Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Google Pixel 8?</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-high-usage-issues-of-unrealcefsubprocess-on-windows-machines/"><u>Addressing High Usage Issues of UnrealCEFSubprocess on Windows Machines</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-your-complete-tiktok-camera-operation-manual/"><u>[Updated] 2024 Approved  Your Complete TikTok Camera Operation Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/accurate-printouts-from-powerpoint-in-windows-9-top-fixes-unveiled/"><u>Accurate Printouts From PowerPoint in Windows: 9 Top Fixes Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-xbox-apps-audio-challenges-in-windows-1011/"><u>Addressing Xbox App's Audio Challenges in Windows 10/11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/add-ons-for-the-classics-mastering-achievements-via-retroarch-software-guide/"><u>Add-Ons for the Classics: Mastering Achievements via Retroarch Software Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/activatingdeactivating-filter-keys-on-microsoft-os/"><u>Activating/Deactivating Filter Keys on Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-domain-services-print-problems-in-win11/"><u>Addressing Domain Services Print Problems in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-epic-games-account-unlock-on-windows/"><u>Addressing Epic Games Account Unlock on Windows</u></a></li>
+</ul></div>

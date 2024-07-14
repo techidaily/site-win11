@@ -1,7 +1,7 @@
 ---
 title: "Set Up a Stunning Slideshow: Easily Create in Win11 Here’s How"
-date: 2024-06-25T11:22:49.506Z
-updated: 2024-06-26T11:22:49.506Z
+date: 2024-07-13T09:46:31.460Z
+updated: 2024-07-14T09:46:31.460Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ## 2\. How to Set Up a Screensaver Slideshow
 
- If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that[screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
+ If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that [screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
 
 his is how you can set up a screensaver slideshow in Windows 11:
 
@@ -92,7 +92,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 ## 5\. How to Set Up a Slideshow With Google Photos
 
- Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this[Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
+ Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this [Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
 
 1. Open Google Photos in Edge or another browser.
 2. If you don’t already have images saved there, click**Upload** \>**Computer** in Google Photos. Press the**Ctrl** key to choose some photos, and click the**Open** option.
@@ -110,7 +110,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
  Slides is a presentation web app of the G Suite you can also utilize with a Google Account. That app includes much more extensive options for setting up photo slideshows with different layouts, transition effects, animations, and captions than Google Photos. These are the steps for setting up a basic image slideshow with Slides:
 
-1. Open the[Google Slides](https://www.google.co.uk/slides/about/) homepage.
+1. Open the [Google Slides](https://www.google.co.uk/slides/about/) homepage.
 2. Click the**Go to Slides** button.
 3. Then select the**Blank** presentation option.
 4. Enter a title in the Untitled presentation box.
@@ -134,7 +134,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. Click the**Slideshow** button to view the presentation.
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
- Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
+ Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our [how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
 
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
@@ -178,3 +178,42 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-close-up-clarity-mastering-teammate-focus/"><u>[Updated] 2024 Approved  Close-Up Clarity  Mastering Teammate Focus</u></a></li>
+<li><a href="https://win11.techidaily.com/successful-virtualbox-setup-in-winscape/"><u>Successful VirtualBox Setup in Winscape</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-fixing-absence-of-hypervisor-on-windows-sandbox/"><u>Identifying and Fixing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-up-troubleshooting-and-fixing-microphone-errors-on-microsoft-powered-google-meet/"><u>Speak Up! Troubleshooting and Fixing Microphone Errors on Microsoft-Powered Google Meet</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-product-id-from-windows-with-ms-online-service/"><u>Integrating Product ID From Windows with MS Online Service</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-clandestine-snapsnapper-concealed-techniques-for-image-capturing/"><u>2024 Approved  Clandestine SnapSnapper  Concealed Techniques for Image Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-crashes-during-xbox-app-update-process/"><u>Resolving Crashes During Xbox App Update Process</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-copyright-on-youtube-and-cc-for-2024/"><u>Navigating Copyright on YouTube & CC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-boomerang-strategies-for-engaging-loops-for-2024/"><u>[New] Insta-Boomerang Strategies for Engaging Loops for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-up-your-video-quality-issues/"><u>[New] 2024 Approved  Clearing Up Your Video Quality Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-blocked-experience-in-roblox-addressing-account-restrictions/"><u>Fixing Blocked Experience in Roblox: Addressing Account Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-system-palette-placing-this-pc-on-screen/"><u>Personalized System Palette: Placing 'This PC' On Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-hurdles-winplusprint-mishaps-in-windows/"><u>Navigating Through the Hurdles: Win+Print Mishaps in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-the-failed-file-synchronization-on-steam/"><u>Remedy for the Failed File Synchronization on Steam</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-nord-3-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Nord 3 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s23-ultra-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S23 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-primes-peak-performers-highest-tweets-and-viewing-numbers-for-2024/"><u>[Updated] Prime’s Peak Performers  Highest Tweets & Viewing Numbers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-apps-to-record-on-iphone/"><u>Exclusive Apps to Record on iPhone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mac-dub-master-for-2024/"><u>Updated Mac Dub Master for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-pcs-wi-fi-woes-six-effective-steps-from-fixing-adapter-failure/"><u>Reviving Your PC's Wi-Fi Woes - Six Effective Steps From Fixing Adapter Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-win-os-cease-df-glitching-issues/"><u>Stabilizing Win OS: Cease DF Glitching Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-window-image-display-windows-11-style/"><u>Maximizing Window Image Display: Windows 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/processors-and-windows-discovering-your-cpus-generation-in-8-steps/"><u>Processors & Windows: Discovering Your CPU's Generation in 8 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/locate-and-launch-windows-11-access-control-panel/"><u>Locate and Launch Windows 11 Access Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-quick-recording-keyboard-shortcut-tips-for-win-11/"><u>Mastering the Art of Quick Recording: Keyboard Shortcut Tips for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-installation-of-arm-based-windows-11-from-iso/"><u>Mastering the Installation of ARM-Based Windows 11 From ISO</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-bunny-up-your-video-editing-game-easter-sale-on-filmora-software/"><u>2024 Approved Bunny Up Your Video Editing Game Easter Sale on Filmora Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-essential-blueprint-for-monetary-success-on-tiktok-for-2024/"><u>The Essential Blueprint for Monetary Success on TikTok for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-going-back-with-android-video-editing/"><u>[New] Going Back with Android Video Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intuitive-videography-expansion-feature/"><u>In 2024, Intuitive Videography Expansion Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/prioritizing-and-optimizing-windows-11-service-usage-wisely/"><u>Prioritizing and Optimizing Windows 11 Service Usage Wisely</u></a></li>
+<li><a href="https://win11.techidaily.com/go-pure-with-linux-avoid-wsl/"><u>Go Pure with Linux - Avoid WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-error-403-in-roblox-space/"><u>Navigating Through Windows Error 403 in Roblox Space</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-breaking-down-barriers-combining-obs-with-zoom/"><u>[Updated] 2024 Approved  Breaking Down Barriers  Combining OBS with Zoom</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-legacy-ribbon-to-windows-explorer/"><u>Restoring Legacy Ribbon to Windows Explorer</u></a></li>
+</ul></div>

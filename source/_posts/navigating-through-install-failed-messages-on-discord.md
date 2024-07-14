@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Install Failed Messages on Discord
-date: 2024-06-25T11:22:11.376Z
-updated: 2024-06-26T11:22:11.376Z
+date: 2024-07-13T09:44:22.483Z
+updated: 2024-07-14T09:44:22.483Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ## 1\. Download the Discord Setup File Again
 
- First, try downloading the**DiscordSetup.exe** file again. This is suggested to double-check that the issue isn’t occurring because of a corrupted setup file. Click**Download for Windows** on the[Discord website](https://discord.com/download) to obtain a new installer for the software. Then try installing Discord with the fresh setup wizard.
+ First, try downloading the**DiscordSetup.exe** file again. This is suggested to double-check that the issue isn’t occurring because of a corrupted setup file. Click**Download for Windows** on the [Discord website](https://discord.com/download) to obtain a new installer for the software. Then try installing Discord with the fresh setup wizard.
 
  Note that there’s also an alternative Discord Public Test Build (PTB) version available on that download page. You can try installing the PTB, which includes new experimental features, as an alternative to the standard Discord client. To do so, click the**Download Public Test Build** option further down the page instead and select**Windows** .
 
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  The Microsoft Program Install and Uninstall troubleshooter resolves issues blocking software installation by examining the registry. So, running the troubleshooter could feasibly be a solution for the “Installation has failed” error. You can download and open the Program Install and Uninstall troubleshooter in the following steps:
 
-1. Navigate to the[Program Install and Uninstall troubleshooter](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) download webpage.
+1. Navigate to the [Program Install and Uninstall troubleshooter](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) download webpage.
 2. Click that page’s**Download** **troubleshooter** button.
 3. Select File Explorer’s taskbar shortcut (the folder library icon), and bring up whatever directory contains the downloaded Program Install and Uninstall troubleshooter file.
 4. Double-click**MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** to launch the troubleshooter.  
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  Some users have said disabling Discord background processes can resolve the issue. If you’ve previously installed and used the software, there could be some related background Discord processes or services that need disabling. This is how you can check for and disable Discord background processes in Windows 10 and 11:
 
-1. [Launch Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) by pressing**Win + X** and clicking its shortcut. Check out[how to launch Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
+1. [Launch Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) by pressing**Win + X** and clicking its shortcut. Check out [how to launch Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more methods.
 2. Click**Processes** if Task Manager opens with a different tab.
 3. Look for Discord-related processes within the Background processes section.
 4. Right-click any Discord process you find and select**End task** .  
@@ -78,14 +78,14 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  Discord’s “Installation has failed” error can occur because the .NET Framework is missing. If something has happened to .NET Framework on your PC, you may need to install it again. This is how to install .NET Framework 4.5 on Windows:
 
-1. Open this[Microsoft .NET Framework](https://www.microsoft.com/en-gb/download/details.aspx?id=30653) page.
+1. Open this [Microsoft .NET Framework](https://www.microsoft.com/en-gb/download/details.aspx?id=30653) page.
 2. Select .NET Framework’s**Download** option.
 3. Bring up the directory containing the downloaded**dotNetFx45\_Full\_setup.exe** file in Explorer.
 4. Double-click**dotNetFx45\_Full\_setup** to open the Microsoft .NET Framework 4.5 window.  
 ![The Microsoft .NET Framework 4.5 installer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microsoft-net-framework-installer-window.jpg)
 5. Click**Continue** if that option isn’t grayed out.
 
- If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about[repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
+ If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about [repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
- You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
+ You can turn off the Windows Security real-time protection by following the instructions in our [how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
 ## 8\. Try Installing Discord in Safe Mode
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
 
- There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
+ There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for [how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
 
 ## Get Chatting Again in Discord for Windows
 
@@ -123,3 +123,49 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-a-whole-new-world-of-animated-emojis-top-7-free-online-destinations/"><u>[New] A Whole New World of Animated Emojis  Top 7 FREE Online Destinations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-convincingly-fascinated-by-the-whole-idea-of-augmented-reality-and-want-to-level-up-your-marketing-skills-with-an-ar-integration-rest-assure/"><u>In 2024, Are You Convincingly Fascinated by the Whole Idea of Augmented Reality and Want to Level up Your Marketing Skills with an AR Integration? Rest Assured, Youve Found the Right Place</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-accelerated-learning-for-effective-nvidia-screener-use-for-2024/"><u>[Updated] Accelerated Learning for Effective NVIDIA Screener Use for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-combo-crusade-sharing-vids-on-twitter-and-tumblr/"><u>[Updated] In 2024, The Combo Crusade  Sharing Vids on Twitter and Tumblr</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manage-windows-user-accounts-via-the-command-prompt/"><u>How to Manage Windows User Accounts via the Command Prompt</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-innovative-ways-to-capture-online-discussions/"><u>[New] 2024 Approved  Innovative Ways to Capture Online Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-xbox-app-update-failures/"><u>How to Correct Xbox App Update Failures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online/"><u>In 2024, Gifts That Speak Volumes  A Compendium of Custom Box Shops Online</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-scripting-techniques-upgraded-file-system-interactions/"><u>Advanced Scripting Techniques: Upgraded File System Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-techniques-to-effectively-modify-software-sizes-in-win11/"><u>Keyboard Techniques to Effectively Modify Software Sizes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/dont-double-dip-the-case-against-two-antiviruses/"><u>Don't Double Dip: The Case Against Two Antiviruses</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-audience-connection-best-creative-reacting-techniques/"><u>[Updated] In 2024, Amplify Audience Connection  Best Creative Reacting Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-zero-5g-2023-turbo-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Zero 5G 2023 Turbo Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-power-plans-to-default-in-windows/"><u>How to Reset Power Plans to Default in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/address-extra-monitor-issue-on-w11-os/"><u>Address Extra Monitor Issue on W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-windows-defender-error-0x80004004-instantly/"><u>How to Solve Windows Defender Error 0X80004004 Instantly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-trending-tweets-triumph-identifying-todays-highest-viewed-content/"><u>2024 Approved  Trending Tweets Triumph  Identifying Today's Highest-Viewed Content</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-out-the-epic-game-hub-clutter-from-windows-11/"><u>Clear Out the Epic Game Hub Clutter From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-rectify-ge-share-function-failures/"><u>Guide to Rectify GE Share Function Failures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-vs-youtube-the-ideal-medium-explored/"><u>[New] Podcast vs YouTube  The Ideal Medium Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-closed-caption-setup-challenges-in-win11/"><u>Handling Closed Caption Setup Challenges in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-deal-with-windows-error-x70-a-comprehensive-checklist/"><u>How To Deal with Windows Error X70: A Comprehensive Checklist</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wireless-speaker-quality-in-win11-os/"><u>Enhancing Wireless Speaker Quality in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-switch-off-cortana-functionality/"><u>Guide to Switch Off Cortana Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-recording-the-very-best-fullscreen-software-for-2024/"><u>[New] Streamlined Recording  The Very Best Fullscreen Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-synchronization-for-ios-and-windows-calendars/"><u>Cross-Platform Synchronization for iOS & Windows Calendars</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-prime-6-economical-choices-for-ultra-hd-viewing/"><u>In 2024, Prime 6 Economical Choices for Ultra HD Viewing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-free-video-smoothing-tools-for-pc-and-mac/"><u>New In 2024, Top Free Video Smoothing Tools for PC and Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-tick-tock-sync-your-clock/"><u>Fixing Windows' Tick-Tock: Sync Your Clock</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-brightness-function-key-not-working-in-windows-11/"><u>How to Fix the Brightness Function Key Not Working in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-solving-the-failure-errors-in-discord-installation/"><u>Decoding and Solving the Failure Errors in Discord Installation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionize-marketing-top-tools-for-perfectly-timed-video-tags/"><u>[New] In 2024, Revolutionize Marketing  Top Tools for Perfectly Timed Video Tags</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-download-tactics-for-new-windows-users/"><u>Direct Download Tactics for New Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/frame-perfecting-eliminating-lags-with-these-9-windows-strategies/"><u>Frame Perfecting: Eliminating Lags with These 9 Windows Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-no-sound-on-connected-devices-windows-edition/"><u>Clearing Up No Sound on Connected Devices, Windows Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-g2-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo G2 FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-itel-a60smirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Itel A60sMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manipulate-windows-gpu-priority-settings/"><u>How to Manipulate Windows GPU Priority Settings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-iphoneipad-efficiency-uploading-content-to-youtube/"><u>2024 Approved  IPhone/iPad Efficiency  Uploading Content to YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-credentials-a-fix-guide/"><u>Decoding Windows Credentials: A Fix Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-convert-youtube-videos-to-gifs-no-download-for-2024/"><u>How to Convert YouTube Videos to GIFs [No Download] for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Speak Clearly, Write Exactly: Using Whisper in Windows"
-date: 2024-06-25T11:27:17.969Z
-updated: 2024-06-26T11:27:17.969Z
+date: 2024-07-13T10:03:04.861Z
+updated: 2024-07-14T10:03:04.861Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 ## What Is OpenAI's Whisper?
 
- ChatGPT is all the rage nowadays, and we already saw[how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
+ ChatGPT is all the rage nowadays, and we already saw [how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
 
  Powered by deep learning and neural networks, Whisper is a natural language processing system that can "understand" speech and transcribe it into text. But it's also its own thing, sitting at a spot right among all similar solutions:
 
@@ -37,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 ## Why Are AMD GPUs Not Supported?
 
- For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on[what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
+ For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on [what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
 
- CUDA is proprietary Nvidia technology, only compatible with Nvidia GPUs. The closest alternatives for AMD's hardware are OpenCL and Radeon Compute Platform. To learn more about how each company's solutions compare, check our article on[AMD Compute Units vs. Nvidia CUDA Cores](https://www.makeuseof.com/compute-units-vs-cuda-cores-whats-the-difference/) .
+ CUDA is proprietary Nvidia technology, only compatible with Nvidia GPUs. The closest alternatives for AMD's hardware are OpenCL and Radeon Compute Platform. To learn more about how each company's solutions compare, check our article on [AMD Compute Units vs. Nvidia CUDA Cores](https://www.makeuseof.com/compute-units-vs-cuda-cores-whats-the-difference/) .
 
  Compared to the alternatives, CUDA is considered more mature, performant, and easier to use. Thus, most developers only target CUDA, which, in turn, means that their software only takes advantage of the hardware features on Nvidia GPUs. And that includes Whisper.
 
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
  Unfortunately, Whisper is not a standalone app you can download, install, and run. It relies on other software, which must also be installed.
 
- For Windows, to keep this guide simple, we'll use Chocolatey extensively for installing most of the necessary software parts. Check our guide on[the quickest way to install Windows software](https://www.makeuseof.com/tag/quickest-way-install-windows-software-command-prompt/) for more info on Chocolatey.
+ For Windows, to keep this guide simple, we'll use Chocolatey extensively for installing most of the necessary software parts. Check our guide on [the quickest way to install Windows software](https://www.makeuseof.com/tag/quickest-way-install-windows-software-command-prompt/) for more info on Chocolatey.
 
  For Linux and Macs, the installation process (excluding the Windows path variable, and easy-to-use batch files we'll create) should be similar.
 
-1. To install and use Whisper, you must have**Python** and its**PIP** tool installed and added to the Windows "Path" variable. For info on that, check our article on[how to install Python PIP on Windows, Mac, and Linux](https://www.makeuseof.com/tag/install-pip-for-python/) .
+1. To install and use Whisper, you must have**Python** and its**PIP** tool installed and added to the Windows "Path" variable. For info on that, check our article on [how to install Python PIP on Windows, Mac, and Linux](https://www.makeuseof.com/tag/install-pip-for-python/) .
 2. Install**FFMPEG** through Chocolatey with this command:  
 `choco install ffmpeg`  
  Also, install its Python version with:  
@@ -93,9 +93,9 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 
 ## How to Record Your Voice
 
- You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see[how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
+ You can use any sound-recording app to turn your voice into a WAV or MP3 file. Windows includes such an app—for more info on that, see [how to use the Windows 10 Voice Recorder app](https://www.makeuseof.com/how-to-use-the-windows-10-voice-recorder-app/) .
 
- For a more full-featured option, try**Audacity** . Learn how to do it with our guide on[how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
+ For a more full-featured option, try**Audacity** . Learn how to do it with our guide on [how to use Audacity to record audio on Windows and Mac](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/) .
 
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
 
@@ -195,3 +195,73 @@ For example:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/9-ways-to-fix-vmwares-failed-to-start-the-virtual-machine-error-in-windows-11/"><u>9 Ways to Fix VMware's Failed to Start the Virtual Machine Error in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-on-using-w11s-automated-hdr-feature/"><u>A Complete Guide on Using W11's Automated HDR Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/7-innovative-uses-for-windows-11-god-mode/"><u>7 Innovative Uses for Windows 11 God Mode</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-to-social-glory-enhance-your-feed-with-gifs-insta-style/"><u>[Updated] 2024 Approved  Step-By-Step to Social Glory  Enhance Your Feed with GIFs (Insta Style)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-essential-blueprint-for-updating-your-tiktok-presence/"><u>[Updated] 2024 Approved  The Essential Blueprint for Updating Your TikTok Presence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-free-toolkit-for-unrestricted-story-archiving-for-2024/"><u>[Updated] FREE Toolkit for Unrestricted Story Archiving for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compre-written-by-chloe-miller/"><u>A Compre Written by Chloe Miller</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-tv-friendly-practices-for-facebook-lives/"><u>[New] Unveiling TV-Friendly Practices for Facebook Lives</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-action-overcoming-wwe-2k23-freezes-in-windows/"><u>Accelerated Action: Overcoming WWE 2K23 Freezes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-approach-extracting-device-ids-from-windows-pcs/"><u>A Step-by-Step Approach: Extracting Device IDs From Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/a-buyers-blueprint-essential-steps-for-your-win-pc-purchase/"><u>A Buyer’s Blueprint: Essential Steps for Your Win PC Purchase</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-smart-7-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Smart 7 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-vlogging-mastering-tripod-angles-and-positions-for-2024/"><u>Elevate Your Vlogging  Mastering Tripod Angles and Positions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-to-hdr-on-windows-11/"><u>A Complete Guide to HDR on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-gaming-setup-with-fast-valorant-loading/"><u>Accelerate Your Gaming Setup with Fast Valorant Loading</u></a></li>
+<li><a href="https://win11.techidaily.com/9-proven-remedies-for-perfectly-printing-your-powerpoint-presentations-in-windows/"><u>9 Proven Remedies for Perfectly Printing Your PowerPoint Presentations in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-undercover-echo-enthusiasts-6-hidden-voice-capture-apps/"><u>[Updated] 2024 Approved  Undercover Echo Enthusiasts  6 Hidden Voice Capture Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-steam-download-rates-overcoming-sluggish-pace/"><u>Accelerate Steam Download Rates: Overcoming Sluggish Pace</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-demystifying-facebooks-use-of-blue-video-icons-for-communication/"><u>2024 Approved  Demystifying Facebook's Use of Blue Video Icons for Communication</u></a></li>
+<li><a href="https://win11.techidaily.com/a-developers-journey-github-desktop-in-the-era-of-win-11/"><u>A Developer's Journey: GitHub Desktop in the Era of Win 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-explore-the-best-kept-secret-7-premium-transition-sounds-available-for-download-for-2024/"><u>Updated Explore the Best-Kept Secret 7 Premium Transition Sounds Available for Download for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-maximize-your-edit-10-best-free-fcpx-plugins/"><u>New In 2024, Maximize Your Edit 10 Best Free FCPX Plugins</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deeper-look-at-windows-11-efficiency-mastering-processes-and-customizing-themes/"><u>A Deeper Look at Windows 11 Efficiency: Mastering Processes and Customizing Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/a-closer-look-at-dxvks-impact-on-windows-gaming/"><u>A Closer Look at DXVK's Impact on Windows Gaming</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-top-vertical-video-editing-apps-for-mobile-for-2024/"><u>New Unleash Your Creativity Top Vertical Video Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-approaches-to-android-video-capture/"><u>[Updated] Innovative Approaches to Android Video Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/8-easy-ways-to-unlock-windows-screen-setup-problems/"><u>8 Easy Ways to Unlock Windows Screen Setup Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-syncing-tunes-with-video-posts-on-facebook/"><u>[New] Syncing Tunes with Video Posts on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-tips-for-recording-movies-on-all-devices/"><u>[New] Essential Tips for Recording Movies on All Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/1719345925022-the-forgotten-tools-of-windows-11-dont-miss-them/"><u>The Forgotten Tools of Windows 11 - Don’t Miss Them</u></a></li>
+<li><a href="https://win11.techidaily.com/9-essential-steps-for-windows-hello-fingerprint-woes/"><u>9 Essential Steps for Windows Hello Fingerprint Woes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 4G Phone without PIN</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-converters-showcase-optimal-ytvideo-text-extraction/"><u>[New] 2024 Approved  Digital Converters Showcase  Optimal YTVideo Text Extraction</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>[Updated] 2024 Approved  Mastering Tales & Truths  The World's Finest Schools (Top 8)</u></a></li>
+<li><a href="https://win11.techidaily.com/8-strategies-to-solve-vmware-booting-woes-on-win11/"><u>8 Strategies to Solve VMware Booting Woes on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719362597425-navigating-networked-notebooks-effortless-file-sharing-with-c/"><u>Navigating Networked Notebooks: Effortless File Sharing with C:</u></a></li>
+<li><a href="https://win11.techidaily.com/1719375739489-relaunch-google-chrome-on-win11-fixes-and-tips-here/"><u>Relaunch Google Chrome on Win11 – Fixes and Tips Here.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369975560-break-free-from-google-chrome-glitch-on-windows-11-now/"><u>Break Free From Google Chrome Glitch on Windows 11 Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-transform-your-igtv-backgrounds-with-style/"><u>2024 Approved  Transform Your IGTV Backgrounds with Style</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347016533-unlock-your-computers-print-command-solutions-for-faulty-wwinplusp-operations/"><u>Unlock Your Computer's Print Command: Solutions for Faulty WWin+P Operations.</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-solution-to-eradicate-error-code-740-on-win-11/"><u>A Step-by-Step Solution to Eradicate Error Code 740 on Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-m34-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy M34?</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deeper-dive-into-reading-qr-codes-with-windows-os/"><u>A Deeper Dive Into Reading QR Codes with Windows OS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-dissecting-instagrams-maximum-video-duration-rule/"><u>[Updated] In 2024, Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-list-of-top-10-live-stream-editors/"><u>[Updated] 2024 Approved  Essential List of Top 10 Live Stream Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-repair-the-net-framework-on-windows/"><u>5 Ways to Repair the .NET Framework on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-beginner-secrets-to-mastering-photoshop-edits/"><u>5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/playlist-passport-traveling-tunes-throughout-platforms-for-2024/"><u>Playlist Passport  Traveling Tunes Throughout Platforms for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aetherial-acts-the-vr-stage/"><u>Aetherial Acts  The VR Stage</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-outlook-performance-in-windows/"><u>Accelerate Outlook Performance in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ingenious-cmd-puzzles-to-perplex-and-pleasure/"><u>5 Ingenious CMD Puzzles to Perplex and Pleasure</u></a></li>
+<li><a href="https://win11.techidaily.com/a-windows-users-guide-for-web-site-app-conversion/"><u>A Windows User's Guide for Web Site App Conversion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-with-filmora-top-10-must-haves-for-2024/"><u>Behind the Scenes with Filmora  Top 10 Must-Haves for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-audio-liberation-a-deep-dive-into-pazeras-extractor/"><u>In 2024, Revolutionizing Audio Liberation  A Deep Dive Into Pazera's Extractor</u></a></li>
+<li><a href="https://win11.techidaily.com/7-annoying-wins-windows-11s-design-dissonance/"><u>7 Annoying Wins: Windows 11'S Design Dissonance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-effortless-instagram-to-mp4-top-2-secrets-exposed/"><u>In 2024, Effortless Instagram to MP4  Top 2 Secrets Exposed</u></a></li>
+<li><a href="https://win11.techidaily.com/a-twelve-days-of-windows-11-christmas-guide/"><u>A Twelve Days of Windows 11 Christmas Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-the-most-reliable-mac-recorders-for-2024/"><u>[Updated] The Ultimate Guide to the Most Reliable Mac Recorders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/"><u>A Guide to Quickly Opens Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-transforming-from-obscure-to-popular-on-youtube-for-2024/"><u>[Updated] Transforming From Obscure to Popular on Youtube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347165719-restore-order-in-your-keyboard-chaos-with-these-9-fixes-for-broken-windows-shortcuts-and-combinations/"><u>Restore Order in Your Keyboard Chaos with These 9 Fixes for Broken Windows Shortcuts and Combinations.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-vids-effortless-mp4-extraction-at-your-fingertips/"><u>[New] In 2024, FB Vids  Effortless MP4 Extraction at Your Fingertips</u></a></li>
+<li><a href="https://win11.techidaily.com/1719382719080-optimal-start-menu-no-commercials-here/"><u>Optimal Start Menu: No Commercials Here</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-tasks-high-speed-windows-autoclickers/"><u>Accelerate Tasks: High-Speed Windows Autoclickers</u></a></li>
+</ul></div>

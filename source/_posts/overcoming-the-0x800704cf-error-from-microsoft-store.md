@@ -1,7 +1,7 @@
 ---
 title: Overcoming the 0X800704CF Error From Microsoft Store
-date: 2024-06-25T11:29:13.046Z
-updated: 2024-06-26T11:29:13.046Z
+date: 2024-07-13T10:09:15.266Z
+updated: 2024-07-14T10:09:15.266Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
 ## 2\. Repair and Reset the Microsoft Store App
 
- Windows has two troubleshooting options for fixing Microsoft Store when it’s not working right. Those Repair and Reset options can resolve all kinds of app bugs and corruption errors. So, those options could feasibly resolve error 0x800704CF for some users. Check out our guide about[how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this resolution.
+ Windows has two troubleshooting options for fixing Microsoft Store when it’s not working right. Those Repair and Reset options can resolve all kinds of app bugs and corruption errors. So, those options could feasibly resolve error 0x800704CF for some users. Check out our guide about [how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this resolution.
 
 ![The Reset and Repair buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-button.jpg)
 
 ## 3\. Set a Different DNS Server
 
- Changing DNS server settings is a resolution that’s worked for some users who’ve needed to fix error 0x800704CF. To apply this solution, change your PC’s DNS server to Google via the Control Panel. Our guide for[how to change your DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) includes step-by-step instructions for how to do that along with the required Google DNS addresses.
+ Changing DNS server settings is a resolution that’s worked for some users who’ve needed to fix error 0x800704CF. To apply this solution, change your PC’s DNS server to Google via the Control Panel. Our guide for [how to change your DNS server](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) includes step-by-step instructions for how to do that along with the required Google DNS addresses.
 
 ![DNS server settings on the Internet Protocol Version window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/internet-protocal-window.jpg)
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
  Error 0x800704CF can occur because of a network adapter driver issue. If your PC’s network driver is faulty, reinstalling it could be the potential solution for you. Try reinstalling your PC’s network adapter driver like this:
 
-1. Use one of the many[ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) and expand the**Network adapters** category.
+1. Use one of the many [ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) and expand the**Network adapters** category.
 2. Then right-click your PC’s internet network adapter to select an**Uninstall** **device** option for it.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-context-menu-option.jpg)
 3. Select the**Delete the driver** (or**Attempt to remove the driver**) checkbox.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
 ![The Network Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/network-reset-option.jpg)
 
- A network reset will erase saved connection details. So, make sure you’ve got your network password handy for re-establishing your connection. Our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide tells you how to apply this possible error 0x800704CF solution in Windows 11\. Fortunately, the steps for Windows 10 are the same.
+ A network reset will erase saved connection details. So, make sure you’ve got your network password handy for re-establishing your connection. Our [how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide tells you how to apply this possible error 0x800704CF solution in Windows 11\. Fortunately, the steps for Windows 10 are the same.
 
 ## 9\. Set Up an Alternative User Account
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-option2.jpg)
 
- To apply this solution, check out our post for[resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
+ To apply this solution, check out our post for [resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
 
 ## Get Microsoft Store Error 0x800704CF Sorted on Your PC
 
@@ -131,3 +131,49 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/uniting-emails-adding-gmail-accounts-to-outlook-windows-style/"><u>Uniting Emails: Adding Gmail Accounts to Outlook, Windows Style</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-or-showing-windows-11s-time-and-date/"><u>Hiding or Showing Windows 11'S Time and Date</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-comic-archives-with-windows-11-interface/"><u>Exploring Comic Archives with Windows 11 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-service-failures-fixing-steam-errors-on-windows-11/"><u>Mastery Over Service Failures: Fixing Steam Errors on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-developer-setup-5-core-wsl-2-best-practices/"><u>Elevate Your Developer Setup: 5 Core WSL 2 Best Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photo-perfection-troubleshooting-made-simple/"><u>Windows Photo Perfection: Troubleshooting Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/dual-display-designs-crafting-individual-monitor-ambiance-in-win-1011/"><u>Dual Display Designs: Crafting Individual Monitor Ambiance in WIN 10/11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/visualizing-sound-displaying-waveforms-and-enhancing-animation-in-adobe-premiere-pro-for-2024/"><u>Visualizing Sound Displaying Waveforms & Enhancing Animation in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-d3d11-compatible-gpu-faults-in-w11-and-w10/"><u>Addressing D3D11-Compatible GPU Faults in W11 & W10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] 2024 Approved  Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://win11.techidaily.com/error-handling-strategies/"><u>Error Handling Strategies:</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-cs-global-offensive-speed-and-precision/"><u>Improve CS Global Offensive Speed and Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disconnects-resolving-fall-guys-errors-on-windows/"><u>Overcoming Disconnects: Resolving Fall Guys Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-convergence-ios-ipados-mac-and-windows-operating-systems-tie/"><u>Tech Convergence: IOS, iPadOS, Mac & Windows Operating Systems Tie</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-look-at-windows-11-admin-interface/"><u>In-Depth Look at Windows 11 Admin Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-pc-hardware-mismatch-in-windows-captures/"><u>Correcting PC Hardware Mismatch in Windows Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/index-management-in-windows-1011/"><u>Index Management in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-reset-account-lockout-counter-after-failed-logins-win-11-edition/"><u>Fine-Tuning Reset Account Lockout Counter After Failed Logins, Win 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/from-iso-to-reality-how-to-install-windows-11-arm/"><u>From ISO to Reality - How to Install Windows 11 ARM</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-magic-vs-2-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Magic Vs 2 has been deleted</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-windows-potential-with-new-widgets/"><u>Maximize Your Window's Potential with New Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/raising-volume-on-disconnected-bt-headphonesspeakers/"><u>Raising Volume on Disconnected BT Headphones/Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-web-with-ease-using-ms-edge-gestures-windows-11/"><u>Navigate the Web with Ease Using MS Edge Gestures (Windows 11)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-blaze-2-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Blaze 2 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-youtube-to-mp3-a-comprehensive-downloading-guide-for-2024/"><u>Updated YouTube to MP3 A Comprehensive Downloading Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-missing-phone-link-notifications-on-pc/"><u>Restoring Functionality to Missing Phone Link Notifications on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubes-beauty-titans-whos-leading/"><u>[Updated] In 2024, YouTube's Beauty Titans  Who's Leading ?</u></a></li>
+<li><a href="https://win11.techidaily.com/unbeatable-black-friday-save-612-on-windows-10/"><u>Unbeatable Black Friday: Save $6.12 on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bridge-the-disconnect-gap-windows-11-and-printers/"><u>How to Bridge the Disconnect Gap: Windows 11 & Printers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-dissecting-the-lineage-of-microsofts-movie-maker-versions/"><u>2024 Approved  Dissecting the Lineage of Microsoft's Movie Maker Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-limit-microsoft-edge-processes/"><u>Strategies to Limit Microsoft Edge Processes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-infuse-satire-and-smiles-kapwings-meme-builder/"><u>In 2024, Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-chrome-troubleshooting-failed-virus-alert/"><u>Solving Chrome: Troubleshooting Failed Virus Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-the-ideal-taskbar-for-your-windows-11-tablet/"><u>Implementing the Ideal Taskbar for Your Windows 11 Tablet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27e-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V27e Lock Screen Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tablets-enhancing-user-experience-with-a-taskbar/"><u>Windows 11 Tablets: Enhancing User Experience with a Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-restart-efficient-three-ways/"><u>Mastering Windows Restart: Efficient Three Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-securely-without-screensaver/"><u>Unlock Windows 11 Securely Without Screensaver</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-channel-branding-made-simple-and-free/"><u>[New] In 2024, Channel Branding Made Simple & Free</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-backspace-abnormalities-in-modern-os/"><u>Overcoming Backspace Abnormalities in Modern OS</u></a></li>
+<li><a href="https://win11.techidaily.com/keygen-virus-threat-assessment-causes-consequences-and-system-protection/"><u>Keygen Virus Threat Assessment: Causes, Consequences, & System Protection</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/elevate-your-listening-experience-top-10-audio-compressors-and-expanders-for-windows-2-written-by-an-ai-developer-for-2024/"><u>Elevate Your Listening Experience Top 10 Audio Compressors and Expanders for Windows (2 Written by an AI Developer) for 2024</u></a></li>
+</ul></div>

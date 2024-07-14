@@ -1,7 +1,7 @@
 ---
 title: A User's Handbook on Amplifying Mouse Cursor Lighting on Win 11
-date: 2024-06-25T11:29:59.265Z
-updated: 2024-06-26T11:29:59.265Z
+date: 2024-07-13T10:11:46.247Z
+updated: 2024-07-14T10:11:46.247Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
 
-1. Use**Win + I** to open up Settings (see[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
+1. Use**Win + I** to open up Settings (see [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more ways).
 2. Select**Bluetooth & devices** in Windows 11’s Settings app. You’ll need to select the**Devices** category in Windows 10.
 3. Click**Mouse** to view settings for that device type.
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  If you would prefer to add a permanent color highlight to the cursor, check out the Mouse Pointer Highlight app. That freely available adds a transparent color circle to the cursor. This is how you can highlight the cursor with Mouse Pointer Highlight:
 
-1. Open the[Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
+1. Open the [Mouse Pointer Highlight](https://apps.microsoft.com/store/detail/mouse-pointer-highlight/9P7SB9S4RQ7Z?hl=en-gb&gl=gb) Microsoft Store page.
 2. Then click**Get in Store** app to bring up a dialog for opening Microsoft Store.
 3. Press that dialog’s**Open Microsoft Store** option.
 4. Then click Mouse Pointer Highlight’s**Install** button.
@@ -66,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
 ## How to Highlight the Cursor With PowerToys
 
- PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our[best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
+ PowerToys is an app with which you can enable a variety of handy new tools and features in Windows 11.10\. Our [best things to do in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) guide tells you about some of the tools you can activate with that software.
 
  PowerToys includes a**Mouse utilities** tab from which you can enable a color highlight circle for your cursor. You can set mouse cursor highlighting with PowerToys like this:
 
-1. Open the[Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
+1. Open the [Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) app page on the Microsoft Store.
 2. Click**Get in Store** and the Open Microsoft Store options.
 3. Select**Install** to add PowerToys to your app library.
 4. Now open PowerToys, which you’ll find on your Start menu’s app list.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  If you only need to highlight your cursor in Edge or Chrome, check out the Cursor Highlight extension for those browsers. That extension adds a color circle to the mouse pointer in those browsers. It also highlights the cursor with a nice animation effect you don’t get with PowerToys or Mouse Pointer Highlighter. You can highlight your cursor with that add-on like this:
 
-1. Open the[Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
+1. Open the [Cursor Highlighter](https://chrome.google.com/webstore/detail/cursor-highlighter/echjgnggfpiohepohkpfknhjbnccdjlo?hl=en) page in Edge or Chrome.
 2. Click the**Add** button to install the extension.
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
@@ -125,3 +125,72 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/guide-to-correct-invalid-identifier-error-in-win11/"><u>Guide to Correct 'Invalid Identifier' Error in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-action-packed-features-of-ion-air-pro-3/"><u>Discover the Action-Packed Features of ION Air Pro 3</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-windows-11-registry-file-layout/"><u>Mastering the Windows 11 Registry File Layout</u></a></li>
+<li><a href="https://win11.techidaily.com/cpu-age-determination-for-pc-users-8-effective-methods/"><u>CPU Age Determination for PC Users: 8 Effective Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/bolstering-older-directx-applications-through-dxvk-transformation/"><u>Bolstering Older DirectX Applications Through DXVK Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-windows-11-harnessing-background-blur-in-photos-app/"><u>Masterful Windows 11: Harnessing Background Blur in Photos App</u></a></li>
+<li><a href="https://win11.techidaily.com/end-of-windows-subsystem-preparing-for-androids-future/"><u>End of Windows Subsystem: Preparing For Android's Future</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-the-mysterious-windows-subsystem-for-linux-error-4294967295/"><u>Handling the Mysterious Windows Subsystem for Linux Error 4294967295</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicated-linux-use-without-wsl/"><u>Uncomplicated Linux Use Without WSL</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-14-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-avs-audio-mastery-product-insights-benefits-and-alternative-recommendations-for-sound-enthusiasts/"><u>New 2024 Approved AVS Audio Mastery Product Insights, Benefits, and Alternative Recommendations for Sound Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-roadblocks-in-windows-app-functionality/"><u>Overcoming Common Roadblocks in Windows App Functionality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-prime-racing-lineup-the-quintet-of-choice/"><u>[New] In 2024, Prime Racing Lineup  The Quintet of Choice</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-secrets-to-capturing-your-iphone-7-screen/"><u>[Updated] 2024 Approved  Secrets to Capturing Your iPhone 7 Screen</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>[Updated] Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-spin-and-share-easy-iphone-filmmaking-techniques/"><u>[New] Spin and Share  Easy iPhone Filmmaking Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-secrets-of-excellence-in-xbox-gameplay-screenshots/"><u>[Updated] In 2024, Secrets of Excellence in Xbox Gameplay Screenshots</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-seipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone SE/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-the-maze-of-unspecified-obs-error-in-windows/"><u>Navigate Through the Maze of Unspecified OBS Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wi-fi-connectivity-in-windows-11-after-disruptions/"><u>Enhancing Wi-Fi Connectivity in Windows 11 After Disruptions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/breaking-the-cycle-of-zero-video-views-on-youtube-for-2024/"><u>Breaking the Cycle of Zero Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples-for-2024/"><u>The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-mcuicnt-file-access-problem-on-pcs/"><u>Mitigating McUICnt File Access Problem on PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-filmmakers-companion-achieving-tiktok-video-react-wonders-with-filmora/"><u>[Updated] 2024 Approved  Filmmaker's Companion  Achieving TikTok Video React Wonders with Filmora</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-of-the-best-10-webm-to-mp4-converters-for-easy-conversion-for-2024/"><u>Updated Best of the Best 10 WebM to MP4 Converters for Easy Conversion for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-15-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-svd-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .svd file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-compatibility-checklist-tool/"><u>Navigating Windows 11'S Compatibility Checklist Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-8-webcams-for-high-definition-streaming/"><u>In 2024, Pinnacle 8 Webcams for High-Definition Streaming</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/no-cost-no-problem-best-free-video-editors-for-beginners-for-2024/"><u>No-Cost, No-Problem Best Free Video Editors for Beginners for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-into-stalled-win11-license-numbers/"><u>Breathing Life Into Stalled Win11 License Numbers</u></a></li>
+<li><a href="https://win11.techidaily.com/unmatched-savings-black-friday-6e2-win10-forever/"><u>Unmatched Savings: Black Friday - $6E2 (Win10) Forever</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-savings-with-windows-11-pro-secure-top-deals/"><u>Maximize Savings with Windows 11 Pro: Secure Top Deals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-pova-6-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Pova 6 Pro 5G FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-route-to-purchase-adobe-reader-in-microsoft-marketplace/"><u>Quick Route to Purchase Adobe Reader in Microsoft Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-up-advanced-security-features-ms-defender-aguard-for-windows-11-edge/"><u>How to Set Up Advanced Security Features: MS Defender Aguard for Windows 11 Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-1111/"><u>How to Install Dolby Atmos in Windows 11/11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-find-n3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Find N3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-web-archives-of-3d-letterforms/"><u>2024 Approved  Top 8 Web Archives of 3D Letterforms</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-cross-language-interactions-with-keyboard-shortcuts-on-windows-11/"><u>Enhance Cross-Language Interactions with Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soulful-selection-candid-songs-that-perfectly-match-your-yes-for-2024/"><u>Soulful Selection  Candid Songs that Perfectly Match Your 'Yes' For 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-p55t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel P55T to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>No Pay, Maximum Fun  20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-intelligence-of-microsofts-marketplace/"><u>Navigating the Intelligence of Microsoft's Marketplace</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-a-ken-burns-effect-in-software/"><u>New 2024 Approved The Ultimate Guide to Creating a Ken Burns Effect in Software</u></a></li>
+<li><a href="https://win11.techidaily.com/paperless-posting-essential-notebook-replacements-for-windows/"><u>Paperless Posting: Essential Notebook Replacements for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/construct-a-stunning-slide-show-with-windows-11s-free-methods/"><u>Construct a Stunning Slide Show with Windows 11'S FREE Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solution-for-frozen-keys-in-snipping-tool/"><u>Immediate Solution for Frozen Keys in Snipping Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-walkthrough-to-load-wm6/"><u>Detailed Walkthrough to Load WM6</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-comprehensive-youtube-etiquette-guide/"><u>[Updated] Comprehensive YouTube Etiquette Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-win11-powertoys-experience/"><u>Unveiling the Win11 PowerToys Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-spiritual-command-center-of-windows-11-os/"><u>Unlocking The Spiritual Command Center of Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-devices-performance-naturally-with-wintoys/"><u>Accelerate Your Device's Performance Naturally with WinToys</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortless-audio-collection-from-your-imac-for-2024/"><u>[Updated] Effortless Audio Collection From Your iMac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-lighten-load-time-for-epic-games-on-windows/"><u>How to Lighten Load Time for Epic Games on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/6-effective-techniques-to-resurrect-off-screen-windows-in-windows-11/"><u>6 Effective Techniques to Resurrect Off-Screen Windows in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-is-there-a-superior-cameras-marketplace/"><u>[New] Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-hyper-v-error-0x8009030e/"><u>Overcoming Windows Hyper-V Error 0X8009030E</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>2024 Approved  OBS vs Wirecast  Ultimate Broadcast Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-repairing-disk-errors-issue-on-windows/"><u>How to Fix the Repairing Disk Errors Issue on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-and-redo-store-registrations-in-win-11/"><u>How to Reset and Redo Store Registrations in Win 11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-part-ways-with-discord-platform-for-2024/"><u>[New] Part Ways with Discord Platform for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/establishing-a-signature-style-in-the-tiktok-arena-for-2024/"><u>Establishing a Signature Style in the TikTok Arena for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-app-install-failure-on-microsofts-marketplace/"><u>Addressing App Install Failure on Microsoft's Marketplace</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Add Num, Caps, and Scroll Lock Key Indicators to Windows 11’S System Tray
-date: 2024-06-25T11:38:00.475Z
-updated: 2024-06-26T11:38:00.475Z
+date: 2024-07-13T10:40:27.506Z
+updated: 2024-07-14T10:40:27.506Z
 tags:
   - windows10
   - windows11
@@ -111,3 +111,49 @@ thumbnail: https://thmb.techidaily.com/30c580f4aaa4373c8a4d05322fd912eb007bcd184
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-8-dictation-software-for-windows-mac-and-online/"><u>Updated 2024 Approved Top 8 Dictation Software for Windows, Mac, and Online</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-approaches-to-online-collaboration-4/"><u>Innovative Approaches to Online Collaboration (#4)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-league-of-legends-disconnecting-on-windows/"><u>How to Fix League of Legends Disconnecting on Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-secure-network-shadows-in-windows/"><u>Crafting Secure Network Shadows in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-11-pro/"><u>How to Install Dolby Atmos in Windows 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/launch-into-productivity-must-have-ms-store-picks/"><u>Launch Into Productivity: Must-Have MS Store Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-legacy-windows-photo-viewer-features-in-win11/"><u>Restoring Legacy Windows Photo Viewer Features in Win11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-story-wizardry-secrets-revealed/"><u>[Updated] Instagram Story Wizardry  Secrets Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/timeless-windows-syncing-the-digital-second-hand/"><u>Timeless Windows: Syncing the Digital Second Hand</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-full-power-of-task-manager-with-admin-rights-in-win11/"><u>Unleash Full Power of Task Manager with Admin Rights in Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y27-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y27 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-resolutionrefiner-x1-high-res-video-enhancer/"><u>[Updated] ResolutionRefiner X1 - High-Res Video Enhancer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mobile-mastery-in-thumbnail-creation-for-engaging-youtube-videos/"><u>In 2024, Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-12-animation-video-maker-that-can-triple-conversion-rates/"><u>New 12 Animation Video Maker That Can Triple Conversion Rates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-lightning-fast-conversions-choosing-the-best-youtube-to-mp4-tool/"><u>Updated Unlock Lightning-Fast Conversions Choosing the Best YouTube to MP4 Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-kinetics-study-2023/"><u>[New] Comprehensive Kinetics Study 2023</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/digital-dexterity-quick-quality-trimming-of-vimeo-videos-5-ways-for-2024/"><u>Digital Dexterity  Quick, Quality Trimming of Vimeo Videos (5 Ways) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-11s-6-unusual-visual-cues/"><u>Understanding Windows 11'S 6 Unusual Visual Cues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-rated-desktops-for-peak-performance/"><u>[Updated] Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-working-state-for-ccleaner-in-windows-1011-systems/"><u>Enabling Working State for CCleaner in Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-customize-your-functional-keys-configuration/"><u>Win 10/11: Customize Your Functional Keys Configuration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-revealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>[Updated] Revealing the Invisible  An Organized Exploration of YouTube's Secrets</u></a></li>
+<li><a href="https://win11.techidaily.com/why-ditch-bot-helmed-windows-key-creation/"><u>Why Ditch Bot-Helmed Windows Key Creation?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-nvidia-rtx-3080-glitches-in-games/"><u>Taming NVIDIA RTX 3080 Glitches in Games</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestepping-error-0x80070522-on-windows-by-accessing-client-rights/"><u>Sidestepping Error 0X80070522 on Windows by Accessing Client Rights</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-your-smartphone-as-a-windows-microphone/"><u>How to Use Your Smartphone as a Windows Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-persistent-login-prompt-issues-in-windows/"><u>Skirting Persistent Login Prompt Issues in Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/maximizing-lenovo-experience-through-effective-recording/"><u>Maximizing Lenovo Experience Through Effective Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-microsoft-family-safety/"><u>A Beginner's Guide to Microsoft Family Safety</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-recover-lost-access-to-ubisofts-launcher/"><u>Steps to Recover Lost Access to Ubisoft's Launcher</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-retro-with-fcp-easy-vhs-effects-for-your-videos/"><u>New 2024 Approved Get Retro with FCP Easy VHS Effects for Your Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-malfunctioning-windows-snippers/"><u>Regaining Control Over Malfunctioning Windows Snippers</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-text-conversations-emoji-15-installation-guide-for-windows-11/"><u>Revamping Text Conversations: Emoji 15 Installation Guide for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-11-taskbar-performance/"><u>Optimizing Windows 11 Taskbar Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-hello-fingerprint-malfunctions-easily/"><u>Navigating Windows Hello Fingerprint Malfunctions Easily</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-thumbnail-mastery-boost-your-youtube-videos-visibility-and-clicks/"><u>New 2024 Approved Thumbnail Mastery Boost Your YouTube Videos Visibility and Clicks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-visual-brilliance-top-11-videos-on-color-techniques/"><u>[Updated] In 2024, Unlock Visual Brilliance  Top 11 Videos on Color Techniques</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-ace-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Ace 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-landscape-of-winapp-and-browser-mastery/"><u>Navigating the Landscape of WinApp and Browser Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>In 2024, Top 20 Tales on YT  Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://win11.techidaily.com/how-regular-windows-backup-prolongs-peace-of-mind/"><u>How Regular Windows Backup Prolongs Peace of Mind</u></a></li>
+</ul></div>

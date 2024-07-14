@@ -1,7 +1,7 @@
 ---
 title: Clearing Disallowed Label on Windows Programs
-date: 2024-06-25T11:44:48.119Z
-updated: 2024-06-26T11:44:48.119Z
+date: 2024-07-13T11:04:37.357Z
+updated: 2024-07-14T11:04:37.357Z
 tags:
   - windows10
   - windows11
@@ -67,7 +67,7 @@ To run an app as an administrator:
 1. Right-click on the app icon and select**Run as administrator** .
 2. Click**Yes** if prompted by User Account Control.
 
- Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
+ Check if the app launches ad administrator without the error. If yes, you can [set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
 ## 4\. Repair or Reset the Microsoft Store Apps
 
@@ -100,21 +100,21 @@ Reset the Microsoft Store app:
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
 
- You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
+ You can [disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
 
 ## 6\. Turn Off Your Antivirus Program
 
  False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
 
- You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
+ You can [temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
- If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+ If the error is resolved, add the app to your security program's allowed list. You can also [allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
  User Account Control settings are another common trigger for the This app has been blocked by your system administrator error. You can modify the User Account Control settings in Registry Editor to remove the admin block and resolve the error.
 
- Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to[create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a[system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
+ Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to [create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a [system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
 
 To remove the admin block using Registry Editor:
 
@@ -154,3 +154,76 @@ To remove the admin block using Registry Editor:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge/"><u>In 2024, From Childhood to Cash Flow  Young Kaji’s YouTube Economic Surge</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-modern-techniques-for-shrinking-digital-file-dimensions/"><u>2024 Approved Modern Techniques for Shrinking Digital File Dimensions</u></a></li>
+<li><a href="https://win11.techidaily.com/1719339382074-unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-effective-time-management-streamlining-zoom-meetings-on-win11-systems/"><u>[Updated] In 2024, Effective Time Management  Streamlining Zoom Meetings on Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comparative-study-of-cloud-and-physical-methods-for-windows-setup/"><u>A Comparative Study of Cloud & Physical Methods for Windows Setup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-huawei-p60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Huawei P60 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-stop-automatic-office-updates-on-windows/"><u>4 Ways to Stop Automatic Office Updates on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/3-effective-methods-to-enhance-windows-ram-usage/"><u>3 Effective Methods to Enhance Windows' RAM Usage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-capture-showdown-is-obs-superior-to-twitch-studio-in-2024/"><u>[New] Screen Capture Showdown  Is OBS Superior to Twitch Studio, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-reasons-users-prefer-older-windows-versions/"><u>7 Key Reasons Users Prefer Older Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simple-guide-to-finding-out-what-model-you-run-on-windows/"><u>A Simple Guide to Finding Out What Model You Run on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719362389609-determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/1719359813770-cloud-connected-computers-integrating-files-with-dropboxgoogledrive-in-c/"><u>Cloud-Connected Computers: Integrating Files with Dropbox/GoogleDrive in C</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-12plus-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 12+ 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/9-strategies-for-troubleshooting-windows-10-blue-screen-crashes/"><u>9 Strategies for Troubleshooting Windows 10 Blue Screen Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-stop-the-background-from-automatically-changing-on-windows-11/"><u>6 Ways to Stop the Background From Automatically Changing on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-quick-guide-to-restoring-functionality-of-your-windows-11-search-box/"><u>A Quick Guide to Restoring Functionality of Your Windows 11 Search Box</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-fix-for-inaccessible-screen-settings-in-windows/"><u>A Comprehensive Fix for Inaccessible Screen Settings in Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-an-ideal-speech-translation-experience-in-google/"><u>[New] 2024 Approved  Crafting an Ideal Speech Translation Experience in Google</u></a></li>
+<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
+<li><a href="https://win11.techidaily.com/1719368088856-troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-change-taskbar-history-19852023/"><u>A Window Into Change: Taskbar History (1985–2023)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone SE (2022)?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-speed-up-tiktok-videos-simple-guide/"><u>[New] 2024 Approved  How to Speed Up TikTok Videos? [Simple Guide]</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-vimeo-recording-techniques/"><u>[New] In 2024, Mastering Vimeo Recording Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-overcome-excessive-gpu-demand-in-winwm/"><u>7 Ways to Overcome Excessive GPU Demand in WinWM</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-your-brands-potential-with-powerful-tiktok-advertising-techniques-and-campaigns-for-2024/"><u>[Updated] Unleash Your Brand's Potential with Powerful TikTok Advertising Techniques & Campaigns for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-the-fast-lane-best-video-speed-changer-software-reviewed/"><u>2024 Approved The Fast Lane Best Video Speed Changer Software Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-use-windows-11-more-efficiently/"><u>7 Ways to Use Windows 11 More Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/27-tips-for-personalizing-your-windows-11-experience/"><u>27 Tips for Personalizing Your Windows 11 Experience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-best-pop-background-music-list-for-videos/"><u>In 2024, Best Pop Background Music List for Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide-for-2024/"><u>Step Into the World of YouTube Transcription  A Comprehensive No-Fee Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>[Updated] 2024 Approved  High-Performance Video Calls  A Curated Ranking of Top 10 Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/a-windows-11-software-removal-primer-top-11-approaches-114-chars/"><u>A Windows 11 Software Removal Primer: Top 11 Approaches (114 Chars)</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719348018496-skip-bloatware-embrace-pure-windows-11-experience/"><u>Skip Bloatware: Embrace Pure Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/7-methods-to-mend-your-obs-studio-connection-on-windows-pcs/"><u>7 Methods to Mend Your OBS Studio Connection on Windows PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-c12-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia C12 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-a24-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy A24 PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719325122258-overcome-your-win11-chrome-freeze-effective-fix-strategies/"><u>Overcome Your Win11 Chrome Freeze: Effective Fix Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/9-updated-w11-key-enhancements-unveiled-by-recent-patch/"><u>9 Updated W11: Key Enhancements Unveiled by Recent Patch</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-personalized-typing-mastering-keybinding-w11/"><u>A Window Into Personalized Typing: Mastering Keybinding W11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>[Updated] In 2024, Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
+<li><a href="https://win11.techidaily.com/9-reasons-pcs-are-better-than-macs/"><u>9 Reasons PCs Are Better Than Macs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-online-presence-choosing-the-right-webcam/"><u>In 2024, Elevate Your Online Presence  Choosing the Right Webcam</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficiently-uploading-youtube-vids-to-insta-profile/"><u>[New] In 2024, Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a1x-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A1x 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-photographers-companion-fixing-your-windows-camera/"><u>A Photographer’s Companion: Fixing Your Window's Camera</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-free-and-top-the-ultimate-list-of-online-audio-editing-software/"><u>In 2024, Free and Top The Ultimate List of Online Audio Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-immaculate-window-display-on-w11/"><u>A Guide to Immaculate Window Display on W11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-oppo-reno-8t-5g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Oppo Reno 8T 5G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-speech-to-text-evolution-predictions-and-innovations/"><u>New In 2024, Speech-to-Text Evolution Predictions and Innovations</u></a></li>
+<li><a href="https://win11.techidaily.com/8-tactics-to-unlock-windows-with-persistent-pin-problems/"><u>8 Tactics to Unlock Windows with Persistent PIN Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unstick-the-video-effective-methods-to-remove-adhesives-on-tiktok/"><u>Unstick the Video  Effective Methods to Remove Adhesives on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androids-path-to-virtual-reality-tips-and-tricks/"><u>In 2024, Android's Path to Virtual Reality  Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreenas-for-navigating-windows-11s-troubleshooter/"><u>A Compreenas for Navigating Windows 11'S Troubleshooter</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347188756-overcoming-chrome-hurdles-in-w11-effective-steps-herein/"><u>Overcoming Chrome Hurdles in W11 – Effective Steps Herein.</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-activating-god-control-on-pcs/"><u>A Step-by-Step Guide to Activating God Control on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-optimize-your-playstation-10-best-ssds-hdds/"><u>[New] In 2024, Optimize Your PlayStation  10 Best SSDs, HDDs</u></a></li>
+<li><a href="https://win11.techidaily.com/7-essential-windows-processes-that-could-be-hiding-a-virus/"><u>7 Essential Windows Processes That Could Be Hiding a Virus</u></a></li>
+<li><a href="https://win11.techidaily.com/5-best-file-sharing-apps-on-a-windows-pc/"><u>5 Best File Sharing Apps on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/1719333062146-resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nokia-c12-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nokia C12 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-approach-to-revamping-group-policy-settings/"><u>A Practical Approach to Revamping Group Policy Settings</u></a></li>
+</ul></div>

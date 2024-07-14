@@ -1,7 +1,7 @@
 ---
 title: "Surging Downloads: Overcome the 0.1KB/S Stall on Windows"
-date: 2024-06-25T11:29:38.912Z
-updated: 2024-06-26T11:29:38.912Z
+date: 2024-07-13T10:11:33.177Z
+updated: 2024-07-14T10:11:33.177Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ## 2\. Check Your Internet Connection
 
- The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an[internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
+ The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an [internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
 
  If power cycling the router didn't improve your download speeds, contact your ISP and ask that they resolve the problem.
 
@@ -56,9 +56,9 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ## 4\. Switch to Google's DNS Server
 
- The Riot Client will struggle to initiate the downloading process if your current[DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
+ The Riot Client will struggle to initiate the downloading process if your current [DNS server](https://www.makeuseof.com/what-is-dns/) is unstable. You can try switching to a different DNS server to eliminate the problem.
 
- While there are plenty of public DNS servers you can swap to, Google's servers are one of the most popular choices. As such, our guide will cover connecting to Google's DNS. If you want a different one, be sure to check out the[best DNS servers for improved online safety](https://www.makeuseof.com/tag/best-dns-providers-security/) and replace the IP addresses in the guide below with your chosen server.
+ While there are plenty of public DNS servers you can swap to, Google's servers are one of the most popular choices. As such, our guide will cover connecting to Google's DNS. If you want a different one, be sure to check out the [best DNS servers for improved online safety](https://www.makeuseof.com/tag/best-dns-providers-security/) and replace the IP addresses in the guide below with your chosen server.
 
 1. Open**Settings** using**Win + I** hotkeys.
 2. Choose**Network & internet** from the left pane.
@@ -114,7 +114,7 @@ Check if you are still facing the problem.
 
 Here are the steps for downloading the latest network drivers:
 
-1. Open Device Manager using one of the[many ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
+1. Open Device Manager using one of the [many ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
 2. Double-click on**Network adapters** .
 3. Right-click on the installed network driver, and choose the**Update driver** option.  
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
@@ -150,7 +150,7 @@ Here's how to reset the network settings:
 
  It's a very straightforward process to download or update Valorant using the Riot Client. But the client can run into issues from time to time as well.
 
- If the Valorant download or update gets stuck on 0.1KB/s, feel free to use the above solutions. But in the worst-case scenario, if nothing worked, consider connecting with the[Riot Games support team](https://support.riotgames.com/hc/en-us) .
+ If the Valorant download or update gets stuck on 0.1KB/s, feel free to use the above solutions. But in the worst-case scenario, if nothing worked, consider connecting with the [Riot Games support team](https://support.riotgames.com/hc/en-us) .
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,3 +168,39 @@ Here's how to reset the network settings:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerate-your-youtube-journey-achieve-the-essential-10k-vistas/"><u>[New] In 2024, Accelerate Your YouTube Journey - Achieve the Essential 10K Vistas</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-empty-login-screen-dilemma-in-win1011/"><u>Overcoming the Empty Login Screen Dilemma in WIN10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours/"><u>[New] Best-in-Class Subtitle Converters Revealed  Transform SUB Into SRTR in Minutes, Not Hours</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-easy-to-follow-steps-crafting-animated-gifs-from-youtube-content-pcmobile/"><u>2024 Approved  Easy-to-Follow Steps  Crafting Animated GIFs From YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-windows-hello-for-fingerprint-recognition/"><u>Introduction to Windows Hello for Fingerprint Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/from-emulator-to-operating-system-windows-for-steam-deck/"><u>From Emulator to Operating System: Windows for Steam Deck</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sharpen-your-footage-with-videoleaps-zoom/"><u>2024 Approved  Sharpen Your Footage with Videoleap's ZOOM</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-the-art-of-audio-volume-transition-for-2024/"><u>Mastering the Art of Audio Volume Transition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-correct-office-365-problem-code-30015-26/"><u>Methods to Correct Office 365 Problem Code 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsuccessful-attempts-to-connect-to-nvidia-geforce-in-windows-11/"><u>Fixing Unsuccessful Attempts to Connect to Nvidia GeForce in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-yellow-tint-on-a-windows-laptop-screen/"><u>How to Fix a Yellow Tint on a Windows Laptop Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-avoiding-the-most-common-windows-11-missteps/"><u>Essential Insights: Avoiding the Most Common Windows 11 Missteps</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-in-windows-11-dissecting-update-wxxs-additions/"><u>New Horizons in Windows 11: Dissecting Update W.x.x's Additions</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-slow-download-issues-in-steam-on-windows-platform/"><u>Fix Slow Download Issues in Steam on Windows Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-windows-safescreensaver-alteration/"><u>Preventive Measures for Windows SafeScreensaver Alteration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-complete-guide-to-using-siri-in-tiktok-videos-easy-and-effective-filming/"><u>[Updated] Complete Guide to Using Siri in TikTok Videos  Easy and Effective Filming</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unable-to-detect-camera-in-win11/"><u>Overcoming Unable to Detect Camera in Win11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>[Updated] 2024 Approved  Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-shift-away-from-windows-xp-7-and-81-support/"><u>Navigating the Shift Away From Windows XP, 7 & 8.1 Support</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-expert-tips-on-isolating-soundtracks-in-adobe-premiere-projects/"><u>Updated Expert Tips on Isolating Soundtracks in Adobe Premiere Projects</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-file-explorer-running-with-helpful-windows-11-tricks/"><u>Keep Your File Explorer Running with Helpful Windows 11 Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-v27e-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo V27e Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-blurring-the-boundary-a-comprehensive-look-at-story-bokeh/"><u>[Updated] In 2024, Blurring the Boundary  A Comprehensive Look at Story Bokeh</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-top-ranked-cameras-for-snowboarding-and-skiing-enthusiasts/"><u>7 Top-Ranked Cameras for Snowboarding & Skiing Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-windows-11s-netstat-power-for-traffic-observation/"><u>Harness Windows 11'S Netstat Power for Traffic Observation</u></a></li>
+<li><a href="https://win11.techidaily.com/measuring-electrical-use-for-windows-pcs-effectively/"><u>Measuring Electrical Use for Windows PCs Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-app-changes-in-the-latest-windows-11-update/"><u>Navigating App Changes in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-resemble-macos-with-these-5-simple-changes/"><u>Make Windows Resemble MacOS with These 5 Simple Changes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reverse-error-code-0x80780119-in-windows/"><u>Guide to Reverse Error Code 0X80780119 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unveiling-secrets-of-hulu-recording-across-windowsmacosios/"><u>[Updated] In 2024, Unveiling Secrets of Hulu Recording Across Windows/MacOS/iOS</u></a></li>
+</ul></div>

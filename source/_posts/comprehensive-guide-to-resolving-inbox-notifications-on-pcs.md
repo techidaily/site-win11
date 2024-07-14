@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Resolving Inbox Notifications on PCs
-date: 2024-06-25T11:33:39.093Z
-updated: 2024-06-26T11:33:39.093Z
+date: 2024-07-13T10:24:30.715Z
+updated: 2024-07-14T10:24:30.715Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ To access notification settings in the Mail app:
 
 ## 2\. Enable Mail App Notifications From Windows Settings
 
- Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned[how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
+ Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned [how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
 
  To enable Mail app notifications from Windows Settings, do the following:
 
@@ -100,7 +100,7 @@ Once removed, restart the Mail app and add your account again.
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
- If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
+ If you're interested in Focus Assist, be sure to check out [how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
 ## 7\. Disable Battery Saver Mode
 
@@ -116,7 +116,7 @@ Once removed, restart the Mail app and add your account again.
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
 
-1. Right-click on the**Start icon** or press**Win + X** to open the[Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
+1. Right-click on the**Start icon** or press**Win + X** to open the [Power Menu](https://www.makeuseof.com/windows-power-menu-guide/) .
 2. Select**Installed apps** from the menu.
 3. Scroll down to locate the Mail app on the list.
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
@@ -154,3 +154,54 @@ Once removed, restart the Mail app and add your account again.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/immediate-actions-for-reviving-freeze-ups-on-resource-monitor-win11/"><u>Immediate Actions for Reviving Freeze-Ups on Resource Monitor, Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-selecting-screen-recorder-software/"><u>[New] In 2024, The Ultimate Guide to Selecting Screen Recorder Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-pc-with-the-top-10-must-try-powertoy-applications/"><u>Reimagine Your PC with the Top 10 Must-Try PowerToy Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-commands-the-win-1011-trickery-guide/"><u>Masked Commands: The Win 10/11 Trickery Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-your-facebook-cover-leading-websites-for-professionals/"><u>[Updated] 2024 Approved  Enhancing Your Facebook Cover  Leading Websites for Professionals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-smoother-skin-in-minutes-a-step-by-step-fcpx-tutorial/"><u>New Smoother Skin in Minutes A Step-by-Step FCPX Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-a-guide-to-mastering-window-11s-taskbar-search-function/"><u>Quick Start: A Guide to Mastering Window 11’S Taskbar Search Function</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-windows-environment-adding-to-the-desktop-menu/"><u>Personalizing Your Windows Environment: Adding to the Desktop Menu</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-faces-to-watch-top-cosmetic-creatives/"><u>[New] The Faces to Watch  Top Cosmetic Creatives</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-mass-unzipping-on-your-pc/"><u>Navigating the Maze of Mass Unzipping on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/immersive-education-experience-windows-11-tutorials/"><u>Immersive Education Experience: Windows 11 Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-resolve-microphone-problems-on-pc-and-xbox/"><u>Guidelines to Resolve Microphone Problems on PC & Xbox</u></a></li>
+<li><a href="https://win11.techidaily.com/is-it-necessary-to-keep-pagefilesys-reasons-explored/"><u>Is It Necessary to Keep Pagefile.sys? Reasons Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/realign-google-chrome-clock-with-windows-time/"><u>Realign Google Chrome Clock with Windows Time</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>Updated In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ical-integration-on-windows-11-systems/"><u>Mastering iCal Integration on Windows 11 Systems</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/new-wave-windows-leap-from-the-legacy-of-11/"><u>New Wave Windows: Leap From the Legacy of 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-deep-dive-into-3d-color-grading-tools/"><u>2024 Approved  Deep Dive Into 3D Color Grading Tools</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-video-slideshow-with-your-travel-photos/"><u>How to Make Video Slideshow with Your Travel Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-edits-skewed-caption-creation-for-2024/"><u>Photo Edits  Skewed Caption Creation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-traditional-windows-explorer-look/"><u>Reclaiming Traditional Windows Explorer Look</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-office-setup-on-windows-10-and-11-systems/"><u>Mastering Office Setup on WIndows 10 & 11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-spotify-listening-safe-speed-adjustment/"><u>Efficient Spotify Listening  Safe Speed Adjustment</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-innovative-ideas-to-elevate-your-tiktok-pfp/"><u>[New] In 2024, Innovative Ideas to Elevate Your TikTok PFP</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-absence-of-printmanagement-on-your-system/"><u>Remedying the Absence of 'Printmanagement' On Your System</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-best-15-female-anime-characters-who-is-your-favorite/"><u>In 2024, Best 15 Female Anime Characters-Who Is Your Favorite?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-primepickings-top-twitters-and-top-viewers-favorites-for-2024/"><u>[New] PrimePickings  Top Twitters & Top Viewers’ Favorites for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-hand-drawn-whiteboard-video-creation-the-top-5-software-options/"><u>Updated In 2024, Hand-Drawn Whiteboard Video Creation The Top 5 Software Options</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-windows-default-settings-on-reboot/"><u>Quick Tips for Windows Default Settings on Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unchecked-cpu-usage-by-wmi-worker/"><u>Fixing Unchecked Cpu Usage by WMI Worker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masterclass-in-3d-color-grading-with-custom-luts/"><u>[Updated] 2024 Approved  Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-bringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>In 2024, Bringing the Web to Reality  Embedding YouTube Videos in Slides</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-x100-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from X100 Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-edge-windows-podcast-tools-our-top-8-choices/"><u>In 2024, Leading Edge Windows Podcast Tools  Our Top 8 Choices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-dominion-rise-as-a-youtube-guru/"><u>2024 Approved  Digital Dominion  Rise as a YouTube Guru</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-8-cost-effective-multi-platform-virtual-communication-software-for-2024/"><u>Top 8 Cost-Effective, Multi-Platform Virtual Communication Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-high-space-consumers-on-your-windows-machine/"><u>Identifying High-Space Consumers on Your Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-beginnings-executing-a-clean-windows-11-reinstall/"><u>Fresh Beginnings: Executing a Clean Windows 11 Reinstall</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-photos-app-background-blur-feature-on-windows-11/"><u>How to Use the Photos App Background Blur Feature on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-bypassing-non-active-window-firewall/"><u>Methods for Bypassing Non-Active Window Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-11-and-11/"><u>How to Fix a Blank Login Screen in Windows 11 & 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-a-comprehensive-tutorial-on-adding-music-to-kinemaster/"><u>In 2024, A Comprehensive Tutorial on Adding Music to KineMaster</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-9-methods-for-accessing-windows-11s-audio-control-panel/"><u>Navigate 9 Methods for Accessing Windows 11'S Audio Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-comic-experience-with-windows-11-techniques/"><u>Maximizing Comic Experience with Windows 11 Techniques</u></a></li>
+</ul></div>

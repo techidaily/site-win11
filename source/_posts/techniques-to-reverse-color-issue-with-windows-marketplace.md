@@ -1,7 +1,7 @@
 ---
 title: Techniques to Reverse Color Issue with Windows Marketplace
-date: 2024-06-25T11:35:34.674Z
-updated: 2024-06-26T11:35:34.674Z
+date: 2024-07-13T10:32:35.634Z
+updated: 2024-07-14T10:32:35.634Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 Open Microsoft Store again and check if it’s now working.
 
- If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
+ If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these [reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
 
 ## 2\. Check Your Internet Connection
 
- There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re[dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
+ There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re [dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
 
@@ -87,19 +87,19 @@ Go through the below steps to change the Windows region:
 
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
- Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
+ Also, you can [manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 ## 7\. Re-register the Microsoft Store
 
  If you couldn’t get Microsoft Store to work using the above solutions, you should re-register the app through PowerShell. The process is quite easy and fast.
 
- First, launch PowerShell with administrative rights. If you don't know how to do this, refer to[how to open PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/) .
+ First, launch PowerShell with administrative rights. If you don't know how to do this, refer to [how to open PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/) .
 
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
 ## 8\. Reset Your Windows PC
 
- If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
+ If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to [factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
 
 ## Get the Microsoft Store Working Again
 
@@ -124,3 +124,37 @@ Go through the below steps to change the Windows region:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-codes-0xc0000001-guide/"><u>Overcoming Windows Error Codes - 0xC0000001 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-cortana-integration-vivetool-approach/"><u>Optimizing Cortana Integration: ViveTool Approach</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-sonic-landscape-a-study-on-sound-forgeutility/"><u>Updated In 2024, The Sonic Landscape A Study on Sound Forgeutility</u></a></li>
+<li><a href="https://facebook.techidaily.com/emergency-protocols-for-defeating-fb-account-intrusion/"><u>Emergency Protocols for Defeating FB Account Intrusion</u></a></li>
+<li><a href="https://win11.techidaily.com/override-hardware-acceleration-in-widnos-graphics-ordering/"><u>Override Hardware Acceleration in WIDNO's Graphics Ordering</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-closed-caption-fixes-the-win11-way/"><u>Mastering Closed Caption Fixes: The Win11 Way</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-detection-issues-with-razer-on-windows-11/"><u>Overcoming Device Detection Issues with Razer on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-11-settings/"><u>In-Depth Analysis of Windows 11 Settings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-crafting-your-perfect-minecraft-shelter/"><u>[Updated] Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-itel-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Itel FRP Bypass Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-a-jujutsu-kaisen-tiktok-challenge-for-2024/"><u>[New] Crafting a Jujutsu Kaisen TikTok Challenge for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-alter-windows-dashboard-imagery-effortlessly/"><u>How to Alter Windows Dashboard Imagery Effortlessly</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-register-online/"><u>Updated 2024 Approved Register | Online</u></a></li>
+<li><a href="https://win11.techidaily.com/from-ios-to-desktop-seamless-sync-with-windows-os/"><u>From iOS to Desktop: Seamless Sync with Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-intensive-resource-usage-managing-dropboxs-cpu-in-windows/"><u>Lowering Intensive Resource Usage: Managing Dropbox's CPU in Windows</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-the-most-direct-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Direct Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://win11.techidaily.com/purging-power-users-the-guide-to-default-settings/"><u>Purging Power Users: The Guide to Default Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/max-out-your-games-on-windows-the-amd-optimization-guide/"><u>Max Out Your Games on Windows: The AMD Optimization Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-thx-audio-functionality-in-windows/"><u>Restoring Lost THX Audio Functionality in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-for-setting-windows-backups-against-original-standards/"><u>Instructions for Setting Windows Backups Against Original Standards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/desktoponline-passport-picture-creation-10-per-person/"><u>Desktop/Online Passport Picture Creation - 10 Per Person</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/end-screen-magic-free-templates-to-boost-video-appeal-for-2024/"><u>End-Screen Magic  Free Templates to Boost Video Appeal for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-connection-problem-with-mb-services-in-win11/"><u>Overcoming the Connection Problem with MB Services in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[New] Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-maneuvers-to-navigate-stalled-windows-install-steps/"><u>Masterful Maneuvers to Navigate Stalled Windows Install Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-resolving-roblox-glitches-on-pc/"><u>Guidelines for Resolving Roblox Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-old-ribbon-revival-in-new-windows/"><u>Guide for Old Ribbon Revival in New Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guide-to-new-intel-hd-graphics-on-pcs/"><u>Guide to New Intel HD Graphics on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-fix-rpc-fails-on-your-pc/"><u>Master Plan to Fix RPC Fails on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-the-effectiveness-of-win-based-discord-queries/"><u>Improving the Effectiveness of Win-Based Discord Queries</u></a></li>
+</ul></div>

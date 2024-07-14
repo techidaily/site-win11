@@ -1,7 +1,7 @@
 ---
 title: "Mastering Window 11: Personalizing Your Desktop with Widgets"
-date: 2024-06-25T11:24:50.349Z
-updated: 2024-06-26T11:24:50.349Z
+date: 2024-07-13T09:53:30.014Z
+updated: 2024-07-14T09:53:30.014Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
  Widget Launcher is available on the Microsoft Store. If you haven't explored it before,[the Microsoft Store has plenty of award-winning and innovative apps](https://www.makeuseof.com/microsoft-store-award-winning-apps-customize/) . For the time being, we'll use it to download Widget Launcher.
 
- If Microsoft Store is up and running on your PC, you should be able to download the app via[the Widget Launcher page on the Microsoft Store](https://apps.microsoft.com/store/detail/widget-launcher/9WZDNCRDQFBT?hl=en-gb&gl=gb&rtc=1) . Just click**Get in Store app** and Windows will handle the rest.
+ If Microsoft Store is up and running on your PC, you should be able to download the app via [the Widget Launcher page on the Microsoft Store](https://apps.microsoft.com/store/detail/widget-launcher/9WZDNCRDQFBT?hl=en-gb&gl=gb&rtc=1) . Just click**Get in Store app** and Windows will handle the rest.
 
  Otherwise, press**Win + S** to open Windows Search and type**store** in the search box. Under**Best match** in the search results, click on**Microsoft Store** to launch the app. Search for**widget launcher** and install the app that appears.
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
 ![launching the digital clock widget in widget launcher in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-lauching-digital-clock.jpg)
 
- In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
+ In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can [disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
 ![the digital clock widget on the windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/digital-clock-widget-windows-11-desktop.jpg)
 
@@ -85,3 +85,71 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-nullifying-windows-11s-eyes-on-you/"><u>Mastery in Nullifying Windows 11'S Eyes on You</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-firewall-options-for-blocking-software-to-windows-11s-context-menu/"><u>How to Add Firewall Options for Blocking Software to Windows 11’S Context Menu</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-extreme-weather-footage-showdown-black-hero5/"><u>2024 Approved  Extreme Weather Footage Showdown  Black Hero5</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3-easy-steps-for-masterful-image-grading-for-2024/"><u>3 Easy Steps for Masterful Image Grading for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/flush-your-steam-dns-data-a-windows-user-guide/"><u>Flush Your Steam DNS Data - A Windows User Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/expertly-restoring-erased-data-in-a-microsoft-world/"><u>Expertly Restoring Erased Data in a Microsoft World</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/comparing-messaging-services-discord-versus-skype-revealed/"><u>Comparing Messaging Services  Discord Versus Skype Revealed</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discover-virtual-reality-environment-noises-for-2024/"><u>Discover Virtual Reality Environment Noises for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-control-set-active-hours-to-avoid-surprises-on-windows-11/"><u>Cutting Edge Control: Set Active Hours to Avoid Surprises on Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-upload-and-post-gifs-onto-instagram-4-steps/"><u>[Updated] In 2024, How To Upload and Post GIFs Onto Instagram [4 Steps]</u></a></li>
+<li><a href="https://win11.techidaily.com/1719193162154-unlocking-the-secrets-to-fixing-non-working-win-plus-printer/"><u>Unlocking The Secrets to Fixing Non-Working Win + Printer.</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/infinite-quit-strategy-for-youtube-short-video-clips-for-2024/"><u>Infinite Quit Strategy for YouTube Short Video Clips for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-nokia-c12-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nokia C12 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ceasing-erratic-mouse-movement-in-windows/"><u>Ceasing Erratic Mouse Movement in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y78plus-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y78+? Try These Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strike-gold-on-youtube-peak-hours-guide/"><u>2024 Approved  Strike Gold on YouTube  Peak Hours Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-step-by-step-to-resize-video-in-davinci-resolve/"><u>In 2024, Step by Step to Resize Video in Davinci Resolve</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011s-audacity-audio-connection-failures/"><u>Fixing Windows 10/11’S Audacity Audio Connection Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-off-screen-windows-6-methods-for-win11-users/"><u>Securing Off-Screen Windows: 6 Methods for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-enhancement-in-wt-with-personalized-schemes/"><u>Aesthetic Enhancement in WT with Personalized Schemes</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-root-user-access-in-the-windows-terminal/"><u>Ensuring Root User Access in the Windows Terminal</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-dji-flying-tech-experiment-with-color-luts-at-no-extra-charge/"><u>2024 Approved  DJI Flying Tech  Experiment with Color LUTs at No Extra Charge</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-essential-knowledge-base-using-googles-ai-for-speech-recognition/"><u>In 2024, Essential Knowledge Base  Using Google's AI for Speech Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-critical-winerror-upgrade-fault-0xc004f050/"><u>Fixing Critical WinError: Upgrade Fault #0XC004F050</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/deactivating-mouse-speed-sensitivity-in-windows-1011/"><u>Deactivating Mouse Speed Sensitivity in Windows 10/11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-the-lost-connection-top-9-remedies-for-missing-bluetooth-on-win-11/"><u>Revive the Lost Connection: Top 9 Remedies for Missing Bluetooth on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-from-pin-to-password-a-windows-11-users-guide-for-enhanced-security/"><u>Converting From PIN to Password: A Windows 11 User's Guide for Enhanced Security</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-system-preferences-to-adjust-after-dark-mode/"><u>Mastery of Windows System Preferences to Adjust After Dark Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/1719376947968-regain-your-account-in-microsoft-store-now/"><u>Regain Your Account in Microsoft Store, Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-on-space-spotlight-on-large-files-in-windows/"><u>Cutting Down on Space: Spotlight on Large Files in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-blue-windows-fails/"><u>Mastering the Art of Fixing Blue Windows Fails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-scripting-solutions-in-ae/"><u>[Updated] Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v20-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature for PDF v2.0 document</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-using-mspcm-toolbar-in-w11-os/"><u>Efficient Management Using MSPCM Toolbar in W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-photoshopping-in-windows-11-without-hurdles/"><u>Enabling Photoshopping in Windows 11 Without Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-text-actions-in-the-snipping-tool-on-windows-11/"><u>How to Use Text Actions in the Snipping Tool on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>[Updated] Unlock High-End Visuals  A Practical Guide for SDR to HDR Transition</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-obs-studio-audio-silence-fixes-for-w11-pcs/"><u>Reverse OBS Studio Audio Silence: Fixes for W11 PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y36-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y36 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/overhaul-your-inbox-and-calendar-use-custom-images/"><u>Overhaul Your Inbox and Calendar: Use Custom Images</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-paths-back-to-success-in-steam-gaming/"><u>Easy Paths Back to Success in Steam Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel/"><u>Beginning Basics  The Ultimate Guide to Starting a Reviews-Centric YouTube Channel</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultra-rich-viewable-ventures/"><u>[New] Ultra-Rich Viewable Ventures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unparalleled-selection-best-of-the-10-vimeo-download-sites/"><u>[Updated] In 2024, Unparalleled Selection  Best of the 10 Vimeo Download Sites</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-elevate-your-social-media-presence-mastering-tiktok-hashtag-techniques/"><u>[Updated] 2024 Approved  Elevate Your Social Media Presence  Mastering TikTok Hashtag Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-kid-friendly-drone-recommendations/"><u>2024 Approved  10 Kid-Friendly Drone Recommendations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/trailblazers-8-youtubes-leading-growth-champions/"><u>Trailblazers 8  YouTube's Leading Growth Champions</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-rectify-invalid-label-error-on-windows-11/"><u>Guide to Rectify 'Invalid Label' Error on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinema-coloring-mastery-through-central-luts-application-for-2024/"><u>Cinema Coloring Mastery Through Central Luts Application for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>2024 Approved  Share Wide  Enhancing Instagram Stories With YouTube Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-audience-enhancement-with-audition-fades-for-2024/"><u>[New] Audience Enhancement with Audition Fades for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/chill-vibes-current-hits-to-match-your-yt-short-tunes-for-2024/"><u>Chill Vibes  Current Hits to Match Your YT Short Tunes for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-syncing-your-phone-with-windows-11-via-unison/"><u>Expert Tips: Syncing Your Phone with Windows 11 via Unison</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-from-google-chrome-glitch-on-windows-11-now/"><u>Break Free From Google Chrome Glitch on Windows 11 Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/wrapping-windows-games-in-christmas-carols/"><u>Wrapping Windows Games in Christmas Carols</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-role-in-creating-immersive-vr-content/"><u>In 2024, IPhone's Role in Creating Immersive VR Content</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-keep-windows-open-avoid-lockout-feature/"><u>How To Keep Windows Open: Avoid Lockout Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-error-code-0xa00f425d-in-windows-1e11-camera/"><u>Correcting Error Code: 0XA00F425D in Windows 1E11 Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-wacatacbml-understanding-and-neutralizing-threats-on-windows/"><u>Breaking Down Wacatac.B!ml: Understanding and Neutralizing Threats on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-disappearing-display-on-sony-a6400-for-2024/"><u>The Disappearing Display on Sony A6400 for 2024</u></a></li>
+</ul></div>

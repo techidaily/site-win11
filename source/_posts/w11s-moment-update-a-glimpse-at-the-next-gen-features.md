@@ -1,7 +1,7 @@
 ---
 title: "W11's Moment Update: A Glimpse at the Next-Gen Features"
-date: 2024-06-25T11:44:11.315Z
-updated: 2024-06-26T11:44:11.315Z
+date: 2024-07-13T11:02:42.923Z
+updated: 2024-07-14T11:02:42.923Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  Microsoft introduced File Explorer tabs in the Windows 11 22H2 update last year. Tabs support might expand to the Notepad app as well. Microsoft is currently testing tabs in Notepad with Windows 11 Insiders, hinting that it has a high chance of becoming available in upcoming Moment updates.
 
- Just like how[File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
+ Just like how [File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
 
 ## 4\. Animated Icons in the Settings App
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  Snipping Tool is Windows 11's in-built screenshot capture application. However, the tool will not be limited to capturing only screenshots in the future. Microsoft is currently testing the ability to create screen recordings in the Snipping Tool app with Windows 11 Dev Channel Insiders. The likelihood is that a new Snipping Tool with screen recording capability will be available in the next Windows 11 Moment 2 update.
 
- The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our[guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
+ The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our [guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
 ## 6\. New Dark Mode Toggle
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 
  Image credit: Zac Bowden/[Twitter](https://twitter.com/zacbowden/status/1592528453903200257)
 
- As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our[guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
+ As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our [guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
 
 ## 7\. Task Manager Improvements
 
@@ -105,3 +105,57 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/boost-budget-efficiency-windows-11-pro-discounts/"><u>Boost Budget Efficiency: Windows 11 Pro Discounts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-craft-engaging-trailers-that-drive-channels-sales-for-2024/"><u>How to Craft Engaging Trailers that Drive Channels' Sales for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-boundaries-education-through-vr-lenses-for-2024/"><u>Breaking Boundaries  Education Through VR Lenses for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-innovative-insights-a-curated-list-s-pivotal-social-media-and-marketing-podcasts/"><u>Updated In 2024, Innovative Insights A Curated List S Pivotal Social Media and Marketing Podcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/best-practices-for-github-desktop-adoption-in-windows-11/"><u>Best Practices for GitHub Desktop Adoption in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-crashes-sonic-frontiers-full-screen-fixes/"><u>Conquering Crashes: Sonic Frontiers Full-Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/directly-to-dialer-windows-11-tutorial/"><u>Directly to Dialer: Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-peak-productivity-configure-multiple-monitors-in-win11/"><u>Achieve Peak Productivity: Configure Multiple Monitors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-into-os-upgrade-schedules-and-methods/"><u>Essential Insights Into OS Upgrade Schedules & Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-mitigate-local-security-offline-issue/"><u>Essential Steps to Mitigate Local Security Offline Issue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-sky-to-screen-live-streaming-from-dji-drones/"><u>2024 Approved  From Sky to Screen  Live-Streaming From DJI Drones</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-making-voice-overhaul-easy-the-ultimate-tiktok-guide/"><u>[Updated] 2024 Approved  Making Voice Overhaul Easy  The Ultimate TikTok Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-1110s-required-privilege-error-code-0x80070522/"><u>Eradicating Windows 11/10'S “Required Privilege” Error: Code 0X80070522</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-realme-c33-2023-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Realme C33 2023 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-windows-11-search-icon-from-a-text-bar/"><u>How to Change Windows 11 Search Icon From a Text Bar</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-play-40c-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Play 40C FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-account-lockout-tally-post-unsuccessful-login-attempts-in-windows-1011/"><u>Modifying Account Lockout Tally Post Unsuccessful Login Attempts in Windows 10/11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-complete-encyclopedia-of-tweetresponses/"><u>[New] In 2024, The Complete Encyclopedia of TweetResponses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesizing-success-the-power-of-magix-samplitude/"><u>[Updated] Synthesizing Success  The Power of Magix Samplitude</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-windows-temp-file-deletion-guide/"><u>Effortless Windows Temp File Deletion Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-without-drive-letters-reasons-and-redeeming-solutions-explored/"><u>Windows Without Drive Letters: Reasons and Redeeming Solutions Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-start-the-quick-assist-tool-in-windows-11/"><u>How to Start the Quick Assist Tool in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-advice-on-virtual-dialogue-how-to-excel-in-remote-conversations/"><u>[New] 2024 Approved  Expert Advice on Virtual Dialogue  How to Excel in Remote Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-rectify-erroneous-device-listings-in-windows/"><u>Guidelines to Rectify Erroneous Device Listings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-frozen-grammarly-app-a-windows-users-guide/"><u>Fixing Frozen Grammarly App: A Windows User's Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-stealthy-spectator-of-online-tales/"><u>In 2024, Stealthy Spectator of Online Tales</u></a></li>
+<li><a href="https://win11.techidaily.com/win-volume-adjustment-reviving-dull-edges/"><u>Win Volume Adjustment: Reviving Dull Edges</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-functional-state-in-dead-usb-ports-win-edition/"><u>Enabling Functional State in Dead USB Ports, Win Edition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-7-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 7? How to Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-screen-capture-tool-in-windows-11-swiftly/"><u>Navigate to Screen Capture Tool in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/from-easy-access-to-higher-security-transitioning-your-logon-method-on-windows-11/"><u>From Easy Access to Higher Security: Transitioning Your Logon Method on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/critics-common-grumbles-windows-11-unveiled/"><u>Critics' Common Grumbles: Windows 11 Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-top-picks-for-snapchats-best-edits-on-both-smartphone-platforms/"><u>[New] Top Picks for Snapchat's Best Edits on Both Smartphone Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-final-cut-pro/"><u>[New] In 2024, How to Edit YouTube Videos in Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-finest-zero-cost-windows-media-devices/"><u>Discover the Finest Zero-Cost Windows Media Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hands-on-crafting-unique-movie-closures-for-pennies/"><u>2024 Approved  Hands-On  Crafting Unique Movie Closures for Pennies</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-wakeable-entities-on-dormant-windows/"><u>Controlling Wakeable Entities on Dormant Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fading-beats-an-fl-studio-approach/"><u>In 2024, Fading Beats  An FL Studio Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-graphics-from-windows-search-interface/"><u>Clearing Graphics From Windows Search Interface</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-fun-to-fame-comparing-the-popularity-of-tiktok-and-snaps-user-base-for-2024/"><u>From Fun to Fame  Comparing the Popularity of TikTok & Snap's User Base for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-win-os-files-editable-again/"><u>How to Make Win OS Files Editable Again</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-the-powerhouse-techniques-in-facebooks-360-streaming/"><u>[Updated] In 2024, Unveiling the Powerhouse Techniques in Facebook's 360 Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-get-precise-audio-capturing-for-your-pc-with-x-recorder/"><u>[Updated] Get Precise Audio Capturing for Your PC with X-Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-covert-codes-of-snapchats-emojis/"><u>[Updated] 2024 Approved  Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-essential-data-win-pc-ip-and-mac-via-powershell/"><u>Finding Essential Data: Win PC IP & MAC via PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-disable-microsoft-edge-tab-preloading-in-windows-11/"><u>4 Ways to Disable Microsoft Edge Tab Preloading in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-70-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 70 Lite 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiovisual-beat-engineering-taking-audio-separates-for-creative-endeavors-for-2024/"><u>Updated Audiovisual Beat Engineering Taking Audio Separates for Creative Endeavors for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-task-management-in-windows-11-via-enhanced-run-functionality/"><u>Optimizing Task Management in Windows 11 via Enhanced Run Functionality</u></a></li>
+</ul></div>

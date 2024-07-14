@@ -1,7 +1,7 @@
 ---
 title: "Win11 Error Fixer: Correcting Code 0X0000011B"
-date: 2024-06-25T11:45:04.579Z
-updated: 2024-06-26T11:45:04.579Z
+date: 2024-07-13T11:05:48.718Z
+updated: 2024-07-14T11:05:48.718Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
 ## 1\. Restart the Print Spooler Service
 
- A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the[print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
+ A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the [print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
 
 1. Press**Win + R** to open**Run** .
 2. Type**services.msc** and click**OK** .
@@ -55,7 +55,7 @@ To check and install Windows updates:
 
 ## 3\. Install the Printer Manually via the Local Port
 
- A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
+ A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to [add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
 
 1. Press**Win + I** to open**Settings** .
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
@@ -87,7 +87,7 @@ To check and install Windows updates:
 
  To fix the error without uninstalling the security update, you’ll need to create a new registry entry to disable the feature. Here’s how to do it.
 
- Note that modifying your Windows Registry involves risk. We recommend you[back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and[create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
+ Note that modifying your Windows Registry involves risk. We recommend you [back up your Windows registry](http://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a system restore](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with the steps below.
 
 Next, follow these steps to disable CVE-2021-1678 mitigation:
 
@@ -143,3 +143,47 @@ To uninstall Windows updates:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/file-sharing-mastery-constructing-python-servers-in-windows/"><u>File Sharing Mastery: Constructing Python Servers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/deciding-between-standby-and-complete-shutdown/"><u>Deciding Between Standby and Complete Shutdown</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breakthrough-5-educational-apps-in-polyglot-training/"><u>Breakthrough 5 Educational Apps in Polyglot Training</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ideal-fullscreen-recording-software-roundup-pcmac-edition-for-2024/"><u>[Updated] Ideal Fullscreen Recording Software Roundup  PC/Mac Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-steam-sync-problems/"><u>Deciphering and Fixing Steam Sync Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-steams-inaccessible-game-content-on-latest-windows-11/"><u>Fix Steam's Inaccessible Game Content on Latest Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-folder-context-menus-on-windows-11/"><u>Enhancing Folder Context Menus on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-windows-colour-mismanagement-issues/"><u>Eliminate Windows Colour Mismanagement Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>2024 Approved  Top TikTok Edits  Mastering Your Cut Lists</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-cannot-locate-gpeditmsc-windows-problems/"><u>Essential Fixes for Cannot Locate Gpedit.msc Windows Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-share-tunes-mp3-from-fb/"><u>[Updated] 2024 Approved  Share Tunes  MP3 From FB</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-strategies-for-high-quality-adobe-recordings/"><u>[Updated] 2024 Approved  Top Strategies for High-Quality Adobe Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-insights-into-windows-booting-system-customization/"><u>Expert Insights Into Windows Booting System Customization</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-skypepersona-transforming-your-digital-presence-with-customized-vocal-features-for-2024/"><u>Updated SkypePersona Transforming Your Digital Presence with Customized Vocal Features for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-s18e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo S18e without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-pros-pathway-to-effective-discord-dialogue-and-reactions/"><u>[New] The Pro's Pathway to Effective Discord Dialogue and Reactions</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-entry-points-to-troubled-boots-in-win-writable-steps/"><u>Eliminate Entry Points to Troubled Boots in Win' Writable Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pros-picks-best-10-terraria-mods/"><u>[New] Pro's Picks  Best 10 Terraria Mods</u></a></li>
+<li><a href="https://win11.techidaily.com/echoes-of-the-past-amplifying-vintage-games-with-shaders/"><u>Echoes of the Past: Amplifying Vintage Games with Shaders</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-a-non-functional-printer-in-the-os-environment/"><u>Fixing a Non-Functional Printer in the OS Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-for-dns-flushing-in-modern-windows-os/"><u>Efficient Techniques for DNS Flushing in Modern Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-your-pcs-core-generating-and-reviewing-data/"><u>Deciphering Your PC’s Core: Generating & Reviewing Data</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/led-insights-into-youtubes-perfected-aspect-ratios/"><u>Detailed Insights Into YouTube's Perfected Aspect Ratios</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-overscan-in-windows-enhance-screen-fit/"><u>Fixing Overscan in Windows - Enhance Screen Fit</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-windows-files-writable-stop-read-only/"><u>How to Make Windows Files Writable: Stop Read-Only</u></a></li>
+<li><a href="https://win11.techidaily.com/entrusting-administration-to-command-line/"><u>Entrusting Administration to Command Line</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-inflexible-scrollbar-issue-in-microsoft-excel-2016/"><u>Fix Inflexible Scrollbar Issue in Microsoft Excel 2016</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-this-app-has-been-blocked-by-your-system-administrator-error-in-windows/"><u>How to Fix This App Has Been Blocked by Your System Administrator Error in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-aspect-ratio-editing-in-final-cut-pro-a-comprehensive-guide-for-2024/"><u>New Aspect Ratio Editing in Final Cut Pro A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-x7-ultra-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find X7 Ultra Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-note-30-vip-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Note 30 VIP</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-chromebooks-ultimate-sniping-software-our-5-favorites-for-2024/"><u>[Updated] Chromebook's Ultimate Sniping Software  Our 5 Favorites for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-quake-mode-using-windows-terminal/"><u>Launching Quake Mode: Using Windows Terminal</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-8-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 8 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-engage-immediate-assist-feature-windows-11/"><u>How to Engage Immediate Assist Feature: Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-sleep-state-in-windows-11s-usb-cores/"><u>How to Prevent Sleep State in Windows 11'S USB Cores</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-pickers-best-websites-to-secure-snapalert-music-for-2024/"><u>Premium Pickers  Best Websites to Secure SnapAlert Music for 2024</u></a></li>
+</ul></div>

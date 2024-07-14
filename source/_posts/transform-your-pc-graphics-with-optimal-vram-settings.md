@@ -1,7 +1,7 @@
 ---
 title: Transform Your PC Graphics with Optimal VRAM Settings
-date: 2024-06-25T11:33:53.583Z
-updated: 2024-06-26T11:33:53.583Z
+date: 2024-07-13T10:26:20.813Z
+updated: 2024-07-14T10:26:20.813Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
- Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
+ Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're [using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
 
 ## How to Increase VRAM in Windows
 
- The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of[the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
+ The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of [the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
 
  However, if this isn't an option for you (like on laptops), you may be able to increase your dedicated VRAM in two ways.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
  Thus, you can modify a Registry value to change the amount VRAM your system reports to games. This doesn't actually increase your VRAM; it just modifies that dummy value. If a game refuses to start because you "don't have enough VRAM," upping this value might fix that.
 
- Open a Registry Editor window by typing**regedit** into the Start Menu. Remember that you can mess up your system if you modify the wrong values, so take care[while editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
+ Open a Registry Editor window by typing**regedit** into the Start Menu. Remember that you can mess up your system if you modify the wrong values, so take care [while editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
 
 Head to the following location:
 
@@ -78,7 +78,7 @@ Head to the following location:
 
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
 
- These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
+ These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or [freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
@@ -88,7 +88,7 @@ Head to the following location:
 
  A big factor in VRAM consumption is your monitor's resolution (more specifically, the resolution you're running a game at). Video RAM stores the frame buffer, which holds an image before and during the time that your GPU displays it on the screen. Higher-quality displays (such as a 4K HDR monitor) use more VRAM because higher-resolution images take more pixels to display.
 
- Aside from your monitor's display, textures in a game can drastically affect how much VRAM you need. Most modern[PC games let you fine-tune graphical settings](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) for performance or visual quality.
+ Aside from your monitor's display, textures in a game can drastically affect how much VRAM you need. Most modern [PC games let you fine-tune graphical settings](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) for performance or visual quality.
 
  You may be able to play a game from several years ago at**Low** or**Medium** settings with a cheaper card (or even integrated graphics). But**High** or**Ultra** quality, or custom mods that make in-game textures look even better than they normally do, will need lots of video RAM.
 
@@ -114,13 +114,13 @@ Head to the following location:
 
  Thus, a cheap $75 graphics card will have a small amount of VRAM, while a $500 graphics card will pack a lot more. If a weak GPU isn't powerful enough to render video that takes 8GB of VRAM to store, it's a waste to have that much VRAM in the card.
 
- Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
+ Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only [factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
 
- Conversely, not having enough VRAM is a huge problem. If VRAM fills up, the system has to rely on standard RAM and performance will take a huge hit. You'll[suffer from a lower frame rate](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , texture pop-ins, and other adverse effects. In extreme cases, the game could slow to a crawl and become unplayable (anything under 30FPS).
+ Conversely, not having enough VRAM is a huge problem. If VRAM fills up, the system has to rely on standard RAM and performance will take a huge hit. You'll [suffer from a lower frame rate](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , texture pop-ins, and other adverse effects. In extreme cases, the game could slow to a crawl and become unplayable (anything under 30FPS).
 
  Remember that VRAM is only one factor in performance. If you don't have a powerful enough CPU, rendering 4K video will take forever. A lack of system RAM prevents you from running many programs at once, and using a mechanical hard drive will severely limit your system performance too. And some cheaper graphics cards use slow DDR3 VRAM, which is inferior to DDR6 and DDR5 used in modern cards.
 
@@ -161,3 +161,50 @@ Head to the following location:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker-for-2024/"><u>[New] Unleashing Imagination  Creating Motion Pictures with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-notes-obsidian-canvas-approach/"><u>Streamline Your Notes: Obsidian Canvas Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>[New] 2024 Approved  Secure Your Shots in the Cloud  Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-0x800713f-issue-for-smooth-function-of-win11s-mail-app/"><u>Decoding 0X800713F Issue for Smooth Function of Win11's Mail App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-belly-laughs-list-ultimate-guide-to-free-memes/"><u>2024 Approved  Belly Laughs List  Ultimate Guide to Free Memes</u></a></li>
+<li><a href="https://win11.techidaily.com/best-lighter-browsing-options-tested-for-memory-conservation/"><u>Best Lighter Browsing Options Tested For Memory Conservation</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inactive-voice-over-on-microsofts-document-reader/"><u>Fixing Inactive Voice-Over on Microsoft's Document Reader</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-systemsettings-crashes-in-windows-11/"><u>Overcoming SystemSettings Crashes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-mending-windows-hello-fingerprint-issues/"><u>Quick Steps for Mending Windows Hello Fingerprint Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-wsl-a-guide-to-windows-linux-integration/"><u>Turn on WSL: A Guide to Windows' Linux Integration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-the-next-big-thing-your-guide-to-youtubes-best-video-types/"><u>[New] In 2024, Crafting the Next Big Thing  Your Guide to YouTube's Best Video Types</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-window-resolution-on-windows-11/"><u>Tailoring Window Resolution on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-edges-load-times-and-resource-use/"><u>Decreasing Edge's Load Times and Resource Use</u></a></li>
+<li><a href="https://win11.techidaily.com/top-benefits-of-windows-11-overtaking-macos/"><u>Top Benefits of Windows 11 Overtaking macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-reset-windows-11-search-bar-aesthetics/"><u>Method to Reset Windows 11 Search Bar Aesthetics</u></a></li>
+<li><a href="https://win11.techidaily.com/enliven-windows-11-desktop-a-step-by-step-guide-to-animated-walls/"><u>Enliven Windows 11 Desktop: A Step-by-Step Guide to Animated Walls</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-strategies-for-pinpointing-hardware-identification-in-windows/"><u>Advanced Strategies for Pinpointing Hardware Identification in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ai-assistance-in-development-an-introduction-to-microsoft-copilot/"><u>Leveraging AI Assistance in Development: An Introduction to Microsoft Copilot</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-windows-a-start-free-of-ads/"><u>Streamlined Windows: A Start Free of Ads</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cut-mov-videos-for-free-top-6-software-options/"><u>New 2024 Approved Cut MOV Videos for Free Top 6 Software Options</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-to-resolve-battlenet-login-on-pcs/"><u>Troubleshooting Steps to Resolve Battle.net Login on PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-free-top-chromebook-recording-software/"><u>[Updated] In 2024, Free Top Chromebook Recording Software</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-characters-on-windows-11-screen/"><u>Navigating the Characters on Windows 11 Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lava-yuva-2-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lava Yuva 2 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-dont-make-a-mistake-5-things-to-check-before-selecting-a-video-to-audio-converter/"><u>Updated 2024 Approved Dont Make a Mistake 5 Things to Check Before Selecting a Video to Audio Converter</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-in-window-systems-reliability-vs-performance/"><u>Bridging Gaps in Window Systems: Reliability Vs. Performance</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-hashtags-enhance-your-gaming-youtube-content-for-2024/"><u>Mastering Hashtags  Enhance Your Gaming YouTube Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-steps-to-initiate-system-restore-on-windows-11/"><u>Decoding the Steps to Initiate System Restore on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-win-lol-initial-load-issue/"><u>Resolving Win: LOL Initial Load Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-system-sounds-in-windows-11-by-activating-mixer-feature/"><u>Perfect System Sounds in Windows 11 by Activating Mixer Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/forecasting-with-finesse-windows-11s-prime-weather-tools/"><u>Forecasting with Finesse: Windows 11'S Prime Weather Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-to-try-connections-glitch-on-windows-pcs/"><u>Quick Fix to 'Try Connections' Glitch on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-virtualbox-usb-disconnect-issues-effectively-on-windows/"><u>Handling VirtualBox USB Disconnect Issues Effectively on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-gpu-memory-potential-in-windows-11-os/"><u>Maximizing GPU Memory Potential in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-default-heat-reduction-rules-in-winos/"><u>Reclaiming Default Heat Reduction Rules in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-isdonedll-isarcextract-failures/"><u>Overcoming Common ISDone.dll (ISArcExtract) Failures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-terranomes-uncovering-treasure-in-virtual-landscapes/"><u>In 2024, Top Terranomes  Uncovering Treasure in Virtual Landscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-window-11-dual-screen-usage/"><u>Perfecting Window 11 Dual Screen Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-win11-dns-client-service-adjustment/"><u>Essential Tips for Win11 DNS Client Service Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-disk-management-virtual-disk-hiccups/"><u>Rectifying Disk Management Virtual Disk Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/the-link-between-edge-and-irrelevant-taskers/"><u>The Link Between Edge and Irrelevant Taskers</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-users-with-precision-four-easy-techniques-on-win11/"><u>Disabling Users with Precision: Four Easy Techniques on Win11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Resolving Discord's Critical JS Error on Windows 10/11 Systems
-date: 2024-06-25T11:26:46.665Z
-updated: 2024-06-26T11:26:46.665Z
+date: 2024-07-13T10:00:45.950Z
+updated: 2024-07-14T10:00:45.950Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
 ## 1\. Run Discord With Admin Rights
 
- Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for[running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
+ Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for [running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
 
-1. Open this[Discord Enhancement Project](https://betterdiscord.app/) page.
+1. Open this [Discord Enhancement Project](https://betterdiscord.app/) page.
 2. Click the**Download v1.5.3** button.
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to go to the directory your browser downloads files to.
 4. Double-click the**BetterDiscord-Windows.exe** file.
@@ -62,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  The Javascript error can be due to missing or corrupted Discord modules. If the error message lists specific modules as the culprit for this error, reinstalling Discord will restore all its modules. You can reinstall Discord via Settings like this:
 
-1. Check out our guide for[how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
+1. Check out our guide for [how to open Apps & Features](https://www.makeuseof.com/9-ways-to-open-the-apps-features-tool-in-windows-11/) to bring up the uninstaller tool.
 2. Click the menu button on the right side of the Discord app listed in Apps & Features to select**Uninstall** .
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 5. Reboot your Windows PC before reinstalling the Discord software.
-6. Open up the[download page for Discord](https://discord.com/download) .
+6. Open up the [download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
 ## Start Chatting in Discord Again on Windows
 
- So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the[submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
+ So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the [submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,3 +131,44 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-moto-g73-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola Moto G73 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/guide-to-capturing-google-voice-chats-for-2024/"><u>Guide to Capturing Google Voice Chats for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-bifrost-betrayal-gods-at-war/"><u>[New] 2024 Approved  Bifrost Betrayal  Gods at War</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-volume-mixer-to-default-after-errors-occurred/"><u>Resetting Volume Mixer to Default After Errors Occurred</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-windows-clippy-with-compatibility-fixes/"><u>Revamp Windows Clippy with Compatibility Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-microsoft-office-365-fault-code-30015-26/"><u>Rectify Microsoft Office 365 Fault: Code 30015-26</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-setup-procedure-for-google-meet-users/"><u>[Updated] 2024 Approved  Setup Procedure for Google Meet Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-live-show-recordings-the-modern-way/"><u>[Updated] 2024 Approved  Mastering Live Show Recordings  The Modern Way</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-xbox-stranded-glitch-on-win11/"><u>Overcoming the Xbox Stranded Glitch on Win11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-art-of-online-recording/"><u>[New] 2024 Approved  The Art of Online Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[New] 2024 Approved  Capture Your Audience  The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/secrets-to-everlasting-deactivation-of-microsoft-defender/"><u>Secrets to Everlasting Deactivation of Microsoft Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sluggishness-fixing-edge-speed-woes-in-windows-10plus11/"><u>Overcoming Sluggishness: Fixing Edge Speed Woes in Windows 10+11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-error-740-on-winos/"><u>Mastering the Art of Correcting Error 740 on WINOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-maximize-storage-a-step-by-step-guide-to-clearing-space-for-fcpx/"><u>Updated Maximize Storage A Step-by-Step Guide to Clearing Space for FCPX</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-toolbar-in-microsoft-pc-manager-on-windows-11/"><u>How to Use the Toolbar in Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-screen-brilliance-adjustments-in-windows-11/"><u>Mastering Screen Brilliance Adjustments in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-exploring-the-depths-of-fraps-recorders/"><u>2024 Approved  Exploring the Depths of Fraps Recorders</u></a></li>
+<li><a href="https://win11.techidaily.com/running-task-manager-administrative-command-for-windows-11/"><u>Running Task Manager: Administrative Command for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/master-autominimize-windows-woes-no-more/"><u>Master AutoMinimize: Windows Woes No More</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-maximizing-vscos-potential/"><u>2024 Approved  Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ering-youtube-visibility-through-strategic-thumbnails-for-2024/"><u>Pioneering YouTube Visibility Through Strategic Thumbnails for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-clearly-write-exactly-using-whisper-in-windows/"><u>Speak Clearly, Write Exactly: Using Whisper in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-starting-windows-search-service-problems/"><u>Solutions for Starting Windows Search Service Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/severing-cloud-storage-bond-onedrive-from-your-microsoft-account-in-windows/"><u>Severing Cloud Storage Bond: OneDrive From Your Microsoft Account in Windows</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-savory-sensations-pioneers-of-online-cuisine-for-2024/"><u>[Updated] Savory Sensations  Pioneers of Online Cuisine for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tips-for-successful-video-game-broadcasting-for-2024/"><u>[Updated] Tips for Successful Video Game Broadcasting for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-mastering-ez-grabber/"><u>[Updated] 2024 Approved  Step-by-Step Guide  Mastering EZ Grabber</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-recycle-bin-disruptions-in-win-11-os/"><u>Remedying Recycle Bin Disruptions in Win 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-taskbar-visibility-when-browser-is-maximized/"><u>Restoring Taskbar Visibility When Browser Is Maximized</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-digital-doyens-guide-streaming-and-recording-mastery/"><u>[New] Digital Doyen’s Guide  Streaming and Recording Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-freezing-clicks-your-action-plan-for-windows/"><u>Mend Freezing Clicks: Your Action Plan for Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>[Updated] In 2024, Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-pc-to-recognize-razer-devices-again/"><u>How to Get Your PC to Recognize Razer Devices Again</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-incorporating-captions-into-instagrams-video-platform/"><u>In 2024, Incorporating Captions Into Instagram's Video Platform</u></a></li>
+</ul></div>
