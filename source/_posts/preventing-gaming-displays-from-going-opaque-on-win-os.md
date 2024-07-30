@@ -1,7 +1,7 @@
 ---
 title: Preventing Gaming Displays From Going Opaque on WIN OS
-date: 2024-07-13T09:48:33.524Z
-updated: 2024-07-14T09:48:33.524Z
+date: 2024-07-29T15:48:05.663Z
+updated: 2024-07-30T15:48:05.663Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Basic Checks to Troubleshoot the Black Screen Issue on Your PC
 
  If you experience the black screen issue on a laptop, you can skip this step and continue with the rest of the fixes. However, if you experience the problem on a PC, you should perform a few basic checks to ensure a loose connection or temporary display issue isn't to blame.
@@ -38,14 +41,23 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 * Only run one game at a time, especially if it is resource-intensive and heavily strains your hardware.
 * Outdated graphics card drivers can also cause display issues. Therefore, [update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) if they are out of date.
 * The Windows game mode aims to improve the gaming experience, but it can also give rise to unexpected issues. Disable game mode if it is currently enabled. To do that, type **"game mode"** in Windows Search, open the **Game Mode settings**, then toggle the **Game Mode** switch off.  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turn Off the Game Mode From Game Mode Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-turn-off-the-game-mode-from-game-mode-settings-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 3\. Check for Game-Specific Issues
 
  Does the black screen issue only occur when playing a particular game, and other games seem to work just fine? If so, ensure the game files aren't corrupted and the in-game settings are configured correctly. Repair the game files, update the game, lower the in-game resolution, and change other graphics settings to rule out game-specific issues.
 
  If these changes fail to resolve the issue, or if the problem persists with more than one game, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Monitor the Resource Usage During Gameplay
 
  Does the screen turning black issue only occur when playing resource-intensive games? If that's the case, one of your device's hardware components, especially the CPU or GPU, could be under high strain. To test this hypothesis, minimize the game right after launch, open Task Manager, and monitor CPU, GPU, and RAM resource consumption.
@@ -64,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  If overheating is the cause of the problem, follow the tips in our guide on [fixing an overheated Windows 11 computer](https://www.makeuseof.com/overheating-windows-11-computer/). If temperatures are within a normal range, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Turn Off the App Readiness Service
 
  On the [Lenovo discussion board](https://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series-Laptops/App-Readiness-Enabled-causing-5-minute-black-screens-before-booting/m-p/5141128), one user reported experiencing a five-minute black screen issue just seconds after booting up the system and disabling the App Readiness service resolved the issue for him. Having this service enabled has been associated with black screen issues for a long time, so disable it temporarily and see if it fixes the problem.
@@ -80,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  So, instead of permanently disabling the service, we recommend disabling it before your gaming session and enabling it when you're finished playing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Turn Off the Link State Power Management Setting
 
  Link State Power Management enables users to save power and prolong battery life. In some cases, enabling this setting can limit your device's power consumption, causing your screen to go black when you least expect it. To make sure that power saving is not the problem, follow the below steps:
@@ -109,3 +127,44 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transforming-traditional-markets-with-virtual-engineering/"><u>[New] 2024 Approved  Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>[New] In 2024, Avoiding Unauthorized Use  Mastering Photowatermarking on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-tips-to-master-camera-snap-in-zoom-calls/"><u>[New] In 2024, Expert Tips to Master Camera Snap in Zoom Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-fixes-to-fabricate-impactful-social-media-collage-posts/"><u>[New] Quick Fixes to Fabricate Impactful Social Media Collage Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unmatched-video-quality-leading-windows-phones-apps/"><u>[New] Unmatched Video Quality  Leading Windows Phones Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-making-your-mark-with-video-content-in-captivate/"><u>[Updated] 2024 Approved  Making Your Mark with Video Content in Captivate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-evaluating-dji-phantom-3s-advanced-capabilities-for-2024/"><u>[Updated] Evaluating DJI Phantom 3'S Advanced Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-find-friends-in-fandoms-forums/"><u>[Updated] Find Friends in Fandom's Forums</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-git-proficiency-with-github-desktop-on-windows-11/"><u>Boost Your Git Proficiency with Github Desktop on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-wsl-2-streamline-docker-usage/"><u>Boosting WSL 2: Streamline Docker Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/deciding-on-ideal-nvidia-drivers-gaming-vs-production-sector/"><u>Deciding on Ideal Nvidia Drivers: Gaming vs Production Sector</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-top-5-affordable-car-update-tools/"><u>Elevate Your Windows Experience with Top 5 Affordable Car Update Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-continuity-with-powertoys-settings-transfer/"><u>Ensuring Continuity with PowerToys Settings Transfer</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-sync-software-windows-and-android-unite/"><u>Essential Sync Software: Windows & Android Unite</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11s-foundation-a-deep-dive-into-its-registry/"><u>Exploring Windows 11'S Foundation: A Deep Dive Into Its Registry</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-g54-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola G54 5G Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-meetups-the-ultimate-friendly-list/"><u>In 2024, Metaverse Meetups  The Ultimate Friendly List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/innovative-ways-to-implement-b-roll-in-productions-for-2024/"><u>Innovative Ways to Implement B Roll in Productions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/locating-post-bsod-error-logs-in-windows-explorer/"><u>Locating Post-BSOD Error Logs in Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-0xc00000f-errors-in-windows-os/"><u>Navigating Through 0Xc00000f Errors in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-hurdles-of-reverting-folders-to-read-only/"><u>Overcoming the Hurdles of Reverting Folders to Read-Only</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-your-pcs-touchpad-gestures/"><u>Regaining Control Over Your PC's Touchpad Gestures</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-true-to-tech-avoiding-impostor-apps-on-windows-platform/"><u>Stay True to Tech: Avoiding Impostor Apps on Windows Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-the-email-fault-caused-by-0x800713f-on-win11/"><u>Steps to Solve the Email Fault Caused by 0X800713F on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-webcam-shutdown/"><u>Strategies for Overcoming Webcam Shutdown</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-cease-windows-11-alarms-and-notifications/"><u>Swiftly Cease Windows 11 Alarms and Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-incompatible-application-downloads-on-microsoft-store/"><u>Tackling Incompatible Application Downloads on Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-fix-wrongly-entered-characters-in-windows/"><u>Tips to Fix Wrongly Entered Characters in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-methods-for-eliminating-windows-errors/"><u>Top 8 Methods for Eliminating Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-ui-5-steps-toward-mac-os-aesthetics/"><u>Transforming Windows UI: 5 Steps Toward Mac OS Aesthetics</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-second-display-on-w11/"><u>Troubleshooting Missing Second Display on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-techniques-windows-sandbox-lacks-hyprocvisor/"><u>Troubleshooting Techniques: Windows Sandbox Lacks Hyprocvisor</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-install-errors-win11/"><u>Understanding and Correcting Windows Install Errors (Win11)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-xr-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone XR Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-windows-11-to-advanced-auditory-features-dolby-atmos/"><u>Upgrading Windows 11 to Advanced Auditory Features (Dolby Atmos)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-detailed-settings-app-tour/"><u>Windows 11: A Detailed Settings App Tour</u></a></li>
+</ul></div>

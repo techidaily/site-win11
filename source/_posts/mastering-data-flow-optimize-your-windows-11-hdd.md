@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Flow: Optimize Your Windows 11 HDD"
-date: 2024-07-13T09:44:18.256Z
-updated: 2024-07-14T09:44:18.256Z
+date: 2024-07-29T15:44:47.704Z
+updated: 2024-07-30T15:44:47.704Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  Defragging a drive reorganizes the fragmented data on it more efficiently by filling storage gaps. Doing so can boost a hard disk drive’s read-write speed since data is less spread out. This is how you can defrag a drive with Windows 11’s pre-installed defrag tools and the Defraggler software.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Defrag a Hard Drive With the Optimize Drives App
 
  Defragment and Optimize Drives is one of the defrag tools included with Windows 11\. That’s a slightly basic defrag tool compared with some third-party alternatives. However, Optimize drives will probably be sufficient for most users and does at least include scheduling settings. You can manually analyze and defrag a hard drive with that utility as follows:
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  To set a schedule for optimizing the C: drive, click the**Change settings** button. That will bring up an Optimize drive window that includes options with which you schedule automatic drive defragging. You may find the**Run on a schedule** checkbox there selected by default. However, select that setting if it’s not already enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Run on a schedule checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-on-a-schedule-checkbox.jpg)
 
  You can set the defrag frequency in the drop-down menu below that option. Click the**Frequency** drop-down menu to view its options. Then select**Daily** ,**Weekly** , or**Monthly** according to preference.
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 `defrag c: /a`
 5. Then defragment the C: drive by executing this command:  
 `defrag c:`  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  Entering that command displays a list of all parameters with explanations for them. You can input additional parameters to perform boot optimization, slab consolidation, retrim, and space consolidation operations. Look at the examples shown at the bottom of the list to see how to input defrag commands with parameters included.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
 ## How to Defrag a Hard Drive With Defraggler
@@ -77,15 +89,24 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ![The Install button for Defraggler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-button2.jpg)
 6. Click**Run Defraggler** in the Piriform window.
 7. Next, click the**Analyze** button to view a report with a fragmentation percentage figure.  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Defraggler tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-defraggler-tool.jpg)
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
 
  If you prefer to defrag a specific folder or file, click the**Actions** menu. Click either the**Defrag Folder** or**Defrag File** option there. Select a directory or file to optimize and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![The Action menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-action-menu.jpg)
 
  To set automatic drive optimization, click the**Settings** menu and select**Schedule** ; choose a drive in the drop-down menu and select**Schedule drive optimization for chosen volume** . Then choose one of the period options to configure according to preference. You can also select one of four optimization settings on the**Defrag type** drop-down menu. Click**OK** to set the schedule.
@@ -120,3 +141,38 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-creative-capture-uncovering-the-top-6-ways-to-document-minecraft-sessions-for-2024/"><u>[New] Creative Capture  Uncovering the Top 6 Ways to Document Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expertly-record-your-browser-adventures-with-top-5-capturers-for-2024/"><u>[New] Expertly Record Your Browser Adventures with Top 5 Capturers for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>[New] Step-by-Step  Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>2024 Approved  No Experience? No Obstacle  The Ultimate Guide to Profits on Reddit</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-magic5-ultimate-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Magic5 Ultimate Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unresponsive-grammarly-service-windows/"><u>Addressing Unresponsive Grammarly Service Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/bite-sized-biographical-look-for-2024/"><u>Bite-Sized Biographical Look for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-steam-efficiency-counteracting-zero-speed/"><u>Boosting Windows Steam Efficiency: Counteracting Zero-Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-alert-disabling-windows-edition-tips/"><u>Chrome Alert Disabling: Windows Edition Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-chromes-profiles-issues/"><u>Comprehensive Guide to Fixing Chrome's Profiles Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-faulty-m365-functionality-code-30015-26/"><u>Disabling Faulty M365 Functionality: Code 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-overcoming-frozen-dark-mode-on-pcs/"><u>Essential Tips: Overcoming Frozen Dark Mode on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsuccessful-attempts-to-connect-to-nvidia-geforce-in-windows-11/"><u>Fixing Unsuccessful Attempts to Connect to Nvidia GeForce in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-8t-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 8T 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-tvs-to-accompany-your-highest-rated-consoles/"><u>In 2024, Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/measuring-electrical-use-for-windows-pcs-effectively/"><u>Measuring Electrical Use for Windows PCs Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-shift-away-from-windows-xp-7-and-81-support/"><u>Navigating the Shift Away From Windows XP, 7 & 8.1 Support</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-in-windows-11-dissecting-update-wxxs-additions/"><u>New Horizons in Windows 11: Dissecting Update W.x.x's Additions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-empty-login-screen-dilemma-in-win1011/"><u>Overcoming the Empty Login Screen Dilemma in WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cleanup-close-multiple-windows-with-one-click/"><u>Quick Cleanup: Close Multiple Windows with One Click</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tweak-controlled-chromeedge-configurations-for-work-computers/"><u>Steps to Tweak Controlled Chrome/Edge Configurations for Work Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-travel-planning-apple-maps-and-windows/"><u>Streamlining Travel Planning: Apple Maps & Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-excessive-pc-resources-by-unrealcefsubprocess-in-windows/"><u>Tackling Excessive PC Resources by UnrealCEFSubprocess in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-tricks-for-mass-folder-creation-at-a-click-in-windows-oses/"><u>The Ultimate Tricks for Mass Folder Creation at a Click in Windows OSes</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/top-5-tiktok-voice-generators-you-should-try/"><u>Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-lost-dll-mfc71u-on-windows/"><u>Troubleshooting Lost DLL: Mfc71u on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-set-your-own-idle-screen-time/"><u>Windows: Set Your Own Idle Screen Time</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-tips-counteracting-camera-app-fails/"><u>Winning Tips: Counteracting Camera App Fails</u></a></li>
+</ul></div>

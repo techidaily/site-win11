@@ -1,7 +1,7 @@
 ---
 title: Steps to Eliminate Exception Breaking Point on Microsoft OS
-date: 2024-07-13T09:48:42.036Z
-updated: 2024-07-14T09:48:42.036Z
+date: 2024-07-29T15:48:12.235Z
+updated: 2024-07-30T15:48:12.235Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
  Issues with your system files, glitchy apps, memory leaks, and bad disk sectors are common contributing factors to this error. If you experience this error, here is a quick troubleshooting guide to help you fix the "the exception breakpoint has been reached" error on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Disable Any Automatic Startup Apps
 
  Apart from the essential Windows services, third-party apps enabled to run during startup can cause conflicts and cause problems. To determine the cause, disable all the automatic startup apps and restart your PC.
@@ -35,6 +38,9 @@ To disable startup apps on Windows:
 
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Run the System File Checker and the DISM Tools
 
  The Deployment Image Service Management (DISM) tool is a command-line utility that can find and fix issues with your Windows image. If your error is triggered by a corrupt system image, the DISM command can help you fix the error.
@@ -46,6 +52,9 @@ Follow these steps to run the DISM and System File Checker tools:
 1. Open Command Prompt as an administrator (see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you need help).
 2. In the Command Prompt window, type the following command to check your system health:  
 `Dism /Online /Cleanup-Image /CheckHealth`
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
 `Dism /Online /Cleanup-Image /ScanHealth`
@@ -73,6 +82,9 @@ To run the CHKDSK tool:
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Turn Off Any GPU Overclocking
 
  If the error is triggered while performing a graphic-intensive task (such as playing a game or rendering 3D models), it can be due to an overclocked GPU.
@@ -81,6 +93,9 @@ To run the CHKDSK tool:
 
  If you need help with overclocking, check out [the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 5\. Check for Memory Leaks
 
  The "the exception breakpoint has been reached" 0x80000003 can occur if your system fails to efficiently utilize the available memory resulting in a memory leak. Fortunately, Window comes with a built-in Memory Diagnostic Tool to check your computer for memory problems. Here's how to do it.
@@ -96,6 +111,9 @@ To run the CHKDSK tool:
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can [create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
@@ -113,6 +131,9 @@ To uninstall an application on Windows:
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 6. Click on**Uninstall** again to confirm the action.
@@ -142,3 +163,36 @@ To uninstall an application on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[New] 2024 Approved  Channel Combat  Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-reimagine-your-farm-in-stardew-valley-with-these-7-mods/"><u>[New] In 2024, Reimagine Your Farm in Stardew Valley with These 7 Mods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>[New] In 2024, Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-revamped-dialogue-strategies-for-engaging-podcasters/"><u>[New] Revamped Dialogue Strategies for Engaging Podcasters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-live-capture-review-discovering-obs-dominance/"><u>[Updated] 2024 Approved  Ultimate Live Capture Review  Discovering OBS Dominance</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>2024 Approved  Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-innovation-new-pcs-best-tools-from-msistore/"><u>Accelerated Innovation: New PC's Best Tools From MSIStore</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-distractions-mastering-wins-on-windows-11/"><u>Avoiding Distractions: Mastering Wins on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-wizardry-unmasking-your-ip/"><u>Command Prompt Wizardry: Unmasking Your IP</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-installs-time-mastering-grouped-deployments-with-winstall-on-windows-11/"><u>Cutting Down Installs Time: Mastering Grouped Deployments with Winstall on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-persistent-boot-related-windows-audio-failures/"><u>Eliminate Persistent Boot-Related Windows Audio Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-visual-experience-with-window-resolutions/"><u>Enhancing Your Visual Experience with Window Resolutions</u></a></li>
+<li><a href="https://win11.techidaily.com/from-software-to-functionality-ms-workspace-on-windows-1011/"><u>From Software to Functionality: MS Workspace on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resolving-error-x800704cf-on-windows-devices/"><u>Guide to Resolving Error X800704CF on Windows Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-essential-templates-and-makers-insights-for-end-credits/"><u>In 2024, Essential Templates & Makers' Insights for End Credits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-instagrams-visual-narratives-a-guide-for-prodigies/"><u>In 2024, Mastering Instagram's Visual Narratives  A Guide for Prodigies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v30-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V30 Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-system-top-tips-for-black-screen-on-win11/"><u>Jumpstart Your System: Top Tips for Black Screen on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-interruptions-during-steam-video-streaming/"><u>Preventing Interruptions During Steam Video Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-strategies-to-unlock-computer-management-interface/"><u>Proactive Strategies to Unlock Computer Management Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-setup-for-windows-11-install-craft-usb-in-just-three-ways/"><u>Rapid Setup for Windows 11 Install: Craft USB in Just Three Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-11-arm-installation-via-iso-download/"><u>Seamless Windows 11 ARM Installation via ISO Download</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-app-locations-in-windows-task-management/"><u>Secure App Locations in Windows Task Management</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrim-booster-issues-windows-repair-guide/"><u>Skyrim Booster Issues: Windows Repair Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-settings-error-in-nvidias-geforce-app-windows-11/"><u>Steps to Overcome 'Settings Error' In NVIDIA's GeForce App (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-zeroxc000003e-application-errors-in-win1011/"><u>Strategies to Tackle ZeroXc000003e Application Errors in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-notepad-to-dark-mode-on-windows-11plus/"><u>Switching Notepad to Dark Mode on Windows 11+</u></a></li>
+<li><a href="https://win11.techidaily.com/system-fixes-for-error-0x800700e1-in-windows-11/"><u>System Fixes for Error 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers-for-2024/"><u>The Ultimate VR Player Guide  Unveiling the Best PC Streamers for 2024</u></a></li>
+</ul></div>

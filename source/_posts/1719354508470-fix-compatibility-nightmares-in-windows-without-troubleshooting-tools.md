@@ -1,7 +1,7 @@
 ---
 title: Fix Compatibility Nightmares in Windows without Troubleshooting Tools.
-date: 2024-07-13T09:47:53.707Z
-updated: 2024-07-14T09:47:53.707Z
+date: 2024-07-29T15:47:34.225Z
+updated: 2024-07-30T15:47:34.225Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  If you're facing this issue, there are several possible causes and ways to fix it. Let's look into them below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 1\. Check For Corrupted System Files
 
  Corrupted system files can cause the Program Compatibility Troubleshooter not to work correctly. To ensure all your system files are functioning properly, run the built-in System File Checker utility on Windows. Here's how to do it:
@@ -27,17 +30,26 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 1. Right-click on**Start** and select**Run** from the menu list.
 2. Type**cmd** in the text box and press**Ctrl + Shift + Enter** on your keyboard.
 3. If UAC appears on the screen, click**Yes** to grant privileges.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. In Command Prompt type the below command and hit Enter:  
 `sfc /scannow`
 
  Wait for the scan to finish. This may take several minutes and your PC may restart once or twice during the process. Once the scan is completed, check if the Program Compatibility Troubleshooter works now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Repair Corrupted System Image
 
  If the System File Checker was unable to repair corrupt system files, you can use the DISM tool from Command Prompt to fix them. Here's how to do it:
 
 1. Use one of the many [ways to run Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) to get an elevated prompt running.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Run DISM Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dism-command.jpg)
 2. In Command Prompt, type the below command and hit**Enter** :  
 `DISM /Online /Cleanup-Image /RestoreHealth`
@@ -67,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  Now restart your PC and try running the Program Compatibility Troubleshooter again to see if it works.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 5\. Run the Troubleshooter in Safe Mode
 
  If you are still experiencing this issue, try running the Program Compatibility Troubleshooter in safe mode. This will help you troubleshoot any compatibility issues more effectively.
@@ -80,6 +95,9 @@ To do this, follow the below steps:
 
  If all else fails, you can try [resetting Windows to its default settings](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will reinstall Windows and get rid of any potential issues that may be causing the troubleshooter to not work.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Fixing Program Compatibility Troubleshooter Problems on Windows
 
  If the Program Compatibility Troubleshooter is not working on your computer, read this guide. The steps here will help you fix this issue and have the tool working and running again.
@@ -103,3 +121,68 @@ To do this, follow the below steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-redirect-mac-images-to-custom-folder/"><u>[New] 2024 Approved  Redirect Mac Images to Custom Folder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seamless-social-media-experience-with-fb-videos/"><u>[New] 2024 Approved  Seamless Social Media Experience with FB Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay/"><u>[New] In 2024, Capturing the Heart of Sims  Innovative Techniques for Recording Realistic Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-the-art-of-self-presentation-in-facebook-bios/"><u>[New] In 2024, Mastering the Art of Self-Presentation in Facebook Bios</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-your-sound-with-the-compreenas-complete-morphvox-guidebook/"><u>[New] Mastering Your Sound with the Compreenas Complete MorphVOX Guidebook</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-tricks-faster-video-loading/"><u>[New] TikTok Tricks  Faster Video Loading</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-fb-top-8-free-downloader-tools-for-2024/"><u>[New] Unlocking FB  Top 8 Free Downloader Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-visual-clarity-for-the-new-digital-age/"><u>[New] Unraveling Visual Clarity for the New Digital Age</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-beginners-path-to-compiling-a-youtube-playlist/"><u>[Updated] In 2024, A Beginner's Path to Compiling a YouTube Playlist</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-effective-obs-transitions-to-facebook-live/"><u>[Updated] In 2024, Effective OBS Transitions to Facebook Live</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-instagram-story-layering-a-visual-journey/"><u>[Updated] In 2024, The Art of Instagram Story Layering  A Visual Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clearing-up-tips-for-preventing-gopro-haze/"><u>2024 Approved  Clearing Up  Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reviewing-microsofts-hololens-step-into-the-future/"><u>2024 Approved  Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-steam-efficiency-counteracting-zero-speed/"><u>Boosting Windows Steam Efficiency: Counteracting Zero-Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-installation-obstacles-for-app-removal-in-windows-11/"><u>Bypassing Installation Obstacles for App Removal in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-chromes-profiles-issues/"><u>Comprehensive Guide to Fixing Chrome's Profiles Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-faulty-m365-functionality-code-30015-26/"><u>Disabling Faulty M365 Functionality: Code 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-diverse-windows-operations-to-start-software/"><u>Discovering Diverse Windows Operations to Start Software</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-transferable-operation-relocating-your-torrent-software/"><u>Enabling Transferable Operation: Relocating Your Torrent Software</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhance-video-speed-in-minutes-on-tiktok-filming-for-2024/"><u>Enhance Video Speed in Minutes on TikTok Filming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-responsiveness-of-the-windows-downloads-hub/"><u>Enhancing Responsiveness of the Windows Downloads Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-avoiding-the-most-common-windows-11-missteps/"><u>Essential Insights: Avoiding the Most Common Windows 11 Missteps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expertly-designed-batteries-for-gopro-hero5-black/"><u>Expertly Designed Batteries for GoPro Hero5 Black</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsuccessful-attempts-to-connect-to-nvidia-geforce-in-windows-11/"><u>Fixing Unsuccessful Attempts to Connect to Nvidia GeForce in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-windows-11s-netstat-power-for-traffic-observation/"><u>Harness Windows 11'S Netstat Power for Traffic Observation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-elevate-taskmanager-with-a-new-cli-tab-windows-11/"><u>How to Elevate TaskManager with a New CLI Tab (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-yellow-tint-on-a-windows-laptop-screen/"><u>How to Fix a Yellow Tint on a Windows Laptop Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-k70-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi K70 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme GT 5 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-x-flip-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo X Flip Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-vr-gear-for-drone-operators/"><u>In 2024, Leading VR Gear for Drone Operators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a18-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A18 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-windows-hello-for-fingerprint-recognition/"><u>Introduction to Windows Hello for Fingerprint Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-resemble-macos-with-these-5-simple-changes/"><u>Make Windows Resemble MacOS with These 5 Simple Changes</u></a></li>
+<li><a href="https://win11.techidaily.com/measuring-electrical-use-for-windows-pcs-effectively/"><u>Measuring Electrical Use for Windows PCs Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-correct-office-365-problem-code-30015-26/"><u>Methods to Correct Office 365 Problem Code 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-shift-away-from-windows-xp-7-and-81-support/"><u>Navigating the Shift Away From Windows XP, 7 & 8.1 Support</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-empty-login-screen-dilemma-in-win1011/"><u>Overcoming the Empty Login Screen Dilemma in WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/rebuilding-with-purpose-windows-11-from-scratch/"><u>Rebuilding with Purpose: Windows 11 From Scratch</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-0x80072efd-on-windows-devices/"><u>Remedying Error 0X80072EFD on Windows Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6s-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6s Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-non-functional-xbox-controller/"><u>Reviving Your Non-Functional Xbox Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/shaping-the-user-experience-with-wins-console/"><u>Shaping the User Experience with Win’s Console</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-accessing-windows-pre-launch-settings/"><u>Step-by-Step: Accessing Windows' Pre-Launch Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-savings-for-cloud-storage-costs-analysis/"><u>Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-travel-planning-apple-maps-and-windows/"><u>Streamlining Travel Planning: Apple Maps & Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-hackers-way-fast-uninstall-of-win-system-drivers/"><u>The Hacker's Way: Fast Uninstall of Win System Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-most-reliable-windows-photo-organizer-list/"><u>The Most Reliable Windows Photo Organizer List</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-tricks-for-mass-folder-creation-at-a-click-in-windows-oses/"><u>The Ultimate Tricks for Mass Folder Creation at a Click in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-lost-dll-mfc71u-on-windows/"><u>Troubleshooting Lost DLL: Mfc71u on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-windows-traditional-explore-view/"><u>Unleashing Windows' Traditional Explore View</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-8-plus-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8 Plus lock with Apple ID</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-vmstart-fixes-to-avoid-errors-in-windows-11/"><u>Unlocking Your VMstart: Fixes to Avoid Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-reset-limit-after-unsuccessful-authentication-in-windows-1011/"><u>Updating Reset Limit After Unsuccessful Authentication in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-image-enlargement-and-reduction-the-top-six-methods/"><u>Windows 11 Image Enlargement and Reduction – The Top Six Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-set-your-own-idle-screen-time/"><u>Windows: Set Your Own Idle Screen Time</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>YouTube Copyrights Demystified  Understanding and Managing Strikes</u></a></li>
+</ul></div>

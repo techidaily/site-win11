@@ -1,0 +1,142 @@
+---
+title: Choosing Between Google's and Windows' Nearby File Transfers
+date: 2024-07-29T15:52:33.082Z
+updated: 2024-07-30T15:52:33.082Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Choosing Between Google's and Windows' Nearby File Transfers
+excerpt: This Article Describes Choosing Between Google's and Windows' Nearby File Transfers
+keywords: Google Nearby Share,Windows Transfer App,Mobile Device Sync,Cloud Data Exchange,Local Network Sharing,OS File Transfer Compare,Quick Data Transfer Methods
+thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d6070583d2a1a451841876e1401.jpg
+---
+
+## Choosing Between Google's and Windows' Nearby File Transfers
+
+ Google launched Nearby Share Beta in April 2023\. It was once exclusive to Android phones but is now also available for Windows 10 and 11\. You can use it to transfer data wirelessly from your Android phone in a jiffy. While there are multiple other options including Intel Unison to control your phone wirelessly, Google Nearby Share only focuses on file sharing.
+
+ However, Windows already has its Nearby Sharing feature in the Settings app. So, why do you need Google Nearby Sharing? Are these features identical? We understand your confusion and will elaborate on these features and compare them.
+
+## What Is Windows Nearby Sharing?
+
+[Windows Nearby Sharing](http://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) is a feature available in both Windows 10 and 11 that allows you to share files between two Windows devices. You can send media files, documents, and even URL links to other nearby available devices. The URL trick works only in the Edge browser, so it is a subtle nudge to switch to it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![WIndows Nearby Sharing in File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-nearby-sharing-in-file-manager.jpg)
+
+## What Is Google Nearby Share?
+
+ The feature name sounds almost identical to Windows’ Nearby Sharing, but it's not designed by Microsoft. Google Nearby Share was previously featured in Android phones and offered a means to share files to a nearby Android device. However, you need to own a device with Android 6.0 or higher.
+
+![Google Nearby Share app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-nearby-share-app-in-windows-11.jpg)
+
+ But Google recently [expanded the feature to the Windows operating](https://www.makeuseof.com/googles-nearby-share-android-windows/) system too. It is in the beta phase and will likely follow a public rollout. Like Windows Nearby Sharing, it also uses Bluetooth and Wi-Fi to establish connections and transfer files. But it is natively available in Android while you have to install the app on your Windows device. However, you cannot share links.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## What Is the Difference Between Google Nearby Share and Windows Nearby Sharing?
+
+ Despite being different apps, both of these have a common goal: file sharing. However, here are a few differences that will give you a clear picture of what each one is capable of.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+### 1\. Availability
+
+ Google Nearby Share is natively available on Android devices. You don’t need to install it manually and can find it in the device settings or notification section. But you will have to download, install, and set up the Google Nearby Share app on your Windows 10 or 11 PC.
+
+ Windows Nearby Sharing is natively available on Windows 10 and 11\. But unlike Google Nearby Sharing, it doesn’t have an Android counterpart to facilitate the data transfer between these devices. Microsoft currently confines it to transfer files between two Windows devices only and there’s no way around it.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Hardware Requirements
+
+ For Google Nearby Share, you will need an Android device running Android 6.0 (Marshmallow) version or higher with Bluetooth and Wi-Fi. However, if you want to use it on a Windows device, it must be running the latest 64-bit version of Windows 11 or 10\.
+
+ If you have a Windows 10 device, update it to build 22H2\. [Windows 10 will retire in 2025](https://www.makeuseof.com/windows-10-last-version-end-of-support/), but you can use Google Nearby Share until Google ends its support. This wireless file-sharing feature won’t work on ARM devices.
+
+ Window Nearby Sharing has a similar requirement, but you don’t need to turn on the location. All you need is a Windows 10 or 11 PC with the latest installed updates, Wi-Fi, and Bluetooth with BLE support. However, it won’t work with an Android device. You can only share data between the two Windows PCs.
+
+### 3\. File Sharing Experience
+
+ Both apps have a similar file-sharing experience. When you share a file using Google Nearby Share, it first uses Wi-Fi, Bluetooth, and location permissions. But it turns off Bluetooth after the pairing request and [uses Wi-Fi to transfer files](https://www.makeuseof.com/tag/wifi-direct-vs-bluetooth-use-sharing-data-windows-8/) which is faster.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![Google Nearby Share app file transfer speed in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-nearby-share-app-file-transfer-speed-in-windows-11.jpg)
+
+ However, if you keep your Network connection public in Windows Nearby Sharing, it uses Bluetooth to transfer files and that process is painstakingly slow. So, switch to a Private network profile on both PCs, and then it will use the maximum bandwidth available in your Wi-Fi connection.
+
+ In addition, you can use other apps to send photos and links after you establish a convention with other Windows PC.
+
+![Sharing Link in Edge Browser using Windows Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sharing-link-in-edge-browser-using-windows-nearby-sharing.jpg)
+
+## Which One Should You Use?
+
+ In our experience, the transfer speeds were quite similar in both file-sharing app implementations. Google’s Nearby Share uses an encrypted connection to share files and works on both Windows and Android. But you can use Windows Nearby Sharing only with two PCs in the same room.
+
+ Both are free to use and offer decent file transfer speeds considering the use of wireless technology. However, both are inadequate in offering ubiquitous connectivity to all the devices in the Windows-Android ecosystem.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Enjoy Wireless File Transfer With These Apps
+
+ You can use Google Nearby Share to exchange files between your Windows PC and Android phone. For PC-to-PC wireless file transfer, use Windows Nearby Sharing. If you want to control your phone wirelessly (make calls, access, and reply to notifications), the Intel Unison app is a better app with an inbuilt file-sharing feature.
+
+ However, Windows already has its Nearby Sharing feature in the Settings app. So, why do you need Google Nearby Sharing? Are these features identical? We understand your confusion and will elaborate on these features and compare them.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamlinedwebcamtechniqueinstruction/"><u>[New] 2024 Approved  StreamlinedWebCamTechniqueInstruction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-summit-build-lab-examination/"><u>[New] Summit Build Lab Examination</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-change-background-on-teams/"><u>[Updated] How to Change Background on Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-open-the-system-information-tool-on-windows/"><u>10 Ways to Open the System Information Tool on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-breakthrough-social-media-moves-sharing-youtube-videos-to-fb/"><u>2024 Approved  Breakthrough Social Media Moves  Sharing YouTube Videos to FB</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>2024 Approved  Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s18e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S18e</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-disk-usage-errors-in-modern-windows-os/"><u>Circumventing Disk Usage Errors in Modern Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-and-personalizing-win11s-default-screen-saver/"><u>Configuring and Personalizing Win11's Default Screen Saver</u></a></li>
+<li><a href="https://win11.techidaily.com/critical-guide-restoring-lost-logins-in-windows-11/"><u>Critical Guide: Restoring Lost Logins in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-lost-files-restore-with-smart-windows-11-fixes/"><u>Dxgi.dll Lost Files? Restore with Smart Windows 11 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-organize-your-pcenas-7-prime-windows-photos-tools/"><u>Effortlessly Organize Your PC'enas: 7 Prime Windows Photos Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-channel-ranking-with-these-11-seo-secrets-for-2024/"><u>Elevate Your Channel Ranking with These 11 SEO Secrets for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fast-video-capture-and-guided-narration-tool/"><u>Fast Video Capture & Guided Narration Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-an-overheating-windows-laptop-when-gaming/"><u>How to Fix an Overheating Windows Laptop When Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-11-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-12-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 12 Fingerprint Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-xiaomi-civi-3-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Xiaomi Civi 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/investigating-windows-n-editions-for-business-purposes/"><u>Investigating Windows N Editions: For Business Purposes</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-on-mac-via-parallels/"><u>Mastering Windows 11 on Mac via Parallels</u></a></li>
+<li><a href="https://win11.techidaily.com/1719302097899-opera-on-windows-end-the-stalling-spectacle-now/"><u>Opera on Windows: End the Stalling Spectacle Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-nvidia-settings-failure-to-save/"><u>Overcoming NVIDIA Settings Failure to Save</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pinpointed-and-rectified-screen-flicker-on-laptops/"><u>Pinpointed and Rectified Screen Flicker on Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-fixing-unsupported-devices-warning/"><u>Quick Guide: Fixing Unsupported Devices Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-display-technology-an-in-depth-exploration-of-windows-11s-hdr/"><u>Reimagining Display Technology: An In-Depth Exploration of Windows 11'S HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-prime-audiosubtitle-malfunctions-on-windows-11-systems/"><u>Resolve Prime Audio/Subtitle Malfunctions on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-compatibility-of-brightness-controls-via-fn-key-win-11/"><u>Restoring Compatibility of Brightness Controls via Fn Key Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-windows-audioscape-via-driver-update-steps/"><u>Revamping Windows Audioscape via Driver Update Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-windows-update-failure-code-xc004f050/"><u>Reverse Windows Update Failure Code XC004F050</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-dormant-services-console-a-list-of-7-restoration-techniques/"><u>Reviving a Dormant Services Console: A List of 7 Restoration Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/roblox-error-403-resolving-access-denied-in-win/"><u>Roblox Error 403: Resolving Access Denied in Win</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-windows-1110s-d3d11-gpu-woes-to-fixable-errors/"><u>Simplifying Windows 11/10'S D3D11 GPU Woes to Fixable Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-alter-mouse-trail-and-size-on-win11/"><u>Step-by-Step: Alter Mouse Trail & Size on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-vds-failures-head-on/"><u>Tackling Windows VDS Failures Head-On</u></a></li>
+<li><a href="https://win11.techidaily.com/three-simplified-steps-for-customizing-win11-ui/"><u>Three Simplified Steps for Customizing Win11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-pc-mysteries-a-step-by-step-guide-to-error-code-management-in-command-prompt/"><u>Unraveling PC Mysteries: A Step-by-Step Guide to Error Code Management in Command Prompt</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

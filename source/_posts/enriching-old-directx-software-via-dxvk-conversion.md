@@ -1,7 +1,7 @@
 ---
 title: Enriching Old DirectX Software via DXVK Conversion
-date: 2024-07-13T09:46:12.867Z
-updated: 2024-07-14T09:46:12.867Z
+date: 2024-07-29T15:46:14.800Z
+updated: 2024-07-30T15:46:14.800Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  Would you like better compatibility and, more importantly, performance for your apps and games? Then you need to try out DXVK.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Problem With DirectX on Windows
 
  Microsoft created DirectX as a "unified solution" that helped programmers use any PC's hardware capabilities. Instead of writing different code for each hardware part, software developers could "target" DirectX's DirectDraw (2D graphics), Direct3D (hardware-accelerated 3D), and DirectSound (audio) libraries. Then, let Microsoft's solution "translate" their code to "the native language" of each hardware part.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  Microsoft, and the creators of GPUs that support the Direct3D API (as in "Nvidia, AMD, and Intel"), have occasionally dropped support for features introduced in past versions of Direct3D but which never gained traction. Thus, some older games might fail to run correctly on a modern GPU with the newest versions of Direct3D.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Vulkan?
 
  Supposedly a more "open" answer to Microsoft's closed-source Direct3D, OpenGL was a mutated version of the 3D graphics libraries used in Silicon Graphics' graphics workstations.
@@ -62,12 +68,18 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  It's probably easier if we go through the whole process together to see how you can download the latest version of DXVK, identify your game's "tech", and install the correct DLLs in the proper folder.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Download DXVK
 
  DXVK is open-source software and free to use. You can find its latest version on GitHub.
 
 1. Visit DXVK's [official GitHub page](https://GitHub.com/doitsujin/dxvk) and click on the **Latest** version link on the right of the page, under **Releases**.
 2. Scroll down on the releases page and find the **Assets** section of the latest version. Click on the latest DXVK tar.gz archive to download it. At the time of writing, it was version 2.2.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DXVK Latest Release Asset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-latest-release-asset-1.jpg)
 3. Store the downloaded archive somewhere, for you will need to extract its contents to the folder of every game you want to run with DXVK instead of Direct3D.
 
@@ -86,22 +98,34 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 1. Open the DXVK archive with your favorite archive manager (for this article, we're using WinRAR), and enter the single DXVK folder you'll see there.  
 ![DXVK Folder Within Archive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-folder-within-archive-1.jpg)
 2. Inside, you'll find two subfolders, one for each computer architecture. Enter the correct one for your game. Even if your OS is 64-bit, like most versions of Windows today, if your game is 32-bit, you should go for the 32-bit folder.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DXVK 32 bit and 64 bit folders within archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-32-bit-and-64-bit-folders-within-archive-1.jpg)
 3. Select the **DXGI.DLL** plus the correct DLL for the version of **Direct3D** your game is using. As you will see, there are three more DLLs, one for each of the previous versions of Direct3D: 9, 10, and 11.  
 ![DXVK DLLs Within Archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dxvk-dlls-within-archive-1.jpg)
 4. Find the local folder where your game is installed and locate the subfolder with its executable ("the file from which the game runs"). Extract the DLLs from the previous step to this folder.  
 ![Extracting DXVK DLLs To Game Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracting-dxvk-dlls-to-game-directory-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Test and Benchmark Your Enhanced Game
 
  If you run your game now, it should use Vulkan instead of Direct3D and hopefully perform better.
 
  Even if you don't see any dramatic changes in frame rates, sometimes the improvements can be "felt" in other ways. For example, we tried DXVK with the classic Batman: Arkham City on a PC equipped with a Ryzen 5900x, 64GBs of RAM, and an Nvidia RTX 3070 GPU. Our hardware was already over this old game's top specs, achieving very high frame rates. Even if they got higher with Vulkan, the difference wouldn't be easily perceivable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Arkham-City-Instant-Transitions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arkham-city-instant-transitions.jpg)
 
  However, the game's action felt smoother. Transitions between screens, loading levels, and pressing Alt + Tab were almost instant with DXVK.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When You Should Not Use DXVK
 
  DXVK has many benefits and can bring the performance of older games into the modern era. Despite this, it's not a silver bullet for improved performance, and sometimes it's just not worth using it.
@@ -116,12 +140,27 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  Did a game's performance tank or visual glitches appear after adding DXVK? Exit the game and delete the DXVK's DLLs from its directory.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. You Want to Play Your Game Online
 
  DXVK is a compatibility layer and only affects the graphic output of a game. Still, some companies are against any modification of their games to ensure a fair environment for everyone.
 
  DXVK might not be "cheating", but it's still a "game modification", and could get flagged as such.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. The Game Already Has Built-In Vulkan Support
 
  If a game already uses the Vulkan API, like Doom Eternal, there's no reason to set its output to Direct3D to then translate it to Vulkan.
@@ -130,6 +169,9 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  Since Direct3D 12 is almost fully on par with Vulkan, there's nothing to gain by translating one ultra-modern graphics API to another one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhance Your Old Games With "Translated" 3D on Windows
 
  What started as a way to play more Windows-bound games on Linux, ended up becoming a useful compatibility solution and performance booster. So, keep a recent archive of DXVK's DLLs handy. Add them to any game where you'd like to eliminate glitches, improve its performance, get smoother in-game action, and improve its responsiveness.
@@ -147,3 +189,60 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-quick-launch-to-laughter-ifunnys-meme-app-made-simple/"><u>[New] Quick Launch to Laughter  IFunny's Meme App Made Simple</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-youtube-video-archiving-made-simple/"><u>[Updated] 2024 Approved  YouTube Video Archiving Made Simple</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming-for-2024/"><u>[Updated] A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-mobile-editing-apps-for-dji-videos/"><u>[Updated] Best Mobile Editing Apps for DJI Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pro-tips-for-capturing-stunning-igtv-content-on-mobile-and-dslr/"><u>[Updated] In 2024, Pro Tips for Capturing Stunning IGTV Content on Mobile & DSLR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio-for-2024/"><u>[Updated] The Art of Customizing Windows Photos App  Intertwining Visuals & Audio for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/11-different-ways-to-uninstall-software-in-windows-11/"><u>11 Different Ways to Uninstall Software in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-enable-telnet-in-windows-11-and-11/"><u>3 Ways to Enable Telnet in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-open-the-startup-repair-tool-on-windows/"><u>5 Ways to Open the Startup Repair Tool on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/"><u>6 Ways to Fix the Windows 11 Mail App When It Shows HTML Code for Emails</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-to-fix-keyboard-shortcuts-not-working-in-windows/"><u>9 Ways to Fix Keyboard Shortcuts Not Working in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreayers-guide-to-top-windows-compatible-file-sharing-software/"><u>A Compreayer's Guide to Top Windows-Compatible File Sharing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deeper-dive-into-your-computer-writes-mouse-secrets-of-windows-11/"><u>A Deeper Dive Into Your Computer' Writes: Mouse Secrets of Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed-for-2024/"><u>A Picture's Worth a Thousand Dollars Online  Top Photo Cloud Services Reviewed for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-gt-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme GT 3</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-deleting-files-without-a-click-in-windows/"><u>A Step-by-Step Guide to Deleting Files Without a Click in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-network-drives-through-explorer-pane/"><u>Accessing Network Drives Through Explorer Pane</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-prints-with-microsofts-shielded-browsing/"><u>Activating Prints with Microsoft's Shielded Browsing</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-not-sufficient-usb-issue-in-windows/"><u>Addressing “Not Sufficient USB” Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-0x800704b3-network-hurdles-in-win1011/"><u>Addressing 0X800704B3 Network Hurdles in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-incorrect-profile-errors-windows-1011-guide/"><u>Addressing Incorrect Profile Errors: Windows 10/11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-strategies-for-extending-shutdown-duration-in-windows-10/"><u>Advanced Strategies for Extending Shutdown Duration in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-managing-packages-via-winget-on-win11/"><u>Advanced Techniques for Managing Packages via Winget on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-visual-angle-in-windows-configuration/"><u>Altering Visual Angle in Windows Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/assisting-users-with-erratic-swipes-on-windows-systems/"><u>Assisting Users with Erratic Swipes on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/automating-printer-removal-on-win11-devices/"><u>Automating Printer Removal on Win11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-mismatch-of-speaker-assignment-due-to-another-app/"><u>Avoiding Mismatch of Speaker Assignment Due to Another App</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-remote-procedure-call-mishaps-in-windows/"><u>Avoiding Remote Procedure Call Mishaps in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-already-in-use-errors-and-unique-device-naming/"><u>Banish 'Already in Use' Errors and Unique Device Naming</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-flickering-screens-a-windows-11-guide/"><u>Banish Flickering Screens: A Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlock-less-windows-defense-tactics-4-suggestions/"><u>BitLock-Less Windows Defense Tactics: 4 Suggestions</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlocker-less-protection-4-effective-methods-for-win-users/"><u>BitLocker-Less Protection: 4 Effective Methods for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/blending-email-services-adding-gmail-to-the-outlook-app-in-windows/"><u>Blending Email Services: Adding Gmail to the Outlook App in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-file-navigation-use-box-for-selection-in-win11/"><u>Boost File Navigation: Use Box for Selection in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-utorrents-windows-download-speed/"><u>Boosting uTorrent's Windows Download Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-application-launch-descriptors/"><u>Breaking Down Application Launch Descriptors</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-windows-passwords-the-11-easiest-ways-to-open-credential-manager/"><u>Breaking Into Windows Passwords: The 11 Easiest Ways to Open Credential Manager</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719261545557-eliminate-roblox-error-262-in-minutes/"><u>Eliminate Roblox Error 262 in Minutes</u></a></li>
+<li><a href="https://win11.techidaily.com/1719362972502-enhance-printer-functionality-in-windows-11-today/"><u>Enhance Printer Functionality in Windows 11 Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719296331398-fixes-for-inadequate-screen-shots-in-windows-snip-and-sketch-app/"><u>Fixes for Inadequate Screen Shots in Windows’ Snip & Sketch App.</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v29e-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y02t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y02T</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mr-beasts-monetary-milestones/"><u>In 2024, Mr. Beast’s Monetary Milestones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-v27-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo V27 Pro Phone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-gopro-footage-quick-and-easy-video-editing-on-macbook/"><u>New Transform Your GoPro Footage Quick and Easy Video Editing on MacBook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/playcapture-pro-your-own-screen-recorder-free-for-2024/"><u>PlayCapture Pro  Your Own Screen Recorder, Free for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719330298923-self-host-your-local-free-windows-based-chatgpt-clone-using-gpt4all/"><u>Self-Host Your Local, FREE Windows-Based ChatGPT Clone Using GPT4All.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719339382074-unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-fin/"><u>Updated In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
+</ul></div>

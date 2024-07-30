@@ -1,0 +1,188 @@
+---
+title: Circumventing Verification Failures when Downloading Apps
+date: 2024-07-29T15:52:25.776Z
+updated: 2024-07-30T15:52:25.776Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Circumventing Verification Failures when Downloading Apps
+excerpt: This Article Describes Circumventing Verification Failures when Downloading Apps
+keywords: Download App Verification,Avoid Download Fail,App Setup Bypass,Easy App Install,Safe App Acquisition,Secure App Procurement,No-Fail App Grab
+thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1628ff4b17b2024d943bf02d.jpg
+---
+
+## Circumventing Verification Failures when Downloading Apps
+
+ Have you encountered the error"the app you're trying to install isn't a Microsoft-verified app"while installing an app? The error occurs if you have configured your system to only install apps from the Microsoft Store. You could have set this permission on purpose, or it might have been set by default.
+
+ Other than that, a corrupted Microsoft Store cache, installing an app from an unofficial source, and enabling Windows S mode can also cause the error. Below, you will find a few checks and fixes you should apply to resolve the error and install the app successfully.
+
+## 1\. Install the App From the Microsoft Store
+
+ Considering you get the error when downloading apps outside the Microsoft Store, it makes sense to first check if the same app is available there. If the app is available, you can download it from there, and there won't be any need to go through advanced troubleshooting.
+
+ Therefore, [open the Microsoft Store](https://www.makeuseof.com/windows-open-microsoft-store/) and search for the app. If you find the app in the store, click the **Get** button to install it. However, if the app isn't available in the store and can only be downloaded from another source, ensure it is safe to download.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## 2\. Make Sure the App You're Downloading Is Safe
+
+ Microsoft doesn't allow untrusted publishers to list their apps on the Microsoft Store. If you haven't found the app on the store, it could be unsafe and infect your computer. Thus, ensure that the app you want to download is secure before downloading.
+
+ To determine if an app is safe, copy its download link and paste it into [VirusTotal's URL search box](https://www.virustotal.com/gui/home/url). After that, press **Enter**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Check the Authenticity of a Software by Entering its URL in VirusTotal’s Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-check-the-authenticity-of-a-software-by-entering-its-url-in-virustotal-s-official-website.jpg)
+
+ If the scanner doesn't find any problems with the download link, it's probably safe. After ensuring that, you can apply the remaining fixes to enable app installation outside the store.
+
+## 3\. Change the Operating System App Settings
+
+ Microsoft cares about the safety and security of its Windows users. To facilitate that, Windows offers a feature that blocks the installation of apps outside the Microsoft Store. The downside of enabling this feature is that it prevents users from installing popular and safe applications from the web.
+
+ When users try to install an app with this restriction turned on, Windows will likely display an error message saying that the app isn't a Microsoft-verified app. Therefore, to avoid encountering the error described above, you should allow Windows to install apps outside the Microsoft Store.
+
+ To modify the app permissions on Windows 10, follow the steps below:
+
+1. Open the **Settings** app.
+2. Open **Apps** settings and select **Apps and Features** from the left sidebar.
+3. Select **Anywhere** from the dropdown menu under **Choose where to get apps**.
+
+ To modify app permissions on Windows 11, open the **Settings** app, select the **Apps** tab, and then go to **Advanced app settings**.
+
+![Go to Advanced Apps Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-go-to-advanced-apps-settings-in-windows-settings-app.jpg)
+
+ Select **Anywhere** from the dropdown menu next to **Choose where to get apps**.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Select Anywhere From the Dropdown Menu Next to Choose Where to Get Apps Option in Apps Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-anywhere-from-the-dropdown-menu-next-to-choose-where-to-get-apps-option-in-apps-settings-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## 4\. Turn Off the App Install Control Policy
+
+ The App Install Control is a Microsoft Defender SmartScreen feature that prevents users from installing apps outside the Microsoft Store. It does this to prevent users from infecting their devices with third-party applications.
+
+ Therefore, you should turn off this feature to remove any restrictions. To turn it off, follow these steps:
+
+1. Open the Local Group Policy Editor. To do this, check out[how to open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) if you're not using Windows Home edition, and learn [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) if you are.
+2. Navigate to **Computer Configuration > Administrative Templates > Windows Components > Windows Defender SmartScreen > Explorer**.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![Go to Explorer Folder by Navigating to the Path in Windows Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-go-to-explorer-folder-by-navigating-to-the-path-in-windows-local-group-policy-editor.jpg)
+3. Open the policy for **Configure App Install Control**.
+4. Select **Disabled** to turn off this feature.  
+![Disable the Policy for Configure App Install Control in Windows Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-the-policy-for-configure-app-install-control-in-windows-local-group-policy-editor.jpg)
+
+## 5\. Change the App Install Control Permission in the Registry Editor
+
+ To modify the App Install Control permissions via the Registry Editor, follow the below steps:
+
+1. Open the Registry Editor.
+2. Navigate to **HKEY\_LOCAL\_MACHINE > SOFTWARE > Microsoft > Windows > CurrentVersion > Explorer**.  
+![Go to Explorer Folder by Navigating to the Path in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-go-to-explorer-folder-by-navigating-to-the-path-in-windows-registry-editor.jpg)
+3. Right-click on **Explorer** and select **New > String value**.  
+![Create New String Value in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-create-new-string-value-in-windows-registry-editor.jpg)
+4. Name this new value **"AicEnabled."**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![Name the Newly Created String Value AicEnabled in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-name-the-newly-created-string-value-aicenabled-in-windows-registry-editor.jpg)
+5. Double-click on the newly created string and type "**Anywhere"** in the **Value data** field.  
+![Type Anywhere in the Value Data Field of Newly Created String in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-type-anywhere-in-the-value-data-field-of-newly-created-string-in-windows-registry-editor.jpg)
+6. Restart the computer for the changes to take effect.
+
+ If the above Registry tweak does not resolve the issue, turn off S mode.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+## 6\. Disable Windows S Mode
+
+ Windows S mode is primarily the most secure environment you can get in Windows. It mainly serves as a means of protecting your children and keeping sensitive documents away from prying eyes.
+
+ When this mode is active, users can only download apps from the Microsoft Store, can't use the command line or code editors, and can't modify the Windows Registry Editor.
+
+ Therefore, if you have recently bought a new device and this mode is enabled there by default, Windows will probably throw the error if you attempt to install any app outside the store. Therefore, you should make sure it isn't enabled and disable it if it is.
+
+ To determine whether your device is running S mode, open the **Settings** app, select the **System** tab on the left, and open the **About** page.
+
+ If the S mode is enabled on your device, you'll see it there. If the feature is active, turn it off by following these steps:
+
+1. Open the **Settings** app.
+2. Navigate to the **System** tab and go to **Activation**.
+3. Click on **Go to the store** under **Switch to Windows 11 Home/Pro**, which will take you to the Microsoft Store page where you can opt out of S mode.
+4. Click the **Get** button and follow the on-screen instructions to get out of S mode.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Run the Windows Store Apps Troubleshooter
+
+ If the Windows S mode isn't enabled, and you haven't restricted your operating system from downloading apps from outside Microsoft, the error could be caused by an underlying issue with the Microsoft Store. To ensure this is not the case, you should run the Windows Store Apps troubleshooter, which is a built-in tool for troubleshooting issues with the Store.
+
+ If you've never run the troubleshooter before, refer to our guide on [how to run a troubleshooter on Windows 10 or 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
+
+## Successfully Install Third-Party Applications Again on Windows
+
+ Microsoft blocks the installation of third-party apps for your security, but it's pointless if it prevents you from installing vital apps. Hopefully, you now better understand why the Microsoft Store presents the "the app you're trying to install isn't a Microsoft-verified app" error. Following the fixes above will enable you to download the apps from unofficial sources.
+
+ Have you encountered the error"the app you're trying to install isn't a Microsoft-verified app"while installing an app? The error occurs if you have configured your system to only install apps from the Microsoft Store. You could have set this permission on purpose, or it might have been set by default.
+
+ Other than that, a corrupted Microsoft Store cache, installing an app from an unofficial source, and enabling Windows S mode can also cause the error. Below, you will find a few checks and fixes you should apply to resolve the error and install the app successfully.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-finding-your-niche-in-the-snapchat-economy/"><u>[New] 2024 Approved  Finding Your Niche in the Snapchat Economy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-method-to-integrate-flv-content-on-youtube/"><u>[New] 2024 Approved  The Ultimate Method to Integrate FLV Content on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-when-unfriended-on-snapchat-for-2024/"><u>[Updated] Identifying When Unfriended on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-no-cost-gaming-recording-apps-for-gamers/"><u>[Updated] Top 10 No-Cost Gaming Recording Apps for Gamers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/5-key-strategies-for-overcoming-onedrive-errors/"><u>5 Key Strategies for Overcoming OneDrive Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-action-plan-9-steps-to-stop-wwe-crashes-in-windows/"><u>Accelerated Action Plan: 9 Steps to Stop WWE Crashes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-system32-folder-on-windows-11/"><u>Accessing System32 Folder on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-discreprancies-in-power-usage-display-for-win-11-systems/"><u>Addressing Discreprancies in Power Usage Display for Win 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-frozen-menu-items-in-windows-11-desktop/"><u>Addressing Frozen Menu Items in Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-empty-directory-issue-in-windows-11-error-0x80070091/"><u>Addressing Non-Empty Directory Issue in Windows 11: Error #0X80070091</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11-ms-store-error-x7326/"><u>Addressing Windows 11 MS Store Error X7326</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-google-pixel-8-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Google Pixel 8</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-with-these-8-window-study-secrets/"><u>Boost Productivity with These 8 Window Study Secrets</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-hidden-5ghz-lans-in-windows-11-fixes-outlined/"><u>Bring Forth Hidden 5GHz LANs in Windows 11 - Fixes Outlined</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-error-0x80004004-on-defender/"><u>Deciphering and Correcting Error 0X80004004 on Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-chkdsk-sfc-and-dism-for-system-repairing/"><u>Decoding CHKDSK, SFC & DISM for System Repairing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-g73-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto G73 5G Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>In 2024, Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-playback-how-to-start-windows-media-player/"><u>Initiating Playback - How to Start Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-tabs-on-pc-login-separating-goals-from-errors/"><u>Keeping Tabs on PC Login: Separating Goals From Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboardmouse-wake-issues-fix-for-win11-users/"><u>Keyboard/Mouse Wake Issues: Fix for Win11 Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-classes-online-top-ten-subscriber-leaders/"><u>Master Classes Online  Top Ten Subscriber-Leaders</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-operation-failed-0x0000011b-in-windows/"><u>Overcoming Operation Failed 0X0000011B in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-cannot-preview-error-with-microsoft-office-outlook/"><u>Resolving 'Cannot Preview' Error with Microsoft Office Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-no-response-to-click-events/"><u>Tackling Windows 11: No Response to Click Events</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts-for-2024/"><u>The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-retrieve-faded-bios-messages/"><u>Tips to Retrieve Faded BIOS Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-purpose-of-pagefilesys-and-should-it-be-deleted/"><u>What Is the Purpose of Pagefile.sys and Should It Be Deleted?</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-access-to-steam-remote-play/"><u>Winning Back Access to Steam Remote Play</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Creating a Personalized Windows Speech-to-Text App Using Whisper & AHK
-date: 2024-07-13T09:43:15.417Z
-updated: 2024-07-14T09:43:15.417Z
+date: 2024-07-29T15:44:00.132Z
+updated: 2024-07-30T15:44:00.132Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Laying the Foundations for Whisper and AutoHotkey
 
 [You can make cool scripts with AutoHotkey](https://www.makeuseof.com/tag/10-cool-autohotkey-scripts-make/), but that's not all it can do. For this project, we'll use AutoHotkey to create a GUI for Whisper. This will allow us to use OpenAI's voice recognition AI tool by clicking buttons and customizing its functionality using menus instead of typing commands.
@@ -42,23 +45,39 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  On a more personal note, I should explain that I am not a programmer, and this project is a "remix" of a solution made for personal use.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make a New AutoHotkey Script
 
  The first step is to create a new blank script file. Keep it in its own folder, just in case you decide to tweak or build on it, creating more files.
 
 1. Run your favorite file manager (or press **Windows Key** \+ **E** to launch Windows Explorer) and create a folder for your transcription app anywhere you like.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Creating Project Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-project-folder-1.jpg)
 2. Right-click on a blank spot of the window and select **New** \> **AutoHotkey Script** to create an empty script file.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Right Click New Autohotkey Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/right-click-new-autohotkey-script-1.jpg)
 3. Shift + Right Click on the file to access the full context menu and select to open it with your favorite code or text editor. Windows' own **Notepad** will do.  
 ![Shift Right Click Open With Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/shift-right-click-open-with-editor-1.jpg)
 4. Despite being "an empty script", your AHK file will already be pre-populated with some "stuff". Those are useful AutoHotkey variables and flags that define how it should work on your desktop. Ignore them, leave them as they are, and do all your future typing underneath them.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blank Autohotkey Script In Vs Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/blank-autohotkey-script-in-vs-code-1.jpg)
 
 ## Getting to Know Whisper's Flags
 
  Since we're making a GUI for a command line app, it's handy to have a reference to its major variables and flags that we'll be using in our project. You can check them out by reading Whisper's documentation, visiting [its official Github page](https://github.com/openai/whisper), and running it in your terminal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Whisper Flags Note In Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/whisper-flags-note-in-script-1.jpg)
 
  We'll list the ones we'll use in this project for convenience. We suggest you add them to your script as comments (in separate lines, each beginning with a ";" character followed by a space).
@@ -69,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  We suggest you split your script into sections using comments like we did to keep it organized. We'll start by defining some variables, continue to the actual GUI, and end by defining its functions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Establishing the Hidden Variables
 
  We begin with a section where we'll define variables we may want to change in the future, but not so often that we'd like to expose them through the GUI, over-complicating it. You can type "Variable\_Name = Content or value of the variable" with one variable and value pair per line.
@@ -121,12 +143,18 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Defining Prompt Text Edit Field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-prompt-text-edit-field-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Setting Up the Action Buttons
 
  For choosing files, folders, and running Whisper after we've set everything up, it's better to use buttons. You can add buttons to an AHK-made interface using the following:
 
 `Gui, Add, Button, xPosition yPosition wWidth hHeight gFunction_To_Perform, Button Text`
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Adding Action Buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-action-buttons-1.jpg)
 
  Notice that unlike variables in GUI elements, which begin with the letter "v", function names start with "g", for "Go (to this spot of the script)".
@@ -158,6 +186,9 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  Although we've completed the GUI section, if you try to run the script, it will crash. That's because we're referencing non-existing functions in it. So, our next move is to create those functions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Button Functions Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-functions-highlighted-1.jpg)
 
  The three functions we want are:
@@ -172,6 +203,9 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 `SelectFile:FileSelectFile, SelectedFileReturn`
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding Troubleshooting Message Box To Select File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-troubleshooting-message-box-to-select-file-1.jpg)
 
 **FileSelectFile** is an AutoHotkey function that displays a typical file requester, allowing the user to select a file. **SelectedFile** is the variable in our script that will "hold" the path to the file the user selected.
@@ -190,6 +224,9 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 ![Select Folder Function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-folder-function-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Final Function
 
  The final function will be the most complicated. Mapped to the OK button, this will "gather" all variable values from the GUI, morph them into a usable command, and then run it.
@@ -198,12 +235,19 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
 `ButtonSubmit:Return`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Button Submit Empty Function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-empty-function-1.jpg)
 
  To "grab" all of the GUI's values, add the following under the **ButtonSubmit** line:
 
 `Gui Submit, nohide`
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Button Submit Gui Submit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-gui-submit-1.jpg)
 
  The following line creates a new variable called "**WhisperFlags**". It then adds to it all of the GUI's variables as flags for the Whisper command.
@@ -224,10 +268,17 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  This will copy to the **Clipboard** the complete command issued to CMD. So, if something fails, instead of only seeing the command in one of AHK's message boxes, you'll also have it available in your Clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Button Submit Troubleshooting Copy Command To Clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-troubleshooting-copy-command-to-clipboard-1.jpg)
 
  Open a terminal, paste the command from the Clipboard, and check the errors that pop up to locate potential problems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Checking Out The Command In Cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-out-the-command-in-cmd-1.jpg)
 
  For example, while working on the script, I initially forgot to have the prompt enclosed within quotation marks. Thus, the command failed, since Whisper tried to parse the prompt as flags.
@@ -261,3 +312,65 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-enhance-facebook-stream-volume-completely/"><u>[New] 2024 Approved  How to Enhance Facebook Stream Volume Completely</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-chronicles-reviewing-the-best-screencasters/"><u>[New] Capture Chronicles  Reviewing the Best Screencasters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-decoding-the-m1-chip-apples-latest-marvel/"><u>[New] Decoding the M1 Chip  Apple's Latest Marvel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-binge-watching-to-billions-jake-pauls-video-venture/"><u>[New] In 2024, Binge-Watching to Billions  Jake Paul's Video Venture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elevate-traffic-with-these-top-11-facebook-video-tactics/"><u>[New] In 2024, Elevate Traffic with These Top 11 Facebook Video Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrate-advanced-note-organization-on-mematic/"><u>[New] Integrate Advanced Note Organization on Mematic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-simple-steps-to-record-your-youtube-streams/"><u>[New] Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-science-behind-whatsapp-voice-talks/"><u>[New] The Science Behind WhatsApp Voice Talks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-channels-potential-with-audios/"><u>[New] Unlock Your Channel's Potential with Audios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigabytes-needed-for-a-full-days-movie-watching/"><u>[Updated] Gigabytes Needed for a Full Day's Movie Watching</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>[Updated] In 2024, Share Wide  Enhancing Instagram Stories With YouTube Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook/"><u>2024 Approved  Fast & Fun  The Quick Guide to Taking Screenshots on Chromebook</u></a></li>
+<li><a href="https://win11.techidaily.com/3-methods-to-shorten-windows-11-boot-time-effectively/"><u>3 Methods to Shorten Windows 11 Boot Time Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-windows-11s-security-six-pathways-for-safe-mode/"><u>Accessing Windows 11'S Security: Six Pathways for Safe Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-maze-quickly-entering-windows-support-space/"><u>Avoiding the Maze: Quickly Entering Windows' Support Space</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-back-into-windows-service-tool-with-these-7-methods/"><u>Breathing Life Back Into Windows Service Tool With These 7 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-disabled-windows-firewall-4-methods-explored/"><u>Bypassing Disabled Windows Firewall: 4 Methods Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-winapp-and-browser-dynamics/"><u>Controlling WinApp and Browser Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-startup-options-your-ultimate-guidebook/"><u>Decoding Windows Startup Options: Your Ultimate Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-artistry-perfecting-subject-isolation-techniques/"><u>Digital Artistry: Perfecting Subject Isolation Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-update-interruptions/"><u>Disabling Windows Update Interruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-access-to-computers-heartbeat-open-mouse-prop-on-win11/"><u>Effortless Access to Computer's Heartbeat: Open Mouse Prop on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/feel-windows-power-with-curated-app-selection/"><u>Feel Windows Power with Curated App Selection</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-spotlight-wallpaper-icon-from-win11/"><u>How to Clear Spotlight Wallpaper Icon From Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-re-earn-lost-achievement-points-on-steam/"><u>How to Re-Earn Lost Achievement Points on Steam</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>In 2024, Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-manipulation-a-mac-users-ultimate-guidebook/"><u>In 2024, SRT Manipulation  A Mac User's Ultimate Guidebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-admin-command-center-on-windows/"><u>Navigating to Admin Command Center on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-with-ease-open-mouse-prop-in-win11/"><u>Navigating with Ease: Open Mouse Prop in Win11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-8-ambiance-sounds-to-enhance-youtube-beginnings-for-2024/"><u>New Top 8 Ambiance Sounds to Enhance YouTube Beginnings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-11-installation-with-these-easy-to-implement-tweaks/"><u>Optimize Your Windows 11 Installation with These Easy-to-Implement Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-browser-scenarios-in-new-oss/"><u>Overcoming No-Browser Scenarios in New OSs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-previewable-file-trouble-on-outlook-365-pc/"><u>Overcoming Non-Previewable File Trouble on Outlook 365 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-getting-past-windows-update-hitches/"><u>Quick Fixes: Getting Past Windows Update Hitches</u></a></li>
+<li><a href="https://win11.techidaily.com/rebooting-routine-file-explorer-revival-tips-for-win-11/"><u>Rebooting Routine: File Explorer Revival Tips for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reduce-delay-in-windows-11-keys-7-proven-methods/"><u>Reduce Delay in Windows 11 Keys: 7 Proven Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-cpuram-drain-from-consuming-video-content/"><u>Reducing CPU/RAM Drain From Consuming Video Content</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-gpu-functionality-in-windows-10-and-11-easy-fixes/"><u>Refreshing GPU Functionality in Windows 10 & 11 Easy Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-access-to-microsoft-store-features-on-pcs/"><u>Regain Access to Microsoft Store Features on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/remedial-actions-for-incorrect-app-configuration/"><u>Remedial Actions for Incorrect App Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-optional-features-on-windows-os-with-ease/"><u>Restore Optional Features on Windows OS with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/set-up-a-stunning-slideshow-easily-create-in-win11-heres-how/"><u>Set Up a Stunning Slideshow: Easily Create in Win11 Here’s How</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-windows-with-5-mac-inspired-ideas/"><u>Simplify Your Windows with 5 Mac-Inspired Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-reactivating-a-greyed-out-secure-boot-in-bios/"><u>Steps for Reactivating a Greyed Out Secure Boot in BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-unsolicited-search-window-opens-in-windows-11/"><u>Stopping Unsolicited Search Window Opens in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-blue-screen-error/"><u>Strategies for Overcoming Blue Screen Error</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-stalled-resource-monitors-procedure-in-windows-11/"><u>Streamlining Stalled Resource Monitors: Procedure in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-keyboard-mastery-with-typingaid/"><u>Swift Keyboard Mastery with TypingAid</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-chaos-of-mbr-errors-with-data-interpretation/"><u>Taming the Chaos of MBR Errors with Data Interpretation</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-fixing-broken-internet-connections-6-strategies-for-windows-users/"><u>The Art of Fixing Broken Internet Connections - 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-hardware-alerts-in-windows/"><u>Troubleshooting Steps for Hardware Alerts in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-f04-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy F04 FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-p40plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel P40+.</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-the-power-of-java-sdk-on-windows-11/"><u>Unleashing the Power of Java SDK on Windows 11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Operation Failed 0X0000011B in Windows
-date: 2024-07-13T09:43:29.533Z
-updated: 2024-07-14T09:43:29.533Z
+date: 2024-07-29T15:44:10.842Z
+updated: 2024-07-30T15:44:10.842Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  Note that all the fixes must be applied to the host system that has the printer connected to it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 1\. Restart the Print Spooler Service
 
  A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the [print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
@@ -31,14 +34,23 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 3. In the**Service** snap-in, locate the**Print Spooler** service.  
 ![print spooler service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-properties.jpg)
 4. Next, right-click on the service and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart print spooler service 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service-1.jpg)
 6. Click the**Startup type** drop-down and set it to**Automatic** .
 7. Click**Apply** and**OK** to save the changes.
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Install All the Pending Windows Updates
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
@@ -60,15 +72,25 @@ To check and install Windows updates:
 1. Press**Win + I** to open**Settings** .
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
 2. Click the drop-down for**Type of port** and select**Local Port.**
 3. Click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
 5. Click**OK** to save the printer.
@@ -101,10 +123,16 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 5\. Uninstall Recently Installed Updates
 
  Assuming the issue is triggered after you installed a Windows security update, uninstalling the update should undo the changes and fix the error. You can uninstall some individual updates from the Windows updates section. This feature is specifically available to undo issues that may have occurred after installing an update.
@@ -115,6 +143,9 @@ To uninstall Windows updates:
 
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open**Control Panel.**  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
@@ -145,3 +176,65 @@ To uninstall Windows updates:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-highest-rated-10-online-subtitle-tools/"><u>[New] In 2024, Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] In 2024, The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos/"><u>[New] Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-guide-to-youtube-earning-power-by-2024/"><u>[New] Sourav Joshi’s Guide to YouTube Earning Power by 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-best-budget-friendly-closer-tutorials-top-6-edition/"><u>[New] The Best Budget-Friendly Closer Tutorials  Top 6 Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-peering-into-triller-its-distinctive-features-and-identity/"><u>[Updated] 2024 Approved  Peering Into Triller  Its Distinctive Features and Identity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-stats-galore-visualize-youtubes-fascinating-facts-2017/"><u>[Updated] 2024 Approved  Stats Galore! Visualize YouTube's Fascinating Facts (2017)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transforming-your-reel-game-on-instagram-in-days/"><u>[Updated] 2024 Approved  Transforming Your Reel Game on Instagram in Days</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-spring-recorder-rising-a-comprehensive-analysis/"><u>[Updated] Spring Recorder Rising  A Comprehensive Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-tech-whizs-guide-to-recording-games-on-win10/"><u>[Updated] The Tech Whiz's Guide to Recording Games on Win10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-screencapture-hackbook-for-techies-for-2024/"><u>[Updated] The Ultimate ScreenCapture Hackbook for Techies for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/5-must-have-mkv-tools-for-macos/"><u>5 Must-Have MKV Tools for macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-windows-11s-8-confusing-features/"><u>A Deep Dive Into Windows 11’S 8 Confusing Features</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-top-methods-to-reconnect-your-usb-wi-fi-on-pcs/"><u>Bridge the Gap: Top Methods to Reconnect Your USB Wi-Fi on PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-methods-for-capturing-audio-in-audacity/"><u>Cutting-Edge Methods for Capturing Audio in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-tackle-programming-problems-on-vistawindows-7/"><u>Efficient Methods to Tackle Programming Problems on Vista/Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-image-navigation-using-file-explorer-windows/"><u>Effortless Image Navigation Using File Explorer Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-desktop-aesthetics-with-a-custom-weather-icon-in-windows-11/"><u>Elevate Desktop Aesthetics with a Custom Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-blank-display-of-startup-items/"><u>Eradicating Blank Display of Startup Items</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-disappearances-in-system-navigator/"><u>Eradicating Disappearances in System Navigator</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-overcoming-windows-11s-rename-limitations/"><u>Essential Fixes: Overcoming Windows 11'S Rename Limitations</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-rescue-deskanywhere-on-win11/"><u>Essential Tips to Rescue DeskAnywhere on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/experts-choice-10-error-finder-apps-for-pc/"><u>Expert's Choice: 10 Error Finder Apps for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-monitor-settings-in-latest-os-version/"><u>Fine-Tune Monitor Settings in Latest OS Version</u></a></li>
+<li><a href="https://win11.techidaily.com/hosting-multiple-oses-linux-vm-inside-hyper-v-on-a-windows-machine/"><u>Hosting Multiple OSes: Linux VM Inside Hyper-V on a Windows Machine</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-se-2022-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone SE (2022) GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-non-loading-drivers-functional-on-windows-11/"><u>How to Make Non-Loading Drivers Functional on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-swiftly-address-roblox-error-262/"><u>How to Swiftly Address Roblox Error 262</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 11F 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-6-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic 6 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-razr-40-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Razr 40 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>In 2024, Streamlining Post-Production  Mastering the Green Screen Process (KineMaster)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-windows-11-logins-restoration/"><u>Mastering Quick Windows 11 Logins Restoration</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-personalizing-your-desktop-with-widgets/"><u>Mastering Window 11: Personalizing Your Desktop with Widgets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/merge-music-and-graphics-in-ppt/"><u>Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11s-onedrive-error-def5-woes/"><u>Navigating Through Windows 11'S Onedrive Error DEF5 Woes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-iphone-audio-recorders-discover-the-top-10/"><u>New In 2024, Essential iPhone Audio Recorders Discover the Top 10</u></a></li>
+<li><a href="https://win11.techidaily.com/outsmart-windows-delete-temp-files-without-fuss/"><u>Outsmart Windows: Delete Temp Files Without Fuss</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-app-hiccup-geforce-x0001/"><u>Overcoming Windows 11 App Hiccup: GeForce X0001</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overview-of-various-cameras-used-in-film-and-tv/"><u>Overview of Various Cameras Used in Film & TV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games/"><u>Polar Prowess  Highlighting the Elite of Snowboard Cross, Winter Games</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-failed-security-codes-in-game-launcher-windows-edition/"><u>Quick Fixes for Failed Security Codes in Game Launcher Windows Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/renewed-evaluation-sonys-s3700-video-tech-in-2-point-five-six/"><u>Renewed Evaluation  Sony's S3700 Video Tech in 2 Point-Five Six</u></a></li>
+<li><a href="https://win11.techidaily.com/reset-your-microsoft-store-password-heres-how/"><u>Reset Your Microsoft Store Password, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-collective-windows-11-folder-making/"><u>Revolutionize File Management with Collective Windows 11 Folder Making</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-incorporation-of-virtual-gaming-archives-into-playnite-on-pc/"><u>Seamless Incorporation of Virtual Gaming Archives Into Playnite on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-shutdown-techniques-for-windowed-applications/"><u>Simultaneous Shutdown Techniques for Windowed Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-slashing-dropbox-cpu-load-on-windows-devices/"><u>Solutions for Slashing Dropbox CPU Load on Windows Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-mac-capture-apps-different-than-bandicam/"><u>Superior Mac Capture Apps, Different Than Bandicam</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-skyrocketing-your-workflow-with-windows-apps/"><u>The Ultimate Guide to Skyrocketing Your Workflow with Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-enhance-vintage-cursor-colors/"><u>Tips to Enhance Vintage Cursor Colors</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-non-windows-sniping-tools-for-quick-screen-capture/"><u>Top 5 Non-Windows Sniping Tools for Quick Screen Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/trendsetters-pictures-origins-explored/"><u>Trendsetters' Pictures  Origins Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-fixes-for-non-operational-voice-command-in-win11/"><u>Unveiling Fixes for Non-Operational Voice Command in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-terminal-reset-procedure-essentials/"><u>Win11 Terminal Reset Procedure Essentials</u></a></li>
+</ul></div>

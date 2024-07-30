@@ -1,0 +1,211 @@
+---
+title: Clearing Up “Failed to Launch” Errors with Your PC’s Display
+date: 2024-07-29T15:50:54.268Z
+updated: 2024-07-30T15:50:54.268Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Clearing Up “Failed to Launch” Errors with Your PC’s Display
+excerpt: This Article Describes Clearing Up “Failed to Launch” Errors with Your PC’s Display
+keywords: Fix Display Errors,Stop Failed Launch,Resolve Screen Launch,Clear PC Display Fail,Avoid Launch Problem,Displays Start Success,Eliminate Launch Error
+thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d04ebfcc926d77ca01d474b27.jpg
+---
+
+## Clearing Up “Failed to Launch” Errors with Your PC’s Display
+
+ The “display driver failed to start” error message usually appears when you try to launch a game on Windows. The error message appears in the form of a Windows notification above the system tray area. When this error occurs, it causes your screen to go completely black. Sometimes it will recover, but sometimes it will require a hard reset.
+
+ When this error is at its worst, it can prevent you from playing your favorite games. As such, here is how you can fix the “display driver failed to start” error on a Windows 10 or 11 PC.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+## 1\. Perform Some Display Driver-Related Fixes
+
+ The error message points to your display driver as the main culprit. As such, before you try anything else, you can try these display driver-related fixes to see if they do the job.
+
+### Roll Back the Latest Graphics Driver Update
+
+![The Roll Back Driver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roll-back-driver-button.jpg)
+
+ If your graphics card’s driver has recently been updated, try rolling back to the old GPU driver. A **Roll Back Driver** option is usually only available for a short time (typically a few days) after updating a driver. Check out our guide to [rolling back drivers in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) for further details about how to apply this potential resolution.
+
+### Install the Latest Driver for Your PC’s Graphics Card
+
+ People plagued with this error message have confirmed that updating your graphics drivers is a good solution for the “display driver failed to start” error. And while Windows usually handles driver updates through Windows Update, it sometimes won't update NVIDIA and AMD GPU drivers.
+
+ You can update your graphics card’s driver yourself with the methods discussed in our guide to [updating GPU drivers on Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
+
+### Reinstall Your Graphics Driver
+
+ If your PC’s GPU already has the newest graphics driver available, consider reinstalling the graphics driver. It's best to do a clean install to ensure your GPU's driver is back to its factory defaults.
+
+ Check out [how to cleanly install and reinstall GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) for more information.
+
+## 2\. Utilize the Hardware and Devices Troubleshooter
+
+ Windows has a Hardware and Devices troubleshooter that can help resolve the “display driver failed to start” error. This troubleshooting tool is no longer available within Settings or Control Panel, but it is still accessible via Command Prompt.
+
+ You can access and run the Hardware and Devices troubleshooting utility like this:
+
+1. First, locate the Command Prompt by pressing **Win + S**, typing "cmd," and clicking on **Command Prompt**.
+2. Enter and execute the Hardware and Devices command:  
+`msdt.exe -id DeviceDiagnostic`
+3. Click **Next** to start the troubleshooting.  
+![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-troubleshooter-2.jpg)
+4. Select **Apply this fix** to rectify any issues Windows finds.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Lower the Windows Visual Effect Settings
+
+ Windows has various visual effect settings that can affect performance. Having too many visual effects enabled can potentially cause issues on PCs with more limited GPUs.
+
+ So, it’s recommended to select the "adjust for best performance" mode in the visual effect settings like this:
+
+1. Right-click **Start**, select **Search**, and input "advanced system settings" in the text box.
+2. Press the **Settings** button in the **Performance** category.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Advanced tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-tab-2.jpg)
+3. Click the **Adjust for best performance** radio button, which will deselect most if not all of the effect checkboxes.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![The "adjust for best performance" button selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adjust-for-best-performance-radio-button.jpg)
+4. Select **Apply** to set the new performance settings.
+5. Click the Performance Options window’s **OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## 4\. Edit the GraphicsDrivers Registry Key
+
+ Some users have got the “display driver failed to start” error fixed by editing the GraphicsDriver registry key. This tweaking involves adding a new **TdrDelay** DWORD value to that key for extending Timeout Detection Delay.
+
+ You can edit the GraphicsDriver registry key like this:
+
+1. Open the Run dialog with **Win + R** and enter "regedit".
+2. Click **OK** or press **Enter** to open the Registry Editor window.
+3. Then enter this GraphicsDrivers key location inside the registry address bar:  
+`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers`
+4. Right-click **GraphicsDrivers** and select the **New** context menu option.
+5. Select **DWORD (32-bit) Value** to add a new entry.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![The New > DWORD options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dword-32-bit-value-2.jpg)
+6. Type **TdrDelay** within the new DWORD’s text box.
+7. Double-click the **TdrDelay** DWORD.
+8. Input a value of **5** in the data box and select **OK**.  
+![The Value data box the TdrDelay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/value-data-box-2.jpg)
+9. Now close the Registry Editor and reboot your PC.
+
+## 5\. Roll Back Windows to a Previous Restore Point
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
+
+ If you have System Restore enabled, restoring Windows to an earlier date is worth a try if nothing else has worked so far. Rolling back Windows will undo every system change made after a selected date.
+
+ As such, you can use System Restore to put your PC "back in time" to a moment when the error didn't occur. It does mean you may lose some apps or data, so be sure to back up anything you want to keep.
+
+ Our guide to [utilizing System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) provides step-by-step instructions for how to roll back Windows 10 and 11\. Select a restore point date created before you needed to fix the “display driver failed to start” error.
+
+ If this fixes the problem, be careful when re-installing the apps and drivers that got wiped during the restore. If you do, keep tabs on what you reinstalled and when. If the "display driver failed to start" error resurfaces, uninstall everything you recently reinstalled.
+
+## 6\. Perform a Windows Factory Reset
+
+ If System Restore is not an option or it doesn't resolve the issue, you can try a factory reset as the last resort. Performing a factory reset will likely fix the “display driver failed to start” error. However, factory resetting a PC deletes all the apps that weren't pre-installed with Windows. So, be prepared to reinstall all third-party apps you installed yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Keep my Files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keep-my-files-option.jpg)
+
+ You can apply a factory reset with the Reset this PC utility. That tool includes a **Keep my files** option you can select to keep files in your user folders (Documents, Pictures, Videos, etc). Our guide for [factory resetting Windows 10 and 11](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer) provides details on how to access and utilize that tool.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Enjoy Your Windows Gaming Again
+
+ Applying those potential solutions will almost certainly be enough to fix the “display driver failed to start” error in most cases. However, you may need to try applying more than one of them to find one that works on your PC. Then you can get back to playing all your favorite Windows games again without further issues.
+
+ When this error is at its worst, it can prevent you from playing your favorite games. As such, here is how you can fix the “display driver failed to start” error on a Windows 10 or 11 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cam-repaired-obs-recovery-successful/"><u>[New] 2024 Approved  Cam Repaired  OBS Recovery Successful</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-up-your-language-game-top-15-tools-to-turn-videos-into-universal-text/"><u>[New] 2024 Approved  Step Up Your Language Game  Top 15 Tools to Turn Videos Into Universal Text</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks/"><u>[New] Advanced Microphone Recorders for Mac Users  Our Five Superstar Picks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-critically-acclaimed-phone-and-desktop-video-calls-list-for-2024/"><u>[New] Critically Acclaimed Phone and Desktop Video Calls List for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-precision-in-storyboard-planning/"><u>[New] Precision in Storyboard Planning</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-how-to-lock-in-your-favorite-tiktok-moments-smartly/"><u>[Updated] 2024 Approved  How to Lock in Your Favorite TikTok Moments - Smartly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apple-music-add-on-for-smooth-video-playback/"><u>[Updated] Apple Music Add-On for Smooth Video Playback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-ios-camera-apps-to-elevate-your-iphone-imagery/"><u>[Updated] The Best iOS Camera Apps to Elevate Your iPhone Imagery</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-engagement-the-list-of-todays-hot-instagram-hashtags/"><u>2024 Approved  Elevate Engagement  The List of Today's Hot Instagram Hashtags</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>2024 Approved  How to Mix Melodies & Text  PowerPoints Unleashed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-integrating-vids-on-twitter-plus-tumblr-platforms/"><u>2024 Approved  Integrating Vids on Twitter + Tumblr Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-youtube-shorts-description-everything-you-need-to-know/"><u>2024 Approved  YouTube Shorts Description  Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/a-dual-analysis-underutilized-windows-system-health-metrics/"><u>A Dual Analysis: Underutilized Windows System Health Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-the-best-rpi-game-platform-debated/"><u>Batocera Vs. RetroPie: The Best RPi Game Platform Debated</u></a></li>
+<li><a href="https://win11.techidaily.com/circumvent-unauthorized-windows-login-errors-easy-guide/"><u>Circumvent Unauthorized Windows Login Errors (Easy Guide)</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-a-non-operational-windows-control-panel/"><u>Curing a Non-Operational Windows Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-overlooked-windows-extras-a-step-by-step-manual/"><u>Enabling Overlooked Windows Extras: A Step-by-Step Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-windows-11-weather-app-reviews/"><u>Expert Windows 11 Weather App Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-5-innovative-windows-folder-strategies/"><u>Explore 5 Innovative Windows Folder Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-interactions-between-devices-and-windows-snooze/"><u>Fine-Tuning Interactions Between Devices and Windows Snooze</u></a></li>
+<li><a href="https://win11.techidaily.com/greatest-non-microsoft-options-easy-screen-captures-without-windows/"><u>Greatest Non-Microsoft Options: Easy Screen Captures Without Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-mending-the-internal-error-in-rdp-on-windows-11-and-11-pro/"><u>Guide to Mending the Internal Error in RDP on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-f23-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo F23 5G?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-another-app-is-using-the-camera-already-0xa00f4243-error-on-windows/"><u>How to Fix the Another App Is Using the Camera Already 0xA00F4243 Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-modules-installer-workers-high-cpu-usage/"><u>How to Fix the Windows Modules Installer Worker's High CPU Usage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-ace-2-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus Ace 2 Pro Device SIM</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-listening-preferences-deciding-between-podcasts-and-youtube/"><u>In 2024, Listening Preferences  Deciding Between Podcasts & YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a78-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A78 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/infinix-note-30-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Note 30 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-archiving-concealing-data-within-images-windows-11/"><u>Invisible Archiving: Concealing Data Within Images (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-system-safe-spotting-hidden-threats-in-windows/"><u>Keep Your System Safe: Spotting Hidden Threats in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-fine-tune-windows-with-ease-using-alomware-suite/"><u>Navigate & Fine-Tune Windows with Ease Using AlomWare Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-powertoys-reset-on-new-machine/"><u>Navigating PowerToys: Reset on New Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-missing-file-updates-error-on-windows-error-code-0x80070003/"><u>Navigating Through Missing File Updates Error on Windows (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-excessive-use-of-windows-module-installer/"><u>Overcoming Excessive Use of Windows Module Installer</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-driver-loading-issues-in-the-latest-os/"><u>Overcoming Failed Driver Loading Issues in the Latest OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obtrusive-quit-request-error-in-roblox-players-computers/"><u>Overcoming Obtrusive Quit Request Error in Roblox Players' Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-split-view-failures-in-os/"><u>Overcoming Split View Failures in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-configurations-for-an-excellent-windows-11-experience/"><u>Precision Configurations for an Excellent Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-read-only-mode-on-windows-folders/"><u>Preventing Read-Only Mode on Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-web-experience-implementing-mouse-gestures-in-ms-edge-win-11/"><u>Reimagine Your Web Experience: Implementing Mouse Gestures in MS Edge (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-onedrive-error-adding-folder-not-possible-immediately/"><u>Resolving OneDrive Error - Adding Folder Not Possible Immediately</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580671983-secure-future-savings-unlimited-lifetime-mondly-premium-at-up-to-96-off/"><u>Secure Future Savings: Unlimited Lifetime Mondly Premium at Up to 96%% Off</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-specific-windows-lockdown-period/"><u>Setting Specific Windows Lockdown Period</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-closed-captions-issues-in-win11/"><u>Solving Common Closed Captions Issues in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-window-task-completion-via-key-combinations/"><u>Speedy Window Task Completion via Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-windows-error-0xc1900101/"><u>Strategies for Correcting Windows Error 0xC1900101</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-immediate-failure-how-to-successfully-add-a-folder-in-onedrive-on-pc/"><u>Tackling Immediate Failure: How to Successfully Add a Folder in OneDrive on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-operation-failed-error-code-0x0000011b/"><u>Tackling Operation Failed Error: Code 0X0000011B</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-zero-empty-directories-issue-in-windows-11-and-11/"><u>Tackling the Zero-Empty Directories Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-skip-recurring-enter-credentials-messages/"><u>Techniques to Skip Recurring 'Enter Credentials' Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/ten-simple-steps-for-fixing-def5-onedrive-woes-on-win11/"><u>Ten Simple Steps for Fixing DEF5: OneDrive Woes on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unite-with-your-absent-astra-pilot-on-windows-11/"><u>Unite With Your Absent Astra Pilot On Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-status-check-top-three-techniques/"><u>Windows 11 Status Check: Top Three Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-filing-mastery-key-principles-max-156/"><u>Windows Filing Mastery: Key Principles (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-ui-a-journey-with-the-taskbar-through-time/"><u>Windows UI: A Journey with the Taskbar Through Time</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Install Failed Messages on Discord
-date: 2024-07-13T09:44:22.483Z
-updated: 2024-07-14T09:44:22.483Z
+date: 2024-07-29T15:44:50.776Z
+updated: 2024-07-30T15:44:50.776Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  Is the “Installation has failed” error preventing you from installing and utilizing Discord in Windows? If so, you don’t have to miss out on Discord. This is how you can fix the “Installation has failed” error in Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Download the Discord Setup File Again
 
  First, try downloading the**DiscordSetup.exe** file again. This is suggested to double-check that the issue isn’t occurring because of a corrupted setup file. Click**Download for Windows** on the [Discord website](https://discord.com/download) to obtain a new installer for the software. Then try installing Discord with the fresh setup wizard.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
 
  The Microsoft Program Install and Uninstall troubleshooter resolves issues blocking software installation by examining the registry. So, running the troubleshooter could feasibly be a solution for the “Installation has failed” error. You can download and open the Program Install and Uninstall troubleshooter in the following steps:
@@ -40,9 +46,15 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 5. Select**Next** to go to the first step.
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The program selection list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-program-list.jpg)
 8. Then press**Next** again to start troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Disable Any Background Discord Processes
 
  Some users have said disabling Discord background processes can resolve the issue. If you’ve previously installed and used the software, there could be some related background Discord processes or services that need disabling. This is how you can check for and disable Discord background processes in Windows 10 and 11:
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 5. Repeat the fourth step for all Discord-related processes.
 6. Try installing Discord after disabling related background processes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Delete Any Leftover Discord Data Folders
 
  Erasing leftover Discord data is one of the most widely confirmed resolutions for the “Installation has failed” error (especially when combined with the third solution). That’s a potential fix more applicable to users who’ve previously installed Discord. If there are leftover Discord data folders on your PC, make sure you delete them as follows:
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 ![The Run shortcut on the Power User menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-run-option.jpg)
 2. Type**%appdata%** into Run and click**OK** to bring up a Roaming directory.
 3. Right-click a Discord data folder in the Roaming directory to select**Delete** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
 5. Select**OK** to view a Local folder.
@@ -87,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about [repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
@@ -95,10 +116,16 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  You can turn off the Windows Security real-time protection by following the instructions in our [how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Try Installing Discord in Safe Mode
 
  Some background third-party apps and drivers can also feasibly generate Discord installation issues. So, it’s also possible something in the background other than antivirus software could be causing the “Installation has failed” installation error on your PC. You can eliminate such a potential cause by installing Discord in the Windows safe mode, which disables superfluous background apps and drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for [how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
@@ -125,3 +152,47 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-skyline-your-videos-dodging-the-bot-observers/"><u>[New] 2024 Approved  Skyline Your Videos  Dodging the Bot Observers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>[New] 2024 Approved  Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp3-in-3-ways-safe-for-2024/"><u>[New] How to Convert YouTube to MP3 in 3 Ways [Safe] for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-rectify-silent-streams-with-obs/"><u>[New] How to Rectify Silent Streams with OBS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-early-birds-youtube-strategies-for-channel-and-revenue-for-2024/"><u>[Updated] Early Bird's Youtube Strategies for Channel and Revenue for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[Updated] In 2024, Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-setting-up-your-mac-for-flawless-minecraft-sessions-for-2024/"><u>[Updated] Setting Up Your Mac for Flawless Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tips-and-tricks-for-professional-minecraft-videos-for-2024/"><u>[Updated] Tips and Tricks for Professional Minecraft Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-high-definition-selecting-prime-lenses-for-professional-video/"><u>2024 Approved  Mastering High Definition  Selecting Prime Lenses for Professional Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-duels-unleashed-dji-spark-vs-gopro-black-session-for-2024/"><u>Aerial Duels Unleashed  DJi Spark vs GoPro Black Session for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-uac-alerts-a-windows-screenshot-guide/"><u>Capturing UAC Alerts: A Windows ScreenShot Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-examining-microsoft-vs-standard-windows-user-accounts/"><u>Cross-Examining Microsoft vs Standard Windows User Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/displaying-networked-storage-options-on-screen/"><u>Displaying Networked Storage Options on Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-deactivation-four-proven-methods-to-cut-off-users-in-win11/"><u>Easy Deactivation: Four Proven Methods to Cut Off Users in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-address-winget-malfunctioning-in-windows-11/"><u>Easy Steps to Address Winget Malfunctioning in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-powertoys-on-win11/"><u>Enhancing User Experience: PowerToys on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enrich-text-messaging-with-emoji-15-on-windows-11/"><u>Enrich Text Messaging with Emoji 15 on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-hot-30i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Hot 30i Face Lock?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone XS to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>In 2024, How to Dodge Without Disruption  Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-isprings-screen-recording-explored/"><u>In 2024, ISpring's Screen Recording Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-power-of-digital-beats-with-our-free-tools/"><u>In 2024, Unleash the Power of Digital Beats with Our Free Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-13-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 13 Pro Max? How to Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-out-of-memory-alerts-in-fantasy-school-of-wizardry-game/"><u>Managing Out-of-Memory Alerts in Fantasy School of Wizardry Game</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-0xc000003e-application-startup-troubleshooting/"><u>Mastering 0xC000003E Application Startup Troubleshooting</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ntfs-enablingdisabling-file-compression/"><u>Mastering NTFS: Enabling/Disabling File Compression</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y17s-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y17s Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-discord-search-on-windowed-devices/"><u>Optimizing Discord Search on Windowed Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-profile-collaboration-add-linktree-to-your-tiktok-bio-for-2024/"><u>Perfecting Profile Collaboration  Add Linktree to Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-synapse-glitches-in-1011-windows-edition/"><u>Repairing Synapse Glitches in 10/11 Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-outlook-folder-unreadable-error-steps-for-personal-computers/"><u>Resolve 'Outlook Folder Unreadable' Error: Steps for Personal Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/showcasing-taskmanager-preeminent-style/"><u>Showcasing TaskManager Preeminent Style</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-bluetooth-pairing-fail-in-windows-devices/"><u>Steps to Tackle Bluetooth Pairing Fail in Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-strategies-for-overcoming-steam-file-locks/"><u>Swift Strategies for Overcoming Steam File Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-surfing-steps-for-windows-based-network-speed-verification/"><u>Swift Surfing: Steps for Windows-Based Network Speed Verification</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-malwarebytess-failed-execution-calls-on-windows-1011/"><u>Tackling Malwarebytes's Failed Execution Calls on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unmasking-the-undisclosed-instructions-for-accessing-windows-personal-character-console/"><u>Unmasking the Undisclosed: Instructions for Accessing Windows’ Personal Character Console</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-pathways-three-keys-to-gaming-files/"><u>Windows Pathways: Three Keys to Gaming Files</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Simplifying Windows 11/10'S D3D11 GPU Woes to Fixable Errors
-date: 2024-07-13T09:47:43.014Z
-updated: 2024-07-14T09:47:43.014Z
+date: 2024-07-29T15:47:26.017Z
+updated: 2024-07-30T15:47:26.017Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
  This error has been more widely reported for Fortnite but also occurs for other Windows game titles. If you're struggling with this same issue, here is how you can fix the “D3D11-compatible GPU” error in Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 1\. Install Any Available Windows Updates
 
  When you update Windows, your computer will also update DirectX This is important, as DirectX is a gaming and multimedia API. The “D3D11-compatible GPU” error message references Direct3D 11, a part of DirectX. As the “D3D11-compatible GPU” error is linked with DirectX, it’s recommended that you install all available Windows updates and see if that solves the error.
@@ -29,6 +32,14 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 1. Click **Start** with the mouse’s right button to select Search.
 2. Input the keyword **updates** in the search tool.
 3. Select the **Check for updates** search result to open Settings.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-for-updates-button-1.jpg)
 4. Click the **Windows Update** tab’s **Check for updates** option. Selecting that option will automatically download and install available patch updates in Windows.
 5. Select **Restart now** if the Windows Update tab presents that option to you.
@@ -43,13 +54,22 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 2. Right-click **Command Prompt** in the search results and select **Run as administrator**.
 3. Run the SFC scan by typing in and executing this command:  
 `sfc /scannow`  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sfc-scannow-command-1.jpg)
 4. Wait for the System File Checker to finish its scanning and show an outcome message.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Set the Game to Utilize a Dedicated Graphics Card
 
  Does your PC have integrated and discrete (dedicated) graphics adapters? If it does, make sure the affected game is utilizing your PC’s dedicated GPU. To do so, you can select a **High-performance** graphics option for the game via Settings. Our [guide to choosing a preferred graphics card](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) for an app tells you how to set a dedicated GPU for a game in Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![The High performance radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/high-performance-radio-button.jpg)
 
  Or you could select to disable your PC’s integrated GPU instead. That will ensure all your games utilize the PC’s superior dedicated graphics adapter. You can disable the integrated GPU like this:
@@ -78,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 4. Select the **Modify** option.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-modify-option-1.jpg)
 5. Press the **Repair** button in the Visual C++ window that opens.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-repair-option-1.jpg)
 6. Repeat the previous two steps for all Microsoft Visual C++ Redistributables listed in Apps & features.
 
@@ -87,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 2. Click the X64 download link for Visual Studio 2015-2022.  
 ![The X64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-x64-download-link-1.jpg)
 3. Your browser will likely include a tab or menu that shows downloaded files. Open that **Downloads** tab, which has a **Ctrl** + **J** hotkey in the Firefox, Opera, Edge, and Chrome browsers.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Downloads tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-downloads-tab-1.jpg)
 4. Then click **VC\_redist.x64.exe** to bring up the window shown below.  
 ![The Microsoft Visual C++ 2022 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-visual-C-window-1.jpg)
@@ -101,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 2. Select that page’s **Download** option.
 3. Next, click the dxwebsetup.exe file in the download section of your browser.
 4. Select the radio button for the **I accept the agreement** option inside the DirectX setup wizard.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![The DirectX setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/directx-setup-wizard-1.jpg)
 5. Click **Next** to view the Bing Bar offer.
 6. If you don’t want the extra software, uncheck the selected **Install the Bing Bar** option.
@@ -114,6 +143,9 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
  However, you can set games to run with DirectX 11 with command line arguments in Epic Games and Steam. This is how to set an affected game to run with DirectX 11 in Epic Games and Steam:
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### How to Force DirectX 11 on Epic Games
 
  For any titles on Epic Games:
@@ -121,9 +153,15 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 1. Bring up Epic Games Launcher’s window.
 2. Click the user account button near the top-right corner of the Epic Games Launcher window.
 3. Select the **Settings** menu option.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![The Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-settings-option-1.jpg)
 4. Click an affected game’s title to expand options for it.
 5. Then select the game’s **Additional Command Line Arguments** checkbox.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/additonal-command-line-arguments-box-1.jpg)
 6. Input **d3d11** in the text box for the command line argument.
 
@@ -135,6 +173,9 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 2. Select **Library** along the top of Steam’s window.
 3. Right-click whatever game the “D3D11-compatible GPU” occurs for and select **Properties**.
 4. Input **\-dx11** in the launch option text box on the **General** tab.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam Launch Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steam-launch-options.jpg)
 
 ## 8\. Expand the Page File for More Virtual Memory
@@ -160,3 +201,50 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-creating-music-from-videos-instagrams-secret-sauce-for-2024/"><u>[New] Creating Music From Videos  Instagram's Secret Sauce for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>[New] Pioneering Digital Realms  Comparing Metaverse & Omniverse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-psd-text-direction/"><u>[New] Superior PSD Text Direction</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unsubscribing-from-youtube-computer-and-mobile-techniques/"><u>[New] Unsubscribing From Youtube  Computer & Mobile Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-leading-websites-for-buying-enigma-boxes/"><u>[Updated] Explore the Leading Websites for Buying Enigma Boxes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-20-second-symphony-understanding-musics-compact-formats/"><u>[Updated] In 2024, A 20-Second Symphony  Understanding Music's Compact Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-a-youtube-auto-subscribe-direct-link/"><u>[Updated] In 2024, Generating a YouTube Auto Subscribe Direct Link</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-grading-and-correcting-with-ease-top-11-video-editing-tips/"><u>[Updated] In 2024, Grading and Correcting with Ease  Top 11 Video Editing Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-sweet-surveillance-guide-to-recording-summer-treats/"><u>2024 Approved  Sweet Surveillance  Guide to Recording Summer Treats</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-k11-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo K11 5G Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-repeated-sign-in-alerts-team-collaboration-edition/"><u>Avoiding Repeated Sign-In Alerts: Team Collaboration Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/beat-blast-updated-technology-for-2024/"><u>Beat Blast  Updated Technology for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-dual-users-conflict-with-one-ms-login/"><u>Bypassing Dual Users’ Conflict with One MS Login</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-of-errors-in-organization-managed-windows-11-settings/"><u>Correction of Errors in Organization-Managed Windows 11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-managing-setup-host-cpu-use/"><u>Efficiently Managing Setup Host CPU Use</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-winning-streak-with-fps-techniques/"><u>Elevating Your Winning Streak with FPS Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-black-display-on-win10/"><u>Eradicate Black Display on Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-the-gap-how-to-locate-and-utilize-hidden-windows-11-enhancements/"><u>Fix the Gap: How to Locate & Utilize Hidden Windows 11 Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-signs-on-screen-when-booting-windows/"><u>Fixing No Signs on Screen When Booting Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How do i add my signature to JPG</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-non-starting-issues-with-obs-on-pc/"><u>How to Address Non-Starting Issues with OBS on PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c02-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C02</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-se-2020-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone SE (2020) Passcode Easily Video Inside</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-magic-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Magic 5 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/master-keyboard-flair-with-typingaid-techniques/"><u>Master Keyboard Flair with TypingAid Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-invisible-images-with-encrypted-zips-win/"><u>Mastering the Art of Invisible Images with Encrypted Zips (WIN)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-altering-windows-registry-using-cli/"><u>Navigating and Altering Windows Registry Using CLI</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-streaming-on-windows-counteracting-zero-speed-phenomenon/"><u>Optimize Streaming on Windows: Counteracting Zero-Speed Phenomenon</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-disconnect-error-for-malwarebytes-services-in-windows-11/"><u>Remedying Disconnect Error for Malwarebytes Services in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-media-player-server-crashes/"><u>Remedying Media Player Server Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-your-windows-backup-preferences/"><u>Resetting Your Windows Backup Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-access-post-error-code-22-fixing-a-locked-down-pc-in-windows-11/"><u>Restoring Access Post-Error Code 22: Fixing a Locked Down PC in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-seamless-link-for-windows-steam-streaming/"><u>Restoring Seamless Link for Windows Steam Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-enabling-additional-av-software-on-windows/"><u>Techniques for Enabling Additional AV Software on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-for-effective-app-packages-control-using-winget-on-win11/"><u>Top Tips for Effective App Packages Control Using Winget on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unsuccessful-message-loads-on-discord-pc/"><u>Troubleshooting Unsuccessful Message Loads on Discord PC</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-dxgidll-quick-fixes-for-the-missing-file/"><u>Win11 & Dxgi.dll: Quick Fixes for the Missing File</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earning-novice-navigators-essential-guide-for-2024/"><u>YouTube Earning  Novice Navigator's Essential Guide for 2024</u></a></li>
+</ul></div>

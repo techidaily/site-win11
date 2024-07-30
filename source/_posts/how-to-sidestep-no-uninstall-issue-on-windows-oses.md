@@ -1,7 +1,7 @@
 ---
 title: How to Sidestep No Uninstall Issue on Windows OSes
-date: 2024-07-13T09:48:23.865Z
-updated: 2024-07-14T09:48:23.865Z
+date: 2024-07-29T15:47:57.804Z
+updated: 2024-07-30T15:47:57.804Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,23 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
  That error message highlights the issue is caused by insufficient access. However, the error can arise for users even when they have administrator privileges. This is how you can fix the “do not have sufficient access to uninstall” error in Windows 11/10\.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Enable the Windows Admin Account
 
  First, make sure you’re utilizing an admin account. You can [activate a built-in Windows admin account](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) via the Command Prompt. Then log in to that built-in admin account and try uninstalling the software from there.
 
  Alternatively, you can switch a current standard user account to an admin one. Check out this guide to [changing Windows account types](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) for full instructions about how to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 2\. Run the Affected Software’s Uninstaller File as an Administrator
 
  Also, run the software’s uninstaller file as an administrator. The software’s installation directory will include its uninstaller file. Right-click that file to select a **Run as administrator** context menu option.
@@ -41,14 +52,24 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 3. Double-click on the **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** troubleshooter file.  
 ![The Program Install and Uninstall troubleshooter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/program-install-and-uninstall-troubleshooter.jpg)
 4. Click on **Next** \> **Uninstalling** to bring up a program list.  
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Uninstalling option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstalling-option.jpg)
 5. Then select the program you can’t uninstall and select **Next**.  
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/program-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 4\. Turn Off User Account Control
 
  The “You do not have sufficient access to uninstall” error can sometimes arise because User Account Control is set to high. So, try temporarily turning UAC off before uninstalling the affected software. Our guide on [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off UAC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![The User Account Control settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control.jpg)
 
 ## 5\. Set Full Control Permissions for the Software’s Installation Folder
@@ -57,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 1. Open the folder that contains the installation directory of the affected software.
 2. Right-click on the installation folder and select **Properties**.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/properties-option3.jpg)
 3. Click **Edit** on the **Security** tab.
 4. Select your user account name.
 5. Click the **Full control** checkbox to select that setting if it’s not already.  
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-window.jpg)
 6. Then select **Apply** \> **OK** on the folder’s permissions window.
 7. Select **OK** to exit the properties window.
@@ -78,9 +105,16 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 5. Click on the subkeys in the **Uninstall** key to view the **DisplayName** strings for them.
 
 1. Select the key for the software you can’t install by identifying it with the **DisplayName** string.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![DisplayName string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/display-name.jpg)
 2. Double-click on the key's **UninstallString** string.
 3. Copy the text in the **Value data** box by selecting it and pressing **Ctrl** \+ **C**.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Edit String window for the UninstallString](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-string-window3.jpg)
 4. Open Command Prompt as an admin (See [how to open Command Prompt with admin permissions](https://www.makeuseof.com/windows-run-command-prompt-admin/)).
 5. Click inside the Command Prompt and press **Ctrl** \+ **V** to paste in the string.  
@@ -91,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Try Uninstalling the Software With a Third-Party Uninstaller Tool
 
  Third-party uninstaller tools have helped some users fix the “do not have sufficient access to uninstall” error. The [best third-party uninstaller tools](https://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/) are superior to Windows’ Programs and Features applet for removing software. So, try uninstalling the software with a freely available utility like Revo Uninstaller, IObit Uninstaller, or Advanced Uninstaller Pro. This is how you can do that with IObit Uninstaller:
@@ -106,6 +143,9 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 8. Select **Uninstall** to remove the software.  
 ![The Uninstall button in IObit Uninstaller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Uninstall the Software Within Safe Mode
 
  Safe mode is Windows troubleshooting mode in which only essential drivers and services run. Uninstalling affected software in that mode might work since it will disable things like UAC that can interfere with the uninstallation process. This guide about [entering Windows safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) covers the different ways you can enter that mode.
@@ -140,3 +180,40 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-organic-growth-your-afb-playbook/"><u>[New] Unlocking Organic Growth  Your AFB Playbook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-creme-de-la-creme-of-25-instagram-talents/"><u>[Updated] 2024 Approved  The Crème De La Crème of 25 Instagram Talents</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-a-mouse-wheel-that-keeps-zooming-instead-of-scrolling-on-windows/"><u>7 Ways to Fix a Mouse Wheel That Keeps Zooming Instead of Scrolling on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-blackout-getting-out-of-dark-mode/"><u>Bypassing The Blackout: Getting Out Of Dark Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-hurdles-of-error-0x80040610-a-comprehensive-approach/"><u>Eliminating the Hurdles of Error 0X80040610: A Comprehensive Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-in-windows-top-5-productivity-enhancers-you-cant-miss/"><u>Excel in Windows: Top 5 Productivity Enhancers You Can't Miss</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-handling-winservicesexe-errors/"><u>Expert Tips for Handling Winservices.exe Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-razr-40-ultra-by-drfone-android/"><u>How to Bypass FRP on Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hustle-free-download-free-gif-conversion-tools-ranked-for-2024/"><u>Hustle-Free, Download-Free GIF Conversion Tools Ranked for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solution-fixing-windows-auto-detect-proxy-errors/"><u>Immediate Solution: Fixing Windows' Auto Detect Proxy Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/innovate-your-online-identity-with-these-30-exceptional-tiktok-names/"><u>Innovate Your Online Identity with These 30 Exceptional TikTok Names</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-imessage-for-windows-expert-techniques-revealed/"><u>Leveraging iMessage for Windows: Expert Techniques Revealed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-15-pro-5-ways-to-get-into-a-locked-iphone-15-pro-drfone-by-drfone-ios/"><u>Locked Out of iPhone 15 Pro? 5 Ways to get into a Locked iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-on-mending-windows-1011-corrupted-recycle-bin/"><u>Masterclass on Mending Windows 10/11 Corrupted Recycle Bin</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/music-that-fuels-movement-top-rated-workout-anthems-for-2024/"><u>Music that Fuels Movement  Top-Rated Workout Anthems for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/power-buttons-ahead-crafting-shortcuts-on-windows-11/"><u>Power Buttons Ahead: Crafting Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/powertoys-integration-into-win11-systems/"><u>PowerToys Integration Into Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-systemsettingsexe-failure-on-windows-11/"><u>Preventing SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-enter-key-capabilities-in-win-os/"><u>Regaining Full Enter Key Capabilities in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-your-favorite-microsoft-store-for-windows-devices/"><u>Reinstate Your Favorite Microsoft Store for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-direct-voice-communication-for-xbox-on-windows-11/"><u>Reinstating Direct Voice Communication for Xbox on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-for-icloud-users-with-windows-pcs/"><u>Seamless Setup for iCloud Users with Windows PCs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/start-with-french-speech-a-novices-pronunciation-handbook/"><u>Start with French Speech: A Novice's Pronunciation Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-telnet-enablement-in-win11/"><u>Step-by-Step: Telnet Enablement in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-improve-usb-interaction-points/"><u>Steps to Improve USB Interaction Points</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-note-savvy-in-the-world-of-windows-11/"><u>Sticky Note Savvy in the World of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reverse-color-issue-with-windows-marketplace/"><u>Techniques to Reverse Color Issue with Windows Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-dolby-atmos-integration-in-windows-1011/"><u>The Ultimate Guide to Dolby Atmos Integration in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secret-of-your-computers-ram-type/"><u>Unlocking the Secret of Your Computer's RAM Type</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-basics-easy-access-aids-for-novices/"><u>Windows Basics: Easy-Access Aids for Novices</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-smoothly-eradicate-lags-from-star-wars-bf2-on-pc/"><u>Winning Smoothly: Eradicate Lags From Star Wars BF2 on PC</u></a></li>
+</ul></div>
