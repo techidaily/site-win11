@@ -1,7 +1,7 @@
 ---
 title: "Backup Basics: Protecting Your Digital Adventures in Epic Games"
-date: 2024-07-13T11:27:33.699Z
-updated: 2024-07-14T11:27:33.699Z
+date: 2024-08-08T13:13:22.185Z
+updated: 2024-08-09T13:13:22.185Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Enable Cloud Saves in Epic Games Launcher
 
  Epic Games Launcher has a Cloud Save feature with which you can back up saved data. That feature automatically backs up saved game progress to Epic’s online cloud service. Then all your saved progress will be preserved so that you can continue playing from where you left off after reinstalling a game. You can enable that Cloud Save feature in Epic Games Launcher like this:
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 1. Bring up the Epic Games Launcher window.
 2. Click **Library** to view all the titles you’ve installed with Epic Games.
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
@@ -48,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
 
  You’ll probably find some titles in your Epic Games library don’t support the Cloud Save feature. Those are games for which you’ll need to manually back up game saves. To do that, you’ll need to find out where those games store saved data and copy and paste the data in Windows to another location before reinstalling.
@@ -61,9 +73,15 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
 1. Open the [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) website.
 2. Then input a game title you need to back up data for within that site’s search box and press **Enter**.
 3. Scroll down the game’s page to the saved game data location details. You can find the saved game data at the Windows or Epic Games Launcher paths specified there.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 5. Right-click the game’s saved game folder and select **Copy**.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
 
@@ -93,3 +111,63 @@ thumbnail: https://thmb.techidaily.com/81c13ca843b69bc230707726fcf630e171a8ad9a8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unveiling-audible-tweets-within-social-media-videos/"><u>[New] In 2024, Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leverage-smart-organization-in-mematic/"><u>[New] Leverage Smart Organization in Mematic</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tailored-techniques-to-procure-tweets-gifs/"><u>[Updated] 2024 Approved  Tailored Techniques to Procure Tweets GIFs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-achieving-seamless-group-discussions-in-google-chat-for-2024/"><u>[Updated] Achieving Seamless Group Discussions in Google Chat for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>[Updated] Android’s Ultimate Guide to Photo Editors  Is PickUp a Contender?</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-open-the-windows-network-connections-tool/"><u>10 Ways to Open the Windows Network Connections Tool</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-your-creations-with-tiktok-tricks/"><u>2024 Approved  Elevating Your Creations with TikTok Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-facebook-video-fails-overcome-chromesafari-issues-with-9-fixes/"><u>2024 Approved  Facebook Video Fails? Overcome Chrome/Safari Issues with 9 Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-for-newcomers-on-screen-quality-measures/"><u>2024 Approved  Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sierra-unlocking-all-access-to-icloud-files-and-desktop/"><u>2024 Approved  Sierra  Unlocking All Access to iCloud Files and Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-open-the-startup-repair-tool-on-windows/"><u>5 Ways to Open the Startup Repair Tool on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-use-windows-11-more-efficiently/"><u>7 Ways to Use Windows 11 More Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-to-fix-keyboard-shortcuts-not-working-in-windows/"><u>9 Ways to Fix Keyboard Shortcuts Not Working in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreayers-guide-to-top-windows-compatible-file-sharing-software/"><u>A Compreayer's Guide to Top Windows-Compatible File Sharing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-adding-virtual-gaming-archives-into-playnite/"><u>A Comprehensive Guide to Adding Virtual Gaming Archives Into Playnite</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deeper-dive-into-your-computer-writes-mouse-secrets-of-windows-11/"><u>A Deeper Dive Into Your Computer' Writes: Mouse Secrets of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-detailed-guide-to-understanding-group-policies-windows-via-3-views/"><u>A Detailed Guide to Understanding Group Policies (Windows) via 3 Views</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-collaboration-the-5-top-windows-fs-software-picks/"><u>Accelerated Collaboration: The 5 Top Windows FS Software Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-full-compatibility-with-ios-events-in-windows/"><u>Achieving Full Compatibility with iOS Events in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-and-utilizing-end-task-option-in-windows-11-interface/"><u>Activating and Utilizing End Task Option in Windows 11 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-windows-11-spatial-audio-setup-guide/"><u>Activating Windows 11: Spatial Audio Setup Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-supported-issue-during-os-setup-and-update/"><u>Addressing 'No Supported' Issue During OS Setup and Update</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-not-sufficient-usb-issue-in-windows/"><u>Addressing “Not Sufficient USB” Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-system-index-for-optimization/"><u>Altering System Index for Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-visual-angle-in-windows-configuration/"><u>Altering Visual Angle in Windows Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-reboot-transform-your-old-game-machine/"><u>AtlasOS Reboot: Transform Your Old Game Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-mismatch-of-speaker-assignment-due-to-another-app/"><u>Avoiding Mismatch of Speaker Assignment Due to Another App</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-windows-notepad-system-disruptions/"><u>Avoiding Windows Notepad System Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-stubborn-epic-launcher-guide-for-win-11-users/"><u>Banish Stubborn Epic Launcher: Guide for Win 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-back-corrupt-files-error-code-0x80070570-solutions-for-windows-11/"><u>Beating Back Corrupt Files Error Code 0X80070570: Solutions for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-limits-why-16gb-ram-is-key-for-modern-pcs/"><u>Beyond Limits: Why 16GB RAM Is Key for Modern PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlock-less-windows-defense-tactics-4-suggestions/"><u>BitLock-Less Windows Defense Tactics: 4 Suggestions</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlocker-less-protection-4-effective-methods-for-win-users/"><u>BitLocker-Less Protection: 4 Effective Methods for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/blueprint-for-dominance-in-windows-appbrowser-arena/"><u>Blueprint for Dominance in Windows' App/Browser Arena</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-media-stream-efficiency-taming-vlc-lags/"><u>Boosting Media Stream Efficiency: Taming VLC Lags</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-utorrents-windows-download-speed/"><u>Boosting uTorrent's Windows Download Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/bootable-backup-a-self-reliant-approach/"><u>Bootable Backup: A Self-Reliant Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-application-launch-descriptors/"><u>Breaking Down Application Launch Descriptors</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-from-the-forgotten-island-xbox-hiccup/"><u>Breaking Free From the Forgotten Island Xbox Hiccup</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-windows-passwords-the-11-easiest-ways-to-open-credential-manager/"><u>Breaking Into Windows Passwords: The 11 Easiest Ways to Open Credential Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/1719261545557-eliminate-roblox-error-262-in-minutes/"><u>Eliminate Roblox Error 262 in Minutes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone-for-2024/"><u>Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719296331398-fixes-for-inadequate-screen-shots-in-windows-snip-and-sketch-app/"><u>Fixes for Inadequate Screen Shots in Windows’ Snip & Sketch App.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-nvidia-quadro-rtx-8000-drivers-now-compatible-with-windows-1087/"><u>Get Your New Nvidia Quadro RTX 8000 Drivers Now: Compatible with Windows 10/8/7!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 7 Plus | Stellar</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-building-bonds-before-buying-subscription-strategies/"><u>In 2024, Building Bonds Before Buying  Subscription Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glacial-glory-spectacous-moments-from-2022s-olympic-snowboard-races/"><u>In 2024, Glacial Glory  Spectacous Moments From 2022'S Olympic Snowboard Races</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 11?</u></a></li>
+<li><a href="https://win11.techidaily.com/1719360178726-navigate-and-rectify-common-errors-using-snip-and-sketch-on-windows/"><u>Navigate and Rectify Common Errors Using Snip & Sketch on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/obs-studio-basics-full-guide-to-ps4-game-recording/"><u>Obs Studio Basics - Full Guide to PS4 Game Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254323833-overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS.</u></a></li>
+<li><a href="https://win11.techidaily.com/1719288445449-overcoming-wwin-plus-printer-not-responding-issue-in-windows/"><u>Overcoming WWin + Printer Not Responding Issue in Windows.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinterest-vid-extraction-made-easy-the-best-tools-ranked-for-2024/"><u>Pinterest Vid Extraction Made Easy  The Best Tools Ranked for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-swift-audio-update-methods-in-win-1011-systems/"><u>Secure & Swift Audio Update Methods in Win 10/11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973769050-surface-book-driver-update-made-simple-download-now/"><u>Surface Book Driver Update Made Simple – Download Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/1719339382074-unlock-frozen-shift-on-windows-pcs/"><u>Unlock Frozen Shift on Windows PCs.</u></a></li>
+</ul></div>

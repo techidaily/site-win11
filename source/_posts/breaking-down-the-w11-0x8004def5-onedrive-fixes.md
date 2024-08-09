@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the W11 0X8004DEF5 Onedrive Fixes
-date: 2024-07-13T11:26:34.750Z
-updated: 2024-07-14T11:26:34.750Z
+date: 2024-08-08T13:14:12.679Z
+updated: 2024-08-09T13:14:12.679Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  If you face the same error and cannot log in and access your OneDrive account, don't worry. We will list out multiple methods to restore OneDrive to its working state. Let's begin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 1\. Terminate OneDrive and Restart the App
 
  Before trying out any complex fixes, you must terminate all the active instances of OneDrive. After that, restart it to check if it connects with the server. Here's how:
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  You can visit the [Microsoft Service Health page](https://portal.office.com/servicestatus) to check which services are down. Alternatively, you can use third-party websites like [DownDetector](https://downdetector.com/) . That way, you can know if other users also face the same server outage issue. If that's the case, you have to wait until Microsoft resolves the problem and brings up the OneDrive servers again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Completely Shut Down and Reboot Your Computer
 
  Background services are susceptible to glitches and crashes. If one or more such essential services encounter a glitch, it can impede apps that rely on them. However, Windows 11 enables Fast Startup by default which preserves the state of all system and kernel processes for speeding up boot time.
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 1. Press**Win + R** to open the Run command box. Type**cmd** and press**Ctrl + Shift + Enter** keys to open the command prompt with administrator privileges.
 2. Now, type the following command and press the enter key:**shutdown /s /f /t 0**  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
 4. Now, launch OneDrive and check if you can access your files.
@@ -67,6 +76,9 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Press the enter key to navigate to the OneDrive logs folder.
 4. Locate the**userTelemetryCache.otc** file and copy it.**Paste** it to any other disk drive on your system.
 5. Return to the logs folder and**delete** the**userTelemetryCache.otc** file.  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Clear OneDrive Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-onedrive-logs.jpg)
 6. Close the File Explorer and restart your system.
 7. Launch OneDrive and then check if it encounters the same error code.
@@ -91,20 +103,32 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 3. Now, run the**winget uninstall** command with the OneDrive app ID. This is what it will look like:**Winget uninstall Microsoft.OneDrive**
 4. Wait for winget to remove OneDrive from your system. To confirm the uninstallation, type the following command:**winget list onedrive**
 5. You will see that no package named OneDrive is not present on your system.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reinstall OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-1.jpg)
 
 1. Type**cls** to clear the command prompt window.
 2. Now, input the following command and press the enter key:**winget install Microsoft.OneDrive**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Reinstall OneDrive 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-2.jpg)
 3. Wait for the tool to download and install OneDrive on your system. You don't need to interact with the installer.
 4. **Close** the command prompt window after seeing the "**Successfully installed** " message.
 5. Launch OneDrive. You will have to**sign in** with your account.
 6. Check if you can connect and browse your files.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Rollback Windows Updates
 
  New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Restore or Reset the PC
 
  If you still face the OneDrive error code, it's time to [perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
@@ -129,3 +153,70 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instas-funniest-and-touchiest-memetic-hub-a-list-of-10/"><u>[New] 2024 Approved  Insta's Funniest & Touchiest Memetic Hub  A List of 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-photosculptor-kit/"><u>[New] 2024 Approved  PhotoSculptor Kit</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-acquire-unlimited-stock-images-via-top-4-youtube-sources/"><u>[New] In 2024, Acquire Unlimited Stock Images via Top 4 YouTube Sources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>[New] Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>[New] The 6 Best Digital Canvases  Ideal NFT Services For Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-worlds-fusing-photos-into-majestic-tiles/"><u>[Updated] Bridging Worlds  Fusing Photos Into Majestic Tiles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-can-a-brief-subscribe-boost-your-content-viewing-for-2024/"><u>[Updated] Can a Brief Subscribe Boost Your Content Viewing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-finding-and-following-leading-biz-channels-online/"><u>[Updated] In 2024, Finding and Following Leading Biz Channels Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[Updated] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/14-unveiling-windows-11-post-update-feature-list/"><u>14 Unveiling Windows 11: Post-Update Feature List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-soft-melodies-pcos-guide/"><u>2024 Approved  Mastering Soft Melodies  PC/OS Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-ultimate-fb-video-player-guide-top-picks-listed/"><u>2024 Approved  Ultimate FB Video Player Guide  Top Picks Listed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/accessing-social-network-videos-seamlessly-on-apple-tv-for-2024/"><u>Accessing Social Network Videos Seamlessly on Apple TV for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-sound-in-obs-studio-resolving-no-audio-on-win-11/"><u>Amplify Sound in OBS Studio - Resolving No Audio on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-windows-zoom-obstacles-stop-code-1132-issues/"><u>Avoid Windows Zoom Obstacles: Stop Code 1132 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-of-dxgierror-post-device-disconnect/"><u>Avoidance of DXGI_Error Post Device Disconnect</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-competing-gpus-to-geforce-rtx-4060-ti/"><u>Best Competing GPUs to GeForce RTX 4060 Ti</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-computers-efficient-filesharing-through-python-on-windows/"><u>Bridging Computers: Efficient Filesharing Through Python on Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/brilliant-barrage-essential-gadgets-for-clips/"><u>Brilliant Barrage  Essential Gadgets for Clips</u></a></li>
+<li><a href="https://win11.techidaily.com/clashing-cybersecurity-the-case-against-multiple-antiviruses-on-windows/"><u>Clashing Cybersecurity: The Case Against Multiple Antiviruses on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/compre-written-for-pc-performance-metrics/"><u>Compre Written for PC Performance Metrics</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-data-metering-settings-for-wi-fi-in-windows-11/"><u>Configuring Data Metering Settings for Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-idle-screen-time-on-windows/"><u>Configuring Idle Screen Time on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-gaming-power-drain-from-wm/"><u>Cutting Down Gaming Power Drain From WM</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cutting-edge-techniques-for-video-production-in-windows-photos/"><u>Cutting-Edge Techniques for Video Production in Windows Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciding-on-your-video-recorder-heroes-obs-or-bandicam-for-2024/"><u>Deciding on Your Video Recorder Heroes  OBS or Bandicam for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-explore-tab-glitches-in-modern-os/"><u>Disabling Explore Tab Glitches in Modern OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-k11x-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo K11x FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-photo-management-winning-windows-applications/"><u>Efficient Photo Management: Winning Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-knowledge-setting-windows-filter-keys/"><u>Essential Knowledge: Setting Windows Filter Keys</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-advice-on-zapping-zoom-issues-right-away/"><u>Expert Advice on Zapping Zoom Issues Right Away</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-for-fast-utorrent-downloads-on-windows/"><u>Expert Techniques for Fast uTorrent Downloads on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719354508470-fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools.</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-steam-audio-issues/"><u>Fixing Common Steam Audio Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-camera-allocation-conflict-on-windows-os/"><u>Handling Camera Allocation Conflict on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-download-your-cortana-data-on-windows/"><u>How to Download Your Cortana Data on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-infinitely-stop-microsoft-defender-in-windows/"><u>How to Infinitely Stop Microsoft Defender in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-no-uninstall-issue-on-windows-oses/"><u>How to Sidestep No Uninstall Issue on Windows OSes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-start-your-game-overcoming-age-of-empires-4-initialization-hurdles/"><u>How to Successfully Start Your Game: Overcoming Age of Empires 4 Initialization Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-vanquish-xps-mysterious-printer-error-xfddddf/"><u>How to Vanquish XP's Mysterious Printer Error XFDDDDF</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a38mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A38Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-cost-top-quality-premiere-pro-designs/"><u>In 2024, No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshop-sway-decrease-pivotal-or-superfluous/"><u>In 2024, Photoshop Sway Decrease  Pivotal or Superfluous?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nubia-red-magic-8s-proplus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nubia Red Magic 8S Pro+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/iphone-and-android-compared-top-youtube-app-analysis/"><u>IPhone & Android Compared  Top YouTube App Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-apples-calendar-in-a-win1011-setup/"><u>Leveraging Apple's Calendar in a Win10/11 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-clearing-microsoft-protection-archives/"><u>Mastering the Art of Clearing Microsoft Protection Archives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-devices-for-photogrammetric-movies-for-2024/"><u>Optimal Devices for Photogrammetric Movies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/paving-the-way-for-progress-updating-windows-drivers/"><u>Paving the Way for Progress: Updating Windows Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-slow-windows-edge-w10-w11/"><u>Quick Fixes for Slow Windows Edge (W10, W11)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-silence-crackling-sounds-in-your-headphones-now/"><u>Quick FIXES to Silence Crackling Sounds in Your Headphones Now</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-pause-bring-back-lost-sounds-to-tech-gadgets/"><u>Resetting Pause: Bring Back Lost Sounds to Tech Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-remote-desktop-troubleshoot-internal-errors/"><u>Resolving Windows 11 Remote Desktop: Troubleshoot Internal Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-clicks-avoid-accelerated-movement-in-win-1011/"><u>Stabilizing Clicks: Avoid Accelerated Movement in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-printer-force-delete-on-windows-11/"><u>Step-by-Step Printer Force Delete on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-code-e1-in-w10w11-devices/"><u>Tackling Error Code: E1 in W10/W11 Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tailoring-your-digital-footprint-customizing-your-youtube-url-for-2024/"><u>Tailoring Your Digital Footprint  Customizing Your YouTube Url for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-blue-screen-essential-fixes-for-win10/"><u>Troubleshoot Blue Screen: Essential Fixes for Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/unclogging-windows-chrome-problems/"><u>Unclogging Windows Chrome Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-with-our-top-5-budget-drivers-for-pcs/"><u>Unleash Potential with Our Top 5 Budget Drivers for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-your-digital-persona-username-overhaul-guide/"><u>Upgrading Your Digital Persona: UserName Overhaul Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Addressing Inoperative Windows Programs: A Fixer’s Manual"
-date: 2024-07-13T11:29:54.015Z
-updated: 2024-07-14T11:29:54.015Z
+date: 2024-08-08T13:11:21.545Z
+updated: 2024-08-09T13:11:21.545Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
 1. Press **Win + R** on your keyboard to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **WSReset.exe** in the dialog box and press Enter.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
 
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Check for Microsoft Store Updates
 
  Another potential reason for this error is the outdated Windows Store version. Microsoft regularly releases updates to fix bugs and improve Store performance. So, make sure that you are using the latest version. To check for Windows Store updates, follow these steps.
@@ -48,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  After following the steps above, restart your computer and see if it resolves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Run the Windows Store Apps Troubleshooter
 
  Windows comes with a built-in troubleshooter that diagnoses and resolves various problems. You can use it to fix the “This app will not work on your device” error as well. To run the troubleshooter, follow these steps:
@@ -68,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 1. Press **Win + R** on your keyboard to open the Run command.
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services window.
 3. Scroll down to find the **Application Identity** service and double-click on it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
 4. In the Properties window, set the **Startup type** to **Automatic**.
 5. Also, click on the **Start** button under Service status.
@@ -84,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 3. Go to the right pane and click **Open Windows Security**.
 4. Once you're in Windows Security, select **Virus & threat protection** from the left pane.
 5. Next, scroll down to **Virus & threat protection settings** and click **Manage settings**.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Manage settings in Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manage-settings-in-windows-security.jpg)
 6. Turn off the **Real-time protection** toggle.  
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
@@ -97,12 +112,32 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 1. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and view it in **Category** mode.
 2. Go to **Programs > Programs and Features > Turn Windows features on or off**.
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 8\. Perform Several Generic Windows Fixes
 
  If none of the above solutions managed to fix the error, you can try performing several generic fixes. This includes [running the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to scan for missing or corrupted files and the Deployment Image Servicing and Management tool to repair any corrupt system image.
@@ -111,6 +146,18 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Keep Your Apps Up and Running on Windows
 
  It's okay if you receive a "this app will not work on your device" message; it just means that your system doesn't meet an app's requirements or there is a corrupted Microsoft Store cache. Thankfully, our guide offers solutions to resolve this issue quickly.
@@ -125,3 +172,46 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[New] 2024 Approved  Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harness-the-power-of-azure-speech-to-text-technology/"><u>[New] Harness the Power of Azure Speech to Text Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-audio-gradients-in-ableton/"><u>[New] Streamlining Audio Gradients in Ableton</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficient-processes-for-uploading-videos-from-ios-gadgets/"><u>[Updated] In 2024, Efficient Processes for Uploading Videos From iOS Gadgets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-perfect-full-screen-display-on-fb-videos-step-by-step-for-2024/"><u>[Updated] Perfect Full-Screen Display on FB Videos, Step by Step for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-industry-leaders-top-notch-free-presentation-resources/"><u>2024 Approved  Industry Leaders  Top-Notch, Free Presentation Resources</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe/"><u>2024 Approved  Maximize Mobile Video Quality  Top 4 Strategies to Brighten iPhone HDR in Adobe</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-power-of-branding-in-video-ranks-and-traffic/"><u>2024 Approved  The Power of Branding in Video Ranks and Traffic</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-new-life-into-windows-11s-diagnostic-features/"><u>Breathe New Life Into Windows 11'S Diagnostic Features</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-connecting-your-computer-again/"><u>Bridge the Gap: Connecting Your Computer Again</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-technical-gaps-fixing-faulty-win11-ccleaner/"><u>Bridging Technical Gaps: Fixing Faulty Win11 CCleaner</u></a></li>
+<li><a href="https://win11.techidaily.com/broken-bitwall-dont-hurry-evaluate-existing-safeguards/"><u>Broken BitWall: Don't Hurry, Evaluate Existing Safeguards</u></a></li>
+<li><a href="https://win11.techidaily.com/browser-ram-test-showdown-top-7-lightweight-contenders/"><u>Browser RAM Test Showdown: Top 7 Lightweight Contenders</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-safe-web-environment-with-trustable-sites-in-windows-11/"><u>Building a Safe Web Environment with Trustable Sites in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-quick-access-initiate-file-explorer-via-onedrive-link/"><u>Bypass Quick Access: Initiate File Explorer via OneDrive Link</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-blocked-onedrive-fixes-for-windows-users/"><u>Bypassing Blocked OneDrive: Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-spec-limitations-for-successful-game-capturing/"><u>Bypassing Spec Limitations for Successful Game Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-audible-hurdle-code-0xc00d36b4/"><u>Bypassing Windows' Audible Hurdle: Code 0Xc00d36b4</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-use-your-microphone-on-google-meet-for-windows-heres-why/"><u>Can’t Use Your Microphone on Google Meet for Windows? Here's Why</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-the-course-for-user-sid-discovery-on-windows-11/"><u>Charting the Course for User SID Discovery on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/choco-vs-wm-a-comparative-look-at-windows-package-tools/"><u>Choco vs WM: A Comparative Look at Window's Package Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/christmas-in-coding-revamping-your-windows-11/"><u>Christmas in Coding: Revamping Your Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-constant-pc-startup-in-bios-mode/"><u>Circumventing Constant PC Startup in BIOS Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-error-0x80242016-for-updates/"><u>Circumventing Error 0X80242016 for Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-lockdown-resolving-windows-11-error-code-22/"><u>Circumventing Lockdown: Resolving Windows 11 Error Code 22</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-diablo-playbook-step-by-step-guide/"><u>Classic Diablo Playbook: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-explorer-features-revival-guide/"><u>Classic Explorer Features Revival Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-the-clutter-prioritizing-and-positioning-tasks-on-your-window-desktop/"><u>Clear the Clutter: Prioritizing and Positioning Tasks on Your Window Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-the-path-to-chatting-ease-on-your-pc/"><u>Clear the Path to Chatting Ease on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-errors-successfully-downloading-from-the-ms-store/"><u>Clearing Errors: Successfully Downloading From the MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-path-fixing-office-activation-errors/"><u>Clearing the Path: Fixing Office Activation Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-closed-captioning-confusion-in-win-10-systems/"><u>Clearing Up Closed Captioning Confusion in Win 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-dark-screen-with-windows-webcam/"><u>Clearing Up Dark Screen with Windows Webcam</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-disappearing-steam-app-graphics/"><u>Combat Disappearing Steam App Graphics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature - For PDF</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-get-and-set-up-the-nexiq-usb-link-2-drivers/"><u>How to Easily Get and Set Up the Nexiq USB-Link 2 Drivers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-15-best-rock-songs-that-you-should-know/"><u>In 2024, 15 Best Rock Songs That You Should Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-15-luts-for-enhanced-gopro-footage-quality/"><u>In 2024, Best 15 LUTs for Enhanced GoPro Footage Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snapshotsculptor-ultimate-photo-mosaic-builder/"><u>SnapshotSculptor  Ultimate Photo Mosaic Builder</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo S18e | Dr.fone</u></a></li>
+</ul></div>

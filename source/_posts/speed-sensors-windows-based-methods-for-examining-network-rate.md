@@ -1,0 +1,150 @@
+---
+title: "Speed Sensors: Windows-Based Methods for Examining Network Rate"
+date: 2024-08-08T13:17:31.060Z
+updated: 2024-08-09T13:17:31.060Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Speed Sensors: Windows-Based Methods for Examining Network Rate"
+excerpt: "This Article Describes Speed Sensors: Windows-Based Methods for Examining Network Rate"
+keywords: Network Rate Analysis,Speed Sensor Windows,Network Speed Test,Wireless Monitoring,Data Throughput Check,Windows Network Diagnostics,Real-Time Traffic Evaluation
+thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00fb525d667e1a6c4f5883874.jpg
+---
+
+## Speed Sensors: Windows-Based Methods for Examining Network Rate
+
+ The network adapter is a critical piece of hardware that connects your Windows computer to the internet via a wired or wireless connection. In order to achieve the maximum speeds offered by your Internet Service Provider, it is important to know what network speed your card is capable of.
+
+ Whether you want to upgrade your internet plan or diagnose your network for performance issues, there are several ways to determine the network adapter speed on Windows. Let’s go over all of them one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## 1\. How to Check the Network Adapter Connection Speed Using the Settings App
+
+ The quickest way to check the connection speed for a Wi-Fi or Ethernet adapter is through the Windows Settings app. Aside from network speed, the Settings app also provides important information like network band, local IP address, MAC address, and more.
+
+To check the network adapter speed via the Settings app:
+
+1. Press**Win + I** to open the Settings app.
+2. Select**Network & internet** from the left sidebar.
+3. Click on**Properties** at the top.
+4. Scroll down to the**Link speed (Receive/Transmit)** field to check the connection speed.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Check Network Adapter Speed Using the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. How to Check the Network Adapter Connection Speed Using Control Panel
+
+ Although Microsoft is gradually moving a large number of features to the Settings app, many people still prefer to use the Control Panel to modify settings and troubleshoot issues. If you are one of them, here's how you can check the network adapter connection speed via Control Panel.
+
+1. Press**Win + R** to open the Run dialog (see[how to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more ways).
+2. Type**control** in the box and press**Enter** .
+3. In the Control Panel window that opens, use the drop-down menu in the top right corner to change the view type to**Small icons** or**Large icons** .
+4. Go to**Network and Sharing Center** .
+5. Click the**Change adapter settings** link from the left pane.
+6. Double-click on your Ethernet or Wi-Fi adapter to open its properties.
+7. Check the connection speed of your network adapter in the**Speed** field.  
+![Check Network Adapter Speed Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-control-panel.jpg)
+
+ Seeing too many network adapter entries on your Windows computer? Learn[how to get rid of old or inactive network adapters from Windows](https://www.makeuseof.com/how-to-remove-network-adapter-windows/) in a few easy steps.
+
+## 3\. How to Check Network Adapter Connection Speed via Command Prompt
+
+ Not a fan of GUI? No problem. You can also use a command-line utility like Command Prompt to check the network adapter connection speed on Windows. Here are the steps for the same.
+
+1. Right-click on the Start icon or use the**Win + X** shortcut to open the[Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) .
+2. Select**Terminal** from the list.
+3. In the console, paste the following command and press**Enter** .  
+`netsh wlan show interfaces`
+4. Check the values next to**Receive rate** and**Transmit rate** to determine the speed of your network adapter.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![Check Network Adapter Speed Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-command-prompt.jpg)
+
+ Like using Command Prompt? Check our guide on[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
+
+## 4\. How to Check Network Adapter Connection Speed via PowerShell
+
+ PowerShell is yet another command-line tool you can use to interact with Windows. Although PowerShell is primarily used to automate tasks and troubleshoot errors, you can also use it to find system information such as the network adapter speed.
+
+To check network adapter connection speed via PowerShell:
+
+1. Press**Win + S** to open the search menu.
+2. Type**Windows PowerShell** in the search box and press**Enter** .
+3. Paste the following command in the console and press**Enter** .  
+`Get-NetAdapter | select interfaceDescription, name, status, linkSpeed`  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Check Network Adapter Speed Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-powershell.jpg)
+
+ Once you run the above command, PowerShell will display a list of all the Ethernet and Wi-Fi adapters on your Windows computer, along with their link speeds.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Checking Network Adapter Connection Speed on Windows
+
+ As we just learned, determining the network adapter connection speed on Windows is relatively simple. Do you know what else is easy? Speeding up the internet connection speed on your Windows computer.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovating-with-obs-studio-on-android-systems/"><u>[New] 2024 Approved  Innovating with OBS Studio on Android Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-real-strategy-behind-instagram-reels/"><u>[New] 2024 Approved  The Real Strategy Behind Instagram Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-4k-monitors-showdown-top-10-picks/"><u>[New] 4K Monitors Showdown  Top 10 Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chorus-to-creation-finding-10-prime-tunes-for-podcast-intros/"><u>[New] Chorus to Creation  Finding 10 Prime Tunes for Podcast Intros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-iphone-saving-and-utilizing-gifs-effectively/"><u>[New] Mastering iPhone  Saving & Utilizing GIFs Effectively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-zoom-on-windows-11-a-step-by-step-guide/"><u>[New] Mastering Zoom on Windows 11  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-non-copyrighted-meditation-sounds/"><u>[New] Non-Copyrighted Meditation Sounds</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-short-video-battle-will-likes-emerge-as-top-social-media-star-over-tiktok-for-2024/"><u>[New] Short Video Battle  Will Likes Emerge as Top Social Media Star Over TikTok for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon-for-2024/"><u>[Updated] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-non-networked-game-haven-top-screen-free-android-titles/"><u>2024 Approved  Non-Networked Game Haven  Top Screen-Free Android Titles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/artists-playground-the-prime-6-platforms-for-nft-creation-for-2024/"><u>Artists' Playground  The Prime 6 Platforms for NFT Creation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-through-the-barrier-of-windows-errors/"><u>Breaking Through the Barrier of Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-through-windows-block-essential-5-step-solutions/"><u>Breaking Through Windows Block: Essential 5-Step Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-back-into-your-windows-11-media-player/"><u>Breathe Life Back Into Your Windows 11 Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-languages-font-downloads-for-windows-enthusiasts/"><u>Bridging Languages: Font Downloads for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-missing-icons-on-windows-11-easily/"><u>Bring Back Missing Icons on Windows 11 Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-dormant-wastebin-icon-in-windows/"><u>Bring Back the Dormant Wastebin Icon in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-your-messaging-up-to-date-with-win11s-new-emojis/"><u>Bring Your Messaging Up-to-Date with Win11's New Emojis</u></a></li>
+<li><a href="https://win11.techidaily.com/building-python-applications-to-handle-file-operations-in-networks/"><u>Building Python Applications to Handle File Operations in Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/bumping-basslines-top-4-software-to-overshoot-windows-maxed-volume/"><u>Bumping Basslines: Top 4 Software to Overshoot Window's Maxed Volume</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-non-genuine-adobe-pop-up-on-pcs/"><u>Bypass Non-Genuine Adobe Pop-Up on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-maxed-out-status-of-gpt-on-pc/"><u>Bypassing Maxed Out Status of GPT on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-mandatory-component-fault-windows-1011/"><u>Bypassing the Mandatory Component Fault Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/calm-down-your-zooming-mouse-with-7-fixes/"><u>Calm Down Your Zooming Mouse with 7 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/can-pressing-prtscr-open-snipping-tool-how-to-block-it-on-windows-11/"><u>Can Pressing PrtScr Open Snipping Tool? How to Block It on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-unwanted-windows-update-restarts/"><u>Cease Unwanted Windows Update Restarts</u></a></li>
+<li><a href="https://win11.techidaily.com/chronicles-unveiled-diving-into-windows-11-history/"><u>Chronicles Unveiled: Diving Into Windows 11 History</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-chatgpts-overloaded-windows-alert/"><u>Clearing ChatGPT's Overloaded Windows Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-out-of-storage-error-on-win-1011/"><u>Clearing Up Out of Storage Error on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-windows-10-tracking-step-by-step-tutorial/"><u>Clearing Windows 10 Tracking: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/clockwise-controls-6-image-rotation-strategies-for-w11-phones/"><u>Clockwise Controls: 6 Image Rotation Strategies for W11 Phones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/x4-executive-chair-by-x-chair-a-comprehensive-review-and-why-its-great-for-offices/"><u>X4 Executive Chair by X-Chair: A Comprehensive Review and Why It's Great For Offices</u></a></li>
+</ul></div>

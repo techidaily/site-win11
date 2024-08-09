@@ -1,0 +1,234 @@
+---
+title: Overcoming Windows' Intrusive Minimize Feature
+date: 2024-08-08T13:17:15.419Z
+updated: 2024-08-09T13:17:15.419Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Overcoming Windows' Intrusive Minimize Feature
+excerpt: This Article Describes Overcoming Windows' Intrusive Minimize Feature
+keywords: Minimizing Windows,Overcome Window Pause,Resist AutoMinimize,Defeat Minimize Glitch,Avoid Windows Hide,Prevent PC Hide Feature,Block Windows Minimize
+thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc74fde8e765814f3eec97fd83.jpg
+---
+
+## Overcoming Windows' Intrusive Minimize Feature
+
+ One day, you're using your Windows device and realize that some apps minimize themselves without warning. But why are you encountering this issue? Well, there are several potential causes—ranging from misconfigured settings to malware infections.
+
+ Fortunately, we’ve got all the solutions that’ll help you resolve this problem. So, let’s explore why you’re encountering this issue and how you can tackle it.
+
+## Why Do Your Programs Automatically Minimize Themselves?
+
+ Here are some common reasons why your programs may be automatically minimizing themselves:
+
+* **Focus Stealing**: Certain apps or background processes may steal the focus from an active program and cause it to minimize. This can happen due to notifications, pop-up messages, or other system events that require attention.
+* **Misconfigured Multitasking Settings**: Windows has built-in multitasking features such as the "Snap windows" tool. Such features allow you to automatically arrange a window when you drag it to the edge of the screen. But if these tools are misconfigured, they can cause programs to minimize unexpectedly.
+* **Faulty Display Drivers**: Outdated or corrupted display drivers can cause conflicts with apps and make your apps minimize themselves unexpectedly.
+* **Compatibility Issues**: Some programs may not be fully compatible with your Windows version. So, such apps might often minimize themselves as a response to compatibility issues.
+* **Third-Party Software Interference**: Sometimes, certain third-party apps (such as antivirus programs) can conflict with other programs and cause them to minimize without warning.
+* **Malware or Viruses**: Malicious software can interfere with your programs and cause them to minimize themselves or behave unexpectedly.
+
+ Now, it’s time to explore the solutions.
+
+## 1\. Disable Unnecessary Background Processes
+
+ If the issue is caused by focus stealing, then stopping some of your background processes could help. Here's how you can do it:
+
+1. Press **Ctrl + Shift + Esc** to open the Task Manager.
+2. Navigate to the **Processes** tab.
+3. Scroll down to the **Background processes** section.
+4. Right-click on the processes that you deem unnecessary and select **End Task** to stop them.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![Stopping a background processes on the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/stopping-a-background-processes-on-the-task-manager.jpg)
+
+ Close the Task Manager and restart your device to save these changes.
+
+ Keep in mind that some background processes are essential for the proper functioning of your PC. So, exercise caution when terminating processes in the Task Manager. If you’re unsure about a particular process, research it first to ensure that it’s safe to stop.
+
+## 2\. Configure the Windows Multitasking Settings
+
+ There’s a high chance that your apps minimize themselves because of the way you’ve configured the multitasking settings. So, let’s check out the few tweaks you should make to tackle this problem:
+
+1. Press **Win + I** to open the system settings.
+2. Click the **System** option.
+3. Select **Multitasking** from the options on the left.
+4. Uncheck the **When I snap a window, automatically size it to fill available space** option. When this option is enabled, you can make an app fill the entire screen by dragging it to the edge. But this will automatically minimize other apps, which is something you probably don’t want to do.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
+![Configuring the Multitasking Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/configuring-the-multitasking-settings.jpg)
+
+ If the issue persists, consider disabling the box in the bottom part of the "Snap windows" section. Alternatively, you could consider turning off the "Snap windows" feature.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Update the Display Drivers or Run the Compatibility Troubleshooter
+
+ By [updating the display drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/), you provide a stable and compatible graphics environment for your PC. Not only will this reduce the chances of programs automatically minimizing, but it’ll also tackle other system issues.
+
+ And if you suspect that the error is caused by compatibility issues, then the compatibility troubleshooter should help. The tool will attempt to detect and resolve any compatibility issues related to the program.
+
+ Here are the steps to run the compatibility troubleshooter on Windows:
+
+1. Press **Win + I** to open the system settings.
+2. Click **Update & Security** from the options.
+3. Select **Troubleshoot** on the left-hand side.
+4. Click the **Additional troubleshooters** option on the right.
+5. Select the **Program Compatibility Troubleshooter** option and click the **Run the troubleshooter** button.
+
+![Running the Compatibility Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/running-the-compatibility-troubleshooter.jpg)
+
+ To further resolve compatibility issues, consider [updating your Windows device](https://www.makeuseof.com/update-windows-manually/).
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Resolve Software Conflicts
+
+ We discovered earlier that security software (or faulty third-party apps) can interfere with the normal functioning of other programs. This means it's likely that such programs could cause other apps to minimize unexpectedly.
+
+ Now, let’s explore how to resolve software conflicts that stem from security software or faulty third-party apps:
+
+* **Identify Suspicious Software**: Take note of any recently installed software that's likely causing other apps to minimize unexpectedly.
+* **Temporarily Disable or Reinstall Security Software**: Temporarily disable security software (such as antivirus programs) and see if that helps. And if you’re using a third-party security program, uninstall it temporarily and check if that resolves the issue. From there, reinstall the tool from a reputed website.
+* **Update Conflicting Software**: If you suspect the issue is caused by outdated third-party apps, try updating those apps and see if that tackles the issue.
+
+ So, what if the issue stems from malware? In that case, you’d need to clean up your PC with [the best malware removal tools](https://www.makeuseof.com/best-malware-removal-tools-pc/).
+
+## 5\. Turn Off Game Mode
+
+ Game Mode is a Windows feature designed to optimize system performance for gaming. However, it may sometimes interfere with some tools and cause them to minimize unexpectedly. This means disabling the "Game Mode" feature can be a potential solution to the issue at hand.
+
+ So, let’s check out how you can turn this feature off:
+
+1. Press **Win + I** to open the system settings.
+2. Select **Gaming** from the options.
+3. Click **Game Mode** on the left-hand side.
+4. **Turn off** the “Game Mode” button on the right-hand side pane.
+
+![Turning Off Game Mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turning-off-game-mode-on-windows.jpg)
+
+ Close the settings app and check if this resolves the issue.
+
+ Turning off Game Mode may slightly affect gaming performance because the system will no longer focus on allocating resources specifically for gaming.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 6\. Run the System Maintenance Troubleshooter
+
+ Maybe the issue at hand is caused by system maintenance problems. And in that case, running the System Maintenance troubleshooter should help tackle the problem. So, let's take you through how you can use this tool:
+
+1. Type **Perform recommended maintenance tasks automatically** in the Start menu search bar.
+2. Select the **Best match** result to open the System Maintenance troubleshooter.
+3. Click the **Advanced** option and then check the **Apply repairs automatically** box.
+4. Click **Next** and follow the on-screen steps to finalize the process.
+
+![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Edit the Registry Editor
+
+ As a last resort, you could consider tweaking some settings in the Registry Editor. But make sure you [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed. That’s because you might wreak havoc on your PC if you mistakenly tweak the wrong Registry keys.
+
+ To resolve the issue at hand, you'll have to tweak the ForegroundLockTimeout registry key. This is a setting that controls the timeout duration for foreground processes. Simply put, it determines the amount of time a process must remain in the foreground before the device considers it unresponsive.
+
+ To ensure that everything runs smoothly, you'll have to set the value of the ForegroundLockTimeout registry key to its default.
+
+ Here are the steps you need to follow:
+
+1. Type **Registry Editor** in the Start menu search bar and select the **Best match** result.
+2. Copy-paste the following command into the address bar and press **Enter**:
+
+Computer\HKEY_CURRENT_USER\Control Panel\Desktop
+
+ From there, double-click on the **ForegroundLockTimeout** value on the right-hand side pane.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![Clicking the ForegroundLockTimeout value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-foregroundlocktimeout-value-in-the-registry-editor.jpg)
+
+ Next, set its Value data to **249f0** and then click **OK**. This is the default value that should help get rid of the issue at hand. Finally, close the Registry Editor and restart your device to save these changes.
+
+## Say Goodbye to App Minimizing Issues
+
+ It can be quite irritating when apps decide to minimize themselves without your permission. But if you apply the tips we’ve covered, you should be able to tackle this problem in no time.
+
+ Fortunately, we’ve got all the solutions that’ll help you resolve this problem. So, let’s explore why you’re encountering this issue and how you can tackle it.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-no-fuss-tactics-for-saving-vimeo-footage/"><u>[New] 2024 Approved  No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-content-that-captivates-and-grows-your-audience-for-2024/"><u>[New] Crafting Content That Captivates and Grows Your Audience for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-educational-history-vlogs-the-ultimate-list/"><u>[Updated] 2024 Approved  Educational History Vlogs - The Ultimate List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams-for-2024/"><u>[Updated] From Viewers to VIPs  Ajay's Strategy for Sustainable Income Streams for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-making-your-videos-farewell-count-outro-essentials/"><u>[Updated] Making Your Video's Farewell Count  Outro Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-open-mouse-properties-on-windows-11/"><u>10 Ways to Open Mouse Properties on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/11-fresh-features-in-windows-11-post-update-milestone/"><u>11 Fresh Features in Windows 11, Post-Update Milestone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seamless-playlist-transfer-migrating-from-spotify-to-youtube-music-service/"><u>2024 Approved  Seamless Playlist Transfer  Migrating From Spotify to YouTube Music Service</u></a></li>
+<li><a href="https://win11.techidaily.com/6-simple-time-management-and-productivity-apps-for-windows/"><u>6 Simple Time Management and Productivity Apps for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/7-methods-to-mend-your-obs-studio-connection-on-windows-pcs/"><u>7 Methods to Mend Your OBS Studio Connection on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-fix-inaccessible-screen-resolution-settings-on-windows/"><u>8 Ways to Fix Inaccessible Screen Resolution Settings on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-accessing-windows-fix/"><u>A Comprehensible Guide to Accessing Windows Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-overview-using-nearby-share-effectively/"><u>A Comprehensive Overview: Using Nearby Share Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/"><u>A Guide to Quickly Opens Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-for-optimizing-task-management-in-administrative-mode-on-windows-11/"><u>A Step-by-Step Guide for Optimizing Task Management in Administrative Mode on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-t2-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-flawless-youtube-viewing-on-chrome-windows/"><u>Achieving Flawless YouTube Viewing on Chrome, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-premium-surround-sound-with-dolby-atmos-in-windows-11/"><u>Achieving Premium Surround Sound with Dolby Atmos in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-windows-11-task-managers-search-functionality/"><u>Activate Windows 11 Task Manager's Search Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-connection-dropouts-with-steam-remote/"><u>Addressing Connection Dropouts with Steam Remote</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-disconnection-hurdles-in-nvidia-for-windows-users/"><u>Addressing Disconnection Hurdles in Nvidia for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-limited-usb-interface-on-pcs/"><u>Addressing Limited USB Interface on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-inkpad-functionality-woes/"><u>Addressing Windows Inkpad Functionality Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-tips-for-ntfs-compression-in-win11-systems/"><u>Advanced Tips for NTFS Compression in Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-troubleshooting-locating-and-fixing-system-error-messages-using-commands/"><u>Advanced Windows Troubleshooting: Locating & Fixing System Error Messages Using Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/app-and-browser-domination-on-windows-os/"><u>App & Browser Domination on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/asuss-steam-deck-challenger-the-rog-ally/"><u>ASUS's Steam Deck Challenger: The ROG Ally?</u></a></li>
+<li><a href="https://win11.techidaily.com/audio-enhancement-for-windows-step-by-step-driver-instructions/"><u>Audio Enhancement for Windows: Step-by-Step Driver Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-app-guard-features-with-graphical-upgrades-on-edge/"><u>Augmenting App Guard Features with Graphical Upgrades on Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-strategies-keeping-epic-launcher-non-freezing/"><u>Avoidance Strategies: Keeping Epic Launcher Non-Freezing</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-hot-zone-tips-to-prevent-pc-overheating-during-games/"><u>Avoiding the Hot Zone: Tips to Prevent PC Overheating During Games</u></a></li>
+<li><a href="https://win11.techidaily.com/baffling-taskers-display-with-edge-and-others/"><u>Baffling Tasker's Display with Edge & Others</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-sluggish-pace-of-win-based-outlook/"><u>Beat the Sluggish Pace of Win-Based Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/best-6-to-do-list-programs-tailored-for-windows-11-enthusiasts/"><u>Best 6 To-Do List Programs Tailored for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-input-speed-learn-from-typingaid/"><u>Boost Input Speed: Learn From TypingAid</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-classic-gameplay-seamlessly-adding-achievements-using-retroarch/"><u>Boosting Classic Gameplay - Seamlessly Adding Achievements Using Retroarch</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-visual-quality-enable-win11s-color-adjustment/"><u>Boosting Visual Quality: Enable Win11's Color Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-monitors-brightness-with-top-software-select/"><u>Boosting Windows Monitors' Brightness with Top Software Select</u></a></li>
+<li><a href="https://win11.techidaily.com/boot-into-admin-powershell-for-system-administration-in-windows-11/"><u>Boot Into Admin PowerShell for System Administration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719355296197-dimming-windows-11-brightness-simple-fixes-unveiled/"><u>Dimming Windows 11 Brightness - Simple Fixes Unveiled</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-easily-record-lenovo-laptop-screen-activity/"><u>In 2024, Easily Record Lenovo Laptop Screen Activity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone XR</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-tech-tips-for-free-tv-show-recording-on-windows/"><u>In 2024, Tech Tips for Free TV Show Recording on Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-trend-titan-tags-the-list-that-elevates-your-youtube-shorts-to-fame/"><u>In 2024, Trend Titan Tags  The List That Elevates Your YouTube Shorts to Fame</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-narzo-n53-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Narzo N53 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/lesser-known-aspects-for-the-instagram-story-viewer-for-2024/"><u>Lesser-Known Aspects for the Instagram Story Viewer for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719254078043-navigating-through-windows-issues-made-simple/"><u>Navigating Through Windows Issues Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/1719334307866-skip-wsl-save-time/"><u>Skip WSL, Save Time</u></a></li>
+<li><a href="https://win11.techidaily.com/1719231160491-streamline-your-desktop-no-overlaps/"><u>Streamline Your Desktop: No Overlaps!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://win11.techidaily.com/1719330356134-unlocking-direct-storage-sharing-using-dropbox-googledrive-on-c/"><u>Unlocking Direct Storage Sharing: Using Dropbox, GoogleDrive on C</u></a></li>
+<li><a href="https://win11.techidaily.com/1719277126929-windows-times-ticking-off-align-it-back/"><u>Windows Time's Ticking Off? Align It Back</u></a></li>
+<li><a href="https://win11.techidaily.com/1719320743244-windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

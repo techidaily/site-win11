@@ -1,7 +1,7 @@
 ---
 title: Accessing Windows 11'S Visual Keyboard Assistant
-date: 2024-07-13T11:29:39.085Z
-updated: 2024-07-14T11:29:39.085Z
+date: 2024-08-08T13:11:33.684Z
+updated: 2024-08-09T13:11:33.684Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,17 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  If you would like to access all of these characters, you will need to open up the Character Map application. Here is how to do that in Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 1\. How to Open Character Map Using Windows Search
 
  If you need to use special characters in your documents, the Character Map tool can help. This tool is built into Windows and can be opened using the Windows Search tool. Here's how to open it.
 
 1. Press**Win + Q** on your keyboard to open the Windows Search box.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Open Character Map Using the Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool.jpg)
 2. Type "character map" in the search box and hit the**Enter** key.
 
@@ -56,9 +62,29 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 2. Select the result at the top of the list.
 3. In Control Panel, click the View by drop-down menu and choose "Large icons" or "Small icons".
 4. Click on**Windows Tools** from the list of options.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Character Map Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Start-Menu.jpg)
 5. Double-click on the**Character Map** to open the utility.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 5\. How to Open Character Map Through Task Manager
 
  In order to keep track of how your system is performing, be sure to check out Task Manager. With this tool, you can also open different applications, such as Character Map. Let me show you how you can do that.
@@ -70,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 6\. How to Open Character Map Via File Explorer
 
  Getting things on a Windows PC is easy with the address bar in File Explorer. All you need to do is open Windows Explorer, search for the program you are looking for, and it will do the rest. Check out the following steps for opening the Character Map:
@@ -99,21 +128,35 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  If Windows asks you to confirm before creating a shortcut, click**Yes** . The desktop shortcut will be created on your computer screen. The Character Map application will open when you double-click it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. How to Open Character Map Via Command Prompt or Windows PowerShell
 
  If you prefer a command-line interface, you can open the Character Map tool with PowerShell or Command Prompt. To do this, follow these steps:
 
 1. Run Command Prompt as an administrator (see [how to open the Command Prompt](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).
 2. Type "charmap" in the Command Prompt or PowerShell window.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Open Character Map by running Command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-by-running-Command-line.jpg)
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
 
  Furthermore, you can also pin the Character Map application to the taskbar for easy access. Follow these steps to take so:
 
 1. Click on Start and type "Character Map."
 2. Under Character Map, select**Pin to taskbar** on the right side.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
 
 This way you can now easily access the tool from the taskbar.
@@ -139,3 +182,63 @@ This way you can now easily access the tool from the taskbar.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-creating-captivating-solo-content-that-strikes-gold/"><u>[New] Creating Captivating Solo Content that Strikes Gold</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-peak-memetic-artistry-hub/"><u>[New] In 2024, Peak Memetic Artistry Hub</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-video-capture-bandicams-edge-over-camtasia/"><u>[New] Mastering Video Capture  Bandicam’s Edge Over Camtasia</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>[New] Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-time-travel-on-fb-accessing-historical-posts/"><u>[New] Time Travel on FB  Accessing Historical Posts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-perfecting-profile-playlists-on-facebook-through-mobile/"><u>[Updated] 2024 Approved  Perfecting Profile Playlists on Facebook Through Mobile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>[Updated] In 2024, Screen Capture Power Play  Apowsort Reviewed & Comparisons Made</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transforming-images-on-snapchat-an-editors-playbook/"><u>[Updated] In 2024, Transforming Images on Snapchat  An Editor's Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-intova-edge-x-action-camera-review/"><u>[Updated] Intova Edge X Action Camera Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/accelerating-videos-in-tiktok-quick-tips/"><u>Accelerating Videos in TikTok  Quick Tips</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-back-into-your-stuck-windows-11-search-bar/"><u>Breathe Life Back Into Your Stuck Windows 11 Search Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-into-your-xbox-application/"><u>Breathe Life Into Your Xbox Application</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-new-life-into-windows-11s-diagnostic-features/"><u>Breathe New Life Into Windows 11'S Diagnostic Features</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-new-life-into-windows-outdated-driver-removal/"><u>Breathing New Life Into Windows: Outdated Driver Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-windows-11-and-google-play-store/"><u>Bridging Windows 11 and Google Play Store</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-invisible-expert-techniques-to-revive-off-screen-applications-in-win-1011-6-ways/"><u>Bring Back the Invisible: Expert Techniques to Revive Off-Screen Applications in Win 10/11 (6 Ways)</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-peace-5-corrections-for-family-safety-woes/"><u>Bring Back the Peace: 5 Corrections for Family Safety Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-printer-accessibility-to-microsofts-security-shield/"><u>Bringing Printer Accessibility to Microsoft's Security Shield</u></a></li>
+<li><a href="https://win11.techidaily.com/broken-bitwall-dont-hurry-evaluate-existing-safeguards/"><u>Broken BitWall: Don't Hurry, Evaluate Existing Safeguards</u></a></li>
+<li><a href="https://win11.techidaily.com/build-an-autohotkey-powered-whisper-enhanced-window-text-converter/"><u>Build an AutoHotkey-Powered, Whisper-Enhanced Window Text Converter</u></a></li>
+<li><a href="https://win11.techidaily.com/building-your-language-repertoire-downloading-windows-fonts/"><u>Building Your Language Repertoire: Downloading Windows Fonts</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-access-denied-window-issues-steps-and-tips/"><u>Bypass 'Access Denied' Window Issues: Steps and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-login-obstacles-in-microsoft-store-quickly/"><u>Bypass Login Obstacles in Microsoft Store Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-service-failed-errors-on-disk-management/"><u>Bypassing 'Service Failed' Errors on Disk Management</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-error-a00f4289-for-seamless-webcams-on-w1011/"><u>Bypassing Error A00F4289 for Seamless Webcams on W10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-rdp-authentication-a-windows-11-guide/"><u>Bypassing RDP Authentication: A Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-spec-limitations-for-successful-game-capturing/"><u>Bypassing Spec Limitations for Successful Game Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-use-your-microphone-on-google-meet-for-windows-heres-why/"><u>Can’t Use Your Microphone on Google Meet for Windows? Here's Why</u></a></li>
+<li><a href="https://win11.techidaily.com/ceasing-others-use-of-your-camera-windows-error-code-0xa00f4243/"><u>Ceasing Others' Use of Your Camera: Windows Error Code 0xA00F4243</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-nat-settings-on-windows-tips-for-win1110-users/"><u>Changing NAT Settings on Windows: Tips for Win11/10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-the-course-for-user-sid-discovery-on-windows-11/"><u>Charting the Course for User SID Discovery on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-your-course-with-the-insiders-of-windows-11/"><u>Charting Your Course with the Insiders of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/choco-vs-wm-a-comparative-look-at-windows-package-tools/"><u>Choco vs WM: A Comparative Look at Window's Package Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/choosing-nvidia-drivers-game-vs-studio-edition/"><u>Choosing Nvidia Drivers: Game vs Studio Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/christmas-in-coding-revamping-your-windows-11/"><u>Christmas in Coding: Revamping Your Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-lockdown-resolving-windows-11-error-code-22/"><u>Circumventing Lockdown: Resolving Windows 11 Error Code 22</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-hardware-reserved-space-in-windows/"><u>Clarifying Hardware Reserved Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-the-clutter-prioritizing-and-positioning-tasks-on-your-window-desktop/"><u>Clear the Clutter: Prioritizing and Positioning Tasks on Your Window Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-cloud-of-past-accomplishments-in-steam/"><u>Clearing the Cloud of Past Accomplishments in Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-path-fixing-office-activation-errors/"><u>Clearing the Path: Fixing Office Activation Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-chromes-profile-conflicts-in-windows/"><u>Clearing Up Chrome's Profile Conflicts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-closed-captioning-confusion-in-win-10-systems/"><u>Clearing Up Closed Captioning Confusion in Win 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-windows-11-update-error-code-0x30017/"><u>Clearing Windows 11 Update Error Code 0X30017</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-the-glamour-swipes-masterful-tinder-profile-secrets-revealed-for-2024/"><u>Get the Glamour Swipes - Masterful Tinder Profile Secrets Revealed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-yuva-3-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-se-2020-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone SE (2020) to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-distribute-your-videos-a-vimeo-guide/"><u>In 2024, Distribute Your Videos  A Vimeo Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-se-2022-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone SE (2022)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-ppt-perfecting-your-voiceover-artistry/"><u>Mastering PPT  Perfecting Your Voiceover Artistry</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-repairing-the-problem-of-inoperable-applications-in-windows-os/"><u>Step-by-Step Guide: Repairing the Problem of Inoperable Applications in Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-note-30-vip-racing-edition-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Note 30 VIP Racing Edition Device</u></a></li>
+</ul></div>

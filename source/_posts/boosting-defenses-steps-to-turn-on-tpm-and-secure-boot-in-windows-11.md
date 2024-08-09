@@ -1,7 +1,7 @@
 ---
 title: "Boosting Defenses: Steps to Turn On TPM and Secure Boot in Windows 11"
-date: 2024-07-13T11:29:28.221Z
-updated: 2024-07-14T11:29:28.221Z
+date: 2024-08-08T13:11:43.630Z
+updated: 2024-08-09T13:11:43.630Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  First up is your physical hardware. If you're not using an AMD Ryzen 3000 series or Intel 7th Gen CPU or better, neither a clean Windows 11 installation nor the Windows 10 upgrade path will work. Second, if your computer doesn't support Secure Boot and TPM, you'll also fall at the initial hurdle. However, all is not lost because you can switch on Secure Boot and TPM from your BIOS/UEFI menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are Secure Boot and TPM?
 
  The [Trusted Module Platform (TPM) is a hardware-level security solution](http://www.makeuseof.com/what-is-a-trusted-platform-module-tpm/) that protects your data from hacking and other data breaches. The TPM holds unique encryption keys stored in such a way that it is nearly impossible for a hacker to access. If someone breaches your computer and your data is encrypted, it will remain secure.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Along with TPM 2.0, Microsoft also requires you to activate Secure Boot, a UEFI-level security setting that stops any unauthorized operating system from booting up. Secure Boot is effectively a gatekeeper, stopping malicious code from booting up before your system, and its primary goal is to protect against rootkits, bootkits, and other malicious code.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![windows bios secure boot warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-bios-secure-boot-warning.jpg)
 
  But it also has some side effects. For example, Secure Boot will stop you from dual-booting Linux distributions, which has led many [users to disable Secure Boot.](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/)
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Trusted Module Platform and Secure Boot are found in your UEFI settings. You'll have to enter system UEFI to enable them before attempting to upgrade to Windows 11\. Both settings are found in similar areas, but we'll break the steps down into three parts for ease of reading.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Enter Your BIOS/UEFI
 
  There are a couple of ways to enter your system BIOS/UEFI. The old tried and tested method of [tapping a keyboard key during bootup](https://www.makeuseof.com/tag/enter-bios-computer/) still works, but you might not get the chance if you have fast boot enabled. If the boot screens whizz past and you end up in Windows 10, there is another way you can access the BIOS:
@@ -78,18 +87,31 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Press **Windows key + R** to open the Run dialog, then input **tpm.msc** and press Enter. The TPM management console will load, indicating if TPM is enabled—and if so, which version you're using.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### How to Enable Secure Boot
 
  While you're deep in your system settings, take a moment to check if Secure Boot is enabled.
 
  Like the TPM options, where you find the Secure Boot option will differ depending on hardware, but it is generally located in the **Boot** tab. Find your **Boot** tab, scroll down to find the **Secure Boot** option, and ensure it's enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![msi motherboard enable secure boot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-secure-boot-settings.jpg)
 
  Note that Secure Boot requires your drives to use GUID Partition Table (GPT) rather than the older master boot record (MBR). As the newer partition table, GPT comes with several enhancements over MBR. If Secure Boot doesn't enable, you may need to [convert your MBR drive to GPT](http://www.makeuseof.com/tag/convert-mbr-gpt-windows/).
 
  Alternatively, your computer or hardware may be too old to enable Secure Boot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use Microsoft's PC Health Check App to Check If Your Hardware Is Compatible
 
  Microsoft recommends using its [PC Health Check App](https://www.microsoft.com/en-us/windows/windows-11?r=1), which you'll find at the bottom of the linked page, to check for hardware compatibility. Download and fire it up to check your system's compatibility with Windows 11\.
@@ -106,3 +128,59 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dreaming-through-the-viewfinder-inspiring-photo-ideas/"><u>[New] 2024 Approved  Dreaming Through the Viewfinder  Inspiring Photo Ideas</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-hidden-treasures-10-newest-coolest-fb-meme-pages/"><u>[New] 2024 Approved  Hidden Treasures  10 Newest, Coolest FB Meme Pages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-comprehensive-guide-to-climbing-the-facebook-rankings-ladder-for-2024/"><u>[Updated] A Comprehensive Guide to Climbing the Facebook Rankings Ladder for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-choices-elite-android-call-alerts/"><u>[Updated] Leading Choices  Elite Android Call Alerts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-for-iphone-hdr-captures/"><u>2024 Approved  Advanced Techniques for iPhone HDR Captures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom/"><u>2024 Approved  Unraveling the Mystery of Selecting a Virtual Reality Device  Tethered Connections vs Mobility Freedom?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-visual-victory-top-10-online-apps-to-sharpen-your-snaps/"><u>2024 Approved  Visual Victory  Top 10 Online Apps to Sharpen Your Snaps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/analysis-of-fb-video-proportions-for-2024/"><u>Analysis of FB Video Proportions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-barrier-between-you-and-your-browsers-content/"><u>Breaking the Barrier Between You and Your Browser's Content</u></a></li>
+<li><a href="https://win11.techidaily.com/breakthrough-strategies-expert-methods-for-decoding-qr-codes-on-pcs/"><u>Breakthrough Strategies: Expert Methods for Decoding QR Codes on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/breakthrough-restoring-access-to-shared-windows-data/"><u>Breakthrough: Restoring Access to Shared Windows Data</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-between-wired-and-wi-fi-on-your-windows-11-machine/"><u>Bridge the Gap Between Wired and Wi-Fi on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-onedrive-to-windows-microsoft-services/"><u>Bridging OneDrive to Windows Microsoft Services</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-break-restoring-server-connection-in-obs-on-pc/"><u>Bridging the Break: Restoring Server Connection in OBS on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-wireless-divide-quick-fixes-for-windows-usb-adapter-issues/"><u>Bridging Wireless Divide – Quick Fixes for Windows' USB Adapter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-blocked-windows-defender-in-win-11/"><u>Bypass Blocked Windows Defender in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-the-cant-add-your-folder-now-immediate-fixes-for-onedrive-on-pc/"><u>Bypass the 'Can't Add Your Folder Now': Immediate Fixes for OneDrive on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-session-verification-error-with-steams-vac/"><u>Bypassing “Session Verification” Error with Steam’s VAC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-0x80246007-flaw-in-windows-11-updates/"><u>Bypassing 0X80246007 Flaw in Windows 11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-forced-closure-errors-from-roblox-on-pcs/"><u>Bypassing Forced Closure Errors From Roblox on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-limited-it-administrator-power-error-on-windows/"><u>Bypassing Limited IT Administrator Power Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-obstacles-fixing-microsoft-office-activation-issues/"><u>Bypassing Obstacles: Fixing Microsoft Office Activation Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-read-only-settings-for-windows-folders/"><u>Bypassing Read-Only Settings for Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-10-and-11s-vital-parts-required-errors/"><u>Bypassing Windows 10 & 11'S 'Vital Parts Required' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-signature-checks-for-easy-updates/"><u>Bypassing Windows' Signature Checks for Easy Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-open-handbrake-on-windows-try-these-fixes/"><u>Can't Open HandBrake on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-sound-simultaneously-with-video-in-snipping-tool-max-156/"><u>Capturing Sound Simultaneously with Video in Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/check-if-your-pc-meets-windows-11-criteria/"><u>Check If Your PC Meets Windows 11 Criteria</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-intel-graphic-spec-limitations-a-guide-to-improvement/"><u>Circumventing Intel Graphic Spec Limitations: A Guide to Improvement</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-the-nvidia-cant-connect-error-in-windows-11/"><u>Circumventing the NVIDIA Can't Connect Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/clarify-display-issues-windows-11-gpu-guide/"><u>Clarify Display Issues: Windows 11 GPU Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-windows-tools-what-makes-wintoolss-chkdsk-unique/"><u>Clarifying Windows Tools: What Makes WinTools's CHKDSK Unique?</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-game-catch-up-storing-vintage-games-in-w11-folder/"><u>Classic Game Catch-Up: Storing Vintage Games in W11 Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-and-clean-automating-your-files-end-of-life-in-windows/"><u>Clear and Clean: Automating Your Files' End of Life in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-path-to-fixed-system-control-disruption-by-rogue-windows-software/"><u>Clear Path to Fixed System Control Disruption by Rogue Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-roadblocks-for-seamless-amd-software-setup/"><u>Clearing Roadblocks for Seamless AMD Software Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-camera-app-glitches-on-windows-11s-f429f-issue/"><u>Clearing Up Camera App Glitches on Windows 11'S F429F Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-directdraw-confusion-on-newer-windows-editions/"><u>Clearing Up DirectDraw Confusion on Newer Windows Editions</u></a></li>
+<li><a href="https://win11.techidaily.com/closing-the-gap-between-pc-and-androids-pace/"><u>Closing The Gap Between PC and Android's Pace</u></a></li>
+<li><a href="https://win11.techidaily.com/coherent-ideas-at-a-glance-via-obsidian-canvas/"><u>Coherent Ideas at a Glance via Obsidian Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-lossed-graphics-a-guide-for-overwatch-2-players/"><u>Combat Lossed Graphics: A Guide for Overwatch 2 Players</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-strategies-for-operational-error-740-in-windows-devices/"><u>Combat Strategies for Operational Error #740 in Windows Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-extract-youtube-srt-effortlessly-in-3-ways/"><u>How to Extract YouTube SRT Effortlessly in 3 Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-a24-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy A24 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-14-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 14 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-achieving-professional-results-attaching-soundtracks-to-videos-with-magix-movie-editor/"><u>In 2024, Achieving Professional Results Attaching Soundtracks to Videos with Magix Movie Editor</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-audiovisual-integration-incorporating-audio-waveform-and-creative-animation-into-davinci-resolve/"><u>In 2024, Audiovisual Integration Incorporating Audio Waveform and Creative Animation Into DaVinci Resolve</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-13t-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi 13T Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-integration-incorporating-gpt-3-into-your-python-projects/"><u>Mastering AI Integration: Incorporating GPT-3 Into Your Python Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtual-attendance-a-comprehensive-guide-to-watching-samsung-unpacked-in-real-time/"><u>Virtual Attendance: A Comprehensive Guide to Watching Samsung Unpacked in Real-Time</u></a></li>
+<li><a href="https://techidaily.com/vivo-y78-5g-music-recovery-recover-deleted-music-from-vivo-y78-5g-by-fonelab-android-recover-music/"><u>Vivo Y78 5G Music Recovery - Recover Deleted Music from Vivo Y78 5G</u></a></li>
+</ul></div>
