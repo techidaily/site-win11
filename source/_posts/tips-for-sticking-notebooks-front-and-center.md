@@ -1,0 +1,143 @@
+---
+title: Tips for Sticking Notebooks Front and Center
+date: 2024-08-16T00:51:52.819Z
+updated: 2024-08-17T00:51:52.819Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Tips for Sticking Notebooks Front and Center
+excerpt: This Article Describes Tips for Sticking Notebooks Front and Center
+keywords: Stationery Tips,Notepad Display,Organize Writing,Desk Decor Tips,Bookmark Basics,Focus Boosting,Creative Notetaking
+thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d65eb4fb68f4c0c322106dcd.jpg
+---
+
+## Tips for Sticking Notebooks Front and Center
+
+ Windows 10 and 11 version comes with the Sticky Notes app. It is a handy little app to quickly jot down bits of information and scribble other notes for easier access.
+
+ While the app supports basic editing tools and even lets you add images to your notes, it lacks the always-on-top feature. With always on top, you can keep the Sticky Notes app on top of others all the time.
+
+ In this guide, we show you how to keep Sticky Notes always on top using Microsoft PowerToys and DeskPins.
+
+## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
+
+[Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
+
+ The Always on Top feature in PowerToys lets you pin app windows on top of other apps. Once enabled, you can use the default Windows + Ctrl + T shortcut to pin Windows apps on top.
+
+ Here’s how you can use the Always On Top feature in Microsoft PowerToys to pin the Sticky Notes app on Windows.
+
+1. Open the[Microsoft PowerToys page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) and install the app from Microsoft Store.
+2. You can launch the app from the recently installed list or system tray.
+3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
+![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
+4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
+5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
+![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
+6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
+7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
+8. To pin Sticky Notes, click on the app window and press**Win + Ctrl + T.** You will hear a sound when the window is pinned.
+
+ Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
+
+ Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Use DeskPins to Pin Sticky Notes
+
+ DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
+
+ The app offers Pins that you can activate with hotkey and pin any window on top of other Windows. Click the Pin icon again to unpin the window.
+
+To pin Sticky Notes using DeskPins:
+
+1. Go to the[DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
+2. Run the installer and keep all the options selected.
+3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
+![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
+![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+5. Next, click on the**Sticky Note** app window to keep it always on top.
+6. Click the**Pin** icon to unpin the window.
+
+![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+## Keep Sticky Notes Always on Top in Windows 10 and 11
+
+ The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-top-picks-for-superior-nintendo-switch-gaming-for-2024/"><u>[New] Top Picks for Superior Nintendo Switch Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>[Updated] 2024 Approved  Chuckle Chronicles  Top 10 Humoristic YouTube Video Plans</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-diy-filmmaking-for-youtube-personalities/"><u>[Updated] DIY Filmmaking for YouTube Personalities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos-for-2024/"><u>[Updated] Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-warrior-spirits-rising-comparable-game-suggestions/"><u>[Updated] Warrior Spirits Rising  Comparable Game Suggestions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-narratives-in-motion-transforming-thoughts-into-words/"><u>2024 Approved  Narratives in Motion  Transforming Thoughts Into Words</u></a></li>
+<li><a href="https://win11.techidaily.com/banishing-unwanted-files-from-your-c-drive/"><u>Banishing Unwanted Files From Your C: Drive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-free-android-capture-app-zero-ads-for-2024/"><u>Best Free Android Capture App, Zero Ads for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-practices-updating-your-targus-graphics-adapter-drivers-on-modern-windows-versions/"><u>Best Practices: Updating Your Targus Graphics Adapter Drivers on Modern Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-delete-dialogues-for-secure-computing/"><u>Controlling Delete Dialogues for Secure Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-honest-intentions/"><u>Deciphering ChatGPT’s Honest Intentions</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-empty-directory-faux-pas-in-windows-a-guide-to-error-x80070091/"><u>Demystifying the 'Empty Directory' Faux Pas in Windows - A Guide to Error X80070091</u></a></li>
+<li><a href="https://win11.techidaily.com/does-your-pc-tick-all-boxes-for-windows-11-upgrade/"><u>Does Your PC Tick All Boxes for Windows 11 Upgrade?</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-network-access-for-chrome-amidst-windows-security-barriers/"><u>Enabling Network Access for Chrome Amidst Windows Security Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-recordings-win-5-budget-friendly-filters/"><u>Enhance PC Recordings: Win 5 Budget-Friendly Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-pc-what-to-do-when-windows-11-loses-a-tab/"><u>Enhance Your PC: What to Do When Windows 11 Loses a Tab?</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-windows-1011-installing-a-unique-lock-pattern/"><u>Guide to Windows 10/11: Installing a Unique Lock Pattern</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-resolving-horizontal-and-vertical-lines-on-your-tv-screen/"><u>Guide: Resolving Horizontal and Vertical Lines on Your TV Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-maximizing-online-presence-through-youtube-ad-and-image-marketing/"><u>In 2024, Maximizing Online Presence Through YouTube Ad & Image Marketing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone X</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-pc-quick-steps-into-windows-11s-safe-mode/"><u>Jumpstart Your PC: Quick Steps Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-screens-enhanced-brightness-controls/"><u>Mastering Windows Screens: Enhanced Brightness Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-diagnostics-timely-application-of-windows-ping/"><u>Navigating Network Diagnostics: Timely Application of Windows Ping</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-1011s-recycle-bin-crashes/"><u>Navigating Through Windows 10/11'S Recycle Bin Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-global-communication-hotkeys-for-windows-language-switch/"><u>Optimizing Global Communication: Hotkeys for Windows Language SwitcH</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolve-your-realtek-rtl8811au-network-adapter-problems-with-ease/"><u>Resolve Your Realtek RTL8811AU Network Adapter Problems with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-display-order-easy-windows-method/"><u>Reversing Display Order: Easy Windows Method</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-desktop-opt-for-smart-window-arrangement/"><u>Revolutionize Your Desktop: Opt for Smart Window Arrangement</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-restarts-a-windows-1011-guide-to-going-dark/"><u>Silent Restarts: A Windows 10/11 Guide to Going Dark</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-steam-performance-overcoming-degraded-download-rates/"><u>Skyrocket Steam Performance: Overcoming Degraded Download Rates</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-ensure-audible-feedback-in-screen-captures/"><u>Techniques to Ensure Audible Feedback in Screen Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-strategies-to-overcome-access-barriers-on-win-pcs/"><u>Top 8 Strategies to Overcome Access Barriers on Win PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-backup-mishaps/"><u>Troubleshooting Steam Backup Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-top-9-changes-in-win11-february-2023/"><u>Unveiling the Top 9 Changes in Win11 February 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-warnings-identifying-critical-processes-for-malware-detection/"><u>Windows Warnings: Identifying Critical Processes for Malware Detection</u></a></li>
+</ul></div>

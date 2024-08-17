@@ -1,7 +1,7 @@
 ---
 title: Remedying Error 0X80072EFD on Windows Devices
-date: 2024-07-13T10:17:38.829Z
-updated: 2024-07-14T10:17:38.829Z
+date: 2024-08-16T00:17:20.065Z
+updated: 2024-08-17T00:17:20.065Z
 tags:
   - windows10
   - windows11
@@ -51,9 +51,15 @@ net stop msiserver`
 5. To rename SoftwareDistribution, type in the following and hit**Enter** :  
 `ren C:\Windows\SoftwareDistribution SoftwareDistribution.old`  
 ![The rename SoftwareDistribution.old folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-softwaredistribution-old-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Also, rename a catroot2 directory with this command:  
 `ren C:\Windows\System32\catroot2 catroot2.old`  
 ![The rename catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-catroot2-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Restart the turned-off services by inputting and executing the following commands:  
 `net start wuaserv  
 net start cryptSvcc  
@@ -75,9 +81,16 @@ net start msiserver`
 2. Type**inetcpl.cpl** inside Run's command box and click**OK** to open Internet Options.
 3. Select**Connections** \>**LAN settings** to reach a**Use a proxy server** setting.  
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Uncheck the checkbox for**Use a proxy server** if it's selected.
 5. Click the**Automatically detect settings** option to select it.  
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/use-a-proxy-server-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Select the Local Area Network window's**OK** option.
 
 ## 5\. Double-Check the Time Settings in Windows
@@ -87,9 +100,15 @@ net start msiserver`
 1. [Open up Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and click that app's**Time & language** tab.
 2. Click**Date & time** to view those settings.  
 ![The Date & time navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/date-time-tab.jpg)
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 3. Select to turn off the**Set time zone** option there.
 4. Make sure the correct time zone for your location is selected in the**Time Zone** drop-down menu.  
 ![The Set the time zone automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-the-time-automatically-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 5. Then press the**Sync now** button.  
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-now-button.jpg)
 
@@ -117,6 +136,9 @@ net start msiserver`
 4. Input this command for reregistering MS Store and hit**Return** to execute:  
 `Get-AppxPackage -AllUsers *WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reregister MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reregister-ms-store-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Wait until you're sure the command has finished.
 6. Then exit PowerShell, and select the**Restart** option.
 
@@ -125,7 +147,13 @@ net start msiserver`
  Resetting network settings in Windows is another 0x80072EFD error fix that's worked for some users. Note that this measure will erase Wi-Fi and Ethernet connection details, so you'll need to re-establish your connection after applying it. You can apply this potential fix as covered in our [how-to reset networks in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) guide.
 
 ![The Reset now button for networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-now-network-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get Shopping in Microsoft Store Again
 
  The 0x80072EFD error isn't always easy to fix, and you may have to try applying quite a few potential resolutions to get it sorted. However, many Microsoft Store users have fixed the 0x80072EFD error with the solutions in this guide. So, maybe one of those potential fixes will also work on your PC.
@@ -148,3 +176,49 @@ net start msiserver`
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-filmmaking-for-the-future-adapting-videos-vertically-for-instagram/"><u>[New] 2024 Approved  Filmmaking for the Future  Adapting Videos Vertically for Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-strategies-to-outlast-your-competitors-in-snapping/"><u>[New] 2024 Approved  Strategies to Outlast Your Competitors in Snapping</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connecting-tv-audiences-to-facebook-live-shows/"><u>[Updated] 2024 Approved  Connecting TV Audiences to Facebook Live Shows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-step-by-step-building-a-profitable-instagram-empire/"><u>[Updated] In 2024, Step-by-Step  Building a Profitable Instagram Empire</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-scan-for-collective-shared-content-on-messenger/"><u>[Updated] Scan for Collective Shared Content on Messenger</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-synchronizing-televisions-and-facebook-live-feeds-for-2024/"><u>[Updated] Synchronizing Televisions and Facebook Live Feeds for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-list-for-choosing-your-camera-and-gear/"><u>[Updated] The Ultimate List for Choosing Your Camera & Gear</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fashion-forward-video-ideas/"><u>2024 Approved  Fashion Forward Video Ideas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unleashing-your-creative-potential-in-making-fb-reels/"><u>2024 Approved  Unleashing Your Creative Potential in Making FB Reels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audio-precision-with-mac-assistance/"><u>Audio Precision with Mac Assistance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-your-instagram-success-through-advanced-ai-techniques-by-meta/"><u>Boosting Your Instagram Success Through Advanced AI Techniques by Meta</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-enhancing-your-digital-marketing/"><u>Cookiebot-Driven Solutions: Enhancing Your Digital Marketing</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-unforeseen-security-issues-in-win10win11/"><u>Counteracting Unforeseen Security Issues in Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-11-the-intricacies-of-its-file-system/"><u>Demystifying Windows 11: The Intricacies of Its File System</u></a></li>
+<li><a href="https://win11.techidaily.com/does-file-explorer-keep-crashing-on-windows-11-try-these-fixes/"><u>Does File Explorer Keep Crashing on Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-screen-recording-with-audio-in-the-latest-snipping-tool-update-max-156/"><u>Efficient Screen Recording with Audio in the Latest Snipping Tool Update (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-0x80070194-in-onedrive-errors/"><u>Eliminating Windows' 0X80070194 in OneDrive Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-inability-to-reach-mb-services-in-windows-11-devices/"><u>Fixing the Inability to Reach MB Services in Windows 11 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a18-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo A18 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-biometric-authentication-in-11th-gen-windows/"><u>How to Enable Biometric Authentication in 11Th Gen Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-windows-disabled-discord-overlay/"><u>How to Reactivate Windows' Disabled Discord Overlay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xr-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XR Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-play-40c-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor Play 40C without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-financial-impact-of-viewership-on-content-makers/"><u>In 2024, The Financial Impact of Viewership on Content Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-rdp-troubleshooting-in-windows-oses/"><u>Mastering RDP Troubleshooting in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-reset-for-mail-and-calendars-in-w11/"><u>Mastering the Reset for Mail & Calendars in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/meet-the-new-wave-exciting-laptops-from-ifa-2023/"><u>Meet the New Wave - Exciting Laptops From IFA 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-network-nooks-for-your-windows-11s-mac/"><u>Navigating the Network Nooks for Your WIndows 11'S MAC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-issues-of-not-allowing-file-writes-on-windows-11/"><u>Overcoming Issues of Not Allowing File Writes on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-stuck-on-size-errors-with-easy-solutions-for-windows-discousers/"><u>Overcoming Stuck-On-Size Errors with Easy Solutions for Windows DiscoUsers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-office-activation-roadblocks/"><u>Overcoming Windows Office Activation Roadblocks</u></a></li>
+<li><a href="https://win11.techidaily.com/privacy-measures-eliminate-email-from-logon-window/"><u>Privacy Measures: Eliminate Email From Logon Window</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-un65nu8000fxza-review-does-quality-match-the-steep-price-tag/"><u>Samsung UN65NU8000FXZA Review: Does Quality Match the Steep Price Tag?</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-speakers-unveil-audio-steps-immediately/"><u>Silent Speakers? Unveil Audio Steps Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/spruce-up-your-windows-mail-and-schedule-with-pics/"><u>Spruce Up Your Window's Mail & Schedule With Pics</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-revealing-hidden-windows-drives/"><u>Strategies for Revealing Hidden Windows Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/syncing-calendars-ifttt-meets-microsoft-to-do/"><u>Syncing Calendars: IFTTT Meets Microsoft To-Do</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-beginners-guide-to-microsoft-copilot/"><u>The Ultimate Beginner's Guide to Microsoft Copilot</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-6-unobtrusive-applications-for-android-captures/"><u>Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/win-sound-troubleshooting-overcoming-silence-hurdles/"><u>Win Sound Troubleshooting: Overcoming Silence Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-screen-sharing-disabling-pin-during-cast/"><u>Windows 11 Screen Sharing: Disabling PIN During Cast</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-explorer-excellence-the-ultimate-six-strategies-for-copying-filefolder-paths/"><u>Windows Explorer Excellence: The Ultimate Six Strategies for Copying File/Folder Paths</u></a></li>
+</ul></div>

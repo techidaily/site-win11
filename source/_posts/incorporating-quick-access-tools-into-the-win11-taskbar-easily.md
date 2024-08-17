@@ -1,7 +1,7 @@
 ---
 title: Incorporating Quick Access Tools Into the Win11 Taskbar Easily
-date: 2024-07-13T10:25:48.912Z
-updated: 2024-07-14T10:25:48.912Z
+date: 2024-08-16T00:08:56.226Z
+updated: 2024-08-17T00:08:56.226Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  If you prefer, you can bring up the classic context menu in Windows 11 with a handy keyboard shortcut. Press the **Shift + F10** hotkey to open the menu instead. Then select your software shortcuts from there.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Your Own Shortcuts to the Windows 11 Context Menu
 
  You can add a shortcut for whatever software you'd like in a similar way to adding Edge. To do this, you need to change the name of the primary registry key to match the name of the software it’s for. Then, open the program’s folder in File Explorer to copy its full path, and paste it in the Value data box for the command subkey’s **(Default)** string.
@@ -63,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  This registry tweak also works much the same in Windows 10 and earlier Microsoft desktop platforms. So, this isn’t just a Windows 11 trick. As Windows 10 has a classic context menu by default, you don’t need to click **Show more options** on that menu to select the shortcut.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## How to Add Program Shortcuts to the Context Menu With Easy Context Menu
 
  If you prefer not to manually edit the registry, add program shortcuts to the desktop’s context menu with Easy Context Menu. Easy Context Menu is a freeware third-party app for customizing context menus in Windows 11/10\. It enables you to add and remove shortcuts to and from the context menu. This is how you can add shortcuts for opening programs to Windows 11’s context menu with that software:
@@ -72,22 +78,34 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 3. Open the extracted **ec\_menu** folder and double-click the **EcMenu\_x64** file to open Easy Context Menu.
 4. Click the **List Editor** button.  
 ![The List Editor button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/list-editor-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Press the **Add new** button.
 
 1. Select the application (EXE) file for a program to add to the context menu and click **Open**.
 2. Next, select **Desktop Context Menu** on the **Target Context Menu** drop-down menu for the shortcut.  
 ![The Target Context Menu drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/target-context-menu-drop-down-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click the **Show at bottom of the menu** radio button.
 4. Press the **Save changes** button.
 5. Select the checkbox for the program shortcut in the Easy Context Menu window.
 6. Click the **Apply Changes** button on the Easy Context Menu window.  
 ![The Apply Changes button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/apply-changes-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ve added a new program shortcut to the classic context menu in Windows 11\. Bring up the classic context menu by right-clicking anywhere on the desktop and selecting **Show more options**. Then select the new software shortcut, which will be somewhere near the bottom of the classic menu.
 
  You can remove that shortcut and other options from the right-click menu with Easy Context Menu. To do so, click the **ContextMenu Cleaner** button; deselect the checkbox for the software shortcut to disable it on the context menu (you can still restore it later). Then click **Refresh** to save the context menu changes.
 
 ![The ContextMenu Cleaner window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/contextmenu-cleaner-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  There’s also much more you can add to the desktop’s right-click menu with Easy Context Menu than software shortcuts. Easy Context Menu includes many other checkboxes for adding various tools and turn-off options to the right-click menu. Select some of the checkboxes for system tools and turn-off options, and click **Apply Changes** to add handy shortcuts for accessing utilities and shutting down Windows to the context menu.
 
@@ -106,3 +124,39 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-navigating-links-between-instagram-and-tiktok/"><u>[New] 2024 Approved  Navigating Links Between Instagram and TikTok</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-optimizing-your-online-presence-leading-twitter-de-followers-for-2024/"><u>[New] Optimizing Your Online Presence  Leading Twitter De-Followers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-iphone-saving-insta-pics-and-videos/"><u>2024 Approved  IPhone  Saving Insta Pics and Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-your-digital-footprint-the-ultimate-screen-recording-manual/"><u>2024 Approved  Streamline Your Digital Footprint  The Ultimate Screen Recording Manual</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-11-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Realme 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-back-into-your-computers-print-command-wwinplusp/"><u>Breathe Life Back Into Your Computer's Print Command (WWin+P).</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-technology-gaps-windows-11-legacy-computers-to-go-and-rufus-guide/"><u>Bridging Technology Gaps: Windows 11, Legacy Computers, To Go & Rufus Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-elevating-your-windows-experience-by-reclaiming-offscreen-panes/"><u>Bridging the Gap: Elevating Your Windows Experience by Reclaiming Offscreen Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-unifying-your-pcs-with-files-through-aoemi/"><u>Bridging the Gap: Unifying Your PCs With Files Through AOEMi</u></a></li>
+<li><a href="https://win11.techidaily.com/brighten-up-your-windows-11-interface-pointer/"><u>Brighten Up Your Windows 11 Interface Pointer</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-lifelayer-trashbin-on-the-windows-1011-environment/"><u>Building a Lifelayer Trashbin on the Windows 10/11 Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-directory-not-empty-warnings-solutions-for-error-x80070091/"><u>Bypassing 'Directory Not Empty' Warnings: Solutions for Error X80070091</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-restricted-windows-11-themes-with-skilled-registry-editing/"><u>Bypassing Restricted Windows 11 Themes with Skilled Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-security-warning-glitches/"><u>Bypassing Windows 11 Security Warning Glitches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-spectacular-with-nikon-d500-in-4k-for-2024/"><u>Capture the Spectacular with Nikon D500 in 4K for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/change-power-saving-settings-adjust-the-screen-brightness-on-battery-saver-by-tweaking-the-power-plans-in-system-settings/"><u>Change Power Saving Settings: Adjust the Screen Brightness on Battery Saver by Tweaking the Power Plans in 'System Settings'.</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-a-course-to-locate-windows-app-habitats/"><u>Charting a Course to Locate Windows' App Habitats</u></a></li>
+<li><a href="https://win11.techidaily.com/circumnavigating-permission-fail-in-installer-errors/"><u>Circumnavigating Permission Fail in Installer Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-differences-how-exes-stack-up-against-msis/"><u>Clarifying Differences: How EXEs Stack Up Against MSIs</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-missing-file-alert-in-win-11/"><u>Clearing Up Missing File Alert in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-win-path-unavailability-issue/"><u>Clearing Up WIN Path Unavailability Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-way-for-startup-icons-visibility/"><u>Clearing Way for Startup Icons' Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/clipchamp-win11-install-issues-step-by-step-remedies/"><u>ClipChamp Win11 Install Issues: Step-by-Step Remedies</u></a></li>
+<li><a href="https://win11.techidaily.com/combatant-guide-for-the-windows-updater-error-0x80070003/"><u>Combatant Guide for the Windows Updater Error 0X80070003</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-darkened-windows-display-during-remote-workspace-access/"><u>Combating Darkened Windows Display During Remote Workspace Access</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-your-way-to-greatness-fabio-goncalves-video-technique/"><u>Exchange Your Way to Greatness: Fabio Goncalves’ Video Technique</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-animated-adventures-easy-steps-for-snapchats-cute-filters/"><u>In 2024, Animated Adventures  Easy Steps for Snapchat's Cute Filters</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-edge-40-pro-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Edge 40 Pro can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/redefining-power-and-efficiency-in-computing-a-deep-dive-into-the-new-macbook-air-macbook-pro-and-mac-minis-m1-processor/"><u>Redefining Power and Efficiency in Computing: A Deep Dive Into the New MacBook Air, MacBook Pro & Mac Mini's M1 Processor</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/supreme-five-optimal-dvd-software-for-sierra-os-for-2024/"><u>Supreme Five  Optimal Dvd Software for Sierra OS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-solutions-for-windows-color-synchronization/"><u>Unveiling Solutions for Windows Color Synchronization</u></a></li>
+</ul></div>

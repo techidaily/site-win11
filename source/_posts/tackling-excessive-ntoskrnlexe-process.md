@@ -1,7 +1,7 @@
 ---
 title: Tackling Excessive Ntoskrnl.exe Process
-date: 2024-07-13T11:06:17.116Z
-updated: 2024-07-14T11:06:17.116Z
+date: 2024-08-15T23:29:46.900Z
+updated: 2024-08-16T23:29:46.900Z
 tags:
   - windows10
   - windows11
@@ -42,12 +42,19 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
  Now that we know what Ntoskrnl.exe is and why it uses so much of your CPU's resources, let's discuss fixing the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Restart Your PC
 
  The first and foremost solution you should try is to restart your computer. It may seem simple, but it can often solve high CPU usage issues.
 
  When your computer restarts, it clears out system memory and refreshes its processes. The system stops running unnecessary programs and reboots the operating system. As a result, Ntoskrnl.exe's high CPU usage may subside and return to normal levels after restart.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Disable the Windows Search Service
 
  Windows Search Service is a system process that constantly indexes files and folders on your computer to speed up searching. However, it can sometimes cause Ntoskrnl.exe to use high CPU resources. In this case, you can disable the service temporarily and check if the CPU usage decreases.
@@ -61,10 +68,21 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 4. Right-click on it and select **Properties**.
 5. In the **General** tab, click on the drop-down menu next to **Startup type** and select **Disabled**.  
 ![Disable Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-search-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click on **Apply** and then **OK** to save the changes.
 
  After you disable Windows Search Service, restart your computer and check if Ntoskrnl.exe's CPU usage has decreased.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 3\. Update the Device Drivers
 
  Microsoft regularly releases updates for Windows and the drivers associated with it. If you last updated your device drivers a while ago, it could be the cause of Ntoskrnl.exe's high CPU usage.
@@ -89,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
  If you prefer command-line tools, you can also perform a system scan and [remove malware or viruses using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). However, it requires some technical knowledge to use PowerShell effectively. Therefore, sticking to a [reputable antivirus program](https://www.makeuseof.com/windows-11-antivirus-apps/) is recommended for most users.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use Windows Performance Toolkit
 
  If all else fails and Ntoskrnl.exe still uses abnormal CPU resources, you can try the Windows Performance Toolkit. It is a built-in diagnostic and performance management tool that identifies and troubleshoots system resource issues.
@@ -104,6 +125,9 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
 
  After the process ends, restart your computer and [open the System32 Folder in File Explorer](https://www.makeuseof.com/windows-11-open-system32/). Look for a file named **cpuusage.etl**. This is the report generated by the Windows Performance Toolkit. Double-click on it to open and analyze the report. It may provide insight into what's causing Ntoskrnl.exe to use high CPU resources.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing Ntoskrnl.Exe's High CPU Usage on Windows
 
  Ntoskrnl.exe is just one of many system processes that work together to keep your computer running efficiently. While it may use high CPU resources, it's usually not a cause for concern. However, if it persists, trying the solutions mentioned above should fix the problem.
@@ -121,3 +145,56 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-your-social-presence-with-customized-instagram-voices/"><u>[New] 2024 Approved  Elevate Your Social Presence with Customized Instagram Voices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-fixed-youtubes-missing-minute-media/"><u>[New] 2024 Approved  Fixed  YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-selecting-prime-4k-recorders-and-tools/"><u>[New] 2024 Approved  Selecting Prime 4K Recorders and Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>[New] A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-warzone-not-using-gpu-on-windows-10/"><u>[SOLVED] Warzone Not Using GPU on Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-a-palette-perfected-the-finest-4k-panels-for-artists/"><u>2024 Approved  A Palette Perfected  The Finest 4K Panels for Artists</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>2024 Approved  The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://win11.techidaily.com/6-methods-to-supercharge-virtual-machine-speed-in-windows/"><u>6 Methods to Supercharge Virtual Machine Speed in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-overheating-prevention-on-windows-pcs/"><u>Adjusting Overheating Prevention on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-desk-customization-displaying-this-pc-image/"><u>Aesthetic Desk Customization: Displaying 'This PC' Image</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-backups-fix-desktop-upside-down/"><u>Aligning Backups: Fix Desktop Upside Down</u></a></li>
+<li><a href="https://article-files.techidaily.com/capturing-moments-like-never-before-toolwiz-apps-2023-review-for-2024/"><u>Capturing Moments Like Never Before  Toolwiz App's 2023 Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-windows-read-only-settings-easily/"><u>Changing Windows Read-Only Settings Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-windows-memory-management-via-pagefilesys-files/"><u>Clarifying Windows' Memory Management via Pagefile.sys Files</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-resolving-inbox-notifications-on-pcs/"><u>Comprehensive Guide to Resolving Inbox Notifications on PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/design-engaging-video-invites-on-the-go-best-mobile-apps/"><u>Design Engaging Video Invites on the Go Best Mobile Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-stranded-status-from-xbox-console-experience-on-pc/"><u>Eradicate ‘Stranded’ Status From Xbox Console Experience on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/find-anything-you-want-to-know-about-instagram-video-limit/"><u>Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11s-random-shutdown-phenomenon/"><u>Fix Windows 11'S Random Shutdown Phenomenon</u></a></li>
+<li><a href="https://win11.techidaily.com/ftdibussys-in-the-windows-ecosystem-a-dive-into-memory-shields/"><u>Ftdibus.sys in the Windows Ecosystem: A Dive Into Memory Shields</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-completely-get-rid-of-wsl-on-windows-11-pcs/"><u>How To Completely Get Rid of WSL on Windows 11 PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-7-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 7 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-active-directory-issues-impacting-print-in-windows-11/"><u>How to Solve Active Directory Issues Impacting Print in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-mouse-without-borders-and-peek-features-in-powertoys/"><u>How to Use the Mouse Without Borders and Peek Features in PowerToys</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-ensuring-privacy-4-steps-to-safely-log-fb-calls/"><u>In 2024, Ensuring Privacy  4 Steps to Safely Log FB Calls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 12 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-guide-on-the-world-of-voice-recordings/"><u>In 2024, Mastery Guide on the World of Voice Recordings</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instantaneous-app-opener-tips-for-windows-11/"><u>Instantaneous App Opener Tips for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-highlight-settings-in-windows-11/"><u>Navigating Highlight Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-win11-22h2-for-older-systems/"><u>Navigating Win11 22H2 for Older Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-telnet-activation-on-modern-windows/"><u>Quick Guide to Telnet Activation on Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-wasteful-usage-by-core-system-processes/"><u>Reducing Wasteful Usage by Core System Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-java-installer-problems-on-a-windows-pc/"><u>Remedying Java Installer Problems on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/rescue-your-browser-fix-google-chrome-in-w11-today/"><u>Rescue Your Browser: Fix Google Chrome in W11 Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-connectivity-problems-with-fall-guys-on-pc/"><u>Resolving Connectivity Problems with Fall Guys on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-your-window-11-experience-with-these-6-desired-android-apps/"><u>Revamp Your Window 11 Experience with These 6 Desired Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-delete-onedrive-icon-in-windows-explore/"><u>Step-by-Step to Delete OneDrive Icon in Windows Explore</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-inverted-text-input-windows-wise/"><u>Strategies for Fixing Inverted Text Input Windows-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-mastering-window-commands-and-shortcuts/"><u>Streamline Your Workflow: Mastering Window Commands & Shortcuts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamlined-social-media-prime-twitter-unfollow-tools-overview-for-2024/"><u>Streamlined Social Media  Prime Twitter Unfollow Tools Overview for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/superior-websites-for-a-modern-social-experience/"><u>Superior Websites for a Modern Social Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/surges-subdued-mastering-the-art-of-cpu-management-in-rm/"><u>Surges Subdued: Mastering the Art of CPU Management in RM</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-tutorial-to-edit-windows-files-metadata-dates/"><u>The Complete Tutorial to Edit Windows Files' Metadata Dates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-essential-blueprint-for-home-based-podcasting-for-2024/"><u>The Essential Blueprint for Home-Based Podcasting for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-poco-x6-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Poco X6 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-radiowave-plays/"><u>Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-top-free-must-have-for-win11/"><u>Unleash Potential: Top Free Must-Have for Win11</u></a></li>
+</ul></div>

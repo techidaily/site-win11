@@ -1,7 +1,7 @@
 ---
 title: "How to Address Blue Screen: Win's Unhandled Exception"
-date: 2024-07-13T10:02:41.040Z
-updated: 2024-07-14T10:02:41.040Z
+date: 2024-08-16T00:31:26.063Z
+updated: 2024-08-17T00:31:26.063Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  Now that we know the potential causes, let's look at the solutions that helped several affected users fix the issue. Proceed with the one that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 1\. Boot Into WinRe if Your PC Won't Launch
 
  If the BSOD error is preventing you from booting into the system at all, you will need to access the recovery environment of Windows to perform the troubleshooting methods.
@@ -49,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
  Here, click on the**Restart** button. Once the system reboots, you should see a list of options. Choose**5** or press the**F5** key to boot into**Safe Mode with Networking** . After booting into Safe Mode, you can perform the solutions below.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 2\. Delete the Problematic Registry Keys
 
@@ -62,6 +68,9 @@ Once that is done, you can proceed:
 C:\Windows\System32\
 2. Here, delete the APOIM32.EXE. APOMNGR.DLL, and CMDRTR.DLL files.  
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Now, press the Win + R keys together to open Run.
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
@@ -74,6 +83,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHK
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Remove the Problematic Software
 
  If you recently installed new software and the issue started appearing after that, it's possible that the new software is conflicting with existing software, leading to the problem. In this case, removing the software from the system is the best solution.
@@ -84,8 +96,14 @@ Here is what you need to do:
 2. Type control in Run and click Enter.
 3. In the Control Panel, navigate to**Programs** \>**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. You should now see a list of installed apps in the system. Right-click on the targeted app and choose**Uninstall** from the context menu.  
 ![Clicking on the Uninstall Button by Right-clicking on the Suspicious App in Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 5. Follow the on-screen instructions to complete the process.
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
@@ -127,3 +145,49 @@ Here is what you need to do:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-from-blogging-to-broadcasting-scaling-up-your-youtube-presence-for-2024/"><u>[New] From Blogging to Broadcasting  Scaling Up Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>[New] Streamlined List  6 Efficient Mac Screen Recording Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unlocking-flawless-youtube-twitplay/"><u>[New] Unlocking Flawless YouTube Twitplay</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-creating-channels-earning-dollars-a-beginners-guide/"><u>[Updated] In 2024, Creating Channels, Earning Dollars  A Beginner's Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-ideas-for-customized-gif-art/"><u>[Updated] Innovative Ideas for Customized GIF Art</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-showcase-mastery-weaving-youtube-into-instagram-tales-for-2024/"><u>[Updated] Showcase Mastery  Weaving YouTube Into Instagram Tales for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras-for-2024/"><u>2023'S Top Contenders  GoPro Hero5 Vs. Yi 4K Action Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-microsoft-can-improve-windows-11s-clipboard-history/"><u>9 Ways Microsoft Can Improve Windows 11'S Clipboard History</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-optimal-msoffice-functionality-on-w11/"><u>Achieving Optimal MSOffice Functionality on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unrequested-file-explorer-startups/"><u>Addressing Unrequested File Explorer Startups</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-0x80780119-on-system-image/"><u>Addressing Windows Error 0X80780119 on System Image</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-ms-store-downloads-techniques-and-tips/"><u>Boosting MS Store Downloads: Techniques and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-for-secure-external-drive-handling/"><u>Configuring Windows for Secure External Drive Handling</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-long-start-ups-in-windows-11-easily-and-swiftly/"><u>Conquering Long Start-Ups in Windows 11 Easily and Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-the-catastrophe-recycle-bin-errors-in-win1011/"><u>Curbing the Catastrophe: Recycle Bin Errors in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-file-systems-better-with-diskspace-added-to-windows-menu/"><u>Discover File Systems Better with Diskspace Added to Windows Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-internet-connections-a-guide-for-steam-on-windows/"><u>Fixing Internet Connections: A Guide for Steam on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-frozen-to-functional-the-ultimate-guide-to-resetting-your-macbook-pro/"><u>From Frozen to Functional: The Ultimate Guide to Resetting Your MacBook Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/from-problem-to-perfection-tactics-to-install-missing-features-in-windows-11-and-11-pro/"><u>From Problem to Perfection: Tactics to Install Missing Features in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-game-wont-open-error-on-grand-theft-auto-5/"><u>How to Fix 'Game Won't Open' Error on Grand Theft Auto 5</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-files-vanish-permanently-in-your-desktop-trash-bin-windows-11/"><u>How to Make Files Vanish Permanently in Your Desktop Trash Bin (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-private-character-editor-in-windows/"><u>How to Open the Private Character Editor in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-narzo-60-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-a18-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo A18 Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Phone with Broken Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-eliminate-clutter-on-tweet-feed-with-top-20-apps/"><u>In 2024, Eliminate Clutter on Tweet Feed with Top 20 Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-12-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus 12 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-your-logitech-mx-master-complete-setup-instructions/"><u>Installing Your Logitech MX Master: Complete Setup Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-frame-by-frame-flow-essential-tactics-to-combat-video-lag-windows/"><u>Mastering Frame-by-Frame Flow: Essential Tactics to Combat Video Lag Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-sculpt-keyboard-driver-enhancements-easy-installation-processes/"><u>Microsoft Sculpt Keyboard Driver Enhancements: Easy Installation Processes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-horizons-in-graphic-design-post-acid-for-2024/"><u>New Horizons in Graphic Design Post-ACID for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disconnect-fixing-gif-size-problems-in-discord-on-windows/"><u>Overcoming Disconnect: Fixing GIF Size Problems in Discord on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-windows-ethernet-connection-access/"><u>Regaining Windows Ethernet Connection Access</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y200-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y200</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-save-and-retain-user-defined-volume-on-windows/"><u>Steps to Save & Retain User-Defined Volume on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-preview-failures-in-microsoft-mail/"><u>Tackling the Challenge of Preview Failures in Microsoft Mail</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-for-gaming-displays-on-xbox-series-x-console-for-2024/"><u>Top Picks for Gaming Displays on Xbox Series X Console for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-stop-net-core-error-message/"><u>Troubleshooting Windows: Stop .NET Core Error Message</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-wsl-a-complete-guide-for-win-1011-users/"><u>Uninstalling WSL: A Complete Guide for Win 10/11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-potential-with-microsofts-pc-manager-in-win11/"><u>Unlocking Potential with Microsoft's PC Manager in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-gaming-upgrade-guide-top-tips-for-a-seamless-experience/"><u>Win 11 Gaming Upgrade Guide: Top Tips for a Seamless Experience</u></a></li>
+</ul></div>

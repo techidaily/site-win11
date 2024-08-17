@@ -1,7 +1,7 @@
 ---
 title: "Optimize and Thrive: Harnessing the Power of Wintoys"
-date: 2024-07-13T11:04:11.783Z
-updated: 2024-07-14T11:04:11.783Z
+date: 2024-08-15T23:31:35.122Z
+updated: 2024-08-16T23:31:35.122Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
  Also, you can check your system performance through the processor, video card, and memory usage indicators. The only thing that needs to be added to the Wintoys Home tab is a tool showing you the GPU and [CPU temperature](https://www.makeuseof.com/how-to-check-cpu-temperature/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 2\. Manage Installed Apps
 
  Wintoys does a great job by putting together the ways you can manage your installed apps. Without Wintoys you’d have to launch Task Manager to stop an app from running or access the Settings menu to uninstall or repair a problematic app, and your browser to make an online search about the app.
@@ -47,12 +50,18 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  For example, if you have a lot of apps set to launch at system startup, your boot time will slow down. To disable unnecessary apps from running when your system starts, open the **Startup Apps** menu. There, turn off the toggle for the apps that you don’t need as quickly as you start your system.
 
 ![Control startup apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-wintoys-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
  Also, in the same tab, you can find settings to [improve your Windows computer performance during gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). For instance, you could turn on the toggle next to **Ultimate performance plan**.
 
  Or head to the **Gaming settings menu**. There, you can enable Windows’s Game Mode or activate the Superfetch feature. If you’re not sure whether you should enable it, [check out our guide on Superfetch](https://www.makeuseof.com/tag/what-is-superfetch/).
 
 ![Enable HAGS on Windoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hags-wintoys-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
  Now, if you’re really looking the make the most out of your hardware while gaming, you could also turn on the **HAGS (Hardware-accelerated GPU scheduling)** feature.
 
@@ -77,9 +86,15 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  With Wintoys, you can tweak how your desktop looks with just a few clicks. In the **Tweaks** tab, open the **Desktop** drop-down menu. There, you can hide the Recycle Bin, add seconds to the taskbar clock, or enable the classic context menu.
 
 ![Change destkop design with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/desktop-wintoys-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  These are just a few of the available tweaks that can change how Windows looks and feel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 6\. Run Repair Tools Without Command Prompt
 
  There are plenty of things on a Windows computer that can go wrong without much of a warning. You might encounter frequent program crashes, data loss, or the inability to access your files. Now, the most efficient way to fix these problems is to run the SFC, CHKDSK, and DISM scans. Instead of opening Command Prompt and searching online for the correct lines, you can use Wintoys.
@@ -88,11 +103,17 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
  In the **Health** tab, click on **Repair**. There, you can select the tool to fix your problem. On Command Prompt, you’d have to run the lines one at a time. However, on Wintoys, you can select all tools and Wintoys will run them for you. This way, you don’t have to monitor the process and can even step away from your computer as the issue is getting fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Control Windows Ads
 
  Nowadays, it seems there’s no way you can completely escape ads. Microsoft has added more ads through tips, suggestions, recommendations, or the Start menu. If you want more control over how Windows shows ads, open the **Tweaks** tab and click on **Ads**. There, you can select how Windows should display content about new products or features.
 
 ![Stop Windows from showing you ads](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-ads-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 8\. Protect Your Privacy
 
@@ -113,9 +134,15 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  Open the **Services** tab, and you’ll get a complete list of every service on your computer. Let’s say you’ve run into an issue, and you’re certain the culprit it’s a service that stopped by itself. You can quickly check by opening the **Filter** drop-down menu and selecting **Stopped**.
 
 ![Manage Windows services with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-services-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 
  Also, there are more criteria that you can use to find a certain service. If you need more information about one of the services, click the **Description**. Finally, to change the service’s settings, click the **three-dot** icon next to it. There, you can start, stop, restart, or change the service’s mode.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Make the Most Out of Wintoys
 
  We’ve taken a quick look at Wintoys' best features and how they can improve your user experience on Windows. You can run troubleshooting tools, change your computer appearance, clear storage space, and so much more. The truth is, there’s no reason to not give Wintoys a try since it’s completely free!
@@ -131,3 +158,43 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-overcoming-fixed-color-voids-in-recording-software-for-2024/"><u>[New] Overcoming Fixed Color Voids in Recording Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] In 2024, Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[Updated] In 2024, Ranking  9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>[Updated] Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-mastering-the-art-of-vr-exploration/"><u>[Updated] Step-by-Step  Mastering the Art of VR Exploration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-wirecast-livestream-on-youtube/"><u>[Updated] Step-by-Step  WireCast Livestream on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/12-unwanted-programs-in-your-windows-environment/"><u>12 Unwanted Programs in Your Windows Environment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-compreeved-guide-converting-webp-to-quality-jpg-format/"><u>2024 Approved  Compreeved Guide  Converting WebP to Quality JPG Format</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-decoding-the-revised-youtube-earnings-criteria/"><u>2024 Approved  Decoding the Revised YouTube Earnings Criteria</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-managing-windows-11-default-applications/"><u>A Comprehensible Guide to Managing Windows 11 Default Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/a-concierge-guide-to-entering-your-windows-11-appshabitat/"><u>A Concierge Guide to Entering Your Windows 11 AppsHabitat</u></a></li>
+<li><a href="https://win11.techidaily.com/a-concise-guide-to-windows-11-user-grievances-and-gripes/"><u>A Concise Guide to Windows 11 User Grievances and Gripes</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-guide-to-accessing-the-windows-iscsi-initiator/"><u>A Practical Guide to Accessing the Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-downloads-in-the-ms-store-a-step-by-step-guide/"><u>Accelerating Downloads in the MS Store - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-and-starting-verifier-manager-in-win11-os/"><u>Accessing and Starting Verifier Manager in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-secure-windows-scripting-navigating-execution-policies/"><u>Activate Secure Windows Scripting: Navigating Execution Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/address-vanishing-cameras-from-device-manager-list/"><u>Address Vanishing Cameras From Device Manager List</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-invalid-token-usage-in-modern-windows-systems/"><u>Addressing Invalid Token Usage in Modern Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-missing-powershell-from-windows-command-prompt/"><u>Addressing Missing PowerShell From Windows Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-disk-fragmentation-issue/"><u>Addressing Windows Disk Fragmentation Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-standard-pdf-display/"><u>Altering Window's Standard PDF Display</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-installation-process-via-registry/"><u>Altering Windows Installation Process via Registry</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-microsoft-store-hiccup-error-0x00000000-solution/"><u>Avoiding Microsoft Store Hiccup: Error 0X00000000 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/beware-ais-role-in-win-11-key-generation-missteps/"><u>Beware: AI's Role in Win 11 Key Generation Missteps</u></a></li>
+<li><a href="https://win11.techidaily.com/blackview-mp60-mini-pc-expandable-storage-but-unremarkable-performance/"><u>Blackview MP60 Mini PC: Expandable Storage but Unremarkable Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-disk-capacity-7-affordable-tricks-for-windows-enthusiasts/"><u>Boosting Disk Capacity: 7 Affordable Tricks for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-ease-of-use-with-mouse-settings-in-win11/"><u>Boosting Ease of Use with Mouse Settings in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-with-customized-windows-cmd/"><u>Boosting Productivity with Customized Windows Cmd</u></a></li>
+<li><a href="https://win11.techidaily.com/1719336940768-cant-open-chrome-try-these-win11-solutions-now/"><u>Can't Open Chrome? Try These Win11 Solutions Now.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-to-gaming-expert-tips-on-repairing-overwatch-voice-communication-issues/"><u>Get Back to Gaming: Expert Tips on Repairing Overwatch Voice Communication Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-your-linkedin-profile-professional-for-2024/"><u>How To Make Your LinkedIn Profile Professional for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/peak-analysis-facebooks-global-growth/"><u>Peak Analysis: Facebook's Global Growth</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sync-twitch-with-snapchat-a-step-by-step-guide-for-2024/"><u>Sync Twitch with Snapchat  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-battle-of-av1-and-vp9-outcomes-revealed/"><u>The Battle of AV1 and VP9  Outcomes Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719275577489-winshift-troubles-how-to-resolve-them/"><u>WinShift Troubles: How to Resolve Them</u></a></li>
+</ul></div>

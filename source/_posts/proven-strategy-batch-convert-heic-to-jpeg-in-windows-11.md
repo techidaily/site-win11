@@ -1,7 +1,7 @@
 ---
 title: "Proven Strategy: Batch Convert HEIC to JPEG in Windows 11"
-date: 2024-07-13T10:44:38.692Z
-updated: 2024-07-14T10:44:38.692Z
+date: 2024-08-15T23:50:38.193Z
+updated: 2024-08-16T23:50:38.193Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
@@ -68,6 +71,9 @@ Now it's time to convert images with FoneTool:
 1. Select the**ToolBox** tab in FoneTool’s window.
 2. Click the**HEIC Converter** button.  
 ![The Toolbox tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/toolbox-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Press the**Add Photos** button, select some images, and click**Open** .
 4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
@@ -84,6 +90,9 @@ Now it's time to convert images with FoneTool:
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
@@ -92,6 +101,10 @@ Now it's time to convert images with FoneTool:
 1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
@@ -100,11 +113,17 @@ Now it's time to convert images with FoneTool:
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Click**Download all** to save the JPEG files.
 
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## Make iPhone Photos More Accessible on Windows
 
@@ -128,3 +147,57 @@ Now it's time to convert images with FoneTool:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-cost-effective-techniques-for-youtube-intro-creation/"><u>[New] 2024 Approved  Cost-Effective Techniques for YouTube Intro Creation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-combining-images-with-flair-your-ultimate-guide-to-instagram-stories-for-2024/"><u>[New] Combining Images with Flair  Your Ultimate Guide to Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-how-to-add-videos-to-youtube-playlist/"><u>[New] How to Add Videos to YouTube Playlist?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capture-life-in-motion-using-ipad-filming-techniques/"><u>[New] In 2024, Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-identifying-instagrams-newly-disconnected/"><u>[New] In 2024, Identifying Instagram's Newly Disconnected</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlining-creative-processes-with-obs-studio-tools/"><u>[New] In 2024, Streamlining Creative Processes with OBS Studio Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-magical-image-maker-turning-pictures-into-cartoons-on-devices/"><u>[New] Magical Image Maker  Turning Pictures Into Cartoons on Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-superior-mp4-integrator-with-fb/"><u>[New] Superior MP4 Integrator with FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-video-recording-camstudios-total-package/"><u>[Updated] 2024 Approved  Mastering Video Recording  CamStudio's Total Package</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-integrated-video-workflows-on-ios/"><u>2024 Approved  Integrated Video Workflows on iOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>2024 Approved  Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/5-quick-wins-to-tackle-your-window-writes-woes/"><u>5 Quick Wins to Tackle Your Window' Writes Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-custom-audio-commands-in-the-latest-windows-os/"><u>Crafting Custom Audio Commands in the Latest Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-tips-to-unite-folders-and-files-in-windows-11/"><u>Cutting-Edge Tips to Unite Folders & Files in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/device-agnostic-operating-system-windows-for-iphonesipads-macs-pcs-launched/"><u>Device-Agnostic Operating System: Windows for iPhones/iPads, Macs, PCs Launched</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-win11-lineups-finest-videomodding-software/"><u>Discover the Win11 Lineup's Finest Videomodding Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-frame-wins-fundamental-cinematography-for-newcomers/"><u>First Frame Wins  Fundamental Cinematography for Newcomers</u></a></li>
+<li><a href="https://win11.techidaily.com/full-method-to-turn-off-wsl-in-windows-1011/"><u>Full Method to Turn Off WSL in Windows 10/11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-itel-s23plus-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Itel S23+ Face Lock?</u></a></li>
+<li><a href="https://win11.techidaily.com/guarding-against-hidden-threats-in-these-7-windows-processes/"><u>Guarding Against Hidden Threats in These 7 Windows Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-setting-up-google-play-on-w11-os/"><u>Guide: Setting Up Google Play on W11 OS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-se-2022-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone SE (2022) and iPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-replacements-for-windows-snipping-functionality-in-other-oses/"><u>Ideal Replacements for Windows' Snipping Functionality in Other OSes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-software-gamers-streaming-companions/"><u>In 2024, Exclusive Software  Gamers' Streaming Companions</u></a></li>
+<li><a href="https://win11.techidaily.com/locating-group-policies-a-users-guide-for-win-users/"><u>Locating Group Policies: A User's Guide for Win Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-technique-for-usb-mouse-driver-revival-in-win1011/"><u>Master Technique for USB-Mouse Driver Revival in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-microsoft-store-error-solving-in-windows/"><u>Mastery of Microsoft Store Error Solving in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-your-guard-easy-steps-to-making-family-safe-work-again/"><u>Mend Your Guard: Easy Steps to Making Family Safe Work Again</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-gaming-glitches-keeping-df-playtime-uninterrupted/"><u>Navigating Gaming Glitches: Keeping DF Playtime Uninterrupted</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-noir-world-of-microsoft-paint/"><u>Navigating the Noir World of Microsoft Paint</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-no-cost-all-vibes-download-spotifys-free-playlist/"><u>New In 2024, No Cost, All Vibes Download Spotifys Free Playlist</u></a></li>
+<li><a href="https://win11.techidaily.com/novices-guide-to-folder-fabrication-in-win11/"><u>Novice's Guide to Folder Fabrication in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lan-gaming-challenges-on-pc-winsminecraft/"><u>Overcoming LAN Gaming Challenges on PC, WinsMinecraft</u></a></li>
+<li><a href="https://win11.techidaily.com/prepare-for-airplane-mode-installation-of-win11/"><u>Prepare for Airplane Mode: Installation of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-wls-2-strategies-optimizing-linux-experience-in-windows/"><u>Pro WLS 2 Strategies: Optimizing Linux Experience in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-your-pen-on-windows-os/"><u>Quick Fix: Enabling Your Pen on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-windows-error-solutions-for-efficiency/"><u>Realigning Windows Error Solutions for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-harbor-for-windows-free-software-selections/"><u>Safe Harbor for Windows Free Software Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-custom-keys-for-windows-applications/"><u>Setting Custom Keys for Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-yellow-tint-issue-in-windows-monitorage/"><u>Solve Yellow Tint Issue in Windows Monitorage</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-11-menu-glitches-a-step-by-step-guide/"><u>Solving Windows 11 Menu Glitches: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-the-non-operational-escape-button-on-your-desktop/"><u>Swiftly Solve the Non-Operational Escape Button on Your Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-file-privilege-hiccup-with-steam-and-win11-gameplay/"><u>Tackling File Privilege Hiccup with Steam & Win11 Gameplay</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-best-free-video-rotators-for-mov-files/"><u>The Best Free Video Rotators for MOV Files</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tier-video-coders-for-windows-a-comparative-review/"><u>Top-Tier Video Coders for Windows: A Comparative Review</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-a-non-operational-windows-netflix-service/"><u>Troubleshooting a Non-Operational Windows Netflix Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/understanding-the-3gp-video-standard-a-guide-to-opening-and-viewing-3gp-files/"><u>Understanding the 3GP Video Standard: A Guide to Opening & Viewing 3GP Files</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-storage-potential-with-windows-iscsi-initiator/"><u>Unlocking Storage Potential with Windows iSCSI Initiator</u></a></li>
+</ul></div>

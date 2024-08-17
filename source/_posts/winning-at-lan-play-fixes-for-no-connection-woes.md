@@ -1,7 +1,7 @@
 ---
 title: "Winning at LAN Play: Fixes for No Connection Woes"
-date: 2024-07-13T11:04:56.935Z
-updated: 2024-07-14T11:04:56.935Z
+date: 2024-08-15T23:31:09.177Z
+updated: 2024-08-16T23:31:09.177Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 
  If the connection type is different, change it. If the connection type already matches the host, you can proceed to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 3\. Ensure You're Using the Same Minecraft Version as the Host
 
  Although this may be evident, your device must run the same Minecraft version as the host to join the LAN world. Minecraft updates automatically in most cases, so perhaps a new version came out and everyone updated to it, mismatching their version from the server's.
@@ -43,9 +46,15 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
  To check that, open the Minecraft launcher, expand the **menu** in the bottom-left, select the **Latest release**, and click **Play**. Then, attempt to join the LAN world again.
 
 ![Select the Latest Version to Play Minecraft in a LAN World](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-the-latest-version-to-play-minecraft-in-a-lan-world.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If the issue persists, note down the version listed under the **Latest release** and confirm that the host uses the same version.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Change Your Windows Network Profile to Private
 
  When you connect to a network for the first time, it is usually set as public and hides itself from other devices on the network. If you haven't changed the network profile before, you probably use the default settings, which is likely the public profile.
@@ -62,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 2. Navigate to **Network and Internet > Network and Sharing Center**.
 3. Click on the **Change advanced sharing settings** option on the left.  
 ![Open the Advanced Sharing Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-advanced-sharing-settings-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery**.
 5. Also, check the box beside **Set up network connected devices automatically**.  
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
@@ -85,9 +97,15 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 
 1. Click the **Direct Connection** button in multiplayer mode.  
 ![Open the Direct Connection in Minecraft Multiplayer Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-direct-connection-in-minecraft-multiplayer-mode.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Paste the **IPv4 address** into the **Server Address** box, add a colon, and enter the **LAN port** provided by the host.
 3. Then, click on **Join Server**.  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## Join a Minecraft LAN World Seamlessly on Windows
 
@@ -99,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 
  You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Q: What Is the IP for a LAN Minecraft Server?
 
  Your computer's [IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can [find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
@@ -114,3 +136,41 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/echnical-aspects-that-elevate-youtube-video-ranks/"><u>[New] Technical Aspects That Elevate YouTube Video Ranks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-zooming-your-tiktok-videos/"><u>[New] The Ultimate Guide to Zooming Your TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creative-commons-legalities-explained-simply/"><u>[Updated] 2024 Approved  Creative Commons Legalities Explained Simply</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-favorites-list-top-mac-software-for-video-recording/"><u>[Updated] 2024 Approved  Favorites List  Top Mac Software for Video Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pristine-screenshot-tool-free-and-simple/"><u>[Updated] 2024 Approved  Pristine Screenshot Tool - Free and Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-around-youtubes-restrictions/"><u>[Updated] Navigating Around Youtube's Restrictions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-top-action-cameras-with-full-hd-in-your-pocket/"><u>2024 Approved  5 Top Action Cameras with Full HD in Your Pocket</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-turn-youtube-live-feeds-into-mp3-with-online-tools-2023/"><u>2024 Approved  Turn YouTube Live Feeds Into MP3 with Online Tools 2023</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-keyboard-brightness-not-working/"><u>ASUS Keyboard Brightness Not Working</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-techniques-for-moving-files-in-windows-11/"><u>Boost Productivity: Techniques for Moving Files in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-open-exe-files-on-windows-try-these-fixes/"><u>Can’t Open EXE Files on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/contrasting-features-of-installation-methods-exe-vs-msi-files/"><u>Contrasting Features of Installation Methods: Exe vs Msi Files</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-problems-with-outlooks-error-0x80040610-on-windows/"><u>Curbing Problems with Outlook's Error 0X80040610 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/deciding-between-upgrades-here-are-7-reasons-for-win10/"><u>Deciding Between Upgrades? Here Are 7 Reasons for Win10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-to-revitalize-frozen-spotify-win11/"><u>Essential Techniques to Revitalize Frozen Spotify Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-grayed-out-extend-volume-option-in-disk-management-for-windows/"><u>How to Fix a Grayed Out Extend Volume Option in Disk Management for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-lsassexe-unable-to-locate-error-on-win-810/"><u>How to Overcome lsass.exe Unable to Locate Error on Win 8/10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-crafting-cross-platform-content-strategy-with-igtv-and-fb/"><u>In 2024, Crafting Cross-Platform Content Strategy with IGTV and FB</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-iphone-close-up-techniques-for-photo-excellence/"><u>Innovative iPhone Close-Up Techniques for Photo Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-steps-for-dolby-atmos-in-windows-11/"><u>Installation Steps for Dolby Atmos in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-for-completely-getting-rid-of-wsl-on-win-11/"><u>Instructions for Completely Getting Rid of WSL on Win 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-gopro-quik-alternatives-for-desktop-video-editing/"><u>New Best GoPro Quik Alternatives for Desktop Video Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-chromes-false-virus-detection-issue/"><u>Overcoming Chrome’s False Virus Detection Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-memory-write-failure-in-windows/"><u>Overcoming Memory Write Failure in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-uninstall-issues-in-windows-11/"><u>Solving Uninstall Issues in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-get-text-win-a-comprehensible-guide-to-windows-whisper/"><u>Speak, Get Text, Win: A Comprehensible Guide to Windows Whisper</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-cable-modem-models-a-comprehensive-list/"><u>Top-Ranking Cable Modem Models : A Comprehensive List</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-glitches-and-error-0xc00d36b4-on-windows/"><u>Troubleshooting Glitches & Error 0xC00D36B4 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-xbox-mic-use-with-windows-11-app/"><u>Unblocking Xbox Mic Use with Windows 11 App</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-complexities-of-windows-system-restore-for-easy-rollbacks/"><u>Unraveling the Complexities of Windows System Restore for Easy Rollbacks</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mastering-app-and-browser-oversight/"><u>Windows: Mastering App & Browser Oversight</u></a></li>
+<li><a href="https://win11.techidaily.com/winpc-restoring-lost-connections-with-easy-6-strategies-for-troubleshooting-adapters/"><u>WinPC: Restoring Lost Connections with Easy 6 Strategies for Troubleshooting Adapters</u></a></li>
+</ul></div>

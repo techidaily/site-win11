@@ -1,7 +1,7 @@
 ---
 title: Optimizing FN Keys' Functionality on Windows 10/11
-date: 2024-07-13T10:47:31.720Z
-updated: 2024-07-14T10:47:31.720Z
+date: 2024-08-15T23:47:48.321Z
+updated: 2024-08-16T23:47:48.321Z
 tags:
   - windows10
   - windows11
@@ -37,12 +37,21 @@ Here is how to proceed:
 1. Type Windows Mobility Center in Windows search and click**Open** .
 2. Alternatively, launch the Control Panel and navigate to the**Hardware and Sound** section.  
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Click on**Windows Mobility Center** .  
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
@@ -66,6 +75,9 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -75,8 +87,14 @@ Similarly, if you have an Acer device, follow these steps:
 1. Press the Win + I keys to open Windows Settings.
 2. Head over to**Update & Security** \>**Recovery** .  
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 3. Choose Restart now.  
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
 If you are a Windows 11 user, follow these steps:
 
@@ -103,6 +121,9 @@ If you are a Windows 11 user, follow these steps:
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is It a Good Idea To Change Fn Key Settings?
 
  Changes to Fn keys are safe and do not have any negative consequences. The customization options for the keys within Windows are limited, but there are quite a few third-party resources that you can look into if you want to modify keys a step further.
@@ -140,3 +161,53 @@ If you are a Windows 11 user, follow these steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-the-art-of-self-presentation-in-facebook-bios/"><u>[New] 2024 Approved  Mastering the Art of Self-Presentation in Facebook Bios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-finding-perfect-music-for-unpack-videos/"><u>[New] Guide  Finding Perfect Music For Unpack Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[New] In 2024, Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>[New] In 2024, The Essential Guide  From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-spin-wonders-expert-techniques-to-enthrall-your-followers-with-flipped-photos-for-2024/"><u>[New] Insta Spin Wonders  Expert Techniques to Enthrall Your Followers with Flipped Photos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-times-tales-top-10-historical-channels-to-study-with/"><u>[Updated] In 2024, Discover Time's Tales  Top 10 Historical Channels to Study With</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-step-by-step-creating-a-skype-group-on-both-systems/"><u>[Updated] In 2024, Step-by-Step  Creating a Skype Group on Both Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-picks-best-windows-phone-video-players-list/"><u>[Updated] Prime Picks  Best Windows Phone Video Players List</u></a></li>
+<li><a href="https://win11.techidaily.com/5-early-warnings-to-consider-windows-restart/"><u>5 Early Warnings to Consider Windows Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/7-expert-moves-for-restoring-the-functionality-of-windows-services-control-panel/"><u>7 Expert Moves for Restoring the Functionality of Windows Services Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-the-desktop-window-managers-high-gpu-usage-on-windows-11/"><u>7 Ways to Fix the Desktop Window Manager's High GPU Usage on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/8-easy-ways-to-unlock-windows-screen-setup-problems/"><u>8 Easy Ways to Unlock Windows Screen Setup Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-restoring-lost-windows-update/"><u>A Beginner's Guide to Restoring Lost Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-old-school-gaming-with-retroarcs-tools/"><u>A Step-by-Step Guide to Old-School Gaming with RetroArc's Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-shielding-game-data/"><u>A Step-by-Step Guide to Shielding Game Data</u></a></li>
+<li><a href="https://win11.techidaily.com/action-plan-if-powershell-isnt-displayed-by-windows/"><u>Action Plan if PowerShell Isn’t Displayed by Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-blackout-in-widows-remote-desktop-connection/"><u>Addressing Blackout in Widows Remote Desktop Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-insufficient-graphics-memory-in-hogwarts-educational-game/"><u>Addressing Insufficient Graphics Memory in Hogwarts Educational Game</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-network-reachability-windows/"><u>Addressing No Network Reachability (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-win11-crashes-with-exception-handlers/"><u>Addressing WIN11 Crashes with Exception Handlers</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-navigation-methods-without-ls-command/"><u>Advanced Windows Navigation Methods Without LS Command</u></a></li>
+<li><a href="https://win11.techidaily.com/ai-driven-windows-11-an-inevitable-shift/"><u>AI-Driven Windows 11: An Inevitable Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-blue-screens-a-guide-to-system-recovery/"><u>Beating Blue Screens: A Guide to System Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-deletion-windows-innovative-erasing-technique/"><u>Beyond Deletion: Windows' Innovative Erasing Technique</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-beats-into-bits-the-sound-savvy-image-for-2024/"><u>Blending Beats Into Bits  The Sound-Savvy Image for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-display-output-clarity-with-high-dpi-adjustments/"><u>Boost Display Output Clarity with High-DPI Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-in-win-11-with-top-7-essential-widgets/"><u>Boost Productivity in Win 11 with Top 7 Essential Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-user-experience-add-portable-menus-on-win11plus/"><u>Boost User Experience: Add Portable Menus on Win11+</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-windows-performance-and-functionality-via-improved-run-toolset/"><u>Boost Windows Performance and Functionality via Improved Run Toolset</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-type-speed-harnessing-windows-powertoys/"><u>Boost Your Type-Speed: Harnessing Windows PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/1719313088233-break-free-from-windows-update-problems-quickly/"><u>Break Free From Windows Update Problems Quickly!</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-barrier-5-apps-to-increase-volume-on-windows-past-100/"><u>Breaking the Barrier: 5 Apps to Increase Volume on Windows Past 100%%</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compute-aspect-variety-from-anywhere-for-2024/"><u>Compute Aspect Variety From Anywhere for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-perfect-driver-for-your-arduino-mega-board-now/"><u>Download the Perfect Driver for Your Arduino Mega Board Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-angle-correction-for-clear-vision/"><u>Effortless Angle Correction for Clear Vision</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-russian-greetings-mastery-must-know-phrases-and-vocabulary/"><u>Essential Russian Greetings Mastery: Must-Know Phrases & Vocabulary</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-started-with-your-youtube-channel-essentials/"><u>Getting Started with Your YouTube Channel – Essentials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-find-x7-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Find X7</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-craft-your-content-cross-pollination-with-youtubeplustiktok/"><u>In 2024, Craft Your Content Cross-Pollination with YouTube+TikTok</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-magic-v2-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Magic V2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/langchain-llm-101-the-essential-beginners-handbook-to-language-modeling/"><u>LangChain LLM 101: The Essential Beginner’s Handbook to Language Modeling</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-aerial-imagery-crews-the-10-drones/"><u>Premium Aerial Imagery Crews  The #10 Drones</u></a></li>
+<li><a href="https://win11.techidaily.com/1719249883200-revive-keys-in-crisis-arrows-rescued/"><u>Revive Keys in Crisis: Arrows Rescued!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-when-your-msi-k6-j-turbo-isnt-functioning-properly/"><u>Solving the Issue When Your MSI K6-J Turbo Isn't Functioning Properly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-power-to-download-igtv-videos-effortlessly-for-2024/"><u>Unlock the Power to Download IGTV Videos Effortlessly for 2024</u></a></li>
+</ul></div>

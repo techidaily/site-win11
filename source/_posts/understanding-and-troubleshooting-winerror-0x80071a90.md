@@ -1,7 +1,7 @@
 ---
 title: Understanding & Troubleshooting WinError 0X80071A90
-date: 2024-07-13T10:25:18.068Z
-updated: 2024-07-14T10:25:18.068Z
+date: 2024-08-16T00:10:25.231Z
+updated: 2024-08-17T00:10:25.231Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -73,17 +76,29 @@ Follow these steps to proceed:
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to [install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
@@ -91,6 +106,9 @@ Follow these steps to proceed:
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on [how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Enable Your Windows Features Again
 
  The Windows Features error 0x80071A90 is a frustrating problem that can prevent you from installing/enabling certain Windows features. Fortunately, there are several troubleshooting methods that can help you fix it for good.
@@ -116,3 +134,54 @@ Follow these steps to proceed:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023s-undisclosed-video-download-tools-1-8-rankings/"><u>[New] 2023'S Undisclosed Video Download Tools #1-8 Rankings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elevate-your-gaming-with-fbx-capture-pro/"><u>[New] 2024 Approved  Elevate Your Gaming with FBX Capture Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-share-screen-on-google-meet-for-2024/"><u>[New] How to Share Screen on Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-is-it-time-to-air-fb-videos-on-traditional-screens/"><u>[New] In 2024, Is It Time to Air FB Videos on Traditional Screens?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ecurely-verifying-your-youtube-access-details/"><u>[New] Securely Verifying Your YouTube Access Details</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-telehealth-advancements-with-vr-integrations/"><u>[New] Telehealth Advancements with VR Integrations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfect-your-macs-microphone-usage-with-this-guide-to-audacity/"><u>[Updated] In 2024, Perfect Your Mac's Microphone Usage with This Guide to Audacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-into-the-future-samsungs-new-k850-ultrablade-unveiled/"><u>[Updated] Step Into the Future - Samsung's New K850 UltraBlade Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-and-visual-summary-synthesizer/"><u>Aural and Visual Summary Synthesizer</u></a></li>
+<li><a href="https://win11.techidaily.com/breach-the-barrier-opening-credential-store/"><u>Breach the Barrier: Opening Credential Store</u></a></li>
+<li><a href="https://win11.techidaily.com/chronicle-reclaim-unearthing-windows-11s-archive/"><u>Chronicle Reclaim: Unearthing Windows 11'S Archive</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compact-ourlink-u631-wireless-usb-wi-fi-nano-adapter-with-reliable-connectivity/"><u>Compact Ourlink U631 Wireless USB Wi-Fi Nano Adapter with Reliable Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-failed-execution-of-defrag-utility/"><u>Correcting Failed Execution of Defrag Utility</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-program-conflicts-the-four-step-fix/"><u>Decoding Program Conflicts: The Four-Step Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-approach-to-reviving-your-windows-update-status/"><u>Direct Approach to Reviving Your Windows Update Status</u></a></li>
+<li><a href="https://win11.techidaily.com/elusive-operators-invisible-input-on-windows/"><u>Elusive Operators: Invisible Input on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-code-30015-26-in-microsoft-365-for-windows-users/"><u>Fixing Error Code 30015-26 in Microsoft 365 for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-are-c-and-d-drive-identities-unique/"><u>How Are C: And D: Drive Identities Unique?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bypass-windows-defender-antivirus-blockage/"><u>How to Bypass Windows Defender Antivirus Blockage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effectively-restart-your-windows-graphics-driver/"><u>How to Effectively Restart Your Windows Graphics Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-scaling-issues-for-high-dpi-screens/"><u>How to Fix Windows Scaling Issues for High DPI Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-from-the-service-did-not-respond-windows-error-1053/"><u>How to Recover From The Service Did Not Respond Windows Error 1053</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google Pixel Fold</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-printer-severance-guide-for-windows-computers/"><u>Immediate Printer Severance Guide for Windows Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-presence-instagrams-path-to-prominence/"><u>In 2024, Elevate Your Presence  Instagram's Path to Prominence</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone X? Learn All 4 Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-x6-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco X6?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-portable-criacr-bluetooth-fm-transmitter-cp24-pros-and-cons-examined/"><u>In-Depth Evaluation of the Portable CRIACR Bluetooth FM Transmitter CP24: Pros & Cons Examined</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-for-windows-11-widgets-a-comprehensive-list-of-enhancements/"><u>New Horizons for Windows 11 Widgets: A Comprehensive List of Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/old-school-keys-new-horizon-initiate-windows-11-with-windows-7-key/"><u>Old-School Keys, New Horizon: Initiate Windows 11 with Windows 7 Key</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-management-app-collapses/"><u>Prevent Windows Management App Collapses</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-windows-hello-fingerprint-recognition-issues/"><u>Quick Fixes to Windows Hello Fingerprint Recognition Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/rekindle-your-computers-potential-with-windows-11-via-to-go-and-rufus-path/"><u>Rekindle Your Computer's Potential with Windows 11, Via To Go & Rufus Path</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-and-restoring-faulty-media-playback/"><u>Resetting and Restoring Faulty Media Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-interruptexceptionnothandled-in-w11-bsods/"><u>Resolving INTERRUPT_EXCEPTION_NOT_HANDLED in W11 BSODs</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-speakers-not-detected-issue/"><u>Resolving Windows: Speakers Not Detected Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-lost-connection-fixes-for-wifi-failures-in-win11/"><u>Reviving Your Lost Connection: Fixes for Wifi Failures in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719378810676-shift-key-woes-try-these-fixes-now/"><u>Shift Key Woes? Try These Fixes Now</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-microsoft-store-monochrome-issue/"><u>Steps to Address Microsoft Store Monochrome Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-deactivated-windows-updates/"><u>Steps to Reactivate Deactivated Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-microsoft-store-use-in-windows-11/"><u>Streamlining Microsoft Store Use in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-disassembling-dism-for-image-recovery/"><u>The Art of Disassembling Dism for Image Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/the-fundamentals-of-using-windows-odbc-connectivity/"><u>The Fundamentals of Using Windows' ODBC Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/title-shaping-desktop-interface-with-icon-distance-manipulation/"><u>Title: Shaping Desktop Interface with Icon Distance Manipulation</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-eternal-delete-with-a-customized-windows-trash-bin-setup-11/"><u>Unleash Eternal Delete with a Customized Windows Trash Bin Setup (11)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Gaining Admin Access in Command Prompt
-date: 2024-07-13T10:59:14.490Z
-updated: 2024-07-14T10:59:14.490Z
+date: 2024-08-15T23:36:11.250Z
+updated: 2024-08-16T23:36:11.250Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
 
  If you're using the Command Prompt on a regular basis, there's a good chance you need to run it as an Administrator from time to time. Fortunately, Microsoft has made it easy to do this in Windows 11\.
@@ -65,8 +68,14 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 ![Open Local Security Policy Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Local-Security-Policy-Using-Start-Menu.jpg)
 4. Now right-click on Command Prompt and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. If UAC appears on the screen, click **Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
 
  Task Manager is a tool that every Windows user should know about. It's a great way to see what programs are running on your computer and how many resources they're using at the same time. If you ever need to run a command prompt as an administrator, you can do so by opening Task Manager.
@@ -88,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 3. Locate **Windows Tools** and click on it.
 4. Next, right-click on **Command Prompt** and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
 
@@ -109,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 3. Next, type "cmd" in the search bar and hit Enter.
 4. Right-click on the search result, and select **Show more options > Create shortcut**.  
 ![Create Desktop Shortcut to Open Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-to-Open-Command-Prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Windows will ask for your confirmation before creating it, so click **Yes**.
 6. There will be a shortcut on your computer's desktop. To open the command prompt with admin access, right-click on it and select **Run as administrator**.
 
@@ -118,6 +133,9 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
  Once you have finished, click **OK** and then **Apply**. Your shortcut is now ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. How to Pin the Command Prompt to the Taskbar and Open It With Admin Rights
 
  If you're looking for a way to make your life a bit easier when it comes to using the Command Prompt, be sure to try out this method in Windows 11\.
@@ -125,9 +143,15 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 1. Open the Start menu and search for "cmd".
 2. Right-click on Command Prompt and select **Pin to taskbar**.  
 ![Pin Command Prompt to taskbar tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-taskbar-tray.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 3. Now go to the taskbar, and right-click on the Command Prompt icon.
 4. Right-click on **Command Prompt** again and select **Run as administrator**.  
 ![Pin Command Prompt to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-Taskbar.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This way you will never have to worry about finding it again.
 
@@ -138,10 +162,17 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 1. Right-click on your desktop and select **New** \> **Shortcut**.
 2. In the text box, type **cmd.exe** and click **Next**.  
 ![Create Command Prompt Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-command-prompt-shortcut.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. On the next screen, give a name to this shortcut and click **Finish**.
 4. Now right-click on the shortcut and select **Properties**.
 5. In the Shortcut tab, go to the **Shortcut key** field.  
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 6. Press a key combination of your choice and click **Advanced**.
 7. Make sure to check the **Run as administrator** box and click **OK**.
 8. Finally, click **Apply** \> **OK**, and your shortcut will be ready to use.
@@ -167,3 +198,44 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-avoiding-blur-on-instagram-with-smart-zooms/"><u>[New] 2024 Approved  Avoiding Blur on Instagram with Smart Zooms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-breaking-down-techniques-for-recording-google-meet-participants/"><u>[New] 2024 Approved  Breaking Down  Techniques for Recording Google Meet Participants</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-budget-friendly-hd-desktop-recording-tools-roundup/"><u>[New] Budget-Friendly HD Desktop Recording Tools Roundup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>[New] Crafting the Perfect Visual Identity  Podcast Covers Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-insta-meets-tiktok-connectors-handbook-for-2024/"><u>[Updated] Insta Meets TikTok  Connector's Handbook for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-hospitals-social-media-health-promos/"><u>2024 Approved  Best Practices for Hospitals' Social Media Health Promos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-in-class-skype-recorders-ranked/"><u>2024 Approved  Best-in-Class Skype Recorders Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-window-taskbar-lockup-a-guide/"><u>Breaking the Window Taskbar Lockup: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-through-the-barrier-of-windows-errors/"><u>Breaking Through the Barrier of Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-into-a-non-operational-itunes-windows-app/"><u>Breathing Life Into a Non-Operational iTunes Windows App</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gap-to-windows-11-concealed-searchlight/"><u>Bridging Gap to Windows 11 Concealed Searchlight</u></a></li>
+<li><a href="https://win11.techidaily.com/bumping-basslines-top-4-software-to-overshoot-windows-maxed-volume/"><u>Bumping Basslines: Top 4 Software to Overshoot Window's Maxed Volume</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-maxed-out-status-of-gpt-on-pc/"><u>Bypassing Maxed Out Status of GPT on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-network-troubles-unlocking-secrets-of-error-0x800704b3/"><u>Bypassing Network Troubles: Unlocking Secrets of Error 0X800704B3</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-security-guard-unavailable-warning-on-pc/"><u>Bypassing Security Guard Unavailable Warning on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-unresponsive-programs-in-windows-systems/"><u>Bypassing Unresponsive Programs in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/calm-down-your-zooming-mouse-with-7-fixes/"><u>Calm Down Your Zooming Mouse with 7 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/cascading-chaos-conquered-multitask-management-for-win1110/"><u>Cascading Chaos Conquered: Multitask Management for Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/ceasing-voice-activated-ai-on-windows-11/"><u>Ceasing Voice-Activated AI on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-legacy-restoration-for-modern-users/"><u>Classic Legacy Restoration for Modern Users</u></a></li>
+<li><a href="https://win11.techidaily.com/clean-up-your-computer-top-12-windows-extras-for-removal/"><u>Clean Up Your Computer: Top 12 Windows Extras for Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-path-for-team-success-resolving-80080300-errors-on-w11/"><u>Clearing the Path for Team Success: Resolving 80080300 Errors on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-pathway-for-smooth-windows-discord-installation/"><u>Clearing the Pathway for Smooth Windows Discord Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-out-of-storage-error-on-win-1011/"><u>Clearing Up Out of Storage Error on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-windows-10-tracking-step-by-step-tutorial/"><u>Clearing Windows 10 Tracking: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/clever-consumers-can-confront-fakeware-feints/"><u>Clever Consumers Can Confront Fakeware Feints</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-dvd-tools-compatible-with-sierra/"><u>Essential DVD Tools Compatible with Sierra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2003-files-easily-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2003 Files Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-startup-to-standout-10-steps-to-thriving-in-the-world-of-smm-for-2024/"><u>From Startup to Standout  10 Steps to Thriving in the World of SMM for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-streaming-the-creme-de-la-cam-of-6-zoom-cameras/"><u>In 2024, Expert Streaming  The Crème De La Câm' Of #6 Zoom Cameras</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c55-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C55 to PC? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xltx files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-text-motion-manuals-for-2024/"><u>Premier Text Motion Manuals for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/swift-systems-for-securing-presentations-for-2024/"><u>Swift Systems for Securing Presentations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party-for-2024/"><u>The Best GoPro Hero5 Black Batteries and Chargers  Official and 3Rd Party for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-and-implementing-cc-licenses-wisely/"><u>Understanding & Implementing CC Licenses Wisely</u></a></li>
+</ul></div>

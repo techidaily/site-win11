@@ -1,7 +1,7 @@
 ---
 title: Unlocking Potential with Microsoft's PC Manager in Win11
-date: 2024-07-13T10:31:31.915Z
-updated: 2024-07-14T10:31:31.915Z
+date: 2024-08-16T00:04:19.751Z
+updated: 2024-08-17T00:04:19.751Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
  The app acts as a central spot to access all the useful system management tools of Windows. Apart from that, it brings many essential tools such as health checks, memory management, pop-up management, and more. We will cover each of these tools later on in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## How to Install the Microsoft PC Manager on Windows 11
 
  Firstly, you need to download the beta version of the Microsoft PC Manager app from the official website. Then you need to install it on your system. Here’s how to do it.
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 7. App installation will begin. It requires internet connectivity to download files from the server.
 8. Once the installation completes, click on the**Launch Now** button to open the app.
 
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
  Since it needs an internet connection to download files and the website was inaccessible at that time, the installation couldn’t complete. If you face a similar situation don’t worry, just close the installation window,[restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) , and retry after a few hours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Configure and Use Microsoft PC Manager
 
  We covered the installation method in the above section. This section will highlight all the tools available in the app and how you can use them to improve your system’s performance.
@@ -72,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  The first one is**Deep Cleanup** which identifies all the items that you can delete to free up some space. Think of it as an advanced version of the Health check tools because it lists out Clipboard files, DirectX Shader cache, Windows upgrade logs, and Recycle Bin files. Click on the**Proceed** button to perform Deep Cleanup.
 
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
@@ -90,11 +102,17 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
  The**Browser Protection** tool prevents malicious apps from changing the default browser. Our system has Chrome as the default browser, but the app offered subtle hints to change it to Edge. It is part of Microsoft’s strategy to compel users to switch to Edge. There’s no harm in doing that, but it all boils down to personal preference. Click on**Change the default browser** option and set it to your favorite browser.
 
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## A Free, Official Tool to Manage Your Windows PC
 
  Microsoft PC Manager is an impressive tool. It frees up memory and storage and manages system security all within one app. You will notice a few hiccups because it is the beta phase. One such issue is that it doesn’t switch to dark mode on Windows. It auto-starts every time you boot up Windows, but you can disable that using the app settings.
@@ -118,3 +136,47 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-audio-mastery-in-visual-storytelling-vimeo-edition/"><u>[New] Audio Mastery in Visual Storytelling  Vimeo Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enrich-thumbnails-introducing-radiant-neon-elements-for-2024/"><u>[New] Enrich Thumbnails  Introducing Radiant Neon Elements for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-masterful-marketing-tactics-11-ways-to-amplify-your-facebook-videography-for-2024/"><u>[New] Masterful Marketing Tactics  11 Ways to Amplify Your Facebook Videography for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-craftsmanship-in-action-macs-5-elite-snipping-applications/"><u>[Updated] In 2024, Craftsmanship in Action  Mac's 5 Elite Snipping Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-tips-for-vimeo-video-logging/"><u>2024 Approved  Essential Tips for Vimeo Video Logging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapshot-into-the-heart-of-video-edits-filmoras-top-10/"><u>2024 Approved  Snapshot Into the Heart of Video Edits - Filmora’s Top 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-transform-your-revenue-with-youtube-shorts-tips/"><u>2024 Approved  Transform Your Revenue with YouTube Shorts Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/3-essential-methods-to-enable-telnet-in-win11/"><u>3 Essential Methods to Enable Telnet in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/8-handy-windows-11-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 11 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-steam-download-rates-overcoming-sluggish-pace/"><u>Accelerate Steam Download Rates: Overcoming Sluggish Pace</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-seamless-icon-alignment-on-pcs/"><u>Achieve Seamless Icon Alignment on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/activatedeactivate-window-11-search-lights/"><u>Activate/Deactivate Window 11 Search Lights</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-a-touch-of-nature-implementing-weather-icon-in-windows-11-status-bar/"><u>Adding a Touch of Nature: Implementing Weather Icon in Windows 11 Status Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-forbidden-page-in-windows-environment/"><u>Addressing Forbidden Page in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-task-managers-empty-startup-tab/"><u>Addressing Task Manager's Empty Startup Tab</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-the-account-lockout-counter-following-unsuccessful-logins-in-w10w11/"><u>Adjusting the Account Lockout Counter Following Unsuccessful Logins in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-graphics-techniques-in-edge-app-guard/"><u>Advanced Graphics Techniques in Edge App Guard</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-partition-management-tactics/"><u>Advanced Windows Partition Management Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/ahead-of-the-curve-using-vivetool-on-your-pc/"><u>Ahead of the Curve: Using ViVeTool on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/be-a-social-media-wizard-best-tweeter-video-tools-for-2024/"><u>Be a Social Media Wizard  Best Tweeter Video Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-windows-11-blues-top-11-pitfalls-and-remedies/"><u>Beat Windows 11 Blues - Top 11 Pitfalls & Remedies</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-the-odds-tackling-installer-errors-in-win11-successfully/"><u>Beating the Odds: Tackling Installer Errors in Win11 Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/best-windows-10-and-11-climate-choices/"><u>Best Windows 10 & 11 Climate Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/biometric-breakdown-is-windows-hello-still-reliable/"><u>Biometric Breakdown: Is Windows Hello Still Reliable?</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-barriers-reimagining-administrative-protocols-on-windows/"><u>Breaking Barriers: Reimagining Administrative Protocols on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-the-w11-0x8004def5-onedrive-fixes/"><u>Breaking Down the W11 0X8004DEF5 Onedrive Fixes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-level-landing-low-cost-profitable-youtube-platforms/"><u>Entry Level Landing  Low-Cost, Profitable YouTube Platforms</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-breaking-even-on-youtube-key-view-figures-explored/"><u>In 2024, Breaking Even on YouTube  Key View Figures Explored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-a70-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel A70 to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>In 2024, The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/reviewing-samsungs-latest-wearable-tech-the-advanced-features-of-galaxy-watch-active-2/"><u>Reviewing Samsung's Latest Wearable Tech: The Advanced Features of Galaxy Watch Active 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-meetings-on-win11-using-zoom-features-for-2024/"><u>Streamlining Meetings on Win11 Using Zoom Features for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/surfers-specs-top-action-camera-choices-2023/"><u>Surfers' Specs - Top Action Camera Choices 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-economical-path-to-enhanced-speeds-in-depth-look-at-the-raspberry-pis-ms2-hatplus/"><u>The Economical Path to Enhanced Speeds: In-Depth Look at the Raspberry Pi's M.S2 HAT+</u></a></li>
+<li><a href="https://win11.techidaily.com/1719360575372-trouble-on-windows-discover-assistance-methods/"><u>Trouble on Windows? Discover Assistance Methods!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trouble-using-chatgpt-uncover-its-current-status-with-these-cufficient-methods/"><u>Trouble Using ChatGPT? Uncover Its Current Status With These Cufficient Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-11-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 11 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719298121554-troubleshoot-windows-update-hurdles-quick-solutions/"><u>Troubleshoot: Windows Update Hurdles - Quick Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-breaking-news-filmora-x-adds-arm-compatibility/"><u>Updated Breaking News Filmora X Adds ARM Compatibility</u></a></li>
+</ul></div>

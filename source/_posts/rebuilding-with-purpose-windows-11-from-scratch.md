@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding with Purpose: Windows 11 From Scratch"
-date: 2024-07-13T10:17:37.757Z
-updated: 2024-07-14T10:17:37.757Z
+date: 2024-08-16T00:17:19.035Z
+updated: 2024-08-17T00:17:19.035Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 * [What Is the Windows 11 Installation Assistant?](#what-is-the-windows-11-installation-assistant)
 * [Can You Install Windows 11 on a Virtual Machine?](#can-you-install-windows-11-on-a-virtual-machine)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Upgrading to Windows 11 is easy and can be done directly through Windows 10, or with a clean install for a fresh operating system feeling.
@@ -34,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  There are a few things you need to prepare before you can proceed with your Windows 11 installation—specifically the Windows 11 ISO and the bootable Windows 11 USB flash drive you'll install it from. Furthermore, if you're installing Windows 11 on a new device, it's worth [considering Windows 11's minimum specifications](https://www.makeuseof.com/windows-11-old-pc-to-go-rufus/) to make sure your machine is up to scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Download the Windows 11 Media Creation Tool
 
  The first thing you need is a copy of the Windows 11 [ISO, which is the disk image](https://www.makeuseof.com/what-is-a-disk-image-explained/) containing the Windows 11 installation files:
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 3. Run the Media Creation Tool once it finishes downloading, then accept the terms and conditions.
 
 ![windows 11 media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-media-creation-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 **Download Windows 11 Disk Image ISO**
 
@@ -54,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  Once downloaded, move to section three on how to burn your ISO to a USB flash drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Create a Bootable Windows 11 USB Drive
 
  Now, the Windows 11 Media Creation Tool gives you two options: create a USB flash drive or download a Windows 11 ISO. You can use either option for a clean Windows 11 installation, with the only major difference being that you'll have to create a bootable USB flash drive yourself if you download the ISO. Either option works well, though.
@@ -90,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  The Windows 11 ISO burning process will take a few minutes, so go and make a cup of tea or coffee, and it'll be done when you return.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Install Windows 11 Using the Bootable USB
 
  Once Rufus finishes burning your bootable Windows 11 USB flash drive (or if you created your Windows 11 installation media using the Media Creation Tool), you can use it to install the new operating system. Here's the process:
@@ -116,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  However, it's still a useful way to upgrade to Windows 11, especially if you're not bothered about installing Windows 11 yourself and just want to get the upgrade done.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Can You Install Windows 11 on a Virtual Machine?
 
  If you don't want to install Windows 11 on your main computer, you could always install it on a virtual machine instead. The virtual machine option gives you a way of testing Windows 11 without fully committing to the new operating system.
@@ -133,3 +152,43 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-pushing-boundaries-with-photomosaic-artistry/"><u>[New] In 2024, Pushing Boundaries with PhotoMosaic Artistry</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-embedding-youtube-videos-tips-for-a-smooth-ppt-transition-for-2024/"><u>[Updated] Embedding YouTube Videos  Tips for a Smooth PPT Transition for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views/"><u>[Updated] In 2024, IGTV Techniques  Seamlessly Transforming Vlogs for Maximum Views</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-intellects-ultimate-guide-to-premium-gk-quiz-sites/"><u>[Updated] In 2024, Intellect's Ultimate Guide to Premium GK Quiz Sites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-visual-vault-visitor/"><u>[Updated] In 2024, Visual Vault Visitor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevating-your-iphone-photos-through-hdr-methods/"><u>2024 Approved  Elevating Your iPhone Photos Through HDR Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>2024 Approved  How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-optimizing-income-through-youtube-short-tutorials/"><u>2024 Approved  Optimizing Income Through YouTube Short Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-marketplace-failures-error-0x80073cf3/"><u>Deciphering and Resolving Windows Marketplace Failures (Error 0X80073CF3)</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-change-installing-and-utilizing-themes-from-the-ms-store/"><u>Embracing Change: Installing and Utilizing Themes From the MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-programming-with-a-newly-installed-jdk-in-windows-11/"><u>Enhance Your Programming with a Newly Installed JDK in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-f34-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-adobe-photoshop-in-windows-11-and-11/"><u>Fixing Unresponsive Adobe Photoshop in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-solving-blue-screens-caused-by-not-handled-error/"><u>Guide to Solving Blue Screens Caused by Not Handled Error</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-or-showing-time-and-date-on-win-11-ui-bar/"><u>Hiding or Showing Time & Date on Win 11 UI Bar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-failed-vms-from-vmware-in-windows-11/"><u>How to Resolve Failed VMs From VMware in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-reno-9a-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo Reno 9A Location Settings | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-tailored-thumbnails-aspect-ratios-for-maximum-clicks/"><u>In 2024, Tailored Thumbnails  Aspect Ratios for Maximum Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-file-explorer-with-onedrive-integration/"><u>Initiating File Explorer with OneDrive Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/muting-file-explorer-tabs-in-windows-11-guide/"><u>Muting File Explorer Tabs in Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-for-rapid-epic-games-access/"><u>Optimizing Windows for Rapid Epic Games Access</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-microsoft-store-access-blockades/"><u>Overcoming Microsoft Store Access Blockades</u></a></li>
+<li><a href="https://win11.techidaily.com/reawakening-computers-top-8-windows-restart-techniques/"><u>Reawakening Computers: Top 8 Windows Restart Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-your-login-experience-opting-for-stronger-protection-over-windows-11s-default-pin/"><u>Reimagining Your Login Experience: Opting for Stronger Protection over Windows 11'S Default PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-sticky-windows-credential-puzzle/"><u>Reversing Sticky Windows Credential Puzzle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-and-sustain-gameplay-review-of-the-most-reliable-apc-gaming-uninterruptible-power-supplies/"><u>Secure and Sustain Gameplay: Review of the Most Reliable APC Gaming Uninterruptible Power Supplies</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-storage-efficiently-identifying-large-disk-users/"><u>Streamline Your Storage: Efficiently Identifying Large Disk Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-windows-11-interface-for-maximum-comfort/"><u>Tailoring Your Windows 11 Interface for Maximum Comfort</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts-for-2024/"><u>Transform Every Moment  Top Tasks to Master While Listening to Your Favorite Podcasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unseen-drives-in-windows/"><u>Troubleshooting: Unseen Drives in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-microsofts-copilot-key-insights-for-windows-11-users/"><u>Unlocking Microsoft's Copilot Key: Insights for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-mystery-of-windows-error-0xca00a009/"><u>Unpacking the Mystery of Windows Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-custom-shortcut-for-safe-hardware-disconnect/"><u>Windows 11: Custom Shortcut for Safe Hardware Disconnect</u></a></li>
+<li><a href="https://win11.techidaily.com/winstall-workflows-for-smooth-windows-11-app-installation/"><u>Winstall Workflows for Smooth Windows 11 App Installation</u></a></li>
+</ul></div>

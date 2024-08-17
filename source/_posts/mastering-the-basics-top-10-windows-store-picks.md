@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Basics: Top 10 Windows Store Picks"
-date: 2024-07-13T10:50:29.209Z
-updated: 2024-07-14T10:50:29.209Z
+date: 2024-08-15T23:44:51.709Z
+updated: 2024-08-16T23:44:51.709Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 **Download** :[QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 2\. Firefox
 
 ![firefox browser windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/firefox-browser-windows.jpg)
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ## 3\. aText
 
 ![atext windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/atext-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  aText is a popular text expansion and automation app now available on Microsoft Store. If you type emails or documents with repetitive words, names, and signatures or use complex words frequently, you can use aText to assign abbreviations to individual or multiple words.
 
@@ -52,9 +58,15 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 **Download** :[aText](https://apps.microsoft.com/store/detail/atext/9N68HC1SRR0K) (Free, premium version available for $29.99)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. WhatsApp Desktop
 
 ![whatsapp desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/whatsapp-desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 
  If you use WhatsApp for instant messaging and work frequently, the desktop version lets you interact with notifications, send messages, make calls, and more directly from your desktop.
 
@@ -67,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ## 5\. Microsoft PowerToys
 
 ![microsoft powertoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-powertoys.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft PowerToys is a collection of useful utilities that lets you customize your Windows PC. It features a bunch of productivity tools to enhance your Windows experience.
 
@@ -79,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ## 6\. Files App
 
 ![files app file explorer alternative](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/files-app-file-explorer-alternative.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 
  Files App is an alternative to Windows File Explorer. It is an excellent file manager utility offering just enough additional features to edge out the built-in file manager app on Windows.
 
@@ -90,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 **Download** :[Files App](https://apps.microsoft.com/store/detail/files-app/9NGHP3DX8HDX?) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. ShareX
 
 ![sharex image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sharex-image.png)
@@ -107,6 +128,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ## 8\. Microsoft To Do
 
 ![microsoft to do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-to-do.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft To Do is a popular list, tasks, and reminders app available on Windows and other platforms. It helps you get organized and keep track of your day’s tasks to be more productive.
 
@@ -130,6 +154,9 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 **Download** :[Duplicate Cleaner](https://apps.microsoft.com/store/detail/duplicates-cleaner/9PMXPZ18CZ49?) (Free, premium version available at $6.49)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 10\. Lively Wallpaper
 
 ![lively wallpaper windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/lively-wallpaper-windows-11.jpg)
@@ -167,3 +194,66 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-a-beginners-guide-to-jujutsu-kaisen-on-tiktok-for-2024/"><u>[New] A Beginner’s Guide to Jujutsu Kaisen on TikTok for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-abletons-techniques-for-diminishing-sound-intensity/"><u>[New] Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-the-thrill-top-techniques-for-win10-games/"><u>[New] Capturing the Thrill  Top Techniques for Win10 Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-integrating-spotify-and-discord-a-complete-guide-for-2024/"><u>[New] Integrating Spotify & Discord  A Complete Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[New] Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevating-video-post-visibility-on-fb-groups/"><u>[Updated] Elevating Video Post Visibility on FB Groups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-real-time-fbx-filming-tips/"><u>[Updated] Real-Time FBX Filming Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-how-to-create-text-memes-with-meme-text-generator/"><u>2024 Approved  How to Create Text Memes with Meme Text Generator?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-of-precision-crafting-effective-video-titles/"><u>2024 Approved  The Power of Precision  Crafting Effective Video Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-future-skies-top-weather-apps-for-pc/"><u>A Window Into Future Skies: Top Weather Apps for PC</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-windows-11-lags-top-strategies-to-boost-speed/"><u>Combat Windows 11 Lags: Top Strategies to Boost Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-secure-boot-the-ultimate-rufus-guidebook/"><u>Conquering Secure Boot: The Ultimate Rufus Guidebook</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/data-protection-pledge-renewed/"><u>Data Protection Pledge Renewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/direct-approaches-to-documenting-google-voice-interactions-for-2024/"><u>Direct Approaches to Documenting Google Voice Interactions for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-vm-management-hosting-linux-on-a-windows-system-with-hyper-v/"><u>Efficient VM Management: Hosting Linux on a Windows System with Hyper-V</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-digital-sketching-with-microsoft-paint-updates/"><u>Elevating Digital Sketching with Microsoft Paint Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-not-enough-privileges-error-during-installation-on-windows/"><u>Eliminating Not Enough Privileges Error During Installation on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ethernet-efficiency-top-tips-to-test-your-networks-pace-on-windows/"><u>Ethernet Efficiency: Top Tips to Test Your Network's Pace on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-shortcuts-for-savvy-screen-capture-on-your-pc/"><u>Expert Shortcuts for Savvy Screen Capture on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-auto-lock-and-screensaver-on-pc/"><u>Fine-Tune Auto-Lock & Screensaver on PC</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-modify-calculators-color-scheme-dark/"><u>How To Modify Calculator's Color Scheme (Dark)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-battlenet-desktop-client-successfully/"><u>How to Reactivate Battle.net Desktop Client Successfully</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-a1-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo A1 5G Phone?</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-track-windows-10-and-11-note-hacks/"><u>Keeping Track: Windows 10 & 11 Note Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microphone-settings-in-w11-systems/"><u>Mastering Microphone Settings in W11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-error-0x8007251d-windows-activation-demystified/"><u>Mastery over Error 0X8007251D: Windows Activation Demystified</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-prevalent-windows-rainmeter-troubles/"><u>Navigating Through Prevalent Windows Rainmeter Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-win11-startup-options-a-comprehensive-guide/"><u>Navigating Win11 Startup Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/operating-unity-windows-rolls-out-across-apple-pc-mac-android-world/"><u>Operating Unity: Windows Rolls Out Across Apple, PC, Mac, Android World</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-5ghz-wireless-hurdles/"><u>Overcoming Windows 11 5GHz Wireless Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/protocols-to-enter-windows-administrative-hub/"><u>Protocols to Enter Windows' Administrative Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/quashing-the-spontaneous-search-on-win11-pc/"><u>Quashing the Spontaneous Search on Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-conflict-between-apps-and-computers-default-audio/"><u>Remedying the Conflict Between Apps and Computer's Default Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-missing-thermal-policy-in-windows-environment/"><u>Restoring Missing Thermal Policy in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-services-command-line-tool-with-these-7-steps/"><u>Restoring Window's Services Command Line Tool with These 7 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-pc-with-apples-imessage/"><u>Setting Up Your PC with Apple's iMessage</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-driver-not-running-error-in-windows-11/"><u>Solutions for Driver Not Running Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-choices-activating-filters-on-windows-11-files/"><u>Streamline Choices: Activating Filters on Windows 11 Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-video-content-delivery-a-curated-list-of-players-for-2024/"><u>Streamline Video Content Delivery  A Curated List of Players for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-experience-clearing-and-rebuilding-icons/"><u>Streamlining Your Experience: Clearing and Rebuilding Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-methods-how-to-determine-hard-drivessd-status-in-windows-system/"><u>Swift Methods: How to Determine Hard Drive/SSD Status in Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prolong-shutdown-in-windows-10-amidst-active-processes/"><u>Techniques to Prolong Shutdown in Windows 10 Amidst Active Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-10-best-apps-to-replace-windows-11s-default-apps/"><u>The 10 Best Apps to Replace Windows 11'S Default Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-garmin-ultra-30-in-action-an-in-depth-exploration/"><u>The Garmin Ultra 30 in Action  An In-Depth Exploration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-apple-ipad-air-2019-a-game-changer-in-media-consumption/"><u>The Ultimate Guide to Apple iPad Air (2019) - A Game Changer in Media Consumption</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-exception-breaking-point-achieved-in-windows/"><u>Troubleshooting Error: Exception Breaking Point Achieved in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-mail-issues-with-html-enhanced-emails/"><u>Troubleshooting Windows 11 Mail Issues with HTML-Enhanced Emails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-power-for-all-the-gpt-4-journey-explained/"><u>Unlocking AI Power for All: The GPT-4 Journey Explained</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-25-cute-memes-to-make-you-feel-better/"><u>Updated 2024 Approved 25 Cute Memes to Make You Feel Better</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-guide-reactivate-disabled-slack-notifications/"><u>Win 11 Guide: Reactivate Disabled Slack Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/win-over-webp-saving-chrome-image-format-change-guide/"><u>Win Over WebP Saving: Chrome Image Format Change Guide</u></a></li>
+</ul></div>

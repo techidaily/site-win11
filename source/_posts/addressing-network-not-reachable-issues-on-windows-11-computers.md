@@ -1,7 +1,7 @@
 ---
 title: Addressing 'Network Not Reachable' Issues on Windows 11 Computers
-date: 2024-07-13T11:16:01.155Z
-updated: 2024-07-14T11:16:01.155Z
+date: 2024-08-15T23:20:01.981Z
+updated: 2024-08-16T23:20:01.981Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,18 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
  If you can connect to the same network on a different device, go through the troubleshooting tips below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 2\. Manage the Network Drivers on Windows 11
 
  In many cases, connection issues such as the "Windows can't connect to this network" error can be resolved by updating your PC's network drivers. However, if you recently updated the drivers and the error appeared soon afterward, you should roll back the drivers to the previous version until the new ones are fixed. You can also try reinstalling the drivers to see if that fixes the problem.
 
  All these actions can be performed by accessing the Device Manager, so let's dive in and try some fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### 1\. Update Network Drivers
 
 To update your network drivers, perform the following:
@@ -49,6 +55,9 @@ To update your network drivers, perform the following:
  If the issue started after you installed a new network driver, here's how to go back to the drivers you had before:
 
 ![Roll back driver version in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-properties-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 1. Open Device Manager.
 2. Expand the**Network adapters** section.
@@ -58,6 +67,9 @@ To update your network drivers, perform the following:
 6. Windows will install the previous version of the network driver.
 7. Reboot your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Uninstall the Network Drivers
 
  If you want to do a fresh install, first download your network drivers from your manufacturer's website. It's a good idea to do this first before you uninstall your current network drivers; once they're gone, you won't be able to connect to the internet through that network adapter until you reinstall its drivers again.
@@ -76,6 +88,10 @@ To update your network drivers, perform the following:
 
  If this method didn't work, there are [other ways to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 3\. Check for Windows Updates
 
  Microsoft constantly releases updates to fix any bugs and glitches you may encounter while using your computer. If you’re using an older Windows version, you might miss the updates designed to keep your computer running smoothly.
@@ -85,7 +101,22 @@ To update your network drivers, perform the following:
  Windows will search for any updates and install them automatically. Once the process is complete, try to connect to the network.
 
 ![Check Windows 11 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1-2.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 4\. Disable IPv6
 
  IPv6 is really not needed for most connections unless explicitly specified by your router or ISP. So, you should disable it and try connecting to the wireless network again.
@@ -142,6 +173,9 @@ Here is how you can disable IPv6 on your computer:
  Fortunately, Windows allows you to reset all its network settings with a single option:
 
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Right-click on the**Start** button and head to**Settings** .
 2. Click on the**Network & internet** option on the navigation bar towards the left.
@@ -150,6 +184,9 @@ Here is how you can disable IPv6 on your computer:
 5. Click on**Reset now** .
 6. Your PC will reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 8\. Turn Airplane Mode On and Off
 
  This quick trick might be enough to solve your network issues. By turning on Airplane mode, you instruct Windows to completely disconnect from all networks. This allows you to re-establish a stable connection once you disable Airplane mode.
@@ -158,6 +195,9 @@ Here is how you can disable IPv6 on your computer:
 
  If Airplane Mode is missing from Action Center, there are other ways to enable and disable it.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Use the Network Troubleshooter
 
  Windows 11 has an in-built troubleshooter to detect and fix network issues. It may be worth a try to see if the utility can detect and fix the issue causing the "Windows can't connect to this network" error.
@@ -171,6 +211,9 @@ To run the Windows Network Troubleshooter, follow these steps:
 3. Click on**Next** in the troubleshooter.
 4. Windows will detect and attempt to fix connection issues on your PC
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10\. Forget and Reconnect the Wi-Fi Network
 
  If you get the network connectivity error when trying to connect to certain networks, you should have Windows forget them.
@@ -199,6 +242,9 @@ To run the Windows Network Troubleshooter, follow these steps:
 
  Not only will it fix the issue, but Ethernet cables are more reliable and will offer better speeds.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## The "Windows Can't Connect to This Network" Error, Now Fixed
 
  Most likely, one of these fixes will resolve the "Windows can't connect to this network" error on your computer. And given how many Windows network issues can crop up, it's a good idea to learn the basics of resolving them so you're not stuck without the internet in the future.
@@ -224,3 +270,45 @@ To run the Windows Network Troubleshooter, follow these steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-navigating-camera-settings-for-optimal-gopro-timelapse-results/"><u>[New] Navigating Camera Settings for Optimal GoPro Timelapse Results</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-selecting-text-enhancement-websites/"><u>[New] The Ultimate Guide to Selecting Text Enhancement Websites</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-5-gaming-headsets-for-youtube-for-2024/"><u>[New] Top 5 Gaming Headsets for YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comeback-king-windows-guide-essential-13-restoration-steps/"><u>Comeback King Windows Guide: Essential 13 Restoration Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-digital-menace-tackling-wacatacbml-in-windows-networks/"><u>Deciphering the Digital Menace: Tackling Wacatac.B!ml in Windows Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-microsoft-edge-tabs-a-win11-guide/"><u>Delaying Microsoft Edge Tabs: A Win11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-disk-identities-c-vs-d-a-review/"><u>Demystifying Disk Identities (C vs D): A Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-top-5-cost-free-windows-10-screencast-recorders/"><u>Discover Top 5 Cost-Free Windows 10 Screencast Recorders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-rendering-performance-with-updated-amd-hd-6950-for-windows-10/"><u>Enhanced Rendering Performance with Updated AMD HD 6950 for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-key-troubles-discover-immediate-remedies-for-your-pc/"><u>Escape Key Troubles? Discover Immediate Remedies for Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-big-blunders-a-list-of-5-user-missteps/"><u>Facebook's Big Blunders: A List of 5 User Missteps</u></a></li>
+<li><a href="https://win11.techidaily.com/guaranteeing-successful-windows-11-updates/"><u>Guaranteeing Successful Windows 11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-swift-control-panel-navigation-in-windows/"><u>Guide to Swift Control Panel Navigation in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-stalled-status-on-qbittorrent-for-windows/"><u>How to Fix the Stalled Status on qBittorrent for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-error-code-0xc0000005-a-techs-approach/"><u>How to Overcome Error Code 0XC0000005: A Tech's Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-split-screen-errors-in-windows/"><u>How to Reset Split Screen Errors in WIndows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi K70</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-cover-video-introduction-size-format-and-time/"><u>In 2024, Facebook Cover Video  Introduction, Size, Format & Time</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-gt-neo-5-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme GT Neo 5 Phone Screen?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-technology-for-preparing-winning-interviews/"><u>Leveraging ChatGPT Technology for Preparing Winning Interviews</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ms-store-themes-setup-and-utilization-guide/"><u>Mastering MS Store Themes: Setup & Utilization Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-4-ways-to-sync-audio-to-video-in-filmora-and-premiere-pro/"><u>New 2024 Approved 4 Ways to Sync Audio to Video in Filmora and Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-printer-service-not-running-issue-in-win/"><u>Overcoming Printer Service Not Running Issue in Win</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-image-failure-error-0x80780119/"><u>Overcoming Windows' Image Failure: Error 0X80780119</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-the-clicks-defeating-silent-spaces-on-pc/"><u>Reclaiming the Clicks: Defeating Silent Spaces on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-windows-operating-edition-epoch/"><u>Revealing Windows Operating Edition Epoch</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-strategies-for-definitions-in-win11/"><u>Speedy Strategies for Definitions in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-approach-to-configure-win11s-dns-client-service/"><u>Step-by-Step Approach to Configure Win11's DNS Client Service</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-office-365-issue-code-30015-26/"><u>Steps to Rectify Office 365 Issue Code 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reinstate-the-mia-dxgidll-in-windows-11/"><u>Steps to Reinstate the MIA Dxgi.dll in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-false-antivirus-alarms-a-windows-chrome-fix/"><u>Taming False Antivirus Alarms: A Windows Chrome Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-rectifying-windows-msvcr110dll-gap/"><u>Tips for Rectifying Windows' msvcr110.dll Gap</u></a></li>
+<li><a href="https://win11.techidaily.com/top-solutions-when-your-windows-security-is-down/"><u>Top Solutions When Your Windows Security Is Down</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-store-apps-in-windows-11/"><u>Troubleshooting Non-Functional Store Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-centric-tips-for-switching-mkv-format-to-mp4/"><u>Win-Centric Tips for Switching MKV Format to MP4</u></a></li>
+<li><a href="https://win11.techidaily.com/window-navigation-optimization-adding-this-pc-icons/"><u>Window Navigation Optimization: Adding 'This PC' Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-six-routes-to-property-insight/"><u>Windows Wizardry: Six Routes to Property Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/write-with-confidence-using-these-win-friendly-apps/"><u>Write with Confidence Using These Win-Friendly Apps</u></a></li>
+</ul></div>

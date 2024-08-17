@@ -1,7 +1,7 @@
 ---
 title: Strategies to Address Windows Exception Breakpoint Errors
-date: 2024-07-13T11:03:29.067Z
-updated: 2024-07-14T11:03:29.067Z
+date: 2024-08-15T23:32:39.590Z
+updated: 2024-08-16T23:32:39.590Z
 tags:
   - windows10
   - windows11
@@ -70,6 +70,9 @@ To run the CHKDSK tool:
 `chkdsk C: /r`
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-chkdsk-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
@@ -81,6 +84,9 @@ To run the CHKDSK tool:
 
  If you need help with overclocking, check out [the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 5\. Check for Memory Leaks
 
  The "the exception breakpoint has been reached" 0x80000003 can occur if your system fails to efficiently utilize the available memory resulting in a memory leak. Fortunately, Window comes with a built-in Memory Diagnostic Tool to check your computer for memory problems. Here's how to do it.
@@ -92,14 +98,24 @@ To run the CHKDSK tool:
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 6\. Create a New Windows Local Account
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can [create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 7\. Update or Uninstall the Problematic App
 
  If specific apps trigger the error, such as the Origin launcher or the Steam client, consider reinstalling the app to solve the issue.
@@ -112,6 +128,9 @@ To uninstall an application on Windows:
 2. Open the**Apps** tab in the left pane.
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Type the name of your app in the search bar.  
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
@@ -142,3 +161,48 @@ To uninstall an application on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-explore-the-10-fastest-expanding-yt-hubs-for-wisdom/"><u>[New] 2024 Approved  Explore the 10 Fastest-Expanding YT Hubs for Wisdom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-innovative-online-learning-platforms-excluding-udemys-space/"><u>[New] In 2024, Innovative Online Learning Platforms Excluding Udemy's Space</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-superior-emulator-lineup-for-playing-retro-ps1-classics/"><u>[New] Superior Emulator Lineup for Playing Retro PS1 Classics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-starting-out-right-budget-friendly-game-editing-software-for-beginners/"><u>[Updated] 2024 Approved  Starting Out Right  Budget-Friendly Game Editing Software for Beginners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>[Updated] Assessing Max 360 & Hero 11  The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-simple-path-to-iphone-screen-shots-for-2024/"><u>[Updated] The Simple Path to IPhone Screen Shots for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-breaking-down-chromes-multi-tasking-the-pip-experience/"><u>2024 Approved  Breaking Down Chrome's Multi-Tasking  The PIP Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-peak-level-hd-capture-best-screen-recorder-innovations-unveiled/"><u>2024 Approved  Peak-Level HD Capture  Best Screen Recorder Innovations Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>2024 Approved  Video Capturing Warriors  Choosing Between OBS and Fraps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy S23+ Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/auto-shutdown-hacks-for-idle-pcs-running-w10w11/"><u>Auto Shutdown Hacks for Idle PCs Running W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/batch-terminate-programs-in-windows-effortlessly/"><u>Batch Terminate Programs in Windows Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/best-password-managers-for-windows-11-unleashing-your-digital-fortresses/"><u>Best Password Managers for Windows 11: Unleashing Your Digital Fortresses</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-pcs-safety-with-these-7-password-generators/"><u>Boost Your PC's Safety with These 7 Password Generators</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-error-e8024002e-for-updates/"><u>Bypassing Windows Error E:8024002E for Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-zero-x-error-in-the-mail-application-of-windows-11/"><u>Bypassing Zero X Error in the Mail Application of Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-creative-camera-driver-software-for-windows-pcs/"><u>Download and Update: Creative Camera Driver Software for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-rectify-hiberflattening-windows/"><u>Easy Steps to Rectify HiberFlattening Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-use-estimating-windows-app-size/"><u>Efficient Use: Estimating Windows App Size</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-0x8004def5-onedrive-hurdle-on-win11/"><u>Eradicating 0X8004DEF5 Onedrive Hurdle on Win11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-create-gifs-from-youtube-videos-on-desktop-and-mobile-devices-for-2024/"><u>How to Create GIFs From YouTube Videos on Desktop and Mobile Devices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-for-seamless-transitions-using-b-roll/"><u>In 2024, Best Practices for Seamless Transitions Using B Roll</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android/"><u>In 2024, Capture Every Moment  The Premier 8 Free Screen Capture Apps for Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-quirky-make-memes-with-kapwing-app/"><u>In 2024, Quick & Quirky  Make Memes with Kapwing App</u></a></li>
+<li><a href="https://win11.techidaily.com/master-subtitles-management-with-prime-and-windows-11/"><u>Master Subtitles Management with Prime and Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-screen-snafus-with-sonic-frontiers-securing-smooth-play-on-w11/"><u>Navigating Screen Snafus with Sonic Frontiers - Securing Smooth Play on W11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-vlog-editor-apps-ios-and-android/"><u>New 2024 Approved Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimizing-youtube-content-for-instagram-platforms-for-2024/"><u>Optimizing YouTube Content for Instagram Platforms for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-msvcrt10dll-errors-fixes-and-prevention-tips/"><u>Overcoming MSVCRT10.DLL Errors: Fixes and Prevention Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfecting-your-tiktok-content-utilizing-templates-to-enhance-videos/"><u>Perfecting Your TikTok Content  Utilizing Templates to Enhance Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-and-prevent-windows-drive-vanishing/"><u>Pinpoint and Prevent Windows Drive Vanishing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-how-to-run-chatgpt-on-linux-using-bavarder-tool/"><u>Quick and Simple: How to Run ChatGPT on Linux Using Bavarder Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-access-control-personalized-windows-pin-creation/"><u>Revolutionize Access Control: Personalized Windows Pin Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-system-performance-wins-top-diagnostic-list/"><u>Smooth System Performance: Win's Top Diagnostic List</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-fixes-conquering-the-fatal-javascript-glitch-in-discord-win-11/"><u>Step-by-Step Fixes: Conquering the Fatal Javascript Glitch in Discord Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-past-the-steam-file-access-hurdle/"><u>Stepping Past the Steam “File Access” Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-solve-package-problems-in-windows-oses/"><u>Strategies to Solve Package Problems in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-rectify-slow-windows-app-connections-for-peak-performance/"><u>Swiftly Rectify Slow Windows App Connections for Peak Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-sync-blueprint-for-android-plus-microsoft-os/"><u>The Perfect Sync Blueprint for Android + Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-network-drive-setup-a-comprehensive-walkthrough/"><u>Win11's Network Drive Setup: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/wrapping-windows-games-in-christmas-carols/"><u>Wrapping Windows Games in Christmas Carols</u></a></li>
+</ul></div>

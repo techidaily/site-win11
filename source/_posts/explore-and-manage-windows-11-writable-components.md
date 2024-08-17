@@ -1,7 +1,7 @@
 ---
 title: Explore and Manage Windows 11' Writable Components
-date: 2024-07-13T10:28:43.837Z
-updated: 2024-07-14T10:28:43.837Z
+date: 2024-08-16T00:05:41.222Z
+updated: 2024-08-17T00:05:41.222Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 ![Open Components Services Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-search.jpg)
 3. The results list will include "Component Services." Just click it to open Component Services!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2\. How to Open Component Services Using Run Command
 
  You can also launch this application using the Run dialog box. This saves time since you do not have to navigate menus and submenus. Here's how to do this:
@@ -39,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  The Component Services window will now appear on your screen. Here you will find the options to manage administrative tools such as Event Viewer, Services, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 3\. How to Open Component Services From the Start Menu
 
  The Start menu is another way to access Windows features in Windows 11\. To open the Component Services tool using the Start menu, follow these steps:
@@ -47,8 +54,14 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 2. Click**All apps** in the upper right corner.
 3. Scroll down and click**Windows Tools** at the bottom of the screen.  
 ![Open Components Services Using Windows Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-tools.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Next, double-click on**Component Services** to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. How to Open Component Services Using File Explorer
 
  Using File Explorer is a convenient way to access and manage your Windows 11 files. It allows you to quickly find, open, move, or delete files on your computer. Besides that, you can also use this tool to open Component Services quickly. Here's how:
@@ -68,6 +81,9 @@ The Component Services window should now open.
 2. Select**Command Prompt** from the list at the top.
 3. Once the Command Prompt window opens, type**dcomcnfg** and hit**Enter** .  
 ![Open Components Services Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  This should open up the Component Services window for you to explore further. Now you can close the Command Prompt window.
 
@@ -81,6 +97,9 @@ The Component Services window should now open.
 2. Select**Windows PowerShell** from the list that appears.
 3. In Windows PowerShell, type**dcomcnfg** , and press**Enter** .  
 ![Open Components Services Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-powershell.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You should now be able to use the Component Services window.
 
@@ -97,6 +116,9 @@ You should now be able to use the Component Services window.
 
 The Component Services tool should now be open and ready to use!
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. How to Open Component Services Using Desktop Shortcut
 
  A [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) makes it easy to access the programs, files, and folders you use most often. It will be easier to find an application this way because you will have it available right at your fingertips.
@@ -118,6 +140,9 @@ The Component Services tool should now be open and ready to use!
 * Right-click on the executable file and select**Show more options > Create shortcut** .
 * Click**Yes** to confirm making a shortcut. You will see the desktop shortcut on your computer screen.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 9\. How to Open Component Services Using a Shortcut Key
 
  A shortcut key is a combination of two or more keys that provides quick access to certain functions. With the use of shortcut keys, you can open Component Services in a quick and easy way. Here's how to do it:
@@ -131,6 +156,9 @@ Create a desktop shortcut for Component Services as explained above.
 
  Once you're done, press Ctrl + Alt and enter your letter or number. For example, if you select**T** in the above steps, you will need to press**Ctrl + Alt + T** to access Component Services.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 10\. How to Pin Component Services to the Taskbar
 
  Alternatively, you can also pin the Component Services application to the taskbar. To do so, follow these steps:
@@ -162,3 +190,67 @@ Create a desktop shortcut for Component Services as explained above.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-bite-sized-tips-for-aspiring-video-editors/"><u>[New] 2024 Approved  Bite-Sized Tips for Aspiring Video Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-clarifying-misleading-self-representations-on-fb/"><u>[New] In 2024, Clarifying Misleading Self-Representations on FB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovation-in-action-youtube-split-screen-techniques/"><u>[New] Innovation in Action  YouTube Split-Screen Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-fb-video-promos-access-free-video-toolkit-for-2024/"><u>[New] Mastering FB Video Promos  Access Free Video Toolkit for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-reset-and-regain-navigating-the-2023-fb-hack-scenario-for-2024/"><u>[New] Reset & Regain  Navigating the 2023 FB Hack Scenario for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-from-photo-to-film-the-cinematic-edge-of-iphone-x/"><u>[Updated] 2024 Approved  From Photo to Film  The Cinematic Edge of iPhone X</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-edition-the-finest-picture-fixers/"><u>[Updated] 2024 Approved  Instagram Edition  The Finest Picture Fixers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-scene-reduction-unveiling-imovies-cropping-logic/"><u>[Updated] 2024 Approved  Scene Reduction  Unveiling iMovie's Cropping Logic</u></a></li>
+<li><a href="https://win11.techidaily.com/7-proven-methods-for-restoring-optional-features-on-pc/"><u>7 Proven Methods for Restoring Optional Features on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-recovery-mode-on-microsoft-devices/"><u>Accessing Recovery Mode on Microsoft Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/address-excel-display-issue-in-windows-notepad/"><u>Address: Excel Display Issue in Windows Notepad</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-dxgi-failures-on-windows-1011/"><u>Addressing DXGI Failures on Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/atlasos-makeover-new-life-for-vintage-pcs/"><u>AtlasOS Makeover: New Life for Vintage PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-13t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi 13T Fingerprint Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/boot-time-essentials-configuring-windows-startups/"><u>Boot Time Essentials: Configuring Windows Startups</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-bandwidth-gap-between-laptops-phones/"><u>Bridging the Bandwidth Gap Between Laptops, Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-lock-essential-tpm-hacks-for-windows-11/"><u>Bypassing the Lock: Essential TPM Hacks for Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-correct-the-windows-11-update-failure-error-0x80070541/"><u>Easy Solutions to Correct the Windows 11 Update Failure (Error 0X80070541)</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-file-examination-in-win1011-with-new-tool-integration/"><u>Elevate File Examination in Win10/11 with New Tool Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-typing-managing-filter-keys-on-pcs/"><u>Elevate Your Typing: Managing Filter Keys on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-regaining-original-windows-configs/"><u>Expert Advice: Regaining Original Windows Configs</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-in-windows-11-here-are-top-8-blunders-to-evade/"><u>First Steps in Windows 11? Here Are Top 8 Blunders to Evade</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-absent-bluetooth-listings-on-pc-device-manager/"><u>Fixing Absent Bluetooth Listings on PC Device Manager</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-hype-to-highlighted-the-art-of-editing-hauls-for-2024/"><u>From Hype to Highlighted  The Art of Editing Hauls for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-discord-setup-mistakes-in-win-11/"><u>Guide to Correcting Discord Setup Mistakes in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-blue-screen-wins-unhandled-exception/"><u>How to Address Blue Screen: Win's Unhandled Exception</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-reno-10-pro-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Reno 10 Pro 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-odyssey-the-most-exciting-psvr-games-on-the-way/"><u>In 2024, Immersive Odyssey  The Most Exciting PSVR Games on the Way</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-invest-in-ig-success-the-top-6-secure-money-methods/"><u>In 2024, Invest in IG Success  The Top 6 Secure Money Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>In 2024, The Ultimate Conversion Handbook  From GIF to Sticker Across Messaging Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-lava-blaze-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Lava Blaze Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-solo-podcast-production-for-top-spots-for-2024/"><u>Mastering Solo Podcast Production for Top Spots for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-error-740-on-winos/"><u>Mastering the Art of Correcting Error 740 on WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sluggishness-fixing-edge-speed-woes-in-windows-10plus11/"><u>Overcoming Sluggishness: Fixing Edge Speed Woes in Windows 10+11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/pioneering-techniques-for-effective-qr-scanning-on-pcs/"><u>Pioneering Techniques for Effective QR Scanning on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-microsoft-office-365-fault-code-30015-26/"><u>Rectify Microsoft Office 365 Fault: Code 30015-26</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 Plus Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/running-task-manager-administrative-command-for-windows-11/"><u>Running Task Manager: Administrative Command for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/severing-cloud-storage-bond-onedrive-from-your-microsoft-account-in-windows/"><u>Severing Cloud Storage Bond: OneDrive From Your Microsoft Account in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/sleight-of-keyboard-how-to-make-keys-unseen/"><u>Sleight of Keyboard: How to Make Keys Unseen</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-clearly-write-exactly-using-whisper-in-windows/"><u>Speak Clearly, Write Exactly: Using Whisper in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-get-and-set-up-the-epson-et-4550-printer-driver-for-windows-systems-fast/"><u>Step-by-Step Tutorial: How to Get and Set Up the Epson ET-4550 Printer Driver for Windows Systems Fast</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-curbing-virtual-disk-service-malfunction/"><u>Strategies: Curbing Virtual Disk Service Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-steam-network-failure-on-modern-pc-win11/"><u>Tackling Steam Network Failure on Modern PC, Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-grant-write-access-for-steam-folders-in-win-11/"><u>Techniques to Grant Write Access for Steam Folders in Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-mic-selection-for-podcasters/"><u>The Ultimate Mic Selection for Podcasters</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-spark-20-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Spark 20 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/5-trending-youtube-opening-sequences/"><u>Top 15 Trending YouTube Opening Sequences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-eighth-edition-of-image-blender-tool-for-2024/"><u>Top Tier  Eighth Edition of Image Blender Tool for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unique-visuals-for-your-window-terminal/"><u>Unique Visuals for Your Window Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-faster-typing-using-windows-powertools/"><u>Unleash Faster Typing Using Windows' PowerTools</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-post-update-linux-subsystem-challenges-on-windows-11/"><u>Unraveling Post-Update Linux Subsystem Challenges on Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-best-budget-friendly-indoor-antenna-a-thorough-review-of-the-1byone-digital-hdtv-model/"><u>Unveiling the Best Budget-Friendly Indoor Antenna: A Thorough Review of the 1Byone Digital HDTV Model</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-mystery-of-windows-ram-caching/"><u>Unveiling the Mystery of Windows RAM Caching</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-user-sid-identification-methods/"><u>Unveiling Windows 11'S User SID Identification Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-mastering-custom-key-combos-for-fixed-text-insertions/"><u>Win11: Mastering Custom Key Combos for Fixed Text Insertions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-activation-the-hidden-traps-in-inexpensive-keys/"><u>Windows Activation: The Hidden Traps in Inexpensive Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-unseen-the-emergence-of-ai-futures/"><u>Windows Unseen: The Emergence of AI Futures</u></a></li>
+</ul></div>

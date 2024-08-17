@@ -1,7 +1,7 @@
 ---
 title: Reviving Stalled Email Notifications in Windows Environment
-date: 2024-07-13T10:27:04.734Z
-updated: 2024-07-14T10:27:04.734Z
+date: 2024-08-16T00:08:09.529Z
+updated: 2024-08-17T00:08:09.529Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,9 @@ To access notification settings in the Mail app:
 
  Once you complete the above steps, the Mail app should start showing notifications on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 2\. Enable Mail App Notifications From Windows Settings
 
  Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned [how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
@@ -60,7 +63,13 @@ To access notification settings in the Mail app:
 6. Under**Download new content** , select**as items arrive** .
 7. Under**Sync options** , enable the toggle for**Email** .  
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Allow the Mail App to Run in the Background
 
  Windows lets you decide which apps and programs can run in the background. If you have denied the Mail app permission to run in the background, you will not receive notifications unless the app is open.
@@ -84,9 +93,15 @@ To access notification settings in the Mail app:
 3. Select**Delete account from this device** .
 4. Choose**Delete** to confirm.  
 ![Delete Account From the Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-Account-From-the-Windows-Mail-App.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once removed, restart the Mail app and add your account again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Turn Off Focus Assist
 
  Focus Assist is a handy Windows feature that mutes notifications for all apps unless specified otherwise. If you’ve enabled this feature, you will not receive notifications from any apps, including the Mail app.
@@ -111,6 +126,9 @@ Once removed, restart the Mail app and add your account again.
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Repair or Reset the Mail App
 
@@ -122,9 +140,15 @@ Once removed, restart the Mail app and add your account again.
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
 5. Scroll down to the**Reset** section and click on**Repair** .  
 ![Repair or Reset Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Windows-Mail-App.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app instead. Note that this process will delete all the app data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 9\. Update the Mail App
 
  If you don’t update your apps on a regular basis, they will get outdated eventually. It's possible that the Mail app notifications aren't working because of a faulty app version. If that’s the case, updating the app will help more often than not.
@@ -156,3 +180,42 @@ Once removed, restart the Mail app and add your account again.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-share-youtube-videos-set-up-autoplay-on-fb/"><u>[New] 2024 Approved  Seamless Share YouTube Videos  Set Up Autoplay on FB</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-revamp-your-tone-7-premier-vocal-modification-tools/"><u>[New] In 2024, Revamp Your Tone  7 Premier Vocal Modification Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quick-route-to-true-profile-ages-on-tiktok/"><u>[New] The Quick Route to True Profile Ages on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tune-into-tomorrow-fbs-free-downloads/"><u>[New] Tune Into Tomorrow  FB's Free Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[Updated] 2024 Approved  From Download to Implementation  Installing OBS on a MacPC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] 2024 Approved  What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://win11.techidaily.com/0x8004def5-on-onedrive-unraveling-windows-11-troubles/"><u>0X8004DEF5 on OneDrive - Unraveling Windows 11 Troubles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-elevation-incorporating-text-into-3d-artwork/"><u>2024 Approved  Illustration Elevation  Incorporating Text Into 3D Artwork</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-triggering-instant-play-for-youtube-videos-on-social-media/"><u>2024 Approved  Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/7-innovative-uses-for-windows-11-god-mode/"><u>7 Innovative Uses for Windows 11 God Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-approach-to-mend-windows-1011-discord-errors/"><u>A Step-by-Step Approach to Mend Windows 10/11 Discord Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-finding-documents-with-windows-11-taskbar-search-feature/"><u>Accelerate Finding Documents with Windows 11 Taskbar Search Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-adventure-defeating-forza-horizon-5s-persistent-load-puzzle/"><u>Accelerate Your Adventure: Defeating Forza Horizon 5'S Persistent Load Puzzle</u></a></li>
+<li><a href="https://win11.techidaily.com/access-gpos-securely-a-guide-to-win11s-tools/"><u>Access GPOs Securely: A Guide to Win11's Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/accessible-windows-10-navigating-as-a-first-timer/"><u>Accessible Windows 10: Navigating as a First-Timer</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-microsoft-paint-in-windows-11/"><u>Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-full-control-with-admin-cmd-role/"><u>Achieve Full Control with Admin CMD Role</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-seamless-software-operation-with-4-key-pcts/"><u>Achieve Seamless Software Operation with 4 Key PCTs</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-audacitys-portaudio-hiccup-on-windows-11-and-11/"><u>Addressing Audacity’s PortAudio Hiccup on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-profile-not-valid-issue-for-users-in-windows/"><u>Addressing Profile Not Valid Issue for Users in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-configuration-for-optimal-android-resource-use/"><u>Advanced Configuration for Optimal Android Resource Use</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-linux-infrastructure-with-windows-software/"><u>Augmenting Linux Infrastructure with Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-visual-chaos-tidy-up-your-icons/"><u>Avoid Visual Chaos: Tidy Up Your Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-windows-management-application-hiccups/"><u>Avoid Windows Management Application Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-edge-how-to-get-rid-of-it-in-w11/"><u>Avoiding Edge: How to Get Rid of It in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-notability-of-your-scribbles-with-strategic-sticky-note-placement-in-win-os/"><u>Boost Notability of Your Scribbles with Strategic Sticky Note Placement in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-windowsstore-app-folder-secrets/"><u>Breaking Into WindowsStore App Folder Secrets</u></a></li>
+<li><a href="https://win11.techidaily.com/1719302930005-bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-baldurs-gate-iii-from-crashing-on-your-windows-machine/"><u>How to Prevent Baldur's Gate III From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-v30-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V30 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshops-quick-path-to-contoured-images/"><u>In 2024, Photoshop's Quick Path to Contoured Images</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-anime-character-are-you-look-like/"><u>New In 2024, What Anime Character Are You Look Like?</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-hot-40-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Hot 40 Pro on Windows?</u></a></li>
+</ul></div>

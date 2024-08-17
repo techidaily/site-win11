@@ -1,7 +1,7 @@
 ---
 title: Unlock Adobe Photoshop on Windows 11 & 11
-date: 2024-07-13T10:11:44.069Z
-updated: 2024-07-14T10:11:44.069Z
+date: 2024-08-16T00:23:49.150Z
+updated: 2024-08-17T00:23:49.150Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
@@ -39,23 +42,48 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 1. Right-click a space on the Windows taskbar and select the **Task Manager** menu option.
 2. If Adobe Photoshop is within the **Apps** section of the **Processes** tab, right-click on it and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-context-menu-option.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 4\. Turn Off Controlled Folder Access
 
  If controlled access is enabled on your PC, Photoshop might not be able to start because it can’t access certain protected folders. So, check if controlled folder access is on and disable it as follows:
 
 1. Double-click on the Windows Security shield icon inside the system tray area of the taskbar. If you can’t see it, click the small **Show hidden icons** arrow.  
 ![The Windows Security icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-security-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 5\. Disable Your PC’s Display Adapter
 
  This is a slightly strange fix that has worked for many users. That highlights graphics card driver incompatibility can cause Photoshop startup issues. You can disable your PC’s graphics card as follows:
@@ -65,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 3. Double-click **Display adapters** to view the graphics devices.
 4. Right-click your graphics adapter to select **Disable device**.  
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 5. Select **Yes** to disable the device.
 6. Launch Photoshop with the graphics adapter disabled.
 
@@ -105,3 +136,59 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-11-tricks-for-facebook-video-marketing-to-drive-more-traffic/"><u>[New] 11 Tricks for Facebook Video Marketing to Drive More Traffic</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-accelerate-vimeo-videos-the-guide/"><u>[New] Accelerate Vimeo Videos  The Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-keeping-track-saving-insta-visuals-on-iphone/"><u>[Updated] 2024 Approved  Keeping Track  Saving Insta Visuals on iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-downloading-from-vimeo-made-simple-software-free-or-not/"><u>[Updated] In 2024, Downloading From Vimeo Made Simple  Software-Free or Not?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[Updated] In 2024, Perfect Picture Spotlights  How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scrutinizing-vivid-visuals-enhanced-by-hd-and-luminance/"><u>[Updated] Scrutinizing Vivid Visuals Enhanced by HD and Luminance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-10-funniest-youtube-shorts-video-ideas/"><u>[Updated] The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-invisible-force-behind-non-existent-fb-videos/"><u>[Updated] The Invisible Force Behind Non-Existent FB Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premier-tools-to-record-your-pc-screenshots/"><u>2024 Approved  Premier Tools to Record Your PC Screenshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>2024 Approved  The New Wave of Coding Excellence  AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-8-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 8 Online</u></a></li>
+<li><a href="https://win11.techidaily.com/a-walkthrough-for-transferring-old-games-to-windows-gallery/"><u>A Walkthrough for Transferring Old Games to Windows Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-bluetooth-headphones-playing-sound-without-volume-control/"><u>Addressing Windows Bluetooth Headphones Playing Sound Without Volume Control</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-admins-rights-issue-in-win-os/"><u>Bypassing Admins Rights Issue in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-group-policy-intricacies-through-gpresult/"><u>Deciphering Group Policy Intricacies Through GPResult</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video-for-2024/"><u>Decoding Dimensions  The Key to Perfect Aspect Ratios in Video for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-issue-code-0x80071a90/"><u>Decoding Windows Issue: Code 0X80071a90</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-unveiled-a-deep-dive-into-w11s-core/"><u>DevHome Unveiled: A Deep Dive Into W11's Core</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-epson-xp-310-printer-driver-free-updates-available/"><u>Download the Latest Epson XP-310 Printer Driver - Free Updates Available</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-energy-visibility-personalized-notifications-for-fully-charged-batteries-on-win11/"><u>Enhanced Energy Visibility: Personalized Notifications for Fully Charged Batteries on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-non-ad-focused-start-menu-win-11/"><u>Exclusive, Non-Ad Focused Start Menu Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/file-compression-excellence-utilizing-cli-commands-in-windows/"><u>File Compression Excellence: Utilizing CLI Commands in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-paste-issues-across-popular-browsers/"><u>How to Rectify Paste Issues Across Popular Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-vanishing-steam-game-images/"><u>How to Revive Vanishing Steam Game Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>In 2024, Accessing Audio at No Cost  The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-assessing-64128gbs-video-storing-potential/"><u>In 2024, Assessing 64/128GB's Video-Storing Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instantly-hide-faces-with-picscanner-tricks/"><u>In 2024, Instantly Hide Faces with PicScanner Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-score-big-with-these-8-low-cost-3d-video-apps-for-pcmac/"><u>In 2024, Score Big with These 8 Low-Cost 3D Video Apps for PC/Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sony-a6400-video-vanishing-how-to-stop-it/"><u>In 2024, Sony A6400 Video Vanishing - How to Stop It?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-pc-guide-to-starting-live-on-tiktok/"><u>In 2024, The Ultimate PC Guide to Starting Live on TikTok</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y100-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y100 5G FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-bluetooth-attempt-error-in-windows/"><u>Mastering the Fix: Bluetooth Attempt Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-pcs-powertoys-10-essential-tips/"><u>Mastering Windows PCs: PowerToys' 10 Essential Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/maximizing-memory-retention-through-mac-based-audio-recordings/"><u>Maximizing Memory Retention Through Mac-Based Audio Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/nullify-non-compliance-notifications-in-win11/"><u>Nullify Non-Compliance Notifications in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mail-service-halt-fixing-0x800713f-in-win11/"><u>Overcoming Mail Service Halt: Fixing 0X800713F in Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pro-gopro-filming-tips-for-flawless-results/"><u>Pro Gopro Filming Tips for Flawless Results</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-admin-control-in-windows-os-security/"><u>Redefining Admin Control in Windows OS Security</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-gpos-ensuring-compliance-on-modern-windows/"><u>Revitalizing GPOs: Ensuring Compliance on Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/scrutinizing-password-ingress-windows-pass-and-no-pass-outcomes/"><u>Scrutinizing Password Ingress: Windows Pass & No-Pass Outcomes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-printers-performance-hp-officejet-pro-6970-driver-update-for-windows-machines/"><u>Secure Your Printer's Performance: HP OfficeJet Pro 6970 Driver Update for Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-media-player-server-faults/"><u>Steps to Mend Media Player Server Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-tackling-windows-security-anomalies/"><u>Strategies for Tackling Windows Security Anomalies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-firefox-video-and-image-export-add-ons-for-2024/"><u>Top 10 Firefox Video & Image Export Add-Ons for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oneplus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost OnePlus Device</u></a></li>
+<li><a href="https://win11.techidaily.com/top-desk-features-add-your-favorite-apps-to-the-taskbar/"><u>Top Desk Features: Add Your Favorite Apps to the Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/transitioning-heic-pictures-to-jpeg-in-w10w11/"><u>Transitioning HEIC Pictures to JPEG in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-windows-pin-entry/"><u>Troubleshooting Non-Responsive Windows PIN Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-unresponsive-voice-commands/"><u>Troubleshooting Windows 11: Unresponsive Voice Commands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/what-is-behind-the-blue-icon-that-graces-your-messenger-chat-window-for-2024/"><u>What Is Behind the Blue Icon that Graces Your Messenger Chat Window for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-set-default-touch-input-placement/"><u>Win 11: Set Default Touch Input Placement</u></a></li>
+<li><a href="https://win11.techidaily.com/yourdevice-link-assessing-risks-and-benefits-in-w10-systems/"><u>YourDevice Link - Assessing Risks and Benefits in W10 Systems</u></a></li>
+</ul></div>

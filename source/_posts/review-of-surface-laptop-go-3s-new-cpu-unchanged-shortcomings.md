@@ -1,7 +1,7 @@
 ---
 title: Review of Surface Laptop Go 3'S New CPU - Unchanged Shortcomings
-date: 2024-07-13T10:54:33.758Z
-updated: 2024-07-14T10:54:33.758Z
+date: 2024-08-15T23:41:10.306Z
+updated: 2024-08-16T23:41:10.306Z
 tags:
   - windows10
   - windows11
@@ -99,6 +99,9 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
  The Surface Laptop Go 3 is an iterative update over the company's second-generation Surface Laptop Go 2, released in 2022\. This compact laptop features a 12.4-inch display with a full-sized keyboard and trackpad.
 
 ![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -106,11 +109,17 @@ Zarif Ali / MakeUseOf
 
  The Surface Laptop Go 3 features a 12th-gen Intel Core i5-1235U paired with 256GB of removable SSD storage and 8 or 16GB of LPDDR5x RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Design
 
  Microsoft's Surface Go line has always been about delivering a smaller version of its flagship products, and the Surface Laptop Go 3 is no different. Much like the chic Surface Laptop 5, the Surface Laptop Go 3 has the same wedge-shaped housing that comes in some stunning colorways: Ice Blue, Sage, Sandstone, and Platinum.
 
 ![surface-laptop-go-3-angled-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-angled-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -135,6 +144,9 @@ Zarif Ali / MakeUseOf
  One area Microsoft lost out on was the keyboard. This isn’t to say the Surface Laptop Go 3's keyboard experience is bad by any means; it's consistent with all of Microsoft's Surface line, which is to say, industry-leading. But the Surface Laptop Go 3 doesn't have backlit keys. Regardless of where you look, backlit keys are a staple feature for any laptop at this price point, and it's a weird corner for Microsoft to cut when they deliver an otherwise exceptional experience.
 
 ![surface-laptop-go-3-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-keyboard-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -155,6 +167,9 @@ Zarif Ali / MakeUseOf
  The speaker and microphone system is also quite good, with the Surface Laptop Go 3 delivering a decent sound stage considering its compact size. The speakers are located under the keyboard deck, while the microphones can be found on the top bezel next to the webcam. These components simultaneously offer a clear sound experience for both listening and talking.
 
 ![surface-laptop-go-3-back2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back2-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -196,11 +211,505 @@ Zarif Ali / MakeUseOf
 
  The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Should You Buy the Surface Laptop Go 3?
 
  Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
 
 ![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ This year, The price difference between the Surface Laptop Go 3 and the Laptop 5 is nearly negligible, and the top-end 16GB variant of the Laptop Go 3 costs the same as the base 13-inch Laptop 5, with the Go 3 having 8 gigabytes more RAM compared to the Laptop 5\. To opt for another 8 GB of RAM over a larger, higher resolution display, a properly sized battery, keyboard, and trackpad would be an odd choice.
+
+ Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
+
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+
+##### Surface Laptop Go 3
+
+6.5/ 10
+
+$700 $800 Save $100
+
+Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
+  
+ [$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
+
+ Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
+
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+
+##### Surface Laptop Go 3
+
+Too expensive for what is a toned-down Surface Laptop 5
+
+6.5/ 10
+
+$700 $800 Save $100
+
+Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
+  
+ **Operating System**
+
+ Windows 11
+
+**CPU**
+
+ Intel Core i5-1235U
+
+**RAM**
+
+ 8/16GB LDDR5
+
+**Storage**
+
+ 256GB removable SSD
+
+**Battery**
+
+ 41 WH
+
+**Display (Size, Resolution)**
+
+ 12.4-inch, 1536 x 1024 (148 PPI)
+
+**Camera**
+
+ 720p webcam
+
+**Speakers**
+
+ Omnisonic Speakers with Dolby Audio Premium
+
+**Colors**
+
+ Sage, Ice Blue, Platinum, Sandstone
+
+**Ports**
+
+ USB-C 3.2, USB-A 3.1, 3.5mm headphone jack, Surface Connect port
+
+**Model**
+
+ Microsoft
+
+**Pros**
+
+* Very compact and easy to carry
+* Colorways still look excellent
+* New processor and faster RAM
+
+**Cons**
+
+* More expensive
+* Poor battery life
+* Poor port selection
+
+[$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
+
+## What's New?
+
+ The Surface Laptop Go 3 is an iterative update over the company's second-generation Surface Laptop Go 2, released in 2022\. This compact laptop features a 12.4-inch display with a full-sized keyboard and trackpad.
+
+![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ The new Laptop Go 3 utilizes the same design as the Go 2 and original Go, but now features improved battery life, more base storage, and a newer chipset.
+
+ The Surface Laptop Go 3 features a 12th-gen Intel Core i5-1235U paired with 256GB of removable SSD storage and 8 or 16GB of LPDDR5x RAM.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Design
+
+ Microsoft's Surface Go line has always been about delivering a smaller version of its flagship products, and the Surface Laptop Go 3 is no different. Much like the chic Surface Laptop 5, the Surface Laptop Go 3 has the same wedge-shaped housing that comes in some stunning colorways: Ice Blue, Sage, Sandstone, and Platinum.
+
+![surface-laptop-go-3-angled-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-angled-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ We have the Sage color, a deep olive green; it looks incredible under direct light. It's neutral enough to comfortably carry this laptop around without drawing too much attention, and it's great at hiding fingerprints.
+
+ The design slightly differs in material choice when comparing the Go 3 to its bigger brother, the Surface Laptop 5, in that the under-chassis is made out of a polycarbonate composite resin rather than aluminum. That said, the top lid and keyboard deck are still aluminum.
+
+ The biggest benefit of getting the Surface Laptop Go 3 is its portability. Coming in at only 2.49 lbs, with a footprint of 10.95 x 8.10 x 0.62 inches, the Surface Laptop Go 3 is one of the most portable Windows laptops on the market. For students considering getting a PC or Chromebook for school, the Surface Laptop Go 3's size makes it exceptionally easy to carry around between classes while leaving plenty of space in your bag for other items.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+### Display
+
+ When it comes to the display, Microsoft does an excellent job balancing value and quality. The Surface Laptop Go 3 comes equipped with a vibrant 12.4-inch 1,536 x 1,024 IPS touchscreen panel, and it's gorgeous. The bigger Surface Laptop 5 series and the Surface Laptop Studio 2 have higher resolution panels that support the Surface Pen, but this smaller display surprisingly keeps up.
+
+ The display has slimmer bezels than both the Surface Laptop 5 and Laptop Studio 2 while keeping Microsoft's signature 3:2 aspect ratio, making it perfect for document editing and multitasking.
+
+![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+### Keyboard and Trackpad
+
+ One area Microsoft lost out on was the keyboard. This isn’t to say the Surface Laptop Go 3's keyboard experience is bad by any means; it's consistent with all of Microsoft's Surface line, which is to say, industry-leading. But the Surface Laptop Go 3 doesn't have backlit keys. Regardless of where you look, backlit keys are a staple feature for any laptop at this price point, and it's a weird corner for Microsoft to cut when they deliver an otherwise exceptional experience.
+
+![surface-laptop-go-3-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-keyboard-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ As for the trackpad, it’s on the smaller end due to the device’s smaller size, however, it’s just as responsive as any of Microsoft’s other trackpads, and it’s definitely one of the better trackpads you’ll find on a Windows laptop.
+
+### Port Selection
+
+ Finally, let's talk ports—or lack thereof. The Surface Laptop Go 3 has one USB-A 3.1 port, one USB-C 3.2 port, a headphone jack, and a Surface Connector for charging. To say this is lousy is an understatement.
+
+![surface-laptop-go-3-ports-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-ports-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ It's actually the same port selection as the larger Surface Laptop 5 series, but it's still one area Microsoft could improve upon, especially since this device is targeting the education market. While the small form factor may have been a limiting aspect, the lack of ports could make it difficult for students and workers who may require extra peripherals paired with their laptops.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Speakers, Microphone and Webcam
+
+ The speaker and microphone system is also quite good, with the Surface Laptop Go 3 delivering a decent sound stage considering its compact size. The speakers are located under the keyboard deck, while the microphones can be found on the top bezel next to the webcam. These components simultaneously offer a clear sound experience for both listening and talking.
+
+![surface-laptop-go-3-back2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back2-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ Another area Microsoft could have improved is the webcam. This webcam is 720p and delivers less than brilliant results, but compared to other laptops with 720p webcams, the Surface Laptop Go 3 is better. In adequate lighting, you can get away with using it in a quick pinch, but as soon as you're in an environment where the lighting is less than ideal, the image turns noisy. I wish Microsoft would adopt a 1080p webcam across their laptop lineup because the only device that carries one is the expensive Surface Laptop Studio 2\.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Performance
+
+ Moving onto performance, the Surface Laptop Go 3 features the quad-core Intel 12th-gen Core i5-1335U—the same processor as the base Surface Laptop 5\. What does this mean? You're getting one snappy computer.
+
+ Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
+
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+
+Zarif Ali / MakeUseOf
+
+ This year, Microsoft drastically reduced the configurations available, meaning there’s only one storage option of 256GB and two RAM storage options of 8 and 16GB.
+
+ Our review unit is the top-of-the-line spec featuring 16GB of LPDDR5 RAM and 256GB of storage. This spec costs the same as the Surface Laptop 5’s base price, for the same amount of storage, but less RAM on the Laptop 5, which makes this an interesting pricing strategy on Microsoft’s part.
+
+ I'd recommend the base RAM of 8GB to most people, especially students who plan on using this device for the duration of their academic careers. You'll get adequate storage and RAM, which can sustain you for your projects, presentations, and assignments, and you'll have the added breathing room to download apps and games.
+
+![surface-laptop-go-3-back-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ The Laptop Go 3 scores 11,089 on 3DMark's Sky Diver benchmark, which puts it on par with other laptops with the same processor with integrated graphics. Compared to the Laptop Go 2, the Laptop Go 3’s faster RAM and processor make a marginal difference in performance, and it’s certainly a welcome one. Still, these new additions make this laptop a much more expensive device that is now essentially a base 13-inch Surface Laptop 5 with a smaller display and battery, slightly worse build, and no Surface Pen support.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+## Battery Life
+
+ When it comes to the battery life of the Surface Laptop Go 3, the results are less than ideal as you’d expect from a smaller laptop. I have used a 13-inch Surface Laptop 3 for the better part of the past two years, and that device averages about seven hours of battery life doing moderate tasks like word processing and web browsing.
+
+ With the Surface Laptop Go 3, I was getting around five to six hours of battery life doing the same tasks, which likely means this computer won't last you a full day of usage in the workplace or at school.
+
+![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ Google Meet and Zoom calls already drain my Surface Laptop 3 battery by about 30-40%, so you can imagine how underwhelming the Surface Laptop Go 3's battery situation would hold up with these battery-intensive applications. That said, this is marginally better than last year's Laptop Go 2, so it does make some strides in the battery department.
+
+ The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Should You Buy the Surface Laptop Go 3?
+
+ Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
+
+![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ This year, The price difference between the Surface Laptop Go 3 and the Laptop 5 is nearly negligible, and the top-end 16GB variant of the Laptop Go 3 costs the same as the base 13-inch Laptop 5, with the Go 3 having 8 gigabytes more RAM compared to the Laptop 5\. To opt for another 8 GB of RAM over a larger, higher resolution display, a properly sized battery, keyboard, and trackpad would be an odd choice.
+
+ Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
+
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+
+##### Surface Laptop Go 3
+
+6.5/ 10
+
+$700 $800 Save $100
+
+Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
+  
+ [$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
+
+ Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
+
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+
+##### Surface Laptop Go 3
+
+Too expensive for what is a toned-down Surface Laptop 5
+
+6.5/ 10
+
+$700 $800 Save $100
+
+Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
+  
+ **Operating System**
+
+ Windows 11
+
+**CPU**
+
+ Intel Core i5-1235U
+
+**RAM**
+
+ 8/16GB LDDR5
+
+**Storage**
+
+ 256GB removable SSD
+
+**Battery**
+
+ 41 WH
+
+**Display (Size, Resolution)**
+
+ 12.4-inch, 1536 x 1024 (148 PPI)
+
+**Camera**
+
+ 720p webcam
+
+**Speakers**
+
+ Omnisonic Speakers with Dolby Audio Premium
+
+**Colors**
+
+ Sage, Ice Blue, Platinum, Sandstone
+
+**Ports**
+
+ USB-C 3.2, USB-A 3.1, 3.5mm headphone jack, Surface Connect port
+
+**Model**
+
+ Microsoft
+
+**Pros**
+
+* Very compact and easy to carry
+* Colorways still look excellent
+* New processor and faster RAM
+
+**Cons**
+
+* More expensive
+* Poor battery life
+* Poor port selection
+
+[$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
+
+## What's New?
+
+ The Surface Laptop Go 3 is an iterative update over the company's second-generation Surface Laptop Go 2, released in 2022\. This compact laptop features a 12.4-inch display with a full-sized keyboard and trackpad.
+
+![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ The new Laptop Go 3 utilizes the same design as the Go 2 and original Go, but now features improved battery life, more base storage, and a newer chipset.
+
+ The Surface Laptop Go 3 features a 12th-gen Intel Core i5-1235U paired with 256GB of removable SSD storage and 8 or 16GB of LPDDR5x RAM.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Design
+
+ Microsoft's Surface Go line has always been about delivering a smaller version of its flagship products, and the Surface Laptop Go 3 is no different. Much like the chic Surface Laptop 5, the Surface Laptop Go 3 has the same wedge-shaped housing that comes in some stunning colorways: Ice Blue, Sage, Sandstone, and Platinum.
+
+![surface-laptop-go-3-angled-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-angled-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ We have the Sage color, a deep olive green; it looks incredible under direct light. It's neutral enough to comfortably carry this laptop around without drawing too much attention, and it's great at hiding fingerprints.
+
+ The design slightly differs in material choice when comparing the Go 3 to its bigger brother, the Surface Laptop 5, in that the under-chassis is made out of a polycarbonate composite resin rather than aluminum. That said, the top lid and keyboard deck are still aluminum.
+
+ The biggest benefit of getting the Surface Laptop Go 3 is its portability. Coming in at only 2.49 lbs, with a footprint of 10.95 x 8.10 x 0.62 inches, the Surface Laptop Go 3 is one of the most portable Windows laptops on the market. For students considering getting a PC or Chromebook for school, the Surface Laptop Go 3's size makes it exceptionally easy to carry around between classes while leaving plenty of space in your bag for other items.
+
+### Display
+
+ When it comes to the display, Microsoft does an excellent job balancing value and quality. The Surface Laptop Go 3 comes equipped with a vibrant 12.4-inch 1,536 x 1,024 IPS touchscreen panel, and it's gorgeous. The bigger Surface Laptop 5 series and the Surface Laptop Studio 2 have higher resolution panels that support the Surface Pen, but this smaller display surprisingly keeps up.
+
+ The display has slimmer bezels than both the Surface Laptop 5 and Laptop Studio 2 while keeping Microsoft's signature 3:2 aspect ratio, making it perfect for document editing and multitasking.
+
+![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+### Keyboard and Trackpad
+
+ One area Microsoft lost out on was the keyboard. This isn’t to say the Surface Laptop Go 3's keyboard experience is bad by any means; it's consistent with all of Microsoft's Surface line, which is to say, industry-leading. But the Surface Laptop Go 3 doesn't have backlit keys. Regardless of where you look, backlit keys are a staple feature for any laptop at this price point, and it's a weird corner for Microsoft to cut when they deliver an otherwise exceptional experience.
+
+![surface-laptop-go-3-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-keyboard-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ As for the trackpad, it’s on the smaller end due to the device’s smaller size, however, it’s just as responsive as any of Microsoft’s other trackpads, and it’s definitely one of the better trackpads you’ll find on a Windows laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Port Selection
+
+ Finally, let's talk ports—or lack thereof. The Surface Laptop Go 3 has one USB-A 3.1 port, one USB-C 3.2 port, a headphone jack, and a Surface Connector for charging. To say this is lousy is an understatement.
+
+![surface-laptop-go-3-ports-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-ports-2.jpg)
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ It's actually the same port selection as the larger Surface Laptop 5 series, but it's still one area Microsoft could improve upon, especially since this device is targeting the education market. While the small form factor may have been a limiting aspect, the lack of ports could make it difficult for students and workers who may require extra peripherals paired with their laptops.
+
+### Speakers, Microphone and Webcam
+
+ The speaker and microphone system is also quite good, with the Surface Laptop Go 3 delivering a decent sound stage considering its compact size. The speakers are located under the keyboard deck, while the microphones can be found on the top bezel next to the webcam. These components simultaneously offer a clear sound experience for both listening and talking.
+
+![surface-laptop-go-3-back2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back2-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ Another area Microsoft could have improved is the webcam. This webcam is 720p and delivers less than brilliant results, but compared to other laptops with 720p webcams, the Surface Laptop Go 3 is better. In adequate lighting, you can get away with using it in a quick pinch, but as soon as you're in an environment where the lighting is less than ideal, the image turns noisy. I wish Microsoft would adopt a 1080p webcam across their laptop lineup because the only device that carries one is the expensive Surface Laptop Studio 2\.
+
+## Performance
+
+ Moving onto performance, the Surface Laptop Go 3 features the quad-core Intel 12th-gen Core i5-1335U—the same processor as the base Surface Laptop 5\. What does this mean? You're getting one snappy computer.
+
+ Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
+
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Zarif Ali / MakeUseOf
+
+ This year, Microsoft drastically reduced the configurations available, meaning there’s only one storage option of 256GB and two RAM storage options of 8 and 16GB.
+
+ Our review unit is the top-of-the-line spec featuring 16GB of LPDDR5 RAM and 256GB of storage. This spec costs the same as the Surface Laptop 5’s base price, for the same amount of storage, but less RAM on the Laptop 5, which makes this an interesting pricing strategy on Microsoft’s part.
+
+ I'd recommend the base RAM of 8GB to most people, especially students who plan on using this device for the duration of their academic careers. You'll get adequate storage and RAM, which can sustain you for your projects, presentations, and assignments, and you'll have the added breathing room to download apps and games.
+
+![surface-laptop-go-3-back-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ The Laptop Go 3 scores 11,089 on 3DMark's Sky Diver benchmark, which puts it on par with other laptops with the same processor with integrated graphics. Compared to the Laptop Go 2, the Laptop Go 3’s faster RAM and processor make a marginal difference in performance, and it’s certainly a welcome one. Still, these new additions make this laptop a much more expensive device that is now essentially a base 13-inch Surface Laptop 5 with a smaller display and battery, slightly worse build, and no Surface Pen support.
+
+## Battery Life
+
+ When it comes to the battery life of the Surface Laptop Go 3, the results are less than ideal as you’d expect from a smaller laptop. I have used a 13-inch Surface Laptop 3 for the better part of the past two years, and that device averages about seven hours of battery life doing moderate tasks like word processing and web browsing.
+
+ With the Surface Laptop Go 3, I was getting around five to six hours of battery life doing the same tasks, which likely means this computer won't last you a full day of usage in the workplace or at school.
+
+![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
+
+Zarif Ali / MakeUseOf
+
+ Google Meet and Zoom calls already drain my Surface Laptop 3 battery by about 30-40%, so you can imagine how underwhelming the Surface Laptop Go 3's battery situation would hold up with these battery-intensive applications. That said, this is marginally better than last year's Laptop Go 2, so it does make some strides in the battery department.
+
+ The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
+
+## Should You Buy the Surface Laptop Go 3?
+
+ Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
+
+![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -292,6 +801,9 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
 
 [$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What's New?
 
  The Surface Laptop Go 3 is an iterative update over the company's second-generation Surface Laptop Go 2, released in 2022\. This compact laptop features a 12.4-inch display with a full-sized keyboard and trackpad.
@@ -304,11 +816,17 @@ Zarif Ali / MakeUseOf
 
  The Surface Laptop Go 3 features a 12th-gen Intel Core i5-1235U paired with 256GB of removable SSD storage and 8 or 16GB of LPDDR5x RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design
 
  Microsoft's Surface Go line has always been about delivering a smaller version of its flagship products, and the Surface Laptop Go 3 is no different. Much like the chic Surface Laptop 5, the Surface Laptop Go 3 has the same wedge-shaped housing that comes in some stunning colorways: Ice Blue, Sage, Sandstone, and Platinum.
 
 ![surface-laptop-go-3-angled-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-angled-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -333,11 +851,17 @@ Zarif Ali / MakeUseOf
  One area Microsoft lost out on was the keyboard. This isn’t to say the Surface Laptop Go 3's keyboard experience is bad by any means; it's consistent with all of Microsoft's Surface line, which is to say, industry-leading. But the Surface Laptop Go 3 doesn't have backlit keys. Regardless of where you look, backlit keys are a staple feature for any laptop at this price point, and it's a weird corner for Microsoft to cut when they deliver an otherwise exceptional experience.
 
 ![surface-laptop-go-3-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-keyboard-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
  As for the trackpad, it’s on the smaller end due to the device’s smaller size, however, it’s just as responsive as any of Microsoft’s other trackpads, and it’s definitely one of the better trackpads you’ll find on a Windows laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Port Selection
 
  Finally, let's talk ports—or lack thereof. The Surface Laptop Go 3 has one USB-A 3.1 port, one USB-C 3.2 port, a headphone jack, and a Surface Connector for charging. To say this is lousy is an understatement.
@@ -348,6 +872,9 @@ Zarif Ali / MakeUseOf
 
  It's actually the same port selection as the larger Surface Laptop 5 series, but it's still one area Microsoft could improve upon, especially since this device is targeting the education market. While the small form factor may have been a limiting aspect, the lack of ports could make it difficult for students and workers who may require extra peripherals paired with their laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Speakers, Microphone and Webcam
 
  The speaker and microphone system is also quite good, with the Surface Laptop Go 3 delivering a decent sound stage considering its compact size. The speakers are located under the keyboard deck, while the microphones can be found on the top bezel next to the webcam. These components simultaneously offer a clear sound experience for both listening and talking.
@@ -358,6 +885,9 @@ Zarif Ali / MakeUseOf
 
  Another area Microsoft could have improved is the webcam. This webcam is 720p and delivers less than brilliant results, but compared to other laptops with 720p webcams, the Surface Laptop Go 3 is better. In adequate lighting, you can get away with using it in a quick pinch, but as soon as you're in an environment where the lighting is less than ideal, the image turns noisy. I wish Microsoft would adopt a 1080p webcam across their laptop lineup because the only device that carries one is the expensive Surface Laptop Studio 2\.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance
 
  Moving onto performance, the Surface Laptop Go 3 features the quad-core Intel 12th-gen Core i5-1335U—the same processor as the base Surface Laptop 5\. What does this mean? You're getting one snappy computer.
@@ -365,6 +895,9 @@ Zarif Ali / MakeUseOf
  Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
 
 ![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -394,6 +927,9 @@ Zarif Ali / MakeUseOf
 
  The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Buy the Surface Laptop Go 3?
 
  Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
@@ -407,402 +943,10 @@ Zarif Ali / MakeUseOf
  Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
 
 ![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
-
-##### Surface Laptop Go 3
-
-6.5/ 10
-
-$700 $800 Save $100
-
-Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
-  
- [$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
-
- Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
-
-![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
-
-##### Surface Laptop Go 3
-
-Too expensive for what is a toned-down Surface Laptop 5
-
-6.5/ 10
-
-$700 $800 Save $100
-
-Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
-  
- **Operating System**
-
- Windows 11
-
-**CPU**
-
- Intel Core i5-1235U
-
-**RAM**
-
- 8/16GB LDDR5
-
-**Storage**
-
- 256GB removable SSD
-
-**Battery**
-
- 41 WH
-
-**Display (Size, Resolution)**
-
- 12.4-inch, 1536 x 1024 (148 PPI)
-
-**Camera**
-
- 720p webcam
-
-**Speakers**
-
- Omnisonic Speakers with Dolby Audio Premium
-
-**Colors**
-
- Sage, Ice Blue, Platinum, Sandstone
-
-**Ports**
-
- USB-C 3.2, USB-A 3.1, 3.5mm headphone jack, Surface Connect port
-
-**Model**
-
- Microsoft
-
-**Pros**
-
-* Very compact and easy to carry
-* Colorways still look excellent
-* New processor and faster RAM
-
-**Cons**
-
-* More expensive
-* Poor battery life
-* Poor port selection
-
-[$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
-
-## What's New?
-
- The Surface Laptop Go 3 is an iterative update over the company's second-generation Surface Laptop Go 2, released in 2022\. This compact laptop features a 12.4-inch display with a full-sized keyboard and trackpad.
-
-![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- The new Laptop Go 3 utilizes the same design as the Go 2 and original Go, but now features improved battery life, more base storage, and a newer chipset.
-
- The Surface Laptop Go 3 features a 12th-gen Intel Core i5-1235U paired with 256GB of removable SSD storage and 8 or 16GB of LPDDR5x RAM.
-
-## Design
-
- Microsoft's Surface Go line has always been about delivering a smaller version of its flagship products, and the Surface Laptop Go 3 is no different. Much like the chic Surface Laptop 5, the Surface Laptop Go 3 has the same wedge-shaped housing that comes in some stunning colorways: Ice Blue, Sage, Sandstone, and Platinum.
-
-![surface-laptop-go-3-angled-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-angled-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- We have the Sage color, a deep olive green; it looks incredible under direct light. It's neutral enough to comfortably carry this laptop around without drawing too much attention, and it's great at hiding fingerprints.
-
- The design slightly differs in material choice when comparing the Go 3 to its bigger brother, the Surface Laptop 5, in that the under-chassis is made out of a polycarbonate composite resin rather than aluminum. That said, the top lid and keyboard deck are still aluminum.
-
- The biggest benefit of getting the Surface Laptop Go 3 is its portability. Coming in at only 2.49 lbs, with a footprint of 10.95 x 8.10 x 0.62 inches, the Surface Laptop Go 3 is one of the most portable Windows laptops on the market. For students considering getting a PC or Chromebook for school, the Surface Laptop Go 3's size makes it exceptionally easy to carry around between classes while leaving plenty of space in your bag for other items.
-
-### Display
-
- When it comes to the display, Microsoft does an excellent job balancing value and quality. The Surface Laptop Go 3 comes equipped with a vibrant 12.4-inch 1,536 x 1,024 IPS touchscreen panel, and it's gorgeous. The bigger Surface Laptop 5 series and the Surface Laptop Studio 2 have higher resolution panels that support the Surface Pen, but this smaller display surprisingly keeps up.
-
- The display has slimmer bezels than both the Surface Laptop 5 and Laptop Studio 2 while keeping Microsoft's signature 3:2 aspect ratio, making it perfect for document editing and multitasking.
-
-![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
-
-Zarif Ali / MakeUseOf
-
-### Keyboard and Trackpad
-
- One area Microsoft lost out on was the keyboard. This isn’t to say the Surface Laptop Go 3's keyboard experience is bad by any means; it's consistent with all of Microsoft's Surface line, which is to say, industry-leading. But the Surface Laptop Go 3 doesn't have backlit keys. Regardless of where you look, backlit keys are a staple feature for any laptop at this price point, and it's a weird corner for Microsoft to cut when they deliver an otherwise exceptional experience.
-
-![surface-laptop-go-3-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-keyboard-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- As for the trackpad, it’s on the smaller end due to the device’s smaller size, however, it’s just as responsive as any of Microsoft’s other trackpads, and it’s definitely one of the better trackpads you’ll find on a Windows laptop.
-
-### Port Selection
-
- Finally, let's talk ports—or lack thereof. The Surface Laptop Go 3 has one USB-A 3.1 port, one USB-C 3.2 port, a headphone jack, and a Surface Connector for charging. To say this is lousy is an understatement.
-
-![surface-laptop-go-3-ports-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-ports-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- It's actually the same port selection as the larger Surface Laptop 5 series, but it's still one area Microsoft could improve upon, especially since this device is targeting the education market. While the small form factor may have been a limiting aspect, the lack of ports could make it difficult for students and workers who may require extra peripherals paired with their laptops.
-
-### Speakers, Microphone and Webcam
-
- The speaker and microphone system is also quite good, with the Surface Laptop Go 3 delivering a decent sound stage considering its compact size. The speakers are located under the keyboard deck, while the microphones can be found on the top bezel next to the webcam. These components simultaneously offer a clear sound experience for both listening and talking.
-
-![surface-laptop-go-3-back2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back2-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- Another area Microsoft could have improved is the webcam. This webcam is 720p and delivers less than brilliant results, but compared to other laptops with 720p webcams, the Surface Laptop Go 3 is better. In adequate lighting, you can get away with using it in a quick pinch, but as soon as you're in an environment where the lighting is less than ideal, the image turns noisy. I wish Microsoft would adopt a 1080p webcam across their laptop lineup because the only device that carries one is the expensive Surface Laptop Studio 2\.
-
-## Performance
-
- Moving onto performance, the Surface Laptop Go 3 features the quad-core Intel 12th-gen Core i5-1335U—the same processor as the base Surface Laptop 5\. What does this mean? You're getting one snappy computer.
-
- Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
-
-![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
-
-Zarif Ali / MakeUseOf
-
- This year, Microsoft drastically reduced the configurations available, meaning there’s only one storage option of 256GB and two RAM storage options of 8 and 16GB.
-
- Our review unit is the top-of-the-line spec featuring 16GB of LPDDR5 RAM and 256GB of storage. This spec costs the same as the Surface Laptop 5’s base price, for the same amount of storage, but less RAM on the Laptop 5, which makes this an interesting pricing strategy on Microsoft’s part.
-
- I'd recommend the base RAM of 8GB to most people, especially students who plan on using this device for the duration of their academic careers. You'll get adequate storage and RAM, which can sustain you for your projects, presentations, and assignments, and you'll have the added breathing room to download apps and games.
-
-![surface-laptop-go-3-back-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- The Laptop Go 3 scores 11,089 on 3DMark's Sky Diver benchmark, which puts it on par with other laptops with the same processor with integrated graphics. Compared to the Laptop Go 2, the Laptop Go 3’s faster RAM and processor make a marginal difference in performance, and it’s certainly a welcome one. Still, these new additions make this laptop a much more expensive device that is now essentially a base 13-inch Surface Laptop 5 with a smaller display and battery, slightly worse build, and no Surface Pen support.
-
-## Battery Life
-
- When it comes to the battery life of the Surface Laptop Go 3, the results are less than ideal as you’d expect from a smaller laptop. I have used a 13-inch Surface Laptop 3 for the better part of the past two years, and that device averages about seven hours of battery life doing moderate tasks like word processing and web browsing.
-
- With the Surface Laptop Go 3, I was getting around five to six hours of battery life doing the same tasks, which likely means this computer won't last you a full day of usage in the workplace or at school.
-
-![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- Google Meet and Zoom calls already drain my Surface Laptop 3 battery by about 30-40%, so you can imagine how underwhelming the Surface Laptop Go 3's battery situation would hold up with these battery-intensive applications. That said, this is marginally better than last year's Laptop Go 2, so it does make some strides in the battery department.
-
- The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
-
-## Should You Buy the Surface Laptop Go 3?
-
- Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
-
-![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- This year, The price difference between the Surface Laptop Go 3 and the Laptop 5 is nearly negligible, and the top-end 16GB variant of the Laptop Go 3 costs the same as the base 13-inch Laptop 5, with the Go 3 having 8 gigabytes more RAM compared to the Laptop 5\. To opt for another 8 GB of RAM over a larger, higher resolution display, a properly sized battery, keyboard, and trackpad would be an odd choice.
-
- Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
-
-![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
-
-##### Surface Laptop Go 3
-
-6.5/ 10
-
-$700 $800 Save $100
-
-Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
-  
- [$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
-
- Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
-
-![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
-
-##### Surface Laptop Go 3
-
-Too expensive for what is a toned-down Surface Laptop 5
-
-6.5/ 10
-
-$700 $800 Save $100
-
-Microsoft has released the Surface Laptop Go 3, an updated version of its compact 12.4-inch laptop aimed at students. While it maintains the sleek design and portability, it now features a faster updated processor paired with LDDR5 RAM. However, it incurs a price increase over the Laptop Go 2 and now competes with other Windows laptops in the sub-$1,000 category, making it a hard sell for many, especially when compared to the base Surface Laptop 5.  
-  
- **Operating System**
-
- Windows 11
-
-**CPU**
-
- Intel Core i5-1235U
-
-**RAM**
-
- 8/16GB LDDR5
-
-**Storage**
-
- 256GB removable SSD
-
-**Battery**
-
- 41 WH
-
-**Display (Size, Resolution)**
-
- 12.4-inch, 1536 x 1024 (148 PPI)
-
-**Camera**
-
- 720p webcam
-
-**Speakers**
-
- Omnisonic Speakers with Dolby Audio Premium
-
-**Colors**
-
- Sage, Ice Blue, Platinum, Sandstone
-
-**Ports**
-
- USB-C 3.2, USB-A 3.1, 3.5mm headphone jack, Surface Connect port
-
-**Model**
-
- Microsoft
-
-**Pros**
-
-* Very compact and easy to carry
-* Colorways still look excellent
-* New processor and faster RAM
-
-**Cons**
-
-* More expensive
-* Poor battery life
-* Poor port selection
-
-[$700 at Amazon](https://www.amazon.com/Microsoft-Surface-Laptop-Touchscreen-Lightweight/dp/B0CDKDS8KL?tag=muo-v2-q0ruf6s-20&ascsubtag=UUmuoUeUpU2030541&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fsurface-laptop-go-3-review%2F&asc%5Fcampaign=Affiliate)[See at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-Go-3/8p0wwgj6c6l2?crosssellid=&selectedColor=86888a)
-
-## What's New?
-
- The Surface Laptop Go 3 is an iterative update over the company's second-generation Surface Laptop Go 2, released in 2022\. This compact laptop features a 12.4-inch display with a full-sized keyboard and trackpad.
-
-![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- The new Laptop Go 3 utilizes the same design as the Go 2 and original Go, but now features improved battery life, more base storage, and a newer chipset.
-
- The Surface Laptop Go 3 features a 12th-gen Intel Core i5-1235U paired with 256GB of removable SSD storage and 8 or 16GB of LPDDR5x RAM.
-
-## Design
-
- Microsoft's Surface Go line has always been about delivering a smaller version of its flagship products, and the Surface Laptop Go 3 is no different. Much like the chic Surface Laptop 5, the Surface Laptop Go 3 has the same wedge-shaped housing that comes in some stunning colorways: Ice Blue, Sage, Sandstone, and Platinum.
-
-![surface-laptop-go-3-angled-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-angled-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- We have the Sage color, a deep olive green; it looks incredible under direct light. It's neutral enough to comfortably carry this laptop around without drawing too much attention, and it's great at hiding fingerprints.
-
- The design slightly differs in material choice when comparing the Go 3 to its bigger brother, the Surface Laptop 5, in that the under-chassis is made out of a polycarbonate composite resin rather than aluminum. That said, the top lid and keyboard deck are still aluminum.
-
- The biggest benefit of getting the Surface Laptop Go 3 is its portability. Coming in at only 2.49 lbs, with a footprint of 10.95 x 8.10 x 0.62 inches, the Surface Laptop Go 3 is one of the most portable Windows laptops on the market. For students considering getting a PC or Chromebook for school, the Surface Laptop Go 3's size makes it exceptionally easy to carry around between classes while leaving plenty of space in your bag for other items.
-
-### Display
-
- When it comes to the display, Microsoft does an excellent job balancing value and quality. The Surface Laptop Go 3 comes equipped with a vibrant 12.4-inch 1,536 x 1,024 IPS touchscreen panel, and it's gorgeous. The bigger Surface Laptop 5 series and the Surface Laptop Studio 2 have higher resolution panels that support the Surface Pen, but this smaller display surprisingly keeps up.
-
- The display has slimmer bezels than both the Surface Laptop 5 and Laptop Studio 2 while keeping Microsoft's signature 3:2 aspect ratio, making it perfect for document editing and multitasking.
-
-![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
-
-Zarif Ali / MakeUseOf
-
-### Keyboard and Trackpad
-
- One area Microsoft lost out on was the keyboard. This isn’t to say the Surface Laptop Go 3's keyboard experience is bad by any means; it's consistent with all of Microsoft's Surface line, which is to say, industry-leading. But the Surface Laptop Go 3 doesn't have backlit keys. Regardless of where you look, backlit keys are a staple feature for any laptop at this price point, and it's a weird corner for Microsoft to cut when they deliver an otherwise exceptional experience.
-
-![surface-laptop-go-3-keyboard-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-keyboard-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- As for the trackpad, it’s on the smaller end due to the device’s smaller size, however, it’s just as responsive as any of Microsoft’s other trackpads, and it’s definitely one of the better trackpads you’ll find on a Windows laptop.
-
-### Port Selection
-
- Finally, let's talk ports—or lack thereof. The Surface Laptop Go 3 has one USB-A 3.1 port, one USB-C 3.2 port, a headphone jack, and a Surface Connector for charging. To say this is lousy is an understatement.
-
-![surface-laptop-go-3-ports-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-ports-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- It's actually the same port selection as the larger Surface Laptop 5 series, but it's still one area Microsoft could improve upon, especially since this device is targeting the education market. While the small form factor may have been a limiting aspect, the lack of ports could make it difficult for students and workers who may require extra peripherals paired with their laptops.
-
-### Speakers, Microphone and Webcam
-
- The speaker and microphone system is also quite good, with the Surface Laptop Go 3 delivering a decent sound stage considering its compact size. The speakers are located under the keyboard deck, while the microphones can be found on the top bezel next to the webcam. These components simultaneously offer a clear sound experience for both listening and talking.
-
-![surface-laptop-go-3-back2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back2-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- Another area Microsoft could have improved is the webcam. This webcam is 720p and delivers less than brilliant results, but compared to other laptops with 720p webcams, the Surface Laptop Go 3 is better. In adequate lighting, you can get away with using it in a quick pinch, but as soon as you're in an environment where the lighting is less than ideal, the image turns noisy. I wish Microsoft would adopt a 1080p webcam across their laptop lineup because the only device that carries one is the expensive Surface Laptop Studio 2\.
-
-## Performance
-
- Moving onto performance, the Surface Laptop Go 3 features the quad-core Intel 12th-gen Core i5-1335U—the same processor as the base Surface Laptop 5\. What does this mean? You're getting one snappy computer.
-
- Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
-
-![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
-
-Zarif Ali / MakeUseOf
-
- This year, Microsoft drastically reduced the configurations available, meaning there’s only one storage option of 256GB and two RAM storage options of 8 and 16GB.
-
- Our review unit is the top-of-the-line spec featuring 16GB of LPDDR5 RAM and 256GB of storage. This spec costs the same as the Surface Laptop 5’s base price, for the same amount of storage, but less RAM on the Laptop 5, which makes this an interesting pricing strategy on Microsoft’s part.
-
- I'd recommend the base RAM of 8GB to most people, especially students who plan on using this device for the duration of their academic careers. You'll get adequate storage and RAM, which can sustain you for your projects, presentations, and assignments, and you'll have the added breathing room to download apps and games.
-
-![surface-laptop-go-3-back-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- The Laptop Go 3 scores 11,089 on 3DMark's Sky Diver benchmark, which puts it on par with other laptops with the same processor with integrated graphics. Compared to the Laptop Go 2, the Laptop Go 3’s faster RAM and processor make a marginal difference in performance, and it’s certainly a welcome one. Still, these new additions make this laptop a much more expensive device that is now essentially a base 13-inch Surface Laptop 5 with a smaller display and battery, slightly worse build, and no Surface Pen support.
-
-## Battery Life
-
- When it comes to the battery life of the Surface Laptop Go 3, the results are less than ideal as you’d expect from a smaller laptop. I have used a 13-inch Surface Laptop 3 for the better part of the past two years, and that device averages about seven hours of battery life doing moderate tasks like word processing and web browsing.
-
- With the Surface Laptop Go 3, I was getting around five to six hours of battery life doing the same tasks, which likely means this computer won't last you a full day of usage in the workplace or at school.
-
-![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- Google Meet and Zoom calls already drain my Surface Laptop 3 battery by about 30-40%, so you can imagine how underwhelming the Surface Laptop Go 3's battery situation would hold up with these battery-intensive applications. That said, this is marginally better than last year's Laptop Go 2, so it does make some strides in the battery department.
-
- The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
-
-## Should You Buy the Surface Laptop Go 3?
-
- Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
-
-![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
-
-Zarif Ali / MakeUseOf
-
- This year, The price difference between the Surface Laptop Go 3 and the Laptop 5 is nearly negligible, and the top-end 16GB variant of the Laptop Go 3 costs the same as the base 13-inch Laptop 5, with the Go 3 having 8 gigabytes more RAM compared to the Laptop 5\. To opt for another 8 GB of RAM over a larger, higher resolution display, a properly sized battery, keyboard, and trackpad would be an odd choice.
-
- Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
-
-![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
 ##### Surface Laptop Go 3
 
@@ -833,3 +977,75 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-adventure-capturing-toolskit/"><u>[New] Adventure Capturing Toolskit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-download-obs-studio-for-mac-for-2024/"><u>[New] How to Download OBS Studio for Mac for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>[New] Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-conversion-ideal-tweeter-video-solution-providers/"><u>[New] Seamless Conversion  Ideal Tweeter Video Solution Providers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-maximize-video-reach-with-effective-tags-titles/"><u>[Updated] 2024 Approved  How to Maximize Video Reach with Effective Tags, Titles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimal-budget-free-fb-picturemotion-designer/"><u>[Updated] 2024 Approved  Optimal Budget-Free FB Picture/Motion Designer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-essential-guide-to-twitter-videos-and-aspect-ratios-for-2024/"><u>[Updated] Essential Guide to Twitter Videos and Aspect Ratios for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>[Updated] Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-screen-recording-snapshots-on-mobile/"><u>[Updated] Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>[Updated] Unlocking Full Potential  In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sonorized-snapshots-a-cinematic-symphony/"><u>2024 Approved  Sonorized Snapshots  A Cinematic Symphony</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-sustaining-longer-gopro-battery-life-for-2024/"><u>A Guide to Sustaining Longer GoPro Battery Life for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-flawless-aerial-shots-the-best-gimbals-for-drones-for-2024/"><u>Achieving Flawless Aerial Shots  The Best Gimbals for Drones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-application-failures-due-to-net-not-installed/"><u>Addressing Application Failures Due to .NET Not Installed</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-email-notifications-glitches-on-windows-devices/"><u>Addressing Email Notifications Glitches on Windows Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-capture-mastery-in-windows-10-for-2024/"><u>Audio Capture Mastery in Windows 10 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/break-down-drives-hdd-vs-ssd-explained/"><u>Break Down Drives: HDD vs SSD Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-memory-caching-in-windows-os/"><u>Breaking Down Memory Caching in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-tech-epochs-windows-7-key-to-boot-windows-11/"><u>Bridging the Tech Epochs: Windows 7 Key to Boot Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-your-photos-in-minutes-learning-lunapic-for-2024/"><u>Craft Your Photos in Minutes  Learning LunaPic for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/creative-steps-to-obliviate-win-11s-taskbar-button/"><u>Creative Steps to Obliviate Win 11'S Taskbar Button</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-6-oddities-in-windows-11-design/"><u>Decoding the 6 Oddities in Windows 11 Design</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-lag-and-enjoy-seamless-battles-essential-fixes-for-chivalry-2s-ping-issues-latest-insights/"><u>Defeat Lag and Enjoy Seamless Battles: Essential Fixes for Chivalry 2'S Ping Issues [Latest Insights]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-asus-z170-graphics-drivers-for-enhanced-gameplay/"><u>Download the Latest ASUS Z170 Graphics Drivers for Enhanced Gameplay</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/escape-the-permanent-suspension-top-fb-jailbreak-tips-for-2024/"><u>Escape the Permanent Suspension  Top FB Jailbreak Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-unblocking-steam-when-playing-games/"><u>Essential Tips for Unblocking Steam When Playing Games</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11-drag-and-drop-failures-now/"><u>Fix Windows 11 Drag-and-Drop Failures Now</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-beginnings-executing-a-clean-windows-11-reinstall/"><u>Fresh Beginnings: Executing a Clean Windows 11 Reinstall</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-gaming-powerhouse-at-bargain-prices-ark-ai-accelerator-pcie-card-for-deskmate-x6-600-available-only-in-china-193/"><u>Get Gaming Powerhouse at Bargain Prices - ARK AI Accelerator PCIe Card for DeskMate X6 600, Available Only in China ($193)</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-resolve-microphone-problems-on-pc-and-xbox/"><u>Guidelines to Resolve Microphone Problems on PC & Xbox</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-k70-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi K70 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-x-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone X to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-photos-app-background-blur-feature-on-windows-11/"><u>How to Use the Photos App Background Blur Feature on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-high-space-consumers-on-your-windows-machine/"><u>Identifying High-Space Consumers on Your Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-for-reviving-freeze-ups-on-resource-monitor-win11/"><u>Immediate Actions for Reviving Freeze-Ups on Resource Monitor, Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-nord-ce-3-5g-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Nord CE 3 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-breaking-news-afbs-secret-to-trending-content/"><u>In 2024, Breaking News  AFB's Secret to Trending Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-friendly-vr-best-multiplayer-metaverse-delights/"><u>In 2024, Friendly VR  Best Multiplayer Metaverse Delights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-gifs-to-stickers-comprehensive-tutorial-series-for-multiple-chat-apps/"><u>In 2024, From Gifs to Stickers  Comprehensive Tutorial Series for Multiple Chat Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/is-it-necessary-to-keep-pagefilesys-reasons-explored/"><u>Is It Necessary to Keep Pagefile.sys? Reasons Explored</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-moto-g73-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Moto G73 5G FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-commands-the-win-1011-trickery-guide/"><u>Masked Commands: The Win 10/11 Trickery Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-office-setup-on-windows-10-and-11-systems/"><u>Mastering Office Setup on WIndows 10 & 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-bypassing-non-active-window-firewall/"><u>Methods for Bypassing Non-Active Window Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-9-methods-for-accessing-windows-11s-audio-control-panel/"><u>Navigate 9 Methods for Accessing Windows 11'S Audio Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-mass-unzipping-on-your-pc/"><u>Navigating the Maze of Mass Unzipping on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/new-wave-windows-leap-from-the-legacy-of-11/"><u>New Wave Windows: Leap From the Legacy of 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-windows-environment-adding-to-the-desktop-menu/"><u>Personalizing Your Windows Environment: Adding to the Desktop Menu</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/realign-google-chrome-clock-with-windows-time/"><u>Realign Google Chrome Clock with Windows Time</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-traditional-windows-explorer-look/"><u>Reclaiming Traditional Windows Explorer Look</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-pc-with-the-top-10-must-try-powertoy-applications/"><u>Reimagine Your PC with the Top 10 Must-Try PowerToy Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-no-associated-error-on-windows-devices/"><u>Removing 'No Associated' Error on Windows Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sticker-creation-from-gifs-a-step-by-step-tutorial-for-discs-and-chats-for-2024/"><u>Sticker Creation From GIFs  A Step-by-Step Tutorial for Discs and Chats for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-resolution-to-hypervisor-errors-for-winxose-users/"><u>Swift Resolution to Hypervisor Errors for WINXOSE Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/taiwan-officially-known-as-the-republic-of-china-though-its-status-is-complex-and-politically-sensitive/"><u>Taiwan (Officially Known as the Republic of China, Though Its Status Is Complex and Politically Sensitive)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-fundamentals-of-earnings-on-youtube/"><u>The Fundamentals of Earnings on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-importance-of-tracking-igtv-conversion-rates/"><u>The Importance of Tracking IGTV Conversion Rates</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-in-gameplay-implementing-retroarchs-shader-effects/"><u>Time Travel in Gameplay: Implementing RetroArch's Shader Effects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs-for-2024/"><u>Transformative Tutorial  Turning Vids on Twitter Into Catchy Animated Memes (GIFs) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-your-way-through-windows-application-hiccups-7-tips/"><u>Troubleshoot Your Way Through Windows Application Hiccups (7 Tips)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-grammarlys-non-operational-status/"><u>Troubleshooting Grammarly's Non-Operational Status</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overwatch-2-renderer-issues-on-windows/"><u>Troubleshooting Overwatch 2 Renderer Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-persistent-windows-boot-issue-to-bios-mode/"><u>Troubleshooting Persistent Windows Boot Issue to BIOS Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-to-windows-11-success/"><u>Unlocking the Secrets to Windows 11 Success</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-wpm-in-windows-11-environments/"><u>Unveiling the Power of WPM in Windows 11 Environments</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Clear the TPM on Windows 11
-date: 2024-07-13T11:10:08.682Z
-updated: 2024-07-14T11:10:08.682Z
+date: 2024-08-15T23:25:43.744Z
+updated: 2024-08-16T23:25:43.744Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 
  As such, it's crucial to [back up your Windows data](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) that's protected by the TPM to prevent any data loss.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. How to Clear the TPM Using the TPM Management Console
 
  The TPM management console allows you to manage the TPM installed on your computer. You can use it to [enable or disable TPM](https://www.makeuseof.com/how-enable-tpm-secure-boot-before-upgrading-windows-11/), clear TPM, and manage TPM keys.
@@ -45,9 +48,15 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 ![Clear TPM option in TPM console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-tpm-option.jpg)
 4. Click **Restart**.  
 ![Restart button in TPM console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-button-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 
  Your computer will now restart to finish the TPM reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Clear the TPM Using the Windows Security App
 
  To clear the TPM using the Windows Security app, follow these steps:
@@ -63,12 +72,18 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 ![Clear TPM button in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-tpm-button.jpg)
 6. Click on **Clear** **and restart**.  
 ![Clear and restart option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-and-restart-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Your computer will now restart. After that, you will have to set up Windows Hello if you have been using it before.
 
 ## 3\. How to Clear TPM Using Windows PowerShell
 
 ![Clear TPM command in Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-tpm-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows PowerShell is a command-line tool that lets you perform advanced operations on your computer.
 
@@ -81,13 +96,22 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 1. Restart your computer and press the BIOS key (usually F2 or Del key) to access the BIOS menu.
 2. Switch to the **Security** tab.  
 ![Security tab in the BIOS Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. Click the **Clear TPM** option and choose **Yes** from the prompt.  
 ![Yes option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/yes-option-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Switch to the **Exit tab** and choose **Save Changes and Exit**. Then, select **Yes**.  
 ![Save changes option in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-changes-option.jpg)
 
  That's it. Your computer will restart, and you'll get the option to set up your pin on the login screen, indicating that you have successfully cleared the TPM.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Keeping Your Data Safe From Malware on Windows
 
  The TPM stores important security-related data, including encryption keys. However, when the TPM gets affected by malware, you must clear it to protect your information. Fortunately, you can quickly reset TPM using the above methods.
@@ -103,3 +127,56 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-a-guide-to-macs-finest-sniping-tools-uncovered/"><u>[New] 2024 Approved  A Guide to Mac's Finest Sniping Tools Uncovered</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-to-1000-fans-through-captivating-content/"><u>[New] 2024 Approved  Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hand-tracked-futures-visionary-technologies/"><u>[New] Hand-Tracked Futures  Visionary Technologies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-impact-color-filters-expertly-curated-15-gopro-lut-picks/"><u>[New] High-Impact Color Filters  Expertly Curated 15 GoPro LUT Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-account-creation-on-youtube-for-2024/"><u>[Updated] Navigating Account Creation on YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>2024 Approved  5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-ideas-to-impact-mastering-video-marketing-on-instagram/"><u>2024 Approved  From Ideas to Impact  Mastering Video Marketing on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-step-by-step-precise-screen-recording-on-dell-laptops/"><u>2024 Approved  Step-by-Step  Precise Screen Recording on Dell Laptops</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamline-video-shoot-excellent-camera-tripods-reviewed/"><u>2024 Approved  Streamline Video Shoot  Excellent Camera Tripods Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-disabled-irql-exception-fixed/"><u>BSOD Disabled: Irql Exception Fixed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-13-ultra-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-winerror-0x800f0831-with-ease/"><u>Combat WinError 0X800F0831 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/defeating-inaccessible-program-uninstall-in-microsofts-latest-os/"><u>Defeating Inaccessible Program Uninstall in Microsoft's Latest OS</u></a></li>
+<li><a href="https://win11.techidaily.com/does-your-pc-tick-all-boxes-for-windows-11-upgrade/"><u>Does Your PC Tick All Boxes for Windows 11 Upgrade?</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-network-access-for-chrome-amidst-windows-security-barriers/"><u>Enabling Network Access for Chrome Amidst Windows Security Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-pc-what-to-do-when-windows-11-loses-a-tab/"><u>Enhance Your PC: What to Do When Windows 11 Loses a Tab?</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-quality-over-novelties/"><u>Enhancing Windows 11: Quality over Novelties</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-run-the-sfc-tool-successfully/"><u>Essential Tips to Run the SFC Tool Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-correcting-the-msvcr110dll-deficit/"><u>Explaining & Correcting the msvcr110.dll Deficit</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-updater-error-0x80246007-in-windows-versions-1011/"><u>Fixing Updater Error 0X80246007 in Windows Versions 10/11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-windows-1011-installing-a-unique-lock-pattern/"><u>Guide to Windows 10/11: Installing a Unique Lock Pattern</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-mac-recordings-for-snapchat-success/"><u>In 2024, Enhancing Mac Recordings for Snapchat Success</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-reno-11-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Reno 11 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pinpointing-instagram-follower-losses-on-the-fly/"><u>In 2024, Pinpointing Instagram Follower Losses on the Fly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-hottest-tiktok-trends-on-twitter/"><u>In 2024, The Hottest TikTok Trends on Twitter</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-update-problem-with-error-0xca00a009/"><u>Mitigating Update Problem with Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-terminal-mastering-focus-mode-transitions/"><u>Navigating Windows Terminal: Mastering Focus Mode Transitions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-updater-code-0x8019-issue-on-xp/"><u>Removing Updater Code 0X8019 Issue on XP</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-dism-failure-0x800f082f/"><u>Resolving Windows' DISM Failure 0X800F082F</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-stalled-email-notifications-in-windows-environment/"><u>Reviving Stalled Email Notifications in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-experience-7-fixes-for-broken-apps/"><u>Seamless Windows Experience: 7 Fixes for Broken Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/self-contained-strategies-for-hardware-duplication/"><u>Self-Contained Strategies for Hardware Duplication</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-disabling-of-windows-11-alerts/"><u>Speedy Disabling of Windows 11 Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-recognize-non-appearing-hdd/"><u>Strategies to Recognize Non-Appearing HDD</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-transformation-through-38-years/"><u>Taskbar Transformation Through 38 Years</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tips-simply-recognize-your-computers-ram-type/"><u>Tech Tips: Simply Recognize Your Computer's RAM Type</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-ensure-audible-feedback-in-screen-captures/"><u>Techniques to Ensure Audible Feedback in Screen Captures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-key-to-unlocking-the-best-video-production-talents/"><u>The Key to Unlocking the Best Video Production Talents</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-a-productive-win-11-taskbar/"><u>The Ultimate Guide to a Productive Win 11 Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-boot-on-windows-sound-service-reboot-needs/"><u>Troubleshooting Boot-On Windows Sound Service Reboot Needs</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-backup-mishaps/"><u>Troubleshooting Steam Backup Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-windows-11-app-opening-secrets-revealed/"><u>Turbo Windows 11 App Opening Secrets Revealed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-f23-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo F23 5G FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-ace-2-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Ace 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-navigating-blank-login-page-fixes/"><u>Windows 11: Navigating Blank Login Page Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-save-location-glitch-quick-guide/"><u>Windows Save Location Glitch: Quick Guide</u></a></li>
+</ul></div>

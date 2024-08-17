@@ -1,7 +1,7 @@
 ---
 title: "Augmenting User Interface: Incorrante Windows with Portables"
-date: 2024-07-13T10:56:01.968Z
-updated: 2024-07-14T10:56:01.969Z
+date: 2024-08-15T23:38:50.590Z
+updated: 2024-08-16T23:38:50.590Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,21 @@ Now it's time to get SyMenu up and running:
  To add portable software to the menu, click the**Tools** submenu >**Configuration** ; click the**Item Manager** tab and select**Add Program** from there. Click the ellipses button for the**Path** box, choose a portable app on your USB stick, and select**Open** . Press the**Save** button to apply.
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
@@ -65,6 +76,9 @@ Now it's time to get SyMenu up and running:
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
@@ -86,11 +100,17 @@ Now it's time to get SyMenu up and running:
 3. Select**Next** \>**Yes** when prompted to create a new LiberKey folder.
 4. Then select**Install** to add LiberKey to your USB stick.  
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 5. Click**Finish** with the Launch LiberKey checkbox selected.
 
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
@@ -99,6 +119,9 @@ Now it's time to get SyMenu up and running:
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
@@ -109,6 +132,9 @@ Now it's time to get SyMenu up and running:
  LiberKeys, like SyMenu, has portable apps you can download and add to the menu. Open the LiberKeys website, and select a program to add to the menu from there. Click the**Install on my LiberKey** option to add the portable software to the menu. You’ll see a new tab on the menu that includes all apps added to the menu from the software’s website.
 
 ![The portable app section of the LiberKey website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-website.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 
  To customize the menu, select**LiberKey Tools** \>**Configuration** . You can change the menu’s color scheme from the Color tab on the Configuration window. Choose a primary menu color on that tab, and select**Apply** to save it.
 
@@ -117,6 +143,9 @@ Now it's time to get SyMenu up and running:
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
  If you're a student on the go, be sure to check out the [best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
@@ -142,3 +171,72 @@ Now it's time to get SyMenu up and running:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-video-voyage-unveiling-the-trendiest-tweets-of-2023/"><u>[New] 2024 Approved  Viral Video Voyage  Unveiling the Trendiest Tweets of 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-x-media-library-manager-personal-computer/"><u>[New] 2024 Approved  X-Media Library Manager, Personal Computer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-best-places-to-find-3d-silver-and-gold-lettering-effects-for-2024/"><u>[New] Best Places to Find 3D Silver and Gold Lettering Effects for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[New] In 2024, Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-source-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[New] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-the-power-of-panel-discussions-with-fb-live-screening-for-2024/"><u>[New] Unlock the Power of Panel Discussions with FB Live Screening for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-win-and-mac-users-elevate-your-workflow-with-our-top-8-tools-to-convert-sub-into-srtr/"><u>[New] Win and Mac Users, Elevate Your Workflow with Our Top 8 Tools to Convert SUB Into SRTR</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-authenticity-matters-ensuring-your-tiktoks-are-legally-uploaded-for-2024/"><u>[Updated] Authenticity Matters  Ensuring Your TikToks Are Legally Uploaded for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[Updated] Connect with Community Spots  A Dynamic Guide for Local Explorers on the Move</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-tips-convert-and-download-vimeo-hd-to-mp4-for-2024/"><u>[Updated] Essential Tips  Convert and Download Vimeo HD to MP4 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-strategies-for-capturing-live-lectures-a-mac-centric-approach-for-2024/"><u>[Updated] Innovative Strategies for Capturing Live Lectures  A Mac-Centric Approach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-and-video-flair-the-art-of-distorted-messages/"><u>[Updated] Photo & Video Flair  The Art of Distorted Messages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-personalizing-your-android-device-sound-system/"><u>[Updated] The Ultimate Guide to Personalizing Your Android Device Sound System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>2024 Approved  Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-guide-perfect-your-youtube-video-looping-game/"><u>2024 Approved  How-To Guide  Perfect Your YouTube Video Looping Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-most-protective-aqua-resistant-mobile-covers-your-perfect-guide/"><u>2024'S Most Protective Aqua-Resistant Mobile Covers - Your Perfect Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/8-proven-strategies-to-resolve-windows-11s-code-0x80f0922-update-issue/"><u>8 Proven Strategies to Resolve Windows 11'S Code 0X80ˈFː09:22 Update Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-strategies-for-pinpointing-hardware-identification-in-windows/"><u>Advanced Strategies for Pinpointing Hardware Identification in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/best-lighter-browsing-options-tested-for-memory-conservation/"><u>Best Lighter Browsing Options Tested For Memory Conservation</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-in-window-systems-reliability-vs-performance/"><u>Bridging Gaps in Window Systems: Reliability Vs. Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-icon-badges-non-display-issue/"><u>Counteracting Icon Badges Non-Display Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-0x800713f-issue-for-smooth-function-of-win11s-mail-app/"><u>Decoding 0X800713F Issue for Smooth Function of Win11's Mail App</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-steps-to-initiate-system-restore-on-windows-11/"><u>Decoding the Steps to Initiate System Restore on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-disastrous-dism-0x800f082f-error/"><u>Demystifying Windows' Disastrous DISM 0X800F082F Error</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-users-with-precision-four-easy-techniques-on-win11/"><u>Disabling Users with Precision: Four Easy Techniques on Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-win11-dns-client-service-adjustment/"><u>Essential Tips for Win11 DNS Client Service Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inactive-voice-over-on-microsofts-document-reader/"><u>Fixing Inactive Voice-Over on Microsoft's Document Reader</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-low-memory-warning-in-vmware-hosted-windows-environments/"><u>Fixing Low Memory Warning in VmWare-Hosted Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/forecasting-with-finesse-windows-11s-prime-weather-tools/"><u>Forecasting with Finesse: Windows 11'S Prime Weather Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-virtualbox-usb-disconnect-issues-effectively-on-windows/"><u>Handling VirtualBox USB Disconnect Issues Effectively on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-8-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 8 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-live-stream-over-the-network-with-vlc-media-player/"><u>How to Live Stream Over the Network with VLC Media Player</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Huawei ?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>In 2024, From Favorites to Featured  The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-20-hilarious-tiktok-skits-for-giggle-fests/"><u>In 2024, Top 20 Hilarious TikTok Skits for Giggle Fests</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets/"><u>In 2024, Unlocking Potential  How to Maximize Whiteboards in Zoom Meets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/inclusive-dynamic-movement-examination-for-2024/"><u>Inclusive Dynamic Movement Examination for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-indispentiall-10-must-have-ms-store-tools/"><u>Innovative Indispentiall: 10 Must-Have MS Store Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ai-assistance-in-development-an-introduction-to-microsoft-copilot/"><u>Leveraging AI Assistance in Development: An Introduction to Microsoft Copilot</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-edges-cpu-load-a-user-guide/"><u>Lowering Edge's CPU Load: A User Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-video-size-adjustments-on-igtv-for-2024/"><u>Mastering Video Size Adjustments on IGTV for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-reset-windows-11-search-bar-aesthetics/"><u>Method to Reset Windows 11 Search Bar Aesthetics</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-interface-effective-process-filtering-and-customizing-themes-in-w11/"><u>Navigating the Interface: Effective Process Filtering & Customizing Themes in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-grouped-taskbars-win-11-edition/"><u>No More Grouped Taskbars: Win 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-isdonedll-isarcextract-failures/"><u>Overcoming Common ISDone.dll (ISArcExtract) Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-systemsettings-crashes-in-windows-11/"><u>Overcoming SystemSettings Crashes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-system-sounds-in-windows-11-by-activating-mixer-feature/"><u>Perfect System Sounds in Windows 11 by Activating Mixer Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-window-11-dual-screen-usage/"><u>Perfecting Window 11 Dual Screen Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-to-try-connections-glitch-on-windows-pcs/"><u>Quick Fix to 'Try Connections' Glitch on Windows PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-uninstall-and-reinstall-wacom-drivers-on-win-platforms/"><u>Quick Guide: Uninstall & Reinstall Wacom Drivers on WIN Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-mending-windows-hello-fingerprint-issues/"><u>Quick Steps for Mending Windows Hello Fingerprint Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-disk-management-virtual-disk-hiccups/"><u>Rectifying Disk Management Virtual Disk Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-win-lol-initial-load-issue/"><u>Resolving Win: LOL Initial Load Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-your-workflow-dragging-tabs-in-windows-11/"><u>Simplifying Your Workflow: Dragging Tabs in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-window-resolution-on-windows-11/"><u>Tailoring Window Resolution on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-link-between-edge-and-irrelevant-taskers/"><u>The Link Between Edge and Irrelevant Taskers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-face-pixelation-tricks/"><u>The Ultimate Guide to Face Pixelation Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi 13T Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-benefits-of-windows-11-overtaking-macos/"><u>Top Benefits of Windows 11 Overtaking macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-wsl-a-guide-to-windows-linux-integration/"><u>Turn on WSL: A Guide to Windows' Linux Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-sound-experience-dolby-atmos-windows-install/"><u>Ultimate Sound Experience: Dolby Atmos Windows Install</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+</ul></div>

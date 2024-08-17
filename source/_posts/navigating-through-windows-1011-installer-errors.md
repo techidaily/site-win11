@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows 10/11 Installer Errors
-date: 2024-07-13T10:44:36.509Z
-updated: 2024-07-14T10:44:36.509Z
+date: 2024-08-15T23:50:36.134Z
+updated: 2024-08-16T23:50:36.134Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  Also, select to run the setup file with admin rights. To do that, right-click the installer file for the software you can’t install and select **Run as administrator**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 3\. Run the Program Install Troubleshooter
 
  Microsoft’s Program Install and Uninstall troubleshooter can be a useful tool for fixing many installation errors. Although the troubleshooting tool isn’t available within Settings, you can still download it from Microsoft’s site.
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 2. Click **Download troubleshooter** to save the **MicrosoftProgram\_Install\_and\_Uninstall.meta** file.
 3. Go to the folder in which your browser usually downloads and double-click **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab**.  
 ![The Program Install and Uninstall troubleshooter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-program-install-and-uninstall-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then select the troubleshooter’s **Next** button.
 5. Click **Installing** to view a list of programs.  
 ![The Installing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-option.jpg)
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 `Computer\HKEY_CLASSES_ROOT\Msi.Package\shell`
 3. Right-click **shell** in Registry Editor’s sidebar and select **New** \> **Key**.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Type **runas** inside the key’s text box.
 5. Select **runas** and double-click on its **(Default)** string.  
 ![The runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-runas-key.jpg)
@@ -86,11 +95,20 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 1. Input **everyone** in the object names box.
 2. Click the **Check Names** button.  
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-users-or-groups-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Select **OK** to exit the Users or Groups window.
 4. Click the **Full Control** checkbox inside the **Allow** column.  
 ![The Permissions for Temp window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-permissions-for-temp-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 5. Select **Apply** to set new permission settings then OK out of all windows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 6\. Repair the Apple Software Update App
 
  This potential resolution is only related if the error occurs when installing iTunes. Users of iTunes confirm they were able to fix that error by repairing the Apple Software Update program. This is how you can repair Apple Software Update:
@@ -101,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 ![The Repair option for Apple Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-apple-software-update-window.jpg)
 4. Try installing iTunes after repairing Apple Software Update.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Restart the Windows Installer Service
 
  Windows Installer is a service for handling the installation of software with MSI packages. It's a service you can try restarting to resolve the “problem with the Windows installer package” error. If it's not running, you can fix this problem by starting it back up again.
@@ -110,7 +131,13 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 1. To open Services, you will need to press **Win + R** to type in a **services.msc** Run command and press **Enter**.
 2. Right-click the Windows Installer service and click **Restart** if it’s running, or select the **Start** option if the Windows Installer service is stopped.  
 ![The Start option for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-service-context-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Re-Register the Windows Installer Service
 
  If restarting the Windows Installer service has had no effect, try re-registering the service. Re-registering a service is somewhat similar to reinstalling it, as you can't uninstall services through regular means.
@@ -122,6 +149,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 3. Type in (or copy and paste) this command and hit **Enter**:  
 `msiexec.exe /unregister`  
 ![The unregister service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-unregister-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Execute this command for re-registering Windows Installer:  
 `msiexec.exe /regserver`  
 ![The register service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-register-windows-installer-command.jpg)
@@ -134,6 +164,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
  You can disable startup services and apps via MSConfig and Task Manager, as instructed in our article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/). Restart your PC after setting up the clean boot. Then have another go at installing the affected software packages.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  If this resolution solves the issue, you can install the software you currently need and restore the standard boot configuration afterward. However, the error might reoccur in the future when you try to install more software. So, it’s better to try and identify what app or service was causing the issue and keep it disabled.
 
@@ -152,3 +185,37 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-window-capture-suite-pro-xp/"><u>[New] 2024 Approved  Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-digital-avatars-to-internet-stardom-becoming-a-vtuber/"><u>[Updated] 2024 Approved  From Digital Avatars to Internet Stardom – Becoming a Vtuber?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-innovative-insights-for-streaming-success-on-tiktoks-computer-interface/"><u>[Updated] In 2024, Innovative Insights for Streaming Success on TikTok's Computer Interface</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailoring-your-iphone-photographs-size-alteration/"><u>[Updated] Tailoring Your iPhone Photographs  Size Alteration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-understanding-legal-implications-for-sharing-video-content-online/"><u>2024 Approved  Understanding Legal Implications for Sharing Video Content Online</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11-connectivity-the-5g-challenge/"><u>Addressing Windows 11 Connectivity: The 5G Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/alert-systems-top-7-windows-processes-for-infection-scrutiny/"><u>Alert Systems: Top 7 Windows Processes for Infection Scrutiny</u></a></li>
+<li><a href="https://win11.techidaily.com/break-the-code-a-list-of-quick-access-techniques-for-credentials-in-win11/"><u>Break the Code: A List of Quick Access Techniques for Credentials in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-read-only-on-windows-folders-amidst-issues/"><u>Bypassing Read-Only on Windows Folders Amidst Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-procedure-for-windows-error-0xca00a009/"><u>Correction Procedure for Windows Error 0xCA00A009</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-eliminating-unwanted-bass-noise-in-your-speakers/"><u>Effective Solutions for Eliminating Unwanted Bass Noise in Your Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-windows-camera-app-malfunctions/"><u>Fixing Common Windows Camera App Malfunctions</u></a></li>
+<li><a href="https://win11.techidaily.com/from-sealed-boxes-to-digital-realm-unlocking-windows-11-with-a-window-7-key/"><u>From Sealed Boxes to Digital Realm: Unlocking Windows 11 With a Window 7 Key</u></a></li>
+<li><a href="https://win11.techidaily.com/gpt4all-free-chatbot-clones-at-home-for-windows/"><u>GPT4All: Free ChatBot Clones at Home for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/grasping-group-policies-in-windows-environments/"><u>Grasping Group Policies in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pc-bypassing-windows-11-lag-and-latency/"><u>Ignite Your PC: Bypassing Windows 11 Lag & Latency</u></a></li>
+<li><a href="https://win11.techidaily.com/in-place-upgrade-mastery-simplify-your-transition-to-windows-11/"><u>In-Place Upgrade Mastery: Simplify Your Transition to Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/live-webcam-capture-in-vlc-media-player/"><u>Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/master-guide-winning-strategies-for-selecting-best-windows-emulators/"><u>Master Guide: Winning Strategies for Selecting Best Windows Emulators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-stitching-gopro-content-in-extended-panorama-videos/"><u>Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/memories-in-motion-the-premier-archive-for-tweeter-gifs-for-2024/"><u>Memories in Motion  The Premier Archive for Tweeter GIFs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-non-changeable-energy-modes-in-windows-11/"><u>Navigating Non-Changeable Energy Modes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-windows-experience-the-power-of-winstall-for-app-groups/"><u>Optimizing Your Windows Experience: The Power of Winstall for App Groups</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-flawed-game-detection-feature-in-discord-windows/"><u>Repairing Flawed Game Detection Feature in Discord (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-the-core-of-windows-11s-problem-solving-tools/"><u>Resurrecting the Core of Windows 11'S Problem-Solving Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/secret-start-screen-tactics-vanish-power-buttons-from-windows-11/"><u>Secret Start Screen Tactics: Vanish Power Buttons From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-process-to-configure-pc-manager/"><u>The Complete Process to Configure PC Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-art-of-photo-transformation-in-windows/"><u>The Hidden Art of Photo Transformation in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-text-into-talk-a-windows-11-guide/"><u>Transforming Text Into Talk: A Windows 11 Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Essential Techniques: AnyDesk Troubleshooting in Windows"
-date: 2024-07-13T10:09:58.644Z
-updated: 2024-07-14T10:09:58.644Z
+date: 2024-08-16T00:24:08.568Z
+updated: 2024-08-17T00:24:08.568Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 * **AnyDesk server is down:** If you feel that the AnyDesk server is down, you cannot do anything other than wait for the developers to fix it. To ensure your guess is correct, visit the [AnyDesk Status page](https://status.anydesk.com/) and see whether its servers are operational.
 * **Time not in sync:** If the time and date on your Windows PC are incorrect, you may see various issues while browsing and accessing the internet. To fix this, you need to [sync the Windows time properly](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 2\. The Connection Was Forcibly Closed
 
  This AnyDesk error shows that something is wrong with your computer's firewall configuration. If the connection is breaking most of the time automatically, you need to check your firewall settings.
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Besides the firewall, check the [bandwidth limitations or restrictions](https://www.makeuseof.com/tag/tools-limit-bandwidth/) that could be causing the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## 3\. Blank Screen During a Remote Session
 
  When using AnyDesk, you may encounter issues where the remote screen appears blank (white) or black.
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Now that you know the root cause of the blank screen, read the below ways to fix it:
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Fix Display Settings on Remote Computer
 
  First, check the display settings in AnyDesk and ensure you've configured that correctly.
@@ -76,6 +85,9 @@ Here's how to access the display settings in AnyDesk:
 
  You can now reconnect to the remote computer and check whether the blank display issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Update an Outdated Graphics Driver
 
  Are you one of those who frequently update their Windows PC with the latest version? Great! But aside from that, keeping your graphics driver updated is equally important.
@@ -110,12 +122,18 @@ So, what's the solution?
 2. Click the**Unlock Connection Settings** button to get permission to modify settings.
 3. In the**AnyDesk Global Settings** , uncheck the box that says**Allow direct connections** .  
 ![AnyDesk Connection Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/anydesk-connection-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 4. After disabling direct connections, scroll down and click**Apply** to save the changes.
 
  Once you disable direct connections, AnyDesk will always connect through a relay (intermediary) server. One disadvantage is that it may result in slightly slower connections if your internet speed is slow.
 
  Do you still need help with AnyDesk? In that case, we recommend you seek assistance from the [AnyDesk technical support team](https://anydesk.com/en/contact/support) .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solve Your AnyDesk Problems in No Time
 
  Troubleshooting AnyDesk errors without proper knowledge can be frustrating. However, following the basic steps can help you quickly resolve many common issues.
@@ -143,3 +161,78 @@ So, what's the solution?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-sync-free-cross-platform-high-quality-recording-tools/"><u>[New] 2024 Approved  Screen Sync  Free Cross-Platform, High-Quality Recording Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mobile-and-desktop-tips-for-gotomeeting-captures-for-2024/"><u>[New] Mobile & Desktop Tips for GoToMeeting Captures for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[New] Unlock YouTube's Potential  Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asmrs-upside-exploring-its-health-impacts/"><u>[Updated] ASMR's Upside  Exploring Its Health Impacts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-gotomeeting-precision-capture-across-all-platforms-for-2024/"><u>[Updated] GoToMeeting  Precision Capture Across All Platforms for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-inside-look-free2xs-camera-recording-capabilities/"><u>[Updated] In 2024, Inside Look  Free2X's Camera Recording Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-savers-in-action-expert-tips-on-recording-your-minecraft-experience/"><u>[Updated] In 2024, Screen Savers in Action  Expert Tips on Recording Your Minecraft Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-maze-of-youtube-endorsements-with-a-famebit-perspective/"><u>[Updated] Navigating the Maze of YouTube Endorsements with a FameBit Perspective</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-piecing-together-an-epic-tiktok-conclusion/"><u>[Updated] Piecing Together an Epic TikTok Conclusion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-4-essential-methods-for-file-delivery-to-pc/"><u>2024 Approved  4 Essential Methods for File Delivery to PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advancing-photo-viewing-in-windows-11-merge-artistic-layers-and-soundtracks/"><u>2024 Approved  Advancing Photo Viewing in Windows 11  Merge Artistic Layers and Soundtracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-solo-stardom-in-the-podcast-universe/"><u>2024 Approved  Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://win11.techidaily.com/3-key-steps-for-a-quick-return-to-desktop-in-wins-1011/"><u>3 Key Steps for a Quick Return to Desktop in Wins 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-open-the-appsfolder-in-windows-11/"><u>7 Ways to Open the AppsFolder in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/achieving-geometric-brilliance-making-mc-circles-and-spheres-for-2024/"><u>Achieving Geometric Brilliance  Making MC Circles & Spheres for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-ntoskrnlexe-overload-issue/"><u>Addressing Ntoskrnl.exe Overload Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unauthorized-access-to-secure-devices-win/"><u>Addressing Unauthorized Access to Secure Devices Win</u></a></li>
+<li><a href="https://win11.techidaily.com/best-web-browsing-practices-minimizing-resources-across-platforms/"><u>Best Web Browsing Practices: Minimizing Resources Across Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/boundary-defying-tech-windows-for-apple-devices-breaks-new-ground/"><u>Boundary-Defying Tech: Windows for Apple Devices Breaks New Ground</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-from-100mbps-wired-internet-limit-in-windows/"><u>Break Free From 100Mbps Wired Internet Limit in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-activating-your-virtual-presence-with-an-oculus-questquest-2-account-creation/"><u>Comprehensive Walkthrough: Activating Your Virtual Presence with an Oculus Quest/Quest 2 Account Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-corruption-errors-fixing-file-issues-code-0x80070570-on-windows-11/"><u>Disabling Corruption Errors - Fixing File Issues Code 0X80070570 on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-compatible-hp-printer-drivers-for-seamless-printing/"><u>Download & Install Compatible HP Printer Drivers for Seamless Printing</u></a></li>
+<li><a href="https://win11.techidaily.com/edge-persistent-operation-on-win11/"><u>Edge: Persistent Operation on Win11?</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-obstacles-hindering-discord-setup-success/"><u>Eliminating Obstacles Hindering Discord Setup Success</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-system-sounds-despite-muted-status/"><u>Enable System Sounds Despite Muted Status</u></a></li>
+<li><a href="https://win11.techidaily.com/erasing-email-on-windows-sign-in-a-guide/"><u>Erasing Email on Windows Sign-In: A Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-stage-to-smartphone-elizabethan-expressions-still-used/"><u>From Stage to Smartphone: Elizabethan Expressions Still Used</u></a></li>
+<li><a href="https://win11.techidaily.com/gaining-admin-access-in-command-prompt/"><u>Gaining Admin Access in Command Prompt</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-unsupported-devices-warning-when-upgrading-windows/"><u>How to Handle Unsupported Devices Warning When Upgrading Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-persistent-launch-panel-issue-in-watch-dogs-legion/"><u>How To Overcome The Persistent Launch Panel Issue In Watch Dogs Legion</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-windows-11s-help-interaction/"><u>How to Revive Windows 11'S Help Interaction</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-autoplay-youtube-on-mobile-no-distractions/"><u>In 2024, AutoPlay YouTube on Mobile, No Distractions!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-client-reviews-the-heart-of-modern-marketing-strategies/"><u>In 2024, Client Reviews  The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-digital-delinquency-games-comparable-to-gta-v/"><u>In 2024, Digital Delinquency  Games Comparable to GTA V</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme GT Neo 5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-12-mini-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 mini Device from iCloud</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-total-gigabytes-for-an-entirety-of-daily-films/"><u>In 2024, Total Gigabytes for an Entirety of Daily Films</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-image-transfer-methods-explained/"><u>IPhone Image Transfer Methods Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-cr2-to-jpg-conversion-on-windows/"><u>Mastering the Art of CR2 to JPG Conversion on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-purging-partitions-on-your-win-os/"><u>Mastering the Art of Purging Partitions on Your Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-account-sign-in-troubleshooting/"><u>Mastering Windows 11 Account Sign-In Troubleshooting</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-reboot-file-explorer-on-win1011/"><u>Methods to Reboot File Explorer on Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-fix-kit-conquering-error-code-0x80-cookies/"><u>Microsoft Store Fix Kit: Conquering Error Code 0X80 Cookies</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-your-pcs-ram-landscape-on-windows/"><u>Navigate Your PC's RAM Landscape on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-with-linuxs-sudo-feature/"><u>Navigating Windows with Linux's Sudo Feature</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-unforgettable-mac-slideshows-with-ezvids-easy-video-editor-for-2024/"><u>New Create Unforgettable Mac Slideshows with Ezvids Easy Video Editor for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/openai-whisper-for-windows-voice-to-text-techniques-unveiled/"><u>OpenAI Whisper for Windows: Voice-to-Text Techniques Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-recovering-lost-access-to-launcher/"><u>Quick Fixes for Recovering Lost Access to Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-navigation-for-uwp-apps-with-windows-11-links/"><u>Rapid Navigation for UWP Apps with Windows 11 Links</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstalling-the-redundant-or-missing-windows-tools-and-add-ons/"><u>Reinstalling the Redundant or Missing Windows Tools & Add-Ons</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-err0r-x7e1-in-win1011/"><u>Remedying Err0r: X7E1 in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-multi-device-sticky-note-integration-on-win11/"><u>Seamless Multi-Device Sticky Note Integration on WIN11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-stuck-scrolling-in-excel-window-edition/"><u>Solutions for Stuck Scrolling in Excel, Window Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-up-against-silence-fixes-to-free-your-spacebar/"><u>Speak Up Against Silence: Fixes to Free Your Spacebar</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilize-task-manager-app-placement-techniques/"><u>Stabilize Task Manager App Placement Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/starting-out-right-budget-friendly-game-editing-software-for-beginners/"><u>Starting Out Right  Budget-Friendly Game Editing Software for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-smooth-directx-installation-on-pc/"><u>Step-by-Step Guide to Smooth DirectX Installation on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-windows-11-ui/"><u>The Essentials of Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/the-rise-of-ai-in-next-gen-windows/"><u>The Rise of AI in Next-Gen Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/type-smartly-and-fast-typingaid-secrets/"><u>Type Smartly and Fast - TypingAid Secrets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unfolding-gpt-4-integration-in-these-7-modern-tools/"><u>Unfolding GPT-4 Integration in These 7 Modern Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-assistive-center-in-five-moves/"><u>Unlock Windows' Assistive Center in Five Moves</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-zte-nubia-flip-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from ZTE Nubia Flip 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-blue-yeti-being-detected-fixing-the-recognition-hurdle/"><u>Why Isn't My Blue Yeti Being Detected? Fixing the Recognition Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-strategies-for-eradicating-microsoft-defender-footprints/"><u>Win 11 Strategies for Eradicating Microsoft Defender Footprints</u></a></li>
+<li><a href="https://win11.techidaily.com/zip-file-disguise-for-windows-11-enthusiasts/"><u>Zip File Disguise for Windows 11 Enthusiasts</u></a></li>
+</ul></div>

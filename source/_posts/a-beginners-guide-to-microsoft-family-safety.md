@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Guide to Microsoft Family Safety
-date: 2024-07-13T11:02:46.106Z
-updated: 2024-07-14T11:02:46.106Z
+date: 2024-08-15T23:31:57.866Z
+updated: 2024-08-16T23:31:57.866Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e
 
  Let's look at the features that make Microsoft Family Safety possible, one by one.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Content Filters
 
  The first feature of Microsoft's Family Safety, if not the most important one, is Content Filters. As its name suggests, Content Filter blocks inappropriate and user-specified content, thereby limiting your kid's access to websites, apps, games, etc., with the help of a customized filter.
@@ -54,6 +57,9 @@ Here's how you can set up one through Content Filters:
 
  On both the Web and the smartphone app, you will find an additional option,**Apps and games** section. As the name suggest, this will let you limit the user's access to specific apps or games.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 2\. Screen Time
 
  Overuse of smartphones, computers, and other digital devices is a key issue for children growing in this day and age. This is exactly where**Screen Time** will help you out.
@@ -68,9 +74,16 @@ Here's how you can enable Screen Time:
 4. Finally, to set the screen time, click on**Turn limits on** . You will have the option to pick up from either a**Windows 10** or**Xbox console** .
 
 ![edit time limit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-time-limit-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
@@ -131,6 +144,9 @@ Here's how you can add money to your account:
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
@@ -139,6 +155,9 @@ Here's how you can add money to your account:
  You'll end up in the**Family Notebook** section of your OneNote as soon as you do this. From there, you will be taken straight to the Introduction page of your Family Notebook, as shown on the image below.
 
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To get a full overview of Family Notebook, check out [Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
@@ -165,3 +184,51 @@ Here's how you can add money to your account:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fixing-disconnected-headphone-unit/"><u>[New] Fixing Disconnected Headphone Unit</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-audacity-on-mac-a-beginners-guide-to-recording-audio/"><u>[Updated] 2024 Approved  Audacity on Mac  A Beginner's Guide to Recording Audio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-expand-your-reach-top-tactics-to-amplify-fb-clout/"><u>[Updated] In 2024, Expand Your Reach  Top Tactics to Amplify FB Clout</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pioneering-success-innovative-youtube-strategies/"><u>[Updated] Pioneering Success  Innovative YouTube Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-popgallery-app-assessment-2024-overview/"><u>[Updated] PopGallery App Assessment 2024 Overview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-scraps-to-stunning-a-photomontage-journey/"><u>2024 Approved  From Scraps to Stunning  A Photomontage Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mechanized-sky-dwellers-classes/"><u>2024 Approved  Mechanized Sky-Dwellers' Classes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premium-web-audio-solutions-guidebook-top-7-2023/"><u>2024 Approved  Premium Web Audio Solutions Guidebook  Top 7 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-8-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 8 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-with-telnet-3-easy-steps-for-wins-users/"><u>Bridging the Gap with Telnet: 3 Easy Steps for Wins Users</u></a></li>
+<li><a href="https://win11.techidaily.com/brightening-up-life-controlling-windows-display-shine/"><u>Brightening Up Life: Controlling Windows Display Shine</u></a></li>
+<li><a href="https://win11.techidaily.com/brightening-up-get-rid-of-yellow-on-windows-screens/"><u>Brightening Up: Get Rid of Yellow on Windows Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-forlorn-add-ons-back-a-compreenas-seven-points-plan/"><u>Bring Forlorn Add-Ons Back: A Compreenas Seven Points Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/brushes-and-pixels-our-top-7-choices-for-sketching-on-win10/"><u>Brushes and Pixels: Our Top 7 Choices for Sketching on Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-win-11-usb-fastest-and-simplest-methods-for-3-ways/"><u>Building a Win 11 USB: Fastest and Simplest Methods for 3 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-google-chromes-file-transfer-blockade-on-windows/"><u>Bypass Google Chrome's File Transfer Blockade on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-power-management-avoid-hibernation-of-usb-devices/"><u>Bypass Power Management: Avoid Hibernation of USB Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-windows-auto-lock-feature/"><u>Bypass Windows Auto-Lock Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-a-blocked-warcraft-update-process/"><u>Bypassing a Blocked Warcraft Update Process</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-photocapture-failures-on-windows-11-device/"><u>Bypassing PhotoCapture Failures on Windows 11 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-shop-error-code-x800704cf/"><u>Bypassing Windows 11 Shop Error: Code X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-windows-11-registry-access-settings/"><u>Changing Windows 11 Registry Access Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/chronos-remedy-restoring-lost-windows-server-time-functionality/"><u>Chronos' Remedy: Restoring Lost Windows Server Time Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-win11s-security-rufus-techniques/"><u>Circumventing Win11's Security: Rufus Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-computers-for-a-modern-world-running-windows-11-through-to-go-and-rufus/"><u>Classic Computers for a Modern World: Running Windows 11 Through To Go and Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-access-denied-errors-fixing-outlook-issues-in-windows-os/"><u>Clearing 'Access Denied' Errors: Fixing Outlook Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-corruption-fix-your-win1011-recycle-error/"><u>Clearing up CORRUPTION! Fix Your WIN10/11 Recycle Error</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-not-written-memory-problems-on-windows/"><u>Clearing Up Not Written Memory Problems on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-the-conflicting-audio-application-problem-in-windows/"><u>Clearing Up the Conflicting Audio Application Problem in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/cmd-magic-show-unraveling-5-mesmerizing-maneuvers/"><u>CMD Magic Show: Unraveling 5 Mesmerizing Maneuvers</u></a></li>
+<li><a href="https://win11.techidaily.com/coherent-windows-icons-for-productivity-boost/"><u>Coherent Windows Icons for Productivity Boost</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-best-in-darkroom-editing-software-a-deep-dive-into-lightzone-on-multiple-operating-systems/"><u>Discover the Best in Darkroom Editing Software: A Deep Dive Into LightZone on Multiple Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-playability-of-watch-dogs-legion-strategies-to-optimize-frame-rate-and-minimize-delays/"><u>Improve Playability of Watch Dogs: Legion - Strategies to Optimize Frame Rate & Minimize Delays</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-streamlined-steps-for-preserving-vimeo-recordings/"><u>In 2024, Streamlined Steps for Preserving Vimeo Recordings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/m1-innovation-elevating-smoothness-in-every-editors-toolkit-for-2024/"><u>M1 Innovation  Elevating Smoothness in Every Editor's Toolkit for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/shotchrome-ultra-premium-chromeos-snapshooter-for-2024/"><u>ShotChrome Ultra  Premium ChromeOS Snapshooter for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-free-clip-art-licenses-for-2024/"><u>The Ultimate Guide to Free Clip Art Licenses for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-risks-top-6-ways-ai-may-fail-us/"><u>Understanding the Risks: Top 6 Ways AI May Fail Us</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-creative-potential-using-lightzones-free-darkroom-tools-across-windows-mac-and-linux/"><u>Unlock Creative Potential Using LightZone's Free Darkroom Tools Across Windows, Mac, and Linux</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-potential-angular-video-editing-on-your-android-device/"><u>Unlocking Potential  Angular Video Editing on Your Android Device</u></a></li>
+</ul></div>

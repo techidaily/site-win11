@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Disabled Microsoft Outlook Push Notifications
-date: 2024-07-13T10:47:54.496Z
-updated: 2024-07-14T10:47:54.496Z
+date: 2024-08-15T23:48:11.117Z
+updated: 2024-08-16T23:48:11.117Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,15 @@ Follow these steps to check Outlook’s notification settings:
 3. In the**Outlook Options** window, select**Mail** from the left sidebar.
 4. Under the**Message arrival** section, enable desktop and sound alerts by checking the corresponding boxes. Then, hit**OK** to save changes.  
 ![Mail tab in Outlook Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Outlook-In-App-Notification-Settings-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, you should start receiving Outlook notifications on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
  Windows allows you to [manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
@@ -56,6 +62,9 @@ Follow these steps to check Outlook’s notification settings:
 
  Optionally, you can also enable sound alerts for Outlook notifications from the same menu.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Turn Off Do Not Disturb
 
  Do Not Disturb is a useful feature in Windows that allows you to work in a distraction-free environment. When enabled, this feature silences notifications for all apps unless specified otherwise. To avoid any confusion, it's best to disable Do Not Disturb in Windows.
@@ -64,6 +73,10 @@ Follow these steps to check Outlook’s notification settings:
 2. Navigate to**System > Notifications** .
 3. Turn off the toggle next to**Do not distrub** .  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
 
@@ -87,6 +100,9 @@ Here's how you can access Outlook's rules:
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Clear the Outlook Cache
 
  Outlook, like most apps, saves cache files on your computer to improve performance and reduce loading times. However, once this cache gets old or corrupted, it hurts more than it helps. Thankfully, you can get rid of the Outlook cache data fairly easily.
@@ -100,6 +116,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  Restart Outlook after this and check if the notifications are working now.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Update the Outlook App
 
  Using an outdated version of the Outlook app can result in a variety of problems, including the one discussed here. You can try updating the Outlook app to the most recent version to see if that helps. Here's how you can go about it.
@@ -107,6 +126,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 1. Open Outlook on your PC and head over to**File > Office Account** .
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
 
@@ -120,6 +142,14 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select the problematic account and click the**Repair** option.
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Repair the Microsoft Office Suite
 
@@ -133,6 +163,9 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Never Miss an Outlook Notification Again
 
  Being a Microsoft product, you’d expect Outlook to work flawlessly on Windows. However, that may not always be the case. Hopefully, going through the above fixes has helped you fix Outlook’s notification issue on Windows and things are back to normal.
@@ -158,3 +191,62 @@ Follow these steps to delete Outlook's cache data on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>[New] 2024 Approved  Skype Capture Manual  Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-tools-for-efficient-video-capture-on-windows-11/"><u>[New] 2024 Approved  Top Tools for Efficient Video Capture on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-avatar-architecture-your-uncomplicated-guide-to-virtual-existence-for-2024/"><u>[New] Avatar Architecture  Your Uncomplicated Guide to Virtual Existence for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-lol-gaming-on-air-top-3-recording-methods-for-2024/"><u>[New] LOL Gaming On Air  Top 3 Recording Methods for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-aerial-camera-crew-the-best-10-drones/"><u>[New] Premium Aerial Camera Crew  The Best 10 Drones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-mobile-experience-with-best-gb-emulators/"><u>[New] Premium Mobile Experience with Best GB Emulators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-your-watching-experience-adding-captions-to-windows-media-player-for-2024/"><u>[New] Transform Your Watching Experience  Adding Captions to Windows Media Player for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-black-screen-on-startup-in-monster-hunter-world/"><u>[Solved] Black Screen on Startup in Monster Hunter: World</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhancing-campaign-performance-with-targeted-hash-tags-for-fb-ads/"><u>[Updated] 2024 Approved  Enhancing Campaign Performance with Targeted Hash Tags for FB Ads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-methods-for-streamlining-console-playback-pc-wise/"><u>[Updated] 2024 Approved  Expert Methods for Streamlining Console Playback PC-Wise</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expert-takes-best-camcorders-for-video/"><u>[Updated] 2024 Approved  Expert Takes  Best Camcorders for Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-global-leaders-in-digital-education-beyond-udemy/"><u>[Updated] 2024 Approved  Global Leaders in Digital Education  Beyond Udemy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-playlist-wizard-youtube-music-edition/"><u>[Updated] 2024 Approved  The Playlist Wizard  YouTube Music Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-high-speed-video-snapshots-avoid-technical-hurdles/"><u>2024 Approved  High-Speed Video Snapshots - Avoid Technical Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/5-must-have-desktop-writing-assistants-windows/"><u>5 Must-Have Desktop Writing Assistants (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/5-peak-auto-clickers-hotkeys-plus-high-performance/"><u>5 Peak Auto Clickers: Hotkeys + High Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-tecno-phantom-v-flip-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Tecno Phantom V Flip to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/9-essential-steps-for-windows-hello-fingerprint-woes/"><u>9 Essential Steps for Windows Hello Fingerprint Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-reviving-stuck-windows-itunes/"><u>A Comprehensible Guide to Reviving Stuck Windows iTunes</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-keygen-malware-and-its-destructive-path-in-windows/"><u>A Deep Dive Into Keygen Malware & Its Destructive Path in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/a-twelve-days-of-windows-11-christmas-guide/"><u>A Twelve Days of Windows 11 Christmas Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-tasks-high-speed-windows-autoclickers/"><u>Accelerate Tasks: High-Speed Windows Autoclickers</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-gaming-setup-with-fast-valorant-loading/"><u>Accelerate Your Gaming Setup with Fast Valorant Loading</u></a></li>
+<li><a href="https://win11.techidaily.com/accurate-printouts-from-powerpoint-in-windows-9-top-fixes-unveiled/"><u>Accurate Printouts From PowerPoint in Windows: 9 Top Fixes Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-windows-baseline-energy-profile/"><u>Achieving Windows' Baseline Energy Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-animated-backgrounds-to-windows-11-pcs-effortlessly/"><u>Adding Animated Backgrounds to Windows 11 PCs Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-verified-app-alerts-for-windows-users/"><u>Addressing Non-Verified App Alerts for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-essential-items-not-met-error-in-windows-11/"><u>Addressing the 'Essential Items Not Met' Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-11-shutdown-time-for-ongoing-tasks/"><u>Adjusting Windows 11 Shutdown Time for Ongoing Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-users-activate-elevated-cmd-status/"><u>Advanced Users: Activate Elevated CMD Status</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-window-settings-unseen-toolbar-configurations/"><u>Advanced Window Settings: Unseen Toolbar Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/alternative-approaches-for-integrating-additional-av-software/"><u>Alternative Approaches for Integrating Additional AV Software</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-clutter-pro-tips-to-adhere-sticky-notes-on-w11w10/"><u>Avoid Clutter: Pro Tips to Adhere Sticky Notes on W11/W10</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-common-setbacks-when-launching-csgo-on-w11/"><u>Avoiding Common Setbacks When Launching CS:GO on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-failure-starting-services-on-windows-efficiently/"><u>Avoiding Failure: Starting Services on Windows Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-old-wallpaper-memories-triple-approach/"><u>Banish Old Wallpaper Memories: Triple Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-archive-game-creating-win11-sefx-packages-now/"><u>Boost Your Archive Game: Creating Win11 SEFx Packages Now</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-audio-5-ways-for-above-100-output-on-pcs/"><u>Boosting Audio: 5 Ways for Above-100%% Output on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-your-excel-pace-on-a-windows-system/"><u>Boosting Your Excel Pace on a Windows System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-initiation-hiccup-fixed-now/"><u>Direct3D Initiation Hiccup, Fixed Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-way-to-show-images-in-windows-11/"><u>Easy Way to Show Images in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719366255245-functional-failures-cure-win10-key-issues-now/"><u>Functional Failures? Cure Win10 Key Issues Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-budget-video-players-and-streaming-tools-reviewed-pc-and-mobile/"><u>In 2024, Best Budget Video Players and Streaming Tools Reviewed (PC & Mobile)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347188756-overcoming-chrome-hurdles-in-w11-effective-steps-herein/"><u>Overcoming Chrome Hurdles in W11 – Effective Steps Herein.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-what-to-do-when-you-encounter-a-ssleay32dll-error/"><u>Overcoming the Challenge: What to Do When You Encounter a Ssleay32.dll Error</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347815778-resolve-dormant-shift-key-issue-on-windows/"><u>Resolve Dormant Shift Key Issue on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/samsung-gear-vr-fun-the-top-5-list/"><u>Samsung Gear VR Fun - The Top 5 List</u></a></li>
+<li><a href="https://win11.techidaily.com/1719364636660-self-hosted-windows-gptclone-via-gpt4all/"><u>Self-Hosted Windows GPTClone via GPT4All</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-c33-2023-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme C33 2023 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-considerations-for-consumers-preparing-to-upgrade-their-printer-technology/"><u>Top Considerations for Consumers Preparing to Upgrade Their Printer Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-data-workflow-6-uses-of-chatgpt-in-analytics/"><u>Transform Your Data Workflow: 6 Uses of ChatGPT in Analytics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia 105 Classic | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Adapting to New Horizons: Migrating Apps for a Windows 11 Laptop"
-date: 2024-07-13T11:20:24.880Z
-updated: 2024-07-14T11:20:24.880Z
+date: 2024-08-15T23:15:46.987Z
+updated: 2024-08-16T23:15:46.987Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
 ![Install Old Apps Using Microsoft Account 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 2\. Using a Winget JSON File
 
  The first method of using Microsoft Account has its limitations. It only includes Windows apps and settings but leaves many other third-party apps that you installed from the Winget repository or from the web. So you can use Winget to export the app list into a JSON file and then import it to your new Windows 11 PC. You must execute this method after Windows 11 brings back all the settings and Microsoft apps, and you boot to the desktop.
@@ -56,14 +59,23 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 `winget import -i C:\apps.json --accept-source-agreements --accept-package-agreements`
 4. Replace the folder location and name with the storage location and name of the winget export file on your system.  
 ![Import Apps Using Winget in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/import-apps-using-winget-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 5. Patiently wait while winget downloads and installs all the packages in the JSON file one by one. Then, close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What About Any Left Out Apps?
 
  Even after using both methods, some apps will still be left out. It is because Microsoft Account sign-in only brings back Windows settings and Microsoft Store apps. The winget export file can restore only the apps listed in its official repository.
 
  As such, you still need to download the programs that aren’t included in both of these methods. But it will be a very short list compared to the effort you would have to put in if you just performed a normal installation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Save Time When Setting Up Windows 11
 
  Make sure to enable files, apps, and preferences backup on your PC and create a winget export file beforehand. After you have both these backups in place, you can begin reinstalling Windows 11 on a different PC or reinstalling on the same PC.
@@ -79,3 +91,53 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-board-interaction-during-remote-work-sessions-across-multiple-devices/"><u>[New] 2024 Approved  Mastering Board Interaction During Remote Work Sessions Across Multiple Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-taking-igtv-viewership-to-new-peaks-5-innovative-approaches/"><u>[Updated] 2024 Approved  Taking IGTV Viewership to New Peaks  5 Innovative Approaches</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-lightning-labs-loading-slides-in-ppt-for-2024/"><u>[Updated] Lightning Labs  Loading Slides in PPT for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-audio-amplifiers-windows-mac-android-and-ios/"><u>[Updated] Top 10 Audio Amplifiers  Windows, Mac, Android & iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-undo-livestream-progress-with-twitch-tricks/"><u>2024 Approved  Undo Livestream Progress with Twitch Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-back-into-your-computers-print-command-wwinplusp/"><u>Breathe Life Back Into Your Computer's Print Command (WWin+P).</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-new-life-into-amd-graphics-on-windows-11-with-updated-drivers/"><u>Breathe New Life Into AMD Graphics on Windows 11 with Updated Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-technology-gaps-windows-11-legacy-computers-to-go-and-rufus-guide/"><u>Bridging Technology Gaps: Windows 11, Legacy Computers, To Go & Rufus Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-elevating-your-windows-experience-by-reclaiming-offscreen-panes/"><u>Bridging the Gap: Elevating Your Windows Experience by Reclaiming Offscreen Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-playnite-plus-virtual-game-archives/"><u>Bridging the Gap: Playnite + Virtual Game Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-unifying-your-pcs-with-files-through-aoemi/"><u>Bridging the Gap: Unifying Your PCs With Files Through AOEMi</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-two-email-realms-add-gmail-to-outlook-windows-edition/"><u>Bridging Two Email Realms: Add Gmail to Outlook, Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-blank-screen-6-effective-recovery-tactics-in-windows/"><u>Bring Back the Blank Screen: 6 Effective Recovery Tactics in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-better-interface-new-menu-additions-for-win-11/"><u>Building a Better Interface: New Menu Additions for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-lifelayer-trashbin-on-the-windows-1011-environment/"><u>Building a Lifelayer Trashbin on the Windows 10/11 Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-directory-not-empty-warnings-solutions-for-error-x80070091/"><u>Bypassing 'Directory Not Empty' Warnings: Solutions for Error X80070091</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-elevation-requirement-hurdle-on-winos/"><u>Bypassing Elevation Requirement Hurdle on WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-fake-virus-detection-on-windows-chrome-edition/"><u>Bypassing Fake Virus Detection on Windows Chrome Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-insufficient-privileges-for-app-updates-on-windows-oses/"><u>Bypassing Insufficient Privileges for App Updates on Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-ram-limitations-on-your-windows-computer/"><u>Bypassing Ram Limitations on Your Windows Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-restricted-windows-11-themes-with-skilled-registry-editing/"><u>Bypassing Restricted Windows 11 Themes with Skilled Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-windows-store-mishap-with-code-x80072f30-fix/"><u>Bypassing the Windows Store Mishap with Code X80072F30 Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-security-warning-glitches/"><u>Bypassing Windows 11 Security Warning Glitches</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-windows-from-activating-spotify-autoplay/"><u>Cease Windows From Activating Spotify Autoplay</u></a></li>
+<li><a href="https://win11.techidaily.com/champion-windows-options-for-true-nintendo-switch-experience/"><u>Champion Windows Options for True Nintendo Switch Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/change-power-saving-settings-adjust-the-screen-brightness-on-battery-saver-by-tweaking-the-power-plans-in-system-settings/"><u>Change Power Saving Settings: Adjust the Screen Brightness on Battery Saver by Tweaking the Power Plans in 'System Settings'.</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-file-dates-in-windows-a-practical-overview/"><u>Changing File Dates in Windows: A Practical Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-a-course-to-locate-windows-app-habitats/"><u>Charting a Course to Locate Windows' App Habitats</u></a></li>
+<li><a href="https://win11.techidaily.com/chatgpt-lite-free-self-hosted-windows-edition-with-gpt4all/"><u>ChatGPT Lite: Free Self-Hosted Windows Edition with GPT4All.</u></a></li>
+<li><a href="https://win11.techidaily.com/chrono-correction-guide-your-chrome-and-pc-sync/"><u>Chrono-Correction Guide: Your Chrome & PC Sync</u></a></li>
+<li><a href="https://win11.techidaily.com/circumnavigating-permission-fail-in-installer-errors/"><u>Circumnavigating Permission Fail in Installer Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/cleanse-your-pc-spotting-and-removing-unused-windows-folders/"><u>Cleanse Your PC: Spotting & Removing Unused Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-installation-package-could-not-be-opens-errors-in-w10w11/"><u>Clearing Up 'Installation Package Could Not Be Opens' Errors in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-access-issues-top-5-fixes-for-access-denied-on-windows-11/"><u>Clearing Up Access Issues: Top 5 Fixes for Access Denied on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-disk-management-missteps-and-mistakes/"><u>Clearing Up Disk Management Missteps and Mistakes</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-missing-file-alert-in-win-11/"><u>Clearing Up Missing File Alert in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-win-path-unavailability-issue/"><u>Clearing Up WIN Path Unavailability Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-way-for-startup-icons-visibility/"><u>Clearing Way for Startup Icons' Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/clipchamp-win11-install-issues-step-by-step-remedies/"><u>ClipChamp Win11 Install Issues: Step-by-Step Remedies</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-plan-against-dual-programming-issues/"><u>Combat Plan Against Dual Programming Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721994307953-discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/evaluating-visual-dynamics-the-power-of-luminances-hdr-for-2024/"><u>Evaluating Visual Dynamics  The Power of Luminance's HDR for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/youtube-endings-that-stand-out-ranked-for-2024/"><u>Free YouTube Endings That Stand Out - Ranked for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-nokia-105-classic-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Nokia 105 Classic has been deleted.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 12 mini</u></a></li>
+</ul></div>

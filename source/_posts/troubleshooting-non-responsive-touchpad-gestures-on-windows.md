@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Responsive Touchpad Gestures on Windows
-date: 2024-07-13T10:27:20.809Z
-updated: 2024-07-14T10:27:20.809Z
+date: 2024-08-16T00:08:25.268Z
+updated: 2024-08-17T00:08:25.268Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  For this, press **Win + X** on your keyboard. Then press **U** and select **Restart**. This closes all open programs and restarts your device. Once it starts up, check if your touchpad gestures work again.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Enable Touchpad Gestures
 
  If your touchpad gestures are disabled, you can't execute multi-finger commands. To enable gestures, access your touchpad settings and adjust accordingly. Here's how to do it.
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 2. Once it opens, click **Bluetooth & devices** in the left sidebar.
 3. Scroll down in the right pane and click on the **Touchpad** section.  
 ![Bluetooth & devices in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bluetooth-devices-in-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Under **Gestures & interaction**, you'll see several touchpad gesture options.
 5. Check the boxes for each gesture you want to activate.
 6. To configure three-finger or four-finger gestures, click **Advanced gestures** under Related settings.  
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  Once you configure the settings, your touchpad is ready for three-finger and four-finger commands. Now close the Settings window and test the gestures.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Update Touchpad Drivers
 
  Outdated or corrupt touchpad drivers also affect gesture recognition. So, if you’re still having issues, try updating your touchpad drivers.
@@ -61,8 +70,14 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 2. Type **devmgmt.msc** in the Run search box and press Enter. This opens the Device Manager window.
 3. Scroll down and expand **Mice and other pointing devices**.  
 ![Update Touch driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-touch-driver.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 4. Right-click on your touchpad device and select **Update driver**.  
 ![Search automatically for drivers for Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-automatically-for-drivers-for-mouse.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 5. On the next page, choose **Search automatically for drivers**.
 
  This allows Windows to find and install the latest available drivers for your touchpad. If this doesn't work, search for the touchpad manufacturer's drivers online and install them that way.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 2. Double-click on **Mice and other pointing devices** to expand it.
 3. Right-click on the touchpad device and select **Uninstall device**.  
 ![Uninstall Mice and other pointing devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-mice-and-other-pointing-devices.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 4. Click **Uninstall** when prompted.
 
  Now wait for the process to finish. Once it does, restart your computer. Windows will automatically reinstall new touchpad drivers for your device at startup.
@@ -91,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 2. Type **msdt.exe -id DeviceDiagnostic** in the search box and hit Enter. This opens the Hardware and Devices troubleshooter window.
 3. Click on **Advanced** and check the box for **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 
  Now click **Next** and let the troubleshooter find and fix any hardware-related problems. Once it completes, restart your computer and try using the touchpad again.
 
@@ -120,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 
  Once the settings are reset, restart your computer and see if your touchpad gestures have become responsive.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Get Into Your Touchpad Gestures Again
 
  Though touchpad gestures make navigating Windows easier, sometimes glitches happen. If you’re having trouble with touchpad gestures on your Windows computer, try the solutions mentioned above. To avoid such problems in the future, keep your Windows and device drivers up to date. Make sure to install genuine software from secure sources.
@@ -133,3 +157,41 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-the-secrets-to-iphone-stellar-images/"><u>[New] In 2024, Unlocking the Secrets to iPhone Stellar Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity/"><u>[New] The Complete Blueprint for Screen Capture Excellence with Adobe Captivity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition/"><u>[New] Universal Guide to Capturing Cinema  PC, Mac & Mobile Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hands-of-honour-versus-followers-faith/"><u>[Updated] Hands of Honour Versus Followers’ Faith</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revamping-online-speech-chromebooks-top-5-voice-alteration-tools-revealed/"><u>[Updated] Revamping Online Speech  Chromebook's Top 5 Voice Alteration Tools Revealed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/6-strong-reasons-to-invest-in-youtubes-premium-service/"><u>6 Strong Reasons to Invest in YouTube's Premium Service</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-add-a-merry-flair-to-your-windows-11/"><u>7 Ways to Add a Merry Flair to Your Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/9-updated-w11-key-enhancements-unveiled-by-recent-patch/"><u>9 Updated W11: Key Enhancements Unveiled by Recent Patch</u></a></li>
+<li><a href="https://win11.techidaily.com/a-fresh-approach-to-managing-settings-in-win11-ui/"><u>A Fresh Approach to Managing Settings in Win11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-immaculate-window-display-on-w11/"><u>A Guide to Immaculate Window Display on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-approach-to-solving-directdraw-mistakes/"><u>A Step-by-Step Approach to Solving DirectDraw Mistakes</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-workflow-fine-tuning-mouse-clicks/"><u>Accelerate Your Workflow: Fine-Tuning Mouse Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-occupied-file-problems-in-windows-11/"><u>Addressing 'Occupied' File Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-audacitys-unexpected-device-access-in-winos/"><u>Addressing Audacity's Unexpected Device Access in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-failure-glitches-a-guide-for-fixing-windows-office-issues/"><u>Addressing Failure Glitches: A Guide for Fixing Windows Office Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-spontaneous-store-openings-on-pc/"><u>Addressing Spontaneous Store Openings on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/auras-visionary-digital-frames-reviewing-the-future/"><u>Aura's Visionary Digital Frames - Reviewing the Future</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-extraction-fails-addressing-error-1152-in-windows/"><u>Avoiding Extraction Fails: Addressing Error 1152 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/batch-automation-for-file-repositioning-in-win-11/"><u>Batch Automation for File Repositioning in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719343067302-become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-devices-performance-with-quick-android-apk-installation-in-windows-11/"><u>Boost Your Device's Performance with Quick Android APK Installation in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-pc-wins-best-performance-fixes-ranked/"><u>Boost Your PC: Win's Best Performance Fixes Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-memory-usage-in-windows-without-complications/"><u>Boosting Memory Usage in Windows Without Complications</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-real-time-performance-on-windows-11-task-monitor/"><u>Boosting Real-Time Performance on Windows 11 Task Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-valorant-speed-windows-performance-tips/"><u>Boosting Valorant Speed: Windows Performance Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>Decoding YouTube Income  How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/holy-stones-toy-racer-the-ultimate-family-friendly-review-for-cartoon-race-cars/"><u>Holy Stone's Toy Racer: The Ultimate Family-Friendly Review for Cartoon Race Cars</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-a-path-to-profit-calculating-video-view-requirements/"><u>In 2024, Charting a Path to Profit  Calculating Video View Requirements</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/integrating-seamlessly-into-tiktok-lives-a-blueprint-for-2024/"><u>Integrating Seamlessly Into TikTok Lives  A Blueprint for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-video-editing-apps-with-soundtracks-for-mobile-devices/"><u>New 2024 Approved Top Video Editing Apps with Soundtracks for Mobile Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/revolutionary-videography-toolset-for-vimeo-users-for-2024/"><u>Revolutionary Videography Toolset for Vimeo Users for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-setup-instructions-for-free-new-corsair-gaming-mouse-firmware/"><u>Ultimate Setup Instructions for [FREE] New Corsair Gaming Mouse Firmware</u></a></li>
+</ul></div>

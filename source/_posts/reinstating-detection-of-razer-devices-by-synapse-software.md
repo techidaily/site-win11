@@ -1,7 +1,7 @@
 ---
 title: Reinstating Detection of Razer Devices by Synapse Software
-date: 2024-07-13T11:06:11.395Z
-updated: 2024-07-14T11:06:11.395Z
+date: 2024-08-15T23:29:41.209Z
+updated: 2024-08-16T23:29:41.209Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hardware-troubleshooter-command.jpg)
 6. Click**Next** in the Hardware and Devices troubleshooter.  
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hardware-and-devices-troubleshooter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 7. Select**Apply this fix** for resolutions the troubleshooter suggests.
 
 ## 2\. Plug the Razer Device into an Alternative USB Port
@@ -48,7 +51,13 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
  It’s also recommended to select a**Remove device** option in Settings before plugging your device into another port. To do that, press the**Windows** logo +**I** key, select**Bluetooth and devices** , and click**View more** **devices** . Then click the three-dot button for your Razer hardware and select**Remove device** . In Windows 10’s Settings app, you can select a Razer peripheral on the**Bluetooth & other devices** tab and press**Remove device** .
 
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-device-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 3\. Select Synapse’s Repair Option
 
  A lot of users have also said they’ve been able to fix Synapse not detecting devices by selecting a**Repair** option for that software. Synapse has a**Repair** option you can select on a Razer Gaming Software window. This is how you can select that option in Windows 11/10:
@@ -62,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 5. Sign back into Razer Synapse after selecting**Repair** .
 6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Reinstall Razer Synapse
 
  Corrupted or missing Synapse modules can cause the issue of Synapse not detecting Razer devices. So, thoroughly uninstalling Synapse by erasing leftover data and reinstalling the software will often resolve that issue. Reinstall Razer Synapse as follows:
@@ -75,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 7. Input this folder directory in Run and click**OK** :  
 `C:\Program Files (x86)\Razer`  
 ![The Program Files > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-directory.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Press**Ctrl** +**A** to select any remaining files in the Razer folder.
 9. Press the**Del** key to erase the selected files.
 
@@ -91,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 ![The Razer software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-installer.jpg)
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
 
  Another fix confirmed to work for this Synapse issue is to reinstall all Razer and HID-compliant mouse and keyboard devices. Applying that potential resolution can resolve device driver conflicts. You can reinstall HID mouse and keyboard drivers as follows:
@@ -106,14 +124,24 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
 8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Disable Antivirus Utilities
 
  Temporarily antivirus apps on your PC to ensure they aren’t blocking Synapse in any way. You can disable Windows Security’s real-time protection as outlined in our guide for [disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) . If there’s a third-party antivirus tool on your PC, turn off its shield via its system tray icon’s context menu.
 
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the [exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Configure Your Razer Devices in Synapse Again on Windows
 
  Those potential solutions will most likely resolve Synapse not detecting connected devices. Then you can reconfigure your Razer mouse, keyboard, or any other supported hardware with that software. However, any users who still need more troubleshooting guidance for this issue can submit a ticket to Razer’s support service by clicking the**Contact Support** button on this [Synapse 3 page](https://mysupport.razer.com/app/answers/detail/a%5Fid/3783/~/razer-synapse-3-support) .
@@ -136,3 +164,46 @@ thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-sparkle-and-shine-tips-to-preserve-your-snapstreak-for-2024/"><u>[New] Sparkle and Shine  Tips to Preserve Your Snapstreak for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zoom-meetings-for-beginners-a-comprehensive-introduction-guide-for-2024/"><u>[New] Zoom Meetings for Beginners  A Comprehensive Introduction Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-how-to-find-videos-on-facebook/"><u>[Updated] 2024 Approved  2023 | How to Find Videos on Facebook?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ideal-dialogue-architect-forum/"><u>[Updated] 2024 Approved  Ideal Dialogue Architect Forum</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-connect-movie-files-in-youtv-catalog/"><u>[Updated] In 2024, Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-weaving-a-memorable-tiktok-outro-narrative-for-2024/"><u>[Updated] Weaving A Memorable TikTok Outro Narrative for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-hub-free-images-galore-across-the-web/"><u>2024 Approved  Exclusive Hub  Free Images Galore Across the Web</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximizing-impact-on-ig-understanding-ideal-posting-times/"><u>2024 Approved  Maximizing Impact on IG  Understanding Ideal Posting Times</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-gt-neo-5-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme GT Neo 5? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/4-key-approaches-to-activate-a-dormant-windows-guard/"><u>4 Key Approaches to Activate a Dormant Windows Guard</u></a></li>
+<li><a href="https://win11.techidaily.com/analyzing-windows-n-options-for-home-users/"><u>Analyzing Windows N Options for Home Users</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-unwanted-windows-spotify-auto-play/"><u>Avoid Unwanted Windows Spotify Auto-Play</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-team-productivity-with-smaller-footprint/"><u>Boosting Team Productivity with Smaller Footprint</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-extract-zip-files-in-windows-11-heres-how-to-fix-it/"><u>Can’t Extract ZIP Files in Windows 11? Here’s How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-stranded-status-error-on-xbox-app-for-pcs/"><u>Eliminating Stranded Status Error on Xbox App for PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhance-teamwork-and-efficiency-8-must-have-task-apps-for-2024/"><u>Enhance Teamwork & Efficiency  8 Must-Have Task Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-uninterrupted-youtube-streaming-on-chrome/"><u>Ensuring Uninterrupted YouTube Streaming on Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-issues-with-winservicesexe-on-windows/"><u>Fixing Common Issues with Winservices.exe on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719337024529-get-chrome-back-in-windows-11-quick-recovery-methods/"><u>Get Chrome Back in Windows 11 – Quick Recovery Methods.</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-windows-media-failures/"><u>How to Correct Windows Media Failures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-open-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Open via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cheapest-and-most-reliable-cloud-options/"><u>In 2024, Cheapest & Most Reliable Cloud Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-six-simple-ways-to-ease-vr-headset-nausea/"><u>In 2024, Six Simple Ways to Ease VR Headset Nausea</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>Instagram Storytelling Mastery  Crafting a Dynamic Marketing Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-tiworkerexe-cpu-consumption-windows-wise/"><u>Lowering TiWorker.exe CPU Consumption Windows-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-vintage-pc-gaming-using-dosbox-x/"><u>Mastering Vintage PC Gaming: Using DOSBox-X</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-roadblocks-in-windows-app-functionality/"><u>Overcoming Common Roadblocks in Windows App Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-remedying-code-error-0x80072f8f/"><u>Preventing and Remedying Code Error 0X80072f8f</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-reactivating-ms-store-apps-in-windows-11/"><u>Regaining Access: Reactivating MS Store Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/set-windows-clock-without-automatic-regional-switching/"><u>Set Windows Clock Without Automatic Regional Switching</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-fixing-unrecoverable-software-failures/"><u>Solutions for Fixing Unrecoverable Software Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/synchronize-subtitles-navigating-textual-glitches-with-prime-and-windows-11/"><u>Synchronize Subtitles: Navigating Textual Glitches with Prime & Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-microsoft-outlook-errors-on-desktops/"><u>Tackling Microsoft Outlook Errors on Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-9-reasons-to-favor-pc-computing-over-macos/"><u>The Top 9 Reasons to Favor PC Computing Over MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-utils-for-efficient-gpu-performance-testing/"><u>Top 6 Windows Utils for Efficient GPU Performance Testing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-screen-recording-apps-without-time-restrictions-for-2024/"><u>Top Screen Recording Apps Without Time Restrictions for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-zero-cost-digital-picture-upscaler/"><u>Top-Tier Zero-Cost Digital Picture Upscaler</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-successful-overwatch-launches/"><u>Troubleshooting Steps for Successful Overwatch Launches</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicated-linux-use-without-wsl/"><u>Uncomplicated Linux Use Without WSL</u></a></li>
+</ul></div>

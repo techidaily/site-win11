@@ -1,7 +1,7 @@
 ---
 title: Determining CPU Version on Windows – Here Are 8 Ways
-date: 2024-07-13T11:10:03.266Z
-updated: 2024-07-14T11:10:03.266Z
+date: 2024-08-15T23:25:49.023Z
+updated: 2024-08-16T23:25:49.023Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Here you will find your processor name and Intel processor generation number. You can also check additional specifications like RAM and OS version here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. How to Check Your Intel's Processor Generation Using Device Manager
 
  Another way to check your Intel processor generation is through Device Manager. To do this, right-click on **Start** and select **Device Manager** from the options list. You will find a list of different devices and hardware in the device manager window. Expand the **Processors** section to view your Intel processor name and generation.
@@ -55,13 +58,22 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  To do this, click on **This PC** from the left side panel, then select **Properties**.
 
 ![Check Your Intel Processor Generation Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-your-intel-processor-generation-using-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
  You'll find the Intel processor generation in the **Device specifications** section.
 
 ![Check Your Intel Processor Generation Using System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-your-intel-processor-generation-using-system-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This screen also shows Windows Edition, OS build, System type, and other details.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. How to Check Your Intel's Processor Generation Using Task Manager
 
  Task Manager is a native Windows tool that shows what programs and services are running on your computer. To open it, right-click on an empty space on your taskbar and select **Task Manager** from the pop-up menu. Alternatively, press the **Ctrl + Shift + Esc** keys to open it directly.
@@ -81,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  In the DirectX Diagnostic Tool window, click on the **System** tab. Look for the Processor line in the System Information section, you will find the name and generation of your processor.
 
 ![Check Your Intel Processor Generation Using DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-your-intel-processor-generation-using-directx-diagnostic-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The snapshot above shows that my system has a 12th-generation Intel Core i5-12500H processor.
 
@@ -91,9 +106,15 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  If you're tech-savvy, you can also use Command Prompt to check your Intel processor generation. To do this, type **CMD** in the Windows search bar and select the Command Prompt app from the search results. If Command Prompt is new to you, here's a [quick tutorial on command line use](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/).
 
 ![Check Your Intel Processor Generation Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-your-intel-processor-generation-using-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Command Prompt window, type **wmic cpu get name**, and hit **Enter**. You will see your processor name along with its Intel processor generation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 8\. How to Check Your Intel's Processor Generation Using Windows PowerShell
 
  PowerShell is similar to Command Prompt but has additional features and functionality. So if you want a more advanced system report that includes your Intel processor generation, using PowerShell is the best option.
@@ -116,6 +137,9 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  These are some of the ways to check your Intel processor generation. Now you can use these tips before buying a new CPU or upgrading an old one to check Intel processor generation.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get to Know Your Intel Processor's Generation
 
  Hopefully, these methods helped you verify your Intel processor generation. Now you know what version your computer runs. If it's outdated, upgrading it can improve performance and stability. Just ensure your motherboard supports the processor.
@@ -131,3 +155,75 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-clipmaster-software/"><u>[New] 2024 Approved  ClipMaster Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-formula-field-report-game-reviews/"><u>[New] FORMULA FIELD REPORT  Game Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-master-the-mind-discovering-elite-game-rooms/"><u>[New] In 2024, Master the Mind  Discovering Elite Game Rooms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-the-process-vimeo-to-mp3-conversion-for-2024/"><u>[New] Streamlining the Process  Vimeo to MP3 Conversion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-webcam-tech-unveiled-best-recording-practices/"><u>[Updated] 2024 Approved  WebCam Tech Unveiled  Best Recording Practices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-a-combined-video-narrative-on-iphone-for-2024/"><u>[Updated] Crafting a Combined Video Narrative on iPhone for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app-for-2024/"><u>[Updated] From Novice to Pro  The Ultimate Guide to Gaming with KineMaster App for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-ways-to-boost-your-snapchat-engagement/"><u>[Updated] In 2024, Innovative Ways to Boost Your Snapchat Engagement</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-smart-snapchat-gifting-step-by-step-for-success/"><u>[Updated] In 2024, Smart Snapchat Gifting  Step-by-Step for Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essence-of-unaltered-audio-ffmpegs-precision/"><u>[Updated] The Essence of Unaltered Audio  FFmpeg’s Precision</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-6-youtube-outros-made-easy-and-free-guide/"><u>[Updated] Top 6 YouTube Outros Made Easy & FREE (Guide)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-action-filming-simplified-your-shooting-essentials-guide/"><u>2024 Approved  Action Filming Simplified – Your Shooting Essentials Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>2024 Approved  How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>2024 Approved  Styling Your Content  A Compreran Guide to Insta Photo Watermarks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-11-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 11 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-fix-windows-11-when-you-cant-rename-folders/"><u>8 Ways to Fix Windows 11 When You Can’t Rename Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-breakdown-of-windows-startup-setup-options/"><u>A Step-by-Step Breakdown of Windows Startup Setup Options</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-windows-11s-limited-editions-feature-impact/"><u>Assessing Windows 11’S Limited Editions Feature Impact</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-and-verdict-on-the-alcatel-joy-tab-2s-value-packed-budget-lte-device/"><u>Comprehensive Guide & Verdict on the Alcatel Joy Tab 2'S Value-Packed Budget LTE Device</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-dual-logins-eliminating-mixed-account-errors/"><u>Conquering Dual Logins: Eliminating Mixed Account Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/continuous-rotation-vs-3d-image-construction/"><u>Continuous Rotation vs 3D Image Construction</u></a></li>
+<li><a href="https://win11.techidaily.com/decorate-your-screen-space-saving-spotlight-images-as-walls/"><u>Decorate Your Screen Space: Saving Spotlight Images as Walls</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-your-system-taming-cpu-hits-using-windows-monitor/"><u>Easing Your System: Taming CPU Hits Using Window's Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiency-in-managing-swarms-of-tiktok-saves-through-editing/"><u>Efficiency in Managing Swarms of TikTok Saves Through Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-launch-windows-11-on-mac-through-parallels/"><u>Essential Steps to Launch Windows 11 on Mac Through Parallels</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-and-manage-windows-11-writable-components/"><u>Explore and Manage Windows 11' Writable Components</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-success-elevating-winning-frames/"><u>Fast-Track to Success: Elevating Winning Frames</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-lava-blaze-2-by-drfone-android/"><u>Full Guide to Unlock Your Lava Blaze 2</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-restoring-functionality-of-ccleaner-in-windows-1011-pcs/"><u>Guide for Restoring Functionality of CCleaner in Windows 10/11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-unused-disk-space-in-windows-efficiently/"><u>Harnessing Unused Disk Space in Windows Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/hidden-window-hacks-restore-off-screen-on-windows-1011/"><u>Hidden Window Hacks: Restore Off-Screen on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-go-no-net-with-your-new-os-win11/"><u>How to Go No Net With Your New OS, Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-a-disabled-app-in-windows/"><u>How to Unblock a Disabled App in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-deep-dive-into-3d-color-grading-tools/"><u>In 2024, Deep Dive Into 3D Color Grading Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-macs-finest-the-leading-free-art-programs/"><u>In 2024, Mac's Finest - The Leading Free Art Programs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/intrepid-insights-top-10-undiscovered-vlc-commands/"><u>Intrepid Insights  Top 10 Undiscovered VLC Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-painting-programs-beyond-the-procreate-window-experience/"><u>Leading Painting Programs Beyond the Procreate Window Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-captures-snip-tool-versus-prtsc/"><u>Mastering Windows Captures: Snip Tool versus PrtSc</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-storage-space-a-window-into-w10-and-w11-disks/"><u>Mastering Your Storage Space: A Window Into W10 & W11 Disks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-cybersecurity-essential-windows-protection-tips/"><u>Mastery in Cybersecurity: Essential Windows Protection Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-git-with-github-desktop-for-windows-users/"><u>Navigating Git with GitHub Desktop for Windows Users</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New In 2024, RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-nonstop-teams-sign-ins-on-pc/"><u>Overcoming the Hurdle of Nonstop Teams Sign-Ins on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-unresponsive-keyboard-issue-x80049dd3-in-windows-11/"><u>Overcoming the Unresponsive Keyboard Issue - X80049DD3 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-utorrent-download-halt-on-windows-os/"><u>Overcoming uTorrent Download Halt on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-glance-windows-11-expert-guide-to-image-access/"><u>Quick Glance: Windows 11 Expert Guide to Image Access</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-lost-ms-store-access-on-windows-11-and-11/"><u>Reactivating Lost MS Store Access on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-installation-restrictions-in-windows-11/"><u>Resolving Installation Restrictions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-the-antique-ribbon-interface-of-explorer/"><u>Restoring the Antique Ribbon Interface of Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/retro-redesign-challenge-windows-11-for-the-90s/"><u>Retro Redesign Challenge: Windows 11 for the ‘90S</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguard-your-screen-from-autonomous-scrolling/"><u>Safeguard Your Screen From Autonomous Scrolling</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-your-login-with-these-11-ultimate-tricks-to-open-windows-credentials/"><u>Speed Up Your Login with These 11 Ultimate Tricks to Open Windows Credentials</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-your-microphone-usage-with-keyboard-techniques-for-win-11/"><u>Speeding Up Your Microphone Usage with Keyboard Techniques for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-on-top-of-your-windows-11-devices-with-our-5-crucial-uptime-methods/"><u>Stay on Top of Your Windows 11 Devices with Our 5 Crucial Uptime Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-successfully-repair-the-error-causes-by-absent-advapi32dll/"><u>Steps To Successfully Repair The Error Causes By Absent Advapi32.dll</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-captivating-unboxing-on-ig-for-2024/"><u>The Insider's Guide to Captivating Unboxing on IG for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tycoon-how-ryans-channel-became-a-millionaire-hub/"><u>Tiny Tycoon  How Ryan’s Channel Became a Millionaire Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/tomorrows-windows-embracing-ai-dominance/"><u>Tomorrow's Windows: Embracing AI Dominance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y100a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y100A without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-full-potential-a-guide-to-optimizing-your-apple-tv-use/"><u>Unlocking Full Potential: A Guide to Optimizing Your Apple TV Use</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-the-reserve-memory-concept/"><u>Unveiling Windows: The Reserve Memory Concept</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-ace-2-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus Ace 2 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-tech-unveiled-best-recording-practices/"><u>WebCam Tech Unveiled  Best Recording Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-crafting-a-holiday-ambiance/"><u>Windows 11: Crafting a Holiday Ambiance</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-blues-troubleshooting-rare-system-crashes/"><u>Windows Blues: Troubleshooting Rare System Crashes</u></a></li>
+</ul></div>

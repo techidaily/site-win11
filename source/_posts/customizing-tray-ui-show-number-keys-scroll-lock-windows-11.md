@@ -1,7 +1,7 @@
 ---
 title: "Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11"
-date: 2024-07-13T10:25:38.103Z
-updated: 2024-07-14T10:25:38.103Z
+date: 2024-08-16T00:08:45.667Z
+updated: 2024-08-17T00:08:45.667Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Add Num, Caps, and Scroll Lock Indicators With AddLEDs
 
  AddLEDs is an alternative to TrayStatus that should work ok on Windows platforms from 7 to 11\. This freeware software adds Scroll, Num, and Caps Lock indicators along with two others for network and disk usage.
@@ -61,12 +64,18 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
  You will now see five new indicators appear within the Windows system tray area. The **1**, **a**, and **S** icons are the **Num**, **Caps**, and **Scroll Lock** indicators. The flashing **D** and **N** icons are indicators for disk and network activity.
 
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
 
  AddLEDs has a few settings with which you can change the color scheme of its system tray indicators. Right-click one of the indicators and move the cursor over Icon Indicators to view those options. Then you can select color scheme options like **Transparent**, **Black/White**, **Blue/Red/Green**, **Green/Red**, and **Red/Blue**.
 
 ![Icon Profile settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/icon-profile-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
@@ -81,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 5. Select **Browse** if you would prefer to choose a folder location for Keyboard LED.
 6. Then click **Install** to add Keyboard LEDs to your PC.  
 ![The Keyboard LED Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-setup.jpg)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
 
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
@@ -94,7 +106,19 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
  Select the **On Screen Display** checkbox and its **Caps**, **Scroll**, and **Num Lock** settings to see the alternative lock key indicators. Enabling that setting adds text-based indicators just above the system tray area, as in the snapshot below. Those indicators tell you if their lock keys are turned on or off.
 
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
 
  The indicators TrayStatus, Keyboard LEDs, and AddLED add to Windows 11’s system tray make it crystal clear whether your Caps, Num, and Scroll Lock keys are on or off. They’re invaluable programs for users with keyboards that lack lock key light indicators.
@@ -112,3 +136,44 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-integrating-twitter-promotions-into-your-digital-strategy/"><u>[New] 2024 Approved  Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-charting-the-course-a-graphic-designers-blueprint-to-progress/"><u>[New] Charting the Course  A Graphic Designer's Blueprint to Progress</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>[Updated] Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-at-its-peak-top-10-4k-screens/"><u>[Updated] High Definition at Its Peak  #Top 10 4K Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-through-office-activation-blockades/"><u>Breaking Through Office Activation Blockades</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-restoring-your-windows-remote-link/"><u>Bridge the Gap: Restoring Your Windows Remote Link</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-between-data-units-in-windows-11/"><u>Bridging Gaps Between Data Units in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-technology-gaps-syncing-android-plus-windows/"><u>Bridging Technology Gaps: Syncing Android + Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-top-5-apps-to-make-your-laptop-os-swap-easier/"><u>Bridging the Gap: Top 5 Apps to Make Your Laptop OS Swap Easier</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-holiday-cheer-with-windows-store-gifts/"><u>Bring Holiday Cheer with Windows Store Gifts</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-alive-silent-office-outlook-mail-feeds/"><u>Bringing Alive Silent Office Outlook Mail Feeds</u></a></li>
+<li><a href="https://win11.techidaily.com/burying-archives-in-pixels-a-guide-to-windows-11-steganography/"><u>Burying Archives in Pixels: A Guide to Windows 11 Steganography</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-chromes-default-webp-saving-feature-windows-style/"><u>Bypass Chrome's Default WebP Saving Feature, Windows Style</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-system-error-enable-blocked-windows-app/"><u>Bypass System Error: Enable Blocked Windows App</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-the-surface-instructions-for-entering-windows-concealed-character-scope/"><u>Bypass the Surface: Instructions for Entering Windows’ Concealed Character Scope</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-windows-autominize-a-practical-guide/"><u>Bypass Windows Autominize: A Practical Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-suspend-mode-on-devices-using-windows-11/"><u>Bypassing Suspend Mode on Devices Using Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-windowed-world-exiting-wired-networks-at-100mbps/"><u>Bypassing the Windowed World: Exiting Wired Networks at 100Mbps</u></a></li>
+<li><a href="https://win11.techidaily.com/calm-nights-for-your-digital-companion/"><u>Calm Nights for Your Digital Companion</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-games-leveraging-intel-graphics-command-center/"><u>Capturing Games: Leveraging Intel Graphics Command Center</u></a></li>
+<li><a href="https://win11.techidaily.com/ceasing-frequent-file-explorer-activation/"><u>Ceasing Frequent File Explorer Activation</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-functionality-of-fn-keys-in-windows-11-pcs/"><u>Changing Functionality of FN Keys in Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/choosing-between-googles-and-windows-nearby-file-transfers/"><u>Choosing Between Google's and Windows' Nearby File Transfers</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-notification-banishment-for-windows-users/"><u>Chrome Notification Banishment for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-verification-failures-when-downloading-apps/"><u>Circumventing Verification Failures when Downloading Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/clean-and-efficient-windows-start-menu-sans-ads/"><u>Clean & Efficient: Windows Start Menu Sans Ads</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-confusion-on-connecting-printers-to-windows/"><u>Clearing Up Confusion on Connecting Printers to Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/click-and-go-quick-android-apk-setup-on-windows-11/"><u>Click & Go: Quick Android APK Setup on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/clipquick-error-nine-easy-steps-for-a-smooth-resume/"><u>ClipQuick Error? Nine Easy Steps for a Smooth Resume</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-strategy-for-fixing-update-errors-in-windows-0xc1900101/"><u>Combat Strategy for Fixing Update Errors in Windows (0xC1900101)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-role-of-vector-databases-in-empowering-ai-systems/"><u>Exploring the Role of Vector Databases in Empowering AI Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-asus-rog-phone-7-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Asus ROG Phone 7 Through Google Earth?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-xs-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone XS when Phone is Broken?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>In 2024, The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unearth-your-macs-dormant-exthdd-with-these-steps/"><u>Unearth Your Mac's Dormant ExtHDD with These Steps</u></a></li>
+<li><a href="https://techidaily.com/vivo-y28-5g-music-recovery-recover-deleted-music-from-vivo-y28-5g-by-fonelab-android-recover-music/"><u>Vivo Y28 5G Music Recovery - Recover Deleted Music from Vivo Y28 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-dont-i-have-facebook-marketplace/"><u>Why Don't I Have Facebook Marketplace?</u></a></li>
+</ul></div>
