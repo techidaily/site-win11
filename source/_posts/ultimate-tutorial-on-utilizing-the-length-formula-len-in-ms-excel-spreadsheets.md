@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Utilizing the Length Formula (LEN) in MS Excel Spreadsheets
-date: 2024-08-27 17:23:46
-updated: 2024-08-29 12:24:29
+date: 2024-08-28T00:48:22.634Z
+updated: 2024-08-29T00:48:22.634Z
 tags:
   - excel
 categories:
@@ -28,6 +28,9 @@ This is an example text string containing 56 characters!
 
  The text string contains spaces, text, numbers, and a special character, and has a length of 56 characters. Should you wish to confirm this calculation, you could use LEN to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  How to Use the LEN Function in Microsoft Excel
 
  Unlike [other Excel functions](https://some-techniques.techidaily.com/new-exploring-whatsapp-voice-chat-features/), the LEN function is extremely simple to use. It contains only one argument---the text string that you wish to calculate. You can either place this in the formula directly, or you can refer to a cell that contains the text string.
@@ -38,12 +41,18 @@ This is an example text string containing 56 characters!
 
 ![An example of an Excel formula using the LEN function, calculating the length of a text string.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/LEN-Cell-Reference-Example.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As previously mentioned, you can also use LEN to calculate the length of a text string written into the formula directly using the example formula below.
 
 =LEN("This is an example text string.")
 
 ![An example of the LEN function in Excel, showing the length of a text string placed in the formula directly.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/LEN-Function-Example.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  You can replace the example text with your own, but you'll need to surround the text string in quote marks. Alternatively, place the text in a separate cell (without quote marks), then use the cell reference for that cell in your formula to determine the length instead.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -66,3 +75,69 @@ This is an example text string containing 56 characters!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-samsung-gear-360-top-alternative-cameras-2023-edition/"><u>[New] Samsung Gear 360  Top Alternative Cameras 2023 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-insiders-guide-to-snapchat-pins-for-2024/"><u>[New] The Insider's Guide to Snapchat Pins for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-of-recording-google-voice-calls/"><u>[Updated] 2024 Approved  Unlocking the Potential of Recording Google Voice Calls</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-buys-for-extreme-weather-shooting-top-7-edition/"><u>[Updated] Best Buys for Extreme Weather Shooting, Top 7 Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-expanding-photography-quality/"><u>[Updated] Expanding Photography Quality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-screen-with-ultra-screen-recorder-for-2024/"><u>[Updated] How to Record Screen With Ultra Screen Recorder for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-master-facebooks-live-broadcast/"><u>[Updated] In 2024, Master Facebook's Live Broadcast</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overcome-noisy-calls-solutions-for-zoom-audio-issues/"><u>2024 Approved  Overcome Noisy Calls  Solutions for Zoom Audio Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-the-most-shared-stock-photos-and-backstories/"><u>2024 Approved  Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>2024 Approved  Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-war-thunder-game-top-strategies-for-overcoming-lag-and-improving-frames-per-second-fps/"><u>Boost Your War Thunder Game: Top Strategies for Overcoming Lag and Improving Frames Per Second (FPS)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-personality-complimentary-youtube-graphics/"><u>Channel Personality  Complimentary YouTube Graphics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-creativity-top-results-from-three-distinct-ai-chatbots/"><u>Comparing Creativity: Top Results From Three Distinct AI Chatbots</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-substitute-methods-for-the-ls-command-in-windows/"><u>Discovering Substitute Methods for the LS Command in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-up-microsoft-store-accessibility-in-windows-11/"><u>Easing Up Microsoft Store Accessibility in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-source-disk-unreadable-issue-in-windows-systems/"><u>Fixing Source Disk Unreadable Issue in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-cure-inactive-usb-ports-and-devices-in-microsoft-os/"><u>How to Cure Inactive USB Ports & Devices in Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-chromes-failed-virus-detected-error-on-windows/"><u>How to Fix Chrome's Failed - Virus Detected Error on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-enhance-your-dandd-games/"><u>How to Use ChatGPT to Enhance Your D&D Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-innovative-techniques-for-compelling-youtube-beginnings/"><u>In 2024, Innovative Techniques for Compelling YouTube Beginnings</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-typing-quick-fixes-to-reduce-lag-in-win-1011/"><u>Jumpstart Your Typing: Quick Fixes to Reduce Lag in WIN 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g933-headset-latest-driver-download/"><u>Logitech G933 Headset Latest Driver Download</u></a></li>
+<li><a href="https://win11.techidaily.com/making-oculus-quest-compatible-with-windows-vr-systems/"><u>Making Oculus Quest Compatible with Windows VR Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-blue-screen-errors/"><u>Navigating Through the Maze of Blue Screen Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-semaphore-expired-error-on-windows-1011/"><u>Overcoming 'Semaphore Expired Error' On Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-systems-refusal-to-run-latest-windows-version/"><u>Overcoming System's Refusal to Run Latest Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-update-issue-code-0x800f0845/"><u>Overcoming Update Issue: Code 0X800F0845</u></a></li>
+<li><a href="https://win11.techidaily.com/perfectly-pairing-words-and-images-emoji-15-in-win11/"><u>Perfectly Pairing Words and Images: Emoji 15 in Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-magic-6-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Magic 6</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-editing-software-for-mobile-app-creation/"><u>Premier Editing Software for Mobile App Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-microphone-and-xbox-app-on-1011-pcs/"><u>Reconciling Microphone and Xbox App on 10/11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-system-idleness-altering-boot-timeout-in-win11/"><u>Reducing System Idleness: Altering Boot Timeout in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-cant-share-desktop-across-screens/"><u>Resolving Error: Can’t Share Desktop Across Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-paudio-quirks-on-wos-an-audacity-guide/"><u>Resolving PAudio Quirks on WOS: An Audacity Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-reset-lost-pin-after-a-software-glitch-in-windows-11/"><u>Solutions to Reset Lost PIN After a Software Glitch in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-printmanagement-msc-error-a-step-by-step-guide/"><u>Solving 'PrintManagement' MSC Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stabilize-changing-printer-on-desktop-os/"><u>Steps to Stabilize Changing Printer on Desktop OS</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-cmd-appearance-without-prior-notice/"><u>Stopping CMD Appearance Without Prior Notice</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-alleviating-usb-shortage-on-pcs/"><u>Strategies for Alleviating USB Shortage on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tip-quiet-down-windows-hardware-keys/"><u>Tech Tip: Quiet Down Windows' Hardware Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-eradicating-onedrive-from-explorer-window/"><u>Techniques for Eradicating OneDrive From Explorer Window</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ins-and-outs-of-socket-programming-with-python-servers-on-pcs/"><u>The Ins and Outs of Socket Programming with Python Servers on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-exploration-windows-display-breaks/"><u>The Ultimate Exploration: Windows Display Breaks</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-non-procreate-sketchers-for-pc-users/"><u>The Ultimate List of Non-Procreate Sketchers for PC Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-fresh-d-link-driver-downloads-and-upgrades-on-windows-systems/"><u>The Ultimate Resource for Fresh D-Link Driver Downloads and Upgrades on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-from-ps4-games-to-playon-ps5/"><u>Transitioning From PS4 Games to PlayOn PS5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/uncompromised-zoom-audio-two-key-techniques-revealed-for-2024/"><u>Uncompromised Zoom Audio  Two Key Techniques Revealed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-code-word-prefixes-for-software-execution/"><u>Unlocking Code Word Prefixes for Software Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-to-recover-lost-gpeditmsc-access/"><u>Unlocking Secrets to Recover Lost Gpedit.msc Access</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-nonexistent-device-alert-in-windows-11/"><u>Unraveling Nonexistent Device Alert in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-enigma-of-windows-security-errors/"><u>Unraveling the Enigma of Windows Security Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-windows-reawakened-swift-tips-for-win10-and-11-users/"><u>Unseen Windows Reawakened: Swift Tips for Win10 & 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-efficiency-pro-tips-for-scanning-qr-codes-via-windows/"><u>Unveiling Efficiency: Pro Tips for Scanning QR Codes via Windows</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-program-compatibility-troubleshooter-on-windows-11-and-how-do-you-use-it/"><u>What Is the Program Compatibility Troubleshooter on Windows 11, and How Do You Use It?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-control-panel-hacks-usb-access-management/"><u>Windows Control Panel Hacks: USB Access Management</u></a></li>
+</ul></div>

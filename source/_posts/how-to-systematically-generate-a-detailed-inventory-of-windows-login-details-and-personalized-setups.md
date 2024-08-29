@@ -1,7 +1,7 @@
 ---
 title: How To Systematically Generate A Detailed Inventory of Windows Login Details & Personalized Setups
-date: 2024-08-26 19:44:12
-updated: 2024-08-29 10:49:31
+date: 2024-08-28T00:48:35.932Z
+updated: 2024-08-29T00:48:35.932Z
 tags:
   - excel
 categories:
@@ -61,6 +61,9 @@ wmic useraccount get name,fullname
 
  In this example, you can see that the "Michelle" and "Simon" accounts do not have full names associated, but my "wjgle" account does have my full name.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Get a List of User Accounts with More Details
 
  If you'd like create a list of user accounts with a full set of account details, type the following command at the prompt and hit Enter:
@@ -69,6 +72,9 @@ wmic useraccount list full
 
 ![ual_4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
  That image shows just one user account from the list with all its details. You can see the user account name and full name, as well as additional details like the following:
 
 * **AccountType**. If you're on PC that is not part of a domain---which is almost certainly the case if you're on your home or small business PC---you'll always see an account type of 512\. If the PC is part of a domain, you'll see other values here that represent what type of domain account it is.
@@ -91,6 +97,9 @@ wmic useraccount get name,fullname,status
 
  So, this is all well and good if you just want to view user account information on the fly, but it becomes much more useful when you redirect the results to a text file.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Redirect the Results of a Command to a File
 
  It's great being able to view a list of user account details at the Command Prompt, but the real usefulness of these commands lie in the fact that you can pipe the results straight into a file that you can then save or print. To do this with any `wmic` command, you just have to add an `/output` switch along with a path for the file directly after the `wmic` command.
@@ -103,6 +112,9 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full
 
 ![ual_6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And if you want to get even fancier, you could also direct the output to a comma-separated value (CSV) file that could then easily be imported into a spreadsheet app or database. The trick to this is that you'll also have to add a `/format:csv` switch to the end of the command. So, for example, if you wanted to redirect the output of the same command we used above to a CSV file, you'd use something like the following command:
 
 wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
@@ -111,10 +123,16 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
 
 ![ual_7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  And if you import it into something like Microsoft Excel, you can have a nicely formatted table with little work.
 
 ![ual_8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  Of course, there's a lot more you can do with the `wmic useraccount` command, including changing some of the user account details like whether an account is locked or unlocked. You can get more information on that by typing `wmic /?` at the Command Prompt. There's also a whole lot more you can do with the `wmic` command in general. For more information on that, check out the [official WMIC page](https://msdn.microsoft.com/en-us/library/aa394531%28v=vs.85%29.aspx) from Microsoft and the list of [useful WMIC queries](https://blogs.technet.microsoft.com/askperf/2012/02/17/useful-wmic-queries/) from the Microsoft Performance Team blog.
 
 <ins class="adsbygoogle"
@@ -131,3 +149,75 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-essential-guide-to-intellectual-property-rights-on-youtube/"><u>[New] 2024 Approved  The Essential Guide to Intellectual Property Rights on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cutting-edge-mp4-transformer-share-to-facebook/"><u>[New] Cutting-Edge MP4 Transformer  Share to Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/"><u>[New] Harnessing the Power of Imagery for Engaging FB Slideshows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-humor-hub-for-apple-devices/"><u>[New] Humor Hub for Apple Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views/"><u>[New] In 2024, Boosting YouTube Traffic  Perfecting Titles & Tags for Max Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-decelerate-creativity-your-path-to-spectacular-ig-reels/"><u>[New] In 2024, Decelerate Creativity  Your Path to Spectacular IG Reels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] In 2024, First Steps in the Youtubian Economy  Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-youtube-manages-content-post-upload/"><u>[Updated] How YouTube Manages Content Post-Upload</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10-cheeky-tunes-turned-parodies/"><u>[Updated] In 2024, 10 Cheeky Tunes Turned Parodies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-exclusive-free-intro-templates-for-videos/"><u>[Updated] In 2024, Exclusive Free Intro Templates for Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-stories-screen-capture-made-simple/"><u>[Updated] Instagram Stories Screen Capture Made Simple</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-audiences-the-untold-details/"><u>[Updated] Instagram Story Audiences  The Untold Details</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-action-spectacular-the-full-t5-camera-review/"><u>2024 Approved  Action Spectacular  The Full T5 Camera Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-best-choices-twitter-video-conversion-software/"><u>2024 Approved  Best Choices  Twitter Video Conversion Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-conversational-content-for-your-subscribers/"><u>2024 Approved  Crafting Conversational Content for Your Subscribers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-dissecting-metaverse-and-omniverse-dynamics/"><u>2024 Approved  Dissecting Metaverse & Omniverse Dynamics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-whatsapps-melodic-messaging-guide/"><u>2024 Approved  WhatsApp's Melodic Messaging Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-available-avi-player-cross-platform-compatibility/"><u>Best Available AVi Player - Cross-Platform Compatibility</u></a></li>
+<li><a href="https://fox-access.techidaily.com/digital-evolutions-meta-vs-omni-reality/"><u>Digital Evolutions  Meta Vs. Omni Reality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/digitally-delicious-how-3d-printed-eatable-qr-codes-work/"><u>Digitally Delicious: How 3D-Printed, Eatable QR Codes Work</u></a></li>
+<li><a href="https://win11.techidaily.com/echoes-of-files-past-navigating-windows-11-history/"><u>Echoes of Files Past: Navigating Windows 11 History</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-data-handling-enabledisable-ntfs-compression-in-win11/"><u>Efficient Data Handling: Enable/Disable NTFS Compression in Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-video-playback-embrace-the-power-of-av1-in-youtube-for-2024/"><u>Elevate Video Playback  Embrace the Power of AV1 in YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/embedding-youtube-music-in-media-files/"><u>Embedding YouTube Music in Media Files</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-non-windows-tools-for-quick-and-precise-screen-sniping-techniques/"><u>Essential Non-Windows Tools For Quick and Precise Screen Sniping Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-cmd-shortcuts-for-streamlined-workflow/"><u>Essential Windows Cmd Shortcuts for Streamlined Workflow</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-restoring-lost-wifi-connections-on-windows/"><u>Guidelines for Restoring Lost WiFi Connections on Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-block-windows-11-from-collecting-data/"><u>How to Block Windows 11 From Collecting Data</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-the-non-operational-windows-search-error/"><u>How to Correct the Non-Operational Windows Search Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-12-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 12 without Security Questions?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-system-restore-to-revert-windows/"><u>How to Use System Restore to Revert Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-procedures-windows-11-and-vmware-workstation-17/"><u>Installation Procedures: Windows 11 & VMWare Workstation 17</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-textbooks-top-8-effective-learning-techniques-for-windows/"><u>Master the Textbooks: Top 8 Effective Learning Techniques for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-windows-11-password-management-top-11-easy-steps-unveiled/"><u>Masterful Windows 11 Password Management: Top 11 Easy Steps Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-igtv-essential-knowledge-and-usage-for-2024/"><u>Navigating IGTV  Essential Knowledge & Usage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-settings-for-flawless-valorant/"><u>Optimizing Windows Settings for Flawless Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-battlenet-not-opening-issue/"><u>Overcoming Obstacles: Battle.net Not Opening Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-old-pcs-with-windows-11-to-go-and-rufus-tutorial/"><u>Rejuvenate Old PCs with Windows 11, To Go & Rufus Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-cant-share-desktop-across-screens/"><u>Resolving Error: Can’t Share Desktop Across Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-league-disconnects-in-windows-os/"><u>Resolving League Disconnects in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-multi-zip-operations-on-windows-systems/"><u>Seamless Multi-Zip Operations on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-prime-viewing-fixing-windows-11-audio-subtitle-discrepancies/"><u>Seamless Prime Viewing: Fixing Windows 11 Audio-Subtitle Discrepancies</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-steam-readwrite-success-in-os-x/"><u>Securing Steam Read/Write Success in OS X</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-function-keys-not-adjusting-display-brighness-on-win-11/"><u>Solutions for Function Keys Not Adjusting Display Brighness on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-the-steam-lag-in-windows-11-gaming-environment/"><u>Solutions to the Steam Lag in Windows 11 Gaming Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stabilize-changing-printer-on-desktop-os/"><u>Steps to Stabilize Changing Printer on Desktop OS</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-salvaging-deleted-files-from-your-system/"><u>Swiftly Salvaging Deleted Files From Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-clearing-black-pixels-in-winsteam/"><u>Techniques for Clearing Black Pixels in WinSteam</u></a></li>
+<li><a href="https://win11.techidaily.com/the-obsidian-edge-cutting-edge-visual-notes-methodology/"><u>The Obsidian Edge: Cutting-Edge Visual Notes Methodology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-top-8-free-resources-for-3d-text-psds-for-2024/"><u>The Top 8 Free Resources for 3D Text PSDs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-exploration-windows-display-breaks/"><u>The Ultimate Exploration: Windows Display Breaks</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-buying-windows-11-keys/"><u>The Ultimate Guide to Buying Windows 11 Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-solutions-for-overcoming-hypervisorbsod-in-windows/"><u>Top 5 Solutions for Overcoming HYPERVISOR_BSOD in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-methods-for-android-video-capture/"><u>Top Methods for Android Video Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-11-select-6-must-install-android-apps/"><u>Transforming Windows 11: Select 6 Must-Install Android Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/trusted-picks-best-5-videographer-software-tools-for-2024/"><u>Trusted Picks  Best 5 Videographer Software Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-potential-with-top-notch-fps-counters-for-windows-11-gamers/"><u>Unleashing Your Potential with Top-Notch FPS Counters for Windows 11 Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-adding-the-jdk-efficiently/"><u>Unlock Windows 11: Adding the JDK Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pc-potential-top-tips-to-troubleshoot-broken-keyboard-commands-in-windows/"><u>Unlocking PC Potential: Top Tips to Troubleshoot Broken Keyboard Commands in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-a-fresh-windows-update-start/"><u>Unlocking the Potential of a Fresh Windows Update Start</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugging-issues-keeping-usbs-active-on-windows-11/"><u>Unplugging Issues: Keeping USBs Active on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-character-viewer-in-windows-11/"><u>Unveiling the Character Viewer in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-googles-nearby-share-app-is-not-working-on-windows/"><u>What to Do if Google’s Nearby Share App Is Not Working on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-0x800f0922-update-fix-strategies/"><u>Windows 11'S 0X800F0922 Update Fix Strategies</u></a></li>
+</ul></div>

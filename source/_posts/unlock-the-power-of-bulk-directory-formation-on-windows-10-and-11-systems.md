@@ -1,0 +1,191 @@
+---
+title: Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems
+date: 2024-08-28T00:53:54.910Z
+updated: 2024-08-29T00:53:54.910Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems
+excerpt: This Article Describes Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems
+keywords: Bulk Directory Creation Windows,Windows Directories Optimization,Directory Management W10/W11,Efficient Directory Formation Windows,Unified Directory Systems Windows,Streamline Directory Configuring,Powerful Directory Setup Windows
+thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ecc9512a603cf6d88a4e79188.jpg
+---
+
+## Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems
+
+ The latest Windows versions allow you to automate quite a few of your tasks, for instance letting you create multiple folders and sub-folders at once. This is quite helpful in situations where you need to sort out the data (for each semester, for instance) and do not want to spend hours doing it.
+
+ There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
+
+## 1\. Use the Command Prompt to Create Multiple Folders at Once
+
+ In this first method, we will be using a command-line utility called Command Prompt in Windows. Unless you are very tech-savvy, you may not have noticed it anywhere in Windows, but it has been around for quite a long time.
+
+ Typically, administrators use it to make advanced-level changes throughout the system. You can enter text-based commands to automate a bunch of tasks.
+
+ Below, we have listed detailed steps for using Command Prompt to create multiple folders at once. Make sure you are signed in to Windows as an administrator before you proceed:
+
+1. Type **Command Prompt** in Windows search and click on **Run as administrator**.
+2. Alternatively, you can also open Run by pressing **Win** \+ **R** and type **cmd** in the text field. Press **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.  
+![Run dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/accessing-cmd-through-run-box.jpg)
+3. Click **Yes** in the User Account Control prompt.
+4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
+`cd /d [location]`
+5. For instance, if we want to create folders in the C:\\users\\hp\\documents folder, we will execute the command like cd /d C:\\users\\hp\\documents.  
+![Location command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-cd-d-location-1.jpg)
+6. Then, type **md** following the names of the folders in one command and execute it. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
+`md january february march april`  
+![Command with file names](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-md-files.jpg)
+7. Once done, close the Command Prompt window and visit the location of folders in File Explorer to see if the folders have been created.
+
+ If for some reason using the Command Prompt does not work for you, you can use Windows Powershell (Admin) to perform the same steps. The Powershell works almost the same as Command Prompt, but it is much more powerful than cmd.
+
+ To use Powershell, follow these steps:
+
+1. Right-click on the **Windows icon** on your taskbar and choose **Powershell (Admin)**.  
+![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
+2. Select Yes in the UAC prompt.  
+![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
+3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
+`cd [Location]`
+4. We want to create the sub-folders in the document folders, so we will be executing the following command:  
+`cd C:\users\hp\documents`  
+![Execute location command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-cd-d-location.jpg)
+5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
+`md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
+6. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
+`md "january", "february", "march", "april"`  
+![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
+
+ Finally, close the Powershell window and check if the folders have been created.
+
+## 2\. Use the Notepad to Create Multiple Folders at Once
+
+ Though it may come as a surprise, the Windows Notepad can perform more advanced technical operations than just writing to-do lists.
+
+ The methods above are suitable if you only want to create multiple folders without any subfolders. If you wish to create subfolders as well, then an easy way to do it is by creating a batch script via Notepad.
+
+ Here is how you can do that:
+
+1. Type **Notepad** in Windows search and click **Open**.
+2. In the Notepad window, click type **@ECHO OFF** and click **Enter**.
+3. Then type **md** followed by the folder and subfolder names enclosed in double quotes. For instance, if we want to create a MUO January folder with a Windows subfolder and a MUO February folder with an Android subfolder, we will type it down in Notepad as:  
+`@ECHO OFF  
+md "MUOJan"\"Windows" "MUOFeb"\"Android"`  
+![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
+4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
+![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
+5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
+![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
+6. Expand the dropdown for Save as type and choose **All files**.
+7. Click **OK** and close the Notepad.
+8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
+
+ Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Use a Third-Party Application
+
+ Last but not least, if you think using Command Prompt and Notepad is too time-consuming, you can try using a third-party application.
+
+ There are quite a few apps that can help you achieve this, including the following:
+
+* [Soboloft](https://www.sobolsoft.com/file-management.htm)
+* [Text 2 Folders](https://www.softpedia.com/get/System/File-Management/Text-2-Folders.shtml)
+* [Folder Frenzy](https://www.softpedia.com/get/System/File-Management/Folder-Frenzy.shtml)
+* [FreeCommander XE](https://freecommander.com/en/summary/)
+* [XMD](https://www.softpedia.com/get/System/File-Management/XMD.shtml)
+
+ For illustration purposes, we will be using Folder Frenzy. The steps of creating multiple folders in other applications might vary, but the basics will remain the same.
+
+1. Download Folder Frenzy.
+2. Extract the downloaded file and then launch it.
+3. Click **Yes** in the confirmation prompt.  
+![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
+4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+ From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Create Multiple Folders in a Few Clicks on Windows
+
+ Creating several folders manually is a mundane task, and you can spend the same energy doing something more productive. The steps we have outlined above should help you automate this task, saving time for things that actually bring in some value.
+
+ The latest Windows versions allow you to automate quite a few of your tasks, for instance letting you create multiple folders and sub-folders at once. This is quite helpful in situations where you need to sort out the data (for each semester, for instance) and do not want to spend hours doing it.
+
+ There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/arness-the-power-of-playback-speed-control-in-youtube/"><u>[New] Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-premium-4k-video-mics-top-picks-list/"><u>[New] In 2024, Premium 4K Video Mics Top Picks List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-through-best-liquid-physics-experiences-for-2024/"><u>[New] Navigating Through Best Liquid Physics Experiences for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-8-fastest-growing-youtube-channel/"><u>[Updated] 2024 Approved  8 Fastest Growing YouTube Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-harmony-in-transition-crafting-crossfade-effects/"><u>[Updated] 2024 Approved  Harmony in Transition  Crafting Crossfade Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-learn-screen-casting-on-macbook-air-step-by-step/"><u>2024 Approved  Learn Screen Casting on Macbook Air, Step by Step</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-optimize-customize-and-enhance-with-these-win11-tips/"><u>2024 Approved  Optimize, Customize & Enhance with These Win11 Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-overview-of-camstudios-video-tools/"><u>2024 Approved  Ultimate Overview of CamStudio's Video Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-asus-rog-phone-8-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Asus ROG Phone 8 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-manage-app-packages-with-winget-on-win11/"><u>Comprehensively Manage App Packages with Winget on Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-g54-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does G54 5G support MKV video files?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-of-hp-laserjet-pro-mfp-m127fn-free-printer-drivers-for-your-pc/"><u>Easy Install of HP LaserJet Pro MFP M127FN - Free Printer Drivers for Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-strategies-for-correctly-opening-packages-on-ws11ws10/"><u>Easy Strategies for Correctly Opening Packages on WS11/WS10</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-multi-monitor-use-with-these-windows-11-tips/"><u>Effortless Multi-Monitor Use with These Windows 11 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-system-speed-through-virtual-memory-management/"><u>Elevating System Speed Through Virtual Memory Management</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-repairing-system-files-in-win11/"><u>Essential Techniques for Repairing System Files in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-where-your-windows-theme-is-saved/"><u>Finding Where Your Window's Theme Is Saved</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-problem-of-an-unsuccessful-discord-update-on-pcs/"><u>Fixing the Problem of an Unsuccessful Discord Update on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/from-zero-to-hero-drawing-mastery-in-win-1011/"><u>From Zero to Hero: Drawing Mastery in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-principles-for-sync-related-sticky-notes-problems-in-w11/"><u>Guiding Principles for Sync-Related Sticky Notes Problems in W11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-chatgpt-diminished-the-value-of-student-paperwork/"><u>Has ChatGPT Diminished the Value of Student Paperwork?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-hyper-v-error-0x8009030e-in-windows/"><u>How to Fix the Hyper-V Error 0X8009030E in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-error-0x800700e1-in-windows-11-os/"><u>How to Overcome Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-show-or-hide-folders-in-this-pc-on-windows-11/"><u>How to Show or Hide Folders in This PC on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-steadicams-for-dslr/"><u>In 2024, Best Steadicams for DSLR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-followers-and-likes-hack-top-25-instagram-hashtags-unveiled/"><u>In 2024, Followers and Likes Hack  Top 25 Instagram Hashtags Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-computing-through-time-with-windows/"><u>Insight: Computing Through Time with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-laptop-battery-with-simple-onoff-tweaks/"><u>Maximize Laptop Battery with Simple On/Off Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-auto-updates-and-change-amd-gpu-drives-in-win10/"><u>Navigate Auto-Updates & Change AMD GPU Drives in Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-tablet-stylus-problems-with-windows-os/"><u>Overcoming Tablet Stylus Problems with Windows OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cting-your-youtube-contents-first-visual-hook/"><u>Perfecting Your YouTube Content's First Visual Hook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reinforcing-operational-capabilities-of-windows-problem-solvers/"><u>Reinforcing Operational Capabilities of Windows Problem Solvers</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-modify-program-size-on-windows-11/"><u>Simplified Techniques to Modify Program Size on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-clear-vac-failed-windows-error/"><u>Solutions to Clear VAC Failed Windows Error</u></a></li>
+<li><a href="https://win11.techidaily.com/space-optimization-for-local-drives-in-windows-11-no-file-deletion-max-156-chars/"><u>Space Optimization for Local Drives in Windows 11 (No File Deletion) (Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-rectify-windows-error-code-30005-create-failure/"><u>Strategies to Rectify Windows Error Code: 30005 Create Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-group-policies-in-windows-environments/"><u>Streamlining Group Policies in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/stuck-xbox-on-windows-heres-how-to-unlock-it/"><u>Stuck Xbox on Windows? Here's How to Unlock It</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-troubleshooting-of-r9-drivers-on-win10/"><u>Successful Troubleshooting of R9 Drivers on Win10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>The Artist' Writes  An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-to-an-organized-workspace-implement-autodelete-on-winos/"><u>The Secret to an Organized Workspace: Implement AutoDelete on WINOS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-8-android-multi-user-video-chat-tools/"><u>Top 8 Android Multi-User Video Chat Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unifying-computing-windows-adapts-to-iphones-ipads-macs-and-desktops/"><u>Unifying Computing: Windows Adapts to iPhones, iPads, Macs, and Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-windows-iscsi-initiators-capabilities/"><u>Unveiling the Windows iSCSI Initiator's Capabilities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/vidvault-capture-fb-videos/"><u>VidVault  Capture FB Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-without-taskbar-chat-the-consequences-for-you-as-a-user/"><u>Windows 11 Without Taskbar Chat: The Consequences for You as a User?</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

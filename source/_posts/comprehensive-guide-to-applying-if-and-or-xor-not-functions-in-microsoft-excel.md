@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Applying IF, AND, OR, XOR, Not Functions in Microsoft Excel
-date: 2024-08-26 13:21:14
-updated: 2024-08-29 10:48:51
+date: 2024-08-28T00:47:41.949Z
+updated: 2024-08-29T00:47:41.949Z
 tags:
   - excel
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 * **value\_if\_true:** The action to perform if the condition is met, or is true.
 * **value\_if\_false:** The action to perform if the condition is not met, or is false.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ###  Comparison Operators to Use with Logical Functions
 
  When performing the logical test with cell values, you need to be familiar with the comparison operators. You can see a breakdown of these in the table below.
@@ -54,6 +58,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Although the IF function is not case sensitive, the text must be an exact match.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  IF Function Example 2: Numeric Values
 
  The IF function is also great for comparing numeric values.
@@ -64,6 +71,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![If condition with numeric values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/if-example-numbers-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  The IF function is a lot more than just displaying different text on the result of a test. We can also use it to run different calculations.
 
  In this example, we want to give a 10% discount if the customer spends a certain amount of money. We will use £3,000 as an example.
@@ -86,6 +97,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Testing if dates are due](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/due-dates.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What are Nested IF Formulas?
 
  You may have heard of the term nested IFs before. This means that we can write an IF function within another IF function. We may want to do this if we have more than two actions to perform.
@@ -98,12 +115,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![nested-ifs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/nested-ifs-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We have now extended our formula to beyond what just one IF function can do. And you can nest more IF functions if necessary.
 
  Notice the two closing brackets on the end of the formula---one for each IF function.
 
  There are alternative formulas that can be cleaner than this nested IF approach. One very useful alternative is [the SWITCH function in Excel](https://support.office.com/en-us/article/switch-function-47ab33c0-28ce-4530-8a45-d532ec4aa25e).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ##  The AND and OR Logical Functions
 
  The AND and OR functions are used when you want to perform more than one comparison in your formula. The IF function alone can only handle one condition, or comparison.
@@ -122,6 +145,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Let's see an example of both of them evaluating two conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  AND Function example
 
  The AND function is used below to test if the customer spends at least £3,000 and has been a customer for at least three years.
@@ -132,6 +158,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  You can see that it returns FALSE for Matt and Terry because although they both meet one of the criteria, they need to meet both with the AND function.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  OR Function Example
 
  The OR function is used below to test if the customer spends at least £3,000 or has been a customer for at least three years.
@@ -154,6 +183,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel formula with IF and AND functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/if-and-and.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  The XOR Function
 
  In addition to the OR function, there is also an exclusive OR function. This is called the XOR function. The XOR function was introduced with the Excel 2013 version.
@@ -228,6 +263,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![NOT function example 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/not-function2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Mastering logical functions will give you a big advantage as an Excel user. To be able to test and compare values in cells and perform different actions based on those results is very useful.
 
 ---
@@ -248,3 +286,49 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-guide-upgrade-your-fb-videos-with-hd-mp4-format-forfree/"><u>[New] 2024 Approved  The Ultimate Guide  Upgrade Your FB Videos with HD MP4 Format – Forfree</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge/"><u>[New] Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-softening-system-sounds-a-comprehensive-guide/"><u>[Updated] 2024 Approved  Softening System Sounds  A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>[Updated] 2024 Approved  Transforming Photos Into Videos  An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023s-approach-tweeting-from-tiktok/"><u>[Updated] In 2024, 2023'S Approach  Tweeting From TikTok</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-step-by-step-journey-to-captivating-hdr-portraits-for-2024/"><u>[Updated] Step-by-Step Journey to Captivating HDR Portraits for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-to-skyrocket-your-fb-video-ad-impact-for-2024/"><u>[Updated] Strategies to Skyrocket Your FB Video Ad Impact for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-advanced-tools-like-chatgpt-replace-conventional-approaches-to-crafting-student-essays/"><u>Can Advanced Tools Like ChatGPT Replace Conventional Approaches to Crafting Student Essays?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-erasing-your-yahoo-email-address-forever/"><u>Complete Guide: Erasing Your Yahoo! Email Address Forever</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-walkthrough-for-latest-audio-technica-driver-installation/"><u>Comprehensive Walkthrough for Latest Audio-Technica Driver Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-resource-unavailable-on-windows-systems-149-chars/"><u>Correcting Resource Unavailable on Windows Systems (149 Chars)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-display-selections-10-mac-list/"><u>Cutting-Edge Display Selections  #10 Mac List</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-blockers-fixing-office-activation-failures/"><u>Disabling Blockers: Fixing Office Activation Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-windows-11s-core-data-the-registry-files/"><u>Discovering Windows 11'S Core Data: The Registry Files</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pc-game-5-crucial-speed-up-tools/"><u>Elevate Your PC Game: 5 Crucial Speed-Up Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-video-presentations-with-top-30-free-intra-makers-for-2024/"><u>Elevate Your Video Presentations with Top 30 Free Intra Makers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-false-vulnerability-signal-in-chrome/"><u>Eliminating False Vulnerability Signal in Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-handwritten-entry-on-windows-using-simple-steps/"><u>Enable Handwritten Entry on Windows Using Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/game-files-unlocked-3-windows-techniques-explored/"><u>Game Files Unlocked: 3 Windows Techniques Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-this-device-is-disabled-code-22-error-on-windows-11/"><u>How to Fix the This Device Is Disabled (Code 22) Error on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g14-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Moto G14 Phone with Broken Screen</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/kmworld-recognizes-abbyy-compreno-as-the-defining-tech-product-of-2016/"><u>KMWorld Recognizes ABBYY Compreno as the Defining Tech Product of 2016</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-disk-space-spotting-large-files-and-folders-in-windows-pc/"><u>Managing Disk Space: Spotting Large Files & Folders in Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-entertainment-with-these-7-free-players/"><u>Master Your Entertainment with These 7 FREE Players</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-nonexistent-device-reference-in-windows-11-ui/"><u>Mending Nonexistent Device Reference in Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-minecraft-lan-connectivity-woes-on-windows/"><u>Navigating Minecraft LAN Connectivity Woes on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-appdisplay-issue-ms-resourcetext-problem-in-windows-11/"><u>Overcoming AppDisplay Issue: Ms-Resource/Text Problem in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-iomap64-blue-screen-error-in-win108/"><u>Quick Guide to Resolve IOMap64 Blue Screen Error in Win10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-windows-11-ignore-admin-restrictions/"><u>Reboot Windows 11, Ignore Admin Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/renewal-of-erased-windows-11-energy-profiles/"><u>Renewal of Erased Windows 11 Energy Profiles</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-discord-overlay-issues-in-windows-environment/"><u>Resolving Discord Overlay Issues in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-correction-of-disk-reading-errors/"><u>Solutions for Correction of Disk Reading Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-reliable-discord-games-status-feature-pc/"><u>Steps for Restoring Reliable Discord Games Status Feature (PC)</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-activate-windows-11s-elevated-powershell-console/"><u>Steps to Activate Windows 11'S Elevated PowerShell Console</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-access-to-safe-mode-on-your-windows-11-pc/"><u>Swift Access to Safe Mode on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-win-1011s-dolby-atmos/"><u>The Essential Guide to Win 10/11'S Dolby Atmos</u></a></li>
+<li><a href="https://win11.techidaily.com/the-finest-video-cutting-software-for-windows-11-enthusiasts/"><u>The Finest Video Cutting Software For Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-of-trio-configuring-widgets-for-windows-11-users/"><u>Triumph of Trio: Configuring Widgets for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unified-world-of-computing-windows-now-available-on-iphoneipadmacpc/"><u>Unified World of Computing: Windows Now Available on iPhone/iPad/Mac/PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-best-win-soft-tools-choco-wins/"><u>Unveiling the Best Win Soft Tools: Choco Wins!?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials: A Step-by-Step Guide to Manipulating Dates by Adding/Subtracting Them"
-date: 2024-08-26 18:41:15
-updated: 2024-08-29 11:42:59
+date: 2024-08-28T00:49:40.877Z
+updated: 2024-08-29T00:49:40.877Z
 tags:
   - excel
 categories:
@@ -43,6 +43,9 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter days to add or subtract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/AddAdjustmentDays-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  Next, go to the first cell in the column for your new dates and enter a sum formula to add the number of days to the original date. Depending on the columns and rows that you have in your sheet, the cell references might differ.
 
  For our sheet, we'll enter:
@@ -57,10 +60,19 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Use the fill handle to copy the formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/CopyAdjustmentDaysFormula-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  Now that you have the formulas in your new date column, you can change the number of days in the adjustment column whenever you need to.
 
 ![Adjusted new dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FinishedAdjustmentDays-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  How to Add or Subtract Months from Dates in Excel
 
  You might have a spreadsheet where you need to add or subtract months rather than days. Maybe it's a savings, loan, or investment sheet. The setup is similar, but you'll use the EDATE function to help calculate the adjustment.
@@ -71,6 +83,9 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter months to add or subtract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/AddAdjustmentMonths-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Go to the first cell in the column for your new dates and enter the function to add the original date to the number of months. Once more, your particular cell references might differ.
 
  For our sheet, we'll enter:
@@ -93,6 +108,9 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter the adjustment function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/EnterAdjustmentYearsFunction-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  Another handy way to work with dates in your Excel sheets is to [calculate the number of days between two dates](https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nova-y71-by-fonelab-android-recover-music/). Check out our tutorial if you want to try it!
 
 <ins class="adsbygoogle"
@@ -109,3 +127,57 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimal-visual-snatchers-for-videos/"><u>[New] 2024 Approved  Optimal Visual Snatchers for Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[New] Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xplore-sony-vegas-for-high-impact-video-editing-on-youtube-for-2024/"><u>[New] Explore Sony Vegas for High-Impact Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-launching-into-the-world-of-web-flipping-videos-from-mac/"><u>[New] Launching Into the World of Web-Flipping Videos From Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-5-best-360-degree-action-cameras-you-should-use/"><u>[Updated] 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-discovering-the-1-songs-of-facebook-video-insights/"><u>[Updated] In 2024, Discovering the #1 Songs of Facebook  Video Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perspective-play-using-edits-to-redefine-images/"><u>[Updated] Perspective Play  Using Edits to Redefine Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-success-monetization-unlocked-with-500-subscribers/"><u>[Updated] Streaming Success  Monetization Unlocked with 500 Subscribers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-enhancements-in-windows-11-unveiled/"><u>2024 Approved  The Enhancements in Windows 11 Unveiled</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-11-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 11 - 4 Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-windows-11-shutdown-techniques-for-active-processestasks/"><u>Delaying Windows 11 Shutdown: Techniques for Active Processes/Tasks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/distinguished-audible-collection-for-filmmakers/"><u>Distinguished Audible Collection for Filmmakers</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluate-your-needs-best-windows-11-choice-between-home-and-pro/"><u>Evaluate Your Needs: Best Windows 11 Choice Between Home and Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-analysis-how-showmore-enhances-your-video-capture-techniques-for-2024/"><u>Expert Analysis  How ShowMore Enhances Your Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-dji-phantom-3s-advanced-aerial-capabilities/"><u>Exploring DJI Phantom 3’S Advanced Aerial Capabilities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments-for-2024/"><u>From Confinement to Comedy  Selecting Lighthearted FB Incarceration Moments for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-unclog-printer-usage-jams-in-win11/"><u>Guide to Unclog Printer Usage Jams in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-out-a-no-logo-screen-in-win1011/"><u>How to Clear Out a No-Logo Screen in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-isdonedll-isarcextract-error-in-windows-10-and-11/"><u>How to Fix the ISDone.dll (ISArcExtract) Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reclaim-your-spot-in-epic-launcher-windows-style/"><u>How to Reclaim Your Spot in Epic Launcher, Windows-Style</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-and-connect-chrome-in-your-os-firewallantivirus-settings/"><u>How to Unblock and Connect Chrome in Your OS Firewall/Antivirus Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-hard-drive-type-hddssd/"><u>Identifying Hard Drive Type: HDD/SSD</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-11-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-easy-steps-for-achieving-facebooks-prestigious-blue-badge/"><u>In 2024, Easy Steps for Achieving Facebook's Prestigious Blue Badge</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-x5-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco X5 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-chatgpt-secure-unveiling-6-potential-online-risks/"><u>Is Using ChatGPT Secure? Unveiling 6 Potential Online Risks</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsofts-filter-key-functionality/"><u>Mastering Microsoft's Filter Key Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-frozen-windows-update-issue/"><u>Mastery Over Frozen Windows Update Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-failed-geforce-scans-on-pcs-running-windows/"><u>Navigating Failed GeForce Scans on PCs Running Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-complexities-of-high-dpi-settings/"><u>Navigating Through the Complexities of High-DPI Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-windows-drivers-a-step-by-step-guide/"><u>Overhauling Windows Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/quiet-windows-11-ceasing-background-tasks/"><u>Quiet Windows 11: Ceasing Background Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-misdirected-mouse-motion-in-windows-systems/"><u>Rectify Misdirected Mouse Motion in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-a-swaying-cursor-in-windows-os/"><u>Resolving a Swaying Cursor in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-wsl-the-4294967295-error-explained/"><u>Resolving WSL: The 4294967295 Error Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-vanishing-steam-icon-graphics/"><u>Reviving Vanishing Steam Icon Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-photo-correction-mastering-background-removal/"><u>Seamless Photo Correction: Mastering Background Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-ai-risks-when-crafting-your-win-11-code/"><u>Sidestep AI Risks When Crafting Your Win 11 Code</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-severe-javascript-crashes-in-discord-on-pcs-running-win-1011/"><u>Sidestep Severe JavaScript Crashes in Discord on PCs Running Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-customizing-windows-explorer-again/"><u>Simple Steps: Customizing Windows Explorer Again</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-desktop-with-w11-pinning-tips/"><u>Streamline Your Desktop with W11 Pinning Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/sync-issue-resolved-windows-time-coordination/"><u>Sync Issue Resolved: Windows Time Coordination</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-free-desktop-password-generators-for-windows/"><u>The 7 Best Free Desktop Password Generators for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-harmonized-workspaces-in-win1011/"><u>The Path to Harmonized Workspaces in WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-stealth-attacker-uncovered-defending-windows-against-wacatacbml/"><u>The Stealth Attacker Uncovered: Defending Windows Against Wacatac.B!ml</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y77t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y77t Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-tactics-replacing-older-software-with-windows-11/"><u>Transition Tactics: Replacing Older Software with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-control-panel-errors/"><u>Troubleshooting Windows Control Panel Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-system-call-failures-in-windows-11/"><u>Troubleshooting: Resolving System Call Failures in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-workflows-6-top-time-management-apps-reviewed/"><u>Winning Workflows: 6 Top Time Management Apps Reviewed</u></a></li>
+</ul></div>

@@ -1,0 +1,213 @@
+---
+title: Fixing Unresponsive Battle.net Application on Windows PC
+date: 2024-08-28T00:54:44.685Z
+updated: 2024-08-29T00:54:44.685Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Fixing Unresponsive Battle.net Application on Windows PC
+excerpt: This Article Describes Fixing Unresponsive Battle.net Application on Windows PC
+keywords: Responsive Battle.net Fix,Battle.net App Sync,Win App Connectivity,BattNet Trouble Solve,Unblock Game Link,PC NetApp Issue Remediation,Windows Game Application Reconnect
+thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c528103224c7dceab692252cbf067a0.jpg
+---
+
+## Fixing Unresponsive Battle.net Application on Windows PC
+
+ Battle.net is game launcher software with which users install and play Call of Duty: Warzone, Hearthstone, World of Warcraft, and Overwatch. However, users can’t launch Blizzard games when the Battle.net software doesn’t open on Windows. Battle.net may or may not display an error message when it doesn’t open, but that software doesn’t start either way.
+
+ You can probably resolve whatever Battle.net startup issue you’re trying to fix in Windows, so long as your PC meets the software’s minimum system requirements. These general fixes can resolve a wide variety of Battle.net startup errors or crashes in a Windows 11/10.
+
+## 1\. Set Battle.net to Run With Admin Rights
+
+ This is a simple potential fix for Battle.net not opening that some users have confirmed works. Setting Battle.net to run as administrator will give that software elevated system access, which can resolve permission issues. You can configure Battle.net to always run with administrative rights like this:
+
+1. Open Battle.net’s installation directory (folder) within File Explorer.
+2. Next, click the**Battle.net Launcher.exe** file with your right mouse button and select**Properties** .
+3. Click**Compatibility** on the Battle.net Launcher.exe Properties window.
+4. Select**Run this program as administrator** if that checkbox isn’t selected.  
+![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-this-program-as-administrator-option.jpg)
+5. Press the Properties window’s**Apply** button.
+
+ In addition, running the software in compatibility mode might help some users fix Battle.net not opening. You can do that by selecting the**Run this program in compatibility mode** option on the same**Compatibility** tab. Choose Windows 8 on the drop-down menu.
+
+## 2\. Delete the Battle.net and Blizzard Entertainment Data Folders
+
+ Battle.net and Blizzard Entertainment are two cache folders for Blizzard’s game launcher software. The Battle.net software often doesn’t start right when those folders contain corrupted data. Deleting those directories will clear Battle.net’s cache.
+
+This is how you can erase those folders in Windows 11/10:
+
+1. First, make sure there aren’t any Battle.net background processes running by[opening Task Manager’s Process tab](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . Disable any Battle.net processes you see there by selecting them and clicking**End task** .
+2. Hold the**Windows** keyboard key and press**E** to view the Explorer file and folder manager.
+3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData  
+![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
+4. Right-click the Battle.net directory and select the**Delete** context menu option.  
+![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
+5. Next, erase the Blizzard Entertainment folder.
+6. Try opening Battle.net again.
+
+ This should hopefully clear any cache issues and Battle.net should open correctly.
+
+## 3\. Check the Secondary Logon Service Is Enabled
+
+ The Secondary Logon service enables the starting of processes with alternative types of user credentials. That’s a required prerequisite service for Battle.net’s Blizzard agent. So, check Secondary Login is enabled and running like this:
+
+1. To open Services, click the search box or magnifying glass on your Windows 11/10 taskbar. Type**services.msc** in the search box, and select the Services app.
+2. Double-click**Secondary Logon** to view the properties window for that service.  
+![The Secondary Logon service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/secondary-logon-service.jpg)
+3. Set the**Startup type** option to**Automatic** .
+4. Click the**Start** service button for Secondary Logon.  
+![The Secondary Logon Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-logon-properties-window.jpg)
+5. Remember to select**Apply** to save the setting.
+6. Select**OK** to exit the Secondary Logon Properties window.
+7. Click**Restart** on the Start menu in Windows 11/10.
+
+ If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
+
+## 4\. Turn Off the Windows Defender Firewall
+
+ Windows Defender Firewall will block Battle.net from connecting with Blizzard services if that software isn’t permitted through it. To test if that firewall is blocking the Battle.net client, temporarily disable it in the following steps:
+
+1. First, open WDF in the Control Panel with a method in our guide for opening the Windows Defender Firewall applet.
+2. Select the**Turn Windows Defender Firewall on or off** navigation option on the left of the applet.  
+![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-defender-control-panel-applet.jpg)
+3. Click the**Turn off Windows Defender Firewall** options for both the public and private network settings.  
+![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
+4. Select**OK** to save the new WDF options.
+5. Try opening Battle.net again with the firewall disabled.
+
+ If Battle.net now starts, check Windows Defender Firewall’s app permission settings. Make sure the Battle.net software is allowed through that firewall. Check out our article about[allowing apps through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for full instructions. Then you can turn WDF back on.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Disable Third-Party Antivirus and Firewall Software
+
+ Some third-party antivirus and firewall software can also block Battle.net from running. Antivirus utilities sometimes wrongly identify legitimate programs to be malware. So, temporarily disable third-party antivirus tools or firewalls before selecting to launch Battle.net if you don’t want to uninstall anything.
+
+ You can usually find options for disabling third-party antivirus software on their context menus. So, right-click an antivirus icon in the system tray and look for an option to disable or turn off its shield on the menu that opens. If that works, you’ll know what’s causing the issue. Whitelist Battle.net in your antivirus tool’s exclusion settings.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Disable the Proxy Server
+
+ Proxy servers conflict with Battle.net’s login module, which can prevent the software from launching. Even if you can’t recall enabling a proxy server yourself, double-check the proxy server setting isn’t selected in Windows. You can disable the proxy server as follows:
+
+1. Bring up the file and app search box in Windows.
+2. Enter**inetcpl.cpl** in the Type here to search text box.
+3. Select**inetcpl.cpl** to view Internet Properties.
+4. Click**Connections** to access network options.
+5. Next, click**LAN settings** to view a Local Area Network (LAN) window.  
+![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
+6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
+7. Press the**OK > Apply** buttons.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Set Windows 11/10 to Clean Boot
+
+ Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our[guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
+
+![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
+
+ After setting a clean boot, restart your PC and try launching Battle.net. Did that potential resolution work? If it did, clean booting likely eliminated a program or service conflicting with Battle.net. Then you can keep the boot configuration as it is or attempt to figure out what software or service caused the issue.
+
+## 8\. Reinstall the Battle.net Software
+
+ Finally, reinstall Battle.net Launcher if all else fails. Reinstalling that software will replace its files and ensure you’re utilizing the latest version. That won’t uninstall games installed with Battle.net.
+
+![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
+## Enjoy Blizzard Battle.net Games Again
+
+ When you’ve got Battle.net up and running again, you’ll be able to download, launch, and play Blizzard games. As there are many potential causes for Battle.net not starting, we can’t guarantee the solutions in this guide will resolve all startup issues for that software.
+
+ However, those potential resolutions will address the most common causes for Battle.net not opening in Windows 11 and 10\. So, there’s a very good chance at least one will kick-start Blizzard’s gaming client on your PC.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expressiveness-in-yt-adopting-emojis/"><u>[New] In 2024, Expressiveness in YT  Adopting Emojis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-powerful-instagram-content-top-strategies-for-video-marketing/"><u>[Updated] 2024 Approved  Crafting Powerful Instagram Content  Top Strategies for Video Marketing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-green-screen-tech-how-to-optimize-usage/"><u>[Updated] 2024 Approved  Premier Green Screen Tech  How to Optimize Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-stellar-15-stop-motion-films-to-remember/"><u>[Updated] Stellar 15 Stop-Motion Films to Remember</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-combatting-iphones-difficulty-in-autofocusing/"><u>2024 Approved  Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-nurturing-partnerships-with-top-brands-the-famebit-blueprint/"><u>2024 Approved  Nurturing Partnerships with Top Brands  The FameBit Blueprint</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-manage-app-packages-with-winget-on-win11/"><u>Comprehensively Manage App Packages with Winget on Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/converse-confidently-in-russia-a-collection-of-key-phrases/"><u>Converse Confidently in Russia: A Collection of Key Phrases</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-display-not-responding-on-windows-11/"><u>Correcting 'Display Not Responding' On Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-strategies-for-correctly-opening-packages-on-ws11ws10/"><u>Easy Strategies for Correctly Opening Packages on WS11/WS10</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-multi-monitor-use-with-these-windows-11-tips/"><u>Effortless Multi-Monitor Use with These Windows 11 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-system-speed-through-virtual-memory-management/"><u>Elevating System Speed Through Virtual Memory Management</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-visibility-utilizing-condensed-explorer-settings/"><u>Enhance Visibility: Utilizing Condensed Explorer Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-dos-and-donts-avoiding-errors-with-chatgpt-in-writing-articles/"><u>Essential Dos and Don'ts: Avoiding Errors with ChatGPT in Writing Articles</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-repairing-system-files-in-win11/"><u>Essential Techniques for Repairing System Files in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-where-your-windows-theme-is-saved/"><u>Finding Where Your Window's Theme Is Saved</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-pova-5-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Pova 5 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-hyper-v-error-0x8009030e-in-windows/"><u>How to Fix the Hyper-V Error 0X8009030E in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-error-0x800700e1-in-windows-11-os/"><u>How to Overcome Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-show-or-hide-folders-in-this-pc-on-windows-11/"><u>How to Show or Hide Folders in This PC on Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expand-your-horizons-with-these-elite-science-yts/"><u>In 2024, Expand Your Horizons with These Elite Science YTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-luminarx-the-freepaid-lightroom-rival-list/"><u>In 2024, LuminarX  The Free/Paid Lightroom Rival List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premiere-pro-excellence-through-fs-views/"><u>In 2024, Premiere Pro  Excellence Through FS Views</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-computing-through-time-with-windows/"><u>Insight: Computing Through Time with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-laptop-battery-with-simple-onoff-tweaks/"><u>Maximize Laptop Battery with Simple On/Off Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-auto-updates-and-change-amd-gpu-drives-in-win10/"><u>Navigate Auto-Updates & Change AMD GPU Drives in Win10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/projecting-facebook-videos-onto-your-home-entertainment-system-for-2024/"><u>Projecting Facebook Videos Onto Your Home Entertainment System for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-m6-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco M6 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reinforcing-operational-capabilities-of-windows-problem-solvers/"><u>Reinforcing Operational Capabilities of Windows Problem Solvers</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-the-clear-edge-tips-to-rectify-blurry-win11-displays/"><u>Reveal the Clear Edge: Tips to Rectify Blurry Win11 Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-modify-program-size-on-windows-11/"><u>Simplified Techniques to Modify Program Size on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-clear-vac-failed-windows-error/"><u>Solutions to Clear VAC Failed Windows Error</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-x80780119-error-windows-system-restore/"><u>Solving X80780119 Error: Windows System Restore</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-rectify-windows-error-code-30005-create-failure/"><u>Strategies to Rectify Windows Error Code: 30005 Create Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-operations-with-process-insight-and-elegant-theming-in-windows-11/"><u>Streamline Operations with Process Insight and Elegant Theming in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-group-policies-in-windows-environments/"><u>Streamlining Group Policies in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/stuck-xbox-on-windows-heres-how-to-unlock-it/"><u>Stuck Xbox on Windows? Here's How to Unlock It</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-technology-turmoil-essential-techniques-for-windows-application-resets/"><u>Taming Technology Turmoil: Essential Techniques for Windows Application Resets</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-approach-to-unlock-your-start-menu-potential-in-windows-11/"><u>The Ultimate Approach to Unlock Your Start Menu Potential in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unreachable-ms-sql-server-for-malwarebytes-on-win-1011/"><u>Troubleshooting Unreachable MS SQL Server for Malwarebytes on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unifying-computing-windows-adapts-to-iphones-ipads-macs-and-desktops/"><u>Unifying Computing: Windows Adapts to iPhones, iPads, Macs, and Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-worlds-on-the-move-best-smartphone-compatible-vr-gear/"><u>Virtual Worlds on the Move  Best Smartphone-Compatible VR Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/where-windows-keeps-your-image-snaps/"><u>Where Windows Keeps Your Image Snaps</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-file-integrity-6-strategies-for-checksum-precision/"><u>WinRAR File Integrity: 6 Strategies for Checksum Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/worldwide-unity-windows-encompasses-iphoneipad-macpc-communities/"><u>Worldwide Unity: Windows Encompasses iPhone/iPad, Mac/PC Communities</u></a></li>
+</ul></div>

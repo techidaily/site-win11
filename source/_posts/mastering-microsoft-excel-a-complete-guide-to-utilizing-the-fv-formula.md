@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Complete Guide to Utilizing the FV Formula"
-date: 2024-08-28 20:24:44
-updated: 2024-08-29 12:58:59
+date: 2024-08-28T00:48:01.939Z
+updated: 2024-08-29T00:48:01.939Z
 tags:
   - excel
 categories:
@@ -34,18 +34,27 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
  To determine the future [value of your investment](https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/), make sure you have the annual interest rate, the total number of payments, and the payment amount each period.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use the FV Function
 
  As an example, we have our rate in cell B2, number of payments in cell B3, and payment amount in cell B4\. Note that you must enter the payment amount as a negative number when using the FV function.
 
 ![Investment data in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InvestmentData-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  Select the cell to display the result. This is where you'll enter the formula for the function. To find the future value of our investment with the data you see, you'd use the following formula:
 
 =FV(B2/12,B3,B4)
 
 ![FV function formula with required arguments only](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaRequiredArguments-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The interest rate is divided by 12 because it's an annual interest rate.
 
  Easy, right? Now let's add in those optional arguments. Here, we'll add a `pv` (present value) of 100 which must also be a negative number. You can use either the value or a cell reference in the formula.
@@ -54,18 +63,27 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 ![FV function formula with present value argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaPVArgument-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, let's add a 1 for the last optional argument of `type` to indicate payments are due at the beginning of the period. Again, you can enter the value or use a cell reference in the formula:
 
 =FV(B2/12,B3,B4,-100,1)
 
 ![FV function formula with all arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaAllArguments-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  If you want to use the `type` argument without the `pv` argument, you can do this by entering nothing between the commas inside the formula as:
 
 =FV(B2/12,B3,B4,,1)
 
 ![FV function formula with type argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaTypeArgument-ExcelFVFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you want to find out how much your investment is worth in the end, the FV function in Excel comes through. For additional help with your finances, take a look at [how to use Microsoft's Money in Excel](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -88,3 +106,50 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-strategies-that-convert-followers-into-fortune-on-instagram/"><u>[New] 2024 Approved  Strategies That Convert Followers Into Fortune on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-acquire-and-setup-windows-xp-movie-creator/"><u>[New] Acquire & Setup Windows XP Movie Creator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-how-to-stream-on-mixer-macos/"><u>[New] How to Stream on Mixer MacOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-live-methods-for-quieter-track-output-for-2024/"><u>[New] Live Methods for Quieter Track Output for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-creative-potential-making-youtube-trailers-in-filmora/"><u>[New] Unleashing Creative Potential  Making YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-images-10-smartphone-front-runners-for-media-makers/"><u>[Updated] Innovating Images  10 Smartphone Front-Runners for Media Makers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-xiaomi-mi-11-crafting-memories-in-unprecedented-detail/"><u>2024 Approved  Xiaomi Mi 11  Crafting Memories in Unprecedented Detail</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-time-capsule-in-digital-form-storing-historic-pictures/"><u>A Time Capsule in Digital Form  Storing Historic Pictures</u></a></li>
+<li><a href="https://facebook.techidaily.com/achieve-serenity-by-shutting-down-fb-alerts/"><u>Achieve Serenity by Shutting Down FB Alerts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-strategies-for-exceptional-color-grading-via-3d-lut-filters/"><u>Advanced Strategies for Exceptional Color Grading via 3D LUT Filters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/character-development-through-authentic-dialogue-for-2024/"><u>Character Development Through Authentic Dialogue for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-demystified-guiding-you-through-win11-upgrades/"><u>DevHome Demystified: Guiding You Through Win11 Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-ms-resouce-text-error-on-windows-11/"><u>Eliminating Ms-Resouce Text Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-unsupported-windows-hello-scanner-mismatch/"><u>Eliminating the Unsupported Windows Hello Scanner Mismatch</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-11s-isdonedll-problem-steps/"><u>Eliminating Windows 11'S ISDone.dll Problem Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-fixing-failed-windows-mmc-creations/"><u>Expert Guide to Fixing Failed Windows MMC Creations</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-startup-functionality-for-a-smooth-windows-11-launch/"><u>Fine-Tuning Startup Functionality for a Smooth Windows 11 Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-iphoneipad-photo-import-error-a-compreayers-approach-on-w11/"><u>Fixing iPhone/iPad Photo Import Error: A Compreayer’s Approach on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-unprompted-gaming-suggestions-on-windows-11/"><u>Halt Unprompted Gaming Suggestions on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-xswindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone XS/Windows/Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11x-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11x Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-visual-identification-displaying-this-pc-icon/"><u>Improve Visual Identification: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-12-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi 12 online without jailbreak</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone XS Max</u></a></li>
+<li><a href="https://win11.techidaily.com/master-compatibility-fixes-without-the-troubleshooter/"><u>Master Compatibility Fixes Without the Troubleshooter</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-new-window-11-the-best-modifications-for-an-optimized-experience/"><u>Master Your New Window 11: The Best Modifications for an Optimized Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-with-sticky-notes-in-w11w10/"><u>Maximize Productivity with Sticky Notes in W11/W10</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-back-to-your-copilot-in-ws11-spacecraft/"><u>Navigate Back to Your Copilot in WS11 Spacecraft</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-a-new-era-of-interactive-technology-between-pc-and-galaxy/"><u>Navigating a New Era of Interactive Technology Between PC & Galaxy</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-clipboard-utility-in-windows-11-pcs/"><u>Optimizing Clipboard Utility in Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-desk-view-including-this-pc-on-the-screen/"><u>Personalize Desk View: Including 'This PC' On the Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-write-rights-to-steam-directories-with-windows-11/"><u>Securing Write Rights to Steam Directories with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-puzzle-of-a-unresponsive-discord-overlay-in-windows/"><u>Solving the Puzzle of a Unresponsive Discord Overlay in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-sound-system-upgrade-with-atmos-on-win-1011/"><u>Streamlined Sound System Upgrade with Atmos on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-sign-in-with-windows-hello-biometrics/"><u>Streamlining Sign-In with Windows Hello Biometrics</u></a></li>
+<li><a href="https://win11.techidaily.com/tapping-into-hidden-taskbar-explorer-of-windows-11/"><u>Tapping Into Hidden Taskbar Explorer of Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lenovo-frp-by-drfone-android/"><u>The Updated Method to Bypass Lenovo FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-whiz-11-common-problems-solutions-revealed/"><u>The Windows 11 Whiz: 11 Common Problems, Solutions Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/top-factors-for-choosing-windows-10-over-the-latest-operating-system-win11/"><u>Top Factors for Choosing Windows 10 over the Latest Operating System - Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-selecthighlight-capabilities-in-windows-pdf-viewer/"><u>Unblock Select/Highlight Capabilities in Windows' PDF Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-app-execution-variants-and-usage/"><u>Understanding App Execution Variants & Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-vanishing-printmanagement-in-windows/"><u>Unraveling the Mystery of Vanishing 'Printmanagement' In Windows</u></a></li>
+</ul></div>

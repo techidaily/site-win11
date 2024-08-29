@@ -1,7 +1,7 @@
 ---
 title: "Discovering Essential Microsoft Excel Functions: A Comprehensive Guide"
-date: 2024-08-28 10:50:31
-updated: 2024-08-29 10:56:53
+date: 2024-08-28T00:47:45.447Z
+updated: 2024-08-29T00:47:45.447Z
 tags:
   - excel
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![Search for a function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/SearchForFunction-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  The drop-down list will also help you quickly find a useful function. Click it, next to the words "Or Select a Category," and pick a category. You'll see common options like Financial, [Logical](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), Text, and more. By selecting a category you'll see all available functions within it.
 
 ![Choose a function category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionCategories-ExcelFindFunction.png) 
@@ -50,14 +53,23 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![Most Recently Used functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/RecentlyUsed-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  In most cases, whether you search or select a category, this simply narrows down the choices for you. So the next step in finding the function you need is checking out the descriptions. Click a function in the list and you'll see its description and syntax at the bottom of the window.
 
 ![Function description and syntax](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionDescription-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  For example, you might need a quartile function. You can see that Excel offers a few different options. By selecting each and viewing their descriptions, you should be able to see the correct one for you.
 
 ![Quartile function description](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/QuartileFunction-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If once you narrow down the function choices and view the descriptions, you're still unsure if it's the right function for you, you can [get additional help](https://win11-tips.techidaily.com/understanding-and-fixing-windows-headset-mic-noise/). Select the function in the list and click "Help on This Function" on the lower-left corner of the window.
 
 ![Click Help on This Function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/HelpOnFunction-ExcelFindFunction.png) 
@@ -70,6 +82,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 | Types                        | [Basic](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) **·** [Budgeting](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/) **·** [Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) **·** [Logical](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) **·** [Text](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) **·** [Time and Date](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
 | Explained                    | [Copying Formulas](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) **·** [Evaluating Formulas](https://youtube-blog.techidaily.com/ed-the-role-of-youtube-images-in-video-promotion-and-discovery-for-2024/) **·** [Finding Functions](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) **·** [Fixing Formula Errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) **·** [Functions vs Formulas](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) **·** [Comparing Lookup Functions](https://tech-revival.techidaily.com/examining-codegpts-capabilities-in-tech-innovation/) **·** [Locking Formulas](https://some-guidance.techidaily.com/in-2024-unveiling-effective-sales-methods/) **·** [Structuring Formulas](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) **·** [Translating Formulas](https://extra-tips.techidaily.com/techniques-to-reduce-nausea-while-in-vr/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  |
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  Use a Function You Find
 
  When you locate the function you want to use, be sure you have the cell selected where you want to insert it. Then, either double-click the function in the list or select it and click "OK."
@@ -84,6 +99,11 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![View the function and formula details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArgumentsDetails-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  Let's look at a simple example. Here, we selected [the SUM function](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/). In the Function Arguments window, we entered the cell range in the Number1 box. You can see to the right of the box, the values in those cells and you can view the result of the formula in two spots in the window.
 
 ![Enter the arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArguments-ExcelFindFunction.png) 
@@ -92,6 +112,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Try Formula AutoComplete
 
  One other way to find a function in Excel is by using Formula AutoComplete. This is useful if you know the function you want but aren't sure of the variation you need.
@@ -126,3 +149,50 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-10-boosters-for-multi-device-use-for-2024/"><u>[New] Essential 10 Boosters for Multi-Device Use for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-steps-for-organizing-youtube-content/"><u>[New] In 2024, Essential Steps for Organizing YouTube Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-obs-studio-vs-bandicam-a-comprehensive-performance-review/"><u>[New] In 2024, OBS Studio Vs. Bandicam  A Comprehensive Performance Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-the-art-of-uploading-youtube-videos-on-fb/"><u>[Updated] Mastering the Art of Uploading YouTube Videos on FB</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-correcting-user-portrait-errors-in-digital-dialogue/"><u>2024 Approved  Correcting User Portrait Errors in Digital Dialogue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-kali-a-windows-users-guide/"><u>Dive Into Kali: A Windows User's Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-6-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 6 Plus Safe and Legal</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-flicker-in-windows-os-a-step-by-step-guide/"><u>Eliminating Flicker in Windows OS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-fullscreen-experience-tackling-windows-overscan/"><u>Enhance Fullscreen Experience: Tackling Windows Overscan</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-iphone-picture-clarity-despite-lower-resolution-cameras/"><u>Enhancing iPhone Picture Clarity Despite Lower Resolution Cameras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-playability-eliminating-latency-issues-in-mass-effect-legendary-edition/"><u>Enhancing Playability: Eliminating Latency Issues in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-you-through-ctrl-key-malfunction-fixes-on-win11/"><u>Guiding You Through Ctrl Key Malfunction Fixes on Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-paladins-issues-a-2024-complete-solution/"><u>How To Fix Persistent Paladins Issues - A 2024 Complete Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-do-not-have-access-error-during-uninstall-on-windows-11/"><u>How to Overcome Do Not Have Access Error During Uninstall on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-xbox-game-update-issues-on-pc/"><u>How to Solve Xbox Game Update Issues on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-windows-update-interruptions/"><u>How to Turn Off Windows Update Interruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-wirelessly-connect-a-ps3-dualshock-controller-to-windows/"><u>How to Wirelessly Connect a PS3 DualShock Controller to Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/master-controller-compatibility-steams-essential-guide/"><u>Master Controller Compatibility: Steam's Essential Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-techniques-for-clearing-ms-defender-log-on-pc/"><u>Master the Techniques for Clearing MS Defender Log on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-zero-error-guidance-to-resolve-windows-11-store-glitches/"><u>Mastery over Zero-Error: Guidance to Resolve Windows 11 Store Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-resolving-keyboard-issues-on-windows-11/"><u>Mend: Resolving Keyboard Issues on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/off-the-cuff-tricks-to-work-with-onedrive-locally/"><u>Off-the-Cuff Tricks to Work with OneDrive Locally</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-multiscreen-woes-in-windows/"><u>Overcoming Multiscreen Woes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/protocols-to-regain-lost-connection-on-windows/"><u>Protocols to Regain Lost Connection on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-adding-dolby-atmos-in-win-11-pro/"><u>Quick Steps for Adding Dolby Atmos in Win 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-your-intel-unison-problems-with-these-steps/"><u>Resolve Your Intel Unison Problems with These Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/rethinking-user-authorization-on-windows-systems/"><u>Rethinking User Authorization on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-w11s-chrome-immediate-troubleshooting-advice/"><u>Revive W11's Chrome - Immediate Troubleshooting Advice!</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-write-rights-to-steam-directories-with-windows-11/"><u>Securing Write Rights to Steam Directories with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/slash-cpu-usage-spikes-utilizing-windows-rm-wisdom/"><u>Slash CPU Usage Spikes: Utilizing Window's RM Wisdom</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/solving-the-data-recovery-impasse-a-guide-for-unsticking-your-iphone/"><u>Solving the 'Data Recovery' Impasse: A Guide for Unsticking Your iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-autonomous-opens-in-microsoft-marketplace/"><u>Stopping Autonomous Opens in Microsoft Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-app-screens-on-windows-11-properly/"><u>Tailoring App Screens on Windows 11 Properly</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-joining-onedrive-with-liveid-windows/"><u>The Ultimate Guide: Joining OneDrive with LiveID (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-whiz-11-common-problems-solutions-revealed/"><u>The Windows 11 Whiz: 11 Common Problems, Solutions Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-aoc-monitor-issue-on-windows-11/"><u>Troubleshooting Guide: Fixing the Non-Responsive AOC Monitor Issue on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-v29e-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo V29e FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/win-over-typing-lag-seven-effective-fixes-for-win-os/"><u>Win over Typing Lag: Seven Effective Fixes for WIN OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-preparedness-generate-boot-media-in-three-steps/"><u>Windows 11 Preparedness: Generate Boot Media in Three Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-trick-showhide-user-defined-directories/"><u>Windows 11 Trick: Show/Hide User-Defined Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-weather-wisdom-best-forecasting-tools-roundup/"><u>Windows 11 Weather Wisdom: Best Forecasting Tools Roundup</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-gameplay-steps-to-recover-disconnected-league/"><u>Winning Back Gameplay: Steps to Recover Disconnected League</u></a></li>
+</ul></div>

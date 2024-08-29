@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel Functionality: How To Insert Text Data Into A Cell Via Formula"
-date: 2024-08-26 16:11:43
-updated: 2024-08-29 11:23:44
+date: 2024-08-28T00:47:59.557Z
+updated: 2024-08-29T00:47:59.557Z
 tags:
   - excel
 categories:
@@ -32,6 +32,18 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-excel-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the chosen cell, type the following formula and press Enter. In this formula, replace `Mr. ` (note the space after the text) with the text you want to add and `B2` with the reference of the cell where you want to append your text.
 
 ="Mr. "&B2
@@ -58,6 +70,9 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4-excel-choose-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
  In the selected cell, type the following formula and press Enter. Here, replace `B2` with the cell where your existing text is and ` (Journalist)`with the text you want to append.
 
 =B2&" (Journalist)"
@@ -66,6 +81,10 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Add text after text using the & operator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-add-text-after-text.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  If you'd like to use the `CONCAT` function, then in your chosen cell, enter the following and press the Enter key. Once again, replace `B2` with the cell containing your existing text and ` (Journalist)` with the text you want to add.
 
 =CONCAT(B2," (Journalist)")
@@ -86,6 +105,9 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
 
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/7-excel-click-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the selected cell, type the following formula and press Enter. Here, replace all instances of `C2` with your cell reference, `-` (hyphen) with the text you want to add, and `2` with the number of characters after which you want your custom text to appear.
 
 =LEFT(C2,2)&"-"&RIGHT(C2,LEN(C2)-2)
@@ -94,6 +116,9 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
 
 ![Insert text after specific characters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/8-excel-add-text-nth-character.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Add Text After a Specific Character
 
  In case you want to add text after or before a specific character in a cell's text content, then use Excel's `LEFT` , `SEARCH` , `RIGHT` , and `LEN` functions.
@@ -106,6 +131,9 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
 
 ![Append text after a specific character.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/9-excel-add-text-after-specific-character.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  Once you've used a formula or function from the above sections, you can [automatically copy it for all your records](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) in the sheet. To do that, from the bottom-right corner of the cell where you've entered your function or formula, drag downwards until all your records are covered. And that's all.
 
  Is your concatenated text not fitting Excel's default cell size? There's a way to [shrink or expand your cells](https://youtube-web.techidaily.com/024-approved-ultimate-routine-personalize-your-youtube-shorts-image-credits/).
@@ -124,3 +152,49 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-imagery-with-elegant-borders-ig-edition/"><u>[New] Enhance Imagery with Elegant Borders – IG Edition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>[New] In 2024, Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphoneipad-masterclass-crafting-engaging-interview-and-exploration-podcasts/"><u>[New] IPhone/iPad Masterclass  Crafting Engaging Interview and Exploration Podcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-convert-youtube-to-mp3-safely-top-3-guided-approaches/"><u>[Updated] 2024 Approved  Convert YouTube to MP3 Safely  Top 3 Guided Approaches</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-integrating-unique-emojis-to-your-discord-profile-for-2024/"><u>[Updated] Integrating Unique Emojis to Your Discord Profile for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-best-picks-for-dynamic-collage-designers/"><u>2024 Approved  Android's Best Picks for Dynamic Collage Designers</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-undetected-windows-malware-risks/"><u>Discovering Undetected Windows Malware Risks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-designs-essential-secrets-for-canva-mastery-for-2024/"><u>Elevate Designs  Essential Secrets for Canva Mastery for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-secret-messaging-safety-questioned/"><u>Facebook's Secret Messaging Safety Questioned</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disabled-rules-within-microsoft-outlook-on-windows/"><u>Fixing Disabled Rules Within Microsoft Outlook on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-restore-failed-message-functionality-in-discord/"><u>Guide to Restore Failed Message Functionality in Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-developer-efficiency-master-android-studio-on-windows-os/"><u>Ignite Developer Efficiency: Master Android Studio on Windows OS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>In 2024, TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-techniques-integrating-chatgpt-for-enhanced-audiovisual-creation-in-daws/"><u>Innovative Techniques: Integrating ChatGPT for Enhanced Audiovisual Creation in DAWs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/invisible-footprints-tech-review/"><u>Invisible Footprints  Tech Review</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-voice-troubleshoot-microphone-errors-in-google-meet-windows/"><u>Lost Voice? Troubleshoot Microphone Errors in Google Meet (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealthy-taskview-displacement/"><u>Mastering Stealthy TaskView Displacement</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-connectivity-with-5ghz-networks/"><u>Mastering Windows 11: Connectivity with 5GHz Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-disk-space-with-windows-11s-ntfs-options/"><u>Maximizing Disk Space with Windows 11'S NTFS Options</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-resolving-minecrafts-lan-network-issues/"><u>Navigating and Resolving Minecraft's LAN Network Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/non-responsive-f-keys-heres-how-to-fix-in-windows-10/"><u>Non-Responsive F-Keys? Here's How to Fix in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-admin-policies-that-hinder-setup/"><u>Overcoming Windows Admin Policies That Hinder Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-aid-to-recover-googles-nonresponsive-windows-share-app/"><u>Quick Aid to Recover Google's Nonresponsive Windows Share App</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-for-disconnected-spotify-streaming/"><u>Quick-Fix Guide for Disconnected Spotify Streaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tactics-fixing-windows-printmanagement-loss/"><u>Step-by-Step Tactics: Fixing Windows 'Printmanagement' Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resolving-win-no-connection-problems/"><u>Strategies for Resolving WIN No Connection Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-the-size-limit-hurdle-in-discord-win11/"><u>Strategies to Overcome the Size Limit Hurdle in Discord (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now</u></a></li>
+<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-os-anomalies-a-comprehensive-guide-to-finding-and-fixing-windows-errors-through-command-prompt/"><u>Tackling OS Anomalies: A Comprehensive Guide to Finding & Fixing Windows Errors Through Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-0x800736cc-windows-update-hurdle/"><u>Tackling the 0X800736CC Windows Update Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-overheating-in-pcs-os-w11/"><u>Techniques to Prevent Overheating in PCs OS: W11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-sleight-of-hand-keeping-drives-discreet-on-ws11w10/"><u>The Sleight of Hand: Keeping Drives Discreet on WS11/W10</u></a></li>
+<li><a href="https://win11.techidaily.com/the-undisclosed-menu-maestros-guide-to-win11-concealment/"><u>The Undisclosed Menu Maestro's Guide to Win11 Concealment</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-bat-scripts-winexe-magic/"><u>Transforming .bat Scripts: WinEXE Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-solutions-to-incorrect-games-detection-on-discord-windows/"><u>Unveiling Solutions to Incorrect Games Detection on Discord Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11-login-secrets-fixing-blank-pages/"><u>Unveiling Windows 11 Login Secrets: Fixing Blank Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-windows-11-context-menus-move-and-copy-integration-guide/"><u>Upgrading Windows 11 Context Menus: Move and Copy Integration Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-blue-screen-data-for-precise-repairs/"><u>Utilizing Windows Blue Screen Data for Precise Repairs</u></a></li>
+</ul></div>

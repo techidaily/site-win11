@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials: Unlocking Efficiency with the XLOOKUP Function Demystified"
-date: 2024-08-26 14:18:34
-updated: 2024-08-29 11:36:52
+date: 2024-08-28T00:47:53.571Z
+updated: 2024-08-29T00:47:53.571Z
 tags:
   - excel
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  For the moment, XLOOKUP is only available to users on the Insiders program. Anyone can [join the Insiders program](https://insider.office.com/en-us/) to access the newest Excel features as soon as they become available. Microsoft will soon begin to roll it out to all Office 365 users.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  How to Use the XLOOKUP Function
 
  Let's dive straight in with an example of XLOOKUP in action. Take the example data below. We want to return the department from column F for each ID in column A.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  Let's now explore a couple of advantages XLOOKUP has over VLOOKUP here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  No More Column Index Number
 
  The infamous third argument of VLOOKUP was to specify the column number of the information to return from a table array. This is no longer an issue because XLOOKUP enables you to select the range to return from (column F in this example).
@@ -66,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![Inserted column does not break XLOOKUP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/inserted-column.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Exact Match is the Default
 
  It was always confusing when learning VLOOKUP why you had to specify an exact match was wanted.
@@ -74,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  So in short, XLOOKUP asks fewer questions than VLOOKUP, is more user-friendly, and is also more durable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  XLOOKUP can Look to the Left
 
  Being able to select a lookup range makes XLOOKUP more versatile than VLOOKUP. With XLOOKUP, the order of the table columns does not matter.
@@ -84,12 +96,21 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![Example data for a lookup formula to the left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/lookup-left-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  The following formula can achieve this:
 
         `=XLOOKUP(A2,$E$2:$E$8,$D$2:$D$8)`
     
 ![XLOOKUP function returning a value to its left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/lookup-left-complete.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What to Do If Not Found
 
  Users of lookup functions are very familiar with the #N/A error message that greets them when their VLOOKUP or their MATCH function cannot find what it needs. And often there is a logical reason for this.
@@ -104,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
     
 ![Alternative text if not found with XLOOKUP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/if-not-found-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Using XLOOKUP for a Range Lookup
 
  Although not as common as the exact match, a very effective use of a lookup formula is to look for a value in ranges. Take the following example. We want to return the discount dependent upon the amount spent.
@@ -126,6 +150,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
     
 ![A range lookup with a mistake](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/range-lookup-mistake.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  However, there is a mistake in cell C7 where the #N/A error is returned (the 'if not found' argument was not used). This should have returned a 0% discount because spending 64 does not reach the criteria for any discount.
 
  Another advantage of the XLOOKUP function is that it does not require the lookup range to be in ascending order as VLOOKUP does.
@@ -134,6 +161,9 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![Fix the mistake by expanding the used range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/expand-lookup-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  The formula immediately corrects the error. It is not a problem with having the "0" at the bottom of the range.
 
 ![Error fixed by expanding lookup table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/error-fixed.png) 
@@ -156,6 +186,12 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
     
 ![XLOOKUP as a HLOOKUP function replacement](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/hlookup.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  XLOOKUP Can Look From the Bottom-Up
 
  Typically, you need to hunt down a list to find the first (often only) occurrence of a value. XLOOKUP has a sixth argument named search mode. This enables us to switch the lookup to start at the bottom and look up a list to find the last occurrence of a value instead.
@@ -202,3 +238,39 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-basic-recorder-your-windows-10-companion/"><u>[New] 2024 Approved  Basic Recorder - Your Windows 10 Companion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-guide-to-live-broadcasts-optimizing-with-obs-for-youtube-and-twitch/"><u>[New] 2024 Approved  The Essential Guide to Live Broadcasts  Optimizing with OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-craftsmanship-hub-top-after-effects-template-deals/"><u>[New] Craftsmanship Hub  Top After Effects Template Deals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>[New] Cutthroat Countdown  Best Zombies In Gaming Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>[New] Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-operational-handling-of-srt-in-oses/"><u>2024 Approved  Operational Handling of SRT in OSes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pros-cons-and-guide-to-utilizing-samsung-photo-editor/"><u>2024 Approved  Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-substitute-methods-for-the-ls-command-in-windows/"><u>Discovering Substitute Methods for the LS Command in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-listening-game-setup-of-win-1011s-atmos/"><u>Elevate Your Listening Game: Setup of Win 10/11'S Atmos</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-adjustments-for-disabled-windows-defense/"><u>Essential Adjustments for Disabled Window's Defense</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-bluetooth-speaker-volume-control-not-working-in-windows-11/"><u>How to Fix the Bluetooth Speaker Volume Control Not Working in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-video-titans-the-tweeted-and-tested-binge-masters/"><u>In 2024, Prime Video Titans  The #Tweeted and Tested Binge Masters</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-systems-refusal-to-run-latest-windows-version/"><u>Overcoming System's Refusal to Run Latest Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-update-issue-code-0x800f0845/"><u>Overcoming Update Issue: Code 0X800F0845</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-search-service-error-on-pcs/"><u>Overcoming Windows Search Service Error on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wow-error-132-a-step-by-step-guide/"><u>Overcoming WoW Error #132: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/perfectly-pairing-words-and-images-emoji-15-in-win11/"><u>Perfectly Pairing Words and Images: Emoji 15 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-fps-count-apps-to-enhance-your-win-11-gameplay/"><u>Prime FPS Count Apps to Enhance Your Win 11 Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-no-sound-issues-with-usb-headphones-on-a-windows-7-system-guide/"><u>Resolving No-Sound Issues with USB Headphones on a Windows 7 System [Guide]</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-printmanagement-msc-error-a-step-by-step-guide/"><u>Solving 'PrintManagement' MSC Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-deletions-with-customized-context-menus-in-windows/"><u>Speed up Deletions with Customized Context Menus in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-unlock-device-driver-access-in-windows-11/"><u>Strategies to Unlock Device Driver Access in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-upgrades-with-windows-11-in-place-protocols/"><u>Streamlining Upgrades with Windows 11 In-Place Protocols</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-dism-failure-0x800f082f-with-ease/"><u>Tackling Windows' DISM Failure 0X800F082F with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tip-quiet-down-windows-hardware-keys/"><u>Tech Tip: Quiet Down Windows' Hardware Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-to-recover-lost-gpeditmsc-access/"><u>Unlocking Secrets to Recover Lost Gpedit.msc Access</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-innovations-in-noise-suppression-applying-artificial-intelligence-to-improve-sound-quality/"><u>Updated In 2024, Innovations in Noise Suppression Applying Artificial Intelligence to Improve Sound Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/why-isolating-audio-devices-may-be-a-windows-feature/"><u>Why Isolating Audio Devices May Be a Windows Feature?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-control-panel-hacks-usb-access-management/"><u>Windows Control Panel Hacks: USB Access Management</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-not-written-memory-error-on-pc/"><u>Winning Over Not Written Memory Error on PC</u></a></li>
+</ul></div>

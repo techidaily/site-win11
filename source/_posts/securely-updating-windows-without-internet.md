@@ -1,0 +1,149 @@
+---
+title: Securely Updating Windows Without Internet
+date: 2024-08-28T00:55:15.848Z
+updated: 2024-08-29T00:55:15.848Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Securely Updating Windows Without Internet
+excerpt: This Article Describes Securely Updating Windows Without Internet
+keywords: Update WINDOWS Offline,No-Net OS Fixes,Windows Patching Online,Secure WIN Update,Internet-Free Updates,WINOS Remote Security,WINNO Intl Downloads
+thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98f5f309c7652fc768db4746d.jpg
+---
+
+## Securely Updating Windows Without Internet
+
+ If there's a computer that's in an isolated environment, where it can't access the internet, updating it can seem impossible. Luckily, there's a program you can use to download the needed Windows Updates on a computer that has internet access and then install them on the offline computer. It's called Portable Update, and we're going to show you how to use it.
+
+## 1\. Download and Install Portable Update
+
+ To kick things off, you'll need to [connect your PC to the internet](https://www.makeuseof.com/how-to-connect-computer-to-wifi/) and download [Portable Update](https://www.portableupdate.com/), which will be in a ZIP file. Go to where you downloaded the ZIP file, extract it, and place the extracted folder in a USB drive, such as a flash drive or external hard drive.
+
+ The PC you're trying to update should have the same Windows version as the one you're going to use Portable Update on first to download the update files. That means, if the offline computer is using Windows 11, the other one should also use Windows 11\.
+
+ Next, double-click **PortUp.exe** (while it's still plugged into your computer) to launch the portable, lightweight app.
+
+![the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-portable-update-folder.jpg)
+
+ After launching Portable Update, click on **Start** for the app to download the files it needs to run. This process shouldn't take long, and when it's done, the app should open completely.
+
+## 2\. Scan for the Update Files
+
+ Next, you'll have to get Portable Update to search for the update files you need. So, click on the **Search** tab at the top, and then click on **Start** in the top-right corner.
+
+![an empty search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-empty-search-tab-in-portable-update.jpg)
+
+ Once the Portable Update completes its search, it will list the available Windows updates that you can download.
+
+![a populated search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-populated-search-tab-in-portable-update.jpg)
+
+ Now, that you know what's available, it's time to download the files for offline installation.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Download the Windows Update You Want
+
+ To download the files, click on the **Download** tab at the top to view the downloadable files, along with other details, such as their size, and severity. Click on the checkbox on the right of the update you want to download (you can select more than one), and then click on **Start** in the top-right corner of the screen. When selecting the files to download, make sure their **Status** column says **Not Installed**.
+
+![the Download tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-download-tab-in-portable-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+ Once the download finishes, it will disappear from the list. Portable Update will place the Windows Update files in the **Cache** folder, which is where it will look when you try to install them on the other computer.
+
+![the Cache folder in the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-cache-folder-in-the-portable-update-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+ Now you're ready to move the program over to the offline computer.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Install the Selected Windows Updates
+
+ Unplug the USB drive with Portable Update on it, plug it into the offline computer, and launch it. Now, go to the **Install** tab, select all the downloads you want to install, and then click **Start** in the top-right corner. Portable Update will then install the updates.
+
+![the Install tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-tab-in-portable-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+ After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## Install Windows Updates Another Way
+
+ You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-first-row-fun-beyond-the-game-top-alternatives/"><u>[New] In 2024, First Row Fun Beyond the Game  Top Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-xbox-screen-recorder-how-to-guide/"><u>[New] Xbox Screen Recorder How-To Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-amplify-your-brands-voice-with-these-pivotal-promotion-tactics/"><u>[Updated] 2024 Approved  Amplify Your Brand's Voice with These Pivotal Promotion Tactics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-5-video-recording-software-timelapse-edition/"><u>[Updated] 2024 Approved  Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-going-viral-in-60-seconds-the-instagram-video-guidebook/"><u>[Updated] 2024 Approved  Going Viral in 60 Seconds  The Instagram Video Guidebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-emojis-explained-more-than-meets-the-eye/"><u>[Updated] 2024 Approved  Snapchat Emojis Explained  More Than Meets the Eye</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-choosing-an-original-channel-moniker-a-guide-for-filmmakers-with-filmora/"><u>[Updated] In 2024, Choosing an Original Channel Moniker  A Guide for Filmmakers with Filmora</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-rotate-a-video-on-vlc-media-player/"><u>[Updated] In 2024, How to Rotate A Video on VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-restoring-device-recognition-capabilities-on-windows-nt/"><u>Bluetooth Troubleshooting: Restoring Device Recognition Capabilities on Windows nT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-testing-the-latest-google-pixel/"><u>Comprehensive Analysis: Testing the Latest Google Pixel</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-undetected-windows-malware-risks/"><u>Discovering Undetected Windows Malware Risks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-sound-levels-for-disconnected-wirespeakers/"><u>Enhancing Sound Levels for Disconnected Wirespeakers</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disabled-rules-within-microsoft-outlook-on-windows/"><u>Fixing Disabled Rules Within Microsoft Outlook on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-restore-failed-message-functionality-in-discord/"><u>Guide to Restore Failed Message Functionality in Discord</u></a></li>
+<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-developer-efficiency-master-android-studio-on-windows-os/"><u>Ignite Developer Efficiency: Master Android Studio on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-voice-troubleshoot-microphone-errors-in-google-meet-windows/"><u>Lost Voice? Troubleshoot Microphone Errors in Google Meet (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealthy-taskview-displacement/"><u>Mastering Stealthy TaskView Displacement</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-connectivity-with-5ghz-networks/"><u>Mastering Windows 11: Connectivity with 5GHz Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-disk-space-with-windows-11s-ntfs-options/"><u>Maximizing Disk Space with Windows 11'S NTFS Options</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-blue-screen-errors-in-windows-10/"><u>Navigate Past Blue Screen Errors in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-resolving-minecrafts-lan-network-issues/"><u>Navigating and Resolving Minecraft's LAN Network Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-troubleshooting-in-windows-1011s-screen-issues/"><u>Navigating Troubleshooting in Windows 10/11'S Screen Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/non-responsive-f-keys-heres-how-to-fix-in-windows-10/"><u>Non-Responsive F-Keys? Here's How to Fix in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-missing-entry-on-windows-system/"><u>Overcoming Missing Entry on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-admin-policies-that-hinder-setup/"><u>Overcoming Windows Admin Policies That Hinder Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-aid-to-recover-googles-nonresponsive-windows-share-app/"><u>Quick Aid to Recover Google's Nonresponsive Windows Share App</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-for-disconnected-spotify-streaming/"><u>Quick-Fix Guide for Disconnected Spotify Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-xerox-printer-mis-0x800f020b-effective-fixes-and-solutions/"><u>Resolve Window's Xerox Printer MIS-0X800F020B: Effective Fixes and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-nvidia-cp-access-issues-on-ws1110-systems/"><u>Resolving Nvidia CP Access Issues on WS11/10 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-cygwin1dll-missing-file-issue-a-comprehensive-guide/"><u>Solving the 'Cygwin1.dll' Missing File Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-overcome-issues-with-your-instagram-stories/"><u>Step-by-Step Guide to Overcome Issues With Your Instagram Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tactics-fixing-windows-printmanagement-loss/"><u>Step-by-Step Tactics: Fixing Windows 'Printmanagement' Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resolving-win-no-connection-problems/"><u>Strategies for Resolving WIN No Connection Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-the-size-limit-hurdle-in-discord-win11/"><u>Strategies to Overcome the Size Limit Hurdle in Discord (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now</u></a></li>
+<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-os-anomalies-a-comprehensive-guide-to-finding-and-fixing-windows-errors-through-command-prompt/"><u>Tackling OS Anomalies: A Comprehensive Guide to Finding & Fixing Windows Errors Through Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-0x800736cc-windows-update-hurdle/"><u>Tackling the 0X800736CC Windows Update Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-overheating-in-pcs-os-w11/"><u>Techniques to Prevent Overheating in PCs OS: W11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-sleight-of-hand-keeping-drives-discreet-on-ws11w10/"><u>The Sleight of Hand: Keeping Drives Discreet on WS11/W10</u></a></li>
+<li><a href="https://win11.techidaily.com/the-undisclosed-menu-maestros-guide-to-win11-concealment/"><u>The Undisclosed Menu Maestro's Guide to Win11 Concealment</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c110-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C110</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-attention-grabber-composer-for-2024/"><u>Top Attention Grabber Composer for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-bat-scripts-winexe-magic/"><u>Transforming .bat Scripts: WinEXE Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-mechanics-of-windows-11s-auto-hdr/"><u>Understanding the Mechanics of Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-filefolder-secrets-6-property-steps-in-windows/"><u>Unlocking File/Folder Secrets: 6 Property Steps in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-solutions-to-incorrect-games-detection-on-discord-windows/"><u>Unveiling Solutions to Incorrect Games Detection on Discord Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11-login-secrets-fixing-blank-pages/"><u>Unveiling Windows 11 Login Secrets: Fixing Blank Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-windows-11-context-menus-move-and-copy-integration-guide/"><u>Upgrading Windows 11 Context Menus: Move and Copy Integration Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/uphold-your-online-experience-windows-connection-audit/"><u>Uphold Your Online Experience: Windows Connection Audit</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-blue-screen-data-for-precise-repairs/"><u>Utilizing Windows Blue Screen Data for Precise Repairs</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
