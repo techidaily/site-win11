@@ -1,7 +1,7 @@
 ---
 title: Windows 11 ARM Instalation Simplified Through ISO File Processing
-date: 2024-09-01T04:38:29.128Z
-updated: 2024-09-02T04:38:29.128Z
+date: 2024-09-05T08:26:29.001Z
+updated: 2024-09-06T08:26:29.001Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
  If you have an ARM-based device that hasn't officially received the upgrade yet or want to install Windows 11 on your ARM-based Mac, you can do so using the Windows 11 ARM64 ISO file. That said,[Windows 11 and M1 Macs bring some additional challenges](https://www.makeuseof.com/will-windows-11-work-on-mac/) to the table that you should be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are the Limitations of a Windows 11 ARM-based PC?
 
  The biggest limitation of Windows 10 ARM-based PC was its incompatibility with 64-bit Windows applications. Microsoft has resolved this issue by ditching Compiled Hybrid Portable Executable (CHPE) for the new ARM64EC ABI in Windows 11.
@@ -40,7 +46,10 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 * Peripherals and devices will only work if the required drivers are built into Windows 11 or if your device manufacturer has developed drivers for ARM devices.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Download Windows 11 ARM64 ISO
 
@@ -53,28 +62,46 @@ To download the Windows 11 ARM ISO:
 ![uup dump upgrade windows 11 arm64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uup-dump-upgrade-windows-11-arm64.jpg)
 3. When the search page appears, look for the**Windows 11 ARM64** build and click on the build you want to download. You can press**Ctrl + F** to open**Finder** and type**Upgrade to Windows 11** to locate all the builds. Make sure it is an**arm64** build and not the standard x64.
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. ![select language uup download windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/select-language-uup-download-windows-11-arm-.jpg)
 5. On the next page, click the**Language** drop-down and select your preferred language. If you want**English** , leave it as default.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click**Next** .  
 ![choose edition uup dump windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/choose-edition-uup-dump-windows-11-arm.jpg)
 2. Now you need to select the edition to download. Select**Windows Home** and click**Next** .
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3. Next, under the**Download method,** select**Download and convert to ISO.**  
 ![download options windows 11arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/download-options-windows-11arm.jpg)
 4. Next, under**Conversion options** , select**Include updates** and leave other options as default.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. In the right pane, you can view the information about the ISO package, including the total download size, etc.  
 ![download package uup dump conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/download-package-uup-dump-conversion-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. To download the ISO file, click on**Create download package** . UUP Dump will download a zip file containing the ISO download package to your hard drive.
 2. Extract the zip file to locate the files inside.
@@ -84,9 +111,6 @@ To download the Windows 11 ARM ISO:
 
  UUP Dump will save the ISO to your initially extracted folder. You can now use it to[create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to[create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Upgrade Your ARM-based PC to Windows 11
 
  If you use an ARM-based device running Snapdragon 850, 7c and above, and 8cx and above, you can likely upgrade to Windows 11 using the ISO. Also, Microsoft Surface Pro devices running the SQ1 and SQ2 chipset may also support the upgrade.

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Game Files: Three Windows Techniques"
-date: 2024-09-01T04:38:34.367Z
-updated: 2024-09-02T04:38:34.367Z
+date: 2024-09-05T08:26:28.915Z
+updated: 2024-09-06T08:26:28.915Z
 tags:
   - windows10
   - windows11
@@ -24,16 +24,34 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
 ![screenshot of the right click menu showing open file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screcreenshot_of_right_click_menu_open_file_location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The easiest way to find the directory for most games, as well as general programs, is to follow the shortcut.
 
  If you have a shortcut for the game on your desktop, you're able to right-click on this shortcut and click the option **Open file location.** This will open a file window to the location that shortcut points to. For many games, their shortcut should open up the installation directory.
 
  Some game directories store their .exe in different locations. You might arrive at the root directory, or you may arrive at a folder imbedded in this directory. Either way, you're in the right place.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Via the Properties Menu
 
 ![screenshot of the binding of isaac properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_properties_menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Another option would be to use that same shortcut to view the **Properties** menu.
 
  This will display different information about the shortcut you're viewing. Under the **Shortcut** tab, you'll see a field listed as **Target.** This is the file path to the installation directory. All you have to do is [copy this path and paste it into Windows File Explorer](https://www.makeuseof.com/ways-to-copy-full-file-folder-path-windows/).
@@ -41,14 +59,26 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
  This will bring you to the installation directory, as well as tell you exactly where that is.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Via the Game Launcher
 
 ![screenshot of the binding of isaac in steam showing browse local files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_steam_browse_local_files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you've installed your game with a game launcher, such as Steam, or through the Epic Games Store, you'll find easier ways to open up game directories.
 
@@ -59,7 +89,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
  If you still can't track down the game launcher you're looking for, remember that games are just like any other program. All common [ways to find installation directories in Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) will work for games, too.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Finding the Game Directory Is Easy
 

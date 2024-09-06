@@ -1,0 +1,236 @@
+---
+title: Nine Fixes to Troubleshoot 0X8004DEF5 - Windows 11'S Onedrive Predicament
+date: 2024-09-05T08:31:40.081Z
+updated: 2024-09-06T08:31:40.081Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Nine Fixes to Troubleshoot 0X8004DEF5 - Windows 11'S Onedrive Predicament
+excerpt: This Article Describes Nine Fixes to Troubleshoot 0X8004DEF5 - Windows 11'S Onedrive Predicament
+keywords: Win11 ZeroDrive Issue,XError Fixes,ONEDRIVE Troubleshooting,Windows 11 Error,0X8004DEF5 Resolution,Onedrive XP Problems,System Error Correction
+thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb736f1516830c78d9ab2d4d1.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Nine Fixes to Troubleshoot 0X8004DEF5 - Windows 11'S Onedrive Predicament
+
+ Microsoft bundles OneDrive with Windows 11 by default. Despite not being the most popular cloud storage service, it's hard to ignore its 5 GB free cloud storage offer. It's less than Google Drive but still lucrative because it's built into Windows.
+
+ However, some users face the infuriating error code 0x8004def5 whenever they try to launch it. The error code indicates a problem in establishing a connection with OneDrive.
+
+ If you face the same error and cannot log in and access your OneDrive account, don't worry. We will list out multiple methods to restore OneDrive to its working state. Let's begin.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Terminate OneDrive and Restart the App
+
+ Before trying out any complex fixes, you must terminate all the active instances of OneDrive. After that, restart it to check if it connects with the server. Here's how:
+
+1. Press**Ctrl + Shift + Esc** to[open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) .
+2. Go to the top search bar and type**OneDrive** .
+3. Switch to the**Details** tab. Right-click on the**OneDrive.exe** process and select the**End process tree** option from the context menu.
+4. A popup window will launch. Click on the**End process tree** option.  
+![Terminate OneDrive and Restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/terminate-onedrive-and-restart.jpg)
+5. Open the Start menu and type OneDrive. Click on the**Open** option and check if the error pops up.
+
+## 2\. Check if OneDrive Servers Are Down
+
+ OneDrive stores all your data in a dedicated cloud server maintained by Microsoft. Despite promising 99% uptime, it is common for cloud services like OneDrive to encounter outages. Or the service could be down due to scheduled maintenance.
+
+ You can visit the[Microsoft Service Health page](https://portal.office.com/servicestatus) to check which services are down. Alternatively, you can use third-party websites like[DownDetector](https://downdetector.com/) . That way, you can know if other users also face the same server outage issue. If that's the case, you have to wait until Microsoft resolves the problem and brings up the OneDrive servers again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Completely Shut Down and Reboot Your Computer
+
+ Background services are susceptible to glitches and crashes. If one or more such essential services encounter a glitch, it can impede apps that rely on them. However, Windows 11 enables Fast Startup by default which preserves the state of all system and kernel processes for speeding up boot time.
+
+ Even if you shut down the system, it will not close and restart all processes and services. So, you must perform a complete shutdown. Repeat the following steps to do so:
+
+1. Press**Win + R** to open the Run command box. Type**cmd** and press**Ctrl + Shift + Enter** keys to open the command prompt with administrator privileges.
+2. Now, type the following command and press the enter key:**shutdown /s /f /t 0**  
+![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
+3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
+4. Now, launch OneDrive and check if you can access your files.
+
+## 4\. Switch Network Connections
+
+ It is possible that your current ISP, or the network you are connected to, blocks Microsoft's servers. Many users shared they were able to fix the issue when they switched to another network. You can simply create a wireless hotspot from your phone or use USB tethering to share the internet with your Windows computer.
+
+ After that, relaunch the OneDrive app and check if you can access your files on the network. You can also request your ISP to remove the block on your connection to access the OneDrive servers seamlessly in the future.
+
+## 5\. Clear OneDrive Logs
+
+ You can try clearing OneDrive telemetry log files in the app data folder. Here's how to do it:
+
+1. Press**Win + E** to[open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+2. Go to the address bar, type the following path, and replace the "**UserName** " with your PC's username:  
+C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
+3. Press the enter key to navigate to the OneDrive logs folder.
+4. Locate the**userTelemetryCache.otc** file and copy it.**Paste** it to any other disk drive on your system.
+5. Return to the logs folder and**delete** the**userTelemetryCache.otc** file.  
+![Clear OneDrive Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-onedrive-logs.jpg)
+6. Close the File Explorer and restart your system.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. Launch OneDrive and then check if it encounters the same error code.
+
+## 6\. Reset OneDrive
+
+ You can reset some Windows apps by accessing their advanced settings. But OneDrive doesn't have an advanced settings option in the Settings app. So, you need to reset it manually using the command prompt. Here's how:
+
+1. Press**Win + R** to open the Run command box. Type**cmd** and press the Enter key to open a new Terminal window.
+2. Type the following command and press the enter key:  
+%localappdata%\Microsoft\OneDrive\onedrive.exe /reset
+3. Wait for the command to reset OneDrive. You will see the OneDrive window popup informing you that the reset is underway.  
+![Reset OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-1.jpg)
+4. Close the app after you see the "Reset completed" message. Restart your system.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 7\. Reinstall OneDrive Using Winget
+
+ If resetting the app didn't work, consider a complete reinstall. It will fix any underlying corruption with the app files and install the latest version on your system. Here's how to do it with the Winget tool:
+
+1. Press**Win + R** to open the Run command box. Type**cmd** in the text box and press**Ctrl + Shift + Enter** keys to open the command prompt with administrator privileges.
+2. Type the**winget list onedrive** command and press the enter key.**Copy** the**ID** of the OneDrive app.
+3. Now, run the**winget uninstall** command with the OneDrive app ID. This is what it will look like:**Winget uninstall Microsoft.OneDrive**
+4. Wait for winget to remove OneDrive from your system. To confirm the uninstallation, type the following command:**winget list onedrive**
+5. You will see that no package named OneDrive is not present on your system.  
+![Reinstall OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-1.jpg)
+
+1. Type**cls** to clear the command prompt window.
+2. Now, input the following command and press the enter key:**winget install Microsoft.OneDrive**  
+![Reinstall OneDrive 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-2.jpg)
+3. Wait for the tool to download and install OneDrive on your system. You don't need to interact with the installer.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. **Close** the command prompt window after seeing the "**Successfully installed** " message.
+5. Launch OneDrive. You will have to**sign in** with your account.
+6. Check if you can connect and browse your files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Rollback Windows Updates
+
+ New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 9\. Restore or Reset the PC
+
+ If you still face the OneDrive error code, it's time to[perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
+
+## Make OneDrive Functional Again
+
+ OneDrive can fail to connect with the server for a variety of reasons. Start with basic troubleshooting and check if the OneDrive servers are active. After that, delete the telemetry log files and reset the app. If that has no impact, reinstall the OneDrive app and log in again.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>[New] 2024 Approved  Conquering Social Media with IG Videos  Planning an Optimal Strategy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-dropping-drama-the-best-podcast-beginnings/"><u>[New] 2024 Approved  Dropping Drama  The Best Podcast Beginnings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-data-to-drama-utilizing-google-trends-in-video-planning-for-2024/"><u>[New] From Data to Drama  Utilizing Google Trends in Video Planning for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-decrypting-youtubes-view-count-calculation-system/"><u>[New] In 2024, Decrypting YouTube’s View-Count Calculation System</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unboxing-the-power-of-yis-high-definition-cam/"><u>[New] In 2024, Unboxing the Power of YI's High Definition Cam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-latest-leap-in-tech-samsungs-ultrablade-k850-update/"><u>[New] Latest Leap in Tech - Samsung's UltraBlade K850 Update</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>[Updated] Enabling Your Brand's Mobile Reach  Launching YouTube Channels with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-x8b-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor X8b to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>Capture Your Gameplay  Essential Webcams For Twitch Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-circle-cinematic-mounts/"><u>Complete Circle Cinematic Mounts</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-one-channel-sound-issue-for-windows-bluetooth-device/"><u>Correcting One-Channel Sound Issue for Windows' Bluetooth Device</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-windows-bar-to-reflect-internet-speed/"><u>Customizing Windows Bar to Reflect Internet Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/disguising-windows-11-taskbars-task-view-control/"><u>Disguising Windows 11 TaskBar's Task View Control</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-your-pc-with-these-critical-windows-update-tips/"><u>Empower Your PC with These Critical Windows Update Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-emails-and-calls-how-to-connect-google-duo-with-gmail-efficiently/"><u>Enhancing Emails and Calls: How to Connect Google Duo with Gmail Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-malfunctioning-windows-keyboard-buttons/"><u>Fix Malfunctioning Windows Keyboard Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-the-task-managers-real-time-update-speed-on-windows-11/"><u>How to Change the Task Manager's Real-Time Update Speed on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102279377-how-to-fix-the-last-usb-device-malfunctioned-and-windows-doesnt-recognize-it/"><u>How to Fix The Last USB Device Malfunctioned and Windows Doesn't Recognize It</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-error-0x80041015-in-microsoft-office/"><u>How to Reset Error 0X80041015 in Microsoft Office</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unmute-yourself-on-google-meet-windows-edition/"><u>How to Unmute Yourself on Google Meet, Windows Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-creative-content-vimeo-vs-youtubes-approach/"><u>In 2024, Elevating Creative Content  Vimeo vs YouTube's Approach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-key-tips-for-configuring-and-measuring-effective-fb-instream-ads/"><u>In 2024, Key Tips for Configuring and Measuring Effective FB Instream Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-collective-evaluation-of-vllo/"><u>In 2024, The Collective Evaluation of VLLO</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-highly-capable-dell-xps/"><u>In-Depth Look at the Highly Capable Dell XPS</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-time-management-with-windows-11-calendar/"><u>Leverage Time Management with Windows 11 Calendar</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-graphics-prowess-in-windows-11s-shielded-mode/"><u>Leveraging Graphics Prowess in Windows 11'S Shielded Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cc-adjustments-in-windows-11/"><u>Mastering CC Adjustments in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-command-line-for-wordpad-activation/"><u>Mastering Command Line for WordPad Activation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-picture-in-picture-settings-for-youtube-ios/"><u>Mastering Picture-in-Picture Settings for YouTube (iOS)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximize-your-sound-experience-on-windows-e-volume-adjustment-tips/"><u>Maximize Your Sound Experience on Windows E: Volume Adjustment Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-failed-volume-backup-in-microsoft-os/"><u>Mending Failed Volume Backup in Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-window-11-opengl-driver-flaw-code-3/"><u>Mending Window 11 OpenGL Driver Flaw Code #3</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-high-end-hardware-overuse-in-games/"><u>Mitigating High-End Hardware Overuse in Games</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-git-branches-using-github-desktop-in-win-11/"><u>Navigating Git Branches Using GitHub Desktop in Win 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-cloud-based-gaming-a-focus-on-xbox-game-pass-ultimate/"><u>Navigating the World of Cloud-Based Gaming: A Focus on Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-collaboration-and-efficiency-master-these-5-innovative-window-tips/"><u>Optimize Collaboration and Efficiency: Master These 5 Innovative Window Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-freeze-fixing-error-0x887a0006/"><u>Overcoming Device Freeze: Fixing Error 0X887A0006</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-grammarly-freeze-on-windows-systems/"><u>Overcoming Grammarly Freeze on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-nvidia-experience-connection-issues-on-win-11/"><u>Overcoming Nvidia Experience Connection Issues on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-file-organization-skills-in-windows-11-edition/"><u>Perfect Your File Organization Skills in Windows 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-non-working-shortcuts-guide-to-solving-win-11-issues/"><u>Rectify: Non-Working Shortcuts - Guide to Solving Win 11 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-11s-video-conferencing-snag-code-1132/"><u>Rectifying Windows 11'S Video Conferencing Snag: Code 1132</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-application-displacement-on-pc/"><u>Resolving 'Application Displacement on PC'</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unauthorized-user-profile-issue-in-windows/"><u>Resolving Unauthorized User Profile Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-correcting-code-0x0000004e-on-pcs/"><u>Solutions for Correcting Code 0X0000004E on PCs</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Vivo</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-recalibration-windows-update-restart-guide/"><u>Streamlining System Recalibration: Windows Update Restart Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-up-your-desktop-how-to-change-themes-in-win11/"><u>Switching Up Your Desktop: How To Change Themes in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/texting-basics-unveiled-expert-tips-for-communicating-via-your-ipad/"><u>Texting Basics Unveiled: Expert Tips for Communicating via Your iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-for-resurrecting-non-operative-resource-monitors-in-win11/"><u>Tips & Tricks for Resurrecting Non-Operative Resource Monitors in Win11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/ultimate-guide-to-share-your-igtv-story-with-ease-for-2024/"><u>Ultimate Guide to Share Your IGTV Story with Ease for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-window-to-climate-control-best-apps-for-windows-11/"><u>Ultimate Window to Climate Control: Best Apps for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-vcplusplus-distributor-functions/"><u>Understanding VC++ Distributor Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-high-fidelity-audio-dolby-atmos-integration-steps/"><u>Unlocking High-Fidelity Audio: Dolby Atmos Integration Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-arm-installation-made-simple-via-iso-download-guide/"><u>Windows 11 ARM Installation Made Simple via ISO Download Guide</u></a></li>
+</ul></div>

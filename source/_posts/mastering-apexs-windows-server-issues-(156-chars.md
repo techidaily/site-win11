@@ -1,7 +1,7 @@
 ---
 title: Mastering Apex's Windows Server Issues (<156 Chars)
-date: 2024-09-01T04:35:27.577Z
-updated: 2024-09-02T04:35:27.577Z
+date: 2024-09-05T08:26:31.803Z
+updated: 2024-09-06T08:26:31.804Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Apex Windows Server Tips,Solving Apex Servers,Fixing Apex Windows Erro
 thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a0277fd1f77229ad231586b5b14.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Apex's Windows Server Issues (<156 Chars)
 
  Apex Legends is one of Windows's most popular Battle Royale Hero shooter games. But like any other online game, it can run into issues from time to time. One of the popular Apex Legends problems is the "no server found" error code.
 
  The error indicates that there's an issue in connecting with the game servers. So, if you also encounter the same problem, consider trying the below solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Triggers the "No Server Found" Error in Apex Legends?
 
  One of the instances in which the error code can appear is when the game servers are currently facing downtime. But there are many more reasons that can be responsible for the issue. Let's check them out first before driving into the solutions.
@@ -30,6 +42,18 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
 Now let's check out all the solutions in detail.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Check the Apex Legends Server Status
 
 ![Apex Legends Server status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Apex-Legends-Server-Page.jpg)
@@ -38,18 +62,12 @@ Now let's check out all the solutions in detail.
 
  So, whenever you face the problem at hand, first check the server status of the game. You can do this by visiting the[Apex Legends server-status checking webpage](https://apexlegendsstatus.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
  Most of server connection-related issues in online multiplayer games often result from a weak internet connection. So, check the internet connection whenever you face the problem at hand. You can do it by visiting one of the[internet-speed checking websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If you are getting a comparatively lower speed, consider power cycling the router. If that doesn't help, contact your ISP.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Run Apex Legends With Administrative Rights
 
  Running apps without administrative rights can cause issues, especially if the app requires an internet connection. So, ensure you are running Apex Legends as an administrator. Here's how.
@@ -65,9 +83,6 @@ Relaunch the game and check if you still face the problem.
 
 ![Different servers of Apex Legends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/different-servers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another quick way to resolve the issue is to switch to a different server within your region. However, this fix will only be helpful if there's a regional server outage. If all the servers are down, then try the next solution.
 
  Also, be prepared to experience comparatively higher ping on the new server, but it's still better than waiting for the servers to become operational again.
@@ -76,9 +91,6 @@ Relaunch the game and check if you still face the problem.
 
 ![Repair option in EA app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Games may start misbehaving and throw different errors if there's corruption in their files. Fortunately, you can quickly eliminate this issue by verifying the game files.
 
  When you verify game files, launchers will compare the game files on your computer with those on its servers. If it finds corruption in any file, it'll automatically replace it with its counterpart. Here's how to verify Apex Legends files in the EA app:
@@ -102,16 +114,20 @@ Relaunch the game and check if you still face the problem.
 ![Turn off proxy on Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Turn-off-proxy.jpg)
 5. Click on**OK.**
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to connect with the game servers again and check if the problem is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Update Your Network Adapter Drivers
 
  As aforementioned, corrupt or outdated network adapters can adversely affect the connectivity. So, to keep the system free from connection issues, download the latest network driver update. Here's how.
@@ -120,6 +136,12 @@ Relaunch the game and check if you still face the problem.
 2. Right-click on the installed**Network adapters** and choose**Update driver** .  
 ![The network adapters section in Windows Device Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update-network-drivers-win-11.jpg)
 3. Click on**Search automatically for drivers** .
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Windows will now look for and download the best available driver update.
 
  Check if the issue is fixed or not. If Windows can't find any drivers, look online for your adapter's manufacturer and see if they have newer drivers on its support page.
@@ -132,11 +154,14 @@ Relaunch the game and check if you still face the problem.
 2. In the**Processes** tab, right-click on all the bandwidth-consuming applications like Google Chrome and choose**End task** .  
 ![Task Manager End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch the game and check for the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Switch to Google's DNS Server
 
  The next solution on the list is to switch to the Google DNS server. As it turns out, if your current[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is unstable, you will most likely face the issue.
@@ -149,6 +174,12 @@ Launch the game and check for the problem.
 4. Click on**Edit** next to the**DNS server assignment** .  
 ![Wi-Fi properties screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/DNS-server.jpg)
 5. Click on the drop-down icon under**Edit DNS settings** , and choose**Manual** from the context menu.
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. As per your DNS provider, choose**IPv4** or**IPv6.**
 7. If you choose**IPv4,** enter**8.8.8.8** and**8.8.4.4** in**Preferred** and**Alternate DNS servers,** respectively.
 8. If you choose**IPv6,** enter**2001:4860:4860::8888** and**2001:4860:4860::8844** in**Preferred** and**Alternate DNS servers,** respectively.  
@@ -156,8 +187,10 @@ Launch the game and check for the problem.
 9. Click on**Save.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 10\. Clear the DNS Cache
 
@@ -169,22 +202,19 @@ Launch the game and check for the problem.
 2. Type**ipconfig /flushdns** and press Enter.  
 ![running flushdns command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/flushdns-terminal.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait until the process is complete. Once done, reboot the system and check for the issue.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 11\. Reset Your Network
 
@@ -199,15 +229,18 @@ Launch the game and check for the problem.
 
  After the reset process is complete, you'll notice you are no longer facing the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12\. Try Different Launcher
 
  Are you still experiencing server issues in Apex Legends? If so, the problem may be with your launcher rather than your system.
 
  The only solution here is to switch to a different game launcher. If you're using Origin, try switching to Steam or vice versa.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apex Legends "No Servers Found" Issue, Fixed
 
  Apex Legends no server issue can appear anytime and stop users from playing the game. Thankfully, it's straightforward to get rid of the problem. Just try the above solutions to get rid of the issue for good.

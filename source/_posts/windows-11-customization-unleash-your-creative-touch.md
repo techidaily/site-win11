@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Customization: Unleash Your Creative Touch"
-date: 2024-09-01T04:38:03.852Z
-updated: 2024-09-02T04:38:03.852Z
+date: 2024-09-05T08:26:29.391Z
+updated: 2024-09-06T08:26:29.391Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,12 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
  In this article, we will explore some of the ways to help you achieve more personalized search results on your Windows 11 PC, beginning from privacy settings to managing search indexes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Turn On Safe Search
 
  Considering the amount of inappropriate content on the internet, it might be necessary to put mechanisms in place to block out any adult content in your search, especially if you have little ones around.
@@ -35,6 +41,12 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 2. Under**Windows permissions,** click**Search permissions** .  
 ![Screenshot of windows 11 privacy settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-settings-page.jpg)
 3. This will open up SafeSearch settings, under which three options exist:**Strict** ,**Moderate,** and**Off** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of safesearch settings page on windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-safesearch-settings-page-on-windows11.jpg)
 
  The**Strict** setting will filter out all adult content in texts, images, and videos from web previews. On the other hand, the**Moderate** setting will only filter out adult images and videos, excluding text. Lastly, the**Off** option will disable the filter entirely from your web results.
@@ -49,8 +61,26 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 2. Then, by clicking your profile in the top right corner, you see a list of the accounts connected to Windows Search.  
 ![Screenshot of windows search on taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-search-on-taskbar.jpg)
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
@@ -59,7 +89,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 ![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Clear Search History on Your Device
 
@@ -69,18 +102,12 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![Screenshot of windows 11 Privacy & Security page (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Clear device Search history** to delete search history on your device.
 
  You can also delete your cloud search history, as well as exclude web searches from your search suggestions.
 
  Results from the Windows search will often bring up previews of web results. If you find this a bit confusing, you can exclude web search results to streamline your search to only local results from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Enable App Launch Tracking
 
  Enabling app launch tracking on your PC lets Windows monitor the apps you frequently use to improve your search results. Thus, you can access these apps easily, especially from the start menu.
@@ -90,7 +117,16 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Utilize Enhanced Search
 
@@ -104,17 +140,23 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Harnessing the Power of Windows Search
 

@@ -1,7 +1,7 @@
 ---
 title: How to Record Calls on Windows
-date: 2024-09-01T04:39:28.056Z
-updated: 2024-09-02T04:39:28.056Z
+date: 2024-09-05T08:26:28.077Z
+updated: 2024-09-06T08:26:28.077Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  In this guide, we will discover how to record on Windows using the built-in feature as well as discuss some third-party applications that can help. Proceed with the method that works best for you while keeping the legal guidelines in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Use the Voice Recorder App
 
  The easiest way to record calls on Windows is by using the Voice Recorder application that comes built into Windows.
@@ -31,8 +37,26 @@ Here is how you can use it to record your calls:
 3. In the app, choose your preferred sound device on the left side of the window.  
 ![Choose your sound device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-device.jpg)
 4. Once done, click on the recording button to begin the recording when you are ready.  
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Press the Record button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-record.jpg)
 5. Alternatively, press the Ctrl + R keys on the keyboard to start the recording.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click**Yes** in the User Account Control prompt to grant the app permission to access your sound device.
 2. Press the**Pause** button or press the Alt + P keys together to pause the recording.
@@ -40,8 +64,26 @@ Here is how you can use it to record your calls:
 4. Once the recording has stopped, you can share it by pressing the**Share** icon in the top right corner of the window.  
 ![Share the recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-share.jpg)
 5. To access more options, click on the three dots in the top right corner. You can choose to rename and delete the recording or access the settings menu.  
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Advanced menu of the recorder app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-recorder-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Your recording is now ready to be used.
 
  In case the Voice Recorder app fails to record, it might be because the Stereo Mix mixer is disabled. In that case, you should first enable it and then follow the steps we have listed above.
@@ -54,6 +96,12 @@ Follow these steps to proceed:
 4. Choose**Show Disabled Devices** from the context menu.  
 ![View the disabled devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sound-show-disabled-devices.jpg)
 5. You should now see Stereo Mix in the dialog. Right-click on it and choose**Enable** .
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Once done, right-click on the sound icon in your taskbar.
 2. Choose**Sound settings** \>**More sound settings** .  
@@ -84,15 +132,24 @@ Here is how you can use it:
 6. To start recording, click on the red**Record button** in the top pane. You can also use the Shift + R keyboard shortcut.  
 ![Press the Record button to start recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-record.jpg)
 7. To pause, click on the**Pause button** or press P on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pause button in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-pause.jpg)
 8. Finally, once you are done recording, click on the**Stop button** in the toolbar to end the recording. You can use the**Share** option in the toolbar to transport the file.  
 ![Stop the recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audacity-stop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This app comes with a variety of advanced options to customize your recordings, which you can make use of as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Record Important Calls on Windows, Easily
 
  The benefit of call recordings can't be overstated, whether you're attending an important work call and don't want to forget important points, or if you're chatting with a shady person whom you fear will blackmail you later on.

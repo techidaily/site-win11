@@ -1,7 +1,7 @@
 ---
 title: Navigate to Windows 11 Safe Mode in 6 Steps
-date: 2024-09-01T04:36:49.024Z
-updated: 2024-09-02T04:36:49.024Z
+date: 2024-09-05T08:26:30.590Z
+updated: 2024-09-06T08:26:30.590Z
 tags:
   - windows10
   - windows11
@@ -34,93 +34,110 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 * **Safe Mode with Networking:** Windows starts with a basic set of drivers in addition to the network drivers necessary to connect to a network or the Internet. Wi-Fi connectivity is not available in this mode.
 * **Safe Mode with Command Prompt:** For advanced users who want to access the Command Prompt in safe mode and don’t need the Windows graphical interface.
 
-## 1\. Boot into Safe Mode Using the Microsoft System Configuration Utility
-
- You can boot into safe mode using the System Configuration utility, which is less intimidating than other methods. Another advantage is that it allows you to configure your desired safe mode (Standard, Networking, Command Prompt) before restarting and also automatically set your computer to boot into safe mode on the next restart.
-
- To boot into safe mode using the System Configuration utility:
-
-1. Press **Win + R** to open **Run**, type **msconfig** and click **OK**. Alternatively, click **Start**, type **System Configuration** and open the best matching result.
-2. In the **System Configuration** window, open the **Boot** tab.  
-![Windows 11 Dekstop Showing the Microsoft System Configuration Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility.png)
-3. Under **Boot options**, select **Safe boot**. By default, the default mode is set to **Minimal**. Depending on your requirements, you can switch between **Alternate Shell (Command Prompt)**, **Network** or **Active Directory repair** options.  
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
-![Windows 11 Desktop Showing the Microsoft System Configuration Utility Advanced Boot options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility-advanced-boot-options.png)
-4. The **Advanced options** dialog offers more granular control over the processor and memory usage. Leave it as default if you don’t know what you are doing.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-5. Once done, click **OK** and **Apply** to save the changes.
-6. Restart your computer to boot into safe mode.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-## 2\. How to Boot Into Safe Mode Using the Settings App
-
- Another way to boot into safe mode is via the Settings app. You can use the Recovery option to access the Advanced Start-up settings and then boot into safe mode. Here’s how to do it:
-
-1. Press **Win + I** to open **Settings**.
-2. In the **System** tab, scroll down and click on the **Recovery option.**
-3. Click the **Restart** now button for **Advanced startup.**  
-![Windows 11 recovery startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-11-recovery-startup-settings.png)
-4. Click the **Restart now** button to confirm the action.
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
-5. In the **Choose an option** screen, click **Troubleshoot**.  
-![Troubleshoot menu in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/bootable-usb-troubleshoot-windows-recpvery-environment.png)
-6. Next, click **Advanced options.**  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-![Troubleshoot showing Advanced options in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-troubleshoot-windows-recovery-environment.png)
-7. Click **Start-up settings** under Advanced options.  
-![Advanced options for startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-up-settings-advanced-options.png)
-8. Click the **Restart** button to confirm and open the start-up-up settings. Windows will populate your screen with multiple numbered options.  
-![Startup settings in the Windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/startup-settings-windows-recovery-environemnt.png)
-9. Press **4, 5 or 6** depending on the safe mode type you want to boot into. Windows will now restart and boot into safe mode.
-
- To exit safe mode, restart your PC and Windows will boot normally.
-
-## 3\. How to Boot Into Safe Mode From the Lock-Screen
-
-![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
- If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
-
-1. Restart your PC.
-2. When at the lock screen, press any key to see your logon screen.
-3. Click the **Power/Shutdown** button. Then, press and hold the **Shift** key and click **Restart**. If prompted for confirmation, click **Restart anyway**.
-4. Your computer will restart and show the Windows Recovery Environment. From here, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
-5. Press **4** to restart and boot into safe mode.
-
- Alternatively, you also do this from the desktop**. Click Start > Power** and while holding the **Shift** key, click **Restart**.
-
-## 4\. Boot Into Safe Mode Using Command Prompt and WinRE
-
- In addition to the above steps, you can use Command Prompt to restart your computer with advanced options enabled. Once in Windows RE, you can navigate to Startup Settings and access safe mode. Here's how to do it.
-
-1. Press the **Win** key, type **cmd**, then right-click on **Command Prompt** and choose **Run as administrator**.  
-![Shutdown command in a Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-command-prompt-showing-the-restart-with-advanced-option-command.png)
-2. In the Command Prompt window, type the following command and press Enter to execute:  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Boot into Safe Mode Using the Microsoft System Configuration Utility
+
+ You can boot into safe mode using the System Configuration utility, which is less intimidating than other methods. Another advantage is that it allows you to configure your desired safe mode (Standard, Networking, Command Prompt) before restarting and also automatically set your computer to boot into safe mode on the next restart.
+
+ To boot into safe mode using the System Configuration utility:
+
+1. Press **Win + R** to open **Run**, type **msconfig** and click **OK**. Alternatively, click **Start**, type **System Configuration** and open the best matching result.
+2. In the **System Configuration** window, open the **Boot** tab.  
+![Windows 11 Dekstop Showing the Microsoft System Configuration Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility.png)
+3. Under **Boot options**, select **Safe boot**. By default, the default mode is set to **Minimal**. Depending on your requirements, you can switch between **Alternate Shell (Command Prompt)**, **Network** or **Active Directory repair** options.  
+![Windows 11 Desktop Showing the Microsoft System Configuration Utility Advanced Boot options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility-advanced-boot-options.png)
+4. The **Advanced options** dialog offers more granular control over the processor and memory usage. Leave it as default if you don’t know what you are doing.
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Once done, click **OK** and **Apply** to save the changes.
+6. Restart your computer to boot into safe mode.
+
+## 2\. How to Boot Into Safe Mode Using the Settings App
+
+ Another way to boot into safe mode is via the Settings app. You can use the Recovery option to access the Advanced Start-up settings and then boot into safe mode. Here’s how to do it:
+
+1. Press **Win + I** to open **Settings**.
+2. In the **System** tab, scroll down and click on the **Recovery option.**
+3. Click the **Restart** now button for **Advanced startup.**  
+![Windows 11 recovery startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-11-recovery-startup-settings.png)
+4. Click the **Restart now** button to confirm the action.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. In the **Choose an option** screen, click **Troubleshoot**.  
+![Troubleshoot menu in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/bootable-usb-troubleshoot-windows-recpvery-environment.png)
+6. Next, click **Advanced options.**  
+![Troubleshoot showing Advanced options in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-troubleshoot-windows-recovery-environment.png)
+7. Click **Start-up settings** under Advanced options.  
+![Advanced options for startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-up-settings-advanced-options.png)
+8. Click the **Restart** button to confirm and open the start-up-up settings. Windows will populate your screen with multiple numbered options.  
+![Startup settings in the Windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/startup-settings-windows-recovery-environemnt.png)
+9. Press **4, 5 or 6** depending on the safe mode type you want to boot into. Windows will now restart and boot into safe mode.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ To exit safe mode, restart your PC and Windows will boot normally.
+
+## 3\. How to Boot Into Safe Mode From the Lock-Screen
+
+![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
+
+ If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
+
+1. Restart your PC.
+2. When at the lock screen, press any key to see your logon screen.
+3. Click the **Power/Shutdown** button. Then, press and hold the **Shift** key and click **Restart**. If prompted for confirmation, click **Restart anyway**.
+4. Your computer will restart and show the Windows Recovery Environment. From here, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
+5. Press **4** to restart and boot into safe mode.
+
+ Alternatively, you also do this from the desktop**. Click Start > Power** and while holding the **Shift** key, click **Restart**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Boot Into Safe Mode Using Command Prompt and WinRE
+
+ In addition to the above steps, you can use Command Prompt to restart your computer with advanced options enabled. Once in Windows RE, you can navigate to Startup Settings and access safe mode. Here's how to do it.
+
+1. Press the **Win** key, type **cmd**, then right-click on **Command Prompt** and choose **Run as administrator**.  
+![Shutdown command in a Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-command-prompt-showing-the-restart-with-advanced-option-command.png)
+2. In the Command Prompt window, type the following command and press Enter to execute:  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 `shutdown.exe /r /o`
 3. Click the **Close** button when a pop-up dialog appears.  
@@ -156,18 +173,262 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 ![Booting Windows from a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-from-USB-drive.jpg)
 3. In the Boot Manager, use the arrow keys to select the bootable USB drive as the boot device. Press **Enter** to select the option to open the Windows Setup wizard.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. In the **Windows Setup** wizard, click on **Next**.  
 ![repair computer bootable USb windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-computer-bootable-USb-windows-11.png)
 5. Then, click on **Repair your computer** in the bottom left corner to enter **Windows RE.**
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Under **Choose an option,** go to **Troubleshoot > Command Prompt.**  
 ![Advanced options showing the command prompt option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-command-prompt.png)
 2. In the Command Prompt window, type the following command and press enter to change Boot Configuration Data (BCD) file.  
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+`bcdedit /set {default} safeboot minimal`
+3. Alternatively, to enable safe boot with networking, type the following command:  
+`bcdedit /set {default} safeboot network`
+4. If successful, you will see the **operation completed successfully message.**  
+![Clean boot command prompt from a bootable USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/clean-boot-command-prompt-bootable-usb-drive.png)
+5. Type **exit** and press **Enter** to close Command Prompt.
+6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
+
+## How to Exit Safe Mode in Windows 11
+
+![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ To exit safe mode, restart your PC and wait for it to restart normally. However, if your computer continues to boot into safe mode, follow these steps to exit safe mode manually.
+
+1. Press **Win + R** to open **Run**.
+2. Type **msconfig** and click **OK** to open the **System Configuration.**
+3. In the **Boot** tab, uncheck the **Safe boot** option.
+4. Click **Apply** and **OK** to save the changes. Restart your PC, and it should start normally.
+
+ Safe mode is a handy diagnostic space in Windows. It allows you to access critical drivers and is ideal for diagnosing your system for hardware issues. However, if you want to troubleshoot third-party vendor software-related issues, [try a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/). It lets you load your system with a minimal set of drivers and startup apps to isolate the cause triggering the conflict.
+
+ In safe mode, Windows starts with a basic set of drivers and files essential to run the system. Everything else, including start-up apps, networking, and Command Prompt, is disabled in safe mode. This helps you determine if an external hardware driver or program conflict is causing your system to malfunction.
+
+ There are different types of safe modes and many ways to access them. If you need to diagnose your PC, here is how to boot into safe mode in Windows 11 on a working or non-booting computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Different Types of Safe Mode and When to Use Them
+
+ There are three types of safe mode options available in advanced boot options:
+
+* **Safe Mode:** Windows starts with a minimal set of drivers and files and disables everything else.
+* **Safe Mode with Networking:** Windows starts with a basic set of drivers in addition to the network drivers necessary to connect to a network or the Internet. Wi-Fi connectivity is not available in this mode.
+* **Safe Mode with Command Prompt:** For advanced users who want to access the Command Prompt in safe mode and don’t need the Windows graphical interface.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Boot into Safe Mode Using the Microsoft System Configuration Utility
+
+ You can boot into safe mode using the System Configuration utility, which is less intimidating than other methods. Another advantage is that it allows you to configure your desired safe mode (Standard, Networking, Command Prompt) before restarting and also automatically set your computer to boot into safe mode on the next restart.
+
+ To boot into safe mode using the System Configuration utility:
+
+1. Press **Win + R** to open **Run**, type **msconfig** and click **OK**. Alternatively, click **Start**, type **System Configuration** and open the best matching result.
+2. In the **System Configuration** window, open the **Boot** tab.  
+![Windows 11 Dekstop Showing the Microsoft System Configuration Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility.png)
+3. Under **Boot options**, select **Safe boot**. By default, the default mode is set to **Minimal**. Depending on your requirements, you can switch between **Alternate Shell (Command Prompt)**, **Network** or **Active Directory repair** options.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Windows 11 Desktop Showing the Microsoft System Configuration Utility Advanced Boot options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility-advanced-boot-options.png)
+4. The **Advanced options** dialog offers more granular control over the processor and memory usage. Leave it as default if you don’t know what you are doing.
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Once done, click **OK** and **Apply** to save the changes.
+6. Restart your computer to boot into safe mode.
+
+## 2\. How to Boot Into Safe Mode Using the Settings App
+
+ Another way to boot into safe mode is via the Settings app. You can use the Recovery option to access the Advanced Start-up settings and then boot into safe mode. Here’s how to do it:
+
+1. Press **Win + I** to open **Settings**.
+2. In the **System** tab, scroll down and click on the **Recovery option.**
+3. Click the **Restart** now button for **Advanced startup.**  
+![Windows 11 recovery startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-11-recovery-startup-settings.png)
+4. Click the **Restart now** button to confirm the action.
+5. In the **Choose an option** screen, click **Troubleshoot**.  
+![Troubleshoot menu in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/bootable-usb-troubleshoot-windows-recpvery-environment.png)
+6. Next, click **Advanced options.**  
+![Troubleshoot showing Advanced options in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-troubleshoot-windows-recovery-environment.png)
+7. Click **Start-up settings** under Advanced options.  
+![Advanced options for startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-up-settings-advanced-options.png)
+8. Click the **Restart** button to confirm and open the start-up-up settings. Windows will populate your screen with multiple numbered options.  
+![Startup settings in the Windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/startup-settings-windows-recovery-environemnt.png)
+9. Press **4, 5 or 6** depending on the safe mode type you want to boot into. Windows will now restart and boot into safe mode.
+
+ To exit safe mode, restart your PC and Windows will boot normally.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. How to Boot Into Safe Mode From the Lock-Screen
+
+![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
+
+1. Restart your PC.
+2. When at the lock screen, press any key to see your logon screen.
+3. Click the **Power/Shutdown** button. Then, press and hold the **Shift** key and click **Restart**. If prompted for confirmation, click **Restart anyway**.
+4. Your computer will restart and show the Windows Recovery Environment. From here, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
+5. Press **4** to restart and boot into safe mode.
+
+ Alternatively, you also do this from the desktop**. Click Start > Power** and while holding the **Shift** key, click **Restart**.
+
+## 4\. Boot Into Safe Mode Using Command Prompt and WinRE
+
+ In addition to the above steps, you can use Command Prompt to restart your computer with advanced options enabled. Once in Windows RE, you can navigate to Startup Settings and access safe mode. Here's how to do it.
+
+1. Press the **Win** key, type **cmd**, then right-click on **Command Prompt** and choose **Run as administrator**.  
+![Shutdown command in a Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-command-prompt-showing-the-restart-with-advanced-option-command.png)
+2. In the Command Prompt window, type the following command and press Enter to execute:  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+`shutdown.exe /r /o`
+3. Click the **Close** button when a pop-up dialog appears.  
+![Windows 11 prompt to restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/safe-mode-windows-11-command-prompt.png)
+4. That’s it. Windows will restart in one minute. So, wait till the PC restarts and boots into the Windows Recovery Environment.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. In Windows RE, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
+6. After the restart, press the appropriate key to boot into safe mode.
+
+## 5\. Boot Into Safe Mode When Windows is Not Booting
+
+ If [Windows is not booting](https://www.makeuseof.com/tag/windows-10-wont-boot/), or you can't see the login screen, you can still access safe mode using the advanced boot option by triggering the Windows Recovery Environment.
+
+ While you can press the F8 key repeatedly during the boot process to access advanced boot options, it doesn't always work. Instead, you can force [Windows to boot into the Windows Recovery Environment](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) by deliberately force shutting down your computer a few times during startup.
+
+ After two consecutive failed attempts, Windows will automatically start WinRE and give access to advanced boot options. To do this:
+
+1. Shut down your computer.
+2. Press the **Power** button to power on your PC.
+3. When it starts loading, press and hold the Power button to force a shutdown. Repeat the steps to abruptly shut down your computer again.
+4. At the third attempt, press the power button and let Windows load and boot into Windows Recovery Environment.
+5. Under **Choose an option,** click **Troubleshoot**.
+6. Then go to **Advanced options > Start-up settings > Restart.**
+7. After the restart, press **4,5 or 6** to boot into safe mode with different options.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Perform a Safe Boot Using a Bootable USB Drive and Command Prompt
+
+ If your computer is experiencing a critical system failure or startup issues and cannot boot normally, you can perform a safe boot using a bootable USB drive.
+
+ If you don’t have installation media, follow our guide to [create a Windows 11 bootable USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/). Once you've created got a bootable drive, continue with the steps below:
+
+1. Connect the bootable USB drive to your computer.
+2. Press the **Power** button and start pressing the **F9** key on an HP laptop or **F2** on a Lenovo laptop to bring up the Boot Manager. The Boot Manager key can vary depending on your laptop/motherboard manufacturer.  
+![Booting Windows from a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-from-USB-drive.jpg)
+3. In the Boot Manager, use the arrow keys to select the bootable USB drive as the boot device. Press **Enter** to select the option to open the Windows Setup wizard.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. In the **Windows Setup** wizard, click on **Next**.  
+![repair computer bootable USb windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-computer-bootable-USb-windows-11.png)
+5. Then, click on **Repair your computer** in the bottom left corner to enter **Windows RE.**
+
+1. Under **Choose an option,** go to **Troubleshoot > Command Prompt.**  
+![Advanced options showing the command prompt option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-command-prompt.png)
+2. In the Command Prompt window, type the following command and press enter to change Boot Configuration Data (BCD) file.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `bcdedit /set {default} safeboot minimal`
 3. Alternatively, to enable safe boot with networking, type the following command:  
 `bcdedit /set {default} safeboot network`
@@ -177,7 +438,10 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Exit Safe Mode in Windows 11
 
@@ -204,9 +468,6 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 * **Safe Mode with Networking:** Windows starts with a basic set of drivers in addition to the network drivers necessary to connect to a network or the Internet. Wi-Fi connectivity is not available in this mode.
 * **Safe Mode with Command Prompt:** For advanced users who want to access the Command Prompt in safe mode and don’t need the Windows graphical interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 1\. Boot into Safe Mode Using the Microsoft System Configuration Utility
 
  You can boot into safe mode using the System Configuration utility, which is less intimidating than other methods. Another advantage is that it allows you to configure your desired safe mode (Standard, Networking, Command Prompt) before restarting and also automatically set your computer to boot into safe mode on the next restart.
@@ -218,189 +479,18 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 ![Windows 11 Dekstop Showing the Microsoft System Configuration Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility.png)
 3. Under **Boot options**, select **Safe boot**. By default, the default mode is set to **Minimal**. Depending on your requirements, you can switch between **Alternate Shell (Command Prompt)**, **Network** or **Active Directory repair** options.  
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-![Windows 11 Desktop Showing the Microsoft System Configuration Utility Advanced Boot options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility-advanced-boot-options.png)
-4. The **Advanced options** dialog offers more granular control over the processor and memory usage. Leave it as default if you don’t know what you are doing.
-5. Once done, click **OK** and **Apply** to save the changes.
-6. Restart your computer to boot into safe mode.
-
-## 2\. How to Boot Into Safe Mode Using the Settings App
-
- Another way to boot into safe mode is via the Settings app. You can use the Recovery option to access the Advanced Start-up settings and then boot into safe mode. Here’s how to do it:
-
-1. Press **Win + I** to open **Settings**.
-2. In the **System** tab, scroll down and click on the **Recovery option.**
-3. Click the **Restart** now button for **Advanced startup.**  
-![Windows 11 recovery startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-11-recovery-startup-settings.png)
-4. Click the **Restart now** button to confirm the action.
-5. In the **Choose an option** screen, click **Troubleshoot**.  
-![Troubleshoot menu in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/bootable-usb-troubleshoot-windows-recpvery-environment.png)
-6. Next, click **Advanced options.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![Troubleshoot showing Advanced options in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-troubleshoot-windows-recovery-environment.png)
-7. Click **Start-up settings** under Advanced options.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![Advanced options for startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-up-settings-advanced-options.png)
-8. Click the **Restart** button to confirm and open the start-up-up settings. Windows will populate your screen with multiple numbered options.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-![Startup settings in the Windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/startup-settings-windows-recovery-environemnt.png)
-9. Press **4, 5 or 6** depending on the safe mode type you want to boot into. Windows will now restart and boot into safe mode.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-
- To exit safe mode, restart your PC and Windows will boot normally.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-## 3\. How to Boot Into Safe Mode From the Lock-Screen
-
-![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
-
- If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
-
-1. Restart your PC.
-2. When at the lock screen, press any key to see your logon screen.
-3. Click the **Power/Shutdown** button. Then, press and hold the **Shift** key and click **Restart**. If prompted for confirmation, click **Restart anyway**.
-4. Your computer will restart and show the Windows Recovery Environment. From here, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
-5. Press **4** to restart and boot into safe mode.
-
- Alternatively, you also do this from the desktop**. Click Start > Power** and while holding the **Shift** key, click **Restart**.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 4\. Boot Into Safe Mode Using Command Prompt and WinRE
-
- In addition to the above steps, you can use Command Prompt to restart your computer with advanced options enabled. Once in Windows RE, you can navigate to Startup Settings and access safe mode. Here's how to do it.
-
-1. Press the **Win** key, type **cmd**, then right-click on **Command Prompt** and choose **Run as administrator**.  
-![Shutdown command in a Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-command-prompt-showing-the-restart-with-advanced-option-command.png)
-2. In the Command Prompt window, type the following command and press Enter to execute:  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-`shutdown.exe /r /o`
-3. Click the **Close** button when a pop-up dialog appears.  
-![Windows 11 prompt to restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/safe-mode-windows-11-command-prompt.png)
-4. That’s it. Windows will restart in one minute. So, wait till the PC restarts and boots into the Windows Recovery Environment.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-5. In Windows RE, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
-6. After the restart, press the appropriate key to boot into safe mode.
-
-## 5\. Boot Into Safe Mode When Windows is Not Booting
-
- If [Windows is not booting](https://www.makeuseof.com/tag/windows-10-wont-boot/), or you can't see the login screen, you can still access safe mode using the advanced boot option by triggering the Windows Recovery Environment.
-
- While you can press the F8 key repeatedly during the boot process to access advanced boot options, it doesn't always work. Instead, you can force [Windows to boot into the Windows Recovery Environment](https://www.makeuseof.com/ways-to-boot-into-the-windows-recovery-environment/) by deliberately force shutting down your computer a few times during startup.
-
- After two consecutive failed attempts, Windows will automatically start WinRE and give access to advanced boot options. To do this:
-
-1. Shut down your computer.
-2. Press the **Power** button to power on your PC.
-3. When it starts loading, press and hold the Power button to force a shutdown. Repeat the steps to abruptly shut down your computer again.
-4. At the third attempt, press the power button and let Windows load and boot into Windows Recovery Environment.
-5. Under **Choose an option,** click **Troubleshoot**.
-6. Then go to **Advanced options > Start-up settings > Restart.**
-7. After the restart, press **4,5 or 6** to boot into safe mode with different options.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-## 6\. Perform a Safe Boot Using a Bootable USB Drive and Command Prompt
-
- If your computer is experiencing a critical system failure or startup issues and cannot boot normally, you can perform a safe boot using a bootable USB drive.
-
- If you don’t have installation media, follow our guide to [create a Windows 11 bootable USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/). Once you've created got a bootable drive, continue with the steps below:
-
-1. Connect the bootable USB drive to your computer.
-2. Press the **Power** button and start pressing the **F9** key on an HP laptop or **F2** on a Lenovo laptop to bring up the Boot Manager. The Boot Manager key can vary depending on your laptop/motherboard manufacturer.  
-![Booting Windows from a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-from-USB-drive.jpg)
-3. In the Boot Manager, use the arrow keys to select the bootable USB drive as the boot device. Press **Enter** to select the option to open the Windows Setup wizard.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. In the **Windows Setup** wizard, click on **Next**.  
-![repair computer bootable USb windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-computer-bootable-USb-windows-11.png)
-5. Then, click on **Repair your computer** in the bottom left corner to enter **Windows RE.**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-
-1. Under **Choose an option,** go to **Troubleshoot > Command Prompt.**  
-![Advanced options showing the command prompt option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-command-prompt.png)
-2. In the Command Prompt window, type the following command and press enter to change Boot Configuration Data (BCD) file.  
-`bcdedit /set {default} safeboot minimal`
-3. Alternatively, to enable safe boot with networking, type the following command:  
-`bcdedit /set {default} safeboot network`
-4. If successful, you will see the **operation completed successfully message.**  
-![Clean boot command prompt from a bootable USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/clean-boot-command-prompt-bootable-usb-drive.png)
-5. Type **exit** and press **Enter** to close Command Prompt.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
-
-## How to Exit Safe Mode in Windows 11
-
-![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)
-
- To exit safe mode, restart your PC and wait for it to restart normally. However, if your computer continues to boot into safe mode, follow these steps to exit safe mode manually.
-
-1. Press **Win + R** to open **Run**.
-2. Type **msconfig** and click **OK** to open the **System Configuration.**
-3. In the **Boot** tab, uncheck the **Safe boot** option.
-4. Click **Apply** and **OK** to save the changes. Restart your PC, and it should start normally.
-
- Safe mode is a handy diagnostic space in Windows. It allows you to access critical drivers and is ideal for diagnosing your system for hardware issues. However, if you want to troubleshoot third-party vendor software-related issues, [try a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/). It lets you load your system with a minimal set of drivers and startup apps to isolate the cause triggering the conflict.
-
- In safe mode, Windows starts with a basic set of drivers and files essential to run the system. Everything else, including start-up apps, networking, and Command Prompt, is disabled in safe mode. This helps you determine if an external hardware driver or program conflict is causing your system to malfunction.
-
- There are different types of safe modes and many ways to access them. If you need to diagnose your PC, here is how to boot into safe mode in Windows 11 on a working or non-booting computer.
-
-## The Different Types of Safe Mode and When to Use Them
-
- There are three types of safe mode options available in advanced boot options:
-
-* **Safe Mode:** Windows starts with a minimal set of drivers and files and disables everything else.
-* **Safe Mode with Networking:** Windows starts with a basic set of drivers in addition to the network drivers necessary to connect to a network or the Internet. Wi-Fi connectivity is not available in this mode.
-* **Safe Mode with Command Prompt:** For advanced users who want to access the Command Prompt in safe mode and don’t need the Windows graphical interface.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-## 1\. Boot into Safe Mode Using the Microsoft System Configuration Utility
-
- You can boot into safe mode using the System Configuration utility, which is less intimidating than other methods. Another advantage is that it allows you to configure your desired safe mode (Standard, Networking, Command Prompt) before restarting and also automatically set your computer to boot into safe mode on the next restart.
-
- To boot into safe mode using the System Configuration utility:
-
-1. Press **Win + R** to open **Run**, type **msconfig** and click **OK**. Alternatively, click **Start**, type **System Configuration** and open the best matching result.
-2. In the **System Configuration** window, open the **Boot** tab.  
-![Windows 11 Dekstop Showing the Microsoft System Configuration Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility.png)
-3. Under **Boot options**, select **Safe boot**. By default, the default mode is set to **Minimal**. Depending on your requirements, you can switch between **Alternate Shell (Command Prompt)**, **Network** or **Active Directory repair** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Windows 11 Desktop Showing the Microsoft System Configuration Utility Advanced Boot options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility-advanced-boot-options.png)
 4. The **Advanced options** dialog offers more granular control over the processor and memory usage. Leave it as default if you don’t know what you are doing.
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Once done, click **OK** and **Apply** to save the changes.
 6. Restart your computer to boot into safe mode.
@@ -414,25 +504,58 @@ No advertising on the website.
 3. Click the **Restart** now button for **Advanced startup.**  
 ![Windows 11 recovery startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-11-recovery-startup-settings.png)
 4. Click the **Restart now** button to confirm the action.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. In the **Choose an option** screen, click **Troubleshoot**.  
 ![Troubleshoot menu in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/bootable-usb-troubleshoot-windows-recpvery-environment.png)
 6. Next, click **Advanced options.**  
 ![Troubleshoot showing Advanced options in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-troubleshoot-windows-recovery-environment.png)
 7. Click **Start-up settings** under Advanced options.  
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Advanced options for startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-up-settings-advanced-options.png)
 8. Click the **Restart** button to confirm and open the start-up-up settings. Windows will populate your screen with multiple numbered options.  
 ![Startup settings in the Windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/startup-settings-windows-recovery-environemnt.png)
 9. Press **4, 5 or 6** depending on the safe mode type you want to boot into. Windows will now restart and boot into safe mode.
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To exit safe mode, restart your PC and Windows will boot normally.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. How to Boot Into Safe Mode From the Lock-Screen
 
 ![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
 
 1. Restart your PC.
@@ -443,9 +566,6 @@ No advertising on the website.
 
  Alternatively, you also do this from the desktop**. Click Start > Power** and while holding the **Shift** key, click **Restart**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Boot Into Safe Mode Using Command Prompt and WinRE
 
  In addition to the above steps, you can use Command Prompt to restart your computer with advanced options enabled. Once in Windows RE, you can navigate to Startup Settings and access safe mode. Here's how to do it.
@@ -453,6 +573,12 @@ No advertising on the website.
 1. Press the **Win** key, type **cmd**, then right-click on **Command Prompt** and choose **Run as administrator**.  
 ![Shutdown command in a Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-command-prompt-showing-the-restart-with-advanced-option-command.png)
 2. In the Command Prompt window, type the following command and press Enter to execute:  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `shutdown.exe /r /o`
 3. Click the **Close** button when a pop-up dialog appears.  
 ![Windows 11 prompt to restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/safe-mode-windows-11-command-prompt.png)
@@ -460,6 +586,12 @@ No advertising on the website.
 5. In Windows RE, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
 6. After the restart, press the appropriate key to boot into safe mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Boot Into Safe Mode When Windows is Not Booting
 
  If [Windows is not booting](https://www.makeuseof.com/tag/windows-10-wont-boot/), or you can't see the login screen, you can still access safe mode using the advanced boot option by triggering the Windows Recovery Environment.
@@ -486,18 +618,24 @@ No advertising on the website.
 2. Press the **Power** button and start pressing the **F9** key on an HP laptop or **F2** on a Lenovo laptop to bring up the Boot Manager. The Boot Manager key can vary depending on your laptop/motherboard manufacturer.  
 ![Booting Windows from a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-from-USB-drive.jpg)
 3. In the Boot Manager, use the arrow keys to select the bootable USB drive as the boot device. Press **Enter** to select the option to open the Windows Setup wizard.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 4. In the **Windows Setup** wizard, click on **Next**.  
 ![repair computer bootable USb windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-computer-bootable-USb-windows-11.png)
 5. Then, click on **Repair your computer** in the bottom left corner to enter **Windows RE.**
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Under **Choose an option,** go to **Troubleshoot > Command Prompt.**  
 ![Advanced options showing the command prompt option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-command-prompt.png)
 2. In the Command Prompt window, type the following command and press enter to change Boot Configuration Data (BCD) file.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 `bcdedit /set {default} safeboot minimal`
 3. Alternatively, to enable safe boot with networking, type the following command:  
@@ -508,7 +646,16 @@ No advertising on the website.
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Exit Safe Mode in Windows 11
 
@@ -535,9 +682,6 @@ No advertising on the website.
 * **Safe Mode with Networking:** Windows starts with a basic set of drivers in addition to the network drivers necessary to connect to a network or the Internet. Wi-Fi connectivity is not available in this mode.
 * **Safe Mode with Command Prompt:** For advanced users who want to access the Command Prompt in safe mode and don’t need the Windows graphical interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 1\. Boot into Safe Mode Using the Microsoft System Configuration Utility
 
  You can boot into safe mode using the System Configuration utility, which is less intimidating than other methods. Another advantage is that it allows you to configure your desired safe mode (Standard, Networking, Command Prompt) before restarting and also automatically set your computer to boot into safe mode on the next restart.
@@ -548,6 +692,12 @@ No advertising on the website.
 2. In the **System Configuration** window, open the **Boot** tab.  
 ![Windows 11 Dekstop Showing the Microsoft System Configuration Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility.png)
 3. Under **Boot options**, select **Safe boot**. By default, the default mode is set to **Minimal**. Depending on your requirements, you can switch between **Alternate Shell (Command Prompt)**, **Network** or **Active Directory repair** options.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 11 Desktop Showing the Microsoft System Configuration Utility Advanced Boot options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-11-dekstop-showing-the-microsoft-system-configuration-utility-advanced-boot-options.png)
 4. The **Advanced options** dialog offers more granular control over the processor and memory usage. Leave it as default if you don’t know what you are doing.
 5. Once done, click **OK** and **Apply** to save the changes.
@@ -568,27 +718,39 @@ No advertising on the website.
 ![Troubleshoot showing Advanced options in the Windows Recovery Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-troubleshoot-windows-recovery-environment.png)
 7. Click **Start-up settings** under Advanced options.  
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Advanced options for startup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-up-settings-advanced-options.png)
 8. Click the **Restart** button to confirm and open the start-up-up settings. Windows will populate your screen with multiple numbered options.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Startup settings in the Windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/startup-settings-windows-recovery-environemnt.png)
 9. Press **4, 5 or 6** depending on the safe mode type you want to boot into. Windows will now restart and boot into safe mode.
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To exit safe mode, restart your PC and Windows will boot normally.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Boot Into Safe Mode From the Lock-Screen
 
 ![Booting into safe mode from the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-into-safe-mode-from-lock-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you have [forgotten your Windows password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) or can't log in, you can boot into safe mode from the lock screen itself. Here’s how to do it:
 
@@ -600,6 +762,12 @@ No advertising on the website.
 
  Alternatively, you also do this from the desktop**. Click Start > Power** and while holding the **Shift** key, click **Restart**.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Boot Into Safe Mode Using Command Prompt and WinRE
 
  In addition to the above steps, you can use Command Prompt to restart your computer with advanced options enabled. Once in Windows RE, you can navigate to Startup Settings and access safe mode. Here's how to do it.
@@ -611,9 +779,6 @@ No advertising on the website.
 3. Click the **Close** button when a pop-up dialog appears.  
 ![Windows 11 prompt to restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/safe-mode-windows-11-command-prompt.png)
 4. That’s it. Windows will restart in one minute. So, wait till the PC restarts and boots into the Windows Recovery Environment.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. In Windows RE, go to **Troubleshoot > Advanced Options > Start-up settings > Restart.**
 6. After the restart, press the appropriate key to boot into safe mode.
 
@@ -633,6 +798,12 @@ No advertising on the website.
 6. Then go to **Advanced options > Start-up settings > Restart.**
 7. After the restart, press **4,5 or 6** to boot into safe mode with different options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Perform a Safe Boot Using a Bootable USB Drive and Command Prompt
 
  If your computer is experiencing a critical system failure or startup issues and cannot boot normally, you can perform a safe boot using a bootable USB drive.
@@ -643,19 +814,30 @@ No advertising on the website.
 2. Press the **Power** button and start pressing the **F9** key on an HP laptop or **F2** on a Lenovo laptop to bring up the Boot Manager. The Boot Manager key can vary depending on your laptop/motherboard manufacturer.  
 ![Booting Windows from a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/boot-from-USB-drive.jpg)
 3. In the Boot Manager, use the arrow keys to select the bootable USB drive as the boot device. Press **Enter** to select the option to open the Windows Setup wizard.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. In the **Windows Setup** wizard, click on **Next**.  
 ![repair computer bootable USb windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-computer-bootable-USb-windows-11.png)
 5. Then, click on **Repair your computer** in the bottom left corner to enter **Windows RE.**
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Under **Choose an option,** go to **Troubleshoot > Command Prompt.**  
 ![Advanced options showing the command prompt option.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/advanced-options-command-prompt.png)
 2. In the Command Prompt window, type the following command and press enter to change Boot Configuration Data (BCD) file.  
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 `bcdedit /set {default} safeboot minimal`
 3. Alternatively, to enable safe boot with networking, type the following command:  
@@ -663,11 +845,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 4. If successful, you will see the **operation completed successfully message.**  
 ![Clean boot command prompt from a bootable USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/clean-boot-command-prompt-bootable-usb-drive.png)
 5. Type **exit** and press **Enter** to close Command Prompt.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In Windows RE, click **Continue**. Windows will now restart in safe boot mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Exit Safe Mode in Windows 11
 
 ![Exiting Safe Mode in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/exit-safe-mode-windows-11.png)

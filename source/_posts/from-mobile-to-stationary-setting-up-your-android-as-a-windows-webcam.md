@@ -1,7 +1,7 @@
 ---
 title: "From Mobile to Stationary: Setting Up Your Android as a Windows Webcam"
-date: 2024-09-01T04:36:32.177Z
-updated: 2024-09-02T04:36:32.177Z
+date: 2024-09-05T08:26:30.856Z
+updated: 2024-09-06T08:26:30.856Z
 tags:
   - windows10
   - windows11
@@ -14,8 +14,20 @@ keywords: Android Webcam Setup,Switching Devices,WinPC Android Cam,Mobility to D
 thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c1790252e534383e8e0730d7ae092.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## From Mobile to Stationary: Setting Up Your Android as a Windows Webcam
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can use Microsoft's Phone Link app to turn your Android phone into a webcam for your Windows 11 PC.
@@ -24,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
  Not satisfied with the webcam on your Windows 11 computer or don't have one at all? There's no need to worry, as you can use your Android phone's front or rear camera as a webcam on your Windows 11 PC with the help of Microsoft's Phone Link app. Let’s see how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What You Need to Use an Android Phone as a Webcam on Windows 11
 
  Before we start, let’s go over some prerequisites for using your Android phone as a webcam on Windows 11\.
@@ -33,7 +51,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 * Your phone must be running **Android 9.0 or higher**. Not sure which version your phone is on? Check out [how to tell which version of Android you have](https://www.makeuseof.com/what-version-of-android/) and find out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Configure Windows 11 to Use Your Android’s Camera as a Webcam
 
@@ -46,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 ![Configure Windows 11 to Use Android as Webcam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/configure-windows-11-to-use-android-as-webcam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Use Your Android Phone as a Webcam on Windows 11
 
@@ -59,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 ![Use Android as Webcam on Windows 11 via Phone Link App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/use-android-as-webcam-on-windows-11-via-phone-link-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Similar camera controls will also appear on your Android, along with a notification that reads "Your camera is connected," indicating that your camera is being used. It's worth noting that if you lock your Android phone manually or receive a phone call while using it as a webcam, the camera feed will pause automatically.
 
 Close
@@ -71,13 +89,13 @@ Close
 ![Disconnect Android Camera From Windows 11 Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/disconnect-android-camera-from-windows-11-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In our experience, the camera performance was excellent across different applications, and there was no lag despite the wireless connection. Once you’ve set up the feature, using your Android device as a webcam is as straightforward as changing the default camera device in your video conferencing application, provided both devices are connected through Phone Link.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does This Compare to Apple’s Continuity Camera Feature?
 
  At first glance, Microsoft's new feature allowing the use of an Android device as a webcam on Windows seems quite similar to [Apple’s Continuity Camera](https://www.makeuseof.com/what-is-apples-continuity-feature/) feature. However, there are some notable differences.

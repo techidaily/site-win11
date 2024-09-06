@@ -1,0 +1,234 @@
+---
+title: File Organization Breakthroughs with Simultaneous Window Folders
+date: 2024-09-05T08:27:25.881Z
+updated: 2024-09-06T08:27:25.881Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes File Organization Breakthroughs with Simultaneous Window Folders
+excerpt: This Article Describes File Organization Breakthroughs with Simultaneous Window Folders
+keywords: File Org. Innovation,Simultaneous Win. Folds,Enhanced File Allocation,Windowed Files System,Multi-Window Management,Efficient Data Sorting,Optimized Folder Use
+thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4bb0ae7f591c4a5f178d3c77.jpg
+---
+
+## File Organization Breakthroughs with Simultaneous Window Folders
+
+ The latest Windows versions allow you to automate quite a few of your tasks, for instance letting you create multiple folders and sub-folders at once. This is quite helpful in situations where you need to sort out the data (for each semester, for instance) and do not want to spend hours doing it.
+
+ There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
+
+## 1\. Use the Command Prompt to Create Multiple Folders at Once
+
+ In this first method, we will be using a command-line utility called Command Prompt in Windows. Unless you are very tech-savvy, you may not have noticed it anywhere in Windows, but it has been around for quite a long time.
+
+ Typically, administrators use it to make advanced-level changes throughout the system. You can enter text-based commands to automate a bunch of tasks.
+
+ Below, we have listed detailed steps for using Command Prompt to create multiple folders at once. Make sure you are signed in to Windows as an administrator before you proceed:
+
+1. Type **Command Prompt** in Windows search and click on **Run as administrator**.
+2. Alternatively, you can also open Run by pressing **Win** \+ **R** and type **cmd** in the text field. Press **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.  
+![Run dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/accessing-cmd-through-run-box.jpg)
+3. Click **Yes** in the User Account Control prompt.
+4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
+`cd /d [location]`
+5. For instance, if we want to create folders in the C:\\users\\hp\\documents folder, we will execute the command like cd /d C:\\users\\hp\\documents.  
+![Location command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-cd-d-location-1.jpg)
+6. Then, type **md** following the names of the folders in one command and execute it. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+`md january february march april`  
+![Command with file names](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-md-files.jpg)
+7. Once done, close the Command Prompt window and visit the location of folders in File Explorer to see if the folders have been created.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If for some reason using the Command Prompt does not work for you, you can use Windows Powershell (Admin) to perform the same steps. The Powershell works almost the same as Command Prompt, but it is much more powerful than cmd.
+
+ To use Powershell, follow these steps:
+
+1. Right-click on the **Windows icon** on your taskbar and choose **Powershell (Admin)**.  
+![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
+2. Select Yes in the UAC prompt.  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
+3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
+`cd [Location]`
+4. We want to create the sub-folders in the document folders, so we will be executing the following command:  
+`cd C:\users\hp\documents`  
+![Execute location command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-cd-d-location.jpg)
+5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+`md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
+6. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
+`md "january", "february", "march", "april"`  
+![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Finally, close the Powershell window and check if the folders have been created.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Use the Notepad to Create Multiple Folders at Once
+
+ Though it may come as a surprise, the Windows Notepad can perform more advanced technical operations than just writing to-do lists.
+
+ The methods above are suitable if you only want to create multiple folders without any subfolders. If you wish to create subfolders as well, then an easy way to do it is by creating a batch script via Notepad.
+
+ Here is how you can do that:
+
+1. Type **Notepad** in Windows search and click **Open**.
+2. In the Notepad window, click type **@ECHO OFF** and click **Enter**.
+3. Then type **md** followed by the folder and subfolder names enclosed in double quotes. For instance, if we want to create a MUO January folder with a Windows subfolder and a MUO February folder with an Android subfolder, we will type it down in Notepad as:  
+`@ECHO OFF  
+md "MUOJan"\"Windows" "MUOFeb"\"Android"`  
+![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
+4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
+![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
+5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
+6. Expand the dropdown for Save as type and choose **All files**.
+7. Click **OK** and close the Notepad.
+8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
+
+ Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
+
+## 3\. Use a Third-Party Application
+
+ Last but not least, if you think using Command Prompt and Notepad is too time-consuming, you can try using a third-party application.
+
+ There are quite a few apps that can help you achieve this, including the following:
+
+* [Soboloft](https://www.sobolsoft.com/file-management.htm)
+* [Text 2 Folders](https://www.softpedia.com/get/System/File-Management/Text-2-Folders.shtml)
+* [Folder Frenzy](https://www.softpedia.com/get/System/File-Management/Folder-Frenzy.shtml)
+* [FreeCommander XE](https://freecommander.com/en/summary/)
+* [XMD](https://www.softpedia.com/get/System/File-Management/XMD.shtml)
+
+ For illustration purposes, we will be using Folder Frenzy. The steps of creating multiple folders in other applications might vary, but the basics will remain the same.
+
+1. Download Folder Frenzy.
+2. Extract the downloaded file and then launch it.
+3. Click **Yes** in the confirmation prompt.  
+![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
+4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
+![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
+
+## Create Multiple Folders in a Few Clicks on Windows
+
+ Creating several folders manually is a mundane task, and you can spend the same energy doing something more productive. The steps we have outlined above should help you automate this task, saving time for things that actually bring in some value.
+
+ The latest Windows versions allow you to automate quite a few of your tasks, for instance letting you create multiple folders and sub-folders at once. This is quite helpful in situations where you need to sort out the data (for each semester, for instance) and do not want to spend hours doing it.
+
+ There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-become-an-influencer-grow-by-a-thousand-on-instagrammonth-for-2024/"><u>[New] Become an Influencer  Grow by a Thousand on Instagram/Month for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-blend-into-black-premiere-pro-trick-for-2024/"><u>[New] Blend Into Black  Premiere Pro Trick for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-art-of-patience-mastering-the-craft-of-producing-captivating-slow-motion-videos-and-photos-for-instagram/"><u>[Updated] In 2024, The Art of Patience  Mastering the Craft of Producing Captivating Slow Motion Videos and Photos for Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-speech-finesse-in-online-combat/"><u>2024 Approved  Free Speech Finesse in Online Combat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trailblazing-technique-use-apple-watch-for-mac/"><u>2024 Approved  Trailblazing Technique  Use Apple Watch for Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-entry-made-simple/"><u>Command Center Entry Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-non-response-issues-in-windows-service-explorer-with-7-methods/"><u>Confronting Non-Response Issues in Windows Service Explorer with 7 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-failed-sync-with-onedrive-on-windows/"><u>Correcting Failed Sync with OneDrive on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-memory-dumps-an-essential-skill/"><u>Dissecting Windows Memory Dumps: An Essential Skill</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-audio-error-xc00d36b4-in-win10-and-11/"><u>Eliminating Audio Error XC00D36B4 in Win10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-user-experience-optimizing-windows-pins/"><u>Enhance User Experience: Optimizing Windows PINs</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-efficiency-dynamic-tiling-tech/"><u>Enhance Windows Efficiency: Dynamic Tiling Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-devices-bluetooth-on-windows-11-or-10-with-msis-free-drivers-download-here/"><u>Enhance Your Device's Bluetooth on Windows 11 or 10 with MSI's Free Drivers - Download Here</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-efficiently-undoing-changes-with-system-restore/"><u>Expert Tips for Efficiently Undoing Changes with System Restore</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-graphics-glitches-on-windows-11-now/"><u>Fix Graphics Glitches on Windows 11 Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 6 Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-allow-or-prevent-others-from-installing-removable-storage-devices-on-windows/"><u>How to Allow or Prevent Others From Installing Removable Storage Devices on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-uninstalling-epic-game-app-on-windows-11/"><u>How to Tackle Uninstalling Epic Game App on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-excel-latency-actions-for-windows-enthusiasts/"><u>Improve Excel Latency: Actions for Windows Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g84-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G84 5G Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-approaches-to-attach-reminders-in-win11win10/"><u>Innovative Approaches to Attach Reminders in Win11/Win10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-your-game-sound-in-pubg-comprehve-solutions-for-noise-nuisances/"><u>Master Your Game Sound in PUBG: Comprehve Solutions for Noise Nuisances</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-iomap64sys-blue-screen-in-win108/"><u>Mastering Fixes for IOMap64.sys Blue Screen in Win10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/meet-vivetool-a-windows-users-guide-to-future-functionality/"><u>Meet ViVeTool: A Windows User's Guide to Future Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-approach-to-dampen-windows-11-display-blanking/"><u>Methodical Approach to Dampen Windows 11 Display Blanking</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-cortana-backup-on-microsoft-operating-systems/"><u>Navigating Cortana Backup on Microsoft Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-graphics-driver-updates-for-amd-windows-11/"><u>Navigating the Maze of Graphics Driver Updates for AMD, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-proxies-for-windows-11-users/"><u>Optimizing Proxies for Windows 11 Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-360-rotation-visual-exploration/"><u>Perfect 360° Rotation Visual Exploration</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-blue-screen-windows-error-code-0xc0000001/"><u>Quick Fixes for Blue Screen - Windows Error Code 0xC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-common-photo-errors-with-windows-1011-tips/"><u>Resolving Common Photo Errors with Windows 10/11 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-microsoft-teams-experience-navigating-through-windows-error-80080300/"><u>Seamless Microsoft Teams Experience: Navigating Through Windows Error 80080300</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-pc-information-gathering-with-everythingapp/"><u>Speedy PC Information Gathering with EverythingApp</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-steam-ui-module-failure-in-steam-client/"><u>Tackling Steam UI Module Failure in Steam Client</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-your-windows-11s-troublesome-bluetech-quick-fix-bluetooth-not-shutting-off/"><u>Taming Your Windows 11'S Troublesome BlueTech: Quick Fix! (Bluetooth Not Shutting Off)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-guide-to-pairing-classic-gaming-and-windows-memories/"><u>The Guide to Pairing Classic Gaming and Windows Memories</u></a></li>
+<li><a href="https://win11.techidaily.com/the-monetary-flow-how-does-windows-11-work/"><u>The Monetary Flow: How Does Windows 11 Work?</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-clearing-frozen-windows-application-lockdown/"><u>Tips for Clearing Frozen Windows Application Lockdown</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-itunes-crashes-on-windows/"><u>Troubleshooting: ITunes Crashes on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-achieving-a-trio-of-widget-grids-on-windows-11/"><u>Tutorial: Achieving a Trio of Widget Grids on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-the-application-failed-to-launch-error-code-xc000003e-in-windows-11/"><u>Understanding and Solving the Application Failed To Launch Error: Code Xc000003E in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-web-control-panel/"><u>Unlocking Windows 11'S Web Control Panel</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leading-auditory-booster-applications-for-android-and-ios-in-the-new-year/"><u>Updated In 2024, Leading Auditory Booster Applications for Android and iOS in the New Year</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-arm-instalation-simplified-through-iso-file-processing/"><u>Windows 11 ARM Instalation Simplified Through ISO File Processing</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-customization-unleash-your-creative-touch/"><u>Windows 11 Customization: Unleash Your Creative Touch</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

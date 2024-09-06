@@ -1,7 +1,7 @@
 ---
 title: "Switching Up Your Desktop: How To Change Themes in Win11"
-date: 2024-09-01T04:40:20.355Z
-updated: 2024-09-02T04:40:20.355Z
+date: 2024-09-05T08:26:27.240Z
+updated: 2024-09-06T08:26:27.240Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
  Microsoft moved many Control Panel options to the Settings app. So, you need to head over to the Personalization options in the Settings app to apply a new theme. But, do you know that you can do it using multiple other methods? Here’s how:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Using the Desktop Context Menu
 
  The desktop context menu is the most preferred method to change desktop wallpaper and themes in Windows OS. Windows 11 retains that option in the context menu, and we hope that it doesn’t go away. Here’s how to change the theme using the Desktop context menu:
@@ -28,9 +34,21 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. Now, click on the**Personalization** option from the context menu.  
 ![Changing Theme Using the Desktop Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-desktop-context-menu.jpg)
 3. Scroll down and click on the**Themes** option.
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Under the Current theme section, click on any of the available themes to apply them to your system.
 5. Close the settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Using the Settings App
 
  Since the desktop context menu redirects you to the Settings app, you can directly open it and change the system theme. Here’s how:
@@ -41,6 +59,12 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![Changing Theme Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-settings-app.jpg)
 4. Now, click on any theme from the section of available themes. You can also apply a high-contrast theme by selecting the Contrast Theme option below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Using the Old Control Panel Personalization Utility
 
  The older version of Windows OS had a control panel personalization utility, using which you could change the themes, color schemes, and wallpapers. Microsoft hid this option in Windows 11, but you can still access it using the run command box. Here’s how:
@@ -51,6 +75,12 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 2. The old Personalization utility will launch. Navigate to the themes window and click on any theme to apply it. The utility won’t redirect you to the Settings app.  
 ![Changing Theme Using the Old Control Panel Personalization Utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-old-control-panel-personalization-utility.jpg)
 3. Close the Personalization utility window.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Using the Run Command Box
 
@@ -61,7 +91,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 3. Click on any of the available themes to apply and change the current theme.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Using File Explorer
 
@@ -72,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 3. You will see a bunch of themes listed here. Double-click on any ".theme" file to apply it to your system.  
 ![Changing Theme Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-file-explorer.jpg)
 4. There will be a bunch of folders as well. These usually belong to the downloaded themes. Open the folder, and locate the theme file to apply a downloaded theme.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 6\. Using CMD
 
@@ -86,12 +116,12 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![Changing Theme Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-cmd.jpg)
 4. Your Windows 11 system will change to the inbuilt aero theme. Similarly, you can replace the name of any other inbuilt theme and apply it.
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Using a Shortcut
 
  You can apply your favorite theme by creating a shortcut on the desktop. That way, you won’t have to launch the File Explorer or Settings app to change the theme. Here’s how to do it:
@@ -103,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 5. Then click on the**Send to** option and select the**Desktop (create shortcut)** option.  
 ![Changing Theme Using a Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-a-shortcut.jpg)
 6. Press**Win + D** to switch to the Desktop. Make sure to close the Settings app before running the shortcut.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Double-click on the newly created theme shortcut to apply the theme to your computer
 
 ## 8\. Using PowerShell
@@ -118,10 +145,13 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 4. You can replace the “aero.theme” portion of the command with any other theme name. Some of the examples include: “dark.theme” and “spotlight.theme”.  
 ![Changing Theme Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-powershell.jpg)
 5. Type**exit** and press enter to close the command prompt.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Using a Batch File
 
  You can create a batch file and run it every time someone changes your preferred theme. Moreover, you can place it on the desktop to quickly switch to a theme. Here’s how to do it:
@@ -135,7 +165,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![Changing Theme Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-a-batch-file.jpg)
 4. Close the Notepad app and Press Win + D to switch to the desktop.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Now, right-click on the changetheme.bat file and select the**Run as administrator** option.
 6. The file will open a command prompt window, change the theme and close the CMD and System Settings window automatically.

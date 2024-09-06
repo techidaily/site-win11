@@ -1,7 +1,7 @@
 ---
 title: "Unlock Windows Update: 9 Tactics Against Steady Verify Failures"
-date: 2024-09-01T04:36:45.066Z
-updated: 2024-09-02T04:36:45.066Z
+date: 2024-09-05T08:26:30.668Z
+updated: 2024-09-06T08:26:30.668Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Fixing WinUpdate Issues,Bypassing VerifyFail,Overcoming Update Blocks,
 thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab79994ca4fd6fd7629b24545.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlock Windows Update: 9 Tactics Against Steady Verify Failures
 
  Do you see a "verifying installation" prompt whenever you launch Steam? This prompt appears when Steam is cross-checking the game files in its database with those on your computer. Normally, this process should take only a few seconds.
@@ -26,6 +32,12 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
  So, restart and check if it makes any difference. If not, then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
 ![Internet router with cable on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-router-with-cable-on-white-surface.jpg)
@@ -40,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
  However, if none of the above solutions work, you'll have to contact your ISP.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Launch Steam With Administrative Rights
 
  Another quick way to fix the problem is to launch the Steam client with administrative privileges. Granting elevated rights will ensure that Steam has the required permissions to access and verify the game files.
@@ -54,10 +63,6 @@ To launch Steam as an administrator, follow the below instructions:
 3. Check the**Run this program as an administrator** box.  
 ![Run this program as an administrator option for Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-this-program-as-an-administrator.jpg)
 4. Click**Apply** \>**OK** to save the settings.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
  Now, open the Steam client and check if the problem is fixed. If this does the trick, you can configure it to[always launch as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
@@ -72,7 +77,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Disabling Real time protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disabling-real-time-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After disabling the security app, launch the Steam client and check if it still gets stuck on the verifying installation screen. If yes, re-enable the security app, as corruption in the Steam client might be causing the problem.
 
@@ -87,9 +95,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Click the**Clear Download Cache** option.  
 ![Clear Download Cache option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-download-cache-option.jpg)
 4. Click**OK** to confirm your selection.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Library folder can also corrupt and cause problems. To repair any potential corruption, click the**Steam Library Folders** option in the Download section.
 
@@ -97,6 +102,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Repair Folder option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-folder-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Updating the Steam client is another quick way to eliminate any corruption that might be causing the issue. To update, click the Steam option at the top-left corner and choose the**Check for Steam Client Updates** option.
 
 ![Check for Steam Client Updates option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-steam-client-updates-option.jpg)
@@ -106,7 +117,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Restart Steam option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-steam-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Change the Download Region in the Steam Client
 
@@ -118,7 +138,31 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Click the drop-down icon under**Download Region** and choose a different download region.  
 ![Download Region option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-region.jpg)
 3. Click**OK** to save the changes.
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Clear the Steam Content Folder
 
  Steam stores its temporary data in the Depotcache and Appcache folder. But the data of these folders can also get corrupted and interrupt the verification process.
@@ -130,10 +174,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Deleting folders in the Steam installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-folders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Change Steam Services Priority
 
@@ -144,9 +194,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Right-click on**steamservice.exe,** hover the cursor to**Set priority,** and choose**High** from the context menu.  
 ![Set priority option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reinstall the Steam Client
 
  Are you still struggling with the verifying installation prompt? If yes, then you're left with no option other than to reinstall the Steam client.

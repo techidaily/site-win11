@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows Glitches: Find Solutions Now"
-date: 2024-09-01T04:39:24.195Z
-updated: 2024-09-02T04:39:24.195Z
+date: 2024-09-05T08:26:28.133Z
+updated: 2024-09-06T08:26:28.133Z
 tags:
   - windows10
   - windows11
@@ -29,12 +29,30 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 1. Click on the Bing Chat button on the right side of the Search bar.  
 ![the-bing-chat-icon-in-windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-bing-chat-icon-in-windows-search.jpg)
 2. This will open a Microsoft Edge tab with Bing Chat open. To use it, enter what you need help with in the search box at the bottom, and then hit the **Enter** key on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bing-chat-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-in-edge.jpg)
 3. The AI will take a moment to look for a solution, and if it finds one, it will display the steps you need to take to solve your problem. You just need to try them out and see if they work out for you.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bing-chat-results-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-results-in-edge.jpg)
 
  After outlining the solutions for you, it will list the resources it has used at the bottom so you can learn more about how to fix the problem you've encountered.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Use the Get Help App
 
  Just as the name suggests, the Get Help app is all about assisting you with issues on your Windows computer. Basically, all you have to do is launch it, ask it a question, and the app will look for a solution for you.
@@ -45,8 +63,32 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 2. Type **get help** in the Search box and click on the **Get Help** app in the search results to launch it.  
 ![launching-the-get-help-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-get-help-app-through-windows-search.jpg)
 3. In the text box, type the help you need (make sure it's 80 characters or less) and hit the **Enter** key on your keyboard.  
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![searching-for-help-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-in-the-get-help-app-on-windows.jpg)
 4. The app will search for self-help articles online and display the steps or information you need to solve the problem you're experiencing.  
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search-results-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/search-results-in-the-get-help-app-on-windows.jpg)
 
  If the Get Help app doesn't have a solution, there's another app you can use.
@@ -63,27 +105,24 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 3. Enter the security code you got from the helper in the **Get help** section and click **Submit**.  
 ![entering-the-security-code-in-the-quick-assist-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/entering-the-security-code-in-the-quick-assist-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Once the helper is able to connect to your PC, you can sit back and let them do their thing.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Use the Built-In Windows Troubleshooters
 
  Windows has several built-in troubleshooters that help you diagnose and fix specific problems on your computer. All you have to do is [run the desired troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) and you'll be well on your way to fixing what's wrong. If you're using Windows 11, you can [learn about the different types of Windows Troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/)so you know which ones to use.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Get Help Online
 
  If you can't solve the problem within Windows, perhaps the online world can help. A quick way to go about it is to simply type your problem on Google and see what articles come up with solutions.
@@ -94,23 +133,22 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 ![the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-support-page.jpg)
 2. In the pop-up, click **Get Home support** to access the self-help tool.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![the-pop-up-to-get-support-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-get-support-on-the-microsoft-support-page.jpg)
 3. Once it loads, enter the problem you need help with in the text box and click on **Get Help** so it can find self-help articles for you (yes, this is similar to using the Get Help app).  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![searching-for-help-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-on-the-microsoft-support-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you want other Windows users to help you, you can [reach out to the Microsoft Community for assistance](https://www.makeuseof.com/how-to-use-the-microsoft-community-to-solve-your-windows-problem/). You can also drop [the MicrosoftHelps Twitter account](https://twitter.com/MicrosoftHelps) a message, or if you're using a Surface or Xbox device, book an appointment with a support professional on the [Microsoft Answer Desk page](https://www.microsoft.com/en-us/store/locations/answer-desk).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Get Help When Solving Problems on Windows
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Download Speed Suddenly Dropping to Zero on Steam for Windows
-date: 2024-09-01T04:41:13.766Z
-updated: 2024-09-02T04:41:13.766Z
+date: 2024-09-05T08:26:26.369Z
+updated: 2024-09-06T08:26:26.369Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,12 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
  Here are a few fixes you can apply to keep the download rate consistent and not drop to zero.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Check for Internet Issues
 
  First, ensure that Steam's download process hasn't been interrupted due to an internet connection problem. To verify that your device is still connected, try downloading something else using your browser or any other gaming client. If the download process runs as usual, your device is connected to the internet.
@@ -30,6 +36,18 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the internet connection speed remains somewhat similar during all tests, the connection is stable. In contrast, if you get a high rate in some tests but super slow in others, your connection isn't stable. So, either[fix your internet stability issues](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or switch to a wired LAN connection to restore Steam's download speed.
 
 ## 2\. Perform a Few Preliminary Checks
@@ -52,6 +70,12 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 1. Click**Steam** in the top-left corner and select**Settings** .  
 ![Open Steam Settings from Steam Dropdown Menu in Steam Client for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpg)
 2. Navigate to the**Downloads** tab.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Uncheck the box beside**Limit bandwidth to** , if it is checked.  
 ![Uncheck the Box Beside Limit Bandwidth to in Steam Client Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uncheck-the-box-beside-limit-bandwidth-to-in-steam-client-settings.jpg)
 
@@ -60,10 +84,19 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 ![Limit Bandwidth Limit to 30 MBs in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/limit-bandwidth-limit-to-30-mbs-in-steam-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If the issue persists, decrease the download rate further until you reach a sweet spot where it no longer occurs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Clear the Download Cache
 
  If limiting bandwidth doesn't help, you should clear the download cache. Performing this step will ensure that old cache records aren't impeding the download process.
@@ -72,8 +105,20 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 ![Click on Clear Download Cache Button to Clear Outdated Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-clear-download-cache-button-to-clear-outdated-cache.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once that has been done, log back into Steam, download the game again, and check if the issue persists. If it does, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Disable Download Throttling and Enable Downloads During Gameplay
 
  If the download rate goes back to zero when streaming with Steam Remote Play, this fix will likely resolve the issue. Steam allows users to throttle downloads while streaming, which makes Remote Play experience better, but it can sometimes stall your downloads. It's essential to guard against that.
@@ -82,13 +127,13 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 ![Disable Download Throttle and Allow Downloads During Gameplay in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-download-throttle-and-allow-downloads-during-gameplay-in-steam-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If neither of these tweaks works, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Tweak the LAN Settings
 
@@ -101,9 +146,6 @@ If neither of these tweaks works, move on to the next step.
 4. Then, hit the**Apply** and**Ok** buttons in the**Internet Properties** window.  
 ![Changing LAN Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/changing-lan-settings-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Temporarily Disable the DiagTrack Service in Task Manager
 
  While it may sound strange, some users who successfully resolved the issue under discussion did so by disabling DiagTrack, a diagnostics tracking service. This service is called Connected User Experiences and Telemetry Service and collects and shares diagnostics data with Microsoft. To turn it off, follow these steps:
@@ -115,22 +157,19 @@ If neither of these tweaks works, move on to the next step.
 ![Stop DiagTrack Service in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-diagtrack-service-in-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If disabling this service solves the problem, leave it disabled until the download completes. After that, repeat the steps above to re-enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## When Nothing Else Works…
 
  Hopefully, one of the above fixes will resolve the issue and allow you to download the games without any problem. If none of these steps work, change the Steam Download Region, repair Steam Library Folders, whitelist Steam through the firewall, and ensure the Steam servers are up and running.
 
  To see how to perform these tweaks, refer to our guide on[how to fix Steam if it stops downloading](https://www.makeuseof.com/how-to-fix-steam-games-not-downloading/) , which explains all the steps in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Seamlessly Download Steam Games
 
  Seeing a Steam download stuck at 0KB/s isn't a great experience. Hopefully, the above steps will resolve the underlying issue and restore the download rate to normal. If nothing seems to work, try a less desirable solution: completely uninstall and reinstall the Steam client. If you decide to go this route, back up your Steam games ahead of time to avoid losing progress.

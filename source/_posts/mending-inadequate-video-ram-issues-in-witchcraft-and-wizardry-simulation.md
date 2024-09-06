@@ -1,7 +1,7 @@
 ---
 title: Mending Inadequate Video RAM Issues in Witchcraft & Wizardry Simulation
-date: 2024-09-01T04:37:02.793Z
-updated: 2024-09-02T04:37:02.793Z
+date: 2024-09-05T08:26:30.330Z
+updated: 2024-09-06T08:26:30.330Z
 tags:
   - windows10
   - windows11
@@ -37,11 +37,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
  To fix the "Out of video memory" error in Hogwarts Legacy, you will have to force the game to use your dedicated GPU, update your graphics drivers, increase your dedicated VRAM, close resource-hungry processes, disable GPU overclocking, and adjust the game resolution. Let's see how you apply these fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
@@ -54,7 +53,10 @@ No advertising on the website.
 If the above fixes don't help, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Force the Game to Use Your Dedicated GPU
 
@@ -69,16 +71,16 @@ If the above fixes don't help, proceed to the next fix.
 3. Go to**Graphics** from**Related settings** .  
 ![Go to the Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-1.jpg)
 4. Click on**Browse** , navigate to the game's installation location, then select its .exe file.
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Once the game has been added, click**Options** and select**High performance** .  
 ![Pick the High Performance mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-display-graphics-option-high-performance.jpg)
 
  If you're using Windows 10, follow the steps outlined in our guide on[how to choose the most suitable GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Increase the Dedicated VRAM
 
@@ -100,7 +102,16 @@ If the above fixes don't help, proceed to the next fix.
  Changing these three settings will make the game work better with the available VRAM resources. If the problem persists, you can optimize other in-game display and graphics settings to get a less pleasing display but smoother performance.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 5\. Update Your Graphics Driver
 
@@ -108,6 +119,12 @@ If the above fixes don't help, proceed to the next fix.
 
  According to some users on a[Steam community thread](https://steamcommunity.com/app/990080/discussions/0/3761104682799019592/) , reinstalling the graphics driver also fixes the issue. If updating the driver doesn't work, uninstall the existing driver, download its fresh copy from your GPU manufacturer's website, and install it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Report the Problem to Warner Bros
 
  If none of these fixes work, you should report the issue to Warner Bros., the game's publisher. To do that, follow these steps:
@@ -116,12 +133,21 @@ If the above fixes don't help, proceed to the next fix.
 2. Click on**Report a Bug** in the website's top-right corner.  
 ![Click on the Report a Bug Button on Warner Bros Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4.jpg)
 3. If you are not yet logged in, do so now. If you don't already have an account, create one.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. After logging in, browse the problems that have already been reported. Most likely, you will see the same error reported by other users. You can also search for it using the search bar. Once you find it, open it and click the**Vote** button.  
 ![Click on the Vote Button After Finding the Error on Warner Bros Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5.jpg)
 5. After that, provide details about your hardware in the comments section.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix the "Out of Video Memory" Error in Hogwarts Legacy
 

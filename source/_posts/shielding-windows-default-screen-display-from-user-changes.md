@@ -1,7 +1,7 @@
 ---
 title: Shielding Windows Default Screen Display From User Changes
-date: 2024-09-01T04:38:54.127Z
-updated: 2024-09-02T04:38:54.127Z
+date: 2024-09-05T08:26:28.622Z
+updated: 2024-09-06T08:26:28.622Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Window Shielding Mode,Prevent User Interface Change,Secure Default Dis
 thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2f0511baeab6c403517618b1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shielding Windows Default Screen Display From User Changes
 
  Have you noticed that someone has been tweaking your screensaver settings without permission? What if you want to stop this but don't know how?
@@ -33,8 +39,20 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 4. Select **Prevent chaning screensaver** in the right pane and double-click on it.  
 ![Prevent changing screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prevent-changing-screen-saver.jpg)
 5. In the Properties window, check the **Enabled** option.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Check Enabled to prevent changing screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-enabled-to-prevent-changing-screen-saver.jpg)
 6. Click **Apply** \> **OK** to save the changes.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the above steps, users won’t be able to change the screensaver settings. When they try to alter the screensaver, an error message will pop up saying, "Your system administrator has disabled launching of the Display Control Panel".
 
@@ -58,10 +76,22 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
 7. Right-click in the empty space and choose **New** \> **DWORD (32-bit) Value**.  
 ![Creating DWORD key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-dword-key.jpg)
 8. Name this value **NoDispScrSavPage** and press Enter.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. Next, double-click on it to open a pop-up window.
 10. Set the Value data field to **1** and click **OK**.  
 ![Disable Screen Saver Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-screen-saver-using-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now close the Registry Editor and restart your computer. Once it restarts, the currently logged-in user can't change the screensaver.
 
  To apply these settings to all users, you must repeat the same steps but navigate to this registry key:
@@ -73,7 +103,10 @@ thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2
  If you ever decide to let users change screensaver settings, follow the same steps but set the Value data of the **NoDispScrSavPage** field to **0**. This will restore the default settings, and users can change the screensaver again.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Control Access to the Windows Screensaver
 

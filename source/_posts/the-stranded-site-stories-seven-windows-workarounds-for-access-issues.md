@@ -1,7 +1,7 @@
 ---
 title: "The Stranded Site Stories: Seven Windows Workarounds for Access Issues"
-date: 2024-09-01T04:42:36.591Z
-updated: 2024-09-02T04:42:36.591Z
+date: 2024-09-05T08:26:25.093Z
+updated: 2024-09-06T08:26:25.093Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,30 @@ keywords: Site Isolated Fixes,Windowed Access Solutions,Remote Site Troubleshoot
 thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7e4a31a614efb85ef8dac6ad.JPG
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Stranded Site Stories: Seven Windows Workarounds for Access Issues
 
  If you are unable to access some websites on your device, your device administrator or internet service provider has likely blocked them. If websites are not blocked but still refuse to open, it could be due to IP address blockage, misconfigured proxy settings, delayed DNS response, or some browser-specific problem.
 
  Aside from that, Windows Defender Firewall restrictions or adding URL addresses to the Windows Hosts file can also prevent websites from opening. If you are tired of this issue and wish to access your favorite sites again, here are a few fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Perform Some Preliminary Checks
 
  You should perform the following preliminary checks first, as they may help you resolve the issue quickly:
@@ -47,7 +65,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ![Wi-Fi Router Symbol With a Good Looking Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/wifi-routers-versus-wireless-access-points-explained-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Connect your device to a different internet connection to ensure the websites are not blocked by your ISP, which is more likely to happen if you are connected to an administered network connection. If another internet connection isn't available, you can temporarily turn on your mobile hotspot to access the internet.
 
@@ -58,7 +79,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Disable VPN or Windows Proxy Settings
 
@@ -68,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should[disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run a Netsh Command in the Windows Command Prompt
 
  If none of the above fixes have worked, you should clear the piled-up DNS cache, reset the misconfigured Winsock catalog, and remove and reinstall the TCP/IP stack. For all of this, you need to run some simple commands in the Windows Command Prompt. Here's how:
@@ -78,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 1. Type**"Command Prompt"** in Windows Search and open the**Command Prompt** app.  
 ![Running Command Prompt as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-Command-Prompt-as-an-Administrator-on-Windows.jpg)
 2. Enter the following commands one by one, pressing**Enter** after each:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 `netsh winsock reset  
 netsh int ip reset  
 ipconfig /release  
@@ -94,12 +112,21 @@ ipconfig /flushdns`
 ![DNS Server Cables Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/DNS-Server-Cables.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The Domain Name System (DNS) translates human-readable domain names into IP addresses. That's how your browser loads web pages. If some domains are blocked by your ISP, your browser won't be able to translate them into the required IP address. Consequently, they won't load.
 
  The best way to exclude this possibility is to[change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Ensure The Website Isn't Blocked in the Windows Hosts File
 
  Windows users can block access to certain websites by editing the[Windows Hosts file](https://www.makeuseof.com/windows-hosts-file-guide/) . Blocking a URL prevents users from accessing it from any browser on the same device. If you share your computer with someone else, that person might have blocked some websites in the Hosts file. Follow these steps to ensure that's not the case:
@@ -109,13 +136,22 @@ ipconfig /flushdns`
 2. Right-click on the**Hosts** file and click**Open with** .  
 ![Clicking on the Open With Button by Right-clicking on the Hosts File in the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Clicking-on-the-Open-With-Button-by-Right-clicking-on-the-Hosts-File-in-the-Windows-File-Explorer.jpg)
 3. Then, select**Notepad** to open the**Hosts** file.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. If websites have been blocked using the Hosts file, the domain names of these websites would have probably been added at the end of this file.
 5. If you find those websites added here, delete them all.  
 ![Tweaking the Hosts File by Deleting the Address Blocked in Windows 11 Hosts File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-3-Tweaking-the-Hosts-File-by-Deleting-the-Address-Blocked-in-Windows-11-Hosts-File.jpeg)
 6. After that, save the document by pressing**CTRL + S.**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Roam Around the Internet Freely Again on Windows
 

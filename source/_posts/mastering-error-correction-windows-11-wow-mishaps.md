@@ -1,0 +1,173 @@
+---
+title: "Mastering Error Correction: Windows 11 WoW Mishaps"
+date: 2024-09-05T08:27:47.749Z
+updated: 2024-09-06T08:27:47.749Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Mastering Error Correction: Windows 11 WoW Mishaps"
+excerpt: "This Article Describes Mastering Error Correction: Windows 11 WoW Mishaps"
+keywords: WinErrorCorrectionTips,11WoWTroubleshooting,Win11WOWIssuesFix,ErrorMitigationWin11,WoWMishapRepairWin,PCWindowsErrorHandling,GameDebuggingWin11
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Mastering Error Correction: Windows 11 WoW Mishaps
+
+ Error 132 is an old World of Warcraft issue that’s troubled WoW players for many years. The Error #132 (0x85100084) Fatal exception error pops up for some players when they try to start World of Warcraft or while playing the game on Windows 11/10\. Players see an error 132 message that says, “This application has encountered a critical error.”
+
+ As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
+
+## 1\. Disable Game DVR for Recording Clips
+
+ This somewhat unusual potential solution is also among the most widely confirmed to work. Many WoW players have been able to fix error 132 simply by disabling Game DVR background recording. So, maybe that potential fix could work for you as well. Try disabling Game DVR as follows:
+
+1. Open Settings by utilizing the **Windows** logo + **I** quick access key combination for that app.
+2. Click **Gaming** \> **Captures** in Settings.
+3. Turn Off the **Record in the background while I’m playing a game** option.  
+![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
+
+ Renaming World of Warcraft’s **Cache**, **Interface**, and **WTF** folders will reset the game’s UI. This troubleshooting method can fix a variety of WoW issues and could also fix error 132\. This is how you can rename World of Warcraft’s **Cache**, **Interface**, and **WTF** folders:
+
+1. Run the Battle.net client software with which you usually launch World of Warcraft.
+2. Go to your World of Warcraft game and click the cog icon on the right of its **Play** button to bring up a menu.
+3. Click on the **Show in Explorer** option to bring up a World of Warcraft installation folder.  
+![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
+4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
+![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
+5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
+![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
+
+ Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
+
+ Some WoW players have also confirmed deleting that game’s **Cache** folder can fix error 132\. To do that, open the **\_retail\_** or **\_classic\_** subfolder in the World of Warcraft directory as outlined in the steps above. Then right-click the **Cache** and **Interface** subfolders and select **Delete**.
+
+ If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Enable DirectX Legacy Mode
+
+ Blizzard support recommends users enable DirectX legacy mode for fixing error 132\. You can set the game to start with legacy DirectX like this:
+
+1. First, bring up the Battle.net game launcher window.
+2. Click on the Blizzard logo button and **Settings**.  
+![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
+3. Select **Game Settings** \> **World of Warcraft**.
+4. Click on the **Additional command line arguments** box to activate a text box.
+5. Input **\-d3d11legacy** inside the text box.  
+![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
+6. Press **Done** to set World of Warcraft’s command line argument.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
+
+## 4\. Add World of Warcraft to Your Security Software Exclusions List
+
+ Security software packages (antivirus tools and firewalls) could be causing error 132 on your PC by blocking World of Warcraft or other Blizzard processes from running. You can check this by disabling Microsoft Defender or an alternative third-party antivirus tool on your PC. However, it’s not ideal to have to turn off security features every time you want to play World of Warcraft.
+
+![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
+
+ To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
+
+ If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+## Enjoy World of Warcraft Again
+
+ Applying all the error 132 troubleshooting methods here will likely fix World of Warcraft’s persistent fatal crashing. Error 132 isn’t always an easy issue to resolve, and you may have to try a few of those potential resolutions to get the WoW game working on Windows 11/10\. With error 132 fixed, you can enjoy all the thrills of World of Warcraft again.
+
+ As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-in-depth-analysis-of-powerdirector-24-features/"><u>[New] In 2024, In-Depth Analysis of PowerDirector '24 Features</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[Updated] In 2024, Enhanced Visual Content  Incorporate BB Overlays in FB Video Frames</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pro-stock-market-strategies-in-yt-reviews/"><u>[Updated] In 2024, Pro Stock Market Strategies in YT Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-proven-methods-for-logging-digital-audio-data/"><u>[Updated] In 2024, Proven Methods for Logging Digital Audio Data</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transforming-images-on-snapchat-an-editors-playbook/"><u>[Updated] In 2024, Transforming Images on Snapchat  An Editor's Playbook</u></a></li>
+<li><a href="https://win11.techidaily.com/commanding-victory-a-quick-guide-to-voice-commands-on-windows-11/"><u>Commanding Victory: A Quick Guide to Voice Commands on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-nvidia-opengl-issue-in-windows-11/"><u>Comprehensive Guide to Fixing NVIDIA OpenGL Issue in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-error-0xc0000001-expert-tips/"><u>Correcting Windows Error 0xC0000001: Expert Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/deciding-on-the-usefulness-of-windows-11-s-mode/"><u>Deciding on the Usefulness of Windows 11 S Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-deep-how-to-navigate-the-mspcm-bar-in-win11-systems/"><u>Dive Deep: How to Navigate the MSPCM Bar in Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-stability-of-deskanywhere-on-win11-systems/"><u>Enhancing Stability of DeskAnywhere on Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-your-network-ip-via-windows-command-prompt/"><u>Explore Your Network IP via Windows Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/from-blank-screen-to-focused-workspace-reviving-hidden-panes-with-these-6-effortless-methods/"><u>From Blank Screen to Focused Workspace: Reviving Hidden Panes with These 6 Effortless Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/guidance-to-rectify-microsoft-store-error-0x80072efd/"><u>Guidance to Rectify Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-get-help-app-not-working-on-windows-11/"><u>How to Fix the Get Help App Not Working on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-achieving-smooth-audio-segmentation-with-premier/"><u>In 2024, Achieving Smooth Audio Segmentation with Premier</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy S23 Ultra Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-to-launch-google-play-on-w11/"><u>Instructions to Launch Google Play on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-a-linux-vm-via-hyper-v-in-windows-environment/"><u>Launching a Linux VM via Hyper-V in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/legacy-software-understanding/"><u>Legacy Software Understanding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-delays-and-minimizing-ping-in-cs-2-for-seamless-play/"><u>Master Tips: Eliminating Delays and Minimizing Ping in CS 2 for Seamless Play</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-taskbar-showing-internet-speed/"><u>Maximizing Windows Taskbar: Showing Internet Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-system-load-visualizers/"><u>Optimal System Load Visualizers</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-keyboard-shortcuts-for-efficient-window-management/"><u>Quick Access: Keyboard Shortcuts for Efficient Window Management</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-and-recognize-six-ways-to-discover-your-pc-model/"><u>Reveal & Recognize - Six Ways To Discover Your PC Model</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-gaining-windows-high-level-control/"><u>Steps for Gaining Windows' High-Level Control</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-memory-couldnt-be-written-in-windows/"><u>Tackling 'Memory Couldn’t Be Written' In Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-uninstall-routes-in-windows-11-118-chars/"><u>The Ultimate List of Uninstall Routes in Windows 11 (118 Chars)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722692790188-the-ultimate-test-reviewing-performance-and-capacity-of-halo-bolt-chargerstarter-combo/"><u>The Ultimate Test: Reviewing Performance and Capacity of Halo Bolt Charger/Starter Combo</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-eradicating-breakpoint-exception-error-on-pc/"><u>Tips for Eradicating Breakpoint Exception Error on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-steam-library-folder-restrictions-on-win-11/"><u>Tips to Rectify Steam Library Folder Restrictions on Win 11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-two-network-types-a-comprehensive-windows-guide/"><u>Uniting Two Network Types: A Comprehensive Windows Guide</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-icon-alignment-guide-unite-not-bind/"><u>Win 11 Icon Alignment Guide - Unite Not Bind</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

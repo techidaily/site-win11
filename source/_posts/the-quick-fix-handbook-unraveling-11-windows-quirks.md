@@ -1,7 +1,7 @@
 ---
 title: "The Quick-Fix Handbook: Unraveling 11 Windows Quirks"
-date: 2024-09-01T04:37:26.792Z
-updated: 2024-09-02T04:37:26.792Z
+date: 2024-09-05T08:26:29.980Z
+updated: 2024-09-06T08:26:29.980Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,18 @@ keywords: Fix Windows Tricks Guide,Handbook for Windows Tweaks,Master Windows Op
 thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38ea9e6dfe43b98273ae04085.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Quick-Fix Handbook: Unraveling 11 Windows Quirks
 
  Like all the previous iterations of Microsoft's venerable OS, Windows 11 has its own set of reoccurring issues. While some are a trivial problem, others can make the experience very frustrating.
@@ -30,16 +42,34 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 
  That said, there is always a workaround when it comes to the Windows OS running computers. You can[use a registry tweak to make an unsupported Windows 11 PC compatible](https://www.makeuseof.com/how-to-make-unsupported-windows-11-pc-compatible/) . But there is a catch.[Installing Windows 11 on incompatible PCs may make you ineligible for automatic updates](https://www.makeuseof.com/is-it-okay-install-windows-11-on-incompatible-pc/) . So, proceed with caution, as Windows 10 will continue to get security updates until late 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Unable to Install Windows 11 Features Updates
 
  Even on Windows 11-compatible systems, you may run into the issue of Windows being unable to install updates. This will prevent you from installing the newer build version of Windows 11 OS successfully.
 
  The update issue can occur due to a corrupted software distribution folder and insufficient storage space. Explore our guide on[how to fix the Windows 11 Version 22H2 update not installing](https://www.makeuseof.com/windows-11-22h2-not-installing/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Windows 11 No Sound Issues
 
 ![troubleshoot sound problems windows taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshoot-sound-problems-windows-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The[no sound problem in Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) is largely due to external factors. At times, you may also experience[low audio on your Windows 11 PC](https://www.makeuseof.com/windows-11-low-audio/) . The audio issues are often due to an incorrect configuration of playback devices.
 
  If you have installed an audio tuning utility, make sure it is correctly configured to use your default sound device. Additionally, try to restart the Windows audio services and run Windows audio troubleshooter to fix any issues.
@@ -52,16 +82,10 @@ To run the audio troubleshooter:
 
  In case of Bluetooth audio issues, explore our guide to fix[Bluetooth audio not working on Windows 11](https://www.makeuseof.com/windows-11-bluetooth-audio-not-working/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. The Windows 11 Start Menu Is Not Working
 
 ![taskbar alighnment windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-alighnment-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With Windows 11, the default alignment of the Start menu is moved to the center of your screen. This makes sense both aesthetically and practically for most users. And for the most part, it feels new and smoother than its predecessor.
 
  However, if you prefer the classic left-side alignment, you can[customize the Start menu in Windows 11](https://www.makeuseof.com/customize-the-start-menu-in-windows-11/) to put it back where it belongs. Here is how to do it:
@@ -72,14 +96,16 @@ To run the audio troubleshooter:
 
  That said, the Start menu is still prone to some malfunction. A common issue includes the[missing Start menu icons](https://www.makeuseof.com/fix-missing-start-menu-icons-windows-11-10/) . Then you may also encounter the[Start menu critical error](https://www.makeuseof.com/windows-start-menu-critical-error-fix/) . These issues are often triggered due to temporary conflict with the Start menu services and third-party software that can be resolved quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. The File Explorer Not Working on Windows 11
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  File Explorer has been around since Windows 95\. It's an extremely handy file manager application making it a breeze to access your file folders on your PC. With Windows 11, Microsoft has made the venerable file manager even better.
 
  With the latest 22H2 update, you can[multitask with Windows 11 File Explorer with multiple tabs](https://www.makeuseof.com/windows-11-22h2-file-explorer-multitask/) . You can further[customize File Explorer](https://www.makeuseof.com/windows-11-customize-file-explorer/) to change folder and file icons and more.
@@ -91,13 +117,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If not, explore more ways to fix[File Explorer not opening on Windows](https://www.makeuseof.com/windows-file-explorer-not-opening/) here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Fixing Windows 11's Slow Performance
 
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
 
  At times the performance issue can plague even higher-end computers running Windows 11\. Check out these[best tips to speed up a Windows computer](https://www.makeuseof.com/windows-11-speed-up-tricks/) to improve your system performance.
@@ -125,15 +154,33 @@ To do this:
 ![advanced network settings windows 11 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-network-settings-windows-11-1.jpg)
 3. Scroll down and click on**Network reset.**  
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
 4. Click**Reset** now to confirm the action.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In an ideal setup, an Ethernet connection is likely to cause fewer issues. It is also easy to set up and offers better speed and less lag over a wireless network. That said if the wired connection starts to act up, follow these troubleshooting steps to[fix your Ethernet connection on Windows 11](http://www.makeuseof.com/windows-11-ethernet-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Windows 11 Screen Flashing, Flickering, Blurry, and Black Screen Problems
 
@@ -151,9 +198,6 @@ To do this:
 
  If you encounter a black screen issue, try to[perform a repair install of Windows 11](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . If that does not help, assuming that you don't have a hardware issue, a reset or fresh install may be necessary to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Disabling Bing Web Search in Windows 11
 
  The built-in Windows Search bar lets you find files and folders quickly. However, it does more than what the user asked for. By default, Windows Search shows matching search terms from Bing.
@@ -162,9 +206,6 @@ To do this:
 
  In addition, this can clutter the search dialog by showing unnecessary information. Fortunately, with the help of a registry tweak, you can[disable Bing web searches on Windows 11](https://www.makeuseof.com/windows-11-disable-bing-search/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Disable Annoying Ads on Your Windows 11 Device
 
  Portable Windows 11 devices tend to come with some bloatware from the manufacturer installed. Apart from these, you may find some unnecessary apps recommendation in your Start menu on Windows 11.
@@ -172,7 +213,10 @@ To do this:
  Then there are more subtle forms of ads. You may find ads on the lock screen, start menu, device usage recommendations, notifications, and even in File Explorer. Fortunately, most of these ads can be turned off without much effort. Follow our detailed guide to[remove all the annoying ads on Windows 11](https://www.makeuseof.com/windows-11-remove-ads/) .
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 11\. Disable Windows 11's Automatic Updates
 

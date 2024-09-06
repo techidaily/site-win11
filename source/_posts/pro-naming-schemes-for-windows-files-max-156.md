@@ -1,7 +1,7 @@
 ---
 title: Pro Naming Schemes for Windows Files (Max 156)
-date: 2024-09-01T04:36:34.759Z
-updated: 2024-09-02T04:36:34.759Z
+date: 2024-09-05T08:26:30.824Z
+updated: 2024-09-06T08:26:30.824Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: File Naming Rules,Windows File Titles,Optimal File Names,Efficient Fol
 thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd3f27cb0d07dfb8b59734a92.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pro Naming Schemes for Windows Files (Max 156)
 
  Do you struggle to quickly find a specific file on Windows? One of the reasons could be that you are not naming your files correctly.
@@ -26,10 +32,22 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
  You should always start your filename with the most important identifiers of the file, such as a date. Remember, when you sort your files by filename, Windows will arrange them in alphabetical/numerical order, so think about how you can take advantage of that when naming files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Do Not Use Specific Punctuation Marks Anywhere in the Filename
 
 ![unsupported characters in filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unsupported-characters-in-filenames.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While you can name a file the way you want, there are some limitations to what characters you can use. Windows operating system does not allow certain characters in filenames, which include:
 
 * < (less than)
@@ -45,19 +63,25 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
  You can use spaces anywhere in the filename, but be mindful of the fact that some software does not recognize files with spaces. Instead of spaces, you can use underscores, dashes, and Camel case (e.g., FileName instead of File Name).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Keep Your Filenames Short and Snappy
 
 ![Length of filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/length-of-filenames.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 10 and 11 support up to 260 characters in a filename, meaning you can stuff many details into a filename. However, you should not aim to reach that 260 characters limit. Ideally, a filename should not be longer than 35 characters.
 
  With all that said, sometimes it might be worth it to keep the filename lengthy. And if you think you benefit more from a long filename than a shorter one, you should not hesitate but make sure it's unique and consistently structured.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Don't Use Specific, Reserved Words in Filenames
 
 ![The speified device name is invalid dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-speified-device-name-is-invalid-dialogue.jpg)
@@ -82,29 +106,35 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
  It is important to note that you can use the same name in files without numbers in the parenthesis as long as they are not in the exact location. So if you want to use the same name in files, you have to keep them in separate locations.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Learn How to Rename Multiple Files at Once
 
  If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily[batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. You Can Use Emojis in Filenames to Spice Things up
 
 ![Emojis in Filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/emojis-in-filenames.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  One of the coolest ways you can name files on Windows is by choosing emojis instead of words. You can[use whatever emojis you want in the name of your Windows files](https://www.makeuseof.com/windows-emoji-file-folder-drive-names/) . You can also mix words and emoticons if that works best for you; there is no limitation on using emojis anywhere in the filename.
 
  While emojis may not be hugely beneficial, they can make filenames more expressive if used properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Include Dates in Filenames to Make Them Descriptive
 
  You can use dates in filenames on Windows. Some of the most common ways to write dates are in YYYY-MM-DD, YYYYMMDD, YYMMDD, and YYMM formats. However, you can not use YYYY/MM/DD because the forward slash character is not supported in a filename.
@@ -113,6 +143,12 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
  You can choose any format that suits you the best from the supported ones. But to ensure that you do not struggle with finding the exact filename, you should use the most significant date and time component first. If the year is your most important component, you should use that first.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Ensure Your Filenames Include Enough Context
 
  Different people will likely have different opinions about what makes a suitable filename. But broadly speaking, a good filename is short but descriptive enough to help you quickly understand what is in it. If you have a PC for everyone in your family to use, You also need to name them in such a way that anyone else in your family can understand its content and context.
@@ -123,15 +159,24 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  To be able to find the exact file on Windows quickly is not as simple as you think. If you type something in the File Explorer search box, it will show a laundry list of files containing what you just typed. Thus, it makes things difficult for you to find the exact file in File Explorer.
 
  For example, if you are looking for a file called**Windows.11** and want your PC to show you the exact file instead of a list of files with "windows" and "11" in them, you can type "name: Windows.11" in the File Explorer search box. This will only show you the exact file you are looking for.
 
  Other than the "name" search syntax, some popular ones include "kind," "size," and "date." If you type "size: 54 KB" in the File Explorer search bar, it will show you a list of files that are precisely 54 KB in size. We've shown[how to fix File Explorer search when it's not working](http://www.makeuseof.com/tag/fix-windows-file-explorer-search/) if you run into any problems.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get Better Filenames on Windows With These Tips
 
  People often ignore the importance of getting filenames right on their PCs. But with the tips above, you can be a pro at naming files. It will take some time to get used to everything we just shared. And it is certainly worth remembering them because they can make you more productive and certainly help you create a more organized environment in File Explorer or any other third-party file management tool you may be using.
