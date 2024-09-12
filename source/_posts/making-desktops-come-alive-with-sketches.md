@@ -1,7 +1,7 @@
 ---
 title: Making Desktops Come Alive with Sketches
-date: 2024-09-05T08:48:23.806Z
-updated: 2024-09-06T08:48:23.806Z
+date: 2024-09-11T09:30:04.992Z
+updated: 2024-09-12T09:30:04.992Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
  Epic Pen and gInk are two apps that enable you to seamlessly scribble on the Windows desktop and software as you would on a drawing board. This is how you can draw on the Windows 10 and 11 desktop with those apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Draw on the Windows Desktop With Epic Pen
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
@@ -38,25 +32,49 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 6. Deselect the**Start Epic Pen on Windows login** setting if you prefer the software not to be included within the startup, and click the installer’s**Next** option.  
 ![The Install button for Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-install-option2.jpg)
 7. Select**I don’t want to use Epic Pen Pro right now** on the activation window to utilize the software without trial features. You can still activate the trial features later.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The I don't want to use Epic Pen Pro right now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/epic-pen-setup-window.jpg)
 8. Then you can select an**Enable Epic Pen Pro features for free** option to permanently unlock a Pro feature by opting into the Brightdata scheme for sharing your PC’s resources. You can opt into that scheme later if you wish, but to try out the basic version first click **I don’t want to enable free Epic Pen Pro features right now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Brightdata scheme option for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-epic-pen-pro-features-option.jpg)
 9. Select**Finish** (with the**Launch** checkbox enabled) to start Epic Pen.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can get scribbling on the Windows desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
@@ -67,12 +85,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
  Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
@@ -81,15 +93,16 @@ Now you can get scribbling on the Windows desktop.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
 
@@ -100,28 +113,30 @@ Now you can get scribbling on the Windows desktop.
 3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
@@ -131,18 +146,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 ## Get Scribbling on Your Windows Desktop With These Apps
@@ -154,8 +157,6 @@ Now you can get scribbling on the Windows desktop.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

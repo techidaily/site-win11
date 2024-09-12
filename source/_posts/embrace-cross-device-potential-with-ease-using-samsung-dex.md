@@ -1,7 +1,7 @@
 ---
 title: Embrace Cross-Device Potential with Ease Using Samsung DeX
-date: 2024-09-05T08:47:24.597Z
-updated: 2024-09-06T08:47:24.597Z
+date: 2024-09-11T09:30:05.773Z
+updated: 2024-09-12T09:30:05.773Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,19 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  You can use Samsung DeX wirelessly, but that isn’t an easy feat. But Samsung released a desiccated app for Windows 11 called Samsung DeX to help you connect your Galaxy phone via USB cable. We will discuss the app’s features and its limitations in this post. Let’s begin.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Use the Samsung DeX App?
 
  Earlier, you could use the in-built wireless display feature on Windows to connect your Galaxy smartphone that [supports Samsung DeX](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Fanswer%2FANS00062657%2F). But the biggest issue with that was you cannot exit the full-screen mode of Samsung DeX and had to either use DeX or close it and then use your Windows PC.
@@ -27,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  You cannot use your mouse in this mode. The only way to do it is by attaching a [USB hub](https://www.makeuseof.com/usb-hub-vs-docking-station-whats-the-difference/) to your Galaxy phone and then connecting a mouse. The result is a messy desk cluttered with devices you have to unplug from your system.
 
  Another gripe with the wireless mode is the lack of file transfer features. There is no option for that. So, you can only run the apps on the phone on a bigger display. But the Samsung DeX app for Windows fixes all of these features. So, no need to connect a keyboard and mouse, no visible latency in mouse movements, and you can transfer files with it.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Setup Samsung Dex on Windows 11
 
@@ -40,17 +66,12 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ![Installing Samsung DeX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/installing-samsung-dex.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Connect Your Samsung Phone Contents Using Samsung DeX on Windows 11
 
  After completing the app installation on Windows, repeat the following steps. Connect your phone to the same Wi-Fi network as your computer. Connect your phone to the PC with the USB cable.
@@ -59,16 +80,30 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![Enable DeX on Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-dex-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enable DeX on Phone 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-dex-on-phone-2.jpg)
 
 ![Enable DeX on Phone 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-dex-on-phone-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  You will see a prompt in the PC to accept the incoming request. Click on the **OK** button to start the DeX mode.
@@ -79,34 +114,23 @@ Close
 
 ![Samsung DeX App in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-app-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press the **Win** key to open the **App Drawer** and double-click on any app to open it. You can use the arrow keys or click on the arrow icons to move to the next page of the App Drawer.
 
 ![Samsung DeX App Drawer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-app-drawer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Resizing an app window is identical to how you do it on a Windows PC. You can even pin the app to the top.
 
  To snap an app to one side, click on the app window and press the **Win + Left** or **Right** arrow key. Then you can click on the **blank side** and choose an app for the second half of the DeX screen as well.
 
 ![Samsung DeX Two App Windows side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-two-app-windows-side-by-side.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click on the **Notifications** icon on the Taskbar to view recent ones. You cannot reply to incoming messages on WhatsApp but can **close** or **mark them as read**.
 
 ![Samsung DeX Notification section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-notification-section.jpg)
@@ -115,12 +139,6 @@ Close
 
  Lastly, to exit the DeX mode, press the **Win + W** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Get With the Samsung DeX App on Windows 11
 
  Compared to the wireless DeX experience without the official Windows app, the wired one works much better. The mouse cursor movement is fast, and you can capture screenshots using a dedicated button on the taskbar. You can reply to incoming messages without lifting the phone and can run any app in the DeX window while enjoying a completely interactive experience with the keyboard and mouse.
@@ -129,34 +147,30 @@ Close
 
 ![Samsung DeX Copying Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-copying-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Samsung DeX for Windows also supports minimizing and resizing. So, you can put the DeX window on one side of your display and use any other app along with it. We love the fact that it supports common Windows shortcuts and even has some custom ones for opening Notifications, File Manager, and other apps on your Samsung Galaxy Phone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Limitations of the Samsung DeX App
 
  The first limitation we felt that was keeping the phone connected to the cable at all times. File Transfer speeds aren’t that good despite being a combination of wired and wireless connection. The weather or the calendar app didn’t launch when we clicked on the date and time section on the DeX taskbar.
 
 ![Samsung DeX Copying Files Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-copying-files-speed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some actions like clicking the keyboard icon in the DeX app power on the display. The only possible option is to shut the phone display and continue using DeX mode. All these are small kinks that Samsung must figure out in future app versions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using Your Samsung Device on a Windows PC
 
  Samsung DeX app for Windows brings a few much-awaited features. You can copy text and files and can freely use both keyboard and mouse without relying on a USB hub. The shortcuts make it easy to access and view your apps on a bigger display.

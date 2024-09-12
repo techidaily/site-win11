@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Process for MS Office on Windows 10/11
-date: 2024-09-05T08:46:22.062Z
-updated: 2024-09-06T08:46:22.062Z
+date: 2024-09-11T09:30:06.601Z
+updated: 2024-09-12T09:30:06.601Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: WinOfficeSetupGuide,MSWin10OfficialTIES,MSOfficeWindows11Install,Win10
 thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8a7664c56c7e33516dab19ed.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling the Process for MS Office on Windows 10/11
 
  Microsoft Works is a discontinued office suite the big M replaced with MS Office Stater in 2010\. Works was a cheaper alternative to Microsoft Office. That suite incorporated word processor, spreadsheet, and database applications with more limited features than MS Word, Excel, and Access.
@@ -27,11 +21,12 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Download and Install Microsoft Works 9
 
  The Microsoft Works suite isn’t generally available on software download sites. However, you can still install and utilize that software with an MS Works ISO file preserved on the Internet Archives website.
@@ -42,18 +37,28 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 2. Click the **ISO IMAGE** download link.  
 ![The ISO Image download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iso-image.jpg)
 3. Double-click the **Microsoft Works 9.ISO** file and click **Open** if a Security Warning dialog box pops up.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-option.jpg)
 4. Then double-click the **Setup.exe** file for Microsoft Works 9\.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Next** inside the Microsoft Works setup window.
 6. Click **Create a desktop shortcut** to select that option.  
 ![The Install option for Microsoft Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-option.jpg)
 7. Select the **Install MS Works 9** option.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click **Continue** to install other components.
 9. Then select **OK** on the dialog box that confirms MS Works is installed.
 
@@ -64,16 +69,24 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Getting Started With Microsoft Works 9
 
  You’ll see a Welcome to Microsoft Works window the first time you run the software. Select the **I Agree** option on that window to accept the license terms. You’ll also be asked about participating in a customer experience program. Click **No** to opt out of participation. Then press the **Finish** button to get stuck into Microsoft Works 9\.
 
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
@@ -83,25 +96,20 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Microsoft Works Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-calendar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the **Templates** tab at the top of Microsoft Works to access the pre-made templates. There you can select template categories for creating newsletters, flyers, cards, home budgeting, travel, and sports documents in Works. Then choose a template to open within the MS Works word processor, spreadsheet, or database software.
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
 
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discover Microsoft Works 9 in the Modern Era
 

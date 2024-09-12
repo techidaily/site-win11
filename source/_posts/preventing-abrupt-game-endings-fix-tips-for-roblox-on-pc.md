@@ -1,7 +1,7 @@
 ---
 title: "Preventing Abrupt Game Endings: Fix Tips for Roblox on PC"
-date: 2024-09-05T08:46:18.301Z
-updated: 2024-09-06T08:46:18.301Z
+date: 2024-09-11T09:30:06.655Z
+updated: 2024-09-12T09:30:06.655Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 
  If Roblox frequently crashes with this error and bothers you, here are some fixes and checks you can use to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Perform Basic Checks and Fixes
 
  First, perform the following basic checks and fixes, as they may resolve the problem instantly:
@@ -35,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 * Close the error window and restart your device to see whether any temporary problem has caused the issue.
 * Close any cheat software that you might be using and other resource-intensive apps and programs running alongside Roblox.
 * Whitelist the Roblox client from Windows Defender to ensure that interference from the security suite didn't cause the crash. Refer to our guide on [how to allow apps through the firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) if you are unfamiliar with the process. Also, if you are using third-party antivirus software, temporarily disable it.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Monitor Resource Usage While Roblox Is Running
 
@@ -51,12 +58,14 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 4. Select Task Manager from the left half of the window, and it will open on the left.  
 ![Select Task Manager From the Left Half of the Snap Layouts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-select-task-manager-from-the-left-half-of-the-snap-layouts.jpg)
 5. Analyze the resource usage percentage in the Task Manager as you play the game.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Analyze the Resource Usage Percentage in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-analyze-the-resource-usage-percentage-in-windows-task-manager.jpg)
 
  Examine whether any of the components' usage rises to 100 percent when the game crashes. If that is the case, that component is under severe stress, which causes Roblox to crash. To resolve the issue, reduce stress on the component so Roblox can efficiently use the resources it needs without overloading it.
@@ -75,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 4. Find the **Roblox** folder here and delete it.  
 ![Clear Roblox Cache by Deleting the Roblox Folder From the Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-clear-roblox-cache-by-deleting-the-roblox-folder-from-the-temp-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To clear cookies for Roblox on Chrome, Firefox, or Edge, follow our guide on [how to clear cookies for a specific website](https://www.makeuseof.com/clear-chrome-firefox-edge-cookies-specific-site/).
 
 ## 4\. Remove Interfering Browser Extensions
@@ -90,11 +106,12 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
  Based on the possibility of this switch resolving the problem, install the [Roblox Microsoft Store app](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and use that for some time to check if it fixes the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Run Roblox in the Compatibility Mode
 
  Running Roblox in compatibility mode has resolved the crashing issue for some users. Therefore, you should configure the game to run in compatibility mode and see whether that fixes the problem. Follow these steps to do this:
@@ -103,32 +120,6 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 2. Right-click on the **Roblox Player** shortcut, and then select **Properties**.  
 ![Go to Properties of Roblox Player in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-properties-of-roblox-player-in-windows-file-explorer.jpg)
 3. Navigate to the **Compatibility** tab in the **Properties** window.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
-![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
-5. Then, click **Apply**.
-6. After that, click on the **Run compatibility troubleshooter** button.  
-![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
-7. Click on **Try recommended settings** \> **Test the program…**  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
-8. Then, save the changes by following the on-screen instructions.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
 <span id="1975555">
@@ -142,6 +133,32 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
+![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
+5. Then, click **Apply**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+6. After that, click on the **Run compatibility troubleshooter** button.  
+![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
+7. Click on **Try recommended settings** \> **Test the program…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
+8. Then, save the changes by following the on-screen instructions.
+
 ## 7\. Reinstall the Roblox Client
 
  If none of the above fixes work and Roblox crashes frequently, your last resort should be reinstalling the Roblox client. This will ensure that corrupt client installation does not cause constant crashes. Don't forget to remove the previous installation before beginning the reinstallation process.
@@ -150,20 +167,15 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 
 ![Delete Roblox Folder From Its Installation Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-delete-roblox-folder-from-its-installation-directory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, go to Roblox's website or the Microsoft Store, depending on the Roblox application you want to install, and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stop Roblox From Crashing Frequently
 
  Seeing Roblox crash repeatedly without apparent reason can make us lose our cool. Hopefully, the above fixes will help you find the root cause behind the error and fix it. In turn, Roblox will run smoothly and will not crash. Not only will the above fixes help resolve the issue, but they will also improve Roblox's performance.

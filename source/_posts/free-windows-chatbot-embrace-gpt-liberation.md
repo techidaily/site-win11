@@ -1,7 +1,7 @@
 ---
 title: "Free Windows ChatBot: Embrace GPT Liberation"
-date: 2024-09-05T08:44:07.509Z
-updated: 2024-09-06T08:44:07.509Z
+date: 2024-09-11T09:30:08.417Z
+updated: 2024-09-12T09:30:08.417Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Free ChatBots Windows,GPT-Liberated Conversations,AI Bots for Windows,
 thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce520d27154774aa65c3ef13831.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Free Windows ChatBot: Embrace GPT Liberation
 
  ChatGPT is great if you don't mind sharing your every input with its creators, OpenAI. However, if you are more security-conscious, don't like being tied to an internet connection, or would prefer ChatGPT to act more like a local app instead of an online service, you ought to look into FreedomGPT.
@@ -32,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  The problem with ChatGPT is that it comes with some caveats:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. ChatGPT May Record and Use Your Responses for Training Purposes
 
  Most people don't consider that anything they chat about with OpenAI's solution is used to further train and improve it. That might not seem important until you realize that ChatGPT's next version may include your prompts in its answers to others.
@@ -45,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
  If you'd like to learn more about where your data is going when you use ChatGPT, check out [if ChatGPT is a big security risk](https://www.makeuseof.com/chatgpt-privacy-risk/). We also did a piece on [if ChatGPT has privacy issues](https://www.makeuseof.com/chatgpt-privacy-issues/).
 
  That's why many companies have forbidden using ChatGPT internally, and why it's generally considered a bad idea to share sensitive information with it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. OpenAI Sets Limits on How You Use ChatGPT
 
@@ -56,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  There are two solutions to those problems you can pay for a subscription, or you can try an alternative like FreedomGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up FreedomGPT
 
  FreedomGPT aims to simplify and democratize the use of AI by the masses. Its unbelievably easy installation proves that it could someday achieve that goal.
@@ -73,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  With FreedomGPT's "app" part downloaded and installed, run its installed local instance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Download AI Models in FreedomGPT
 
  Although FreedomGPT is a complete AI chatbot solution, it initially lacks "the brains" that will allow you to interact with it: an AI model.
@@ -82,35 +78,19 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 1. FreedomGPT will show you a list of available AI models. Unfortunately, it doesn't offer any details for any of them, so you'll have to search for more information online to decide which one(s) to choose. When you've decided, click on a model's **Download** button to download and install it.  
 ![FreedomGPT Available Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-available-model.jpg)
 2. You can store downloaded AI models anywhere. Still, saving them within FreedomGPT's folder or a subfolder is best to keep things tidy.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Chat With FreedomGPT
 
  Fortunately, if you're familiar with ChatGPT, you'll notice that FreedomGPT's UI is very similar.
@@ -121,11 +101,12 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
@@ -133,14 +114,36 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 1. At the top left of FreedomGPT's window is the current AI model's name. Click on it to access the model management panel.  
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Talk to an AI Whenever You Like With FreedomGPT
 
  Although it's less feature-rich and advanced than ChatGPT, FreedomGPT has many pros going for it You don't share whatever you type with others, it's available while you're offline, it's easy to set up and use, and best of all, it's free to use.

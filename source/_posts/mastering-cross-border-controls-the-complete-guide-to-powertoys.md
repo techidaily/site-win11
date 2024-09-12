@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Border Controls: The Complete Guide to PowerToys"
-date: 2024-09-05T08:41:57.575Z
-updated: 2024-09-06T08:41:57.575Z
+date: 2024-09-11T09:30:10.162Z
+updated: 2024-09-12T09:30:10.162Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Global Trade Controls,CBP Compliance Guide,International Shipping Tool
 thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed820ba5f25e49c1dbd778b36d5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Cross-Border Controls: The Complete Guide to PowerToys
 
  PowerToys is constantly adding new features, making it a handy utility for users looking to get more out of Windows. It started with a bunch of utilities but now has the most comprehensive lineup of tools including Mouse utilities, Image Resizer, and many more.
@@ -27,11 +21,12 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is the “Mouse Without Borders” Feature?
 
  If you use multiple computers on your desk, you might have faced the issue of using your mouse on all the computers. While some [Bluetooth mice](https://www.makeuseof.com/improve-gaming-with-logitech-g-hub/) can cycle between devices, you can not use one mouse to control all the computers as if they were sharing the screen.
@@ -48,16 +43,26 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 4. Next, scroll down to the **Encryption key** section. Click on the **New key** button next to the security key option. It will generate a random key using which you can configure your second computer to use the mouse.  
 ![Enable Mouse Without Borders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-mouse-without-borders.jpg)
 5. Now go to the second computer and launch PowerToys. **Enable** the **Mouse Without Borders** feature on it as well.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Then scroll down to the **Security key** option and click on the **arrow** icon
 7. Type the main **computer’s name** and enter the **key** which you generated previously. Click on the **Connect** button.  
 ![Enable Mouse Without Borders on second PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-mouse-without-borders-on-second-pc.jpg)
 8. Now, you can use one mouse on both computers.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mouse Without Borders in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-without-borders-in-action.jpg)
 
  Mouse Without Borders also permits the two computers to share their clipboard. If you copy a file that is less than 100 MB in size, it will also be copied to the clipboard.
@@ -69,11 +74,12 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 ![Peek Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable and Use the "Peek" Feature
 
  Repeat the following steps to activate the "Peek" feature:
@@ -82,29 +88,26 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 2. Click on the **toggle** next to the **Enable Peek** option. The feature will become active on your system.  
 ![Enable PowerToys Peek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-powertoys-peek.jpg)
 3. Now, you need to configure the shortcut key to activate the “Peek” feature. Click on the **edit** icon next to the **Activation shortcut** option.
+
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Press the **Ctrl + Shift + Space** keys at once to set the new key combination. Click on the **Save** button.  
 ![Assign Shortcut key to PowerToys Peek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/assign-shortcut-key-to-powertoys-peek.jpg)
 5. Press **Win + E** to open the File Explorer. **Click** on any file to select it. Then press the “Peek” shortcut key combination.
 6. A Peek preview window will launch and display the contents of your file.  
 ![Peek Feature in PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys-2.jpg)
 7. Click on the **Open with** button to open the file in their respective application.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Share Mouse and Preview Files With PowerToys

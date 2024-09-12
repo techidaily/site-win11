@@ -1,7 +1,7 @@
 ---
 title: "Elevate Windows App Functionality: Enhance Internet Connectivity"
-date: 2024-09-05T08:45:13.778Z
-updated: 2024-09-06T08:45:13.778Z
+date: 2024-09-11T09:30:07.470Z
+updated: 2024-09-12T09:30:07.470Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
  Here are a few effective solutions to try if apps on Windows are unable to connect to the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Disable Windows Defender Firewall
 
  Windows Defender Firewall keeps track of all apps and programs that connect to the internet. As a precautionary measure, it may occasionally block an app's internet access and display the “Windows Defender Firewall has blocked some features of this app” security alert. This is one of the most common reasons why an app may fail to connect to the internet on Windows.
@@ -37,18 +44,6 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
@@ -65,14 +60,22 @@ To run Windows Store Apps troubleshooter:
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Reset Microsoft Store Cache
 
  A damaged Microsoft Store cache could affect Windows apps and prevent them from functioning properly. When this happens, you’ll face all kinds of issues with your apps, including the one discussed here.
@@ -86,11 +89,18 @@ To run Windows Store Apps troubleshooter:
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Disable Automatic Proxy Detection
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
@@ -103,11 +113,19 @@ To run Windows Store Apps troubleshooter:
 ![Disable Automatic Proxy Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Automatic-Proxy-Settings-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset Winsock Settings
 
  Winsock is a program that allows applications to connect to the internet through Transmission Control Protocol/Internet Protocol (TCP/IP). Naturally, if there’s an issue with this program, apps on your Windows will have trouble accessing the internet. In most cases, you can fix such issues by resetting the Winsock data. Here’s how to do it.
@@ -120,18 +138,6 @@ To run Windows Store Apps troubleshooter:
 
  Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset Network Settings
 
  If the problem persists, you can perform a full network configuration reset on Windows. There's a chance that one of the network settings on Windows is conflicting with your apps and preventing them from accessing the internet.
@@ -146,18 +152,6 @@ To reset network settings on Windows:
 6. Select**Yes** to confirm.  
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
@@ -168,26 +162,17 @@ To reset network settings on Windows:
 
  If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Your Window Apps Back Online
 
  You now have a good idea of what to do when apps on Windows cannot connect to the internet. One of the solutions listed above should help resolve any underlying issues and bring your apps back online.
 
  Now that your apps are connected to the internet, you may want to limit how much data your Windows PC consumes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

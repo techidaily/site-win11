@@ -1,0 +1,250 @@
+---
+title: Sleuthing Out Stealthy Cyber Menaces on PCs
+date: 2024-09-11T09:32:54.945Z
+updated: 2024-09-12T09:32:54.945Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Sleuthing Out Stealthy Cyber Menaces on PCs
+excerpt: This Article Describes Sleuthing Out Stealthy Cyber Menaces on PCs
+keywords: Cyber Threats Detection,PC Security Hacking,Stealthy Malware Spotting,Secure PC Sleuthing,Intrusion on Computers,Cyber Menace Tracking,Unmasked Digital Threats
+thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa434982e234c62e6bb83237e0.jpg
+---
+
+## Sleuthing Out Stealthy Cyber Menaces on PCs
+
+ Keyloggers, cryptojackers, spyware, and rootkits are all types of malware that hackers use to infect victims' devices. While some of these infections let hackers remotely connect to the victim's computer, others monitor the person's keystrokes, use the system's resources, or simply spy on the targeted person's activity.
+
+ If you suspect that your Windows device might have been hacked, here are some practical steps you can take to check that.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Before We Get Started…
+
+ Before investigating whether your device has been compromised, close all third-party and Windows applications. This will reduce the entries Task Manager or other[any alternatives to the Task Manager](https://www.makeuseof.com/tag/5-powerful-alternatives-windows-task-manager/) you might be using and allow you to effectively identify suspicious connections established on your computer.
+
+ Afterward,[run a malware scan on your device using Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) or any reliable third-party antivirus software you usually use. This step will help you detect and automatically remove light infections inside your device, and they won't distract you when searching for more severe infections or security breaches.
+
+ Once you have closed down all nonessential processes and carried out a malware scan, you can start looking for any malicious programs lurking on your system.
+
+## How to Inspect Your Device for Spyware or Hacking Attempts
+
+ In the modern era, malware infections are usually programmed to actively (but secretly) operate on the victim's computer. For instance,[cryptojackers](https://www.makeuseof.com/what-is-cryptojacking-how-to-detect-it/) use victims' computer resources for crypto mining, keyloggers gather login credentials by monitoring keystrokes, and spyware tracks users' activity in real-time and shares it with the hackers.
+
+ Each of these malware types relies on a remote connection to the hacker's server where the data is sent, the mining software runs, or whatever else the hacker is trying to accomplish. By identifying those suspicious connections established on our device, we can determine whether our device has actually been compromised.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 1\. Check for Suspicious Connections
+
+ You can check for suspicious connections on your computer in several ways, but the method we'll show you will use a built-in utility in Windows called the Command Prompt. Here's how you can find the remote connections set up with your device using Command Prompt:
+
+1. Type**"Command Prompt"** in Windows Search.
+2. Right-click the**Command Prompt** app and click**Run as administrator** .
+3. Simply type the following command and hit**Enter** .  
+netstat -ano
+
+![Run Netstat-ano Command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-run-netstat-ano-command-in-command-prompt.jpg)
+
+ The above command will show you all the TCP connections the apps, programs, and services have established to remote hosts.
+
+ Pay attention mainly to the**State** column, where you'll find three main terms:**Established** ,**Listening** , and**Time\_Wait** . From these three, focus on the connections whose state identifies as**Established** . The**"Established"** state indicates a real-time connection between your computer and the remote IP address.
+
+![Find the Suspicious Process with Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-find-the-suspicious-process-with-established-connection-in-command-prompt.jpg)
+
+ Don't panic if you see a lot of established connections. Most of the time, these connections are made to a company server whose services you use, like Google, Microsoft, etc. However, you need to analyze each of these connections separately. This will help you determine if there are suspicious connections being made to a hacker's server.
+
+ Do not close the Command Prompt; we will use the netstat information in the next steps.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Analyze Any Connections That Seem Suspicious
+
+Here's how you can analyze the suspicious connections:
+
+1. Copy the IP address from the**Foreign Address** column in the**Command Prompt** .
+2. Go to a popular IP location lookup site, such as IPLocation.net.
+3. Paste your copied IP address here and click the**IP Lookup** button.  
+![click on the ip lookup button after pasting the copied ip address on ip location website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-the-ip-lookup-button-after-pasting-the-copied-ip-address-on-ip-location-website.jpg)
+
+ This website will provide you with information about the IP address. Check the ISP and organization that use this IP address. If the IP address belongs to a well-known company whose services you use, such as Google LLC, Microsoft Corporation, etc., there is nothing to worry about.
+
+ However, if you see a suspicious company listed here whose services you don't use, there is a good chance that someone is spying on you. Thus, you will need to identify the process or service using this address for remote connection to ensure it isn't malicious.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. Find and Analyze Any Malicious Processes
+
+ To locate the malicious program scammers may have been using to snoop on your device, you have to identify the associated process. Here's how to find it:
+
+1. Note the**PID** next to the suspicious**Established** connection in Command Prompt.  
+![Note the PID Next to the Suspicious Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-note-the-pid-next-to-the-suspicious-established-connection-in-command-prompt.jpg)
+2. Open Task Manager. (See the[different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and[11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
+3. Go to the**Details** tab.
+4. Click the**PID column** to sort processes according to their PIDs.
+5. Find the process with the same**PID** that you noted down earlier.  
+![Find the Process with Relevant PID in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-find-the-process-with-relevant-pid-in-windows-task-manager.jpg)
+
+ If the process belongs to a third-party service that you frequently use, you don't need to close it. However, you should still verify that this process belongs to the company you believe it does,as a hacker can hide their malicious processes under the guise of a malicious one. So, right-click on the suspicious process and select**Properties** .
+
+![Select Properties by Right-clicking on the Suspicious Process in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-select-properties-by-right-clicking-on-the-suspicious-process-in-windows-task-manager.jpg)
+
+ Then, navigate to the**Details** tab for more information about the process.
+
+![Navigate to Details Tab in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-navigate-to-details-tab-in-windows-task-manager.jpg)
+
+ If there is any discrepancy in process details or the process itself seems suspicious, it is best to remove the associated program.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 4\. Remove Any Suspicious Programs
+
+ To identify and remove the malicious apps behind these suspicious processes, follow these steps:
+
+1. Right-click the shady process and select**Open file location** .  
+![Click on Open File Location by Right-clicking on Malicious Process in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-on-open-file-location-by-right-clicking-on-malicious-process-in-windows-task-manager.jpg)
+2. Once again, ensure the file is not associated with Windows or any other critical application.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+3. If you're sure it's malware, right-click it and delete it.  
+![Delete the Suspicious File After Locating it in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/9-delete-the-suspicious-file-after-locating-it-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 5\. Take Professional Help When Necessary
+
+ Hopefully, following the above process will help you detect and remove the malicious program, thereby preventing hackers from spying on or stealing your personal information.
+
+ However, you should be aware that hackers can conceal their malware from netstat output by programming it that way. Likewise, they can code the program so it does not appear in Task Manager. Seeing no suspicious connections in the netstat output or not finding the suspicious process in Task Manager doesn't mean your device is safe.
+
+ Therefore, if you see signs of a hacked device in your system, such as high resource consumption in Task Manager, system slowdowns, unknown apps getting installed, Windows Defender turning off frequently, the creation of suspicious new user accounts, and similar, you should consult a professional. Only then can you be sure that your device is completely secure.
+
+## Don't Let Hackers Spy on You for Long
+
+ Microsoft consistently updates the Windows operating system to make it more secure, but hackers still find loopholes and hack into Windows devices. Hopefully, our guide will help you identify if any suspicious hacker is monitoring your activity. If you follow the tips correctly, you'll be able to remove the suspicious app and disconnect the connection to the hacker's server.
+
+ If you're still suspicious and don't want to risk your precious data, you should seek professional assistance.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-brilliant.techidaily.com/cuales-son-las-razones-para-evitar-la-copia-directa-de-un-dvd-al-disco-duro-sin-ripearlo-primero/"><u>¿Cuáles Son Las Razones Para Evitar La Copia Directa De Un DVD Al Disco Duro Sin Ripearlo Primero?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860654507-new-record-your-mac-view-in-minutes/"><u>[New] Record Your Mac View in Minutes!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-top-30-for-timeless-telephone-chimes/"><u>[New] The Top 30 for Timeless Telephone Chimes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-and-tricks-for-editing-your-way-to-greatness-in-facebook-reels/"><u>[Updated] 2024 Approved Tips and Tricks for Editing Your Way to Greatness in Facebook Reels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-amplify-your-content-two-approaches-to-skyrocket-traffic/"><u>[Updated] In 2024, Amplify Your Content Two Approaches to Skyrocket Traffic</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-seamless-tiktok-content-for-twitter-audience/"><u>[Updated] In 2024, Seamless TikTok Content for Twitter Audience</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-poco-f5-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco F5 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-the-lunar-client-not-functional-message-in-os/"><u>Dealing with the Lunar Client Not Functional Message in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-honor-70-lite-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Honor 70 Lite 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-audio-integrating-dolby-atmos-in-windows/"><u>Enhance Your Audio: Integrating Dolby Atmos in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-consistent-reading-pane-openness-setup-for-email-attachments-in-ms-word/"><u>Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word</u></a></li>
+<li><a href="https://win11.techidaily.com/five-strategies-to-rejuvenate-file-explorer/"><u>Five Strategies to Rejuvenate File Explorer</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-open-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus Open 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-finding-the-storage-for-your-desktop-pics/"><u>Guide: Finding the Storage for Your Desktop Pics</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-download-issues-with-windows-1011-files/"><u>Handling Download Issues with Windows 10/11 Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmony-highlights-social-media-videos-that-resonate/"><u>Harmony Highlights Social Media Videos That Resonate</u></a></li>
+<li><a href="https://win11.techidaily.com/how-and-when-to-use-the-ping-command-in-windows/"><u>How (and When) to Use the Ping Command in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-may-update-version-1903-installation-problems-a-comprehensive-guide/"><u>How to Fix Windows 10 May Update (Version 1903) Installation Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-7-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-into-the-new-era-evolution-of-file-explorer-on-windows-11/"><u>Journey Into the New Era: Evolution of File Explorer on Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kobo-forma-explored-the-e-reader-that-prioritizes-your-love-of-literature/"><u>Kobo Forma Explored: The E-Reader That Prioritizes Your Love of Literature</u></a></li>
+<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-experience-with-chatgpt-five-tricks-when-you-dont-have-an-openai-profile/"><u>Maximizing Your Experience with ChatGPT: Five Tricks When You Don't Have an OpenAI Profile</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-storytelling-video-editing-tips-for-compelling-home-movies-for-2024/"><u>New The Art of Storytelling Video Editing Tips for Compelling Home Movies for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-avs-video-editor-review-a-beginners-guide/"><u>New The Ultimate AVS Video Editor Review A Beginners Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-screen-quality-resetting-graphics-in-windows-11/"><u>Optimize Screen Quality: Resetting Graphics in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/realignment-of-data-win11-hdd-optimization-techniques/"><u>Realignment of Data: Win11 HDD Optimization Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-your-win11-experience-three-tricks-up-your-sleeve/"><u>Reboot Your Win11 Experience: Three Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-and-solving-winerror-0x80071a90-in-windows/"><u>Simplifying & Solving WinError: 0X80071a90 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sixfold-solution-to-off-screen-woes-a-roadmap-for-rejuvenating-your-windows-desktop/"><u>Sixfold Solution to Off-Screen Woes: A Roadmap for Rejuvenating Your Windows Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solve-your-displays-issues-when-nvidia-output-is-missing/"><u>Solve Your Displays Issues When Nvidia Output Is Missing</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-stranded-status-on-xbox-for-pc-a-practical-approach/"><u>Solving ‘Stranded’ Status on Xbox for PC: A Practical Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-to-the-not-supported-interface-error/"><u>Swift Solutions to the Not-Supported Interface Error</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+</ul></div>
+

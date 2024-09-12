@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows-Based Valorant Audio Glitches
-date: 2024-09-05T08:43:29.417Z
-updated: 2024-09-06T08:43:29.417Z
+date: 2024-09-11T09:30:08.908Z
+updated: 2024-09-12T09:30:08.908Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,18 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
  If you want to make voice chat work again and communicate with your friends, here are the fixes you should try.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Preliminary Checks and Fixes
 
  Apply the following preliminary checks and fixes before moving on to the main fixes:
@@ -46,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  However, if the microphone works fine on your other device and other apps on your primary device, it isn't faulty. In that case, continue applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Ensure the Correct Microphone Is Selected in Valorant and That It Isn't Muted
 
  First, ensure your desired microphone is selected in Valorant settings and it's not muted in the game. Check that by following these steps:
@@ -62,15 +63,30 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 4. Here, select the primary microphone you're using right now in the **Input Device** field.  
 ![Select the Primary Microphone in the Input Device Field of Audio Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-select-the-primary-microphone-in-the-input-device-field-of-audio-tab-in-valorant.jpg)
 5. Make sure that the **Mic Volume** isn't too low as well. If it is, move the slider to the extreme right**.**  
-![Set the Mic Volume to High in the Voice Chat Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-mic-volume-to-high-in-the-voice-chat-tab-in-valorant.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Set the Mic Volume to High in the Voice Chat Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-mic-volume-to-high-in-the-voice-chat-tab-in-valorant.jpg)
+
  If you can't hear other gamers' voice chat, ensure the proper audio output device is selected and its incoming volume isn't too low.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Ensure the Correct Microphone Is Selected in Windows and That It Isn't Muted
 
@@ -80,12 +96,20 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 2. Navigate to **System > Sound**.  
 ![Go to Sound Settings From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-sound-settings-from-windows-settings-app.jpg)
 3. Under **Input** settings, select the microphone you wish to use.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Choose your desired microphone and make sure the **Input Volume** isn't too low.  
 ![Select the Correct Microphone Device in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/5-select-the-correct-microphone-device-in-the-sound-settings-of-the-windows-settings-app.jpg)
 
@@ -93,18 +117,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
 ![Select the Correct Audio Output Device in the Sound Settings of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-the-correct-audio-output-device-in-the-sound-settings-of-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Make Your Primary Microphone and Headphone the Default Devices
 
  If the voice chat does not work after selecting your preferred microphone and speaker, set your preferred audio input and output devices as defaults. To do that, follow these steps:
@@ -113,21 +125,37 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 2. Navigate to **System > Sound** and click **More sound settings**.  
 ![Go to More Sound Settings Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-more-sound-settings-option-in-windows-settings-app.jpg)
 3. Navigate to the **Recording** tab, right-click on your desired device, and select **Set as Default Device**.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
 4. Afterward, go to the **Playback** device, right-click on your desired audio output device, and select **Set as Default Device**.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Your Main Audio Output Device As Default in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-set-your-main-audio-output-device-as-default-in-the-playback-tab-of-more-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check Valorant's Microphone Permissions
 
@@ -140,18 +168,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 3. Navigate to the **App permissions** settings and click on **Microphone**.  
 ![Go to Microphone Option in the App Permissions Settings of the Privacy and Security Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/10-go-to-microphone-option-in-the-app-permissions-settings-of-the-privacy-and-security-tab-of-windows-settings-app.jpg)
 4. Make sure the toggle next to **Microphone access** is turned on.
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After that, find **Valorant** in the list of apps and turn on the toggle next to it.
 
 ## 7\. Turn Off Apps' Exclusive Control Over Your Microphone and Speaker
@@ -162,26 +178,28 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
 ![Go to Recording Tab of Properties Window in More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/13-go-to-recording-tab-of-properties-window-in-more-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, go to the **Advanced** tab and uncheck the box beside **Allow applications to take exclusive control of this device**. Also, uncheck the box beside **Enable audio enhancements**.
 
 ![Disable Exclusive Control of Device and Audio Enhancements in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/14-disable-exclusive-control-of-device-and-audio-enhancements-in-the-recording-tab-of-more-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Afterward, go to the **Playback** tab, right-click your primary audio output device, and select **Properties**. Then, go to the **Advanced** tab, uncheck the exclusive control box, and turn off audio enhancements.
 
 ![Disable Exclusive Control and Audio Enhancements in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/15-disable-exclusive-control-and-audio-enhancements-in-the-playback-tab-of-more-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Change the Voice Activation Mode
 
  By default, Valorant's voice activation mode is set to automatic, so it transmits any voice it detects. Valorant offers another voice activation mode, Push to Talk, that allows users to press a specific key to begin a voice chat. This means that the microphone detects voice only when this button is pressed.
@@ -195,11 +213,12 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 ![Select the Push to Talk Option Next to Party Voice Activation Mode in Voice Chat Tab of Valorants Audio Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/12-select-the-push-to-talk-option-next-to-party-voice-activation-mode-in-voice-chat-tab-of-valorants-audio-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Make Voice Communication Super Smooth on Valorant
 
  Using the voice chat feature in Valorant makes communication easier. Hopefully, you now know what causes the voice chat feature to stop working in Valorant and how to restore voice communication. If voice chat remains unresponsive despite applying all the fixes, reinstall Valorant.

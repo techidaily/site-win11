@@ -1,7 +1,7 @@
 ---
 title: How to Get IntelliJ Unison Back Up & Running on Win11
-date: 2024-09-05T08:48:17.301Z
-updated: 2024-09-06T08:48:17.301Z
+date: 2024-09-11T09:30:05.079Z
+updated: 2024-09-12T09:30:05.079Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win11 IntelliJ Unison Setup,Win11 Unison Install Guide,Unison IDE for 
 thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7cf21c80e9cb56c9f6856e1f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get IntelliJ Unison Back Up & Running on Win11
 
  Intel Unison is an excellent app for connecting your Android or iPhone to your Windows 11 computer. However, like any other app, Intel Unison isn't devoid of issues. If you rely on Intel Unison to read text messages and answer phone calls from your computer, it can be inconvenient when the app stops working properly.
@@ -38,16 +32,24 @@ To run the Windows Store Apps troubleshooter:
 4. Click the**Run** button next to**Windows Store Apps** .  
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-windows-store-apps-troubleshooter.jpg)
 5. Next, click the**Run** button next to**Bluetooth** .
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow the on-screen prompts to run the troubleshooters and then try using the Intel Unison app.
 
  Still experiencing Bluetooth issues? Check our guide on[fixing Bluetooth pairing issues on Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Allow the Intel Unison App to Run in the Background
 
@@ -59,12 +61,6 @@ To run the Windows Store Apps troubleshooter:
 4. Click the drop-down menu under**Background apps permissions** and select**Always** .  
 ![Allow Intel Unison to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-intel-unison-to-run-in-the-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow Intel Unison App Access to Your Phone Calls and Notifications
 
  The Intel Unison app on Windows requires permission to access phone calls and notifications. You need to ensure that these permissions are enabled. Here’s how to check.
@@ -76,6 +72,19 @@ To run the Windows Store Apps troubleshooter:
 5. Further, scroll down to**App notifications** , and use the toggles to enable notification permission for individual apps.
 6. Next, switch to the**Calls** tab and enable the toggle for**Allow phone calls** .  
 ![Intel Unison App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/intel-unison-app-notification-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Battery Saver Mode
 
@@ -89,17 +98,12 @@ To run the Windows Store Apps troubleshooter:
 ![Turn Off Battery Saver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-off-battery-saver-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 5\. Disable Any Active Third-Party Antivirus Programs
 
  At times, third-party antivirus programs on your PC can get too cautious and prevent apps from exchanging files and syncing data. To check for this possibility, you need to temporarily disable your antivirus program.
@@ -109,11 +113,12 @@ To run the Windows Store Apps troubleshooter:
  Once disabled, try using the Intel Unison app again. If this solves your problem, you can go through your antivirus program’s settings and whitelist the Intel Unison app.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Disconnect and Reconnect Your Phone
 
  Connection issues between the Intel Unison app and your phone can also cause the app to stop working on Windows. In most cases, you should be able to resolve such issues by disconnecting and reconnecting your phone.
@@ -129,6 +134,13 @@ To run the Windows Store Apps troubleshooter:
 5. Follow the on-screen instructions to pair your phone.  
 ![Disconnect Phone From Intel Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disconnect-phone-from-intel-unison-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Repair or Reset the Intel Unison App
 
  Both Windows 10 and 11 include a useful repair tool for fixing app-related issues. Check out our guide on[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to fix the Intel Unison app without affecting your data.
@@ -136,11 +148,18 @@ To run the Windows Store Apps troubleshooter:
  Wait for the repair process to complete and then try using the app again. If the problem persists, try resetting the app from the same menu. Doing so should delete all the app data and reset the app to its default state.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Intel Unison App
 
  Finally, if none of the above solutions work, you can try uninstalling and reinstalling the app. If you need help with that, check our guide on[how to uninstall apps on Windows](https://www.makeuseof.com/tag/how-to-uninstall-apps-on-windows/) and follow the instructions outlined there.
@@ -153,14 +172,11 @@ To run the Windows Store Apps troubleshooter:
 
  If you have an Android phone, you can also use Microsoft's Phone Link app to sync it with a Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

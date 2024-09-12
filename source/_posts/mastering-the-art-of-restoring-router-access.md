@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Restoring Router Access
-date: 2024-09-05T08:47:00.555Z
-updated: 2024-09-06T08:47:00.555Z
+date: 2024-09-11T09:30:06.069Z
+updated: 2024-09-12T09:30:06.069Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Router Recovery Guide,Gain Routed Connection,Rebooting Routers,Regaini
 thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Art of Restoring Router Access
 
  The default factory IP address lets you access your router’s default login page. At times, however, when you enter 192.168.1.1 or your router's factory IP address, you cannot access the login page and may also see an error.
@@ -34,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 * Not accessing the router’s login page over a secure HTTP protocol.
 * Temporary glitches with router settings and firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access the Login Page Over HTTPS
 
  By default, your browser uses HTTP (Hypertext Transfer Protocol) to access the login page. However, some routers' login page is only accessible when you use the secure version of HTTP, that is, Hypertext Transfer Protocol Secure(HTTPS). Before you try anything, check if you can access the router’s login page using HTTPS followed by the IP address. To do this:
@@ -43,11 +44,18 @@ https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
@@ -75,16 +83,25 @@ To find your Default Gateway IP address for the router:
 2. Open the**Privacy and Security** tab in the left pane.  
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
  You can configure your network adapter's TCP/IP settings to obtain an IP address automatically. You'll be unable to access your router login page if you have used incorrect IP settings for the network adapter.
@@ -98,45 +115,37 @@ To find your Default Gateway IP address for the router:
 5. In the left pane, click**Change adapter settings** .  
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 6. Right-click on your**Ethernet adapter** and select**Properties** .
+
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 9. Select the**Validate settings upon exit** option and click**OK** .
 10. Relaunch your browser and try to access the router page.
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Invisibility on Any LAN VPNs
 
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
@@ -150,6 +159,13 @@ To disable Invisibility on LAN on NordVPN:
 3. Next, toggle the**Invisibility on the LAN** switch to turn it off.
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset Your Router to Its Factory Defaults
 
  If you can’t reach the login page, check if your router is acting up. Temporary issues with the router can be fixed with a quick restart. If that doesn’t work, you can perform a factory reset to restore your router to its default settings.
@@ -158,24 +174,15 @@ To disable Invisibility on LAN on NordVPN:
 
  If the issue persists, consider[updating your router firmware](https://www.makeuseof.com/easy-guide-updating-router-firmware/) to add new features, performance improvements, and also any bug fixes causing the router to act up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshoot a Non-Accessible Router Login Page on Windows
 
  If you have trouble reaching the router login page, make sure you are using the correct IP address. Use the ipconfing command in Command Prompt and verify if your IP address matches the Default Gateway address. Additionally, check your network adapter’s TCP/IP settings, perform a router power cycle, or reset the router to its factory default settings to resolve the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

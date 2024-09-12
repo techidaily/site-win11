@@ -1,7 +1,7 @@
 ---
 title: "Unwrapping Solutions: The Ultimate Guide to Fixing E84 in Steam"
-date: 2024-09-05T08:42:26.801Z
-updated: 2024-09-06T08:42:26.801Z
+date: 2024-09-11T09:30:09.798Z
+updated: 2024-09-12T09:30:09.798Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
  The error **"Something went wrong while attempting to sign in,"** displayed as "error code e84," occurs when Steam fails to log in users automatically. This error has been around since Steam's October 2022 update.
 
  If you are experiencing this error, fret not. Here are some solutions you can employ to resolve the error and sign in successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Perform Some Preliminary Checks
 
@@ -40,11 +47,18 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
  If you don't encounter any errors this time, this confirms that using your account on multiple devices simultaneously caused the error. In the future, always log out of your Steam account before using it on another device. However, if logging out of your account from all other devices makes no difference, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Reset Your Account Password
 
  Some users in a[Steam community thread](https://steamcommunity.com/discussions/forum/1/3392923906944531423/) have mentioned that they have successfully fixed this error by simply resetting their password. Therefore, you should also reset your account password. To do that, follow these steps:
@@ -53,29 +67,19 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 2. Click on**login** in the top-right corner.  
 ![Click on the Login Button on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-login-button-on-steam-website.jpg)
 3. Enter your username, and without entering your password (even if you remember it), click on**Help, I can't sign in** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on Help I Can’t Sign In Option From the Login Page on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-help-i-can-t-sign-in-option-from-the-login-page-on-steam-website.jpg)
 4. Then, click on**I forgot my Steam Account name or password** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Enter the email address or phone number linked to your account, verify Captcha, and click on**Search** .  
 ![Click on Search Button on the Steam Support Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-search-button-on-the-steam-support-pag.jpg)
 6. By selecting the appropriate option, receive a verification code to your email address or phone number.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Verify your identity by clicking the link you receive via email or adding the code you receive by phone.
 8. Click on**Reset my password** after that.  
 ![Click on Reset My Password Option on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-reset-my-password-option-on-steam-website.jpg)
@@ -83,12 +87,6 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 
  After changing your password, restart your device once and try to sign in again with the new password. Hopefully, this time you won't encounter any errors. If resetting the account password does not resolve the issue, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Add or Remove Launch Parameters
 
  Adding the**"-noreactlogin"** parameter in Steam's executable file can also resolve this issue. In technical terms, adding this flag disables the ReactJS-based login window and restores the old one. Follow these steps to add this extra flag:
@@ -96,67 +94,69 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 1. Right-click on Steam's shortcut icon and select**Properties** .  
 ![Open Steam Properties in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-steam-properties-in-windows.jpg)
 2. Go to the**Shortcut** tab in the**Steam Properties** window.  
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Shortcut Tab in the Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-shortcut-tab-in-the-steam-properties-window.jpg)
 3. To modify the**Target** field, click at its end, add a space, and type**"-noreactlogin** .**"**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Apply** and then hit**OK** .  
 ![Click on OK Button After Adding a Launch Parameter in Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-ok-button-after-adding-a-launch-parameter-in-steam-properties-window.jpg)
 
  If you see that some launch parameters are already added to the Target field, consider removing them. According to some users on[GitHub](https://github.com/ValveSoftware/steam-for-linux/issues/9031) , Steam no longer supports the**"noreactlogin"** flag and suggests removing it. Remove this flag if it is already there. Taking this step will ensure that this extra parameter is not contributing to the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. When Nothing Else Works…
 
  The above fixes should resolve this annoying error. However, if they don't work in your favor, here are a few final fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Make a New Steam Account and Try Logging In With it
 
  To confirm that the issue isn't with your Steam account, sign in to Steam using a different account (If you don't have another account, create one). If you successfully log in using the other account, it indicates that your primary account has an issue. So, contact Steam support through their[official Steam Support website](https://help.steampowered.com/en/) and ask them to investigate it.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Whitelist Steam in All Active Security Apps
 
  Valve recommends whitelisting Steam's executable files in Windows' built-in or third-party security suites. So, go to Steam's installation folder, filter out all the executable files, and[whitelist them from Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) or any other third-party antivirus software you use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get Rid of Steam's Error Code 84 on Windows
 
  Getting an error code 84 means Steam has failed to log you in. Hopefully, the above fixes will help you resolve the main issue and allow you to sign in successfully. Reinstalling the Steam client should be your last resort if nothing else works. Ensure you create a backup of your game files before uninstalling Steam to avoid losing your progress.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

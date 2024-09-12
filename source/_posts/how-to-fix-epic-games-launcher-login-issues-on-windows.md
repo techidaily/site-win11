@@ -1,0 +1,232 @@
+---
+title: How to Fix Epic Games Launcher Login Issues on Windows
+date: 2024-09-11T09:37:12.658Z
+updated: 2024-09-12T09:37:12.658Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes How to Fix Epic Games Launcher Login Issues on Windows
+excerpt: This Article Describes How to Fix Epic Games Launcher Login Issues on Windows
+keywords: Fix Launcher Login Errors,Resolve Games Launcher Sign-In,Troubleshoot Game Launcher Access,Epic Log Infix Solution,Windows Launcher Sign Out Issue,Correcting Games Launcher Login,Fix Windows Epic Launcher
+thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b5446a3998c55dc9f0ed4866d4c.jpg
+---
+
+## How to Fix Epic Games Launcher Login Issues on Windows
+
+ Do you keep getting redirected to the login page when trying to log into your Epic Games account? Does Epic Games fail to sign you in but doesn't return an error message? The login problems have been plaguing Epic Games users for long.
+
+ You may experience login issues on Epic Games for many reasons, such as browser cache interference, an account-specific issue, not verifying an account after creation, trying to log in on multiple devices, or client-related issues.
+
+ Here are a few steps you can take to resolve the issue and log in to your Epic Games account successfully.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 1\. Ensure the Epic Games Servers Aren't Down
+
+![The server status page for Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/the-epic-games-server-status-page.jpg)
+
+ Backend issues with Epic Games servers can cause login problems. Therefore, first and foremost, ensure that the servers are functioning correctly. To check that, go to the [Epic Games status page](https://status.epicgames.com/) and see if all systems are operational.
+
+ If any of the services are down, wait for Epic Games to fix the problem from the backend, and the login issue will be resolved automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Ensure Your Login Info Is Correct
+
+ While Epic Games mostly gives users an error when they enter incorrect login credentials, it sometimes doesn't display any error after a failed login attempt. So, before trying any other solution, ensure you're entering the correct login information.
+
+ If you haven't saved the login credentials in the browser, try different combinations to sign in, especially if you have doubts. However, if you keep the login information saved in your browser, meaning it's being entered correctly, move on to the next step.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 3\. Verify Your Account (if You Just Created It)
+
+![Email Having Code to Verify the Newly Created Epic Games Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/email-having-code-to-verify-the-newly-created-epic-games-account.jpg)
+
+ If you have recently created an Epic Games account and have trouble logging in, ensure you have verified your account through the confirmation email you receive when creating an account.
+
+ If you haven't verified your Epic Games account yet, log into your email account, find the account verification email from Epic Games, and follow the instructions to verify it. Hopefully, this will resolve the issue.
+
+ However, if you have already verified your account, you can proceed to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Check for Browser-Specific Issues
+
+ After confirming that your login credentials are correct and your account has already been verified, you should rule out browser issues. That's because most users who encountered the problem resolved it by clearing the browser's cache, logging in from an incognito or private window, or switching to another browser.
+
+[Clear your cache in Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/), [Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/), [Firefox](https://www.makeuseof.com/clear-cache-firefox/), or any other browser you're using, turn off any extensions you suspect could interfere with the login process, or open an incognito or private window and sign in from there. If none of these attempts work, switch to a different browser and try logging into your Epic Games account there.
+
+ If you can successfully sign in on another browser, there's a problem with your primary browser. Therefore, you should abandon it and switch to another browser where you are able to access your Epic Games account. If all of these attempts fail to resolve the issue, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Ensure That Your Account Isn't Logged Into Other Devices
+
+ Although Epic Games doesn't specify any limitations regarding using the same account on multiple devices, signing in on various devices has been reported to cause sign-in problems. Therefore, ensure your Epic Games account isn't signed in on any device besides the one you're trying to sign in with.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Check for Account-Specific Issues
+
+ You may also face login issues if Epic Games removes or bans your account temporarily or permanently. Also, as per [Epic Games Community Rules](https://www.epicgames.com/site/en-US/community-rules), the company can take action against all your accounts if you break its rules on one. Therefore, it's imperative to ensure that your account hasn't been restricted or removed, which is where the issue arises.
+
+ To check that, create a new account and log in via the same device or browser. If the error does not occur on a new account but persists on a primary account, check your email account to see if you have received any email from Epic Games regarding the account ban or removal. You can appeal against the ban if you believe it was incorrectly placed.
+
+ If you fail to sign in with your other account, too, the problem is likely with the launcher. Therefore, keep applying the remaining fixes.
+
+## 7\. Clear the Epic Games Launcher's Cache
+
+ If you encounter a login issue on the Epic Games desktop launcher on Windows, clear the launcher's cache from its installation folder, as that may fix the issue immediately. Follow these steps to clear the launcher's cache:
+
+1. Press **Win+R**, type **"%appdata%"** and press **Enter**.
+2. Navigate to **Local > EpicGamesLauncher > Saved folders**.
+3. Delete **webcache** folders you find here.  
+![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
+
+## 8\. Repair or Reinstall the Epic Games Launcher
+
+ If clearing the cache doesn't work, you should repair the launcher to ensure none of its files have gone corrupt. The Windows operating system offers a handy feature for repairing apps automatically. Therefore, refer to our guide on [how to repair apps and programs in Windows 11](https://www.makeuseof.com/windows-repair-apps-programs/) and repair the launcher.
+
+ If repairing the launcher doesn't solve the problem, reinstall the client. This may take some time, but it'll ensure the issue at hand doesn't have anything to do with the launcher's installation. Therefore, uninstall the launcher by following our [guide on uninstalling apps and programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
+
+ After that, navigate to **C:\\Users\\<username>\\AppData\\Local** after entering your username and delete the Epic Games launcher folders. Once that's done, go to Epic Games' official website and download and install the launcher as you did the first time.
+
+![Delete the Epic Games Launcher Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-the-epic-games-launcher-folders.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 9\. Renew Your IP Address and Disable the VPN
+
+ If none of the solutions mentioned above have resolved the issue, apply the following fixes:
+
+* Renew your IP address. This will assign you a new IP address, eliminating the possibility of a blocked IP address causing the problem. Refer to our guide on [changing your IP address](https://www.makeuseof.com/how-to-change-your-ip-address-quickly-and-easily/) for detailed instructions.
+* Disable any VPN or proxy server you have enabled on your device.
+
+## Successfully Log In to Your Epic Games Account Again
+
+ Epic Games not allowing you to log in can be disheartening. Hopefully, the reasons why you might encounter a login loop or any other login issue are now clear to you. Furthermore, you will most likely be able to resolve the issue successfully using the fixes covered above. If none of these solutions work, contact Epic Games so they can investigate the issue.
+
+ You may experience login issues on Epic Games for many reasons, such as browser cache interference, an account-specific issue, not verifying an account after creation, trying to log in on multiple devices, or client-related issues.
+
+ Here are a few steps you can take to resolve the issue and log in to your Epic Games account successfully.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-simple-shelter-strategies-in-mc/"><u>[New] 2024 Approved Essential Simple Shelter Strategies in MC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-5-browser-screen-recorders-2023/"><u>[New] 2024 Approved Top 5 Browser Screen Recorders 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ps5-elite-gaming-screens-top-5-hdmi-21-ultra-high-res-monitors/"><u>[New] PS5 Elite Gaming Screens Top 5 HDMI 2.1 Ultra High-Res Monitors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-economical-audience-expansion-buy-subscribers-not-time/"><u>[Updated] 2024 Approved Economical Audience Expansion Buy Subscribers, Not Time</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-techniques-downloading-and-crafting-instagram-stories/"><u>[Updated] In 2024, Step-by-Step Techniques Downloading & Crafting Instagram Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-essentials-of-screen-capture-with-fraps-for-2024/"><u>[Updated] The Essentials of Screen Capture with Fraps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-visual-sizzle-how-to-make-your-youtube-logo-pop/"><u>[Updated] Visual Sizzle How to Make Your YouTube Logo Pop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-luts-revolutionize-color-balance-in-images/"><u>2024 Approved How LUTs Revolutionize Color Balance in Images</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyydx/"><u>ABBYYによる世界的なデジタル変革(DX)現状分析プロジェクト</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/choreographed-vocal-harmony-on-tiktok-for-2024/"><u>Choreographed Vocal Harmony on TikTok for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-text-alterations-with-snipping-tool/"><u>Cutting Edge Text Alterations with Snipping Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/de-jam-your-devices-top-9-solutions-for-unstuck-windows-setup/"><u>De-Jam Your Devices: Top 9 Solutions for Unstuck Windows Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-steam-authentication-errors-a-rust-powered-windows-approach/"><u>Dealing with Steam Authentication Errors: A Rust-Powered Windows Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/do-your-windows-settings-reset-to-default-on-reboot-try-these-fixes/"><u>Do Your Windows Settings Reset to Default on Reboot? Try These Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-a78-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from A78</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-multitasking-through-90-degree-display-rotation/"><u>Efficient Multitasking Through 90-Degree Display Rotation</u></a></li>
+<li><a href="https://win11.techidaily.com/eight-slips-new-users-shouldnt-fall-into-with-windows-11/"><u>Eight Slips New Users Shouldn't Fall Into With Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-problematic-code-0x00000001-a-guide-to-xbox-game-pass-fixes-on-windows-11/"><u>Eliminating Problematic Code 0X00000001: A Guide to Xbox Game Pass Fixes on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-your-windows-screenscape-remains-same/"><u>Ensure Your Windows Screenscape Remains Same</u></a></li>
+<li><a href="https://win11.techidaily.com/evade-windows-sign-in-sequence-with-short-term-profiles/"><u>Evade Windows Sign-In Sequence with Short-Term Profiles</u></a></li>
+<li><a href="https://os-tips.techidaily.com/evaluating-the-value-of-premium-icloud-storage-options-is-it-a-smart-buy/"><u>Evaluating the Value of Premium iCloud Storage Options: Is It a Smart Buy?</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-a-non-functional-xbox-controller-for-pc/"><u>Fixing a Non-Functional Xbox Controller for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-windows-task-failure-error-0x8007000f/"><u>How to Eliminate Window's Task Failure Error 0X8007000f</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-htc-u23-phone-by-drfone-android/"><u>How to Unlock a Network Locked HTC U23 Phone?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-unmarked-visuals-for-your-business/"><u>In 2024, Acquiring Unmarked Visuals for Your Business</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a38-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A38 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/interface-revamp-visualizing-disk-and-network-resources/"><u>Interface Revamp: Visualizing Disk and Network Resources</u></a></li>
+<li><a href="https://win11.techidaily.com/key-driven-awakening-mouse-and-keyboards-role-on-windows-1011/"><u>Key-Driven Awakening: Mouse & Keyboard's Role on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-facebook-live-views-roku-edition/"><u>Mastering Facebook Live Views Roku Edition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-for-media-server-collapse/"><u>Mastering the Fix for Media Server Collapse</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-globally-advanced-mouse-techniques-in-powertoys/"><u>Navigating Globally: Advanced Mouse Techniques in PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-nooks-overcoming-obs-connectivity-concerns-7-ways/"><u>Navigating Network Nooks: Overcoming OBS Connectivity Concerns (7 Ways)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pioneering-sustainable-video-capturing-techniques/"><u>Pioneering Sustainable Video Capturing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/power-surprise-camouflaging-the-shutdown-icon-in-win11/"><u>Power Surprise: Camouflaging the Shutdown Icon in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/powerrename-the-essential-tool-for-files/"><u>PowerRename: The Essential Tool for Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-updater-glitch-code-0x80073712/"><u>Quick Fixes for Updater Glitch: Code 0X80073712</u></a></li>
+<li><a href="https://win11.techidaily.com/responding-to-noninteractive-elements-in-new-windows-release/"><u>Responding to Noninteractive Elements in New Windows Release</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-your-win-11-menu-choices/"><u>Simplifying Your Win 11 Menu Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-correct-opengl-error-3-in-nvidia-gpus-win1011/"><u>Strategies to Correct OpenGL Error 3 in Nvidia GPUs (Win10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-win-rpc-errors-a-quick-guide/"><u>Swift Solutions for Win RPC Errors - A Quick Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-system-solutions-the-essential-10-tools/"><u>Swift System Solutions: The Essential 10 Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-free-apps-for-crafting-youtube-channel-graphics-for-2024/"><u>Top 10 Free Apps for Crafting YouTube Channel Graphics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-photo-background-changer-apps-for-iphone-x87/"><u>Top 5 Photo Background Changer Apps for iPhone X/8/7</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-overcoming-non-registered-devices-issue/"><u>Understanding & Overcoming Non-Registered Devices Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-disk-space-insights-via-powershell-scripts/"><u>Unlocking Disk Space Insights via PowerShell Scripts</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

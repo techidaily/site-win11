@@ -1,7 +1,7 @@
 ---
 title: "De-Jam Your Devices: Top 9 Solutions for Unstuck Windows Setup"
-date: 2024-09-05T08:48:15.744Z
-updated: 2024-09-06T08:48:15.744Z
+date: 2024-09-11T09:30:05.097Z
+updated: 2024-09-12T09:30:05.097Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Dejaunt Windows,Fix WindowSetup,WindowsUnjamSolutions,StuckWindowsFixe
 thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8a7742b128774ee55042b67a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## De-Jam Your Devices: Top 9 Solutions for Unstuck Windows Setup
 
  Do you see a "verifying installation" prompt whenever you launch Steam? This prompt appears when Steam is cross-checking the game files in its database with those on your computer. Normally, this process should take only a few seconds.
@@ -27,33 +21,29 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
  However, if Steam takes an unusually long time to verify the files, it's a sign that something is amiss. This can happen due to corrupt Steam files, weak internet connection, or lack of administrative permissions. As such, if Steam gets stuck in the "verifying installation" process, use the following solutions to get it fixed
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Restart the Steam Client
 
  Whenever Steam gets stuck on the "verifying installation" process, your first port of call should be to restart the Steam client. Restarting the client will clear any temporary files, cached data, or other resources that might be triggering the problem.
 
  So, restart and check if it makes any difference. If not, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
 ![Internet router with cable on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-router-with-cable-on-white-surface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Steam requires a strong internet connection to verify the game files. However, if your connection is weak or unstable, Steam might get stuck in the verification process.
 
  You can use an[internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) to check your internet speed and stability. If the result shows your connection is slow and unstable, try the following solutions:
@@ -65,11 +55,12 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
  However, if none of the above solutions work, you'll have to contact your ISP.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Launch Steam With Administrative Rights
 
  Another quick way to fix the problem is to launch the Steam client with administrative privileges. Granting elevated rights will ensure that Steam has the required permissions to access and verify the game files.
@@ -82,6 +73,13 @@ To launch Steam as an administrator, follow the below instructions:
 ![Run this program as an administrator option for Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-this-program-as-an-administrator.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, open the Steam client and check if the problem is fixed. If this does the trick, you can configure it to[always launch as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ## 4\. Temporarily Disable the Security Application
@@ -93,6 +91,13 @@ To launch Steam as an administrator, follow the below instructions:
  If you're using Windows Security as the default security app, check our guide on[disabling Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
 
 ![Disabling Real time protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disabling-real-time-protection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After disabling the security app, launch the Steam client and check if it still gets stuck on the verifying installation screen. If yes, re-enable the security app, as corruption in the Steam client might be causing the problem.
 
@@ -108,18 +113,19 @@ To launch Steam as an administrator, follow the below instructions:
 ![Clear Download Cache option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-download-cache-option.jpg)
 4. Click**OK** to confirm your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Library folder can also corrupt and cause problems. To repair any potential corruption, click the**Steam Library Folders** option in the Download section.
 
  In the Storage Manager window, click the**three horizontal dots** and choose the**Repair Folder** option.
 
 ![Repair Folder option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-folder-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Updating the Steam client is another quick way to eliminate any corruption that might be causing the issue. To update, click the Steam option at the top-left corner and choose the**Check for Steam Client Updates** option.
 
 ![Check for Steam Client Updates option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-steam-client-updates-option.jpg)
@@ -129,11 +135,18 @@ To launch Steam as an administrator, follow the below instructions:
 ![Restart Steam option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-steam-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Change the Download Region in the Steam Client
 
  Steam lets you choose the download region manually. However, if there's some issue with Steam servers in your reason, you might face the issue at hand.
@@ -146,11 +159,19 @@ To launch Steam as an administrator, follow the below instructions:
 3. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Clear the Steam Content Folder
 
  Steam stores its temporary data in the Depotcache and Appcache folder. But the data of these folders can also get corrupted and interrupt the verification process.
@@ -161,6 +182,13 @@ To launch Steam as an administrator, follow the below instructions:
 2. Open the**appcache** folder and delete everything inside. Similarly, open the**Depotcache** folder and clear its content.  
 ![Deleting folders in the Steam installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-folders.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Change Steam Services Priority
 
  Increasing the Steam services priority is another quick solution you can try to eliminate the issue. You can do that by following the below steps:
@@ -170,36 +198,21 @@ To launch Steam as an administrator, follow the below instructions:
 3. Right-click on**steamservice.exe,** hover the cursor to**Set priority,** and choose**High** from the context menu.  
 ![Set priority option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reinstall the Steam Client
 
  Are you still struggling with the verifying installation prompt? If yes, then you're left with no option other than to reinstall the Steam client.
 
  First, uninstall the app from your computer. Then, head to the[Steam official website](https://store.steampowered.com/) and download the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Back to Verifying Your Steam Games Again
 
  If Steam has issues verifying your game files, hopefully one of the fixes we covered can get it fixed again. Once done, Steam can get back to checking if your game's files are working as they should.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: "Minuscule Machines: Small Windows PCs"
-date: 2024-09-05T08:45:51.982Z
-updated: 2024-09-06T08:45:51.982Z
+date: 2024-09-11T09:30:06.996Z
+updated: 2024-09-12T09:30:06.996Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,18 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
  Some of these boards won’t run Windows at all, and some of those that can run it perform poorly and stutter every step of the way. Your options are limited if you're looking for a single-board computer that can run Windows properly. However, there are a few devices out there that can do the job quite well.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Windows System Requirements
 
  Most SBCs have processors that are ARM-based which affords them[certain benefits over x86 processors](https://www.makeuseof.com/x86-vs-arm-which-architecture-should-pc-use/) , such as being inexpensive and energy-efficient. With Windows on ARM, you can run Windows and emulate standard x86 applications. It isn’t perfect yet, but it is getting there very slowly. x86-based single-board computers are generally better suited to running Windows.
@@ -53,11 +60,12 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 * **Trusted Platform Module** : TPM version 2.0
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1. LattePanda 3 Delta
 
  The LattePanda 3 Delta is the much more powerful successor to the original LattePanda released in 2018\. It is also known as LattePanda 3 Delta 864, with the ‘8’ and ‘64’ representing the 8GB RAM and 64GB eMMC storage, respectively.
@@ -76,15 +84,22 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 | **Power**          | 12/15V DC via USB-C or 12V DC via DC jack                                                                                    |
 | **Other Features** | Onboard heat sink and fan TPM, built-in TPM (2.0), Arduino Leonardo ATmega32U4 co-processor                                  |
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2. Khadas Edge2
 
 ![Khadas Edge2 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/khadas-edge-2-pro.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: [Khadas](https://www.khadas.com/edge2)
 
@@ -123,11 +138,12 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 | **Power**             | 12V DC, 3A power supply                                                                                                                                                |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4. UDOO BOLT V8
 
  The UDOO BOLT V8 is quite expensive at $550, but it packs a lot of specs that may appeal to users who need the heavy-lifting power. For purists, the V8 is not technically a single-board computer, as the RAM is inserted in SODIMM sockets and is not embedded in the board itself.
@@ -147,27 +163,16 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 | **Power**          | DC-in jack 19V 65W, USB Type-C Power Delivery                                                                                                   |
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Honorable Mention: Raspberry Pi 4
 
 ![The Raspberry Pi 4 Model B Official Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/praveen-thirumurugan-pkn_rlsbmzo-unsplash.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While the experience is anything but seamless, and you may have trouble with some drivers, running Windows on the[Raspberry Pi 4B flagship SBC](https://www.makeuseof.com/tag/raspberry-pi-4-overview/) might be a worthwhile challenge for some users. If you're interested, we have written a complete guide on how to[install Windows on a Raspberry Pi the easy way](https://www.makeuseof.com/how-to-install-windows-10-and-11-on-a-raspberry-pi-4-the-easy-way/) . It is not ideal for everyday use, but it is workable with a certain amount of elbow grease.
 
 **Raspberry Pi 4 Model B key specs:**
@@ -182,6 +187,13 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 | **Other Features**    | Two-lane MIPI DSI display port, two-lane MIPI CSI camera port                             |
 | **Power**             | 5V 3A power via USB-C port and GPIO; Power over Ethernet (PoE) capable using optional HAT |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run Windows on a Single-Board Computer
 
  Both ARM and x64 single-board computers are capable of running the Windows operating system. That aside, you will have an easier time running Windows on x64 computers. If you're planning to use an ARM SBC as your daily driver, Windows is not the best choice currently. You'll be better served with an operating system created specifically for ARM computers such as Armbian or a supported Android distribution.
@@ -191,8 +203,6 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

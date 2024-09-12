@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Peak Performance: Windows 11'S Best Productivity Widgets"
-date: 2024-09-05T08:43:52.730Z
-updated: 2024-09-06T08:43:52.730Z
+date: 2024-09-11T09:30:08.599Z
+updated: 2024-09-12T09:30:08.599Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win11 Productivity Boost,Widgets Enhance Performance,Efficiency Tools 
 thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec876e69fbcc20cbbbf17a86ba.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking Peak Performance: Windows 11'S Best Productivity Widgets
 
  If you’re looking for ways to be more productive on your Windows device, why not explore widgets? There are many great widgets available for Windows 11 to save time and be more organized.
@@ -27,51 +21,55 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Widgets in Windows 11
 
 ![Widgets settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/widgets-settings-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before installing widgets, it’s important to know how to access them and where to find widgets. With the help of keyboard shortcuts, accessing widgets in Windows 11 is easy.
 
  To open the widgets board, use the shortcut **Windows + W**. From here, you can view all installed widgets and add new ones. To add a new widget, hit the **plus** icon (**+**) at the top of the widgets board. Here, you can view all widgets created by Microsoft and access the Microsoft Store to explore further widgets. You can also [pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app.
 
  To access all of Microsoft’s widgets, you’ll need to be signed in to your Microsoft account. Click the profile icon at the top right of the widgets board. At the top of the widget settings, hit the sign-in button to log in to your Microsoft account. Let’s explore the best widgets to boost your productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Outlook Calendar
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
 
  If you’re in a hurry, you can schedule an event directly from the widget. You can also set event reminders and change the time zone, which is a [useful tip when working in different time zones](https://www.makeuseof.com/time-management-tips-different-time-zones/). Outlook Calendar also has some useful customization options, such as selecting which calendars to view (if you have more than one.) To customize the widget, hit the three dots at the top right of the widget.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. To Do
 
 ![Microsoft To Do widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-to-do-widget-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Microsoft To Do is a powerful daily productivity planner, packed with tools to help you be more efficient and build a better to-do list. If you’re new to the app, check out our [beginner’s guide to Microsoft To Do](https://www.makeuseof.com/a-beginners-guide-to-microsoft-to-do-how-to-organize-your-personal-and-work-life/).
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
@@ -81,11 +79,12 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
 
  Using the widget is simple—select how long you want your focus session to be, then hit the play button to start the timer. During a focus session, many distracting features on Windows 11 will be disabled. This includes removing badges from taskbar apps and enabling Do Not Disturb mode.
@@ -104,32 +103,21 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![Tips Windows 11 widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tips-windows-11-widget.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re new to using Windows 11 widgets, this next tool can help you learn the basics. Microsoft’s Tips widget provides hints on using widgets alongside tips to help you get around Windows 11\.
 
  To enable the Tips widget, hit the **plus** (**+**) button from the widgets display, select **Tips**, then click **Pin**. This tool guides you on how to reorder, remove, and customize widgets. Using the Tips widget helps remind you of handy shortcuts and features to maximize your productivity in Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Memory Check
 
 ![Memory check widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-check-widget-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Memory Check is a widget not offered by Microsoft but can be found on the Microsoft Store. After installing the app, you can find it from your widgets sidebar.
 
  The widget monitors your total memory usage, so you can identify which apps are slowing your PC down. Memory usage is displayed both in GB and as a percentage. If your memory usage is consistently high, check out our tips to [free up RAM and reduce RAM usage on Windows](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/).
@@ -140,6 +128,19 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![Memodown widget note taking Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memodown-widget-note-taking-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Memodown is another third-party widget built with many note-taking tools to boost your productivity. The app allows you to create sticky notes and pin them as Windows 11 widgets.
 
  There’s plenty of customization available in Memodown. For each sticky note, you can choose from a range of colors, change the note size, and rotate notes. Memodown also supports [Markdown](https://www.makeuseof.com/tag/learning-markdown-write-web-faster/), so you can quickly format notes in a desired style. If you rely on writing things down to stay on top of your schedule, Memodown is a perfect note-taking solution to keep your reminders visible.
@@ -147,11 +148,18 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 **Download**: [Memodown](https://apps.microsoft.com/detail/9NKNC4KWP66N) ($2.99, free trial available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Be More Productive With the Help of Windows 11 Widgets
 
  If you’re often distracted while working on your PC, these productivity widgets can help you stay focused on what’s important. Using widgets, you can stay on top of your schedule and keep track of your reminders at a quick glance.

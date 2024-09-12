@@ -1,7 +1,7 @@
 ---
 title: Enriched Notepad on Win11 with Tech Sage
-date: 2024-09-05T08:44:42.351Z
-updated: 2024-09-06T08:44:42.351Z
+date: 2024-09-11T09:30:07.875Z
+updated: 2024-09-12T09:30:07.875Z
 tags:
   - windows10
   - windows11
@@ -17,11 +17,12 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 ## Enriched Notepad on Win11 with Tech Sage
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Decode Log Files, Error Messages, or Code Snippets](#decode-log-files-error-messages-or-code-snippets)
@@ -30,18 +31,6 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 * [Copilot Enhances Notepad’s Simplicity With AI Power](#copilot-enhances-notepad-rsquo-s-simplicity-with-ai-power)
 * [Criticisms of the Copilot and Windows Notepad integration](#criticisms-of-the-copilot-and-windows-notepad-integration)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft integrated Copilot AI into Notepad for decoding technical text, suggesting code improvements, and summarizing documents.
@@ -52,47 +41,44 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
  From demystifying error messages to suggesting code improvements, here are three ways Copilot can supercharge your Notepad experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Decode Log Files, Error Messages, or Code Snippets
 
 [Microsoft announced](https://blogs.windows.com/windows-insider/2024/02/08/snipping-tool-and-notepad-updates-begin-rolling-out-to-windows-insiders/) a new “Explain with Copilot” integration that allows Notepad to interface with Microsoft’s powerful Copilot AI assistant. Now, instead of racking your brain when opening an indecipherable error log or code snippet in Windows Notepad, you can highlight the text, right-click, and select **Explain with Copilot**.
 
 ![The Explain with Copilot displayed in Windows Notepad beside a highlighted text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/the-explain-with-copilot-displayed-in-windows-notepad-beside-a-highlighted-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can use the handy Ctrl+E shortcut. This will launch [Microsoft Copilot](https://www.makeuseof.com/what-is-microsoft-365-copilot/) and dock it right beside your Notepad tab. You’ll then be prompted to allow your data to be sent to a Copilot chat.
 
 ![The Send to chat displayed in Microsoft Copilot next to Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/the-send-to-chat-displayed-in-microsoft-copilot-next-to-windows-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you’ve sent the text to chat, Copilot will help you understand what’s going on.
 
 ![Microsoft Copilot explaining code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-code-highlighted-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whether you’re a seasoned programmer tackling a problematic system log or a newbie struggling with a script, Copilot can help out. It’s especially useful when working on systems without access to advanced code editors, as Notepad remains one of the best ways to view source code and output logs.
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
 
@@ -106,26 +92,34 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 ![Microsoft Copilot explaining a VBScript code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-a-vbscript-code-highlighted-in-windows-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After Copilot explained the code snippet, I asked if it was okay for execution. The AI assistant said it was good to go and explained how I could get it to run.
 
 ![A conversation between the author and Microsoft Copilot regarding code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/a-conversation-between-the-author-and-microsoft-copilot-regarding-code-highlighted-in-windows-notepad.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here’s how it turned out.
 
 ![An executed VBScript code placed beside the VBS file on the Windows Desktop homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-executed-vbscript-code-placed-beside-the-vbs-file-on-the-windows-desktop-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Whether you’re a curious coding newbie or just need to make a quick fix without firing up a full IDE, give Notepad’s new AI sidekick a spin. Who knows, you might be surprised at what that unassuming app can do with a smarter Copilot riding shotgun.
 
 ## 3\. Get AI-Powered Help With Any Text (Technical or Not)
@@ -136,14 +130,15 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 ![Microsoft Copilot explaining and summarizing a section of a research work highlighted in Windows Notepad.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-and-summarizing-a-section-of-a-research-work-highlighted-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Between its unmatched speed for opening and lightweight footprint, Notepad has always been ideal for quickly getting words onto the screen. With Copilot’s AI smarts, it becomes an all-purpose text utility that can decode nearly any subject.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Copilot Enhances Notepad’s Simplicity With AI Power
 
  Notepad has been a comforting constant in the evolving Windows ecosystem for decades. [From Windows 95 to today’s Windows 11](https://www.makeuseof.com/windows-brief-history/), this humble text editor has remained delightfully simple—a true rarity in our age of bloated apps and excessive features.

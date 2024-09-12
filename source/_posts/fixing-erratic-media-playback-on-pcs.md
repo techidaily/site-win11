@@ -1,7 +1,7 @@
 ---
 title: Fixing Erratic Media Playback on PCs
-date: 2024-09-05T08:45:25.995Z
-updated: 2024-09-06T08:45:25.995Z
+date: 2024-09-11T09:30:07.319Z
+updated: 2024-09-12T09:30:07.319Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: Media Playback Fix PC,Stop Media Error PC,Smooth Media Performance PC,
 thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a570e502a336cc42130adb602.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Erratic Media Playback on PCs
 
  The 0xc10100bf error in Windows occurs when the media file you are trying to play is either not supported by Windows or requires a codec that is missing in the system. It can happen with various file formats, such as AVI, MKV, or MP4\.
 
  Below, we walk you through the different solutions you can try to fix the issue for good, and run your media files without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Convert the Media File to a Compatible Format
 
  The error code 0xc10100bf often appears when attempting to play a media file that is incompatible with your media player. One simple solution is to convert the file into a format supported by your media player, allowing you to play it smoothly without encountering any playback errors.
@@ -47,23 +35,27 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Once done, open the tool and select or drop the file that you want to convert.  
 ![Add the targeted file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drop-the-file.jpg)
 4. Now, expand the **Format** section to pick the desired format.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then, expand the **Presets** section on the right-hand side and choose an output that is compatible with your media player.  
 ![Choose a preset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-preset.jpg)
 6. If you want to set a Preset as the default preference, click on **Manage Presets**, choose the desired option, and click on **Set as default**.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set a preset as default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-preset-default.jpg)
 7. Configure additional settings according to your preferences. This is optional, so you can also choose the default preset settings.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Click on the **Start Encode** button and wait for the tool to start re-encoding the media file into the desired format.
 
  Once done, play the converted file and check if the issue is resolved.
@@ -83,16 +75,26 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Type "Troubleshooting" in the search bar of the Control Panel and click on the most appropriate result.  
 ![Choose Troubleshooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-on-troubleshooting.jpg)
 4. Move to the right pane and click **View all**.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
 5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the Windows Media Player settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-media-player-settings.jpg)
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Now, click on the **Run as administrator** hyperlink to launch the troubleshooter and proceed with the on-screen instructions.  
 ![Choose Apply repairs automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apply-repairs-automatically.jpg)
 8. If the troubleshooter identifies a problem and suggests a solution, click on **Apply this fix**.
@@ -107,6 +109,14 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 4. Scroll down to the **Other** section to locate the Video Playback troubleshooter and click on the **Run** button for it.  
 ![Run the Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-playback-troubleshooter-1.jpg)
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
 ## 3\. Check for File Corruption
@@ -117,12 +127,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use a Different Media Player
 
  You can also try playing the targeted file in a different media player and check if that makes any difference. This is because different media players have different coding algorithms and may also have built-in troubleshooting mechanisms that can handle certain types of file corruptions easily.
@@ -130,17 +134,12 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  If you don't already have an alternative media player installed, we have a guide on some [highly recommended free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) that can provide a seamless experience without errors.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Different Ways to Fix the 0xc10100bf Error
 
  The media player error 0xc10100bf in Windows can be annoying but hopefully, the solutions listed above will help you fix it for good.

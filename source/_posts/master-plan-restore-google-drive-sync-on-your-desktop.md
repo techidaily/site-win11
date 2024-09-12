@@ -1,7 +1,7 @@
 ---
 title: "Master Plan: Restore Google Drive Sync on Your Desktop"
-date: 2024-09-05T08:43:46.145Z
-updated: 2024-09-06T08:43:46.145Z
+date: 2024-09-11T09:30:08.692Z
+updated: 2024-09-12T09:30:08.692Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ![Restart Option In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-option-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect Your Google Account
 
  If your Google account doesn’t connect properly during the initial Drive setup, it starts throwing syncing errors. So, if you’re unable to modify any files in the Drive, you should try reconnecting your Google account. Note that before reconnecting your account, you first need to disconnect it from Google Drive preferences.
@@ -42,45 +49,38 @@ Follow the below steps to disconnect your Google account from Drive:
 2. Click the**Settings** **(gear)** icon and select**Preferences** .  
 ![Preferences Options In Drive For Desktop Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/preferences-options-in-google-drive.jpg)
 3. On the**Preferences** window, click**Disconnect account** next to your Google account.  
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Google Drive Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-preferences-window.jpg)
 4. Again, click**Disconnect** to confirm your action. Once done, open Google Drive from the start menu.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Click**Sign in with browser** and reconnect your Google account.  
 ![Sign In Option In Google Drive's Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-option-in-google-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that, during signing in with your Google account, it'll ask for some permissions—so make sure you tick all the checkboxes. This should hopefully fix the syncing issues on your computer.
 
  Once you login again, it'll take some time to fetch all your files from the cloud, depending on the files you've stored in Google Drive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Clear Temporary Files
 
  While reconnecting your Google account should generally work to resolve sync issues, it occasionally won't. So, another way to fix syncing errors is to delete Windows temporary files.
@@ -89,12 +89,6 @@ Follow the below steps to disconnect your Google account from Drive:
 
  If you run into problems with Windows programs often, you should know[how to delete temporary files in Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) . By deleting the temporary files, you force all the Windows programs to recreate them at startup. This removes all the corrupted files and fixes some common sync errors.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Examine the Internet Connection
 
  Undoubtedly, a faulty internet connection can cause huge trouble if not fixed in time. If everything is fine but the internet connection is weak, there’s no way you can get the sync to work flawlessly.
@@ -106,11 +100,12 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Ipconfig Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ipconfig-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If your issue is still not resolved, keep reading, as you may need to jump on to some advanced troubleshooting methods.
 
 ## 5\. Check the Required Permissions to Sync Files
@@ -122,11 +117,12 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Request Access In Google Drive Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/request-access-in-google-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In case, the files are owned by you, it’s always a good idea to change the Google Drive streaming folder for troubleshooting. To do this, open**Google Drive Preferences** and choose**Folder** from the list of options under the heading**Google Drive streaming location** .
 
 ![Google Drive Streaming Location Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-streaming-location.jpg)
@@ -136,17 +132,12 @@ Follow the below steps to disconnect your Google account from Drive:
  Changing the stream location will remove the Google Drive's virtual disk from your file explorer, so we recommend you choose the streaming location wisely.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall Google Drive
 
  If you're still having trouble syncing, you can try reinstalling Google Drive. Reinstalling will automatically clear all the settings and may fix the corrupted Drive files. First, uninstall Google Drive from the**Settings > Apps > Installed apps** section.
@@ -163,6 +154,13 @@ Follow the below steps to disconnect your Google account from Drive:
 
  All sync-related errors should be resolved after reinstalling Drive for desktop program. However, if it’s still not fixed, the chances are that the problem is not with your Google account but with your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Other Fixes for Resolving Sync Issues
 
  As a last measure, try out the following troubleshooting steps to fix the syncing error on Windows:
@@ -174,25 +172,23 @@ Follow the below steps to disconnect your Google account from Drive:
 * **Restart Google Drive:** To restart the Drive for desktop, click the**Google Drive** icon on the bottom right of the taskbar, and then click**Settings > Quit** . Now, reopen it from the search or start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Restore Google Drive Sync on Windows
 
  Google Drive is undoubtedly the best way to store your files in the cloud and keep them all synced across different platforms. When such random syncing issues occur, they completely ruin the experience. Most importantly, the major headache is that you lose access to your files.
 
  The sync problems may now be fixed on your Windows computer, but the same thing could happen on any web browser too. The most common cause of such sync issues is your Google account or Google Drive settings. So, you should avoid tweaking the preferences without prior knowledge.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
