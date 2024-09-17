@@ -1,7 +1,7 @@
 ---
 title: Remedying Common Office Crash on Windows XP/Vista
-date: 2024-09-11T09:44:48.475Z
-updated: 2024-09-12T09:44:48.475Z
+date: 2024-09-12T04:13:42.852Z
+updated: 2024-09-16T17:21:13.826Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 6. Click **Apply** followed by **OK**.  
 ![Configure the Microsoft Office Click To Run Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-the-microsoft-office-click-to-run-service.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After completing the above steps, try to open any Microsoft Office app and see if it works.
 
 ## 2\. Restart Your PC
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  At times, Office apps may fail to open on Windows due to malfunctioning background processes or temporary glitches. In most cases, you can fix such issues by simply [restarting your PC](https://www.makeuseof.com/windows-restart-methods/).
 
  If the error persists even after a system reboot, move on to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Office Repair Tool
 
@@ -74,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Wait for the process to complete and check if you can open your Office apps. If you still get the “Something went wrong” error, Microsoft recommends you perform an Online Repair. To do so, repeat the above steps and select the **Online Repair** option. This process may take longer to complete, but it’s most likely to fix the underlying issue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Uninstall and Reinstall Microsoft Office
 
  If running the Office repair tool proves ineffective, it's possible that some of the Office app files on your PC are corrupted. To fix this, you can try uninstalling Microsoft Office completely from your PC and installing it again. Here are the steps for the same.
@@ -93,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![Uninstall Office From PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-office-from-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once removed, use these steps to download and install Office apps on your PC:
@@ -110,23 +89,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![Download Office Setup File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-office-setup-file.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Using Office Apps Again
@@ -135,58 +101,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Don’t worry, there’s no need to switch to the online versions of Office apps just yet. Below, we have listed some useful tips that should get the Office apps up and running on your Windows PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhancing-viewership-with-effective-obs-use-on-youtube-and-twitch/"><u>[New] 2024 Approved Enhancing Viewership with Effective OBS Use on YouTube & Twitch</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[New] Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-sensational-headline-architect/"><u>[New] Sensational Headline Architect</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>[New] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-windows-and-mac-friendly-techniques-for-fb-video-download-for-2024/"><u>[New] Windows & Mac-Friendly Techniques for FB Video Download for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-switch-strike-force-your-top-10-game-lineup/"><u>[Updated] Switch Strike Force Your Top 10 Game Lineup</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-video-movie-maker-for-windows-8/"><u>2024 Approved Video Movie Maker for Windows 8</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-role-of-vesicular-transport-in-cannabinoid-neurotransmission/"><u>Analyzing the Role of Vesicular Transport in Cannabinoid Neurotransmission</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/android-lightroom-app-breakdown-a-complete-review/"><u>Android Lightroom App Breakdown A Complete Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clearing-the-air-for-users-facing-elan-issues-on-win10/"><u>Clearing the Air for Users Facing Elan Issues on Win10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/compare-metaverse-vs-omniverse-an-ultimate-guide-for-2024/"><u>Compare Metaverse Vs. Omniverse An Ultimate Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/concealing-activities-deactivate-windows-eye-on-users/"><u>Concealing Activities: Deactivate Windows' Eye on Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-the-top-11-inspiring-film-gems-for-viewers/"><u>Discover the Ultimate Selection: The Top 11 Inspiring Film Gems for Viewers</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-windows-11-taskbar-improvements/"><u>Discover Windows 11 Taskbar Improvements</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-complaints-for-new-windows-11-users/"><u>Essential Complaints for New Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-to-prevent-and-resolve-onedrive-errors-on-your-pc/"><u>Essential Steps to Prevent and Resolve OneDrive Errors on Your PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-v-purse-lock-screen-password-by-drfone-android/"><u>How To Change Honor V Purse Lock Screen Password?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y78plus-t1-edition-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y78+ (T1) Edition Phones with/without a PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-the-art-of-making-dormant-facebook-vids-pop-up-again/"><u>In 2024, Mastering the Art of Making Dormant Facebook Vids Pop Up Again</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 11 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/installment-challenge-overcoming-mspm-errors/"><u>Installment Challenge: Overcoming MSPM Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-hiding-power-button-in-windows-11-settings/"><u>Masterclass: Hiding Power Button in Windows 11 Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-cross-border-controls-the-complete-guide-to-powertoys/"><u>Mastering Cross-Border Controls: The Complete Guide to PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-subnet-settings-windows-11-guide/"><u>Mastering Subnet Settings: Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-typing-speed-with-windows-10-and-11-keys/"><u>Maximize Typing Speed with Windows 10 & 11 Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-high-cpu-load-due-to-modules-installer-activity/"><u>Mitigating High CPU Load Due to Modules Installer Activity</u></a></li>
-<li><a href="https://win11.techidaily.com/network-navigator-4-strategic-approaches-to-test-your-internet-pace/"><u>Network Navigator: 4 Strategic Approaches to Test Your Internet Pace</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-windows-11-a-quick-guide-to-stripping-junk/"><u>Optimize Windows 11: A Quick Guide to Stripping Junk</u></a></li>
-<li><a href="https://win11.techidaily.com/orchestrate-your-tasks-microsoft-to-do-plus-ifttt/"><u>Orchestrate Your Tasks: Microsoft To-Do + IFTTT</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-apple-image-failures-in-windows-1011/"><u>Overcoming Apple Image Failures in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-excessive-opening-of-file-explorer/"><u>Overcoming Excessive Opening of File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/purging-windows-11-store-simple-steps/"><u>Purging Windows 11 Store: Simple Steps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/quick-guide-to-correcting-hidden-shorts-on-youtube/"><u>Quick Guide to Correcting Hidden Shorts on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-freeing-windows-11-space/"><u>Quick-Fix Guide to Freeing Windows 11 Space</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-steam-download-routines-for-windows-pcs/"><u>Speedy Steam Download Routines for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-enabling-external-security-solutions/"><u>Techniques for Enabling External Security Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-regedit-management-in-windows-11/"><u>Techniques for RegEdit Management in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-windows-woes-in-4-easy-steps/"><u>Troubleshoot Windows Woes in 4 Easy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-full-potential-narrator-keybindings-decoded/"><u>Unlocking Full Potential: Narrator Keybindings Decoded</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-successful-device-connection-on-windows-11/"><u>Unlocking Successful Device Connection on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-disk-issues-avoiding-reading-problems/"><u>Unraveling Disk Issues: Avoiding Reading Problems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/vibration-modes-and-natural-frequencies-are-crucial-in-designing-scaffolds-that-avoid-resonant-amplification-effects/"><u>Vibration Modes and Natural Frequencies Are Crucial in Designing Scaffolds that Avoid Resonant Amplification Effects.</u></a></li>
-<li><a href="https://win11.techidaily.com/what-hides-inside-ftdibussys-exploring-its-effects-on-windows-security/"><u>What Hides Inside ftdibus.sys? Exploring Its Effects on Windows Security</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-disruptive-layout-elements-a-review/"><u>Windows 11'S Disruptive Layout Elements: A Review</u></a></li>
-<li><a href="https://win11.techidaily.com/winshift-fixes-guide-needed/"><u>WinShift Fixes Guide Needed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +108,24 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-5-fastest-indie-film-tips-for-at-home-creators/"><u>[New] 5 Fastest Indie Film Tips for At-Home Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-saving-gifs-from-twitter-ios-and-android-guide/"><u>[Updated] 2024 Approved Saving GIFs From Twitter IOS & Android Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/pcmdsd/"><u>「優れた品質PCMへの移行：DSDオーディオからの高精度変換方法」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>2024 Approved Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-latest-epson-xp-420-printer-drivers/"><u>Download & Update the Latest Epson XP-420 Printer Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30iwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30iwith/without a PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-best-ups-options-for-reliable-energy-backup/"><u>Navigating the Best UPS Options for Reliable Energy Backup</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-mastering-the-art-of-downloading-ballet-beautiful-videos-from-youtube/"><u>Quick Guide: Mastering the Art of Downloading Ballet Beautiful Videos From YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-converting-your-dvd-files-into-avi-with-no-hassle/"><u>Simple Guide: Converting Your DVD Files Into AVI with No Hassle!</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-vpj-files-into-mp4-format-using-videopad/"><u>Step-by-Step Guide: Converting VPJ Files Into MP4 Format Using VideoPad</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-instructions-effortless-installation-of-showbox-app-on-windowsmac-pc/"><u>Step-by-Step Instructions: Effortless Installation of ShowBox App on Windows/Mac PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-flawless-mkv-playback-with-chromecast-streaming/"><u>The Ultimate Guide to Flawless MKV Playback with Chromecast Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/top-ranking-windows-11-media-converter-effortlessly-transform-dvds-into-mp4-mkv-and-more/"><u>Top-Ranking Windows 11 Media Converter: Effortlessly Transform DVDs Into MP4, MKV, and More</u></a></li>
+<li><a href="https://solve-help.techidaily.com/trasforma-i-tuoi-dvd-in-formato-hd-senza-problemi-tecniche-avanzate-di-ripping-e-correzione-h2650334hevc/"><u>Trasforma I Tuoi DVD in Formato HD Senza Problemi – Tecniche Avanzate Di Ripping E Correzione H.2#65033;4/HEVC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-play-8t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor Play 8T Phone Network-Ready</u></a></li>
+</ul></div>
+

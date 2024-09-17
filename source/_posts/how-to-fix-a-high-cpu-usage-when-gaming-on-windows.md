@@ -1,7 +1,7 @@
 ---
 title: How to Fix a High CPU Usage When Gaming on Windows
-date: 2024-09-11T09:46:05.395Z
-updated: 2024-09-12T09:46:05.395Z
+date: 2024-09-10T01:25:57.761Z
+updated: 2024-09-17T07:31:42.800Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 ![Close Microsoft Edge Process From Windows Task Manager For Consuming the Most CPU Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-microsoft-process-from-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, if the game alone appears to be causing the most CPU strain, you should investigate the issue further.
 
  If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on[how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
@@ -68,26 +61,19 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 3. Click**Options** and select**High Performance** .  
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Forcing the game to use the dedicated GPU will likely reduce CPU usage. If not, check whether the problem is game-specific.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
+<span id="1982459">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Ensure That the Problem Isn't Confined to One Game
@@ -97,22 +83,15 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
  Likewise, if you're having this issue with a newly released game, ensure the problem doesn't lie with the game's version. Find out if other users are experiencing the same issue on the game's official forum. If others are experiencing the same problem, there could be a problem with the game version. In that case, you will need to wait for the release of the updated version.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Sacrifice Graphics Quality
 
  If the above checks and fixes do not reduce CPU resource consumption, lower the game's graphics settings. This will reduce the game's graphics processing requirements, reducing the load on your CPU. This step will undoubtedly reduce your CPU usage but at the expense of your game's graphics quality.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Enable Efficiency Mode for the Game
 
@@ -131,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
  To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
 
 ![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bring the CPU Usage Down While You Game on Windows
 
@@ -160,38 +132,15 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-realities-of-youtube-view-calculation/"><u>[New] The Realities of YouTube View Calculation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings/"><u>[New] Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-tips-for-gameplay-screen-captures-on-xbox-one-for-2024/"><u>[Updated] Essential Tips for Gameplay Screen Captures on Xbox One for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-obs-vs-streamlabs-the-ultimate-guide-for-live-streamers/"><u>2024 Approved OBS Vs. Streamlabs The Ultimate Guide for Live Streamers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-premium-wireless-earphones-guide/"><u>2024'S Premium Wireless Earphones Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-the-updated-driver-for-your-hp-officejet-pro-8610-on-various-windows-versions/"><u>Complete Guide to Downloading the Updated Driver for Your HP Officejet Pro 8610 on Various Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-for-using-windows-canary-service/"><u>Comprehensive Guide for Using Windows' Canary Service</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-hp-z440-desktop-workstation-latest-version/"><u>Download and Update Drivers for HP Z440 Desktop Workstation - Latest Version</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-network-drive-configuration-for-enhanced-workflow/"><u>Efficient Network Drive Configuration for Enhanced Workflow</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-personalized-shortcut-keys/"><u>Elevate Your Workflow: Personalized Shortcut Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-disabled-obstacles-for-executing-powershell-scripts/"><u>Eliminating 'Disabled' Obstacles for Executing PowerShell Scripts</u></a></li>
-<li><a href="https://windows11.techidaily.com/honesty-required-secure-your-exclusive-50-discount-on-microsoft-365-today/"><u>Honesty Required: Secure Your Exclusive 50% Discount on Microsoft 365 Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-windows-update-issue-code-x80246007/"><u>How To Quickly Resolve Windows Update Issue Code X80246007</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-tcpip-with-python-servers-on-windows-networks/"><u>Leveraging TCP/IP with Python Servers on Windows Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-recovery-conquering-blue-screen-errors/"><u>Mastering System Recovery: Conquering Blue Screen Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-display-scaling-in-windows-11/"><u>Modify Display Scaling in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80070003-during-system-upgrades/"><u>Overcoming Windows Error: 0X80070003 During System Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-block-after-failure/"><u>Overcoming Windows Login Block After Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpointing-windows-model-years-simplified/"><u>Pinpointing Windows Model Years Simplified</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-brightness-overcoming-dark-screen-problems/"><u>Restoring Brightness: Overcoming Dark Screen Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-the-impact-of-glitches-winvolume-fix-guide/"><u>Reverse the Impact of Glitches: WinVolume Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-15-ways-to-reach-windows-settings/"><u>Simplify: 15 Ways to Reach Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-windows-security-today-with-free-desktop-pass-gen-apps/"><u>Step Up Windows Security Today With Free Desktop Pass Gen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-windows-experience-resetting-apps/"><u>Streamlining Your Windows Experience: Resetting Apps</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-resolving-not-handled-error-on-windows-1011/"><u>Tips for Resolving Not Handled Error on Windows 10/11</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/transform-your-videos-using-winxvideo-ai-the-ultimate-video-enhancer-for-recording-editing-and-more/"><u>Transform Your Videos Using WinxVideo AI - The Ultimate Video Enhancer for Recording, Editing, and More</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-ios-photo-importers-on-windows-11/"><u>Troubleshooting iOS Photo Importers on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/vivetool-steps-for-windows-copilot-enablement/"><u>ViveTool Steps for Windows Copilot Enablement</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-reset-triggers-top-10-tips/"><u>Windows Reset Triggers: Top 10 Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>[Updated] Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/no1-7/"><u>人気No.1! ストリーミングオーディオ・レコーディング専用ソフト、詳しく見てみませんか（7つ選び）</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-googles-leap-forward-an-insight-into-the-power-of-palm-2-technology/"><u>Decoding Google’s Leap Forward: An Insight Into the Power of PaLM 2 Technology</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-15-strategies-to-supercharge-your-learning-with-podcasts/"><u>In 2024, 15 Strategies to Supercharge Your Learning with Podcasts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-15-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 15 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>In 2024, The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-powerpoint-multimedia-seamless-tutorial-on-adding-mp4-files-perfectly/"><u>Mastering PowerPoint Multimedia: Seamless Tutorial on Adding MP4 Files Perfectly</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4wmawindows-1011/"><u>MP4とWMAの間で素早く変換:Windows 10/11ユーザー向け方法</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-mp3-conversion-transferring-your-cherished-tunes-with-ease/"><u>Seamless MP3 Conversion - Transferring Your Cherished Tunes with Ease</u></a></li>
 </ul></div>
 

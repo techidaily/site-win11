@@ -1,7 +1,7 @@
 ---
 title: Navigating Black Screen Woes in Windows 11
-date: 2024-09-11T09:37:30.299Z
-updated: 2024-09-12T09:37:30.299Z
+date: 2024-09-14T17:01:42.186Z
+updated: 2024-09-16T21:42:15.488Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is My Windows 10/11 Stuck on a Black Screen With Cursor?
 
  This issue is characterized by a blank black screen with nothing but a cursor on display. You can’t use your PC, you can’t log in, and may not be able to shut down your device.
@@ -50,23 +37,9 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Download & Install PassFab FixUWin
 
 ![download fixuwin on website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-fixuwin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Head to the PassFab website and go to the FixUWin page. Click on**Free Trial** to download an executable file for your new software.
 
@@ -77,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
@@ -94,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 It will take a few minutes to create your new boot device.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Boot the Machine Using Your Boot Disk/Drive
@@ -131,10 +98,10 @@ It will take a few minutes to create your new boot device.
  Once inside the winRE menu, click**Troubleshoot** and select**Advanced Options** from the next window. Click**Startup Settings** and select**Restart** to boot the machine into safe mode. From here, you can work on solving the problem causing your black screen with a cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use PassFab FixUWin to Fix Windows Black Screen With a Cursor
@@ -156,40 +123,19 @@ It will take a few minutes to create your new boot device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/picurean-eminence-best-online-chefs-and-cooks/"><u>[New] Epicurean Eminence Best Online Chefs & Cooks</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-cannot-create-window-errors-on-windows/"><u>Decoding the 'Cannot Create' Window Errors on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delving-into-digital-tools-a-trip-through-toms-circuitry/"><u>Delving Into Digital Tools – A Trip Through Tom’s Circuitry</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-workspace-individual-monitors-in-windows-11/"><u>Elevating Your Workspace: Individual Monitors in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-frayed-script-extensions-in-skyrim-games/"><u>Fixing Frayed Script Extensions in Skyrim Games</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-the-driver-verifier-manager-in-windows-11/"><u>How to Open the Driver Verifier Manager in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-err0r-x7e1-on-win10-pcs/"><u>How to Reset Err0r: X7E1 on Win10 PCs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-to-successfully-advertise-on-your-blog-through-buyselladscom-for-better-profits/"><u>How to Successfully Advertise on Your Blog Through BuySellAds.com for Better Profits</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-14-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi 14 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-12-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi 12 5G FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/isolating-and-remedying-solo-sideheadphone-glitches-in-win/"><u>Isolating and Remedying Solo Sideheadphone Glitches in WIN</u></a></li>
-<li><a href="https://win11.techidaily.com/key-complementary-aid-for-elevating-your-windows-11-use/"><u>Key Complementary Aid for Elevating Your Windows 11 Use</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-search-configurations-reset/"><u>Mastering Windows 11 Search Configurations Reset</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/modernize-your-space-with-style-an-insightful-taotronics-tt-dl16-led-lamp-evaluation/"><u>Modernize Your Space with Style: An Insightful TaoTronics TT-DL16 LED Lamp Evaluation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mystical-camera-pause-strategies/"><u>Mystical Camera Pause Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-subsystem-for-linux-solving-error-4294967295/"><u>Navigating Through Windows Subsystem for Linux: Solving Error 4294967295</u></a></li>
-<li><a href="https://win11.techidaily.com/onedrives-invalid-reparse-point-a-guide-to-mend-it-on-windows/"><u>OneDrive’s Invalid Reparse Point: A Guide to Mend It on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-errors-with-googles-nearby-sharing-on-pc/"><u>Overcoming Errors with Google's Nearby Sharing on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/refinement-of-console-controls-in-depth-windows-techniques/"><u>Refinement of Console Controls: In-Depth Windows Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-loss-of-critical-dll-reinstating-mfc71u-on-pcs/"><u>Resolving Loss of Critical DLL: Reinstating Mfc71u on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-installation-failure-on-discord-win/"><u>Strategies to Overcome Installation Failure on Discord (Win)</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-microsoft-store-errors-the-quick-fix-for-0x80072efd/"><u>Tackling Microsoft Store Errors: The Quick Fix for 0X80072EFD</u></a></li>
-<li><a href="https://win11.techidaily.com/temporary-user-profiles-avoiding-login-interruptions/"><u>Temporary User Profiles: Avoiding Login Interruptions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-12plus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme 12+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-windows-11-reading-comics-like-never-before/"><u>Transforming Windows 11: Reading Comics Like Never Before</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-the-0x8007045d-blue-screen/"><u>Understanding and Remedying the 0X8007045D Blue Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-e-motorcycle-functionality-an-in-depth-exploration/"><u>Understanding E-Motorcycle Functionality: An In-Depth Exploration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/western-digital-data-lifeguard-diagnostic-tool-review/"><u>Western Digital Data LifeGuard Diagnostic Tool Review</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11s-bluetooth-down-follow-these-9-simple-steps-to-fix-it/"><u>Win 11’S Bluetooth Down? Follow These 9 Simple Steps to Fix It</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-webcam-troubleshooting-avoid-code-0xa00f4289/"><u>Win10/11 Webcam Troubleshooting - Avoid Code 0xA00F4289</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-google-play-setup-protocols/"><u>Windows 11 Google Play Setup Protocols</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-component-tools-accessing-and-operating-guide/"><u>Windows Component Tools: Accessing & Operating Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-innovations-effortless-navigation-of-qr-codes/"><u>Windows Innovations: Effortless Navigation of QR Codes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/onquering-cross-platform-content-sharing-youtubes-and-fbs-for-2024/"><u>[New] Conquering Cross-Platform Content Sharing YouTubes & FBs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-impact-tiktoks-viral-tweets-at-the-forefront/"><u>[Updated] Social Media Impact TikTok's Viral Tweets at the Forefront</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028360556-7/"><u>「最適なビデオ寸法変更サイト・上位7推奨」</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44ox44os44k844oz44og44o844k344on44oz44gu44gf44kb44gr44k544op44kk44oj44k344on44o844ot44oh44kq44ks5yq55p6c55qe44gr57eo6zug44gz44kl5oqa6kgt44cn1/"><u>「ウェブプレゼンテーションのためにスライドショービデオを効果的に編集する技術」</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-converting-dvd-content-into-avi-format-with-minimal-hassle/"><u>A Beginner's Guide to Converting DVD Content Into AVI Format with Minimal Hassle</u></a></li>
+<li><a href="https://win11.techidaily.com/alcwavmp3/"><u>ALCフォーマットを効率的にWAVやMP3に変換する方法 | ハイレゾ音質移行手順</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebooks-most-noteworthy-tweaks-for-todays-users-for-2024/"><u>Facebook's Most Noteworthy Tweaks for Today’s Users for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fire-up-your-tech-savvy-comparing-amazon-fire-and-ipad-tablets-for-optimal-use/"><u>Fire Up Your Tech Savvy: Comparing Amazon Fire and iPad Tablets for Optimal Use</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029205926-iphone/"><u>IPhoneにおける「読み込めない動画エラー」を克服する方法</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028985392-mp3/"><u>MP3音量比率変更ツールをご利用いただける場所と使い方ガイド</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-images-storage-centers-for-2024/"><u>Prime Images Storage Centers for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unforeseen-setup-snag-found/"><u>Printer's Unforeseen Setup Snag Found</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-11-pro-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 11 Pro</u></a></li>
 </ul></div>
 

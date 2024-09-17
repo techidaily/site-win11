@@ -1,7 +1,7 @@
 ---
 title: Shifting Focus to File Explorer with OneDrive Connection
-date: 2024-09-11T09:46:42.663Z
-updated: 2024-09-12T09:46:42.663Z
+date: 2024-09-11T18:03:15.367Z
+updated: 2024-09-17T07:03:29.504Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use the Folder Options
 
  If you want to make OneDrive the starting point of your File Explorer, you can do so using folder options. Here's how to do it:
@@ -43,21 +36,7 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 ![Open File Explorer to OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive.jpg)
 4. Click **Apply** \> **OK** to close the dialog box.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Using the Registry Editor
 
@@ -74,29 +53,9 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 ![Set File Explorer to Open OneDrive Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-file-explorer-to-open-onedrive-using-registry.jpg)
 6. Double-click on this newly created value and set its value to **4**.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click **OK** and close the registry window.
 
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Using a Reg File
 
@@ -121,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
@@ -133,42 +92,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 
  Read this comprehensive guide if you want File Explorer to open OneDrive instead of Quick Access.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-sculpting-unique-fb-ad-visuals/"><u>[New] 2024 Approved Sculpting Unique FB Ad Visuals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-top-ff-video-grab-extensions-and-tools-for-2024/"><u>[Updated] Top FF Video Grab - Extensions & Tools for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-introducing-dimensional-text-with-photoshop-expertise/"><u>2024 Approved Introducing Dimensional Text with Photoshop Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-error-0x800f082f-in-microsofts-dism-tool/"><u>Conquering Error 0X800F082F in Microsoft's DISM Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/disentangling-steam-timeout-problems-on-windows-with-rust-techniques/"><u>Disentangling Steam Timeout Problems on Windows with Rust Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/diving-into-character-inspector-with-win11/"><u>Diving Into Character Inspector with Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-clearing-wins-cache-memory/"><u>Efficiently Clearing Win's Cache Memory</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-security-posture-adding-passwords-to-text-files/"><u>Elevating Your Security Posture: Adding Passwords to Text Files</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-share-functionality-in-windows-11-and-11/"><u>Enhancing Share Functionality in Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-windows-11-defenses-adding-new-filter-options-to-context-menu/"><u>Fine-Tune Your Windows 11 Defenses: Adding New Filter Options to Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/from-invisible-to-visible-reversing-off-screen-window-absence-in-windows-11/"><u>From Invisible to Visible: Reversing Off-Screen Window Absence in Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-sony-xperia-10-v-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Sony Xperia 10 V</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme Narzo 60 5G Phone without Google Account?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-g54-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Tecno Spark Go (2023) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-sony-xperia-10-v-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Sony Xperia 10 V Device</u></a></li>
-<li><a href="https://win11.techidaily.com/insider-secrets-discovering-where-your-programs-take-root/"><u>Insider Secrets: Discovering Where Your Programs Take Root</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-a-new-iphone-on-the-horizon-gauge-compatibility-now/"><u>Is a New iPhone on the Horizon? Gauge Compatibility Now</u></a></li>
-<li><a href="https://win11.techidaily.com/making-win1011-recycle-bin-error-free-quick-solutions/"><u>Making Win10/11 Recycle Bin Error-Free: Quick Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterclass-the-different-faces-of-hand-tracker-for-2024/"><u>Masterclass The Different Faces of Hand Tracker for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-taskbar-modifications/"><u>Mastering Window 11 Taskbar Modifications</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-woes-resolve-error-x80072f30-easily/"><u>Microsoft Store Woes, Resolve Error X80072F30 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-gaming-screen-blackouts-on-win-os/"><u>Preventing Gaming Screen Blackouts on Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/rediscovering-the-bygone-folder-interface/"><u>Rediscovering the Bygone Folder Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-mute-read-out-mode-on-word-software/"><u>Remedying Mute Read-Out Mode on Word Software</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-git-workflow-github-desktop-and-windows-1011/"><u>Streamlining Your Git Workflow: GitHub Desktop & Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/synergizing-technology-the-role-of-ai-in-windows-11-dynamics/"><u>Synergizing Technology: The Role of AI in Windows 11 Dynamics</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-fixing-screen-alignment-in-windows-os/"><u>Tips for Fixing Screen Alignment in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-personalized-audio-settings-key-combinations-explained/"><u>Win11's Personalized Audio Settings: Key Combinations Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-protected-mode-what-does-it-entail/"><u>Windows 11'S Protected Mode: What Does It Entail?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +99,19 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-fixing-popular-youtube-short-snafus/"><u>[New] In 2024, Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-srt-to-advanced-subtitle-formats-a-compendium/"><u>[Updated] Seamless SRT to Advanced Subtitle Formats A Compendium</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028053556-dvdmp3/"><u>生動画DVDからMP3ファイルへの変換技術</u></a></li>
+<li><a href="https://extra-information.techidaily.com/callers-audio-logger-iphone-24-for-2024/"><u>Caller's Audio Logger IPhone '24 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-best-no-cost-dvd-reading-software-for-windows-10-your-ultimate-guide-to-enjoying-every-dvd/"><u>Discover the Best No-Cost DVD Reading Software for Windows 10 - Your Ultimate Guide to Enjoying Every DVD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-download-and-set-up-sandisk-drivers-on-windows-10/"><u>Effortless Installation: Download & Set Up SanDisk Drivers on Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nixplays-x15d-a-revolution-in-digital-frame-technology-and-photo-display/"><u>Nixplay's X15D: A Revolution in Digital Frame Technology & Photo Display</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029091926-pc/"><u>PC上のビデオファイルを成功させるダウンロードおよび録画テクニック</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-asus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Asus Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028664984-youtube/"><u>YouTubeトラックをウォークマンに移し替える方法</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029078458-windows/"><u>ビデオの長さ編集手順: Windowsプラットフォームにおすすめ</u></a></li>
+</ul></div>
+

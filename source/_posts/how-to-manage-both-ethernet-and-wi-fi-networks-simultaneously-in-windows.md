@@ -1,7 +1,7 @@
 ---
 title: How to Manage Both Ethernet & Wi-Fi Networks Simultaneously in Windows
-date: 2024-09-11T09:40:00.422Z
-updated: 2024-09-12T09:40:00.422Z
+date: 2024-09-11T22:59:42.899Z
+updated: 2024-09-16T20:26:39.704Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why You May Need to Use Both the Wi-Fi and Ethernet Connections Simultaneously
 
  While you may not get an additional speed advantage when using the same ISP for your Wi-Fi and Ethernet, you can have both connections up and running as a backup for critical Internet-dependent services. Also, if you have access to multiple ISP connections, you can[merge multiple connections to increase your internet speed](https://www.makeuseof.com/how-to-merge-internet-connections/) .
@@ -52,28 +45,8 @@ To disable packet priority and VLAN on Windows:
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 4. In the left pane, click on**Change adapter settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right-click on your**Ethernet network adapter** and select**Properties** . Alternatively, double-click on the**Ethernet adapter** and then click on**Properties** .  
 ![ethernet properties configure networking control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ethernet-properties-configure-networking-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. In the**Networking** tab, click the**Configure** button.
 2. Next, open the**Advanced** tab.
@@ -86,13 +59,6 @@ To disable packet priority and VLAN on Windows:
 8. Click**OK** to save the changes.
 
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
 
@@ -108,13 +74,6 @@ To change network priority on Windows:
 ![tcp ip v4 properties control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tcp-ip-v4-properties-control-panel.jpg)
 5. Click the**Advanced** button in the**Properties** dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Next, uncheck**Automatic metric** and type**5** in the**Interface metric** field.
 7. Click**OK** on all the open windows to save the changes.
 8. Note that if you use Internet Protocol Version 6 (IPv6) protocol, you’ll need to assign an interface metric for it as well.
@@ -122,10 +81,10 @@ To change network priority on Windows:
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
@@ -149,46 +108,18 @@ To change network priority on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-budget-friendly-twit-to-gif-guide/"><u>[New] Budget-Friendly Twit-to-GIF Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-recommendation-best-iphone-ringtone-makers/"><u>[New] In 2024, Recommendation Best iPhone Ringtone Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>[New] Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-strategies-to-secure-lasting-gaming-memories-for-2024/"><u>[New] Windows 11 Strategies to Secure Lasting Gaming Memories for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-editorelite-analysis-complete-insight/"><u>[Updated] 2024 Approved EditorElite Analysis – Complete Insight</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-finest-list-of-cost-effective-video-conferencing-apps/"><u>[Updated] Finest List of Cost-Effective Video Conferencing Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fostering-connection-strategies-for-striking-fb-slideshows/"><u>2024 Approved Fostering Connection Strategies for Striking FB Slideshows</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-video-expertise-elevated-streamline-your-edits-with-these-vimeo-shortening-techniques/"><u>2024 Approved Video Expertise Elevated Streamline Your Edits with These Vimeo Shortening Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-copilot-key-in-windows-11-enhance-your-experience/"><u>Decoding Copilot Key in Windows 11 - Enhance Your Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-missing-sd-card-view-on-file-explorer-platform/"><u>Enable Missing SD Card View on File Explorer Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/ftdibussys-in-depth-investigating-windows-memory-integrity-breach/"><u>Ftdibus.sys in Depth: Investigating Windows Memory Integrity Breach</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-hooked-on-these-6-non-monetary-gaming-treasures/"><u>Get Hooked on These 6 Non-Monetary Gaming Treasures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-infinix-smart-7-hd-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Infinix Smart 7 HD</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c55-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C55 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>In 2024, The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Moto G73 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-v30-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V30 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/kickstart-windows-11-help-and-support-mechanism/"><u>Kickstart Windows 11 Help & Support Mechanism</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-server-with-iis-manager/"><u>Master Your Windows Server with IIS Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-explorer-top-errors-and-how-to-evade-them/"><u>Mastering File Explorer: Top Errors & How to Evade Them</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-game-potential-with-these-pro-gamers-top-tips-for-win-11/"><u>Maximize Game Potential with These Pro-Gamers' Top Tips for Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-common-steam-freeze-during-gaming/"><u>Overcoming Windows 11: Common Steam Freeze During Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-exe-opener-dilemmrances/"><u>Overcoming Windows Exe Opener Dilemmrances</u></a></li>
-<li><a href="https://win11.techidaily.com/overriding-windows-update-requests/"><u>Overriding Windows Update Requests</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-tactics-for-perfect-window-updates/"><u>Precision Tactics for Perfect Window Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/purple-pandemonium-a-guide-to-regaining-your-pcs-true-colors/"><u>Purple Pandemonium? A Guide to Regaining Your PC's True Colors</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-virtualbox-error-code-0x80004005-in-windows/"><u>Remedying Virtualbox Error Code: 0X80004005 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-your-game-with-expert-multitasking-techniques-for-windows-11/"><u>Step Up Your Game with Expert Multitasking Techniques for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-geforce-nows-error-code-0xc0f1103f-in-windows/"><u>Steps to Fix GeForce Now's Error Code 0Xc0f1103f in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-error-e8024002e/"><u>Steps to Overcome Windows Error E:8024002E</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-no-write-windows-saving-hurdles/"><u>Strategies for Overcoming No Write Windows Saving Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-smooth-keyboard-shortcuts-for-3d-artists/"><u>Swift and Smooth: Keyboard Shortcuts for 3D Artists</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-technique-to-design-personalized-lock-patterns-on-windows-11/"><u>The Complete Technique to Design Personalized Lock Patterns on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-picks-of-drawing-apps-for-windows-11-enthusiasts/"><u>The Top 7 Picks of Drawing Apps for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-ultimate-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Ultimate Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/tracing-your-digital-steps-in-windows-11/"><u>Tracing Your Digital Steps in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unclogging-saturation-issue-gpt-in-windows/"><u>Unclogging Saturation Issue: GPT in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-blue-screen-mysteries-where-are-the-logs/"><u>Unlocking Blue Screen Mysteries: Where Are the Logs?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-nubia-red-magic-9-proplus-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nubia Red Magic 9 Pro+? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win-pc-download-speedups-navigate-the-net-faster/"><u>Win-PC Download Speedups: Navigate the Net Faster</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-torrent-clients-the-best-of-windows-list/"><u>Winning Torrent Clients: The Best of Windows List</u></a></li>
+<li><a href="https://win11.techidaily.com/iuwlleeuuplusoajowtlplusw5leocqoocrplusocueodneodvoodiooajeobqplusobpuwtlplusw5leakvewhuus4jewprzrljplm6djgplop6poqqwi/"><u>動画「字幕エクスポート」にて字幕抽出不可:原因を解説</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-iphone-data-restoration-software-ranked-top-picks-supporting-ios-17-2024-edition/"><u>Best iPhone Data Restoration Software Ranked: Top Picks Supporting iOS 17 – 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-leading-non-winx-solutions-for-seamless-dvd-ripping-and-conversion/"><u>Exploring the Leading Non-WinX Solutions for Seamless DVD Ripping and Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-your-videos-to-edit-mode-using-gpu-boosted-techniques/"><u>Fast-Track Your Videos to Edit Mode Using GPU-Boosted Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-smart-8-hd-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Smart 8 HD Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/iosiphone/"><u>IOS上で静寂な映像体験を実現するiPhoneの音量操作法</u></a></li>
+<li><a href="https://win11.techidaily.com/m4a202c/"><u>M4Aファイル編集プログラム202C最新リリースをお勧めします!音質無傷の維持が可能</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722729489368-top-rated-htpc-systems-your-ultimate-guide/"><u>Top Rated HTPC Systems - Your Ultimate Guide!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-power-inverter-models-comprehensive-review/"><u>Top Rated Power Inverter Models - Comprehensive Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-technology-with-toms-hardware-guides/"><u>Unveiling the Secrets of Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vr-lingo-master-new-tongues-flawlessly/"><u>VR Lingo: Master New Tongues Flawlessly</u></a></li>
 </ul></div>
 

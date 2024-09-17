@@ -1,7 +1,7 @@
 ---
 title: Reversing Windows 11 FS Errors Swiftly
-date: 2024-09-11T09:47:14.332Z
-updated: 2024-09-12T09:47:14.332Z
+date: 2024-09-10T04:37:48.081Z
+updated: 2024-09-16T22:03:04.715Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -52,21 +45,7 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Store App Troubleshooter
 
@@ -90,24 +69,10 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
 
@@ -116,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
  You can remove UWP apps with some of the methods in our guide for uninstalling software in Windows 11\. You can uninstall most apps with the Apps & Features tool in Settings. However, you might need to use the PowerShell method in our guide to remove some pre-installed Windows 11 apps.
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
@@ -128,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
@@ -142,13 +114,26 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -156,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
 
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
 
@@ -183,43 +161,17 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-cut-to-quality-perfecting-videos-with-enhancer-22/"><u>[New] 2024 Approved Cut to Quality Perfecting Videos with Enhancer 2.2</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-inspiring-vistas-top-20-scenic-shots-for-social-media-success-for-2024/"><u>[New] Inspiring Vistas Top 20 Scenic Shots for Social Media Success for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-secrets-of-crafting-an-exclusive-identifier-on-tiktok/"><u>[New] Secrets of Crafting an Exclusive Identifier on TikTok</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>[Updated] From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>2024 Approved From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>2024 Approved Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-polishing-your-figma-creations-expert-backdrop-extraction/"><u>2024 Approved Polishing Your Figma Creations Expert Backdrop Extraction</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-overcoming-usb-not-recognized-error-in-virtualbox/"><u>Comprehensive Guide: Overcoming 'USB Not Recognized' Error in VirtualBox</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-microsoft-store-issue-x80073d26-on-win11/"><u>Correcting Microsoft Store Issue X:80073d26 on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-windows-11-directory-exposure/"><u>Customize Your Window's 11 Directory Exposure</u></a></li>
-<li><a href="https://win11.techidaily.com/decisive-action-plan-for-banishing-flashing-screens-on-windows/"><u>Decisive Action Plan for Banishing Flashing Screens on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/dial-down-dysfunction-restore-your-pcs-essential-esc-keys/"><u>Dial Down Dysfunction: Restore Your PC's Essential Esc Keys</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-call-of-duty-modern-warfare-3-sudden-crash-issues/"><u>Effective Fixes for Call of Duty Modern Warfare 3 Sudden Crash Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-always-on-top-notations-on-windows/"><u>Ensuring Always On-Top Notations on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/excellence-in-organizing-top-windows-to-dos-revealed/"><u>Excellence in Organizing: Top Windows To-Dos Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-based-valorant-audio-glitches/"><u>Fixing Windows-Based Valorant Audio Glitches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-counterfeit-chatgpt-chrome-app-could-be-hijacking-your-facebook-login-details/"><u>How the Counterfeit ChatGPT Chrome App Could Be Hijacking Your Facebook Login Details</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808107535-identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-x-fold-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo X Fold 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-12plus-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme 12+ 5G Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Tecno Bootloader Easily</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-efficiency-in-it-support-with-troubleshooters-shortcut-guide/"><u>Maximize Efficiency in IT Support with Troubleshooters Shortcut Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/missed-sd-card-display-how-to-locate-it-in-explorer/"><u>Missed SD Card Display: How to Locate It in Explorer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/optimize-your-safari-browser-4-effective-ways-for-quicker-iphone-surfing/"><u>Optimize Your Safari Browser - 4 Effective Ways for Quicker iPhone Surfing</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-disabled-cpu-cooling-mechanism-in-os/"><u>Reactivating Disabled CPU Cooling Mechanism in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-no-saving-problem-with-photoapp/"><u>Remedy for 'No Saving' Problem with PhotoApp</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-type-win-navigating-text-creation-using-windows-whisper/"><u>Speak, Type, Win: Navigating Text Creation Using Windows Whisper</u></a></li>
-<li><a href="https://win11.techidaily.com/synchronizing-qbittorrent-settings-between-multiple-windows-systems/"><u>Synchronizing qBittorrent Settings Between Multiple Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-utorrent-download-interruptions-on-pcs/"><u>Tackling uTorrent Download Interruptions on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-pin-modification/"><u>The Ultimate Guide to Windows PIN Modification</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-trim-windows-overscan-for-flawless-screen-match/"><u>Tips to Trim Windows Overscan for Flawless Screen Match</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-upgrade-top-5-tools-to-supercharge-your-pc/"><u>Turbo Upgrade: Top 5 Tools to Supercharge Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/why-you-should-prefer-windows-11-over-macos/"><u>Why You Should Prefer Windows 11 over MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1011-disk-management-a-comprehensive-walkthrough/"><u>Win 10/11 Disk Management: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-inside-the-settings-experience/"><u>Windows 11: Inside the Settings Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-subsystem-phaseout-strategizing-for-future-android-support/"><u>Windows Subsystem Phaseout: Strategizing for Future Android Support</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>[New] 2024 Approved Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/andtop7/"><u>人気の高いフリー動画音声変換ソフト&おすすめウェブサイトランキングTOP7</u></a></li>
+<li><a href="https://win11.techidaily.com/best-7-mp4-to-mkv-transcoding-tools-comprehensive-guide/"><u>Best 7 MP4 to MKV Transcoding Tools: Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/capture-your-favorite-episodes-how-to-set-up-unlimited-show-recording-on-philo-platforms/"><u>Capture Your Favorite Episodes: How to Set Up Unlimited Show Recording on Philo Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-browser-guide-successful-playback-of-avi-video-files/"><u>Chrome Browser Guide: Successful Playback of AVI Video Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y100 5G?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pioneering-video-sharing-techniques-in-zoom-and-tiktok/"><u>Pioneering Video Sharing Techniques in Zoom and TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-comprehensible-guide-to-leveraging-videos-for-social-media-success/"><u>The Comprehensible Guide to Leveraging Videos for Social Media Success</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-choosing-your-next-fitness-tracker/"><u>Top 5 Essential Factors to Evaluate When Choosing Your Next Fitness Tracker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-upload-made-easy-for-ios-devices-with-youtube-for-2024/"><u>Video Upload Made Easy for iOS Devices with YouTube for 2024</u></a></li>
 </ul></div>
 

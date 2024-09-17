@@ -1,0 +1,109 @@
+---
+title: Mastering Camera & Mic Permissions with Edge Guard
+date: 2024-09-13T22:43:51.645Z
+updated: 2024-09-17T00:58:36.629Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Mastering Camera & Mic Permissions with Edge Guard
+excerpt: This Article Describes Mastering Camera & Mic Permissions with Edge Guard
+keywords: Edge Guard Permissions,Camera Control Security,Microphone Accessibility,Secure Device Recording,Manage App Permissions,Privacy-Focused Access,Restrict Unauthorized Use
+thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c595922f616f6d67ab2cd3c7.jpg
+---
+
+## Mastering Camera & Mic Permissions with Edge Guard
+
+ Microsoft's Application Guard for Edge is a great tool to shield your browsing from malicious interference. For extra protection, both the camera and microphone are deactivated by default in this environment; however, there may be times when you need these features enabled to utilize certain web applications.
+
+ If that’s the case, follow this guide which will show you how to enable the camera and microphone in Application Guard for Edge on Windows 11\. ​​​​​​
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. How to Enable the Camera and Microphone via Windows Settings
+
+ To enable the camera and microphone in Application Guard for Edge, follow the steps below:
+
+1. Click on Start, type**Settings** and press**Enter** .
+2. On the left side of the screen, select**Privacy & security** .
+3. Click the**Windows Security** option on the right.
+4. Then, on the next screen, select**App & browser control** .
+5. In the new window that opens, click**Change Application Guard settings** under Isolated browsing.
+6. Look for the**Camera and microphone** option, and then toggle it on.  
+![Enable Camera and Microphone in Application Guard Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-camera-and-microphone-in-application-guard-using-windows-settings.jpg)
+7. If the UAC prompt appears, click**Yes** to continue.
+
+ After you perform the above action, restart your computer for the changes to take effect. Upon restarting, all your camera and microphone settings should now be applied to the Application Guard for Edge.
+
+ In case you need to turn off the feature again, just follow the same steps and toggle the Camera and microphone option to Off. That’s all there is to it.
+
+## 2\. How to Enable the Camera and Microphone Using Registry Editor
+
+ If you are more comfortable using the registry editor, you can enable your camera and microphone for Application Guard for Edge. All you need to do is open up the registry folder, make a few easy modifications, and restart your computer so that they can take effect.
+
+ However, before you make any changes, it's essential that you[create a backup of the registry file](https://www.makeuseof.com/tag/backup-restore-windows-registry/) just in case something goes wrong.
+
+ To enable your mic & camera with the help of this tool, follow these steps:
+
+1. Search for**regedit** in the Windows search bar and click on the result to open the registry editor. To find out more, see[how to open the registry](https://www.makeuseof.com/windows-11-open-registry-editor/) .
+2. When the UAC prompt appears, click**Yes** to confirm.
+3. In the Registry Editor window, go to the following location:  
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi  
+ Copy and paste the given location into the address bar at the top of the registry window and press Enter to quickly jump to the folder.
+4. If you don't see the**Hvsi** key there, you need to create it first. In order to do this, right-click on the**Microsoft** folder and select**New > Key** .
+5. Name the file**Hvsi** , then hit**Enter** to save it.  
+![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
+6. Right-click on Hvsi, choose**New > DWORD (32-bit) Value** , then name it**EnableCameraMicrophoneRedirection** .
+7. Now double-click on the newly created DWORD key, and you will see a pop-up window appear.
+8. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
+![Enable Camera and Microphone in Application Guard Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-camera-and-microphone-in-application-guard-using-registry-editor.jpg)
+9. Then click**OK** to save the changes.
+
+ Once you've done editing the registry, restart your computer to apply the changes. After restarting, Edge's Application Guard will be able to access your camera and microphone hardware for websites that require it.
+
+ If you want to revert the changes, simply set the EnableCameraMicrophoneRedirection key’s value back to**0** and restart your computer.
+
+## Your Camera and Mic Is Now Supported in Edge Application Guard
+
+ Application Guard for Edge is a tool that serves as an extra layer of protection from malicious websites and other threats. By default, your camera and microphone are disabled to ensure maximum security. In this guide, we've explained two quick ways in which you can easily activate these features - via Windows Settings or Registry Editor.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-use-social-blade-for-youtube-analytics-stats-and-how-to-use-them/"><u>[New] Use Social Blade for YouTube Analytics - Stats & How to Use Them</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-picks-of-screen-recording-applications-for-modern-windows-users-for-2024/"><u>[Updated] Top Picks of Screen Recording Applications for Modern Windows Users for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-a79-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo A79 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-connection-interruptions-for-nvidias-win-based-apps/"><u>Fixing Connection Interruptions for Nvidia's Win-Based Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-realme-narzo-60-5g-frp-by-drfone-android/"><u>How Can We Bypass Realme Narzo 60 5G FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/maximize-your-content-with-these-top-5-obs-tips-for-2024/"><u>Maximize Your Content with These Top 5 OBS Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-windows-11-fs-errors-swiftly/"><u>Reversing Windows 11 FS Errors Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-productive-with-solid-fixes-for-file-explorer-woes-in-win11/"><u>Stay Productive With Solid Fixes For File Explorer Woes in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tailor-your-experience-a-guide-to-optimizing-account-preferences-and-settings/"><u>Tailor Your Experience: A Guide to Optimizing Account Preferences and Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-clock-calibration-chrome-discrepancy-solution/"><u>Windows Clock Calibration: Chrome Discrepancy Solution</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

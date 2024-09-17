@@ -1,7 +1,7 @@
 ---
 title: Ending Recurring Edge Icon Placement
-date: 2024-09-11T09:45:50.432Z
-updated: 2024-09-12T09:45:50.432Z
+date: 2024-09-13T06:33:01.858Z
+updated: 2024-09-16T17:00:16.853Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Prevent Microsoft Edge From Opening at Startup
 
  By default, Microsoft Edge runs every time you start your Windows computer. Several users on the Microsoft forums reported fixing this particular issue by preventing Microsoft Edge from opening at startup. Hence, it’s the first thing you should try.
@@ -44,21 +37,7 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 4. Locate and select **Microsoft Edge** on the list. Right-click on it and select **Disabled** from the context menu.  
 ![Startup Apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Startup-Apps-in-Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Additionally, you should also [access the startup folder on your Windows PC](https://www.makeuseof.com/access-startup-folder-windows/) and delete any shortcuts labeled Microsoft Edge.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
 
@@ -104,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Restart your PC one more time and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove Microsoft Edge as the Default Browser
 
  Another reason why the Microsoft Edge shortcut may keep showing up on your Windows desktop is if you have set it as the default browser.
@@ -126,13 +112,20 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 6. Click **Apply** and then **OK**.  
 ![Using the Local Group Policy to Prevent Others From Changing Desktop Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Local-Group-Policy-to-Prevent-Others-From-Changing-Desktop-Icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that's about it. Once you make the above changes, the other users won't be able to create, modify, or delete your desktop icons.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Review Scheduled Tasks
@@ -150,31 +143,11 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Further, you can [restrict others from creating and running tasks in the Task Scheduler app](https://www.makeuseof.com/windows-block-task-manager/) by modifying the group policy settings or the registry files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Uninstall Microsoft Edge From Your PC
 
  If none of the above tips help, you can consider uninstalling Microsoft Edge to fix the problem. This can be useful if Microsoft Edge isn’t your preferred browser anyway.
 
  Use Command Prompt or PowerShell to [uninstall Microsoft Edge from your Windows computer](https://www.makeuseof.com/windows-11-uninstall-microsoft-edge/). Once you remove the browser, the issue should be resolved.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prevent Microsoft Edge From Appearing on Your Desktop
 
@@ -184,61 +157,6 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Fortunately, there's no requirement to manually delete the Edge desktop shortcut repeatedly. Here are some helpful tips that should help resolve the issue in no time.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-optimizing-content-editing-youtube-descriptions-and-titles-for-growth/"><u>[New] 2024 Approved Optimizing Content Editing YouTube Descriptions & Titles for Growth</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-method-for-changing-your-instagram-tone/"><u>[New] 2024 Approved Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-art-of-facebook-video-coverage-standout-tips-and-tricks/"><u>[New] In 2024, The Art of Facebook Video Coverage Standout Tips & Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-lenovo-perfecting-screen-capture-techniques/"><u>[New] Mastering Lenovo Perfecting Screen Capture Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-decor-best-platforms-and-software-for-photo-frameups/"><u>[Updated] In 2024, Digital Decor Best Platforms & Software for Photo Frameups</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-groundbreaking-webinar-name-builder/"><u>[Updated] In 2024, Groundbreaking Webinar Name Builder</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-visionary-flying-discover-the-q500-typhoon/"><u>[Updated] Visionary Flying - Discover the Q500 Typhoon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-high-quality-sound-memos/"><u>2024 Approved Expert Tips for High-Quality Sound Memos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-exploring-peak-performance-best-oculus-rift-players/"><u>2024 Approved Exploring Peak Performance Best Oculus Rift Players</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-the-secrets-of-premiere-pros-full-screen-magic/"><u>2024 Approved Unveiling the Secrets of Premiere Pro's Full Screen Magic</u></a></li>
-<li><a href="https://facebook.techidaily.com/6-changes-that-have-redirected-online-community-gatherings/"><u>6 Changes That Have Redirected Online Community Gatherings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accuracy-at-hand-editing-tiktoks-personal-info/"><u>Accuracy at Hand Editing TikTok's Personal Info</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breakthrough-media-tools-to-complement-xsplit/"><u>Breakthrough Media Tools to Complement XSplit</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-tips-for-dealing-with-system-calls-in-windows/"><u>Comprehensive Tips for Dealing With System Calls in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-win11s-systray-with-caps-lock-and-num-key-icons/"><u>Customizing Win11's SysTray with Caps Lock & Num Key Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-vac-was-unable-to-verify-your-game-session-error-on-steam-for-windows/"><u>How to Fix the “VAC Was Unable to Verify Your Game Session” Error on Steam for Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-xs-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone XS Without Previous Owner?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-13t-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi 13T.</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-cutting-through-clutter-standout-techniques-for-tiktok-stars/"><u>In 2024, Cutting Through Clutter Standout Techniques for TikTok Stars</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>In 2024, Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-seo-booster-essentials-for-top-online-videos/"><u>In 2024, SEO Booster Essentials for Top Online Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-graphics-enhancement-in-windows-11s-shielded-browsing/"><u>Innovative Graphics Enhancement in Windows 11'S Shielded Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-windows-settings-app-crashing-try-these-fixes/"><u>Is the Windows Settings App Crashing? Try These Fixes</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/joining-friends-showtime-on-tiktok-with-ease-for-2024/"><u>Joining Friends’ Showtime on TikTok with Ease for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-speech-to-text-the-whisper-desktop-way/"><u>Mastering Speech-to-Text: The Whisper Desktop Way</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-ai-hub-revolutionizing-retail-shopping/"><u>Microsoft AI Hub: Revolutionizing Retail Shopping</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-buffering-issues-on-chrome-and-youtube/"><u>Overcoming Buffering Issues on Chrome & YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-epic-launcher-errors-a-windows-fix-guide/"><u>Overcoming Epic Launcher Errors: A Windows Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-store-error-code-x00000000/"><u>Overcoming Windows 11 Store Error Code X00000000</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-resetting-synapse-for-smooth-operation/"><u>Quick Guide: Resetting Synapse for Smooth Operation</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedies-for-stalled-asana-functionality-in-windows-environment/"><u>Quick Remedies for Stalled Asana Functionality in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-for-windows-11s-software-folder-restarts/"><u>Quick-Fix Guide for Windows 11'S Software Folder Restarts</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cmd-prompt-lack-of-admin-privileges/"><u>Resolving Cmd Prompt Lack of Admin Privileges</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disk-read-error-on-windows-os/"><u>Resolving Disk Read Error on Windows OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-pairing-a-step-by-step-guide-on-syncing-your-airpods-with-macbook-air/"><u>Seamless Pairing: A Step-by-Step Guide on Syncing Your AirPods with MacBook Air</u></a></li>
-<li><a href="https://win11.techidaily.com/steam-game-achievement-reboot-guide/"><u>Steam Game Achievement Reboot Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-dns-flushing-in-modern-windows/"><u>Step-by-Step DNS Flushing in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-and-using-microsofts-code-assistant/"><u>Step-by-Step: Setting Up and Using Microsoft's Code Assistant</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-camera-non-storage-feedback/"><u>Tackling Windows Camera Non-Storage Feedback</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-companion-for-new-diablo-players/"><u>The Essential Companion for New Diablo Players</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-altering-nat-settings-on-modern-windows-systems/"><u>The Essential Guide to Altering NAT Settings on Modern Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-skillful-technique-to-obscure-window-11-search/"><u>The Skillful Technique to Obscure Window 11 Search</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-workflow-efficiency-mastering-flow-launcher-basics/"><u>Transform Workflow Efficiency: Mastering Flow Launcher Basics</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-persistent-windows-volume-mixer/"><u>Troubleshooting Non-Persistent Windows Volume Mixer</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-0x800f082f-with-dism/"><u>Troubleshooting Windows Error 0X800F082F with DISM</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-mastering-github-desktop-for-windows-based-developers/"><u>Tutorial: Mastering GitHub Desktop for Windows-Based Developers</u></a></li>
-<li><a href="https://win11.techidaily.com/unearthing-the-hidden-potential-of-windows-monitoring-systems/"><u>Unearthing the Hidden Potential of Windows Monitoring Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -246,3 +164,21 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-harvesting-hours-top-10-friendly-farm-gaming-experiences-for-2024/"><u>[New] Harvesting Hours Top 10 Friendly Farm Gaming Experiences for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-12-tycoons-where-every-decision-forges-your-path-to-glory/"><u>[New] In 2024, Top 12 Tycoons - Where Every Decision Forges Your Path to Glory</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleashing-the-full-power-of-apple-podcasts-downloads-for-2024/"><u>[New] Unleashing the Full Power of Apple Podcasts Downloads for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-building-immersive-thumbnails-for-igtv-videos/"><u>[Updated] Building Immersive Thumbnails for IGTV Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-who-are-the-kings-of-tiktok-gameplay-in-2024/"><u>[Updated] Who Are the Kings of TikTok Gameplay, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amp-up-your-pixel-with-top-download-links/"><u>2024 Approved Amp Up Your Pixel with Top Download Links</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-old-gaming-pics-on-windows-11-easy-guide/"><u>Access Old Gaming Pics on Windows 11 Easy Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-freebies-for-streamlining-webm-video-files-speedy-easy-techniques-for-online-reduction/"><u>Top 5 Freebies for Streamlining WebM Video Files - Speedy, Easy Techniques for Online Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/top-ranking-avcision-ultimate-guide-to-convert-dvds-to-avis-on-windows-10-and-11/"><u>Top-Ranking AVCision: Ultimate Guide to Convert DVDs to AVIs on Windows 10 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-asfmp4-conversion-tools-speeding-up-file-format-switching-with-best-practices/"><u>Ultimate ASF/MP4 Conversion Tools: Speeding Up File Format Switching with Best Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-acquiring-1440p-video-streams-from-youtube/"><u>Ultimate Techniques for Securely Acquiring 1440P Video Streams From YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/watch-on-the-go-how-to-effortlessly-save-movies-tv-episodes-and-songs-for-offline-enjoyment/"><u>Watch On the Go: How to Effortlessly Save Movies, TV Episodes & Songs for Offline Enjoyment</u></a></li>
+<li><a href="https://win11.techidaily.com/wma-to-mp3-or-other-formats-the-easy-free-way-of-converting-your-music-without-spending-a-dime/"><u>WMA to MP3 or Other Formats - The Easy, FREE Way of Converting Your Music Without Spending a Dime</u></a></li>
+</ul></div>
+

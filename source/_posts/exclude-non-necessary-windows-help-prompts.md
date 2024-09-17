@@ -1,7 +1,7 @@
 ---
 title: Exclude Non-Necessary Windows Help Prompts
-date: 2024-09-11T09:46:38.487Z
-updated: 2024-09-12T09:46:38.487Z
+date: 2024-09-14T02:47:44.319Z
+updated: 2024-09-17T04:20:17.618Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Turn Off or Disable Tips and Suggestions Notifications in Windows 11
 
  Tips and suggestions provide quick guides to Windows and its features. But if you find them annoying, you can turn them off. Here are two easy methods to turn off tips and suggestions notifications on Windows 11\.
@@ -46,30 +39,10 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 ![Open System Notification Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-system-notification-section.jpg)
 4. Next, scroll down to the bottom and expand **Additional settings**.  
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Get tips and suggestions when using Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/get-tips-and-suggestions-when-using-windows.jpg)
 5. You will see a checkbox labeled **Get tips and suggestions when using Windows**. Uncheck it to turn off this feature.
 
  Now, you will not see any tips and suggestions notifications on your computer. If later you wish to re-enable this feature, follow the same steps outlined above and check the "Get tips and suggestions when using Windows" checkbox. Doing this will enable tips and suggestions notifications on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Turn Off Tips and Suggestions Using a REG File
 
@@ -88,16 +61,16 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 
  This will turn off tips and suggestions notifications in Windows 11\. To enable these notifications once again, delete the file you just created. Alternatively, double-click on it and click **No** in the confirmation dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Tips and Suggestions Notifications in Windows 11
 
  If you prefer to disable tips and suggestions notifications on your computer completely, there are several options available. You can utilize the Group Policy Editor, modify the registry editor, or create a REG file. Let's explore each method in detail to disable this feature.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Disable Tips and Suggestions Notifications Using Group Policy Editor
 
@@ -115,19 +88,6 @@ Computer Configuration > Administrative Templates > Windows Components > Cloud C
 6. Click **Apply** \> **OK** to save the changes.
 
  Now, tips and suggestions notifications will be completely disabled on your computer. To re-enable the feature, follow the same steps and select the **Not Configured** or **Disabled** radio button instead.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Disable Tips and Suggestions Notifications Using the Registry Editor
 
@@ -149,6 +109,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  After restarting, tips and suggestions notifications will be disabled on your computer. If you want to enable the feature, follow the same steps and change the Value data to **0**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Disable Tips and Suggestions Notifications Using a REG File
 
  You can also create a REG file to turn off tips and suggestions notifications on your Windows PC. This method is quite similar to the one we discussed above. However, the process is easier for those with little experience editing registry files.
@@ -167,10 +134,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
  That’s it! Tips and suggestions feature is now disabled on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop the Windows Tips and Suggestions Notifications
@@ -179,53 +146,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-gps-companions-top-10-drones-that-stay-close-for-2024/"><u>[Updated] GPS Companions Top 10 Drones That Stay Close for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-capture-and-share-your-games-online-for-2024/"><u>[Updated] How to Capture and Share Your Games Online for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-audio-dialogue-recorder/"><u>[Updated] In 2024, Audio Dialogue Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-music-to-imovie-from-youtube/"><u>[Updated] In 2024, How to Add Music to iMovie From YouTube?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-close-up-views-on-ms-teams/"><u>[Updated] Mastering Close-Up Views on MS Teams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swift-windows-insight-sharing-methods/"><u>[Updated] Swift Windows Insight Sharing Methods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unparalleled-mac-capture-tools-assessed-for-2024/"><u>[Updated] Unparalleled Mac Capture Tools Assessed for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-riches-with-best-hash-tags-tips/"><u>[Updated] YouTube Riches with Best Hash Tags Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-c12-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-launching-an-engaging-fb-giving-event/"><u>2024 Approved Launching an Engaging FB Giving Event</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-tips-for-dealing-with-system-calls-in-windows/"><u>Comprehensive Tips for Dealing With System Calls in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-win11s-systray-with-caps-lock-and-num-key-icons/"><u>Customizing Win11's SysTray with Caps Lock & Num Key Icons</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-excellence-with-the-samsung-qn55q3u-the-ultimate-smart-tv-for-vivid-4k-viewing-and-more/"><u>Discovering Excellence with the Samsung QN55Q3U - The Ultimate Smart TV for Vivid 4K Viewing and More</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effective-tactics-for-customizing-song-tempo-in-spotify/"><u>Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-computer-components-toms-tech-hub/"><u>Expert Insights on Latest Computer Components - Tom's Tech Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/file-organization-breakthroughs-with-simultaneous-window-folders/"><u>File Organization Breakthroughs with Simultaneous Window Folders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software-for-2024/"><u>From Novice to Expert A Comprehensive Guide to Mac's Preview Software for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-windows-settings-app-crashing-try-these-fixes/"><u>Is the Windows Settings App Crashing? Try These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-speech-to-text-the-whisper-desktop-way/"><u>Mastering Speech-to-Text: The Whisper Desktop Way</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-reactivate-nonfunctional-nvidia-cp/"><u>Methods to Reactivate Nonfunctional Nvidia CP</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-ai-hub-revolutionizing-retail-shopping/"><u>Microsoft AI Hub: Revolutionizing Retail Shopping</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-for-windows-11s-software-folder-restarts/"><u>Quick-Fix Guide for Windows 11'S Software Folder Restarts</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disk-read-error-on-windows-os/"><u>Resolving Disk Read Error on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-dns-flushing-in-modern-windows/"><u>Step-by-Step DNS Flushing in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-the-roblox-must-close-warning-in-windows/"><u>Steps to Eliminate the 'Roblox Must Close' Warning in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/stream-gaming-secrets-integrating-intelligence-with-intel/"><u>Stream Gaming Secrets: Integrating Intelligence with Intel</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-background-services-on-windows/"><u>Streamlining Background Services on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-skillful-technique-to-obscure-window-11-search/"><u>The Skillful Technique to Obscure Window 11 Search</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-video-enhancement-playbook-for-2024/"><u>The Ultimate Zoom Video Enhancement Playbook for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-3-methods-for-converting-mkv-files-into-mov-format-on-pc-and-mac/"><u>Top 3 Methods for Converting MKV Files Into MOV Format on PC & Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/track-down-absent-control-settings-on-your-new-pc/"><u>Track Down Absent Control Settings on Your New PC</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-persistent-windows-volume-mixer/"><u>Troubleshooting Non-Persistent Windows Volume Mixer</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-0x800f082f-with-dism/"><u>Troubleshooting Windows Error 0X800F082F with DISM</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-mastering-github-desktop-for-windows-based-developers/"><u>Tutorial: Mastering GitHub Desktop for Windows-Based Developers</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-giants-identifying-heavy-disk-space-usage-on-pcs/"><u>Uncovering Giants: Identifying Heavy Disk Space Usage on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-potential-of-your-itunes-recordings-for-2024/"><u>Unlocking the Potential of Your iTunes Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/vibrant-video-vibes-merging-melodies-with-media/"><u>Vibrant Video Vibes Merging Melodies with Media</u></a></li>
-<li><a href="https://win11.techidaily.com/win-operating-system-customize-how-you-handle-file-deletions/"><u>Win Operating System: Customize How You Handle File Deletions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -233,3 +153,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-uniting-visuals-the-art-of-video-sequence-composition/"><u>[New] Uniting Visuals The Art of Video Sequence Composition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok-for-2024/"><u>[Updated] Bringing Anime Characters to Life Jujutsu Kaisen for TikTok for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funny-faces-for-iphone-users/"><u>2024 Approved Funny Faces for iPhone Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-guide-to-valheim-sowing-seeds/"><u>2024 Approved Ultimate Guide to Valheim Sowing Seeds</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-and-performance-of-the-open-source-linksys-wrt1900acs-wifi-router/"><u>Exploring the Features and Performance of the Open Source Linksys WRT1900ACS WiFi Router</u></a></li>
+<li><a href="https://win11.techidaily.com/flacipad/"><u>FLAC形式の音楽ファイルをiPad上でどのように再生しますか？</u></a></li>
+<li><a href="https://win11.techidaily.com/free-theme-song-downloads-a-hassle-free-guide/"><u>Free Theme Song Downloads: A Hassle-Free Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/from-disc-to-cloud-master-the-art-of-free-dvd-to-digital-copy-creation/"><u>From Disc to Cloud: Master the Art of Free DVD-to-Digital Copy Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/get-crystal-clear-images-anytime-the-ultimate-guide-to-dvd-upgrading-for-high-definition-enjoyment/"><u>Get Crystal Clear Images Anytime: The Ultimate Guide to DVD Upgrading for High Definition Enjoyment</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-capturing-audio-and-video-together-on-windows-1011/"><u>Guide: Capturing Audio and Video Together on Windows 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/humor-algorithms-at-play-can-tech-tickle-funny-bone/"><u>Humor Algorithms at Play: Can Tech Tickle Funny Bone?</u></a></li>
+<li><a href="https://win11.techidaily.com/import-your-mov-videos-hassle-free-expert-tips-for-using-windows-movie-maker-on-a-budget/"><u>Import Your MOV Videos Hassle-Free: Expert Tips for Using Windows Movie Maker on a Budget</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-filters-a-2023-guide-to-enhanced-photography/"><u>In 2024, Instagram Filters A 2023 Guide to Enhanced Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-the-crew-add-on-successfully-a-step-by-step-guide-for-kodi-users-nexusmatrix/"><u>Installing the Crew Add-On Successfully: A Step-by-Step Guide for Kodi Users (Nexus/Matrix)!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const107/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm</u></a></li>
+<li><a href="https://blog-min.techidaily.com/verwandeln-sie-ihre-videos-schnell-fur-instagram-professionelle-instagram-video-konverter-in-mp4-format/"><u>Verwandeln Sie Ihre Videos Schnell Für Instagram – Professionelle Instagram Video Konverter in MP4 Format</u></a></li>
+</ul></div>
+

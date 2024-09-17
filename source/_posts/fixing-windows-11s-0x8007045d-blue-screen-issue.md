@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11'S 0X8007045D Blue Screen Issue
-date: 2024-09-11T09:47:25.293Z
-updated: 2024-09-12T09:47:25.293Z
+date: 2024-09-10T06:22:58.186Z
+updated: 2024-09-17T01:52:41.111Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're done, check and see if the 0x8007045d error persists.
 
 ## 2\. Restart Your PC
@@ -66,19 +59,6 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
@@ -86,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
@@ -107,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
- As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
 
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
@@ -123,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Check for Driver Errors
@@ -138,19 +124,6 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 3. Select**Update driver** to begin the update of your driver.
 
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
 
@@ -175,45 +148,20 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>[Updated] 2024 Approved Crafting Your Perfect YouTube Playlists A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-brilliance-in-canon-photos-with-free-and-premium-luts/"><u>[Updated] Capture Brilliance in Canon Photos with Free and Premium LUTs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-diy-templates-for-affordable-youtube-intros-for-2024/"><u>[Updated] DIY Templates for Affordable YouTube Intros for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>[Updated] In 2024, Enhancing Viewers' Staying Power Top 6 Strategies for YouTube Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>2024 Approved The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-text-alterations-with-snipping-tool/"><u>Cutting Edge Text Alterations with Snipping Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/de-jam-your-devices-top-9-solutions-for-unstuck-windows-setup/"><u>De-Jam Your Devices: Top 9 Solutions for Unstuck Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-steam-authentication-errors-a-rust-powered-windows-approach/"><u>Dealing with Steam Authentication Errors: A Rust-Powered Windows Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/ensure-your-windows-screenscape-remains-same/"><u>Ensure Your Windows Screenscape Remains Same</u></a></li>
-<li><a href="https://win11.techidaily.com/evade-windows-sign-in-sequence-with-short-term-profiles/"><u>Evade Windows Sign-In Sequence with Short-Term Profiles</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-a-non-functional-xbox-controller-for-pc/"><u>Fixing a Non-Functional Xbox Controller for PC</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-11-installer-issues-effectively/"><u>Fixing Windows 11 Installer Issues Effectively</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/getting-started-with-iphone-speech-recordings/"><u>Getting Started with iPhone Speech Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-runtime-failure-tips-for-correcting-malwarebytes-execution-errors-on-win10win11/"><u>Handling Runtime Failure: Tips for Correcting Malwarebytes' Execution Errors on Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-upgrading-made-simple-a-compreomedmacsierra-guide/"><u>In 2024, Upgrading Made Simple A CompreomedmacSierra Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/interface-revamp-visualizing-disk-and-network-resources/"><u>Interface Revamp: Visualizing Disk and Network Resources</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-notes-at-the-forefront-on-win-oses/"><u>Keep Your Notes at the Forefront on Win OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/making-desktops-come-alive-with-sketches/"><u>Making Desktops Come Alive with Sketches</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-remedy-for-error-code-0x80071a90/"><u>Mastering the Remedy for Error Code: 0X80071A90</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-globally-advanced-mouse-techniques-in-powertoys/"><u>Navigating Globally: Advanced Mouse Techniques in PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-nooks-overcoming-obs-connectivity-concerns-7-ways/"><u>Navigating Network Nooks: Overcoming OBS Connectivity Concerns (7 Ways)</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-search-troubleshooting-steps/"><u>Navigating Through Windows Search Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-blue-screen-interrupt-exception-fix/"><u>Overcoming Blue Screen: Interrupt Exception Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/power-surprise-camouflaging-the-shutdown-icon-in-win11/"><u>Power Surprise: Camouflaging the Shutdown Icon in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/powerrename-the-essential-tool-for-files/"><u>PowerRename: The Essential Tool for Files</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-win11-vagrant-start-issues-with-7-effective-approaches/"><u>Resolve Win11 Vagrant Start Issues with 7 Effective Approaches</u></a></li>
-<li><a href="https://win11.techidaily.com/responding-to-noninteractive-elements-in-new-windows-release/"><u>Responding to Noninteractive Elements in New Windows Release</u></a></li>
-<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-correct-opengl-error-3-in-nvidia-gpus-win1011/"><u>Strategies to Correct OpenGL Error 3 in Nvidia GPUs (Win10/11)</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-for-win-rpc-errors-a-quick-guide/"><u>Swift Solutions for Win RPC Errors - A Quick Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-system-solutions-the-essential-10-tools/"><u>Swift System Solutions: The Essential 10 Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-overcoming-non-registered-devices-issue/"><u>Understanding & Overcoming Non-Registered Devices Issue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-av1-your-initial-compre-point-for-2024/"><u>Understanding AV1 Your Initial Compre Point for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-disk-space-insights-via-powershell-scripts/"><u>Unlocking Disk Space Insights via PowerShell Scripts</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>Updated In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgraded-low-cost-microsoft-365-entry-level-plan-unlocks-extra-capabilities-for-users/"><u>Upgraded Low-Cost Microsoft 365 Entry-Level Plan Unlocks Extra Capabilities for Users</u></a></li>
-<li><a href="https://win11.techidaily.com/win-back-missing-windows-top-tips-for-offscreen-recovery-in-windows-11/"><u>Win Back Missing Windows: Top Tips for Offscreen Recovery in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-teammers-your-screens-puzzle/"><u>Windows Teammers, Your Screen's Puzzle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-5-screen-capture-utilities-for-windows-users/"><u>[New] 2024 Approved Top 5 Screen Capture Utilities for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-become-a-youtube-gif-wizard-your-complete-online-transformation-tutorial-for-2024/"><u>[New] Become a Youtube Gif Wizard Your Complete Online Transformation Tutorial for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-capture-the-moment-an-examination-of-camstudio/"><u>[New] In 2024, Capture the Moment An Examination of CamStudio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[New] In 2024, Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-slomo-videography-tool-assessment/"><u>[New] Ultimate SloMo Videography Tool Assessment</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-strategies-for-universal-zoom-availability-across-platforms/"><u>[Updated] Strategies for Universal Zoom Availability Across Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-installing-titanium-kodi-skin-across-various-kodi-editions/"><u>A Comprehensive Guide to Installing Titanium Kodi Skin Across Various Kodi Editions</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-youtubes-limits-tips-to-fix-stalled-video-encoding-at-critical-percentages/"><u>Bypass YouTube's Limits: Tips to Fix Stalled Video Encoding at Critical Percentages</u></a></li>
+<li><a href="https://win11.techidaily.com/canva-tutorial-mastering-video-sound-adjustments-eliminating-or-incorporating-audio-seamlessly/"><u>Canva Tutorial: Mastering Video Sound Adjustments - Eliminating or Incorporating Audio Seamlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-youtube-video-extraction-dumpertnls-top-4-strategies-unveiled/"><u>Mastering the Art of YouTube Video Extraction: Dumpert.nl's Top 4 Strategies Unveiled!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New 2024 Approved How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-audio-amplifier-a-user-friendly-guide-to-boosting-sound-clarity/"><u>Top-Rated Audio Amplifier: A User-Friendly Guide to Boosting Sound Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-fixing-the-causes-behind-the-0xc00d3e8c-error-in-windows-11/"><u>Troubleshooting Guide: Fixing the Causes Behind the 0XC00D3E8C Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-converting-ogv-audio-files-to-mp3-format-on-your-windows-pc/"><u>Ultimate Guide: Converting OGV Audio Files to MP3 Format on Your Windows PC</u></a></li>
 </ul></div>
 

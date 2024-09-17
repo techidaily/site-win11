@@ -1,7 +1,7 @@
 ---
 title: Removing Administrator Overrides on Windows Safety Features
-date: 2024-09-11T09:41:24.088Z
-updated: 2024-09-12T09:41:24.088Z
+date: 2024-09-13T17:19:21.273Z
+updated: 2024-09-16T20:19:22.338Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  If you're not sure how to do this, visit[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for a step-by-step guide.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Reset the Windows Security and Settings Apps
 
  Users who’ve fixed the “setting is managed by your administrator” error have confirmed resetting the Windows Security and Settings apps can work. Resetting those apps will clear their data. You can reset Windows Security via Settings, as outlined in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) guide.
@@ -52,14 +45,14 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
 ![The uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstaller-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Should this solution work, the issue will likely reoccur if you reinstall the same third-party antivirus virus software. Then you would have to choose between using the third-party antivirus utility or Windows Security.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Registry
 
@@ -73,22 +66,15 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 ![The HypervisorEnforced registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hypervisor-key.jpg)
 5. Clear the**Data value** box, and then input**0** there.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select**OK** to set the**Enabled** DWORD’s value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-window.jpg)
 7. Exit Registry Editor and click the**Power** \>**Restart** Start menu options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Set Group Policy’s Real-time Protection Settings to "Not Configured"
@@ -106,21 +92,7 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall Windows Security
 
@@ -132,20 +104,14 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 ![The reinstall app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reinstall-app-command.jpg)
 3. Press**Enter** and wait for the command to finish.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your laptop or desktop from the Start menu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
 
@@ -157,17 +123,18 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-setup-window.jpg)
 4. Select**Next** to initiate a system check.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Press the**Accept** button for the license terms.
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Install** to reinstall Windows 11.
 
 ## Change Windows Security’s Settings Again
@@ -189,54 +156,15 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-choosing-a-professional-video-editor-filmora-against-democreator/"><u>[New] 2024 Approved Choosing a Professional Video Editor Filmora Against Democreator</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-deciphering-ffmpegs-audio-conversion-quirks/"><u>[New] Deciphering FFmpeg's Audio Conversion Quirks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-6-budget-friendly-4k-sharp-projectors/"><u>[New] Top 6 Budget-Friendly 4K Sharp Projectors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-garmins-action-camera-triumph-a-comprehensible-look-at-ultra-30/"><u>2024 Approved Garmin's Action Camera Triumph - A Comprehensible Look at Ultra 30</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-premium-and-basic-win-driven-design-applications-guide/"><u>2024 Approved Premium & Basic Win-Driven Design Applications Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-for-using-windows-canary-service/"><u>Comprehensive Guide for Using Windows' Canary Service</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-prime-locations-for-buying-cutting-edge-cell-phones/"><u>Discover Prime Locations for Buying Cutting-Edge Cell Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-boot-up-windows-startup-with-notebooks-available/"><u>Efficient Boot-Up: Windows Startup with Notebooks Available</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-network-drive-configuration-for-enhanced-workflow/"><u>Efficient Network Drive Configuration for Enhanced Workflow</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-personalized-shortcut-keys/"><u>Elevate Your Workflow: Personalized Shortcut Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-disabled-obstacles-for-executing-powershell-scripts/"><u>Eliminating 'Disabled' Obstacles for Executing PowerShell Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-xbox-service-interruptions-in-windows-os/"><u>Eliminating Xbox Service Interruptions in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-11-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hdr-video-power-windows-edition-explained/"><u>HDR Video Power Windows Edition Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-windows-update-issue-code-x80246007/"><u>How To Quickly Resolve Windows Update Issue Code X80246007</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-broken-audio-connections-dealing-with-a-deadheadphone-jack-on-your-computer-system/"><u>How to Repair Broken Audio Connections: Dealing with a Deadheadphone Jack on Your Computer System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-set-up-dual-monitors-on-windows-10/"><u>How to Set Up Dual Monitors on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/ice-apply-cold-packs-or-ice-wrapped-in-a-cloth-for-15-20-minutes-every-hour-on-the-first-day-then-reduce-frequency-as-swelling-subsides-icing-helps-minimize400/"><u>Ice: Apply Cold Packs or Ice Wrapped in a Cloth for 15-20 Minutes Every Hour on the First Day, Then Reduce Frequency as Swelling Subsides. Icing Helps Minimize Inflammation and Numbs Pain.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-poco-c55-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Poco C55?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unveiling-5-compelling-literary-video-tts/"><u>In 2024, Unveiling 5 Compelling Literary Video TTs</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-tcpip-with-python-servers-on-windows-networks/"><u>Leveraging TCP/IP with Python Servers on Windows Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-exclusive-access-to-insider-batches/"><u>Maintaining Exclusive Access to Insider Batches</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-recovery-conquering-blue-screen-errors/"><u>Mastering System Recovery: Conquering Blue Screen Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-display-scaling-in-windows-11/"><u>Modify Display Scaling in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/msc-troubleshooting-restoring-windows-print-management/"><u>MSC Troubleshooting: Restoring Windows Print Management</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-web-visiting-tools-a-compreran-test-of-lightweight-browsers/"><u>Optimal Web Visiting Tools: A Compreran Test of Lightweight Browsers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80070003-during-system-upgrades/"><u>Overcoming Windows Error: 0X80070003 During System Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-block-after-failure/"><u>Overcoming Windows Login Block After Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpointing-windows-model-years-simplified/"><u>Pinpointing Windows Model Years Simplified</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-self-triggered-terminal-displays-in-windows/"><u>Preventing Self-Triggered Terminal Displays in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-multiple-ms-users-error-on-windows/"><u>Resolving Multiple MS Users' Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-brightness-overcoming-dark-screen-problems/"><u>Restoring Brightness: Overcoming Dark Screen Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-the-impact-of-glitches-winvolume-fix-guide/"><u>Reverse the Impact of Glitches: WinVolume Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-retro-games-achievement-integration-with-retroarch-tips/"><u>Revitalizing Retro Games: Achievement Integration with Retroarch Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-15-ways-to-reach-windows-settings/"><u>Simplify: 15 Ways to Reach Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-windows-security-today-with-free-desktop-pass-gen-apps/"><u>Step Up Windows Security Today With Free Desktop Pass Gen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-approach-to-remedy-error-0x80070570-and-file-corruption-in-windows-11/"><u>Strategic Approach to Remedy Error 0X80070570 & File Corruption in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-windows-experience-resetting-apps/"><u>Streamlining Your Windows Experience: Resetting Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-common-iphone-image-management-challenges-a-comprehensive-guide/"><u>Troubleshooting Common iPhone Image Management Challenges - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-ios-photo-importers-on-windows-11/"><u>Troubleshooting iOS Photo Importers on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/vivetool-steps-for-windows-copilot-enablement/"><u>ViveTool Steps for Windows Copilot Enablement</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-win32keygen-an-analysis-of-its-threats-and-remediation-processes-for-pcs/"><u>What's Win32/Keygen? An Analysis of Its Threats & Remediation Processes for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-reset-triggers-top-10-tips/"><u>Windows Reset Triggers: Top 10 Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elite-enumerations-best-online-spots-to-download-snapalert-music/"><u>[New] Elite Enumerations Best Online Spots to Download SnapAlert Music</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-phone-lens-magic-creating-high-horizons/"><u>[New] Phone Lens Magic Creating High Horizons</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-list-compelling-complimentary-windows-11-aids/"><u>Exclusive List: Compelling, Complimentary Windows 11 Aids</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y100i-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y100i Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-winstall-for-bulk-app-setup-in-the-latest-windows-11/"><u>Leveraging Winstall for Bulk App Setup in the Latest Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-safety-on-the-road-with-the-pruveeo-1080p-full-hd-action-camera-reviews-inside/"><u>Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-alert-malfunctions-in-microsoft-mail-app/"><u>Methods to Rectify Alert Malfunctions in Microsoft Mail App</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-webpage-loaders-in-microsoft-stores/"><u>Overcoming Failed Webpage Loaders in Microsoft Stores</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/premier-cell-phone-upgrade-deals-on-verizon-in-the-month-of-month/"><u>Premier Cell Phone Upgrade Deals on Verizon in the Month of [Month]</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-the-art-of-selecting-an-audience-focused-audio-professional/"><u>Updated Mastering the Art of Selecting an Audience-Focused Audio Professional</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essence of Windows EXE and PE Files
-date: 2024-09-11T09:38:27.740Z
-updated: 2024-09-12T09:38:27.740Z
+date: 2024-09-09T21:43:33.098Z
+updated: 2024-09-17T09:01:08.316Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,9 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is a Windows Portable Executable File?
 
 ![laptop with code on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Before exploring the Windows Portable Executable format, it's important to clear up the basics. Let's take a step back and learn about the underlying concept of Windows PE—COFF.
 
@@ -54,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
  It contains sections and headers which provide information about the executable in question and helps the system loader manage data related to the executable. The headers in a PE file help the system loader map the file onto the memory, resolve dependencies such as API exports/imports, manage resources and prepare the file for execution.
 
  Linux also has its own iteration of the COFF; it's called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the**file command** on Linux with the filename as the first argument.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Structure of a Windows Portable Executable
 
@@ -86,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
  The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Section Headers
@@ -99,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
  The flags associated with each section header can indicate various attributes of the section, such as whether it is executable, writable, or readable. These flags help the operating system to properly load and manage the contents of each section during program execution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Sections
 
  The sections themselves comprise the executable's real code, data, and resources. Each segment is aligned to a certain memory boundary and has its own set of attributes that affect how the operating system handles it.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Now You Know All About the Windows Portable Executable File Format
 
@@ -137,56 +109,17 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-backdrop-switches-for-google-meet-users-for-2024/"><u>[New] Seamless Backdrop Switches for Google Meet Users for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-filter-frenzy-unleash-the-power-of-10-innovative-tools/"><u>[Updated] In 2024, Filter Frenzy Unleash the Power of 10 Innovative Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-skype-recorder-guide/"><u>[Updated] In 2024, The Ultimate Skype Recorder Guide</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/abbyy-leading-the-pack-in-gartners-2024-magic-quadrant-assessment-of-process-mining-solutions/"><u>ABBYY Leading the Pack in Gartner's 2024 Magic Quadrant Assessment of Process Mining Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/augmenting-film-quality-integrating-letterboxing-in-digital-spaces-for-2024/"><u>Augmenting Film Quality Integrating Letterboxing in Digital Spaces for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/can-your-tv-play-facebook-content-like-youtube-now-for-2024/"><u>Can Your TV Play Facebook Content Like YouTube Now for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-walkthrough-for-integrating-virtual-games-in-playnite/"><u>Comprehensive Walkthrough for Integrating Virtual Games in Playnite</u></a></li>
-<li><a href="https://win11.techidaily.com/conceal-non-active-applications-in-win11/"><u>Conceal Non-Active Applications in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/containing-insider-versions-to-trusted-users/"><u>Containing Insider Versions to Trusted Users</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-personalized-inactivity-timer-in-windows/"><u>Crafting Personalized Inactivity Timer in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/dial-down-devices-the-fast-route-to-silence-windows-11/"><u>Dial Down Devices: The Fast Route to Silence Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/discovering-your-lately-watched-fb-movies-made-simple-for-2024/"><u>Discovering Your Lately Watched Fb Movies Made Simple for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-commands-open-screenshots-utility-in-win-11/"><u>Efficient Commands: Open Screenshots Utility in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-hibernate-for-idle-windows-1011-users/"><u>Effortless Hibernate for Idle Windows 10/11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-w11s-notepad-through-intelligent-assistance/"><u>Elevate W11's Notepad Through Intelligent Assistance</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-0x80246007-a-guide-to-win11-updates/"><u>Eliminating 0X80246007: A Guide to Win11 Updates</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-madden-19-excellent-game-mechanics-marred-by-older-elements/"><u>Exploring Madden 19: Excellent Game Mechanics Marred by Older Elements</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-non-empty-directory-error-code-0x80070091-in-win11/"><u>How to Correct Non-Empty Directory Error (Code: 0X80070091) in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-repair-a-non-functional-windows-search/"><u>How to Quickly Repair a Non-Functional Windows Search</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-correct-aspect-ratio-when-converting-dvd-vobs-to-mp4-using-handbrake/"><u>How to Restore Correct Aspect Ratio when Converting DVD VOBs to MP4 Using HandBrake</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2021-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2021 document online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-moto-g24-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola Moto G24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expressive-beginnings-templates-at-no-charge/"><u>In 2024, Expressive Beginnings Templates at No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-local-admin-login-turn-off-secure-answers-in-windows-11/"><u>Mastering Local Admin Login: Turn Off Secure Answers in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/modifying-password-reset-timeframe-post-failure-in-win-1011/"><u>Modifying Password Reset Timeframe Post-Failure in Win 10/11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/most-prevalent-overseas-dialects-studied-in-the-states/"><u>Most Prevalent Overseas Dialects Studied in the States</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-printer-hurdles-on-the-latest-windows-version/"><u>Overcoming Printer Hurdles on the Latest Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-store-failure-error-0x80073d26/"><u>Overcoming Windows Store Failure: Error 0X80073D26</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>Pinnacle of Presence A Strategic Approach for Live Video Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/premium-weather-tech-for-windows-users/"><u>Premium Weather Tech for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/proactive-measures-to-escape-windows-login-attempts/"><u>Proactive Measures to Escape Windows Login Attempts</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-type-speed-with-windows-tools/"><u>Skyrocket Your Type-Speed with Windows Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-repairing-corrupted-fat-files-on-windows-10/"><u>Step-by-Step Solution for Repairing Corrupted FAT Files on Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-how-to-eliminate-crash-dump-files-in-windows-11/"><u>Step-by-Step Tutorial: How to Eliminate Crash Dump Files in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-windows-save-permission-mishaps/"><u>Steps to Address Windows Save Permission Mishaps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-edge-settings-to-reduce-processes/"><u>Tailoring Edge Settings to Reduce Processes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-edge-enhancements-in-windows-10-release-for-2024/"><u>The Edge Enhancements in Windows 10 Release for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-checklist-for-clean-windows-installations/"><u>The Ultimate Checklist for Clean Windows Installations</u></a></li>
-<li><a href="https://win11.techidaily.com/tiny-tech-giants-running-microsoft-os/"><u>Tiny Tech Giants Running Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-dealing-with-failed-ms-store-app-downloads/"><u>Tips for Dealing with Failed MS Store App Downloads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-triumph-a-comprehensive-approach-to-fixing-stop-0x0000007b-bsod-glitches/"><u>Troubleshooting Triumph: A Comprehensive Approach to Fixing STOP 0X0000007B BSOD Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-off-windows-monochrome-theme-blanket/"><u>Turning Off Windows' Monochrome Theme Blanket</u></a></li>
-<li><a href="https://fox-info.techidaily.com/understanding-av1-your-initial-compre-point-for-2024/"><u>Understanding AV1 Your Initial Compre Point for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-peak-performance-with-these-5-powerful-windows-apps/"><u>Unleash Peak Performance with These 5 Powerful Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-optimal-phone-integration-in-windows-11-innovations/"><u>Unlocking Optimal Phone Integration in Windows 11 Innovations</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11-help-application-issues/"><u>Unlocking Windows 11 Help Application Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools/"><u>Updated Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mp4-made-easy-converting-and-downloading-4k-videos-simplified-for-2024/"><u>Updated MP4 Made Easy Converting and Downloading 4K Videos Simplified for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-microsoft-copilot-how-to-use-copilot-in-windows/"><u>What Is Microsoft Copilot? How to Use Copilot in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-import-melodies-into-premiere-pro-projects/"><u>[New] Import Melodies Into Premiere Pro Projects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premium-mac-programming-solutions-excluded-from-bandicam/"><u>[Updated] 2024 Approved Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevate-your-visual-storytelling-advanced-zooming-on-snapchat/"><u>[Updated] Elevate Your Visual Storytelling Advanced Zooming on Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/1-efficient-remedies-to-overcome-unable-to-play-video-error-5-step-by-step-guide/"><u>1. Efficient Remedies to Overcome 'Unable to Play Video' Error 5: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-av-producers-roundup-online/"><u>2024 Approved Essential AV Producers' Roundup Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-premier-8k-capture-the-ultimate-camera-guide/"><u>2024 Approved Premier 8K Capture The Ultimate Camera Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029921217-20246/"><u>2024年最高のオンラインビデオ編集プラットフォームベスト6</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028126651-avchd/"><u>二つのアプローチでAVCHDファイルを効果的にスライシング</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-of-youtube-video-dimensions-and-resolution-for-2024/"><u>Unveiling the Secrets of YouTube Video Dimensions & Resolution for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028587575-dvd/"><u>トラブルシューティング: DVDプレイヤーでエラー発生時の原因分析・修正手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Access Management on Windows 11
-date: 2024-09-11T09:41:40.580Z
-updated: 2024-09-12T09:41:40.580Z
+date: 2024-09-12T18:09:48.154Z
+updated: 2024-09-16T23:35:16.060Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  Restarting the printer is a simple possible fix that’s worth a try. The printer could be stuck with a preceding request, which applying this solution might resolve. So, power off your printer for a few minutes and then turn it back on to see if that makes a difference.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Deselect the "Allow Windows to Manage My Default Printer" Option
 
  The **Allow Windows to manage my default printer** option sets the most recently used printer to be the default one when enabled. This can cause issues if the printer with which you’re trying to print isn’t set as default. You can turn off that setting as follows:
@@ -54,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 5. Then select your printer in Setting to click its **Set as default** button.  
 ![The Set as default button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-as-default.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You might see an alternative WS printer listed in Settings (most typically for Canon models). The WS stands for web services, and that printer shouldn’t be your default one. Make sure your standard printer is set as default.
 
 ## 3\. Utilize the Print Troubleshooter
@@ -71,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  Make sure the printer’s cable is connected to your PC before running the Printer troubleshooter if it’s a non-wireless one. Then select your printer model within the troubleshooter and apply the potential fixes suggested.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Start or Restart the Print Spooler
 
  Print spooler is a service for handling print jobs. Some users say they’ve been able to fix the “Another computer is using the printer” error by restarting that service. You can apply that resolution by following the step-by-step instructions in our [how-to restart the printer spooler article](https://www.makeuseof.com/windows-restart-print-spooler-service/). If the service isn’t already running, click its **Start** option.
@@ -78,17 +65,23 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Restart option for the Print Spooler service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Clear the Printers Folder
@@ -100,33 +93,19 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Stop option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-stop-option.jpg)
 3. Press the **Windows** \+ **E** keyboard keys to activate the file manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to this folder path:  
 `C:\Windows\System32\spool\PRINTERS`
 5. Select everything in the Printers folder by pressing **Ctrl** \+ **A**.  
 ![The PRINTERS folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-printers-folder.jpg)
 6. Press the **Del** keyboard button to erase the selected files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Return to the Services app, right-click **Print** **spooler**, and select **Start**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disconnect Previous Users
@@ -147,68 +126,11 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The printer driver downloads section on the HP website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-driver-downloads-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Print, Print, and Print Again on Windows
 
  Getting the “Another computer is using the printer” error fixed is essential for the many users who can’t afford to lose printing functionality. Fortunately, lots of users have resolved that printing issue with the potential Windows 11/10 fixes covered here. So, applying them will probably get that issue sorted on your Windows PC, and then you can print to your heart’s content again.
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-apex-design-hub-audit/"><u>[Updated] Apex Design Hub Audit</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-crafting-journeys-a-comprehensive-guide-for-aspiring-travel-content-creators/"><u>[Updated] Crafting Journeys A Comprehensive Guide for Aspiring Travel Content Creators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-expert-tips-to-master-camera-snap-in-zoom-calls/"><u>[Updated] Expert Tips to Master Camera Snap in Zoom Calls</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-foundational-guide-to-navigating-zoom-meetings/"><u>[Updated] The Foundational Guide to Navigating Zoom Meetings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-of-livestream-streaming-strategies/"><u>[Updated] The Ultimate List of Livestream Streaming Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-in-stream-ads-on-facebook-configuration-and-analysis-guide/"><u>2024 Approved Mastering In-Stream Ads on Facebook Configuration & Analysis Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/clearing-the-path-for-code-52-resolution/"><u>Clearing the Path for Code 52 Resolution</u></a></li>
-<li><a href="https://win11.techidaily.com/dialogue-deployment-on-windows-11-systems/"><u>Dialogue Deployment on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-workflow-on-windows-the-best-apps-for-maximum-output/"><u>Elevate Workflow on Windows: The Best Apps for Maximum Output</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-modern-warfare-3-crash-issues-simple-solutions-for-stable-gameplay/"><u>Fixing Modern Warfare 3 Crash Issues: Simple Solutions for Stable Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-zerodxgierordevicehung-in-win11-systems/"><u>Fixing ZeroDXGIErorDeviceHung in Win11 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-se-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone SE Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonizing-high-speeds-across-devices/"><u>Harmonizing High Speeds Across Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bypass-bluetooth-pin-related-connectivity-issues-in-win11win10/"><u>How To Bypass Bluetooth Pin-Related Connectivity Issues in Win11/Win10</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-se-2022-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone SE (2022) Properly | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/key-factors-ahead-your-checklist-before-buying-a-notebook-windows/"><u>Key Factors Ahead: Your Checklist Before Buying a Notebook Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-the-speedy-assistance-mechanism-in-w11/"><u>Launching the Speedy Assistance Mechanism in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/masking-wi-fi-presence-on-windows-systems/"><u>Masking Wi-Fi Presence on Windows Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterpieces-without-barriers-publicly-available-artwork-for-2024/"><u>Masterpieces Without Barriers Publicly Available Artwork for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-wobbly-snipshot-commands-in-windows/"><u>Mending Wobbly Snipshot Commands in Windows</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-maximize-yandex-translate-in-video-translation-and-beyond/"><u>New In 2024, Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts-for-2024/"><u>New Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-detection-woes-solutions-available/"><u>Nvidia Detection Woes: Solutions Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-initializing-a-d3d-renderer-successfully/"><u>Overcoming the Challenge of Initializing a D3D Renderer Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-hurdles-with-handbrake/"><u>Overcoming Windows Hurdles with HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-windows-11-update-error-0x800f0922/"><u>Quick Guide to Overcome Windows 11 Update Error 0X800f0922</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-black-window-after-system-ignition/"><u>Remedying Black Window After System Ignition</u></a></li>
-<li><a href="https://win11.techidaily.com/routine-for-accessing-and-clearing-activity-in-windows-11/"><u>Routine for Accessing and Clearing Activity in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/save-smart-establish-a-weekly-windows-backup-routine/"><u>Save Smart: Establish a Weekly Windows Backup Routine</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-uninstalling-epic-launcher-woes-on-w11-systems/"><u>Sidestep Uninstalling Epic Launcher Woes on W11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-full-disk-alerts-in-windows-1011/"><u>Solutions for Full Disk Alerts in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-access-to-commands-setting-up-keybinds-effortlessly/"><u>Speedy Access to Commands: Setting up Keybinds Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-uninstalling-and-reinstalling-utorrent-on-windows-1087/"><u>Steps for Uninstalling and Reinstalling uTorrent on Windows 10/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-the-error-in-windows-activation-0x803f700f/"><u>Strategies for Overcoming the Error in Windows Activation 0X803F700f</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-audience-appreciation-fostering-viewer-relationships/"><u>The Art of Audience Appreciation Fostering Viewer Relationships</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-ordinary-to-extraordinary-with-ms-winning-choices-2023/"><u>Transform Ordinary to Extraordinary with MS Winning Choices, 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/tricks-for-stealthy-login-silencing-security-prompts-in-windows-11/"><u>Tricks for Stealthy Login: Silencing Security Prompts in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pcs-full-potential-in-games-the-win-11-master-plan-of-7-actions/"><u>Unlock Your PC's Full Potential in Games: The Win 11 Master Plan of 7 Actions</u></a></li>
-<li><a href="https://win11.techidaily.com/unwrapping-solutions-the-ultimate-guide-to-fixing-e84-in-steam/"><u>Unwrapping Solutions: The Ultimate Guide to Fixing E84 in Steam</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-lego-animation-masters-the-best/"><u>Updated 2024 Approved Lego Animation Masters The Best</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-gpresult-for-in-depth-gpo-evaluation/"><u>Utilizing GPResult for In-Depth GPO Evaluation</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-and-office-updates-a-quick-cessation-guide/"><u>Windows & Office Updates: A Quick Cessation Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photos-the-art-of-key-management/"><u>Windows Photos: The Art of Key Management</u></a></li>
-<li><a href="https://win11.techidaily.com/winstore-issue-correcting-error-code-0x80073d26/"><u>WinStore Issue: Correcting Error Code 0X80073D26</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -217,3 +139,15 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-document-your-playthroughs-with-easy-ps4-image-captures/"><u>How to Document Your Playthroughs with Easy PS4 Image Captures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-ultraedit-pro-for-video-cutting-2023-for-2024/"><u>In-Depth Look UltraEdit Pro for Video Cutting 2023 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-ins-and-outs-of-win11-status-with-these-top-five-uptime-tests/"><u>Navigate the Ins and Outs of Win11 Status with These Top Five Uptime Tests</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/optimizing-your-facebook-budget-high-roi-animated-ad-best-practices-for-2024/"><u>Optimizing Your Facebook Budget High-ROI Animated Ad Best Practices for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-couldnt-retrieve-directory-info-in-kodi-a-complete-guide/"><u>Overcoming 'Couldn't Retrieve Directory Info' In Kodi - A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-sight-of-sd-card-in-windows-filesystem/"><u>Reclaim Sight of SD Card in Windows Filesystem</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-techniques-for-widget-notification-control-win-11/"><u>Tailored Techniques for Widget Notification Control Win 11</u></a></li>
+</ul></div>
+

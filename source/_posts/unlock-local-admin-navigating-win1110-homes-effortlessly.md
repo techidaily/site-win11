@@ -1,7 +1,7 @@
 ---
 title: "Unlock Local Admin: Navigating Win11/10 Homes Effortlessly"
-date: 2024-09-11T09:40:50.749Z
-updated: 2024-09-12T09:40:50.749Z
+date: 2024-09-12T01:31:12.996Z
+updated: 2024-09-16T16:06:31.629Z
 tags:
   - windows10
   - windows11
@@ -21,24 +21,10 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Enable the Local Users and Groups Management Console in Windows 11/10 Home](#enable-the-local-users-and-groups-management-console-in-windows-11-10-home)
 * [Manage Local Users and Groups Using the Command Prompt](#manage-local-users-and-groups-using-the-command-prompt)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -68,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 ![Lucal User and Groups app and lusrmgr app side by side comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/lucal-user-and-gropups-app-and-lusrmgr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To create a new user account with this Local User and Group Management tool:
 
 1. Right-click on **User** and select **Create**. Then fill in the details for the new user account.
@@ -84,29 +63,9 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
  Similarly, you can edit, remove, rename, or add a password to the existing user account. You can also [enable the secret built-in administrator account](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) using the tool.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Additional Features of the Lusrmgr App
 
 ![The search bar in lusrmgr application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-search.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apart from the usual account management features, lusrmgr.exe provides additional functions not available in the native utility. For example, you can use the search function to find a specific account. This is useful for system administrators who manage multiple user accounts in an organization.
 
@@ -115,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 ![lusrmgr define account access time screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-define-access-time.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, the user accounts have no limit on access time. But you can define this by selecting a time block for different days.
@@ -165,44 +118,14 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
- The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-define-new-destination-for-mac-screenshots/"><u>[New] 2024 Approved Define New Destination for Mac Screenshots</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-brand-presence-effective-instagram-video-marketing-techniques-for-2024/"><u>[New] Elevate Brand Presence Effective Instagram Video Marketing Techniques for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-masterful-manipulation-speedy-stylization-techniques-for-win10-apps/"><u>[New] In 2024, Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-seamless-facebook-live-experience-combat-interruptions-for-2024/"><u>[New] Seamless Facebook Live Experience Combat Interruptions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-educators-guide-to-thriving-youtube-channels-10-must-know-secrets/"><u>[Updated] 2024 Approved Educators' Guide to Thriving YouTube Channels – 10 Must-Know Secrets</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-youtube-financial-framework-for-content-creators/"><u>[Updated] 2024 Approved The Ultimate YouTube Financial Framework for Content Creators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-drone-cameras-10-for-professional-filmmaking-for-2024/"><u>Best Drone Cameras #10 For Professional Filmmaking for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-windows-11-taskbar-improvements/"><u>Discover Windows 11 Taskbar Improvements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/do-consumer-feedbacks-get-paid-in-vlogs/"><u>Do Consumer Feedbacks Get Paid in Vlogs?</u></a></li>
-<li><a href="https://techidaily.com/easy-tutorial-on-how-to-perform-a-fresh-start-on-your-macbook-air/"><u>Easy Tutorial on How to Perform a Fresh Start on Your MacBook Air</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-complaints-for-new-windows-11-users/"><u>Essential Complaints for New Windows 11 Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-iphone-x-animoji-blueprint-for-mastery/"><u>In 2024, The Ultimate iPhone X Animoji Blueprint for Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-hiding-power-button-in-windows-11-settings/"><u>Masterclass: Hiding Power Button in Windows 11 Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-subnet-settings-windows-11-guide/"><u>Mastering Subnet Settings: Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-typing-speed-with-windows-10-and-11-keys/"><u>Maximize Typing Speed with Windows 10 & 11 Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-high-cpu-load-due-to-modules-installer-activity/"><u>Mitigating High CPU Load Due to Modules Installer Activity</u></a></li>
-<li><a href="https://win11.techidaily.com/network-navigator-4-strategic-approaches-to-test-your-internet-pace/"><u>Network Navigator: 4 Strategic Approaches to Test Your Internet Pace</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-windows-11-a-quick-guide-to-stripping-junk/"><u>Optimize Windows 11: A Quick Guide to Stripping Junk</u></a></li>
-<li><a href="https://win11.techidaily.com/orchestrate-your-tasks-microsoft-to-do-plus-ifttt/"><u>Orchestrate Your Tasks: Microsoft To-Do + IFTTT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/outriders-performance-optimization-eradicating-lag-effectively/"><u>Outriders Performance Optimization: Eradicating Lag Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-apple-image-failures-in-windows-1011/"><u>Overcoming Apple Image Failures in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-excessive-opening-of-file-explorer/"><u>Overcoming Excessive Opening of File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/purging-windows-11-store-simple-steps/"><u>Purging Windows 11 Store: Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-freeing-windows-11-space/"><u>Quick-Fix Guide to Freeing Windows 11 Space</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-enabling-external-security-solutions/"><u>Techniques for Enabling External Security Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-regedit-management-in-windows-11/"><u>Techniques for RegEdit Management in Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-12-vlogger-friendly-cameras-unveiled-in-2024/"><u>Top 12 Vlogger-Friendly Cameras Unveiled, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-windows-woes-in-4-easy-steps/"><u>Troubleshoot Windows Woes in 4 Easy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-successful-device-connection-on-windows-11/"><u>Unlocking Successful Device Connection on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-disk-issues-avoiding-reading-problems/"><u>Unraveling Disk Issues: Avoiding Reading Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/what-hides-inside-ftdibussys-exploring-its-effects-on-windows-security/"><u>What Hides Inside ftdibus.sys? Exploring Its Effects on Windows Security</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-disruptive-layout-elements-a-review/"><u>Windows 11'S Disruptive Layout Elements: A Review</u></a></li>
-<li><a href="https://win11.techidaily.com/winshift-fixes-guide-needed/"><u>WinShift Fixes Guide Needed</u></a></li>
-</ul></div>
+ The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -211,3 +134,21 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-operational-obs-cam-after-fix/"><u>[New] In 2024, Operational OBS Cam After Fix</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10-best-youtube-makeup-artists-you-must-have-heard/"><u>2024 Approved 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-prompting-tricks-for-superior-results-from-chatgpt/"><u>Advanced Prompting Tricks for Superior Results From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-art-generation-how-to-combine-dall-e-with-the-power-of-chatgpt-4/"><u>AI Art Generation: How to Combine DALL-E with the Power of ChatGPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-commerce-7-ways-to-enhance-business-operations/"><u>ChatGPT in Commerce: 7 Ways to Enhance Business Operations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-clearing-browsing-history-and-caches-across-all-top-web-browsers/"><u>Complete Guide: Clearing Browsing History & Caches Across All Top Web Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-fixes-for-winupdater-errors-solve-x80246007/"><u>Efficient Fixes for WinUpdater Errors – Solve X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-dxgierrordevicehunk-on-windows-11-systems/"><u>Handling DXGI_ERROR_DEVICE_HUNK on Windows 11 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-lava-blaze-2-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Lava Blaze 2</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-m6-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco M6 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/showcasing-peak-and-base-states-of-your-cpu-in-windows/"><u>Showcasing Peak and Base States of Your CPU in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-against-apex-legends-crashes-in-windows-11/"><u>Winning Against Apex Legends Crashes in Windows 11</u></a></li>
+</ul></div>
+

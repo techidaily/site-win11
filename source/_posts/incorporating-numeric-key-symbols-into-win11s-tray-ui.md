@@ -1,7 +1,7 @@
 ---
 title: Incorporating Numeric Key Symbols Into Win11's Tray UI
-date: 2024-09-11T09:38:16.104Z
-updated: 2024-09-12T09:38:16.104Z
+date: 2024-09-10T17:19:52.572Z
+updated: 2024-09-17T09:11:10.578Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Num, Caps, and Scroll Lock Indicators With TrayStatus
 
  TrayStatus lets you add lock key statuses, alongside a variety of system performance indicators, to the system tray.
@@ -47,19 +40,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
 
@@ -67,23 +47,9 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 ![Caps and Num Lock system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/traystatus-indicator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To add a Scroll Lock indicator and others, right-click the TrayStatus Caps Lock icon in the system tray and select **Settings**. Click the **Status Indicators** tab and select **Show Scroll Lock Status**. You can also choose to show Ctrl, Alt, Win, Shift, RAM, CPU, and hard drive indicators on the system tray from there. The RAM and CPU indicators are handy for [checking system resource usage in Windows 11](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
 
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
@@ -110,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
 
  The Keyboard LEDs software adds an all-in-one system tray indicator for the Caps, Num, and Scroll lock keys. It also enables users to set an on-screen display indicator for lock keys that’s visible in the bottom-right corner of the desktop. This is how you can add Num, Caps, and Scroll Lock indicators to Windows 11 (and older platforms) with Keyboard LEDs like this:
@@ -130,23 +89,9 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 ![The Keyboard LED Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-setup.jpg)
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
 
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To configure the indicators, right-click the Keyboard LEDs icon to select **Settings**. You can choose different colors for each indicator box by clicking the color drop-down menus for the **Led 1**, **2**, and **3** drop-down menus. Click the button drop-down menus to change the lock key indicator for each box.
 
@@ -156,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 ![The on-screen lock key indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/on-screen-lock-key-indicators.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add Handy Lock Key Indicators to Windows 11’s System Tray
 
  The indicators TrayStatus, Keyboard LEDs, and AddLED add to Windows 11’s system tray make it crystal clear whether your Caps, Num, and Scroll Lock keys are on or off. They’re invaluable programs for users with keyboards that lack lock key light indicators.
@@ -164,48 +116,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-smart-snap-strategies-insta-story-zoom-101/"><u>[New] In 2024, Smart Snap Strategies Insta Story Zoom 101</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-astonishingly-fast-finders-of-forlorn-reddit-content/"><u>[Updated] Astonishingly Fast Finders of Forlorn Reddit Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-discover-how-to-get-high-quality-images-at-zero-cost/"><u>[Updated] Discover How To Get High-Quality Images at Zero Cost</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-nine-powerful-windows-apps-for-seamless-animated-gif-recording/"><u>[Updated] In 2024, Nine Powerful Windows Apps For Seamless Animated GIF Recording</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-retroactive-video-mastery-for-android-users/"><u>[Updated] Retroactive Video Mastery for Android Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-efficient-and-reliable-a-comparison-of-the-best-pc-sniping-software/"><u>2024 Approved Efficient & Reliable A Comparison of the Best PC Sniping Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/decoding-the-mystery-of-damaged-hevc-files/"><u>Decoding the Mystery of Damaged HEVC Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-nlps-innovations-bert-vs-gpt-analysis/"><u>Dissecting NLP's Innovations: BERT vs GPT Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-boot-up-windows-startup-with-notebooks-available/"><u>Efficient Boot-Up: Windows Startup with Notebooks Available</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-xbox-service-interruptions-in-windows-os/"><u>Eliminating Xbox Service Interruptions in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/i-tried-both-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>I Tried Both: Nintendo Switch Lite vs Nintendo Switch OLED</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-13-best-ways-to-make-money-on-reddit-no-experience-needed/"><u>In 2024, 13 Best Ways to Make Money on Reddit - No Experience Needed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y200e-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y200e 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 13 and iPad?</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-exclusive-access-to-insider-batches/"><u>Maintaining Exclusive Access to Insider Batches</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-compatibility-issues-in-windows-11/"><u>Mastering Compatibility Issues in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-solutions-for-create-failed-issue-windows-error-30005/"><u>Mastering Solutions for Create Failed Issue - Windows Error 30005</u></a></li>
-<li><a href="https://win11.techidaily.com/msc-troubleshooting-restoring-windows-print-management/"><u>MSC Troubleshooting: Restoring Windows Print Management</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-intricate-boot-configuration-landscape/"><u>Navigating Through Windows' Intricate Boot Configuration Landscape</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-web-visiting-tools-a-compreran-test-of-lightweight-browsers/"><u>Optimal Web Visiting Tools: A Compreran Test of Lightweight Browsers</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/post-weld-treatments-are-often-necessary-to-enhance-mechanical-properties/"><u>Post-Weld Treatments Are Often Necessary to Enhance Mechanical Properties.</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-self-triggered-terminal-displays-in-windows/"><u>Preventing Self-Triggered Terminal Displays in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-weekend-sale-buy-now-at-612yr-with-windows-10/"><u>Prime Weekend Sale: Buy Now at $6.12/Yr with Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-gaps-between-windows-explorer-folders/"><u>Resolving Gaps Between Windows Explorer Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-multiple-ms-users-error-on-windows/"><u>Resolving Multiple MS Users' Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-retro-games-achievement-integration-with-retroarch-tips/"><u>Revitalizing Retro Games: Achievement Integration with Retroarch Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-for-dodging-enter-credentials-message-in-windows/"><u>Tactics for Dodging 'Enter Credentials' Message in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/forming-skincare-secrets-into-social-stardom-for-2024/"><u>Transforming Skincare Secrets Into Social Stardom for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-potential-with-microsofts-copilot-key/"><u>Unlocking Windows 11'S Full Potential with Microsoft's Copilot Key</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-code-4-spotify-connection-problem-in-w10w11/"><u>Unraveling the Code 4 Spotify Connection Problem in W10/W11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-our-findings-on-thermaltakes-premium-tm-laptop-chiller-high-quality-but-at-a-hefty-price/"><u>Unveiling Our Findings on Thermaltake's Premium TM Laptop Chiller - High Quality but at a Hefty Price</u></a></li>
-<li><a href="https://article-tips.techidaily.com/vegas-pro-2021-unpacked-game-changer-or-just-another-tool-in-2024/"><u>Vegas Pro 2021 Unpacked Game Changer or Just Another Tool, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-win32keygen-an-analysis-of-its-threats-and-remediation-processes-for-pcs/"><u>What's Win32/Keygen? An Analysis of Its Threats & Remediation Processes for PCs</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -213,3 +123,19 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elevating-your-professional-image-with-high-quality-ppt-recordings/"><u>[Updated] 2024 Approved Elevating Your Professional Image with High-Quality PPT Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/youtubeweb/"><u>「YouTube動画のオーディオコンテンツだけダウンロード可能な無料アプリとWebサイト」</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-immutable-disabling-routine-for-youtubes-quick-content/"><u>2024 Approved Immutable Disabling Routine for YouTube’s Quick Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/decoding-the-best-timing-strategies-for-instagram-posts/"><u>Decoding the Best Timing Strategies for Instagram Posts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-and-setup-of-new-drivers-for-the-hp-deskjet-ink-advantage-3700/"><u>Easy Download & Setup of New Drivers for the HP Deskjet Ink Advantage 3700</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rejuvenated-interview-framework-for-auditory-appeal/"><u>In 2024, Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-forefront-ai-the-future-comparing-it-against-chatgpt-in-detail/"><u>Is Forefront AI the Future? Comparing It Against ChatGPT in Detail</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-itel-p55-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Itel P55 FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-t2-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo T2 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
+<li><a href="https://win11.techidaily.com/youtubecapcut/"><u>YouTubeビデオやミュージックの編集：容易なCapCutで始めよう</u></a></li>
+</ul></div>
+

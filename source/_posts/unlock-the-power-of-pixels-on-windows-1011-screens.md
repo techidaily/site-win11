@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Pixels on Windows 10/11 Screens
-date: 2024-09-11T09:46:09.343Z
-updated: 2024-09-12T09:46:09.343Z
+date: 2024-09-11T17:57:02.312Z
+updated: 2024-09-16T16:11:20.725Z
 tags:
   - windows10
   - windows11
@@ -54,13 +54,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
  Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
@@ -69,23 +62,9 @@ Now you can get scribbling on the Windows desktop.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
 
@@ -97,48 +76,15 @@ Now you can get scribbling on the Windows desktop.
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
@@ -148,14 +94,14 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -176,35 +122,17 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/reate-magic-download-premium-soundscapes-now/"><u>[New] Create Magic Download Premium Soundscapes Now!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-optimal-recording-is-30fps-or-60fps-superior-for-videos/"><u>[New] In 2024, Optimal Recording Is 30Fps or 60Fps Superior for Videos?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-your-way-through-screen-capturing-with-dell-for-2024/"><u>[New] Navigating Your Way Through Screen Capturing with Dell for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-best-sites-to-buy-mystery-boxes/"><u>10 Best Sites to Buy Mystery Boxes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards/"><u>2024 Approved Reversing the Flow A Guide to Tracing Instagram Pics Backwards</u></a></li>
-<li><a href="https://win11.techidaily.com/convergence-mastery-the-ultimate-win-11-file-guide/"><u>Convergence Mastery: The Ultimate Win 11 File Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/effective-strategies-using-discounted-timers/"><u>Effective Strategies Using Discounted Timers</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-your-pc-navigation-with-apple-maps/"><u>Empowering Your PC Navigation with Apple Maps</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-audio-integrating-dolby-atmos-in-windows/"><u>Enhance Your Audio: Integrating Dolby Atmos in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-implementing-google-play-in-win11-os/"><u>Guide to Implementing Google Play in Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-download-issues-with-windows-1011-files/"><u>Handling Download Issues with Windows 10/11 Files</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-professional-window-capturer-version-11/"><u>In 2024, Professional Window Capturer - Version 11</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-into-the-new-era-evolution-of-file-explorer-on-windows-11/"><u>Journey Into the New Era: Evolution of File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-windows-palette-a-step-by-step-guide/"><u>Perfecting Windows Palette: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/priorities-in-purchasing-your-first-windows-notebook/"><u>Priorities in Purchasing Your First Windows Notebook</u></a></li>
-<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-windows-auto-lock-setting/"><u>Quick Guide to Windows Auto-Lock Setting</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-your-win11-experience-three-tricks-up-your-sleeve/"><u>Reboot Your Win11 Experience: Three Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-smooth-copy-paste-functionality-chromeedgefirefox/"><u>Restoring Smooth Copy-Paste Functionality (Chrome/Edge/Firefox)</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-vitality-to-slow-moving-windows-batches/"><u>Restoring Vitality to Slow-Moving Windows Batches</u></a></li>
-<li><a href="https://win11.techidaily.com/safe-deletion-practices-for-windows-bt-folders/"><u>Safe Deletion Practices for Windows ~BT Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-blueprint-for-customizing-windows-startup/"><u>The Complete Blueprint for Customizing Windows Startup</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-filmora-discounts-4-expert-approved-methods-for-2024/"><u>The Ultimate Guide to Filmora Discounts 4 Expert-Approved Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-finding-the-most-impactful-keywords-for-your-videos-for-2024/"><u>The Ultimate Guide to Finding the Most Impactful Keywords for Your Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-taking-screen-shots-on-a-logitech-keyboard-device/"><u>The Ultimate Guide to Taking Screen Shots on a Logitech Keyboard Device</u></a></li>
-<li><a href="https://win11.techidaily.com/use-external-tools-explore-third-party-software-like-flux-redshift-or-display-temp-to-customize-display-behavior-according-to-time-of-day-and-ambient-light-32/"><u>Use External Tools: Explore Third-Party Software Like f.lux, Redshift, or Display Temp to Customize Display Behavior According to Time of Day and Ambient Light Conditions.</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-tangle-solved-unify-system-dates/"><u>Windows Time Tangle Solved: Unify System Dates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-influencer-secrets-making-your-vids-hits-hard/"><u>[Updated] Influencer Secrets Making Your Vids Hits Hard</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-success-innovative-youtube-strategies/"><u>[Updated] Pioneering Success Innovative YouTube Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-between-avi-and-imovie-a-step-by-step-guide-to-compatible-video-formats/"><u>Bridge the Gap Between AVI and iMovie: A Step-by-Step Guide to Compatible Video Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-guide-to-converting-your-favorite-twitch-content-into-high-quality-mp3-files/"><u>Complete Guide to Converting Your Favorite Twitch Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-safe-methods-for-extracting-content-from-dvds-and-cds/"><u>Comprehensive Guide: Safe Methods for Extracting Content From DVDs & CDs</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-most-advanced-video-conversion-programs-updated-ranking-of-top-10-picks/"><u>Discover the Most Advanced Video Conversion Programs: Updated Ranking of Top 10 Picks!</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-list-of-secure-sites-similar-to-justdubs-for-watching-your-favorite-english-dubs-in-real-time-updates/"><u>Discover the Ultimate List of Secure Sites Similar to JustDubs for Watching Your Favorite English Dubs in Real-Time Updates!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-s17e-phone-by-drfone-android/"><u>How to Reset a Locked Vivo S17e Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/stable-playthrough-of-madden-nfl-21-for-windows-overcoming-common-breakdowns/"><u>Stable Playthrough of Madden NFL 21 for Windows - Overcoming Common Breakdowns</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-for-your-hp-laserjet-1020-driver-woes-in-windows/"><u>Step-by-Step Fix for Your HP LaserJet 1020 Driver Woes in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-crafting-impressive-prompts-for-stable-diffusion-ai/"><u>The Ultimate Guide: Crafting Impressive Prompts for Stable Diffusion AI</u></a></li>
 </ul></div>
 

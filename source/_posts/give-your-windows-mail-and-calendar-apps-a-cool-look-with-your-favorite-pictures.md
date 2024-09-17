@@ -1,7 +1,7 @@
 ---
 title: Give Your Windows Mail and Calendar Apps a Cool Look With Your Favorite Pictures
-date: 2024-09-11T09:41:28.172Z
-updated: 2024-09-12T09:41:28.172Z
+date: 2024-09-14T08:45:38.094Z
+updated: 2024-09-16T18:13:04.723Z
 tags:
   - windows10
   - windows11
@@ -50,26 +50,6 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 5. The next 12 thumbnails are of background themes that come with the color of the left pane matched to the image. Select the one you like and you will see the theme appear on the right pane change along with its matching color on the left pane.  
 ![Background Theme Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-theme-mail-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set a Favorite Picture as Your Mail Background
 
  You can add easily add a favorite picture to the Mail app on your Windows PC. You could choose a heartwarming photo of a memorable family holiday, an exciting moment from a music concert you went to, or even a pic to reflect your signature style or passion. Let's see how.
@@ -86,36 +66,16 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 ![Picture Extending to Left Pane in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extend-picture-to-left-pane-mail-app.jpg)  
  Your chosen background picture will appear with a blurred effect on the left pane so that the text is legible on it. With the Dark Mode on, the picture will appear behind a dark blurred background on the left pane.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. To enjoy your favorite picture to the max, you can hide most of the left pane by clicking on the**three-lines icon** on the top left of the Mail app.  
 ![Enjoy a Bigger Picture on Your Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enjoy-bigger-picture-on-mail-app-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now your chosen picture will appear bigger, in a wider area on the Mail app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a New Background or Picture to the Calendar App
@@ -133,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
  If you're on Windows 11, there may be times when the Mail and Calendar apps are inaccessible. If this happens, check out[what to do if Mail and Calendar won't open on Windows 11](https://www.makeuseof.com/windows-11-mail-calendar-wont-open/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy Windows With a Personal Touch
@@ -162,40 +122,16 @@ thumbnail: https://thmb.techidaily.com/48f1b4b94f775b917cb35db1cb2a6e0b4e7bb5a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[New] 2024 Approved Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-syncing-platforms-for-video-upload/"><u>[New] In 2024, Syncing Platforms for Video Upload</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-loom-downloader-how-to-loom-screen-record-for-2024/"><u>[New] Loom Downloader - How to Loom Screen Record for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-selection-of-high-caliber-free-luts/"><u>[Updated] Exclusive Selection of High-Caliber Free LUTs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>2024 Approved Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-screen-real-estate-win11s-best-practices/"><u>Customizing Screen Real Estate: Win11's Best Practices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-improve-linksys-ae2500-drivers-fast-setup-for-better-connectivity/"><u>Download and Improve: Linksys AE2500 Drivers - Fast Setup for Better Connectivity</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-educational-technologies-for-linguistic-success/"><u>Essential Educational Technologies for Linguistic Success</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-best-of-both-worlds-windows-and-games/"><u>Exploring the Best of Both Worlds: Windows & Games</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-the-gap-restoring-lost-bluetooth-connectivity-in-win-11/"><u>Fix the Gap: Restoring Lost Bluetooth Connectivity in Win 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x7-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-spark-10-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Spark 10 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/insights-into-microsofts-comprehensive-ai-ecosystem/"><u>Insights Into Microsoft's Comprehensive AI Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/master-naming-conventions-for-windows-files-max-156/"><u>Master Naming Conventions for Windows Files (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-data-protection-ranked-encryption-tools-for-windows-150-chars/"><u>Mastering Data Protection: Ranked Encryption Tools for Windows (150 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-error-code-fixation-in-win10win11s-shop/"><u>Mastering Error Code Fixation in Win10/Win11's Shop</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-grids-the-finest-10-grid-software/"><u>Mastering Instagram Grids The Finest 10 Grid Software</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-potential-through-efficient-use-of-law-filters/"><u>Maximizing Windows Potential Through Efficient Use of LAW Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/methods-to-minimize-mobile-footage-jitter-for-2024/"><u>Methods to Minimize Mobile Footage Jitter for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-to-noise-fixing-your-google-meet-mic-on-windows-pc/"><u>Mute to Noise? Fixing Your Google Meet Mic on Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-comprehensive-driver-pack-for-the-msi-z370-a-pro-ready-for-instant-download/"><u>Optimize Your System: Comprehensive Driver Pack for the MSI Z370-A PRO Ready for Instant Download</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-winget-hurdles-on-windows-11-systems/"><u>Overcoming Winget Hurdles on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-absent-logins-in-windows-11-os/"><u>Recovering Absent Logins in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-network-prompt-gaps-seamless-action-integration-in-windows/"><u>Resolving Network Prompt Gaps: Seamless Action Integration in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-your-control-center-mastering-management-on-windows-11/"><u>Securing Your Control Center: Mastering Management on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win1011s-network-error-code-0x800704b3/"><u>Solving Win10/11's Network Error Code: 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-highlight-features-with-ease-in-windows-11/"><u>Switching Highlight Features with Ease in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/sync-fail-resolving-outlook-app-errors-on-pcs/"><u>Sync Fail: Resolving Outlook App Errors on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-choosing-drawing-apps-on-win-11/"><u>The Ultimate Guide to Choosing Drawing Apps on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-resource-for-streamlined-navigation-windows-narrator-keybindings/"><u>The Ultimate Resource for Streamlined Navigation: Windows Narrator Keybindings</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-rectify-malfunctioning-discord-game-checker-on-windows/"><u>Tips to Rectify Malfunctioning Discord Game Checker on Windows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-gif-repository-capturing-the-essence-in-frames-for-2024/"><u>Twitter Gif Repository Capturing the Essence in Frames for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreezing-frozen-firewall-settings-in-windows-11/"><u>Unfreezing Frozen Firewall Settings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-microsoft-store-quick-sign-in-fixes/"><u>Unlocking the Microsoft Store: Quick Sign-In Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wallpaper-guide-incorporating-spotlight-photos/"><u>Windows Wallpaper Guide: Incorporating Spotlight Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-premier-tools-to-record-your-pc-screenshots/"><u>[Updated] 2024 Approved Premier Tools to Record Your PC Screenshots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-loop-and-relish-youtube-videos-double-the-delight-on-tv/"><u>[Updated] Loop & Relish YouTube Videos, Double the Delight on Tv</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-screen-shutter-essentials/"><u>Decoding Windows Screen Shutter Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-luts-in-photoshop-cs6cc-an-in-depth-analysis/"><u>In 2024, Implementing LUTs in Photoshop CS6/CC An In-Depth Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-portable-cost-free-software-transforming-laptop-viewers/"><u>In 2024, Portable, Cost-Free Software Transforming Laptop Viewers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-nokia-c22-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Nokia C22 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-account-restrictions-quickly/"><u>Overcoming Windows Account Restrictions Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-restoring-accessibility-of-ubisoft-launcher/"><u>Quick Guide to Restoring Accessibility of Ubisoft Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-a-tech-lifecycle-app-migration-to-newest-win-11-devices/"><u>Reimagining a Tech Lifecycle: App Migration to Newest Win 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-failed-windows-search-service-start-up/"><u>Remedying Failed Windows Search Service Start-Up</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-ideapad-320-unveiled-reviews-on-its-attractive-build-and-famous-keys-that-define-usability/"><u>The Lenovo Ideapad 320 Unveiled: Reviews on Its Attractive Build and Famous Keys that Define Usability</u></a></li>
 </ul></div>
 

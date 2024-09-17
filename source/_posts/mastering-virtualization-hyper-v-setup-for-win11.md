@@ -1,7 +1,7 @@
 ---
 title: "Mastering Virtualization: Hyper-V Setup for Win11"
-date: 2024-09-11T09:41:12.631Z
-updated: 2024-09-12T09:41:12.631Z
+date: 2024-09-13T06:11:52.031Z
+updated: 2024-09-17T04:27:20.699Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are the Use Cases for Hyper-V?
 
@@ -57,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
  In addition, you need to enable Hardware Virtualization in BIOS. It is an essential feature to run virtual machines on your Windows system but often disabled by default.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable Hardware Virtualization in BIOS
 
  On compatible systems, you can enable Hardware Virtualization in BIOS. The below steps are for an HP computer. If you are using a custom-made PC or laptop from another manufacturer, refer to the user manual for detailed instruction. If not, refer to our general guide to [enter the BIOS on Windows](https://www.makeuseof.com/tag/enter-bios-computer/).
@@ -76,29 +62,9 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 ![Startup menu hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Startup-menu-hp-laptop.jpg)
 4. In the BIOS Setup Utility, use the arrow key and open the **Configuration** tab.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, use the down arrow key to highlight the **Virtualization Technology** option.  
 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop.jpg)
 6. Hit **Enter** and then select **Enabled** from the options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Press **F10** to save the changes and exit **BIOS**.
 8. Your PC will restart and apply the changes. This may take a while, so wait till your system is fully restarted.
@@ -108,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 ## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
 
 ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
 
@@ -121,21 +94,28 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Add Hyper-V to Windows 11 Using Command Prompt
 
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
+<span id="1983539">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
@@ -149,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 4. Once the operation is completed successfully, you will need to restart your PC. So, press **Y** on your keyboard to confirm the action.
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable Hyper-V Using PowerShell
 
@@ -189,13 +162,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once Hyper-V is up and running, you can configure some settings to optimize your virtual machines for optimal performance. Here are a few settings you can configure before creating a virtual machine. You can access these settings from the right pane in Hyper-V Manager.
 
 * **Hyper-V Settings:** You can configure your virtual hard disk and virtual machine location, configure NUMA spanning storage migration, and allow enhanced session mode. On the user side, it lets you configure the virtual machine's keyboard and the mouse release key.
@@ -204,16 +170,16 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
 ![Windows admin center console home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-admin-center-console-home.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the MMC-based Hyper-V manager is functional and built into the OS, consider using the relatively new Windows Admin Center. It is a browser-based management app that lets you manage your servers, virtual machines, local users and groups, and more.
 
  Download [Windows Admin Center](https://www.microsoft.com/en-in/windows-server/windows-admin-center) from the official Microsoft page and run the installer to give it a go. Once installed, open the app, and it will launch in your default browser, giving you access to a host of management tools.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Many Ways to Enable Hyper-V in Windows 11
 
@@ -223,54 +189,6 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[New] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-audio-quality-boost-for-skype-calls/"><u>[Updated] In 2024, Audio Quality Boost for Skype Calls</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-screen-replayer-for-high-impact-youtubing-experience/"><u>[Updated] In 2024, Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-black-and-white-to-color-classic-video-transition-tips/"><u>[Updated] In 2024, From Black-and-White to Color Classic Video Transition Tips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unlocking-the-art-of-iphones-upside-down-photos/"><u>[Updated] Unlocking the Art of iPhone's Upside-Down Photos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-old-computers-without-windows/"><u>Breathe New Life Into Old Computers Without Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-error-0x800f082f-in-microsofts-dism-tool/"><u>Conquering Error 0X800F082F in Microsoft's DISM Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-effortless-gameplay-capture-using-windows-and-intel-graphics/"><u>Direct, Effortless Gameplay Capture Using Windows and Intel Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/disentangling-steam-timeout-problems-on-windows-with-rust-techniques/"><u>Disentangling Steam Timeout Problems on Windows with Rust Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/diving-into-character-inspector-with-win11/"><u>Diving Into Character Inspector with Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-clearing-wins-cache-memory/"><u>Efficiently Clearing Win's Cache Memory</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-secure-your-browsing-in-win-11-using-microsofts-application-guard/"><u>Efficiently Secure Your Browsing in Win 11 Using Microsoft's Application Guard</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-security-posture-adding-passwords-to-text-files/"><u>Elevating Your Security Posture: Adding Passwords to Text Files</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-absence-of-monitor-post-bootup/"><u>Eliminating Absence of Monitor Post-Bootup</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-interrupted-by-breakpoint-error-in-windows/"><u>Eliminating Interrupted by Breakpoint Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-share-functionality-in-windows-11-and-11/"><u>Enhancing Share Functionality in Windows 11 and 11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/explore-creative-horizons-with-imaginative-snapchat-boomerang-techniques/"><u>Explore Creative Horizons with Imaginative Snapchat Boomerang Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-techniques-to-launch-windows-11s-restore-mode/"><u>Exploring Techniques to Launch Windows 11'S Restore Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-windows-11-defenses-adding-new-filter-options-to-context-menu/"><u>Fine-Tune Your Windows 11 Defenses: Adding New Filter Options to Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unclog-the-secondary-user-writes-access-issue/"><u>How to Unclog the Secondary User' Writes Access Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fade-out-in-audacity/"><u>In 2024, How to Fade Out in Audacity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/individual-differences/"><u>Individual Differences</u></a></li>
-<li><a href="https://win11.techidaily.com/interactive-sphere-expands-windows-for-iphonesipads-pcsmac-unveiled/"><u>Interactive Sphere Expands: Windows for iPhones/iPads, PCs/Mac Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-your-sticky-notes-on-pc/"><u>Maintaining Your Sticky Notes on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/making-win1011-recycle-bin-error-free-quick-solutions/"><u>Making Win10/11 Recycle Bin Error-Free: Quick Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-taskbar-modifications/"><u>Mastering Window 11 Taskbar Modifications</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-woes-resolve-error-x80072f30-easily/"><u>Microsoft Store Woes, Resolve Error X80072F30 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-options-in-the-win-11-context-list/"><u>Minimizing Options in the Win 11 Context List</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/most-effective-mac-screen-recording-software-other-than-bandicam/"><u>Most Effective Mac Screen Recording Software, Other than Bandicam</u></a></li>
-<li><a href="https://win11.techidaily.com/rediscovering-the-bygone-folder-interface/"><u>Rediscovering the Bygone Folder Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablishing-memory-integrity-on-windows-11-amid-issues/"><u>Reestablishing Memory Integrity on Windows 11 Amid Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-mute-read-out-mode-on-word-software/"><u>Remedying Mute Read-Out Mode on Word Software</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-based-inaccessibility-to-roblox-experience/"><u>Resolving Windows-Based Inaccessibility to Roblox Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/sleek-software-not-so-slick-the-throttling-of-your-pcs-speed/"><u>Sleek Software, Not So Slick: The Throttling of Your PC's Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-git-workflow-github-desktop-and-windows-1011/"><u>Streamlining Your Git Workflow: GitHub Desktop & Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/synergizing-technology-the-role-of-ai-in-windows-11-dynamics/"><u>Synergizing Technology: The Role of AI in Windows 11 Dynamics</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-fixing-screen-alignment-in-windows-os/"><u>Tips for Fixing Screen Alignment in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-switching-assistants-helping-you-ditch-your-mac-os/"><u>Top 5 Switching Assistants Helping You Ditch Your Mac OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-future-on-windows-empower-your-pc-with-vivetool/"><u>Unlocking the Future on Windows: Empower Your PC with ViVeTool</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-personalized-audio-settings-key-combinations-explained/"><u>Win11's Personalized Audio Settings: Key Combinations Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-protected-mode-what-does-it-entail/"><u>Windows 11'S Protected Mode: What Does It Entail?</u></a></li>
-<li><a href="https://win11.techidaily.com/winway-login-tips-removing-personal-emails/"><u>Winway Login Tips: Removing Personal Emails</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -278,3 +196,19 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-tug-of-war-youtube-licensing-versus-cc-principles/"><u>[New] The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>2024 Approved Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods/"><u>Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-success-the-premier-list-of-ai-namesmiths/"><u>Crafting Success The Premier List of AI Namesmiths</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-the-power-of-hot-keys-in-windows-11/"><u>Explore the Power of Hot Keys in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/find-forgotten-control-panel-elements-in-win11-configuration/"><u>Find Forgotten Control Panel Elements in Win11 Configuration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-13-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 13 Pro to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-windows-experience-with-media-player/"><u>Jumpstart Your Windows Experience with Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-your-video-content-script-tips-via-chatgpt/"><u>Master Your Video Content: Script Tips via ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-windows-11-screens-9-fixes-for-blurry-views/"><u>Perfecting Windows 11 Screens: 9 Fixes for Blurry Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-solve-launch-failure-of-obs-studio/"><u>Strategies to Solve Launch Failure of OBS Studio</u></a></li>
+</ul></div>
+

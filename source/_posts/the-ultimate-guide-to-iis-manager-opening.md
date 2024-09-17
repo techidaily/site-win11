@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to IIS Manager Opening
-date: 2024-09-11T09:39:37.968Z
-updated: 2024-09-12T09:39:37.968Z
+date: 2024-09-12T06:05:56.712Z
+updated: 2024-09-17T04:19:47.684Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/6f40aa8bc84c668553ff55a3fe7a27d53d5fc34a3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Is the Internet Information Services Tool Useful?
 
@@ -64,13 +57,6 @@ To add and test a website using the IIS tool, follow these steps:
 
 ![Opening the IIS Manager Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Open the IIS Manager Using the Start Menu
 
  The Start menu is a place where you can find most of your apps. So, let’s check out how you can access the IIS Manager from the Windows Start menu:
@@ -80,26 +66,6 @@ To add and test a website using the IIS tool, follow these steps:
 3. Locate and select the**Internet Information Services (IIS) Manager** .
 
 ![Opening the IIS Manager Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Open the IIS Manager Using the File Explorer Address Bar
 
@@ -113,13 +79,6 @@ To add and test a website using the IIS tool, follow these steps:
 2. Type**InetMgr.exe** in the File Explorer address bar and press**Enter** .
 
 ![Opening the IIS Manager Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-file-explorer-address-bar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Open the IIS Manager Using the Task Manager
 
@@ -135,10 +94,16 @@ Here’s how to access the IIS Manager using the Task Manager:
 ![Opening the IIS Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Open the IIS Manager Using the Control Panel
@@ -155,10 +120,10 @@ Here’s how to access the IIS Manager using the Task Manager:
 ![Opening the IIS Manager Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Open the IIS Manager Using the Command Prompt or PowerShell
@@ -188,10 +153,10 @@ Here’s how to open the IIS Manager using the Command Prompt:
 ![A lady using a Windows PC while sitting on a bench](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-sitting-on-a-bench.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can access most of the apps on Windows by double-clicking on the relevant files in the System32 folder.
@@ -223,10 +188,10 @@ Here’s how to open the IIS Manager using the Command Prompt:
 ![Creating the IIS Manager desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-the-iis-manager-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Type**Internet Information Services (IIS) Manager** in the "Name" box and then click the**Finish** button.
@@ -234,10 +199,10 @@ Here’s how to open the IIS Manager using the Command Prompt:
  Now, your desktop shortcut is ready. To make things easier, you should consider pinning this desktop shortcut to the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What’s Your Favorite Method for Accessing the IIS Tool?
@@ -259,39 +224,16 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-rev-up-your-social-media-impact-essential-hashtags-for-high-likes-and-follows/"><u>[New] Rev Up Your Social Media Impact Essential Hashtags for High Likes and Follows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-optimal-aspect-ratios-for-video-content-creation-for-2024/"><u>[Updated] Optimal Aspect Ratios for Video Content Creation for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1-ultimate-guide-mastering-your-live-streams-with-manycam-the-top-virtual-camera-solution/"><u>1. Ultimate Guide: Mastering Your Live Streams with ManyCam – The Top Virtual Camera Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-error-0x800f082f-in-microsofts-dism-tool/"><u>Conquering Error 0X800F082F in Microsoft's DISM Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-chatgpt-understanding-its-interpreter-functionality/"><u>Decoding ChatGPT: Understanding Its Interpreter Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/disentangling-steam-timeout-problems-on-windows-with-rust-techniques/"><u>Disentangling Steam Timeout Problems on Windows with Rust Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/diving-into-character-inspector-with-win11/"><u>Diving Into Character Inspector with Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-clearing-wins-cache-memory/"><u>Efficiently Clearing Win's Cache Memory</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-share-functionality-in-windows-11-and-11/"><u>Enhancing Share Functionality in Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-insight-converting-esd-files-to-iso-on-windows-machines/"><u>Essential Insight: Converting ESD Files to ISO on Windows Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-windows-11-defenses-adding-new-filter-options-to-context-menu/"><u>Fine-Tune Your Windows 11 Defenses: Adding New Filter Options to Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/from-invisible-to-visible-reversing-off-screen-window-absence-in-windows-11/"><u>From Invisible to Visible: Reversing Off-Screen Window Absence in Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/iconic-building-blueprints-for-mc-players-for-2024/"><u>Iconic Building Blueprints for MC Players for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itelwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itelwith/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/insider-secrets-discovering-where-your-programs-take-root/"><u>Insider Secrets: Discovering Where Your Programs Take Root</u></a></li>
-<li><a href="https://driver-error.techidaily.com/keyboard-illumination-issue-asus/"><u>Keyboard Illumination Issue - ASUS</u></a></li>
-<li><a href="https://win11.techidaily.com/making-win1011-recycle-bin-error-free-quick-solutions/"><u>Making Win10/11 Recycle Bin Error-Free: Quick Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-taskbar-modifications/"><u>Mastering Window 11 Taskbar Modifications</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-woes-resolve-error-x80072f30-easily/"><u>Microsoft Store Woes, Resolve Error X80072F30 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-gaming-screen-blackouts-on-win-os/"><u>Preventing Gaming Screen Blackouts on Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/rav-antivirus-popping-up-origin-and-safely-uninstalling/"><u>Rav Antivirus Popping Up: Origin & Safely Uninstalling</u></a></li>
-<li><a href="https://win11.techidaily.com/rediscovering-the-bygone-folder-interface/"><u>Rediscovering the Bygone Folder Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-mute-read-out-mode-on-word-software/"><u>Remedying Mute Read-Out Mode on Word Software</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-git-workflow-github-desktop-and-windows-1011/"><u>Streamlining Your Git Workflow: GitHub Desktop & Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/synergizing-technology-the-role-of-ai-in-windows-11-dynamics/"><u>Synergizing Technology: The Role of AI in Windows 11 Dynamics</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nubia Red Magic 8S Pro+ Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-fixing-screen-alignment-in-windows-os/"><u>Tips for Fixing Screen Alignment in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-on-resetting-achievements-in-steam-titles/"><u>Tips on Resetting Achievements in Steam Titles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-total-blackout-screenshots-in-the-popular-re8-game-for-desktop-users/"><u>Troubleshooting Total Blackout Screenshots in the Popular RE8 Game for Desktop Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-14-pro-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 14 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-protected-mode-what-does-it-entail/"><u>Windows 11'S Protected Mode: What Does It Entail?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonic-haven-best-dj-template-selections/"><u>[New] 2024 Approved Harmonic Haven Best DJ Template Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-chromebook-zoom-techniques-unveiled/"><u>2024 Approved Expert Chromebook Zoom Techniques Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-production-processes-a-magix-video-pro-x-perspective/"><u>2024 Approved Streamlining Production Processes A Magix Video Pro X Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/dvdfire/"><u>DVDコンテンツをFireタブレットで表示する手順及び再生が不可能な場合の対策</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-download-youtube-videos-as-mp3-a-free-tool-guide/"><u>Easily Download YouTube Videos as MP3: A Free Tool Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-techniques-for-transforming-flv-media-files-into-streamlined-mp4s/"><u>Effortless Techniques for Transforming FLV Media Files Into Streamlined MP4s</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-error-reconnect-with-destiny-2-servers-successfully/"><u>Fixing the Error: Reconnect with Destiny 2 Servers Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/free-guide-converting-wma-audio-files-to-m4a-format-using-windows/"><u>Free Guide: Converting WMA Audio Files to M4A Format Using Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>In 2024, Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-these-best-5-iphone-podcast-platforms-now/"><u>In 2024, Explore These Best 5 iPhone Podcast Platforms Now</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-10-blockbuster-films-edited-with-final-cut-pro-for-2024/"><u>Updated 10 Blockbuster Films Edited with Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

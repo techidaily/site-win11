@@ -1,7 +1,7 @@
 ---
 title: Winning Against Apex Legends Crashes in Windows 11
-date: 2024-09-11T09:46:19.498Z
-updated: 2024-09-12T09:46:19.498Z
+date: 2024-09-11T20:14:17.092Z
+updated: 2024-09-17T07:04:18.072Z
 tags:
   - windows10
   - windows11
@@ -39,23 +39,9 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Close Unnecessary Background Running Applications
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
 
@@ -71,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change the EasyAntiCheat Priority
 
  EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
@@ -93,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 ![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, switch to Apex Legends and check if you still experience the crash.
@@ -104,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
 
@@ -134,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check the Apex Legends Files for Corruption
 
  Apex Legends will likely crash on your computer if its files are corrupted. To detect and remove corruption, you'll have to verify the integrity of game files.
@@ -144,22 +123,16 @@ Here's how to do it in the EA app:
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
  If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Graphics Driver
 
@@ -185,28 +158,15 @@ Here's how to do it in the EA app:
 ![Allow an app through Windows Firewall in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-windows-firewall.jpg)
 3. Click the**Change settings** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
@@ -230,50 +190,16 @@ Here's how to do it in the EA app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1723007560545-half-life-alyx-pc-version-latency-and-stutter-no-more/"><u>'Half-Life: Alyx PC Version - Latency and Stutter No More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixed-borderlands-3-lag-issues/"><u>[FIXED] Borderlands 3 Lag Issues</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-convert-fb-video-to-downloadable-mp3/"><u>[Updated] Convert FB Video to Downloadable MP3</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-memory-to-moments-share-images-seamlessly-today-for-2024/"><u>[Updated] From Memory to Moments Share Images Seamlessly Today for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-nimbusaieditor-soaring-edits-to-new-heights/"><u>[Updated] In 2024, NimbusAiEditor Soaring Edits to New Heights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-smooth-transition-of-scale-enhancing-instagram-tv-video-clarity/"><u>2024 Approved Smooth Transition of Scale Enhancing Instagram TV Video Clarity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-phony-chatgpt-variants-tips-for-safe-selection-in-the-apple-store/"><u>Avoid Phony ChatGPT Variants - Tips for Safe Selection in the Apple Store</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-valorant-communication-breakdowns-on-windows-78/"><u>Combating Valorant Communication Breakdowns on Windows 7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/dazzling-display-holiday-themed-window-wonders/"><u>Dazzling Display: Holiday Themed Window Wonders</u></a></li>
-<li><a href="https://win11.techidaily.com/designing-keybindings-for-windows-applications/"><u>Designing Keybindings for Windows Applications</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-asus-touchpad-drivers-on-windows-10-devices/"><u>Easy Installation of ASUS Touchpad Drivers on Windows 10 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-obstacles-restoring-system-calls-on-win1111/"><u>Eliminating Obstacles: Restoring System Calls on Win11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-to-show-disk-space/"><u>Enhancing Windows Explorer to Show Disk Space</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/find-your-perfect-mac-live-streamer-from-here/"><u>Find Your Perfect Mac Live Streamer From Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-keep-your-zoom-updated-on-both-windows-and-mac-computers/"><u>How to Keep Your Zoom Updated on Both Windows and Mac Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-pin-almost-anything-to-the-windows-11-taskbar/"><u>How to Pin Almost Anything to the Windows 11 Taskbar</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/how-to-remove-hardcoded-subtitles-from-mp4-mkv-and-avi-files-efficiently/"><u>How to Remove Hardcoded Subtitles From MP4, MKV & AVI Files Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-temporarily-stop-automatic-windows-updates/"><u>How to Temporarily Stop Automatic Windows Updates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-resolve-vanished-watch-video-icon-issue-2023/"><u>In 2024, Resolve Vanished Watch Video Icon Issue, 2023</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-pathway-to-profit-enabling-youtuber-earnings-via-mobile-devices/"><u>In 2024, The Pathway to Profit Enabling YouTuber Earnings via Mobile Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v29e-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V29e Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mp3s-on-android-the-best-free-tools-for-2024/"><u>Mastering MP3s on Android - The Best Free Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-connections-with-spotify/"><u>Mastering Windows 11 Connections with Spotify</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-error-resolution-0x80072f8f/"><u>Mastering Windows Error Resolution: 0X80072f8f</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-productivity-with-fellowes-microban-best-budget-wired-keyboard-compared-and-reviewed/"><u>Maximize Productivity with Fellowes Microban - Best Budget Wired Keyboard Compared and Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/nine-essential-tips-for-new-windows-11-users-avoid-these-errors/"><u>Nine Essential Tips for New Windows 11 Users - Avoid These Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-missing-dll-error-rockalldlldll/"><u>Resolving the Missing DLL Error: Rockalldll.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/reworking-windows-11-to-utilize-traditional-search-icon/"><u>Reworking Windows 11 to Utilize Traditional Search Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-disconnecting-your-iphone-from-an-ipad/"><u>Step-by-Step Guide: Disconnecting Your iPhone From an iPad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stepwise-construction-of-a-web-app-powered-by-chatgpt/"><u>Stepwise Construction of a Web App Powered by ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/subtle-system-tweaks-windows-toolbars-unseen/"><u>Subtle System Tweaks: Windows Toolbars Unseen</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-non-signature-compliant-update-files-on-windows/"><u>Tackling Non-Signature Compliant Update Files on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quest-to-resolve-skies-sse-woes/"><u>The Quest to Resolve Skies' SSE Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-technique-for-designing-custom-lock-patterns-in-windows-11/"><u>The Ultimate Technique for Designing Custom Lock Patterns in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-to-fix-windows-error-message-0x8007007e/"><u>Tips and Tricks to Fix Windows Error Message 0X8007007E</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tips-to-resolve-no-servers-found-navigating-apex-legends-windows-(156-chars/"><u>Top Tips to Resolve 'No Servers Found': Navigating Apex Legends Windows (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-win-error-31-in-network-connections/"><u>Troubleshooting WIN Error 31 in Network Connections</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-finding-the-perfect-region-free-dvd-player-for-your-mac/"><u>Ultimate Guide to Finding the Perfect Region-Free DVD Player for Your Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-tech-bargains-save-on-amazon-fire-tv-ecoflows-portable-powerhouse-and-the-latest-galaxy-smartphone/"><u>Unbeatable Tech Bargains: Save on Amazon Fire TV, EcoFlow's Portable Powerhouse, & the Latest Galaxy Smartphone!</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-microsoft-store-on-windows-10-and-11-with-x800704cf-error/"><u>Unblocking Microsoft Store on Windows 10 & 11 with X800704CF Error</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-pc-strategies-to-exit-s-mode/"><u>Unlocking Your PC: Strategies to Exit S Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwelcome-intruders-a-new-threat-to-gamers/"><u>Unwelcome Intruders: A New Threat to Gamers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Updated Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>[New] In 2024, Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-comprehensive-examination-razer-kiyo-cam-for-2024/"><u>[Updated] Comprehensive Examination Razer Kiyo Cam for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidias-top-performance-enhancer-download-gtx-980-ti-drivers-today/"><u>NVIDIA's Top Performance Enhancer: Download GTX 980 Ti Drivers Today!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x50i-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X50i? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-the-top-10-mp4-to-avi-video-converter-programs-available-for-free/"><u>The Ultimate List of the Top 10 MP4-to-AVI Video Converter Programs Available for Free</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-gif-editors-step-by-step-guide-for-cropping-gifs-on-desktop-mobile-and-web/"><u>Top 7 GIF Editors: Step-by-Step Guide for Cropping GIFs on Desktop, Mobile, and Web</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-avcd-to-avi-transcoder-for-pcs-running-windows-11-your-ultimate-guide/"><u>Top Rated AVCD to AVI Transcoder for PCs Running Windows 11 – Your Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-common-issues-why-doesnt-your-dvd-video-converter-successfully-convert-vob-files/"><u>Troubleshooting Common Issues: Why Doesn't Your DVD Video Converter Successfully Convert VOB Files?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-unavailable-desktop-in-windows-system-profile-settings/"><u>Understanding and Fixing 'Unavailable' Desktop in Windows System Profile Settings</u></a></li>
 </ul></div>
 

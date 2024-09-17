@@ -1,7 +1,7 @@
 ---
 title: Maximize Windows 11 Pinlist - Tips & Tricks
-date: 2024-09-11T09:39:33.839Z
-updated: 2024-09-12T09:39:33.839Z
+date: 2024-09-11T22:03:32.152Z
+updated: 2024-09-16T19:20:25.152Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,9 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do I Display More Pinned Items on the Start Menu on Windows 11?
 
  Before you proceed, make sure you’ve updated Windows 11 to the latest version. Then, you can use the Settings apps or the Registry Editor to show more apps and programs in the Windows 11 Start Menu
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using the Settings App
 
@@ -54,19 +40,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 ![the layout section of the windows 11 personalization settings with the more pins option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/layout-section-start-settings-windows-11.jpg)
 
  If you want to return the number of pinned items on the Start Menu to the default setting, follow steps**1** and**2** and tick the**Default** radio button instead.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using the Registry Editor
 
@@ -81,36 +54,16 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 ![windows registry with the start layout value selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-reg-editor-start-layout-value-selected.jpg)
 4. Change**Value data** to**1** to add more pins to the Start Menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![editing the start value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/start-layout-value-regedit.jpg)
 5. Restart your Windows 11 PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you ever want to return the default layout for the pinned items on the Start Menu, just change**Value data** of the**Start\_Layout** value back to**0** in the Registry Editor.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expand Your Taskbar by Displaying More Items
@@ -134,48 +87,17 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[New] 2024 Approved Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-vlog-discussion-ideas-each-day/"><u>[New] In 2024, Fresh Vlog Discussion Ideas Each Day</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pencilpop-in-depth-review-and-training-materials-2024/"><u>[New] PencilPop In-Depth Review & Training Materials 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-streaming-platforms-for-authors/"><u>[Updated] Prime Streaming Platforms for Authors</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-win11s-systray-with-caps-lock-and-num-key-icons/"><u>Customizing Win11's SysTray with Caps Lock & Num Key Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-tactics-to-ensure-v22h2-update-on-windows-11-proceeds/"><u>Effective Tactics to Ensure V22H2 Update on Windows 11 Proceeds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences-for-2024/"><u>Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-se-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/file-organization-breakthroughs-with-simultaneous-window-folders/"><u>File Organization Breakthroughs with Simultaneous Window Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-v30-lite-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo V30 Lite 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-windows-settings-app-crashing-try-these-fixes/"><u>Is the Windows Settings App Crashing? Try These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-customizing-desktop-pictures-in-windows/"><u>Master the Art of Customizing Desktop Pictures in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-navigation-learn-to-use-gestures-in-ms-edge-for-windows-11/"><u>Master the Art of Navigation: Learn to Use Gestures in MS Edge for Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/maximizing-efficiency-in-rl-video-recordings/"><u>Maximizing Efficiency in RL Video Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-misidentified-gaming-status-on-discord-pc-edition/"><u>Mending Misidentified Gaming Status on Discord, PC Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-reactivate-nonfunctional-nvidia-cp/"><u>Methods to Reactivate Nonfunctional Nvidia CP</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-default-save-issues-in-modern-windows/"><u>Preventing Default Save Issues in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-for-windows-11s-software-folder-restarts/"><u>Quick-Fix Guide for Windows 11'S Software Folder Restarts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-enable-gpu-usage-for-cyberpunk-2077-in-windows-10/"><u>Resolved: How to Enable GPU Usage for Cyberpunk 2077 in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-d3d11-compatible-graphics-errors-in-win11win10/"><u>Resolving D3D11 Compatible Graphics Errors in Win11/Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disk-read-error-on-windows-os/"><u>Resolving Disk Read Error on Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-errors-in-the-configuration-segment-for-services/"><u>Resolving Errors in the Configuration Segment for Services</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-transition-turning-windows-cr2-photos-into-jpgs/"><u>Seamless Transition: Turning Windows CR2 Photos Into JPGs</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-file-maintenance-the-autodelete-system-for-windows-users/"><u>Simplifying File Maintenance: The AutoDelete System for Windows Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/single-out-focal-point-using-affinity/"><u>Single-Out Focal Point Using Affinity</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-dns-flushing-in-modern-windows/"><u>Step-by-Step DNS Flushing in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-the-roblox-must-close-warning-in-windows/"><u>Steps to Eliminate the 'Roblox Must Close' Warning in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-backup-cortanas-digital-footprint-windows/"><u>Strategies to Backup Cortana's Digital Footprint (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/stream-gaming-secrets-integrating-intelligence-with-intel/"><u>Stream Gaming Secrets: Integrating Intelligence with Intel</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-background-services-on-windows/"><u>Streamlining Background Services on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-skillful-technique-to-obscure-window-11-search/"><u>The Skillful Technique to Obscure Window 11 Search</u></a></li>
-<li><a href="https://win11.techidaily.com/top-six-reasons-for-switching-to-win11-from-macos/"><u>Top Six Reasons for Switching to Win11 From macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/track-down-absent-control-settings-on-your-new-pc/"><u>Track Down Absent Control Settings on Your New PC</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-persistent-windows-volume-mixer/"><u>Troubleshooting Non-Persistent Windows Volume Mixer</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-mastering-github-desktop-for-windows-based-developers/"><u>Tutorial: Mastering GitHub Desktop for Windows-Based Developers</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-giants-identifying-heavy-disk-space-usage-on-pcs/"><u>Uncovering Giants: Identifying Heavy Disk Space Usage on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-full-potential-of-your-browser-with-gestures-in-microsoft-edge-windows-11/"><u>Unlock the Full Potential of Your Browser with Gestures in Microsoft Edge, Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-despite-operational-error-740/"><u>Unlocking Windows 11'S Potential Despite Operational Error #740</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-1011-remote-errors-quickly/"><u>Unraveling Windows 10/11 Remote Errors Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/win-operating-system-customize-how-you-handle-file-deletions/"><u>Win Operating System: Customize How You Handle File Deletions</u></a></li>
-<li><a href="https://win11.techidaily.com/winexe-transformation-techniques-with-bat-scripts/"><u>WinEXE Transformation Techniques with .bat Scripts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-explore-our-12-tycoon-classics-for-engrossing-experiences/"><u>[Updated] In 2024, Explore Our #12 Tycoon Classics for Engrossing Experiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-video-sharing-warriors-which-fights-better-obs-or-twitch-studio/"><u>2024 Approved Video Sharing Warriors Which Fights Better - OBS or Twitch Studio?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/eyesharp-record-chromeos-native-cam-for-2024/"><u>EyeSharp Record ChromeOS Native Cam for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-leverage-openais-shap-e-for-insightful-feature-attribution-in-ai-models/"><u>How to Leverage OpenAI’s Shap-E for Insightful Feature Attribution in AI Models</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-visual-impact-with-extra-camera-work/"><u>In 2024, Maximizing Visual Impact with Extra Camera Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-the-latest-innovation-the-galaxy-z-flip-5-your-next-must-have-flip-smartphone/"><u>Samsung Unveils the Latest Innovation: The Galaxy Z Flip 5 - Your Next Must-Have Flip Smartphone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-the-top-10-mp4-to-avi-video-converter-programs-available-for-free/"><u>The Ultimate List of the Top 10 MP4-to-AVI Video Converter Programs Available for Free</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-blaze-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Blaze Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-gif-editors-step-by-step-guide-for-cropping-gifs-on-desktop-mobile-and-web/"><u>Top 7 GIF Editors: Step-by-Step Guide for Cropping GIFs on Desktop, Mobile, and Web</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-avcd-to-avi-transcoder-for-pcs-running-windows-11-your-ultimate-guide/"><u>Top Rated AVCD to AVI Transcoder for PCs Running Windows 11 – Your Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-common-issues-why-doesnt-your-dvd-video-converter-successfully-convert-vob-files/"><u>Troubleshooting Common Issues: Why Doesn't Your DVD Video Converter Successfully Convert VOB Files?</u></a></li>
 </ul></div>
 

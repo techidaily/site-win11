@@ -1,7 +1,7 @@
 ---
 title: "Modernizing Windows 11: Essential Modifications and Improvements for the Taskbar"
-date: 2024-09-11T09:45:38.062Z
-updated: 2024-09-12T09:45:38.062Z
+date: 2024-09-13T18:39:19.779Z
+updated: 2024-09-17T04:32:22.106Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Enable Users to Change the Location of the Taskbar
 
 ![A taskbar on top in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/taskbar-on-top-in-windows-11.jpg)
@@ -54,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  It may not be available in Windows 11 anytime soon, but we would like to see it in future versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Add Better Drag And Drop Support
 
  If you are running Windows 11, version 22H2, you can drag files onto apps in the taskbar to open them directly in specific apps. This way, you can open files faster than by double-clicking the app icon with your mouse and then opening files. However, there is still room for improvement. For example, unlike in macOS Dock, you can not simply drag a file or folder to Windows 11 taskbar.
@@ -68,28 +54,15 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  Windows 11 taskbar will be much more functional if Microsoft adds the ability to drag and drop files and folders onto it. That said, you can[pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) .
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Integrate Events Into the Calendar Flyout in the Taskbar
 
 ![Windows 10 calendar flyout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-10-calendar-flyout.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2016/04/22/announcing-windows-10-insider-preview-build-14328-for-pc-and-mobile/)
 
@@ -97,18 +70,18 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Microsoft can improve the taskbar by bringing back the ability to view upcoming events as well as create new ones from the Calendar flyout.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. What More Can Microsoft Do to Improve the Taskbar?
 
  Apart from the changes mentioned above, Microsoft can also make the Windows taskbar more modern and more consistent with the design of Windows 11\. For example, one of the changes the software company can make is implementing a rounded-corner design to the taskbar.
 
 ![Floating taskar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/floating-taskar-in-windows-11.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit: Albacore/[Twitter](https://twitter.com/thebookisclosed/status/1580287591890329601)
 
@@ -121,28 +94,15 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  Had Microsoft used the same Windows 10 taskbar in Windows 11, we wouldn't have complained so much about the missing features. On the better-late-than-never principle, Microsoft should add all of those via future software updates.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Recent Changes Microsoft Introduced in the Windows 11 Taskbar
 
 ![Tablet optimized taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tablet-optimized-taskbar-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2022/09/08/announcing-windows-11-insider-preview-build-25197/)
 
@@ -171,34 +131,18 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-crafting-unique-360-degree-videos-on-an-iphone/"><u>[New] Crafting Unique 360-Degree Videos on an iPhone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-video-snippets-turn-into-dynamic-shareable-gifs/"><u>[New] Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mobile-magic-transform-your-snaps-at-zero-cost/"><u>2024 Approved Mobile Magic Transform Your Snaps at Zero Cost</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-repair/"><u>Aiseesoft Video Repair</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-windows-11-directory-exposure/"><u>Customize Your Window's 11 Directory Exposure</u></a></li>
-<li><a href="https://win11.techidaily.com/deconstructing-the-keygen-virus-symptoms-damage-and-how-to-eradicate-it-on-windows/"><u>Deconstructing the Keygen Virus: Symptoms, Damage, and How to Eradicate It on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/dial-down-dysfunction-restore-your-pcs-essential-esc-keys/"><u>Dial Down Dysfunction: Restore Your PC's Essential Esc Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/excellence-in-organizing-top-windows-to-dos-revealed/"><u>Excellence in Organizing: Top Windows To-Dos Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-based-valorant-audio-glitches/"><u>Fixing Windows-Based Valorant Audio Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-g42-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia G42 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-8-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 8 Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-around-regedit-is-not-found/"><u>How to Get Around Regedit Is Not Found</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-preserve-your-custom-audio-settings-on-windows/"><u>How to Preserve Your Custom Audio Settings on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oppo-a59-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Oppo A59 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-tech-top-10-webcam-recorders-in-win-11/"><u>In 2024, Essential Tech Top 10 Webcam Recorders in Win 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images/"><u>In 2024, Metaverse Mirth Makers Top Tips for Crafting Hilarious Virtual Images</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-restore-google-drive-sync-on-your-desktop/"><u>Master Plan: Restore Google Drive Sync on Your Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-of-common-rainmeter-challenges-on-pcs/"><u>Navigating the Maze of Common Rainmeter Challenges on PCs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/navigating-the-path-to-popularity-secrets-of-successful-tiktok-unboxers/"><u>Navigating the Path to Popularity Secrets of Successful TikTok Unboxers</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-disabled-cpu-cooling-mechanism-in-os/"><u>Reactivating Disabled CPU Cooling Mechanism in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-no-saving-problem-with-photoapp/"><u>Remedy for 'No Saving' Problem with PhotoApp</u></a></li>
-<li><a href="https://win11.techidaily.com/screenshots-secure-stow-in-windows/"><u>Screenshots' Secure Stow in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-type-win-navigating-text-creation-using-windows-whisper/"><u>Speak, Type, Win: Navigating Text Creation Using Windows Whisper</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-windows-virtualbox-efail-0x80004005-glitch/"><u>Steps to Fix Windows Virtualbox E_FAIL (0X80004005) Glitch</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-pin-modification/"><u>The Ultimate Guide to Windows PIN Modification</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-upgrade-top-5-tools-to-supercharge-your-pc/"><u>Turbo Upgrade: Top 5 Tools to Supercharge Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-peak-performance-windows-11s-best-productivity-widgets/"><u>Unlocking Peak Performance: Windows 11'S Best Productivity Widgets</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-security-reboot-a-guide-to-altering-rules/"><u>Windows Security Reboot: A Guide to Altering Rules</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-subsystem-phaseout-strategizing-for-future-android-support/"><u>Windows Subsystem Phaseout: Strategizing for Future Android Support</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lighten-up-with-funny-images-in-adobe/"><u>[New] Lighten Up with Funny Images in Adobe</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-visual-content-management-for-ig-users/"><u>2024 Approved Visual Content Management for IG Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tver/"><u>画面録画機能を使ってTVer番組視聴法：パソコンでの設定ガイド</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/all-in-one-garmin-venu-analysis-mastering-continuous-activity-tracking-and-well-being-monitoring/"><u>All-in-One Garmin Venu Analysis: Mastering Continuous Activity Tracking & Well-Being Monitoring</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/st-cost-free-visuals-from-leading-4-youtube-hubs-for-2024/"><u>Harvest Cost-Free Visuals From Leading 4 YouTube Hubs for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-x5-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco X5 Pro Without PUK Codes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-music-collection-convert-doobie-brothers-dvds-to-high-quality-mp4mp3-files/"><u>Transform Your Music Collection: Convert Doobie Brothers' DVDs to High-Quality MP4/MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-incompatible-sound-codes-on-samsung-tvs-simple-solutions-for-audio-issues/"><u>Troubleshooting Incompatible Sound Codes on Samsung TVs - Simple Solutions for Audio Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-solving-the-mp4-playback-issue-in-vlc-on-your-windows-pc/"><u>Ultimate Guide: Solving the MP4 Playback Issue in VLC on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unauthorized-tutorial-steps-to-modify-someone-elses-youtube-content/"><u>Unauthorized Tutorial: Steps to Modify Someone Else's YouTube Content</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-x-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone X has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10movjpeg/"><u>Windows 10向けMOVファイルからの高品質JPEGへの変換手順</u></a></li>
 </ul></div>
 

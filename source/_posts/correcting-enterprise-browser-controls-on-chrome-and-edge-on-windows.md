@@ -1,7 +1,7 @@
 ---
 title: Correcting Enterprise Browser Controls on Chrome and Edge on Windows
-date: 2024-09-11T09:37:41.760Z
-updated: 2024-09-12T09:37:41.760Z
+date: 2024-09-10T22:47:53.134Z
+updated: 2024-09-16T18:39:39.879Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Causes the "Your Browser is Managed By Your Organization" Error?
 
  If you use a work computer, this message indicates that your organization controls some settings and behavior of the Edge or Chrome browser. You can ignore the message if you are using a work computer and contact your IT admin to verify the cause.
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
@@ -62,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
  Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
@@ -83,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 4. Under the**Policies** key, locate and select the**Chrome** or**Edge** folder. If you see any policies in the right pane that you didn’t create yourself, right-click on the policies and select**Delete** .  
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
@@ -132,6 +104,13 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
@@ -142,10 +121,10 @@ To reset Microsoft Edge:
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
@@ -158,22 +137,15 @@ To remove adware using MalwareBytes:
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
@@ -208,50 +180,19 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-beyond-audience-counting-the-intricacies-of-youtubes-metrics/"><u>[New] 2024 Approved Beyond Audience Counting The Intricacies of YouTube’s Metrics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-footage-enhancement-without-borders/"><u>[New] YouTube Footage Enhancement Without Borders</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unlocking-xcreative-hub-potential-a-full-guide-review/"><u>[Updated] 2024 Approved Unlocking XCreative Hub Potential - A Full Guide Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-kept-secrets-ios-10-best-no-cost-collages-and-edits/"><u>[Updated] Explore the Best-Kept Secrets IOS' 10 Best, No-Cost Collages & Edits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-microphones-compatible-with-macos/"><u>[Updated] Top 5 Microphones Compatible with MacOS</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-walkthrough-for-integrating-virtual-games-in-playnite/"><u>Comprehensive Walkthrough for Integrating Virtual Games in Playnite</u></a></li>
-<li><a href="https://win11.techidaily.com/conceal-non-active-applications-in-win11/"><u>Conceal Non-Active Applications in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-copilot-key-in-windows-11-enhance-your-experience/"><u>Decoding Copilot Key in Windows 11 - Enhance Your Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-missing-sd-card-view-on-file-explorer-platform/"><u>Enable Missing SD Card View on File Explorer Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/ftdibussys-in-depth-investigating-windows-memory-integrity-breach/"><u>Ftdibus.sys in Depth: Investigating Windows Memory Integrity Breach</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 6s Plus?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/intro-to-windows-accessibility-must-know-tips/"><u>Intro to Windows Accessibility: Must-Know Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/kickstart-windows-11-help-and-support-mechanism/"><u>Kickstart Windows 11 Help & Support Mechanism</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-server-with-iis-manager/"><u>Master Your Windows Server with IIS Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-explorer-top-errors-and-how-to-evade-them/"><u>Mastering File Explorer: Top Errors & How to Evade Them</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-game-potential-with-these-pro-gamers-top-tips-for-win-11/"><u>Maximize Game Potential with These Pro-Gamers' Top Tips for Win 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/micro-influencer-approach-to-live-youtube-streams-from-mobile-for-2024/"><u>Micro-Influencer Approach to Live Youtube Streams From Mobile for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/modifying-password-reset-timeframe-post-failure-in-win-1011/"><u>Modifying Password Reset Timeframe Post-Failure in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-functional-adjustments-windows-1011-edition/"><u>Navigating Functional Adjustments: Windows 10/11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-printer-hurdles-on-the-latest-windows-version/"><u>Overcoming Printer Hurdles on the Latest Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-common-steam-freeze-during-gaming/"><u>Overcoming Windows 11: Common Steam Freeze During Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-exe-opener-dilemmrances/"><u>Overcoming Windows Exe Opener Dilemmrances</u></a></li>
-<li><a href="https://win11.techidaily.com/overriding-windows-update-requests/"><u>Overriding Windows Update Requests</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-tactics-for-perfect-window-updates/"><u>Precision Tactics for Perfect Window Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/purple-pandemonium-a-guide-to-regaining-your-pcs-true-colors/"><u>Purple Pandemonium? A Guide to Regaining Your PC's True Colors</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-virtualbox-error-code-0x80004005-in-windows/"><u>Remedying Virtualbox Error Code: 0X80004005 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-visual-placement-on-windows-devices/"><u>Reversing Visual Placement on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-your-game-with-expert-multitasking-techniques-for-windows-11/"><u>Step Up Your Game with Expert Multitasking Techniques for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-geforce-nows-error-code-0xc0f1103f-in-windows/"><u>Steps to Fix GeForce Now's Error Code 0Xc0f1103f in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-error-e8024002e/"><u>Steps to Overcome Windows Error E:8024002E</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-no-write-windows-saving-hurdles/"><u>Strategies for Overcoming No Write Windows Saving Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-smooth-keyboard-shortcuts-for-3d-artists/"><u>Swift and Smooth: Keyboard Shortcuts for 3D Artists</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-technique-to-design-personalized-lock-patterns-on-windows-11/"><u>The Complete Technique to Design Personalized Lock Patterns on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-picks-of-drawing-apps-for-windows-11-enthusiasts/"><u>The Top 7 Picks of Drawing Apps for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/tracing-your-digital-steps-in-windows-11/"><u>Tracing Your Digital Steps in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-off-windows-monochrome-theme-blanket/"><u>Turning Off Windows' Monochrome Theme Blanket</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-guide-to-converting-your-dvd-media-to-mp4-easy-solutions-for-windows-and-mac-users/"><u>Ultimate Guide to Converting Your DVD Media to MP4: Easy Solutions for Windows and Mac Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-blue-screen-mysteries-where-are-the-logs/"><u>Unlocking Blue Screen Mysteries: Where Are the Logs?</u></a></li>
-<li><a href="https://windows11.techidaily.com/verify-the-validity-three-ways-to-check-windows-11/"><u>Verify the Validity: Three Ways to Check Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-microsoft-copilot-how-to-use-copilot-in-windows/"><u>What Is Microsoft Copilot? How to Use Copilot in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win-pc-download-speedups-navigate-the-net-faster/"><u>Win-PC Download Speedups: Navigate the Net Faster</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-torrent-clients-the-best-of-windows-list/"><u>Winning Torrent Clients: The Best of Windows List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-8-youtube-to-avi-convertors-explained/"><u>[Updated] 2024 Approved Top 8 YouTube-to-AVI Convertors Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-experts-guide-to-screencast-mastery-and-impactful-content/"><u>[Updated] The Expert's Guide to Screencast Mastery and Impactful Content</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-screenshot-and-recorder-software-for-professors/"><u>Best Screenshot and Recorder Software for Professors</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-gearsports-frame-rate-tactics/"><u>Boosting Gearsports Frame Rate Tactics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/expanding-viewership-tweeting-to-fb-effectively/"><u>Expanding Viewership Tweeting to FB Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a70-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A70</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4pcgif5/"><u>MP4ビデオをPC上でGIFへの変換方法:5選ベストガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/offline-entertainment-unlimited-quick-download-movies-shows-songs-and-special-features-for-on-the-go-viewing/"><u>Offline Entertainment Unlimited: Quick-Download Movies, Shows, Songs, and Special Features for On-The-Go Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/playing-japanese-region-bddvd-on-american-systems-without-a-specialized-disc-player/"><u>Playing Japanese Region BD/DVD on American Systems Without a Specialized Disc Player</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-top-3-techniques-for-turning-your-google-slides-into-videos/"><u>Seamless Conversion: Top 3 Techniques for Turning Your Google Slides Into Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-audio-conversion-discover-the-three-best-avi-to-mp3-transformation-techniques/"><u>Simplify Audio Conversion: Discover the Three Best AVI to MP3 Transformation Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-comprehensive-manual-for-component-settings-in-w11/"><u>The Comprehensive Manual for Component Settings in W11</u></a></li>
 </ul></div>
 

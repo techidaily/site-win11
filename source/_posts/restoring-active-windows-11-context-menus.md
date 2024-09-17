@@ -1,7 +1,7 @@
 ---
 title: Restoring Active Windows 11 Context Menus
-date: 2024-09-11T09:41:37.814Z
-updated: 2024-09-12T09:41:37.814Z
+date: 2024-09-14T08:59:51.516Z
+updated: 2024-09-17T06:00:15.993Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart the File Explorer Process
 
  File Explorer handles the right-click context menu on the Windows desktop. Users confirm that refreshing File Explorer can sometimes fix the context menu when it’s not working. Our article about [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) explains how to apply this potential resolution with Task Manager.
@@ -51,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
  The context menu loses functionality when Windows 10 is in Tablet Mode. So, check whether you've inadvertently set your PC to Tablet Mode. Our [turning off Windows 10’s tablet mode](https://www.makeuseof.com/turn-off-tablet-mode-windows-10/) provides details about how to disable that mode via the Action Center.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the "Remove File Explorer" Context Menu Policy Setting
@@ -74,21 +67,7 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/not-configured-radio-button.jpg)
 8. Click **Apply** to set the policy change.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Select **OK** to exit the Remove File Explorer’s default context menu window.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Create a NoViewContextMenu Registry DWORD
 
@@ -108,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 7. Set the **NoViewContextMenu** value to **0** in the **data** box if it’s not already and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Modify the ContextMenuHandlers Key
@@ -127,26 +112,26 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 ![The ContextMenuHandlers key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/contextmenuhandlers-key.jpg)
 5. Exit Registry Editor and select to restart your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Update Your Mouse’s Driver
 
  The mouse is the peripheral with which users activate the context menu. Although not an especially likely cause, it’s possible your context menu isn’t working because your mouse’s driver is faulty or outdated. So, try updating the driver for your mouse. We have a guide about [finding and replacing old device drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) that provides details for how you can apply this potential fix.
 
 ![A mouse driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-download-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Incidentally, you check if the context menu not working is a mouse issue by utilizing the hotkey for that menu. Try pressing the **Shift** \+ **F10** hotkey when on the desktop to see if that opens the context menu. Or select a desktop shortcut and press that keyboard shortcut. If the context menu works then, there could be an issue with your mouse or its right button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
@@ -158,20 +143,13 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you’ve set the clean boot, restart Windows and right-click on the desktop to see if the context menu works ok. If it does, then it’s probably better to leave the boot configuration as set. However, you can try to identify what program or service was causing the issue by gradually re-enabling disabled startup apps and services until the context menu stops working again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Disable Third-Party Context Menu Shell Extensions With CCleaner
 
@@ -188,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 ![The Context Menu tab in CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-context-menu-tab-in-cccleaner.jpg)
 8. Select third-party shell extensions and click **Disable** to turn them off.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the Desktop Context Menu Fixed With These Resolutions
 
  The troubleshooting methods above are quite thorough and will likely resolve most Windows context menu issues. Lots of users have been able to fix the context menu not working by applying the registry tweak solutions.
@@ -203,52 +174,6 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
 
  Although desktop context menu access is seldom essential, it offers handy shortcuts, especially when you've customized it. So, it’s important to fix the desktop context menu when it’s not working. If your Windows desktop context menu isn’t functioning right, try applying the troubleshooting methods below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-peering-into-popularity-twitters-top-videos/"><u>[New] Peering Into Popularity Twitter’s Top Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-setting-up-your-youtube-studio-essential-equipment-list/"><u>[Updated] Setting Up Your YouTube Studio Essential Equipment List</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-valorant-communication-breakdowns-on-windows-78/"><u>Combating Valorant Communication Breakdowns on Windows 7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/concealing-activities-deactivate-windows-eye-on-users/"><u>Concealing Activities: Deactivate Windows' Eye on Users</u></a></li>
-<li><a href="https://win11.techidaily.com/designing-keybindings-for-windows-applications/"><u>Designing Keybindings for Windows Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-windows-11-taskbar-improvements/"><u>Discover Windows 11 Taskbar Improvements</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-obstacles-restoring-system-calls-on-win1111/"><u>Eliminating Obstacles: Restoring System Calls on Win11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/escalate-your-internet-speed-triumph-over-windows-100mbps-barrier/"><u>Escalate Your Internet Speed: Triumph Over Windows' 100Mbps Barrier</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-complaints-for-new-windows-11-users/"><u>Essential Complaints for New Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-requirement-alert-need-a-d3d11-compatible-gpu-to-operate-the-engine-smoothly/"><u>Essential Requirement Alert: Need a D3D11-Compatible GPU to Operate the Engine Smoothly</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-strategies-for-configuring-dns-in-windows-11/"><u>Expert Strategies for Configuring DNS in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-your-epson-v500-scanner-software-here/"><u>Get the Latest Version of Your Epson V500 Scanner Software Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-system-errors-following-a-windows-update/"><u>How to Correct System Errors Following a Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-audio-error-windows-11-0xc00d36b4/"><u>How to Mend Audio Error: Windows 11, 0XC00D36B4</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-spontaneous-command-window-flashes/"><u>How to Stop Spontaneous Command Window Flashes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-temporarily-stop-automatic-windows-updates/"><u>How to Temporarily Stop Automatic Windows Updates</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 2FRP Lock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-movie-power-up-10-titles-for-a-higher-purpose/"><u>In 2024, Movie Power-Up 10 Titles for a Higher Purpose</u></a></li>
-<li><a href="https://win11.techidaily.com/lowering-unrealcefsubprocess-impact-on-system-resources/"><u>Lowering UnrealCEFSubprocess Impact on System Resources</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-hiding-power-button-in-windows-11-settings/"><u>Masterclass: Hiding Power Button in Windows 11 Settings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-fbs-look-back-feature-edit-tutorial-for-2024/"><u>Mastering FB's Look Back Feature Edit Tutorial for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-subnet-settings-windows-11-guide/"><u>Mastering Subnet Settings: Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-connections-with-spotify/"><u>Mastering Windows 11 Connections with Spotify</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-error-resolution-0x80072f8f/"><u>Mastering Windows Error Resolution: 0X80072f8f</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/must-watch-top-rated-films-on-netflix-in-stunning-4k-quality/"><u>Must-Watch Top-Rated Films on Netflix in Stunning 4K Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/nine-essential-tips-for-new-windows-11-users-avoid-these-errors/"><u>Nine Essential Tips for New Windows 11 Users - Avoid These Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nintendo-showdown-analyzing-the-features-of-switch-lite-vs-oled/"><u>Nintendo Showdown: Analyzing the Features of Switch Lite Vs. OLED</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-apple-image-failures-in-windows-1011/"><u>Overcoming Apple Image Failures in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-excessive-opening-of-file-explorer/"><u>Overcoming Excessive Opening of File Explorer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pros-vs-cons-of-adopting-a-local-legal-language-model-llm-in-law-firms/"><u>Pros Vs. Cons of Adopting a Local Legal Language Model (LLM) in Law Firms</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-absence-of-msvcr120dll-in-windows-environments/"><u>Resolving Absence of MSVCR120.DLL in Windows Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-missing-dll-error-rockalldlldll/"><u>Resolving the Missing DLL Error: Rockalldll.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-windows-service-error-1053/"><u>Strategies for Overcoming Windows Service Error 1053</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-non-signature-compliant-update-files-on-windows/"><u>Tackling Non-Signature Compliant Update Files on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-technique-for-designing-custom-lock-patterns-in-windows-11/"><u>The Ultimate Technique for Designing Custom Lock Patterns in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-to-fix-windows-error-message-0x8007007e/"><u>Tips and Tricks to Fix Windows Error Message 0X8007007E</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tips-to-resolve-no-servers-found-navigating-apex-legends-windows-(156-chars/"><u>Top Tips to Resolve 'No Servers Found': Navigating Apex Legends Windows (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-microsoft-store-on-windows-10-and-11-with-x800704cf-error/"><u>Unblocking Microsoft Store on Windows 10 & 11 with X800704CF Error</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-successful-device-connection-on-windows-11/"><u>Unlocking Successful Device Connection on Windows 11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-safe-and-legal-route-to-free-filmora-software/"><u>Updated In 2024, The Safe and Legal Route to Free Filmora Software</u></a></li>
-<li><a href="https://win11.techidaily.com/what-hides-inside-ftdibussys-exploring-its-effects-on-windows-security/"><u>What Hides Inside ftdibus.sys? Exploring Its Effects on Windows Security</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -256,3 +181,17 @@ thumbnail: https://thmb.techidaily.com/e1b4d87010351d8cde0b7e296f0f8bee20d2f2f6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos/"><u>[Updated] 2024 Approved From Ideation to Implementation A Comprehensive Approach for Quality Edu-Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>[Updated] Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-not-allowed-feature-on-windows-software/"><u>Dealing with Not Allowed Feature on Windows Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-s18e-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo S18e Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-network-connectivity-on-windows/"><u>Regaining Full Network Connectivity on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-disk-management-virtual-disk-fault/"><u>Steps to Mend Disk Management Virtual Disk Fault</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-icloud-plus-by-apple-a-comprehensive-guide/"><u>Understanding iCloud Plus by Apple: A Comprehensive Guide</u></a></li>
+</ul></div>
+

@@ -1,0 +1,116 @@
+---
+title: Unraveling the Access Failed in Microsoft Windows
+date: 2024-09-11T16:12:44.234Z
+updated: 2024-09-17T05:54:25.982Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Unraveling the Access Failed in Microsoft Windows
+excerpt: This Article Describes Unraveling the Access Failed in Microsoft Windows
+keywords: Windows Error Resolution,Unlocking Windows Failure,Fixing Windows Lockout,Access Issue in Windows,Overcoming Windows Denial,Windows Login Troubleshoot,Disabling Access Denied Windows
+thumbnail: https://thmb.techidaily.com/e0931ca8ae70302ccf65495c157857813d9635f220741e3706882a186a67e4d8.jpg
+---
+
+## Unraveling the Access Failed in Microsoft Windows
+
+ Your computer has what's known as an Access Control List (ACL). Its job is to tell Windows the resources, such as files and folders, users can access on your computer. If something corrupts the ACL, you can run into the “access control entry is corrupt” error when trying to access certain resources on Windows.
+
+ We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Perform an SFC or CHKDSK Scan
+
+ Running an SFC scan can fix the error by fixing any corrupt system files associated with the proper functioning of the ACL. If the files are missing, a DISM scan will replace them using a cached Windows system image file. If these two scans don't work, the problem could be related to hard disk errors, which you can fix with a CHKDSK scan.
+
+![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
+
+ The above-mentioned tools are [built into Windows to help repair corrupt or damaged files](https://www.makeuseof.com/windows-built-in-repair-tools), and you should familiarize yourself with how and when to use them.
+
+## 2\. Close All Universal Windows Platform (UWP) Apps
+
+ Sometimes, UWP apps can lock resources when they're running in their sand-boxed environment. They're not supposed to, but when they do, you can get the “access control entry is corrupt” error message. To fix this, close the UWP app you suspect is the culprit and then update or reinstall it.
+
+## 3\. Change Ownership of the Affected File or Folder
+
+ Taking ownership of a file or folder can sometimes resolve the “access control entry is corrupt” error. To do that, follow the steps below:
+
+1. Right-click the file or folder and select **Properties**.  
+![the context menu in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-context-menu-in-windows-11.jpg)
+2. Select the **Security** tab and then click on **Advanced** at the bottom to open the **Advanced Securities** window for the file.  
+![the Security tab of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-security-tab-of-a-file-on-windows.jpg)
+3. Next to the **Owner**, check to see if your username is listed as the owner of the file or folder. If it isn't, that may be the problem. So, click on the **Change** link next to it to open the Select User or Group window.  
+![the Advanced Settings window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-settings-window-of-a-file-on-windows.jpg)
+4. Click **Advanced** to open the **Select User or Group (Advanced)** window.  
+![the Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-select-user-or-group-window-of-a-file-on-windows.jpg)
+5. Click **Find Now** to search for the available users on your Windows computer.  
+![the advanced Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-on-windows.jpg)
+6. In the search results at the bottom, select your username and click **OK**.  
+![the advanced Select User or Group window of a file on Windows with a list user on the PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-with-a-list-of-users-on-windows.jpg)
+7. Back in the **Select User or Group** window, click **OK**.
+8. In the **Advanced Securities** window, click **Apply** and then **OK**.
+
+ Now that you've changed ownership, try accessing the file or folder again and see if the error still shows up.
+
+## 4\. Try Accessing the File or Folder From a Different User Account
+
+ Sometimes, the error pops up because your user account is corrupt, meaning that all the fixes above will most likely fail. What you can do is [create another user account on Windows for troubleshooting purposes](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/).
+
+ Try to access the file or folder (provided it is in a publicly available directory), and if the error doesn't pop up, you can migrate the necessary files from the old account to the new one.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Restore the Access Control List
+
+ If none of the solutions above have worked, then it might be time to restore the ACL itself. To do that, first, [back up your Windows 10 computer](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) or [back up your Windows 11 computer](https://www.makeuseof.com/windows-11-create-complete-backup/).
+
+ Then, [factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/), and that should get rid of the “access control entry is corrupt” error.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Access Every Resource on Your Windows Computer
+
+ The “access control entry is corrupt” error is frustrating since it locks you out of the resources you need at the time on your Windows computer. Hopefully, the first four fixes will help before you have to do something drastic like resetting your PC. Either way, it's good to know you're not stuck with the error indefinitely.
+
+ We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>[New] 2024 Approved How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-choice-top-tier-mp4-gear/"><u>[New] Expert Choice Top-Tier MP4 Gear</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-trim-the-hours-off-custom-youtube-shorts-image-creation/"><u>[New] Trim The Hours Off Custom YouTube Shorts Image Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-insights-into-using-color-grading-luts-with-pscc/"><u>Essential Insights Into Using Color Grading LUTs with PSCC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-high-performance-hardware-at-tome-resource-center/"><u>Inside the World of High-Performance Hardware at Tom'e Resource Center</u></a></li>
+<li><a href="https://win11.techidaily.com/make-file-explorer-more-informative-diskspace-insight-in-menu/"><u>Make File Explorer More Informative: Diskspace Insight in Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-time-management-on-your-computer-choose-from-these-top-5-dynamic-clock-screen-saver-tools/"><u>Maximize Time Management on Your Computer: Choose From These Top 5 Dynamic Clock Screen Saver Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-deletion-made-simple-configuring-the-desktop-trash-on-windows-pcs-11/"><u>Permanent Deletion Made Simple: Configuring the Desktop Trash on Windows PCs (11)</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-sight-restart-gpu-in-windows-11/"><u>Regain Sight: Restart GPU in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rise-to-the-top-mobile-youtubing-without-million-subscriber-status-for-2024/"><u>Rise to the Top Mobile YouTubing Without Million-Subscriber Status for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-vscode-from-shutting-down-suddenly-in-w11/"><u>Stop VSCode From Shutting Down Suddenly in W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-on-eliminating-subtitles-in-kmkv-mpeg-4-and-other-media-files/"><u>Ultimate Tutorial on Eliminating Subtitles in KMKV, MPEG-4 & Other Media Files</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

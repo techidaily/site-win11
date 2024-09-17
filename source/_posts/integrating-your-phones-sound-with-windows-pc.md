@@ -1,0 +1,224 @@
+---
+title: Integrating Your Phone's Sound with Windows PC
+date: 2024-09-12T01:45:59.416Z
+updated: 2024-09-17T01:19:31.751Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Integrating Your Phone's Sound with Windows PC
+excerpt: This Article Describes Integrating Your Phone's Sound with Windows PC
+keywords: Phone to PC Sound Sync,Windows Audio Phone Integration,PC-Phone Audio Linking,Sync Phone Sounds to PC,Audio Bridge for Phones & PCs,Windows Phone Audio Setup,Phone Audio Connection PC
+thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d483ab7dbc13cbf4ab650189.jpg
+---
+
+## Integrating Your Phone's Sound with Windows PC
+
+ Whether you're chatting with friends over Discord, participating in a family Zoom call, or laying down some tunes, a microphone can come in very handy for your computer. But what if you don't have one?
+
+ While you may not have a microphone for your computer, the chances are that you have a smartphone. There's the solution to your problem: you can use your smartphone as a PC microphone, and it's easy to set up.
+
+ We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to Use Your Phone as a Microphone for PC
+
+ One of the best ways to achieve this is by using [WO Mic](https://wolicheng.com/womic/). With this program, you can use USB, Bluetooth, or Wi-Fi to connect your smartphone's microphone to your computer.
+
+ It's entirely free to use, has low latency, and will work in any application just like a standard microphone. It's available for Windows 10/11 and Linux.
+
+ Head over to the [WO Mic website](https://wolicheng.com/womic/) and download the PC client. The necessary drivers come part of this package. Then grab either the [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36696/https://play.google.com/store/apps/details?id=com.wo.voice2) or [iOS](https://apps.apple.com/app/id1260978417) app.
+
+ Launch the PC program (if you get a missing DLL error, install the [VC runtime redistributable from Microsoft](https://aka.ms/vs/16/release/vc%5Fredist.x86.exe)). Go to **Connection > Connect** and choose a **Transport type**.
+
+![connect wo mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/connect-wo-mic.jpg)
+
+ We'll detail the steps for all the different options below.
+
+### 1\. Connect via Bluetooth
+
+ First, enable Bluetooth on your computer:
+
+1. Press **Windows Key + I** to open Settings.
+2. On Windows 10, go to **Devices > Bluetooth & other devices**. On Windows 11, go to **Bluetooth & devices**.
+3. Slide **Bluetooth** to **On**. Your computer will now be discoverable to other devices.
+
+![windows 11 bluetooth and devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-bluetooth-and-devices.jpg)
+
+ Next, enable Bluetooth on your phone. This option's exact location will vary per device, but it'll be somewhere in **Settings** (then perhaps within a **Connections** menu).
+
+ Pair your phone with your computer. A notification should pop up on your computer to confirm the connection.
+
+ On the desktop WO Mic program:
+
+1. Beneath **Transport type**, select **Bluetooth**.
+2. Select your phone from the **Target Bluetooth device** dropdown.
+3. Click **Connect**.
+
+ On the mobile WO Mic app:
+
+1. Tap the **settings cog**.
+2. Tap **Transport** and select **Bluetooth**.
+3. Go back to the previous screen and tap the **play icon** to begin transmitting your voice.
+
+### 2\. Connect via USB
+
+ Connecting via USB is the best option for most people because it's more stable than a wireless connection and the latency is lower. This method only works for Android.
+
+ To begin, connect your phone to your computer using a USB cable. Windows may prompt you to install a driver, so follow that process through if so.
+
+ Next, [enable USB debugging in the Developer Options of your phone](https://www.makeuseof.com/tag/what-is-usb-debugging-mode-on-android-makeuseof-explains/). Windows should then recognize your phone as a device.
+
+ On the desktop WO Mic program:
+
+1. Beneath **Transport type**, select **USB**.
+2. Click **Connect**.
+
+ On the mobile WO Mic app:
+
+1. Tap the **settings cog**.
+2. Tap **Transport** and select **USB**.
+3. Go back to the previous screen and tap the **play icon** to activate your phone's microphone.
+
+![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
+
+![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
+
+Close
+
+### 3\. Connect via Wi-Fi
+
+ For this method, both your phone and computer need to be connected to the same Wi-Fi network.
+
+ To set your Wi-Fi network on Windows:
+
+1. Press **Windows key + I** to open Settings.
+2. Go **Network & internet** \> **WiFi**.
+3. Click **Show available networks**.
+4. Click the one you wish to use, then click **Connect**.
+
+![windows 11 available wifi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-available-wifi-networks.jpg)
+
+ On the mobile WO Mic app:
+
+1. Tap the **settings cog**.
+2. Tap **Transport** and select **Wi-Fi**.
+3. Go back to the previous screen and tap the **play icon**. A gray banner message should appear at the top with a number at the end. This is the IP address.
+
+ On the desktop WO Mic program:
+
+1. As your **Transport type**, select **Wi-Fi**.
+2. In the **Phone IP address** field, input the IP address from the app.
+3. Click **Connect** to begin using the microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 4\. Connect via Wi-Fi Direct
+
+ This method requires you to [turn your phone into a Wi-Fi hotspot](https://www.makeuseof.com/what-is-a-hotspot-and-how-does-it-work/) and use your network data. Use this as a last resort if your computer doesn't have its own internet connection and the other methods above aren't suitable.
+
+ First, create a mobile hotspot from your phone. The way to do this will vary per device, but have a look in **Settings** and you can find it usually beneath a **Connections** or **Tethering** category.
+
+ Next, you need to link your computer to this hotspot:
+
+1. Press **Windows Key + I** to open Settings.
+2. Go to **Network & internet > WiFi**.
+3. Click **Show available networks**.
+4. Click the hotspot, then click **Connect**.
+
+ On the mobile WO mic app:
+
+1. Tap the **settings cog**.
+2. Tap **Transport** and select **Wi-Fi Direct**.
+3. Go back to the previous screen and tap the **play icon**.
+
+ On the Windows WO Mic program:
+
+1. As your **Transport type**, select **Wi-Fi Direct**.
+2. Leave the **Soft AP IP address** field at its default.
+3. Click **Connect**.
+
+## Is Windows Not Detecting Your Voice?
+
+ You shouldn't run into any problems, but if you follow the above instructions and [Windows isn't detecting the microphone](https://www.makeuseof.com/tag/fix-microphone-problems-windows-10/), there's an easy fix:
+
+1. Press **Windows key + I** to open Settings.
+2. Go to **System** \> **Sound**.
+3. Beneath **Input**, select **Microphone (WO Mic Device)**.
+
+![windows 11 sound input settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-sound-input-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ To check the microphone is detecting your voice:
+
+* On Windows 10, speak into your smartphone and you should see the volume reflected on the **Test your microphone** bar.
+* On Windows 11, click the **arrow** next to WO Mic Device to see its properties. From here, next to **Test your microphone**, click **Start test** and speak into your smartphone.
+
+![windows 11 microphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-microphone-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Alternative Methods to WO Mic
+
+ There are alternatives to WO Mic, like [Megaphone Free](https://apps.apple.com/app/megaphone-free/id304955183) for iOS or [Microphone](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36696/https://play.google.com/store/apps/details?id=com.grace.microphone) for Android, but these require the use of an audio connection jack:
+
+ Download these apps, hook your phone to your Windows computer using a male-to-male headphone jack, and your phone will then function as a computer microphone.
+
+ You can even plug in a pair of headphones to your computer's microphone jack and use them. It might seem like an odd idea, but both make use of vibrations for different primary functions.
+
+ Simply put, headphones vibrate to create sound, while microphones monitor for vibrations. But you can still switch it and use the headphones as a microphone. However, bear in mind that the audio quality will leave a lot to be desired, making this a last resort option.
+
+## Use Your Smartphone as a Webcam
+
+ While using your smartphone as a Windows microphone might not be ideal for everyone, it's a perfect solution for those who need to get talking quickly and don't have a traditional microphone handy.
+
+ When you can get yourself chatting within minutes without spending a cent, it's hard to complain. You're being cost-effective and utilizing the devices you already have—you can even use your smartphone as a webcam!
+
+ While you may not have a microphone for your computer, the chances are that you have a smartphone. There's the solution to your problem: you can use your smartphone as a PC microphone, and it's easy to set up.
+
+ We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/mp4isotop3/"><u>無料MP4からISOへの高性能な変換ソフトウェア：おすすめランキングTOP3</u></a></li>
+<li><a href="https://discover-best.techidaily.com/boost-your-site-with-cookiebot-technology-experience-next-level-analytics-and-conversion-optimization/"><u>Boost Your Site with Cookiebot Technology – Experience Next-Level Analytics and Conversion Optimization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-hitman-3-connection-lost-issue-easy-solutions/"><u>Fixing the Hitman 3 'Connection Lost' Issue: Easy Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-conversion-with-the-advanced-tracking-of-cookiebot-integration/"><u>Maximize Conversion with the Advanced Tracking of Cookiebot Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/pcgta5/"><u>PC上のGTA5キャプチャ手順: ステップバイステップガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/professional-ipod-video-format-maker-easily-transform-videos-into-compatible-formats-for-ipod-ipod-touch-and-more/"><u>Professional IPod Video Format Maker - Easily Transform Videos Into Compatible Formats for iPod, iPod Touch & More</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-track-to-success-5-straightforward-strategies-to-speed-up-your-youtube-content-sharing-process/"><u>Quick-Track to Success: 5 Straightforward Strategies to Speed up Your YouTube Content Sharing Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/strategies-for-freeing-up-space-when-windows-10-reports-a-full-disk/"><u>Strategies for Freeing Up Space When Windows 10 Reports a Full Disk</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-awesome-free-window-11-themes-you-cant-miss/"><u>Top 15 Awesome Free Window 11 Themes You Can't Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-ethereum-20-a-solution-to-cryptocurrency-challenges/"><u>Unlocking the Potential of Ethereum 2.0: A Solution to Cryptocurrency Challenges</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-brand-building-through-social-lenses-top-podcast-episodes-for-strategic-planning-for-2024/"><u>Updated Brand Building Through Social Lenses Top Podcast Episodes for Strategic Planning for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

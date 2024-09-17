@@ -1,7 +1,7 @@
 ---
 title: Convenient Ways to Define Text in Win11
-date: 2024-09-11T09:39:17.181Z
-updated: 2024-09-12T09:39:17.181Z
+date: 2024-09-11T23:06:19.831Z
+updated: 2024-09-17T03:28:04.411Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
 ![Mini menu showing Define option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mini-menu-showing-dictionary-definition-in-edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whether you are reading web pages or PDFs, one of[Microsoft Edge's best hidden features](https://www.makeuseof.com/best-hidden-features-in-microsoft-edge/) is its built-in dictionary functionality to quickly find the correct meanings for unknown words. To make it more convenient, Edge will not take you to another tab to display the definitions, thus helping you stay focused on whatever you are reading.
 
 These are the steps to use the dictionary in Microsoft Edge:
@@ -50,19 +43,6 @@ These are the steps to use the dictionary in Microsoft Edge:
 
 ![Windows search box showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-search-n.png)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows 11 search box can come in handy to find meanings of words, mainly when you see an unknown word in a document in printed form. In that case, it is super convenient to use the search box instead of opening a printed dictionary.
 
 Here's how:
@@ -73,23 +53,9 @@ Here's how:
 
  If this doesn't work, see[how to fix the Windows 11 search bar](https://www.makeuseof.com/windows-11-search-bar-cant-type/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Ask the Cortana App for a Definition
 
 ![Cortana app showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-cortana-n.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Cortana app is another helpful tool in Windows 11 to help you look up definitions. To use the app as a tool to find the meanings of words, follow the below steps:
 
@@ -98,20 +64,13 @@ Here's how:
 ![Searching Cortana app via Windows Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/searching-cortana-app-via-windows-start-icon.png)
 3. Type "define" followed by the word you want to know the meaning of.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press**Enter** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Finding Definitions in Windows 11
@@ -135,54 +94,20 @@ Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-in-imovie/"><u>[New] 2024 Approved How to Edit YouTube Videos in iMovie?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-discovering-fun-ways-to-spruce-up-your-discord-status/"><u>[New] Discovering Fun Ways to Spruce Up Your Discord Status</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-audio-notes-essential-tips/"><u>[New] Mastering Audio Notes Essential Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-scout-out-best-spots-for-vr-experiences/"><u>[New] Scout Out Best Spots for VR Experiences</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-moment-of-glory-snapshots-in-win-os-for-2024/"><u>[Updated] Moment of Glory Snapshots in Win OS for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-windowsnap-tool-for-straightforward-recording-for-2024/"><u>[Updated] WindowSnap Tool for Straightforward Recording for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-ultimate-virtual-worlds-for-party-gaming/"><u>10 Ultimate Virtual Worlds for Party Gaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-no-expense-high-quality-topping-chromebook-screen-capture-apps/"><u>2024 Approved No Expense, High Quality – Topping Chromebook Screen Capture Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-valorant-communication-breakdowns-on-windows-78/"><u>Combating Valorant Communication Breakdowns on Windows 7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/connoisseurs-tips-for-immaculate-w11-window-backgrounds/"><u>Connoisseur’s Tips for Immaculate W11 Window Backgrounds</u></a></li>
-<li><a href="https://win11.techidaily.com/dazzling-display-holiday-themed-window-wonders/"><u>Dazzling Display: Holiday Themed Window Wonders</u></a></li>
-<li><a href="https://win11.techidaily.com/designing-keybindings-for-windows-applications/"><u>Designing Keybindings for Windows Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-commands-open-screenshots-utility-in-win-11/"><u>Efficient Commands: Open Screenshots Utility in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-hibernate-for-idle-windows-1011-users/"><u>Effortless Hibernate for Idle Windows 10/11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-w11s-notepad-through-intelligent-assistance/"><u>Elevate W11's Notepad Through Intelligent Assistance</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-obstacles-restoring-system-calls-on-win1111/"><u>Eliminating Obstacles: Restoring System Calls on Win11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-to-show-disk-space/"><u>Enhancing Windows Explorer to Show Disk Space</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-11-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 11 Password? – Here are the Best Solutions | Stellar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-15-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 15? Heres the Best Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-pin-almost-anything-to-the-windows-11-taskbar/"><u>How to Pin Almost Anything to the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-spontaneous-command-window-flashes/"><u>How to Stop Spontaneous Command Window Flashes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-temporarily-stop-automatic-windows-updates/"><u>How to Temporarily Stop Automatic Windows Updates</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-zte-blade-a73-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring ZTE Blade A73 5G PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-13-pro-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 13 Pro Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-one-click-humor-your-guide-to-the-ifunny-meme-app/"><u>In 2024, One Click Humor Your Guide to the iFunny Meme App</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-connections-with-spotify/"><u>Mastering Windows 11 Connections with Spotify</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-error-resolution-0x80072f8f/"><u>Mastering Windows Error Resolution: 0X80072f8f</u></a></li>
-<li><a href="https://win11.techidaily.com/nine-essential-tips-for-new-windows-11-users-avoid-these-errors/"><u>Nine Essential Tips for New Windows 11 Users - Avoid These Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-store-failure-error-0x80073d26/"><u>Overcoming Windows Store Failure: Error 0X80073D26</u></a></li>
-<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-missing-dll-error-rockalldlldll/"><u>Resolving the Missing DLL Error: Rockalldll.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/reworking-windows-11-to-utilize-traditional-search-icon/"><u>Reworking Windows 11 to Utilize Traditional Search Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-building-a-custom-windows-event-logger-notifier/"><u>Step-by-Step Guide: Building a Custom Windows Event Logger Notifier</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-windows-save-permission-mishaps/"><u>Steps to Address Windows Save Permission Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/subtle-system-tweaks-windows-toolbars-unseen/"><u>Subtle System Tweaks: Windows Toolbars Unseen</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-non-signature-compliant-update-files-on-windows/"><u>Tackling Non-Signature Compliant Update Files on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-disable-repetitive-sign-in-requests-in-teams/"><u>Techniques to Disable Repetitive Sign-In Requests in Teams</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-finest-free-photo-editors-for-the-iphone-on-a-budget/"><u>The Finest FREE Photo Editors for the iPhone on a Budget</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quest-to-resolve-skies-sse-woes/"><u>The Quest to Resolve Skies' SSE Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-checklist-for-clean-windows-installations/"><u>The Ultimate Checklist for Clean Windows Installations</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-technique-for-designing-custom-lock-patterns-in-windows-11/"><u>The Ultimate Technique for Designing Custom Lock Patterns in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-to-fix-windows-error-message-0x8007007e/"><u>Tips and Tricks to Fix Windows Error Message 0X8007007E</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-amazon-kindle-paperwhite-the-latest-generation-for-book-lovers/"><u>Top Rated Amazon Kindle Paperwhite - The Latest Generation for Book Lovers</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tips-to-resolve-no-servers-found-navigating-apex-legends-windows-(156-chars/"><u>Top Tips to Resolve 'No Servers Found': Navigating Apex Legends Windows (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-win-error-31-in-network-connections/"><u>Troubleshooting WIN Error 31 in Network Connections</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-microsoft-store-on-windows-10-and-11-with-x800704cf-error/"><u>Unblocking Microsoft Store on Windows 10 & 11 with X800704CF Error</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11-help-application-issues/"><u>Unlocking Windows 11 Help Application Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-pc-strategies-to-exit-s-mode/"><u>Unlocking Your PC: Strategies to Exit S Mode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-simple-android-voice-capture-no-root-access/"><u>[New] In 2024, Simple Android Voice Capture - No Root Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-transferring-youtube-shorts-from-pcandroid-or-ios-for-2024/"><u>[Updated] How-To Transferring YouTube Shorts From PC/Android or iOS for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11f-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11F 5G FRP Locks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m54-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M54 5G Is Unlocked</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-motorola-moto-g-5g-2023-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Motorola Moto G 5G (2023) to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-translation-devices-to-subtitle-videos/"><u>In 2024, Best Translation Devices to Subtitle Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-enhanced-visual-interaction-in-microsoft-teams-for-2024/"><u>The Art of Enhanced Visual Interaction in Microsoft Teams for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-a70-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel A70 FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028821180-tiktok/"><u>TikTokで携帯電話・パソコンに対応したスクリーン録画ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-the-top-6-superior-desktop-and-web-based-chrome-audio-recording-tools/"><u>Ultimate Guide: The Top 6 Superior Desktop and Web-Based Chrome Audio Recording Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-movie-player-for-ps4-a-step-by-step-guide-to-watch-films-directly-from-a-flash-drive/"><u>USB Movie Player for PS4 - A Step-by-Step Guide to Watch Films Directly From a Flash Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/video-compilation-magic-a-trio-of-app-solutions-for-your-images/"><u>Video Compilation Magic: A Trio of App Solutions for Your Images</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026987488-windows/"><u>Windows向け最適動画変更アプリと手順ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027232178-hd/"><u>クオリティアップ! 標準画質からHD画質への完全なフェイスライブラリー</u></a></li>
 </ul></div>
 

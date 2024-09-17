@@ -1,7 +1,7 @@
 ---
 title: "The Rise of 16GB in Win PCs: A RAM Revolution"
-date: 2024-09-11T09:42:18.098Z
-updated: 2024-09-12T09:42:18.098Z
+date: 2024-09-13T09:13:09.945Z
+updated: 2024-09-17T08:44:25.300Z
 tags:
   - windows10
   - windows11
@@ -21,32 +21,12 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is RAM?](#what-is-ram)
 * [What Is Happening With RAM in Windows Computers?](#what-is-happening-with-ram-in-windows-computers)
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,23 +36,9 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
 
@@ -88,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
@@ -106,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
  At the time of writing, we don't know exactly what an "AI PC" is. We know that many companies are developing them, and as you would expect, they will feature artificial intelligence in some form.
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
 
@@ -120,16 +86,16 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
+<span id="1983588">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Setting 16GB RAM as the New Standard Good News for You?
@@ -142,48 +108,6 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>[New] Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-smart-pick-android-apps-for-large-video-meetings/"><u>[New] Smart Pick Android Apps for Large Video Meetings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>[Updated] The Full Picture A Comprehensive Review of Android Lightroom</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-visual-vocabulary-at-your-fingertips-exploring-the-best-34-tools-to-convert-videos-into-language-for-2024/"><u>[Updated] Visual Vocabulary at Your Fingertips Exploring the Best 34 Tools to Convert Videos Into Language for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-captivating-content-through-words-top-5-innovative-tiktok-caption-ideas/"><u>2024 Approved Captivating Content Through Words Top 5 Innovative TikTok Caption Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/cracking-the-code-windows-versioning-insight/"><u>Cracking the Code: Windows Versioning Insight</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-zte-blade-a73-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/electrical-use-analysis-for-windows-computers-unveiled/"><u>Electrical Use Analysis for Windows Computers Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-windows-1111-ui-for-auto-check-updates/"><u>Enabling Windows 11/11 UI for Auto-Check Updates</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .wbk file</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-the-best-linux-features-with-windows-apps/"><u>How to Get the Best Linux Features With Windows Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-dropping-wi-fi-connections-a-5-step-guide/"><u>How to Stop Your iPhone From Dropping Wi-Fi Connections: A 5 Step Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-itel-p55t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Itel P55T Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigate-to-new-horizinas-top-win11-gaming-delights/"><u>In 2024, Navigate to New Horizinas Top Win11 Gaming Delights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quiet-filming-techniques-to-consider-first/"><u>In 2024, Quiet Filming Techniques to Consider First</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-razer-kiyo-webcam-full-breakdown/"><u>In 2024, Razer Kiyo Webcam Full Breakdown</u></a></li>
-<li><a href="https://win11.techidaily.com/intro-to-windows-accessibility-must-know-tips/"><u>Intro to Windows Accessibility: Must-Know Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-mic-troubleshooting-in-windows-11-platforms/"><u>Mastering Xbox Mic Troubleshooting in Windows 11 Platforms</u></a></li>
-<li><a href="https://win-dash.techidaily.com/microsofts-ultimate-ergonomic-keyboard-4000-setup-guide-and-driver-downloads/"><u>Microsoft's Ultimate Ergonomic Keyboard 4000 Setup Guide & Driver Downloads</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-functional-adjustments-windows-1011-edition/"><u>Navigating Functional Adjustments: Windows 10/11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-navigation-for-the-elusive-mac-on-windows-11/"><u>Navigating Network Navigation for the Elusive MAC on WIndows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-installation-required-10-free-online-video-compressors/"><u>New In 2024, No Installation Required 10 Free Online Video Compressors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimal-gameplayers-for-your-androids-gb-games-for-2024/"><u>Optimal GamePlayers for Your Android's GB Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-ui-fidelity-on-newest-windows-release/"><u>Perfecting UI Fidelity on Newest Windows Release</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/powerhouse-modifications-top-10-os-xwin-srt-systems-unveiled-for-2024/"><u>Powerhouse Modifications Top 10 OS X/Win SRT Systems Unveiled for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/purple-pandemonium-a-guide-to-regaining-your-pcs-true-colors/"><u>Purple Pandemonium? A Guide to Regaining Your PC's True Colors</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-visual-placement-on-windows-devices/"><u>Reversing Visual Placement on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-your-game-with-expert-multitasking-techniques-for-windows-11/"><u>Step Up Your Game with Expert Multitasking Techniques for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-using-the-picture-in-picture-feature-on-macbook-air-for-better-multitasking/"><u>Step-by-Step Tutorial: Using the Picture-in-Picture Feature on MacBook Air for Better Multitasking</u></a></li>
-<li><a href="https://blog-min.techidaily.com/strategie-seo-amelioree-comment-optimiser-la-taille-des-fichiers-mp4-avec-efficacite-et-preservation-de-la-qualite-image/"><u>Stratégie SEO Améliorée : Comment Optimiser La Taille Des Fichiers MP4 Avec Efficacité Et Préservation De La Qualité Image</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-technique-to-design-personalized-lock-patterns-on-windows-11/"><u>The Complete Technique to Design Personalized Lock Patterns on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-comprehensive-guide-to-disbanding-disk-divisions-in-win-os/"><u>The Comprehensive Guide to Disbanding Disk Divisions in Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-windows-into-a-personalized-oasis-8-winbubble-upgrades/"><u>Transform Windows Into a Personalized Oasis: 8 WinBubble Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-phones-into-windows-audio-input/"><u>Turning Phones Into Windows Audio Input</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-audacitys-windows-compatibility-issue-9999/"><u>Unlocking Audacity's Windows Compatibility Issue #9999</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>Updated In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-torrent-clients-the-best-of-windows-list/"><u>Winning Torrent Clients: The Best of Windows List</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -191,3 +115,23 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-the-best-8-mirrorless-cameras-that-transform-vlogging-for-2024/"><u>[New] Discover the Best 8 Mirrorless Cameras That Transform Vlogging for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-combat-arcade-nintendo-switch-edition-max-156/"><u>[New] In 2024, Ultimate Combat Arcade Nintendo Switch Edition (Max 156)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-googles-augmented-reality-adornments/"><u>[New] Navigating Google's Augmented Reality Adornments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-ease-inease-out-techniques-in-camtasa-9/"><u>[Updated] Mastering Ease In/Ease Out Techniques in Camtasa 9</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-experts-approach-to-cpu-settings-on-pc/"><u>Crafting an Expert's Approach to CPU Settings on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-and-share-the-funniest-memes-for-2024/"><u>Create and Share the Funniest Memes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dual-screen-power-combining-android-and-windows-11/"><u>Dual-Screen Power: Combining Android and Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizientste-h265-video-konvertierung-und-verschlusselung-fur-windows-11-and-mac/"><u>Effizientste H.265-Video-Konvertierung Und -Verschlüsselung Für Windows 11 & Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-windows-interface-with-right-click-contextual-help/"><u>Enhanced Windows Interface with Right-Click Contextual Help</u></a></li>
+<li><a href="https://win11.techidaily.com/longer-pins-in-win1011-best-practices-and-methods/"><u>Longer PINs in Win10/11: Best Practices and Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-onedrive-storage-space-a-step-by-step-guide-for-win10/"><u>Reimagine OneDrive Storage Space: A Step-by-Step Guide for Win10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-boundaries-how-chatgpt-fails-to-recognize-its-written-words/"><u>Understanding AI Boundaries: How ChatGPT Fails to Recognize Its Written Words</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-search-functionality-on-disk-based-discord/"><u>Upgrading Search Functionality on Disk-Based Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-modify-the-default-browser/"><u>Windows 11: Modify the Default Browser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-player-tutorial-a-step-by-step-installation-and-usage-manual/"><u>WinX DVD Player Tutorial: A Step-by-Step Installation & Usage Manual</u></a></li>
+</ul></div>
+

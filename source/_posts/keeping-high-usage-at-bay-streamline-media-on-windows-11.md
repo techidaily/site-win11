@@ -1,7 +1,7 @@
 ---
 title: "Keeping High Usage at Bay: Streamline Media on Windows 11"
-date: 2024-09-11T09:46:08.032Z
-updated: 2024-09-12T09:46:08.032Z
+date: 2024-09-13T16:38:20.990Z
+updated: 2024-09-16T17:49:04.938Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d8
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
 
 To install a Windows 11 update:
@@ -51,13 +38,6 @@ To install a Windows 11 update:
 3. Windows will scan the Microsoft servers for newer updates. If available, click on**Download & install** . Once installed, restart your computer and check for any improvements.
 
  You can also learn how to[manage Windows 10 updates](https://www.makeuseof.com/tag/manage-windows-update-windows-10/) to ensure your computer is constantly updated. However, if you can find this specific update on your computer, go to[Microsoft Update Catalog](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and search for the update. If available, download the update and run the installer to install it manually.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Turn Off News and Interests
 
@@ -73,29 +53,22 @@ To install a Windows 11 update:
 
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disable News and Interests on Windows 11
 
 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can[disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
 
  The easiest way to disable Widgets is from the Taskbar settings. If that does not work or if your Windows 11 isn't activated, you can use Registry Editor to disable the Widgets icon from the taskbar.
 
  If the issue persists even after disabling News and Interest, try to[perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Disable News and Interests Using the Group Policy Editor
 
@@ -112,23 +85,29 @@ To install a Windows 11 update:
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
@@ -143,23 +122,16 @@ To disable the news feed feature using Windows Registry:
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
@@ -201,41 +173,18 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-masterful-80s-filters-and-transitions-for-editors/"><u>[New] Masterful 80S Filters & Transitions for Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>2024 Approved Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-the-lunar-client-not-functional-message-in-os/"><u>Dealing with the Lunar Client Not Functional Message in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/email-monitoring-essentials-unveiling-gmails-read-receipts-system/"><u>Email Monitoring Essentials: Unveiling Gmail's 'Read Receipts' System</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-edge-safety-integrate-microsofts-defender-aguard/"><u>Enhance Edge Safety: Integrate Microsoft's Defender Aguard</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-consistent-reading-pane-openness-setup-for-email-attachments-in-ms-word/"><u>Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-analysis-the-keychron-q6-pro-unmatched-durability-meets-user-friendly-design/"><u>Expert Analysis: The Keychron Q6 Pro - Unmatched Durability Meets User-Friendly Design</u></a></li>
-<li><a href="https://win11.techidaily.com/five-strategies-to-rejuvenate-file-explorer/"><u>Five Strategies to Rejuvenate File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-finding-the-storage-for-your-desktop-pics/"><u>Guide: Finding the Storage for Your Desktop Pics</u></a></li>
-<li><a href="https://win11.techidaily.com/how-and-when-to-use-the-ping-command-in-windows/"><u>How (and When) to Use the Ping Command in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-hidden-results-from-your-windows-1011-search-tool/"><u>Identifying Hidden Results From Your Windows 10/11 Search Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-freefb-audio-treasures-collection/"><u>In 2024, FreeFB Audio Treasures Collection</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-your-internet-to-blame-or-is-nintendos-service-actually-down/"><u>Is Your Internet to Blame, or Is Nintendo's Service Actually Down?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-portable-battery-solutions-for-on-the-go-professionals-2024-reviews/"><u>Leading Portable Battery Solutions for On-the-Go Professionals: 2024 Reviews</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-solutions-for-create-failed-issue-windows-error-30005/"><u>Mastering Solutions for Create Failed Issue - Windows Error 30005</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-error-code-0x80070570-fixes-for-broken-files-on-windows-11/"><u>Navigating Through Error Code 0X80070570: Fixes for Broken Files on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-screen-quality-resetting-graphics-in-windows-11/"><u>Optimize Screen Quality: Resetting Graphics in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/realignment-of-data-win11-hdd-optimization-techniques/"><u>Realignment of Data: Win11 HDD Optimization Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-the-start-page-for-windows-task-manager/"><u>Redefining the Start Page for Windows Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-and-solving-winerror-0x80071a90-in-windows/"><u>Simplifying & Solving WinError: 0X80071a90 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/sixfold-solution-to-off-screen-woes-a-roadmap-for-rejuvenating-your-windows-desktop/"><u>Sixfold Solution to Off-Screen Woes: A Roadmap for Rejuvenating Your Windows Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-stranded-status-on-xbox-for-pc-a-practical-approach/"><u>Solving ‘Stranded’ Status on Xbox for PC: A Practical Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resolve-error-403-in-robloxwindows/"><u>Strategies to Resolve Error 403 in Roblox/Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-to-the-not-supported-interface-error/"><u>Swift Solutions to the Not-Supported Interface Error</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-for-dodging-enter-credentials-message-in-windows/"><u>Tactics for Dodging 'Enter Credentials' Message in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unleash-the-power-of-stories-free-online-and-mobile-solutions/"><u>Unleash the Power of Stories – Free, Online & Mobile Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-image-potential-the-importance-of-luts/"><u>Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-journey-beyond-top-10-global-explorer-channels-for-2024/"><u>[New] A Journey Beyond Top 10 Global Explorer Channels for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-master-the-art-of-movie-capture-on-any-device/"><u>[New] In 2024, Master the Art of Movie Capture on Any Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-potential-of-video-game-vlogging/"><u>[New] Unlocking the Potential of Video Game Vlogging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>[Updated] In 2024, Avoiding Pitfalls Common Mistakes in Instagram Filmmaking</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-omnimix-pro-versatile-os-edition/"><u>[Updated] In 2024, OMNIMix Pro Versatile OS Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/flagiconnga-chinwendu-ihezuo-sheikh-jamal-dhanmondi-club-10-goals-chinwendu-ihezuo-29-total-in-all-tournaments/"><u>{{Flagicon|NGA}} Chinwendu Ihezuo (Sheikh Jamal Dhanmondi Club, 10 Goals) Chinwendu Ihezuo '''29 Total in All Tournaments :'''</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-leading-list-where-to-find-gamers-music-without-costs/"><u>2024 Approved The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-minimizing-dvd-storage-footprint-using-premier-compression-programs/"><u>Effective Techniques for Minimizing DVD Storage Footprint Using Premier Compression Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-transform-high-resolution-4k-content-into-1080p-with-ease/"><u>Effective Techniques: Transform High-Resolution 4K Content Into 1080P with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-dvd-formatting-tips-and-techniques-for-windows-users/"><u>Effortless DVD Formatting Tips and Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/encouraging-readers-to-consider-homestays-or-volunteer-exchanges-for-authentic-local-experiences/"><u>Encouraging Readers to Consider Homestays or Volunteer Exchanges for Authentic Local Experiences.</u></a></li>
+<li><a href="https://win11.techidaily.com/get-free-downloads-access-your-favorite-movies-and-tunes-from-anywhere/"><u>Get Free Downloads: Access Your Favorite Movies & Tunes From Anywhere</u></a></li>
 </ul></div>
 

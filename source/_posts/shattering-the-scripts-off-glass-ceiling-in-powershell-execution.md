@@ -1,7 +1,7 @@
 ---
 title: Shattering the 'Scripts Off' Glass Ceiling in PowerShell Execution
-date: 2024-09-11T09:41:07.160Z
-updated: 2024-09-12T09:41:07.160Z
+date: 2024-09-11T04:51:33.554Z
+updated: 2024-09-17T05:02:59.653Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Run PowerShell in Administrator Mode
 
  Are you currently running PowerShell without proper administrative rights? If so, then perhaps that’s where the issue lies.
@@ -47,23 +40,9 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Change the Execution Policy in PowerShell
 
  In some instances, changing the execution policy could help. But before we explore the solutions, let’s first take you through what the execution policy is and how it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Is the Execution Policy, and How Does It Work?
 
@@ -107,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -115,25 +101,11 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -153,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
  Remember, the main aim is to change the execution policy such that you’ll be able to run your PowerShell scrips without a hassle. And by so doing, you’ll get rid of the “running scripts is disabled” error on PowerShell.
@@ -165,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
 
  If you want to run all scripts without restrictions, pick the **Allow all scripts** option from the "Execution Policy" drop-down menu.
@@ -181,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -196,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the value is missing, create it through these steps:
 
 1. Right-click on a blank space on the right-hand side.
@@ -208,13 +194,6 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
  After entering your preferred value in the "Value data" section, press **OK** to save the changes. Finally, close the Registry Editor and then restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Run Your PowerShell Scripts Without Any Restrictions
 
  It can be quite frustrating when you suddenly can’t execute certain commands on Windows PowerShell. But if you come across the “scripts is disabled” error, the solutions we’ve covered should help.
@@ -225,44 +204,6 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 
  Let’s dive in!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-spectrum-screens-a-new-film-language/"><u>[New] Spectrum Screens A New Film Language</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-deciphering-intermittent-stoppages-in-photobooth-videos-for-2024/"><u>[Updated] Deciphering Intermittent Stoppages in Photobooth Videos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>[Updated] In 2024, Comparing iPhone's Best Video Editors Cameo & FilmoraGo</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unveiling-the-art-of-personal-branding-mastery/"><u>[Updated] In 2024, Unveiling the Art of Personal Branding Mastery</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-radeon-remembrance-set/"><u>[Updated] Radeon Remembrance Set</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus/"><u>2024 Approved How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011811690-apex-legends-online-connection-guide-expert-advice-on-getting-you-back-in-the-game/"><u>Apex Legends Online Connection Guide - Expert Advice on Getting You Back in the Game!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg3000-how-to-download-and-update-the-necessary-printing-software/"><u>Canon MG3000: How to Download and Update the Necessary Printing Software</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-tactics-to-ensure-v22h2-update-on-windows-11-proceeds/"><u>Effective Tactics to Ensure V22H2 Update on Windows 11 Proceeds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-team-conferencing-with-zoom-techniques-in-microsoft-teams/"><u>Enhancing Team Conferencing with ZOOM Techniques in Microsoft Teams</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-customizing-desktop-pictures-in-windows/"><u>Master the Art of Customizing Desktop Pictures in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-navigation-learn-to-use-gestures-in-ms-edge-for-windows-11/"><u>Master the Art of Navigation: Learn to Use Gestures in MS Edge for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-misidentified-gaming-status-on-discord-pc-edition/"><u>Mending Misidentified Gaming Status on Discord, PC Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-default-save-issues-in-modern-windows/"><u>Preventing Default Save Issues in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-d3d11-compatible-graphics-errors-in-win11win10/"><u>Resolving D3D11 Compatible Graphics Errors in Win11/Win10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rust-graphical-anomaly-resolved/"><u>Rust Graphical Anomaly - Resolved!</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-transition-turning-windows-cr2-photos-into-jpgs/"><u>Seamless Transition: Turning Windows CR2 Photos Into JPGs</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-pcs-automatic-shutdown-at-idle-w11-style/"><u>Secure Your PCs: Automatic Shutdown at Idle, W11 Style</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-file-maintenance-the-autodelete-system-for-windows-users/"><u>Simplifying File Maintenance: The AutoDelete System for Windows Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-tutorial-broadcasting-360-video-on-youtube-live/"><u>Step-by-Step Tutorial Broadcasting 360 Video on YouTube Live</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-the-roblox-must-close-warning-in-windows/"><u>Steps to Eliminate the 'Roblox Must Close' Warning in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-backup-cortanas-digital-footprint-windows/"><u>Strategies to Backup Cortana's Digital Footprint (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/top-six-reasons-for-switching-to-win11-from-macos/"><u>Top Six Reasons for Switching to Win11 From macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/track-down-absent-control-settings-on-your-new-pc/"><u>Track Down Absent Control Settings on Your New PC</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-giants-identifying-heavy-disk-space-usage-on-pcs/"><u>Uncovering Giants: Identifying Heavy Disk Space Usage on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-full-potential-of-your-browser-with-gestures-in-microsoft-edge-windows-11/"><u>Unlock the Full Potential of Your Browser with Gestures in Microsoft Edge, Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-win11s-capabilities-new-folder-fundamentals/"><u>Unlock Win11's Capabilities: New Folder Fundamentals</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-despite-operational-error-740/"><u>Unlocking Windows 11'S Potential Despite Operational Error #740</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-1011-remote-errors-quickly/"><u>Unraveling Windows 10/11 Remote Errors Quickly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/upgrading-to-big-sur-know-your-hardware-standards/"><u>Upgrading to Big Sur? Know Your Hardware Standards</u></a></li>
-<li><a href="https://win11.techidaily.com/winexe-transformation-techniques-with-bat-scripts/"><u>WinEXE Transformation Techniques with .bat Scripts</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -270,3 +211,21 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-upgrade-plans-standard-studio-or-beta-revolution-for-2024/"><u>[New] Channel Upgrade Plans Standard Studio or Beta Revolution for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unveiling-the-secrets-to-swiftly-altering-snapchat-soundscapes/"><u>[New] In 2024, Unveiling the Secrets to Swiftly Altering Snapchat Soundscapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skills-required-how-to-gain-free-framed-vids/"><u>2024 Approved Skills Required How To Gain Free Framed Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-elevation-for-power-users-on-pc/"><u>Enabling Elevation for Power Users on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-11-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-teams-error-80080300-in-windows-11/"><u>How to Fix the Microsoft Teams Error 80080300 in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/netgear-pl-1200-powerline-networking-unit-tested-sizing-up-for-speed-and-design-efficiency/"><u>Netgear PL-1200 Powerline Networking Unit Tested - Sizing Up for Speed and Design Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-portal-elevated-terminal-at-your-fingertips/"><u>Quick Portal: Elevated Terminal at Your Fingertips</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-sleepy-batch-processes-in-windows-os/"><u>Revitalizing Sleepy Batch Processes in Windows OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-puzzle-effective-fixes-for-when-assassins-creed-mirage-refuses-to-launch/"><u>Solving the Puzzle: Effective Fixes for When Assassin's Creed Mirage Refuses to Launch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-the-finals-app-launch-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for 'The Finals' App Launch Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-shortcuts-gaining-infinite-capabilities/"><u>Windows Shortcuts: Gaining Infinite Capabilities</u></a></li>
+</ul></div>
+

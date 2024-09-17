@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of DevHome in Windows 11 Evolution
-date: 2024-09-11T09:37:40.396Z
-updated: 2024-09-12T09:37:40.396Z
+date: 2024-09-14T04:50:01.231Z
+updated: 2024-09-17T02:35:48.311Z
 tags:
   - windows10
   - windows11
@@ -44,47 +44,21 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 2. In the search bar at the top, search for **Dev Home**. Select **Dev Home (Preview)** from the search results and click **Get** to download the app.
 3. Once the download process completes, you will be able to use the **Dev Home** app preview.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Use Dev Home on Windows?
 
  In terms of developer tools, Dev Home is probably one of the best additions since WSL2\. As a seasoned developer, I can understand how beneficial Dev Home is and how it streamlines my typical workflows. Developers can focus more on the development itself rather than making sure the project is set up correctly without package and dependency issues.
 
 ![dashboard plugins for Dev Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-home-dashboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
 
  Dev Home has several essential features, such as enhanced GitHub integration, customized widgets for your dashboard, a Dev Drive, and much more.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Quick Project Setup
@@ -93,27 +67,26 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
 ![dev home on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With Dev Home's machine configuration, you can effortlessly clone a Git repository and install its dependencies with just a few clicks. If you need to install specific applications like Visual Studio, PowerShell, or SQL Server, you can do that directly through Dev Home.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Easy GitHub Setup
 
  The Github extension for Dev Home allows you to easily integrate your codebases and overview your projects in an organized fashion. You can also use Dev Home to configure cloud coding environments such as GitHub Codespaces and Microsoft DevBox.
 
  Dev Home also provides a convenient platform for managing various aspects of your GitHub workflow. This includes handling GitHub pull requests, issues, [SSH keys](https://www.makeuseof.com/what-is-ssh/), and integrated tools, all within the Dev Home environment.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Dev Drive File System
 
@@ -122,19 +95,6 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
  Microsoft discusses the effectiveness of this system on the [Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/):
 
 > Dev Drive is based on the Resilient File System, which, combined with a new performance mode capability in Microsoft Defender for Antivirus, offers up to 30% file system improvement in build times for file I/O scenarios. The new performance mode is more secure for your workloads than folder or process exclusions, providing an ultimate solution to balance security with performance.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Better Productivity With a Customizable Dashboard
 
@@ -146,72 +106,6 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
  Read on as we dive into what Dev Home is and how it can significantly boost your productivity.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dealing-with-self-viewer-phenomenon-on-facebook-chats/"><u>[New] Dealing with Self-Viewer Phenomenon on Facebook Chats</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-essential-listing-best-free-vector-art-pages-online/"><u>[New] Essential Listing Best Free Vector Art Pages Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-facetimes-role-in-modern-communication-best-practices-for-recording-calls-for-2024/"><u>[New] FaceTime's Role in Modern Communication Best Practices for Recording Calls for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-memory-to-moments-share-images-seamlessly-today-for-2024/"><u>[New] From Memory to Moments Share Images Seamlessly Today for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elite-budget-free-fb-imagemotion-engineer/"><u>[New] In 2024, Elite Budget-Free FB Image/Motion Engineer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maintaining-softness-fading-effects-in-fl-studio-mixes/"><u>[New] Maintaining Softness Fading Effects in FL Studio Mixes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-top-10-filmora-traits-fueling-video-magic-for-2024/"><u>[New] The Top 10 Filmora Traits Fueling Video Magic for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-videographers-packing-essentials-kit/"><u>[New] The Videographer's Packing Essentials Kit</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ultimate-selection-of-superior-hexadrones-for-2024/"><u>[New] Ultimate Selection of Superior HexaDrones for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-best-practices-for-an-immersive-streaming-experience/"><u>[Updated] Best Practices for an Immersive Streaming Experience</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-thrifty-sky-surfers-cheapest-drones-on-market-for-2024/"><u>[Updated] Thrifty Sky Surfers Cheapest Drones on Market for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-video-data-in-high-capacity-drives-64128gb/"><u>2024 Approved Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>2024 Approved Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/cracking-the-code-windows-versioning-insight/"><u>Cracking the Code: Windows Versioning Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-portable-executable-pe-syntax/"><u>Decoding Windows Portable Executable (PE) Syntax</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-error-corrected-improved-gpu-support-unlocked/"><u>Direct3D Error Corrected: Improved GPU Support Unlocked</u></a></li>
-<li><a href="https://win11.techidaily.com/electrical-use-analysis-for-windows-computers-unveiled/"><u>Electrical Use Analysis for Windows Computers Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workday-6-time-management-apps-on-windows/"><u>Elevate Your Workday: 6 Time Management Apps on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/elusive-search-icon-techniques-for-windows-11/"><u>Elusive Search Icon Techniques for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-windows-1111-ui-for-auto-check-updates/"><u>Enabling Windows 11/11 UI for Auto-Check Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-context-menu-with-submenus/"><u>Enhancing Windows 11 Context Menu with Submenus</u></a></li>
-<li><a href="https://article-tips.techidaily.com/explore-the-best-10-vectors-online-archives-for-2024/"><u>Explore the Best 10 Vectors Online Archives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-powertoys-for-rapid-file-naming-tasks/"><u>Harness PowerToys for Rapid File Naming Tasks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A14 5G?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-upgrade-your-pcs-usb-ethernet-rndis-driver-on-windows/"><u>How to Find and Upgrade Your PC's USB Ethernet (RNDIS) Driver on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-the-best-linux-features-with-windows-apps/"><u>How to Get the Best Linux Features With Windows Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-sync-troubles-heres-how-you-can-restore-seamless-cloud-integration/"><u>ICloud Sync Troubles? Here's How You Can Restore Seamless Cloud Integration</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-ad-free-watching-chromefirefoxandroidios-tutorial/"><u>In 2024, YouTube Ad-Free Watching Chrome/Firefox/Android/iOS Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/instantaneous-implementation-microsoft-works-for-windows-10plus/"><u>Instantaneous Implementation: Microsoft Works for Windows 10+</u></a></li>
-<li><a href="https://win11.techidaily.com/integrate-and-setup-windows-hello-with-a-fingerprint/"><u>Integrate and Setup: Windows Hello with a Fingerprint</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-mic-troubleshooting-in-windows-11-platforms/"><u>Mastering Xbox Mic Troubleshooting in Windows 11 Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-navigation-for-the-elusive-mac-on-windows-11/"><u>Navigating Network Navigation for the Elusive MAC on WIndows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-unrealcefsubprocess-for-lower-cpu-and-memory-usage/"><u>Optimizing UnrealCEFSubprocess for Lower CPU and Memory Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-ui-fidelity-on-newest-windows-release/"><u>Perfecting UI Fidelity on Newest Windows Release</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-user-directory-naming/"><u>Personalizing Your User Directory Naming</u></a></li>
-<li><a href="https://win11.techidaily.com/quickly-link-tofrom-bing-chat-in-windows-11-search-field/"><u>Quickly Link To/From Bing Chat in Windows 11 Search Field</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quintessential-6-realistic-mojave-homes/"><u>Quintessential 6 Realistic Mojave Homes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reclaim-your-iphone-x-experience-with-these-tips-for-2024/"><u>Reclaim Your iPhone X Experience with These Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-incomplete-network-prompt-guidance-on-windows/"><u>Resolving Incomplete Network Prompt Guidance on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-custom-sort-and-group-order-of-files/"><u>Reverting Custom Sort and Group Order of Files</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-android-tablet-and-w11-duo-display-setup/"><u>Seamless Android Tablet & W11 Duo Display Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-procedure-for-installing-outlook-preview/"><u>Step-by-Step Procedure for Installing Outlook Preview</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-spotify-on-windows-startup-by-default/"><u>Stop Spotify on Windows Startup by Default</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-settle-windows-laptop-latency-after-external-monitors-addition/"><u>Swiftly Settle Window's Laptop Latency After External Monitors Addition</u></a></li>
-<li><a href="https://win11.techidaily.com/the-comprehensive-guide-to-disbanding-disk-divisions-in-win-os/"><u>The Comprehensive Guide to Disbanding Disk Divisions in Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-purging-windows-drives-partition-units/"><u>The Ultimate Guide to Purging Windows Drives' Partition Units</u></a></li>
-<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/top-six-strategies-to-scale-your-photos-on-windows-11-effectively/"><u>Top Six Strategies to Scale Your Photos on Windows 11 Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-windows-into-a-personalized-oasis-8-winbubble-upgrades/"><u>Transform Windows Into a Personalized Oasis: 8 WinBubble Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-your-digital-music-library-a-comprehensive-guide-on-mp3-to-cd-conversion-with-imgburn-windows/"><u>Transforming Your Digital Music Library: A Comprehensive Guide on Mp3 to CD Conversion with ImgBurn (Windows)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-getting-anthem-to-echo-in-your-system/"><u>Troubleshooting Audio Problems - Getting Anthem to Echo in Your System</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-phones-into-windows-audio-input/"><u>Turning Phones Into Windows Audio Input</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-imessages-converted-into-texts-is-this-a-sign-of-being-blocked/"><u>Understanding iMessages Converted Into Texts – Is This a Sign of Being Blocked?</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-power-of-system-preferences/"><u>Unlock the Power of System Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-audacitys-windows-compatibility-issue-9999/"><u>Unlocking Audacity's Windows Compatibility Issue #9999</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlocking-potential-snapchats-business-toolkit/"><u>Unlocking Potential Snapchat's Business Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-disable-windows-11-tpm-effortlessly/"><u>Unlocking Secrets: Disable Windows 11 TPM Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-fixing-windows-remote-desktop-errors/"><u>Unlocking Secrets: Fixing Windows Remote Desktop Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-speech-technology-navigating-shortcuts-on-win-11/"><u>Unlocking Speech Technology: Navigating Shortcuts on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-credentials-top-11-techniques/"><u>Unlocking Windows 11'S Credentials: Top 11 Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-network-conundrum-defeat-error-0x800704b3/"><u>Win10/11 Network Conundrum: Defeat Error 0X800704B3</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -219,3 +113,16 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/best-fixes-for-honor-x9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor X9a Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-friendly-video-recorder-sets-top-11-picks/"><u>Budget-Friendly Video Recorder Sets Top 11 Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expanding-creative-horizons-large-scale-output-via-canva-and-chatgpt/"><u>Expanding Creative Horizons: Large Scale Output via Canva and ChatGPT</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-10-drone-cameras-perfect-for-cinematic-moments/"><u>In 2024, Top 10 Drone Cameras Perfect For Cinematic Moments</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-ac3-audio-format-conversion-the-ultimate-tool-for-fast-and-effortless-mp3-creation/"><u>Speedy AC3 Audio Format Conversion: The Ultimate Tool for Fast and Effortless MP3 Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-your-dvd-collection-into-common-video-formats-like-mp4-mkv-and-more/"><u>Step-by-Step Guide: Converting Your DVD Collection Into Common Video Formats Like MP4, MKV & More</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-your-entire-itunes-library-into-high-quality-mp3-format/"><u>Step-by-Step Guide: Converting Your Entire iTunes Library Into High-Quality MP3 Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-benefits-of-seeking-medical-insights-from-chatgpt/"><u>Top 7 Benefits of Seeking Medical Insights From ChatGPT</u></a></li>
+</ul></div>
+

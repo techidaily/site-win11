@@ -1,7 +1,7 @@
 ---
 title: Tackling Unexpected System Call Issues on Windows
-date: 2024-09-11T09:40:35.771Z
-updated: 2024-09-12T09:40:35.771Z
+date: 2024-09-09T16:05:52.123Z
+updated: 2024-09-17T05:02:49.762Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 ![The Processes tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restarting the explorer.exe process can fix the “System call failed” error. It's a really easy and quick fix, so it's a good starting point for troubleshooting the “system call failed” error.
 
  You can restart the explorer.exe process with Task Manager, as covered in this guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
@@ -43,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ## 2\. Run the SFC and DISM Tools in Command Prompt
 
 ![Windows System File Checker tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Corrupted system files could be causing File Explorer to crash. As such, it's worth running the System File Checker (SFC). This tool is a Windows Command-Prompt utility that checks for and repairs system files.
 
@@ -68,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  A failing hard drive is another potential cause of the “system call failed” error. You can check for and repair disk errors with the Check Disk (CHKDSK) tool on Windows.
 
  Our [how to run CHKDSK](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) guide explains how you can utilize the Check Disk tool.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Initiate a Malwarebytes Scan
 
@@ -83,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![The Scan option in Malwarebytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-scan-option.jpg)
 6. Select **Quarantine** and **Yes** if Malwarebytes detects malware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Startup Items and Services With a Clean Boot
 
  Another possibility is that a third-party program or service is conflicting or interfering with the File Explorer processing, causing the “System call failed” error to occur on your PC.
@@ -102,26 +82,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
 ![Services tab on Windows Configuration menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Restore Windows 11/10 to an Earlier Time
 
  System Restore is a tool that rolls Windows 11/10 back to a backup image, otherwise called a restore point. Restoring Windows to a date that predated the “System call failed” error on your PC might fix system file issues. Doing so will also remove third-party software installed on your PC after the restoration date that could be causing the issue.
@@ -131,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Apply a Factory Reset
@@ -146,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 ![The Keep my files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-this-pc-tool4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the “System Call Failed” Error Fixed
@@ -160,51 +120,6 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-jaunt-vr-uncovered-a-comprehensive-look/"><u>[New] In 2024, Jaunt VR Uncovered A Comprehensive Look</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-asmr-apps-android-and-ios-edition/"><u>[Updated] 2024 Approved Essential ASMR Apps Android & iOS Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[Updated] In 2024, Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>2024 Approved Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-for-using-windows-canary-service/"><u>Comprehensive Guide for Using Windows' Canary Service</u></a></li>
-<li><a href="https://win-able.techidaily.com/convenient-tips-for-navigating-the-drive-easy-portable-application/"><u>Convenient Tips for Navigating the Drive Easy Portable Application</u></a></li>
-<li><a href="https://facebook.techidaily.com/demystifying-how-photodna-identifies-counterfeits/"><u>Demystifying How PhotoDNA Identifies Counterfeits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodging-ai-crafted-windows-11-keys-a-good-practice/"><u>Dodging AI-Crafted Windows 11 Keys: A Good Practice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862684696-dont-miss-out-high-performance-m3-macbook-air-laptop-16gb-ram-and-13-display-for-only-1149/"><u>Don't Miss Out: High-Performance M3 MacBook Air Laptop - 16GB RAM & 13 Display for Only $1,149</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-network-drive-configuration-for-enhanced-workflow/"><u>Efficient Network Drive Configuration for Enhanced Workflow</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-disabled-obstacles-for-executing-powershell-scripts/"><u>Eliminating 'Disabled' Obstacles for Executing PowerShell Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-precision-and-speed-of-windows-11-laptop-screens/"><u>Enhance Precision and Speed of Windows 11 Laptop Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-frayed-script-extensions-in-skyrim-games/"><u>Fixing Frayed Script Extensions in Skyrim Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/heaviest-aerial-transporters-top-10-drones-reviewed-for-2024/"><u>Heaviest Aerial Transporters Top 10 Drones Reviewed for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-err0r-x7e1-on-win10-pcs/"><u>How to Reset Err0r: X7E1 on Win10 PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-7-plus-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 7 Plus screen lock without Passcode?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ideal-microphones-for-precision-in-4k-video-and-sound-recording/"><u>Ideal Microphones for Precision in 4K Video & Sound Recording</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-play-7t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Play 7T Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oneplus-11r-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of OnePlus 11R Through Google Earth?</u></a></li>
-<li><a href="https://win11.techidaily.com/key-complementary-aid-for-elevating-your-windows-11-use/"><u>Key Complementary Aid for Elevating Your Windows 11 Use</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-tcpip-with-python-servers-on-windows-networks/"><u>Leveraging TCP/IP with Python Servers on Windows Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-display-scaling-in-windows-11/"><u>Modify Display Scaling in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/motherboard-selection-mastery-understanding-7-critical-factors/"><u>Motherboard Selection Mastery: Understanding 7 Critical Factors</u></a></li>
-<li><a href="https://win11.techidaily.com/onedrives-invalid-reparse-point-a-guide-to-mend-it-on-windows/"><u>OneDrive’s Invalid Reparse Point: A Guide to Mend It on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-errors-with-googles-nearby-sharing-on-pc/"><u>Overcoming Errors with Google's Nearby Sharing on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-block-after-failure/"><u>Overcoming Windows Login Block After Failure</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-of-brainy-content-general-knowledge-top-11/"><u>Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-unsupported-boot-state-in-windows/"><u>Quick-Fix for Unsupported Boot State in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-command-function-keys-restoration-in-win10/"><u>Regain Command: Function Keys' Restoration in Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-the-impact-of-glitches-winvolume-fix-guide/"><u>Reverse the Impact of Glitches: WinVolume Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/seamlessly-merge-your-android-with-a-windows-system/"><u>Seamlessly Merge Your Android with a Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-15-ways-to-reach-windows-settings/"><u>Simplify: 15 Ways to Reach Windows Settings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-for-setting-up-a-custom-email-signature-in-godaddy-webmail-services/"><u>Step-by-Step Tutorial for Setting Up a Custom Email Signature in GoDaddy Webmail Services</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-resolving-not-handled-error-on-windows-1011/"><u>Tips for Resolving Not Handled Error on Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turn-off-auto-repeat-the-comprehensive-guide-to-stopping-apple-musics-nonstop-songs/"><u>Turn Off Auto-Repeat: The Comprehensive Guide to Stopping Apple Music's Nonstop Songs</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-the-0x8007045d-blue-screen/"><u>Understanding and Remedying the 0X8007045D Blue Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/vivetool-steps-for-windows-copilot-enablement/"><u>ViveTool Steps for Windows Copilot Enablement</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-webcam-troubleshooting-avoid-code-0xa00f4289/"><u>Win10/11 Webcam Troubleshooting - Avoid Code 0xA00F4289</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-google-play-setup-protocols/"><u>Windows 11 Google Play Setup Protocols</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-reset-triggers-top-10-tips/"><u>Windows Reset Triggers: Top 10 Tips</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,3 +127,24 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-poll-power-players-leading-electoral-game-reviews/"><u>[New] In 2024, Poll Power Players Leading Electoral Game Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-voice-memo-solutions-for-ipads-3-picks-for-2024/"><u>[Updated] Expert Voice Memo Solutions for iPads, #3 Picks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screen-recorder-showdown-features-and-prices-compared/"><u>[Updated] In 2024, Screen Recorder Showdown Features and Prices Compared</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-12-mini-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 12 mini</u></a></li>
+<li><a href="https://win11.techidaily.com/canva-tutorial-mastering-video-sound-adjustments-eliminating-or-incorporating-audio-seamlessly/"><u>Canva Tutorial: Mastering Video Sound Adjustments - Eliminating or Incorporating Audio Seamlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-set-up-focusrite-scarlett-2i4-drivers-on-your-windows-computer/"><u>How to Download and Set Up Focusrite Scarlett 2I4 Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 12 mini?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-youtube-video-extraction-dumpertnls-top-4-strategies-unveiled/"><u>Mastering the Art of YouTube Video Extraction: Dumpert.nl's Top 4 Strategies Unveiled!</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-audio-amplifier-a-user-friendly-guide-to-boosting-sound-clarity/"><u>Top-Rated Audio Amplifier: A User-Friendly Guide to Boosting Sound Clarity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-wi-fi-and-cellular-problems-on-iphone-via-network-recovery-mode/"><u>Troubleshoot Wi-Fi and Cellular Problems on iPhone via Network Recovery Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-fixing-the-causes-behind-the-0xc00d3e8c-error-in-windows-11/"><u>Troubleshooting Guide: Fixing the Causes Behind the 0XC00D3E8C Error in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-when-msvbvm50dll-is-mia-on-your-pc/"><u>Troubleshooting Tips for When msvbvm50.dll Is MIA on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-converting-ogv-audio-files-to-mp3-format-on-your-windows-pc/"><u>Ultimate Guide: Converting OGV Audio Files to MP3 Format on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-the-top-12-leading-youtube-to-mp4-converter-tools/"><u>Ultimate Guide: The Top 12 Leading YouTube to MP4 Converter Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-screen-guide-choosing-the-best-displays-for-ps5-and-xbox-series-systems/"><u>Ultimate Screen Guide: Choosing the Best Displays for PS5 and Xbox Series Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-changing-a-videos-fps-from-60-to-24/"><u>Ultimate Techniques for Changing a Video's FPS From 60 to 24</u></a></li>
+</ul></div>
+

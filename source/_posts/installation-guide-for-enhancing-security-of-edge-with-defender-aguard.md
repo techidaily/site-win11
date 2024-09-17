@@ -1,7 +1,7 @@
 ---
 title: Installation Guide for Enhancing Security of Edge with Defender Aguard
-date: 2024-09-11T09:39:22.668Z
-updated: 2024-09-12T09:39:22.668Z
+date: 2024-09-13T02:28:26.263Z
+updated: 2024-09-17T04:34:21.311Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How to Install Microsoft Defender Application Guard Using Windows Settings
 
  Installing Microsoft Defender Application Guard for Edge on your Windows PC is a quick and simple process. You just need to access the Windows Settings app, and then follow a few steps to enable the feature. Here's how to do it:
@@ -45,25 +38,11 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 6. Next, check the box next to**Microsoft Defender Application Guard** and click**OK** .  
 ![Add Microsoft Defender Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-microsoft-defender-application-guard-for-edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you perform the above steps, you must need to restart your computer to finish installing the requested changes. This way you can install the feature on your computer.
 
  If you have already installed Microsoft Defender Application Guard and want to uninstall it, the process is quite easy. All you need to do is follow the steps mentioned above until you reach the Windows Security page.
 
 ![Uninstall Microsoft Defender Application Guard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-defender-application-guard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
@@ -78,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 5. Then restart your computer for the changes to take effect.
 
  In order to uninstall it, follow the same steps and uncheck the box next to**Microsoft Defender Application Guard** . Then click OK and reboot your computer to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Install Microsoft Defender Application Guard Using Local Group Policy Editor
 
@@ -107,6 +79,19 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
  If you are comfortable with the command prompt, you can also install Microsoft Defender Application Guard using the Command Prompt. Follow the steps here:
@@ -125,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
  At this point, you may be asked to restart your computer. To proceed, type**Y** and press Enter. After restarting, you will have successfully installed Microsoft Defender Application Guard on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. How to Install Microsoft Defender Application Guard Using Windows PowerShell
@@ -151,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
  This is how you can install and uninstall Microsoft Defender Application Guard using Windows PowerShell on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Microsoft Defender Application Guard and Stay Safe
 
  Microsoft Defender Application Guard uses isolated secure containers to protect your device from malicious files and threats. In the above-described methods, you can follow the installation steps and remain safe while browsing the web.
@@ -177,53 +161,18 @@ thumbnail: https://thmb.techidaily.com/1da8846cbd836d9712f7b59a73630f863ec9ad2fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-accelerate-audio-playback-on-spotify-safely-and-effectively/"><u>[New] Accelerate Audio Playback on Spotify Safely & Effectively</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram-for-2024/"><u>[New] From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>[New] In 2024, Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secret-vlc-tactics-for-optimal-viewing-experience/"><u>[New] Secret VLC Tactics for Optimal Viewing Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stealthy-editing-blur-faces-with-picsart/"><u>[New] Stealthy Editing Blur Faces With Picsart</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-integration-for-tiktok-video-content-for-2024/"><u>[New] Twitter Integration for TikTok Video Content for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo/"><u>[Updated] Constructive Cuts Streamlined Approaches for Length Adjustments on Vimeo</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok-for-2024/"><u>[Updated] Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-shopping-spree-to-stardom-editing-your-haul-video/"><u>2024 Approved From Shopping Spree to Stardom Editing Your Haul Video</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-hidden-layer-capturing-chats-as-fb-media-files/"><u>2024 Approved The Hidden Layer Capturing Chats as FB Media Files</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-overcoming-usb-not-recognized-error-in-virtualbox/"><u>Comprehensive Guide: Overcoming 'USB Not Recognized' Error in VirtualBox</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-microsoft-store-issue-x80073d26-on-win11/"><u>Correcting Microsoft Store Issue X:80073d26 on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-windows-11-directory-exposure/"><u>Customize Your Window's 11 Directory Exposure</u></a></li>
-<li><a href="https://win11.techidaily.com/decisive-action-plan-for-banishing-flashing-screens-on-windows/"><u>Decisive Action Plan for Banishing Flashing Screens on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/dial-down-dysfunction-restore-your-pcs-essential-esc-keys/"><u>Dial Down Dysfunction: Restore Your PC's Essential Esc Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-always-on-top-notations-on-windows/"><u>Ensuring Always On-Top Notations on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/excellence-in-organizing-top-windows-to-dos-revealed/"><u>Excellence in Organizing: Top Windows To-Dos Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/file-resurrection-made-simple-8-methods-for-windows-users/"><u>File Resurrection Made Simple: 8 Methods for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-based-valorant-audio-glitches/"><u>Fixing Windows-Based Valorant Audio Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-windows-index-adjustment-steps/"><u>Guide: Windows Index Adjustment Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g34-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G34 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-t2-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo T2 5G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-chromes-new-soundscape-the-foremost-apps-for-voice-change-exploration/"><u>In 2024, Chrome’s New Soundscape The Foremost Apps for Voice Change Exploration</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-12-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 12 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inside-polarrs-magic-box-the-ultimate-digital-image-enhancer-for-2024/"><u>Inside Polarr's Magic Box The Ultimate Digital Image Enhancer for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/is-splitcam-the-premier-choice-for-video-capture/"><u>Is SplitCam the Premier Choice for Video Capture?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/journey-into-av1-the-newcomers-guidebook-for-2024/"><u>Journey Into AV1 The Newcomer's Guidebook for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-efficiency-in-it-support-with-troubleshooters-shortcut-guide/"><u>Maximize Efficiency in IT Support with Troubleshooters Shortcut Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/missed-sd-card-display-how-to-locate-it-in-explorer/"><u>Missed SD Card Display: How to Locate It in Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-of-common-rainmeter-challenges-on-pcs/"><u>Navigating the Maze of Common Rainmeter Challenges on PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-of-overreliance-on-artificial-intelligence-learn-6-reasons-to-proceed-with-care/"><u>Navigating the Pitfalls of Overreliance on Artificial Intelligence - Learn 6 Reasons to Proceed with Care</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-refit-youtube-on-mac-perfect-scaling-for-2024/"><u>Rapid Refit Youtube on Mac Perfect Scaling for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-disabled-cpu-cooling-mechanism-in-os/"><u>Reactivating Disabled CPU Cooling Mechanism in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-no-saving-problem-with-photoapp/"><u>Remedy for 'No Saving' Problem with PhotoApp</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/silent-seekers-find-speedy-solutions-with-stellar/"><u>Silent Seekers Find Speedy Solutions with Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-type-win-navigating-text-creation-using-windows-whisper/"><u>Speak, Type, Win: Navigating Text Creation Using Windows Whisper</u></a></li>
-<li><a href="https://win11.techidaily.com/synchronizing-qbittorrent-settings-between-multiple-windows-systems/"><u>Synchronizing qBittorrent Settings Between Multiple Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-utorrent-download-interruptions-on-pcs/"><u>Tackling uTorrent Download Interruptions on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-pin-modification/"><u>The Ultimate Guide to Windows PIN Modification</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-trim-windows-overscan-for-flawless-screen-match/"><u>Tips to Trim Windows Overscan for Flawless Screen Match</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-upgrade-top-5-tools-to-supercharge-your-pc/"><u>Turbo Upgrade: Top 5 Tools to Supercharge Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/why-you-should-prefer-windows-11-over-macos/"><u>Why You Should Prefer Windows 11 over MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1011-disk-management-a-comprehensive-walkthrough/"><u>Win 10/11 Disk Management: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-inside-the-settings-experience/"><u>Windows 11: Inside the Settings Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-security-reboot-a-guide-to-altering-rules/"><u>Windows Security Reboot: A Guide to Altering Rules</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-subsystem-phaseout-strategizing-for-future-android-support/"><u>Windows Subsystem Phaseout: Strategizing for Future Android Support</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-troubleshooting-obs-fullscreen-failure/"><u>[New] In 2024, Troubleshooting OBS Fullscreen Failure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-voice-overs-for-videos-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Voice-Overs for Videos Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/flagiconnga-chinwendu-ihezuo-sheikh-jamal-dhanmondi-club-10-goals-chinwendu-ihezuo-29-total-in-all-tournaments/"><u>{{Flagicon|NGA}} Chinwendu Ihezuo (Sheikh Jamal Dhanmondi Club, 10 Goals) Chinwendu Ihezuo '''29 Total in All Tournaments :'''</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-transform-high-resolution-4k-content-into-1080p-with-ease/"><u>Effective Techniques: Transform High-Resolution 4K Content Into 1080P with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-dvd-formatting-tips-and-techniques-for-windows-users/"><u>Effortless DVD Formatting Tips and Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/encouraging-readers-to-consider-homestays-or-volunteer-exchanges-for-authentic-local-experiences/"><u>Encouraging Readers to Consider Homestays or Volunteer Exchanges for Authentic Local Experiences.</u></a></li>
+<li><a href="https://win11.techidaily.com/get-free-downloads-access-your-favorite-movies-and-tunes-from-anywhere/"><u>Get Free Downloads: Access Your Favorite Movies & Tunes From Anywhere</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-transforming-video-files-into-mp3s-via-windows-media-player/"><u>Guide: Transforming Video Files Into MP3s via Windows Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-can-assist-you-in-developing-a-daily-meditation-practice/"><u>How ChatGPT Can Assist You in Developing a Daily Meditation Practice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-c55-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco C55</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pioneering-youtube-success-stories-via-tubebuddy-for-2024/"><u>Pioneering YouTube Success Stories via TubeBuddy for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/selecting-the-perfect-footage-editor-hero-vs-the-cube/"><u>Selecting the Perfect Footage Editor Hero Vs. The Cube</u></a></li>
 </ul></div>
 

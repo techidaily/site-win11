@@ -1,7 +1,7 @@
 ---
 title: Fixing Common Issues with Microsoft Store Logins
-date: 2024-09-11T09:40:19.651Z
-updated: 2024-09-12T09:40:19.651Z
+date: 2024-09-10T16:22:47.250Z
+updated: 2024-09-16T18:46:10.737Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c10715
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
 
@@ -73,13 +66,6 @@ To repair the Microsoft Store app on Windows:
 
  If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Correct Date and Time on Your PC
 
  Apps like Microsoft Store rely on your PC's date and time to establish a secure server connection. If your PC is set to an incorrect date or time, you might have trouble signing into the Microsoft Store. Instead of manually correcting the date and time, you can configure Windows to retrieve this information online. To do so, use these steps:
@@ -89,13 +75,6 @@ To repair the Microsoft Store app on Windows:
 3. Click on**Date & time** .
 4. Enable the toggle next to**Set time automatically** .  
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
@@ -112,6 +91,13 @@ To configure the Microsoft Store Install Service on Windows:
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
 <!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
 <a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
   <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
@@ -124,35 +110,35 @@ To configure the Microsoft Store Install Service on Windows:
 
 ![Someone typing on a laptop sitting on a coffee table. The laptop is connecting to a VPN.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-connecting-to-a-vpn.jpg)
 
- Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
 
 ## 8\. Re-Register Microsoft Store via PowerShell
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall Microsoft Store
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Install Windows Updates
 
@@ -163,23 +149,10 @@ To configure the Microsoft Store Install Service on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regain Access to the Microsoft Store on Windows
@@ -201,56 +174,18 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-best-photo-boosts-for-perfecting-your-feed/"><u>[New] Best Photo Boosts for Perfecting Your Feed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-canva-expertise-ditching-image-backdrops-with-ease/"><u>[New] Canva Expertise Ditching Image Backdrops with Ease</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/erchandising-strategies-a-tool-to-amplify-youtube-views/"><u>[New] Merchandising Strategies A Tool to Amplify YouTube Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts-for-2024/"><u>[New] Transform Video Editing with KineMaster Know-How & Premier Online Counterparts for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-transaction-to-treasure-unlocking-your-facebook-video-archive/"><u>[Updated] In 2024, From Transaction to Treasure Unlocking Your Facebook Video Archive</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reimagining-photo-presentation-with-top-frame-tools/"><u>[Updated] Reimagining Photo Presentation with Top Frame Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-vibey-vistas-your-guide-to-the-10-most-trending-discothemes/"><u>[Updated] Vibey Vistas Your Guide to the 10 Most Trending DiscoThemes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-connectivity-adding-url-content/"><u>2024 Approved Instagram Connectivity Adding URL Content</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/adding-a-vibrancy-edge-youtube-thumbnails-meet-neons/"><u>Adding a Vibrancy Edge YouTube Thumbnails Meet Neons</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-resolve-windowss-perplexing-pink-screens/"><u>Comprehensive Guide to Resolve Windows's Perplexing Pink Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-win-error-messages-your-step-by-step-solution/"><u>Decoding Win Error Messages - Your Step-by-Step Solution</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/dive-into-virtual-space-with-lgs-360-degree-headset-for-2024/"><u>Dive Into Virtual Space with LG's 360-Degree Headset for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-tactics-to-ensure-v22h2-update-on-windows-11-proceeds/"><u>Effective Tactics to Ensure V22H2 Update on Windows 11 Proceeds</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiency-seekers-guide-to-lightweight-browsers-for-windowsmacoschromeos/"><u>Efficiency Seekers' Guide to Lightweight Browsers for Windows/macOS/ChromeOS</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-system-installation-guide-for-pc-manager-w11/"><u>Elevate Your System - Installation Guide for PC Manager W11</u></a></li>
-<li><a href="https://win11.techidaily.com/encrypted-space-covertly-placing-zip-archives-in-pixels/"><u>Encrypted Space: Covertly Placing Zip Archives in Pixels</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-windows-11-notepad-with-digital-sage/"><u>Enhance Windows 11 Notepad with Digital Sage</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-clearing-printer-connection-errors/"><u>Expert Guide to Clearing Printer Connection Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/find-my-missing-f-16-copilot-in-windows-11-steps/"><u>Find My Missing F-16 Copilot In Windows 11 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-the-enhanced-taskbar-in-windows-11/"><u>How to Enable the Enhanced Taskbar in Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-ensure-crystal-clear-videos-by-updating-your-webcams-software-for-windows-10-users/"><u>How To Ensure Crystal Clear Videos by Updating Your Webcam's Software for Windows 10 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-random-opens-in-microsoft-shop-app/"><u>How to Stop Random Opens in Microsoft Shop App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-prism-of-design-from-theory-to-practice/"><u>In 2024, A Prism of Design From Theory to Practice</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-from-batch-processing-to-executables-in-windows/"><u>Leap From Batch Processing to Executables in Windows</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/master-the-art-of-converting-fb-to-mp4-720p1080p-without-paying-for-2024/"><u>Master the Art of Converting FB to MP4, 720P/1080p, Without Paying for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-navigation-learn-to-use-gestures-in-ms-edge-for-windows-11/"><u>Master the Art of Navigation: Learn to Use Gestures in MS Edge for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-misidentified-gaming-status-on-discord-pc-edition/"><u>Mending Misidentified Gaming Status on Discord, PC Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/migrating-user-defined-powertoys-settings/"><u>Migrating User-Defined PowerToys Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-utorrent-installation-failures-in-windows-108/"><u>Mitigating uTorrent Installation Failures in Windows 10/8</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disk-needs-initializing-error-on-windows/"><u>Overcoming Disk Needs Initializing Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-each-window-11-screen-with-distinct-wallpapers/"><u>Personalize Each Window 11 Screen with Distinct Wallpapers</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-default-save-issues-in-modern-windows/"><u>Preventing Default Save Issues in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-the-webp-effect-modify-google-chromes-save-settings-win-wise/"><u>Reverse the WebP Effect: Modify Google Chrome's Save Settings, Win-Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-transition-turning-windows-cr2-photos-into-jpgs/"><u>Seamless Transition: Turning Windows CR2 Photos Into JPGs</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-pcs-automatic-shutdown-at-idle-w11-style/"><u>Secure Your PCs: Automatic Shutdown at Idle, W11 Style</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-file-maintenance-the-autodelete-system-for-windows-users/"><u>Simplifying File Maintenance: The AutoDelete System for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-handling-unable-to-terminate-error-on-pc/"><u>Solutions for Handling 'Unable to Terminate' Error on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/starting-again-methodical-steps-for-a-windows-11-new-life/"><u>Starting Again: Methodical Steps for a Windows 11 New Life</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-service-not-responding-error-in-windows/"><u>Steps to Overcome Service Not Responding Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-backup-cortanas-digital-footprint-windows/"><u>Strategies to Backup Cortana's Digital Footprint (Windows)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/time-travel-in-tutorial-videos-speed-alteration-guide/"><u>Time Travel in Tutorial Videos – Speed Alteration Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v27-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V27 Pro Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/top-six-reasons-for-switching-to-win11-from-macos/"><u>Top Six Reasons for Switching to Win11 From macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-tier-pdf-visual-improvements/"><u>Top-Tier PDF Visual Improvements</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-full-potential-of-your-browser-with-gestures-in-microsoft-edge-windows-11/"><u>Unlock the Full Potential of Your Browser with Gestures in Microsoft Edge, Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-win11s-capabilities-new-folder-fundamentals/"><u>Unlock Win11's Capabilities: New Folder Fundamentals</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-despite-operational-error-740/"><u>Unlocking Windows 11'S Potential Despite Operational Error #740</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-1011-remote-errors-quickly/"><u>Unraveling Windows 10/11 Remote Errors Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/winexe-transformation-techniques-with-bat-scripts/"><u>WinEXE Transformation Techniques with .bat Scripts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-psychology-of-persuasion-in-subscription-growth/"><u>[New] 2024 Approved The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-expand-horizons-freshest-wins11-apps-and-games-for-2024/"><u>[New] Expand Horizons Freshest Wins11 Apps & Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-darkened-details-expert-techniques-for-night-photography-success/"><u>[New] In 2024, Darkened Details Expert Techniques for Night Photography Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-x-mix-master-pro-for-computer-users/"><u>[Updated] 2024 Approved X-Mix Master Pro for Computer Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-of-zmi-powerpack-20000-your-ultimate-compact-energy-solution/"><u>Expert Evaluation of ZMI PowerPack 20000 - Your Ultimate Compact Energy Solution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-the-elite-best-15-supports-for-gopro-cameras/"><u>In 2024, Unveiling The Elite Best 15 Supports for GoPro Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/pcwindowsmac/"><u>PC内部オーディオ収録のプロフェッショナルガイド「Windows/Mac」</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-converting-your-videos-from-vimeo-to-mov-format-on-windows/"><u>Quick Guide: Converting Your Videos From Vimeo to MOV Format on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-google-drive-file-downloads-top-14-solutions/"><u>Resolving 'Google Drive File Downloads' - Top 14 Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-mov-to-mp4-transformation-top-video-converters-reviewed/"><u>Seamless MOV to MP4 Transformation: Top Video Converters Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-au-addon-for-iptv-streaming-in-kodi-with-over-30-australian-free-tv-channel-options/"><u>Step-by-Step Guide: Setting Up the AU Addon for IPTV Streaming in Kodi with Over 30 Australian Free TV Channel Options</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-shrinking-flac-file-size-without-losing-quality/"><u>Step-by-Step Guide: Shrinking FLAC File Size Without Losing Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
 </ul></div>
 

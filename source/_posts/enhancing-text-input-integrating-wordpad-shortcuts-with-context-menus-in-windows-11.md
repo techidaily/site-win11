@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Text Input: Integrating WordPad Shortcuts with Context Menus in Windows 11"
-date: 2024-09-11T09:40:38.526Z
-updated: 2024-09-12T09:40:38.526Z
+date: 2024-09-09T22:09:14.758Z
+updated: 2024-09-16T19:00:34.359Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a WordPad Shortcut to Windows 11’s Context Menu
 
  To create WordPad shortcuts on the right-click menu, you’ll need to do a bit of manual registry tweaking. The editing required is relatively straightforward, but you can back up the Windows registry beforehand if preferred. See[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you need help.
@@ -49,24 +42,10 @@ You can add a basic WordPad shortcut to the context menu like this:
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-new-key-options.jpg)
 2. Enter**WordPad** in the text box for the new key.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Then right-click the new**WordPad** key and select the**New** \>**Key** options again.
 4. Input**command** for the subkey’s title.  
 ![The WordPad key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-command-subkey.jpg)
 5. Select the command key in the sidebar, and then double-click its**(Default)** string.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Input this path in the**Value** box:  
 `"C:\Program Files\Windows NT\Accessories\wordpad.exe"`
@@ -76,13 +55,6 @@ You can add a basic WordPad shortcut to the context menu like this:
  Now you can open WordPad from the desktop context menu in Windows 11\. Right-click anywhere on the desktop background and select**Show more options** to access the classic menu. Selecting the new**WordPad** option on that menu will open the app’s window.
 
 ![The WordPad context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add an Open with WordPad Shortcut to Windows 11’s Context Menu
 
@@ -101,13 +73,6 @@ You can add a basic WordPad shortcut to the context menu like this:
 9. Enter**wordpad.exe %1** in the**Value** box, and click**OK** to apply.  
 ![The wordpad.exe value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-wordpad-exe-value-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can close the Registry Editor and try out the**Open with WordPad** context menu shortcut. Launch File Explorer (see[how to launch File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ), and navigate to a folder containing some TXT or RTF files. Right-click an RTF or TXT document and select**Show more options** . Click**Open with WordPad** to bring up the right-clicked document in that app.
 
 ## How to Erase the WordPad Context Menu Shortcuts
@@ -122,10 +87,10 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 ![The Delete option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-delete-option2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make the Most of Your WordPad Context Menu Shortcuts
@@ -147,38 +112,20 @@ Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\WordPad\command`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-boosting-productivity-utilizing-zoom-on-win11-devices-for-2024/"><u>[New] Boosting Productivity Utilizing Zoom on Win11 Devices for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-full-insight-gecata-game-logging-system-reviewed/"><u>[New] In 2024, Full Insight Gecata Game Logging System Reviewed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-speedy-up-vimeo-videos-for-2024/"><u>[New] Strategies to Speedy Up Vimeo Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-tackling-youtube-shorts-issues/"><u>[New] The Ultimate Guide Tackling YouTube Shorts Issues</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-video-wizardry-mp4-download-spell/"><u>[Updated] Facebook Video Wizardry - MP4 Download Spell</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-breeze-through-snapchat-two-techniques-for-dynamic-lenses/"><u>[Updated] In 2024, Breeze Through Snapchat Two Techniques for Dynamic Lenses</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-noise-free-ai-transcription-technology/"><u>2024 Approved Noise-Free AI Transcription Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-6-high-performance-video-converters-for-achieving-smooth-60fps-playback/"><u>Best 6 High-Performance Video Converters for Achieving Smooth 60Fps Playback</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/como-transferir-videos-de-dvd-a-tu-iphoneipad-con-winx-dvd-ripper-para-mac-un-guia-sencilla/"><u>Cómo Transferir Vídeos De DVD a Tu iPhone/iPad Con WinX DVD Ripper Para Mac: Un Guía Sencilla</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-the-lunar-client-not-functional-message-in-os/"><u>Dealing with the Lunar Client Not Functional Message in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-consistent-reading-pane-openness-setup-for-email-attachments-in-ms-word/"><u>Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-finding-the-storage-for-your-desktop-pics/"><u>Guide: Finding the Storage for Your Desktop Pics</u></a></li>
-<li><a href="https://win11.techidaily.com/how-and-when-to-use-the-ping-command-in-windows/"><u>How (and When) to Use the Ping Command in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-into-the-new-era-evolution-of-file-explorer-on-windows-11/"><u>Journey Into the New Era: Evolution of File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/manual-de-uso-integral-para-el-programa-winxdvd-una-guia-facil-de-seguir/"><u>Manual De Uso Integral Para El Programa WinXDVD: Una Guía Fácil De Seguir</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps4-wireless-controller-syncing-made-simple-expert-techniques-revealed/"><u>PS4 Wireless Controller Syncing Made Simple: Expert Techniques Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/realignment-of-data-win11-hdd-optimization-techniques/"><u>Realignment of Data: Win11 HDD Optimization Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-your-win11-experience-three-tricks-up-your-sleeve/"><u>Reboot Your Win11 Experience: Three Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-and-solving-winerror-0x80071a90-in-windows/"><u>Simplifying & Solving WinError: 0X80071a90 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/sixfold-solution-to-off-screen-woes-a-roadmap-for-rejuvenating-your-windows-desktop/"><u>Sixfold Solution to Off-Screen Woes: A Roadmap for Rejuvenating Your Windows Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-stranded-status-on-xbox-for-pc-a-practical-approach/"><u>Solving ‘Stranded’ Status on Xbox for PC: A Practical Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-to-the-not-supported-interface-error/"><u>Swift Solutions to the Not-Supported Interface Error</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104996068-troubles-with-your-recently-updated-pc-cant-find-my-dear-old-prodigy-cam-heres-what-i-learned-to-do-about-it-solved/"><u>Troubles with Your Recently Updated PC? Can't Find My Dear Old Prodigy Cam – Here’s What I Learned to Do About It ![Solved]</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-decoding-kinemaster-complexities-best-practices-and-alternative-digital-tools-for-2024/"><u>[New] Decoding KineMaster Complexities Best Practices & Alternative Digital Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimizing-social-media-interaction-with-automatic-youtube-video-playback/"><u>[New] Optimizing Social Media Interaction with Automatic Youtube Video Playback</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-crafting-captivating-tiktoks-mastering-the-use-of-pre-designed-templates-for-2024/"><u>[Updated] Crafting Captivating TikToks Mastering the Use of Pre-Designed Templates for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laugh-out-loud-meme-making-techniques/"><u>[Updated] Laugh Out Loud Meme-Making Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-5-budget-friendly-camcorders-with-hd-quality/"><u>2024 Approved Top 5 Budget-Friendly Camcorders with HD Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-windows-1011-tackling-expiration-notifications/"><u>Easing Windows 10/11: Tackling Expiration Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-lowering-edges-resource-load/"><u>Enhancing Performance: Lowering Edge's Resource Load</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-microsoft-store-error-on-win11-with-code-0x80073cf3/"><u>Fixing the Microsoft Store Error on Win11 with Code 0X80073cf3</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-0x8007045d-blue-screen-issue/"><u>Fixing Windows 11'S 0X8007045D Blue Screen Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11s-screen-configurations-a-guide-to-10-methods/"><u>Mastering Window 11'S Screen Configurations: A Guide to 10 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-unable-to-initialize-due-to-missing-qt-plugin/"><u>Overcoming 'Application Unable to Initialize Due to Missing Qt Plugin'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/playstation-5-compact-edition-latest-updates-on-costs-debut-timeline-and-technical-details/"><u>PlayStation 5 Compact Edition: Latest Updates on Costs, Debut Timeline & Technical Details</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/selecting-your-perfect-monitor-and-recorder-duo/"><u>Selecting Your Perfect Monitor & Recorder Duo</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-renaming-limitations-on-windows-11s-system/"><u>Strategies to Overcome Renaming Limitations on Windows 11'S System</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-potential-analyzing-windows-reliable-tools/"><u>Unleashing Potential: Analyzing Windows' Reliable Tools</u></a></li>
 </ul></div>
 

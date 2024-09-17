@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Restoring Accessibility of Ubisoft Launcher
-date: 2024-09-11T09:43:24.249Z
-updated: 2024-09-12T09:43:24.249Z
+date: 2024-09-15T18:32:53.790Z
+updated: 2024-09-16T23:58:39.345Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 ![Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So, make sure you’re running Ubisoft Connect with admin rights. It’s better to permanently set the Ubisoft client to run with elevated rights instead of selecting the**Run as administrator** context menu option for that software. Our[how-to always run Windows apps as an administrator guide](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) tells you how to set programs to run with elevated permissions.
 
 ## 3\. Run the Affected Game in Compatibility Mode
@@ -61,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 2. Click the folder library taskbar button for opening File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Bring up the Ubisoft Game Launcher installation folder. This is the default installation directory for that Ubisoft software:  
@@ -73,22 +72,16 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-option.jpg)
 5. Change the folder’s name to cache\_backup and press**Return** .
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then launch the Ubisoft Connect software.
 
  In addition, select to delete game installer files within a cache subfolder. You can do that by clicking the menu button in the top-left corner of Ubisoft Connect to select**Settings** and**Downloads** . Press the**Download** tab’s**Delete all game installers** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus Shields
 
@@ -99,10 +92,16 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 ![Windows Security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-security-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Users who’ve installed third-party security software packages will need to disable their protection features. To do that, right-click an antivirus icon inside the Windows system tray to view its context menu. Then select an option for temporarily disabling the antivirus on that menu.
@@ -119,28 +118,15 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/an-uninstall-option.jpg)
 4. Restart Ubisoft Connect after removing the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then select the**Download** option for the uninstalled game in Ubisoft Connect.
 
  If the game uses cloud backup, you won’t lose any saved data when reinstalling it. You can back up saved games for other titles that don’t support cloud saves, as instructed on this Ubisoft support page.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall Ubisoft Connect
@@ -152,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
  After uninstalling the gaming client, go to this[Ubisoft site](https://ubisoftconnect.com/en-GB/) . Click the**Download for PC** button on that age. Open Explorer and the folder in which your browser software downloads files; then double-click the**UbisoftConnectInstaller.exe** file to open the Ubisoft Connect installer, and go through the gaming client’s setup wizard to reinstall Ubisoft Connect.
 
  It’s also recommended to disable antivirus software while reinstalling Ubisoft Connect. So, temporarily turn off the Windows Security or third-party antivirus protection, as discussed in resolution six, before opening the Ubisoft Connect installer. Then restore the antivirus shield after reinstalling.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Your Ubisoft Games Again
 
@@ -179,52 +158,19 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-optimize-your-video-watching-enabledisable-pip-in-youtube-ios/"><u>[New] How to Optimize Your Video Watching Enable/Disable PIP in Youtube iOS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-advanced-techniques-for-quality-audio-on-ipads/"><u>[New] In 2024, Advanced Techniques for Quality Audio on iPads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-vids-dissecting-the-relevance-of-self-image-authenticity/"><u>[Updated] 2024 Approved Insta Vids Dissecting the Relevance of Self-Image Authenticity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-from-muffled-to-clear-the-initial-use-of-fade-in-audition-for-2024/"><u>[Updated] From Muffled to Clear The Initial Use of Fade in Audition for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revive-your-lost-iphone-x-with-these-tips/"><u>[Updated] Revive Your LOST iPhone X with These Tips</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-weaving-a-captivating-tiktok-closure-narrative/"><u>[Updated] Weaving a Captivating TikTok Closure Narrative</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-software-for-windows-beyond-sony-vegas/"><u>Best Video Editing Software for Windows Beyond Sony Vegas</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-the-windows-canary-vulnerability-alerts/"><u>Demystifying the Windows Canary Vulnerability Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-pro-level-video-trimming-on-your-windows-device/"><u>Discover Pro-Level Video Trimming on Your Windows Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-laserjet-pro-p1006-printer-software/"><u>Download HP LaserJet Pro P1006 Printer Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much-in-2024/"><u>Earning Strategies for Successful Youtube Shorts What You Need & How Much, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-power-down-for-idle-pcs-in-w10w11/"><u>Effortless Power-Down for Idle PCs in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-security-top-7-windows-defense-methods/"><u>Enhancing Security: Top 7 Windows Defense Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-counteract-uninstallation-restrictions-in-windows-11/"><u>How to Counteract Uninstallation Restrictions in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-error-0x800700e1-in-windows-11-and-11/"><u>How to Fix Error 0X800700E1 in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-failed-system-call-in-windows-os/"><u>How to Overcome 'Failed System Call' In Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-the-notorious-office-error-0x80041015/"><u>How to Resolve the Notorious Office Error 0X80041015</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-12-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 12 online without SIM Card?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-streamline-your-music-library-mp3s-direct-to-youtube-playlist/"><u>In 2024, Streamline Your Music Library MP3s Direct to YouTube Playlist</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-storage-inspection-in-windows-10-and-11-through-context-menus/"><u>Instant Storage Inspection in Windows 10 & 11 Through Context Menus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/optimizing-your-system-switching-windows-11-bitness/"><u>Optimizing Your System: Switching Windows 11 Bitness</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-deactivated-cooling-protocol-in-winos/"><u>Overhauling Deactivated Cooling Protocol in WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-windows-11-search-the-ultimate-guide-to-11-solutions/"><u>Overhauling Windows 11 Search: The Ultimate Guide to 11 Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-alignment-on-your-monitor-overcoming-overscan/"><u>Perfect Alignment on Your Monitor: Overcoming Overscan</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-abrupt-game-endings-fix-tips-for-roblox-on-pc/"><u>Preventing Abrupt Game Endings: Fix Tips for Roblox on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-unresponsive-nvidia-cp-windows-11/"><u>Quick Fixes for Unresponsive Nvidia CP, Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/redefine-winterminals-background-design/"><u>Redefine WinTerminal’s Background Design</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablishing-sound-channels-for-xbox-microphone-in-windows-11/"><u>Reestablishing Sound Channels for Xbox Microphone in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-camera-not-found-on-win11-a-step-by-step-guide/"><u>Resolving Camera Not Found on Win11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/self-fixing-operating-system-tools-for-windows-11-users/"><u>Self-Fixing Operating System Tools for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart/"><u>Siri or ChatGPT? Discover What Sets Them Apart</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-fix-for-the-slow-gpsvc-loop/"><u>Step-by-Step Fix for the Slow GPSVC Loop</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-hidden-apps-from-your-pcs-system/"><u>Step-by-Step Guide: Removing Hidden Apps From Your PC's System</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-loadlibrary-failure-code-87/"><u>Steps to Correct LoadLibrary Failure Code 87</u></a></li>
-<li><a href="https://win11.techidaily.com/sticky-notes-decoded-entering-the-world-of-windows-11/"><u>Sticky Notes Decoded: Entering the World of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-parseerror-fixes-for-winoss/"><u>Streamlining ParseError Fixes for WinOSs</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-technicolor-turnover-desktop-color-fix-tips-for-windows/"><u>Taming the Technicolor Turnover: Desktop Color Fix Tips for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-fundamentals-of-data-protection-in-windows-notes/"><u>The Fundamentals of Data Protection in Windows Notes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-simple-steps-to-stop-your-flickering-mouse-pointer/"><u>The Simple Steps to Stop Your Flickering Mouse Pointer</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steams-file-permission-issue-in-win11/"><u>Troubleshooting Steam's File Permission Issue in Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-correct-the-livekernel-event-error-117/"><u>Troubleshooting Tips to Correct the LiveKernel Event Error #117</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-potential-mastery-of-taskbar-attachments-w11/"><u>Unlock Potential: Mastery of Taskbar Attachments (W11)</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-9-critical-differences-that-favor-pcs-to-macs/"><u>Unveiling 9 Critical Differences That Favor PCs to Macs</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-process-for-ms-office-on-windows-1011/"><u>Unveiling the Process for MS Office on Windows 10/11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-fatal-exception-fix-code-0x8007045d/"><u>Windows Fatal Exception Fix: Code 0X8007045D</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-lacks-drive-letters-why-and-how-to-rectify-this-issue/"><u>Windows Lacks Drive Letters: Why and How to Rectify This Issue.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-lightning-fast-retrieval-of-vanished-reddit-discussions/"><u>[New] 2024 Approved Lightning-Fast Retrieval of Vanished Reddit Discussions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-path-to-mastering-the-art-of-asmr-filmmaking/"><u>[New] 2024 Approved The Path to Mastering the Art of ASMR Filmmaking</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[Updated] A Streamlined System for Scrutinizing YouTube Subscriber Profits 3-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-distort-text-in-photographyvideo/"><u>[Updated] How to Distort Text in Photography/Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-x-fold-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo X Fold 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-writable-functionality-of-steam-folder-directories/"><u>Enhancing Writable Functionality of Steam Folder Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-fatal-javascript-problem-in-discord-on-windows-11/"><u>How to Rectify Fatal Javascript Problem in Discord on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-11-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme 11 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-visual-experience-autocolor-on-windows-11/"><u>Master Your Visual Experience - AutoColor on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-whatsapp-advanced-features-you-need-to-know/"><u>Mastering WhatsApp Advanced Features You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-blue-screen-fixation-error-code-0x8007007e/"><u>Mastering Windows Blue Screen Fixation - Error Code 0X8007007E</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-upgrade-error-in-windows-1011/"><u>Quick Guide to Overcome Upgrade Error in Windows 10/11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-the-distinctions-between-echo-pop-and-echo-dot/"><u>Understanding The Distinctions Between Echo Pop & Echo Dot</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-linux-commands-on-windows-via-sudo/"><u>Unlocking Linux Commands on Windows via Sudo</u></a></li>
 </ul></div>
 

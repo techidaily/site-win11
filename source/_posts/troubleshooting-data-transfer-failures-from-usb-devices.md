@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Data Transfer Failures From USB Devices
-date: 2024-09-11T09:47:04.870Z
-updated: 2024-09-12T09:47:04.870Z
+date: 2024-09-13T04:19:50.426Z
+updated: 2024-09-16T17:07:46.454Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update Your USB Device's Drivers
 
  The USB driver is the set of instructions that lets your USB stick interact with Windows. In practical terms, this means without a proper driver installed, your USB stick is as good as a pebble for your PC.
@@ -61,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Format Your USB Stick
@@ -83,39 +70,25 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Restart Your PC
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
 
  So do a simple restart and see if that fixes your USB copying problem.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check for Compatibility Issues
@@ -123,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
  Another addition to checking things out with the PC first, it’s often helpful to check the compatibility of whatever software or hardware you’re using with your PC. Remember that compatibility is often one of the first things you should check out when buying software or hardware for yourself.
 
  If you cannot transfer the data through your USB stick, then it’s pretty likely that the USB stick isn’t compatible with your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Try Out a Different USB Stick (or Plug It Into a Different PC)
 
@@ -147,52 +113,6 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-stepwise-guide-to-documenting-team-sessions-desktopmobile-for-2024/"><u>[New] Stepwise Guide to Documenting Team Sessions (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-x-studio-voice-synthesizer-windows-compatible/"><u>[New] X-Studio Voice Synthesizer, Windows Compatible</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-comparing-digital-platform-profits-dailymovement-to-youtube-revenue-for-2024/"><u>[Updated] Comparing Digital Platform Profits DailyMovement to YouTube Revenue for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-discreetly-explore-instagram-stories-with-us/"><u>[Updated] Discreetly Explore Instagram Stories With Us</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screenflow-pros-mac-saga-full-evaluation-report/"><u>[Updated] In 2024, ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-vr-game-experts-you-cant-miss/"><u>[Updated] Leading VR Game Experts You Can't Miss</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>2024 Approved Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-skys-boundaries-broken-by-endurance-drones-top-10/"><u>2024 Approved Sky's Boundaries Broken by Endurance Drones (Top 10)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-g2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo G2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p40-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P40 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workday-6-time-management-apps-on-windows/"><u>Elevate Your Workday: 6 Time Management Apps on Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-youtube-productions-with-effective-video-lighting/"><u>Elevating YouTube Productions with Effective Video Lighting</u></a></li>
-<li><a href="https://win11.techidaily.com/elusive-search-icon-techniques-for-windows-11/"><u>Elusive Search Icon Techniques for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-context-menu-with-submenus/"><u>Enhancing Windows 11 Context Menu with Submenus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/expert-strategies-for-cracking-todays-nyt-connections-challenge-june-17-solutions-to-372-revealed/"><u>Expert Strategies for Cracking Today's NYT Connections Challenge, June 17 - Solutions to #372 Revealed!</u></a></li>
-<li><a href="https://win11.techidaily.com/harness-powertoys-for-rapid-file-naming-tasks/"><u>Harness PowerToys for Rapid File Naming Tasks</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 13 Pro</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-instantaneous-video-and-picture-revival-on-snap/"><u>In 2024, Instantaneous Video & Picture Revival on Snap</u></a></li>
-<li><a href="https://win11.techidaily.com/instantaneous-implementation-microsoft-works-for-windows-10plus/"><u>Instantaneous Implementation: Microsoft Works for Windows 10+</u></a></li>
-<li><a href="https://win11.techidaily.com/integrate-and-setup-windows-hello-with-a-fingerprint/"><u>Integrate and Setup: Windows Hello with a Fingerprint</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-mouse-gestures-on-windows-11s-microsoft-edge/"><u>Mastering Mouse Gestures on Windows 11'S Microsoft Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-navigation-for-the-elusive-mac-on-windows-11/"><u>Navigating Network Navigation for the Elusive MAC on WIndows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimize-audio-quality-by-disabling-enhancements-in-windows-10/"><u>Optimize Audio Quality by Disabling Enhancements in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-unrealcefsubprocess-for-lower-cpu-and-memory-usage/"><u>Optimizing UnrealCEFSubprocess for Lower CPU and Memory Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-user-directory-naming/"><u>Personalizing Your User Directory Naming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-ringtone-reserves-retro-rhythms-online-for-2024/"><u>Prime Ringtone Reserves Retro Rhythms Online for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quickly-link-tofrom-bing-chat-in-windows-11-search-field/"><u>Quickly Link To/From Bing Chat in Windows 11 Search Field</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-incomplete-network-prompt-guidance-on-windows/"><u>Resolving Incomplete Network Prompt Guidance on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-custom-sort-and-group-order-of-files/"><u>Reverting Custom Sort and Group Order of Files</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-procedure-for-installing-outlook-preview/"><u>Step-by-Step Procedure for Installing Outlook Preview</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-spotify-on-windows-startup-by-default/"><u>Stop Spotify on Windows Startup by Default</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-settle-windows-laptop-latency-after-external-monitors-addition/"><u>Swiftly Settle Window's Laptop Latency After External Monitors Addition</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-and-worst-of-chargetechs-27000mah-battery-pack-expert-review-and-buyers-guide/"><u>The Best and Worst of ChargeTech's 27000mAh Battery Pack - Expert Review & Buyer's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-purging-windows-drives-partition-units/"><u>The Ultimate Guide to Purging Windows Drives' Partition Units</u></a></li>
-<li><a href="https://win11.techidaily.com/top-six-strategies-to-scale-your-photos-on-windows-11-effectively/"><u>Top Six Strategies to Scale Your Photos on Windows 11 Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-your-digital-music-library-a-comprehensive-guide-on-mp3-to-cd-conversion-with-imgburn-windows/"><u>Transforming Your Digital Music Library: A Comprehensive Guide on Mp3 to CD Conversion with ImgBurn (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-power-of-system-preferences/"><u>Unlock the Power of System Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-disable-windows-11-tpm-effortlessly/"><u>Unlocking Secrets: Disable Windows 11 TPM Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-fixing-windows-remote-desktop-errors/"><u>Unlocking Secrets: Fixing Windows Remote Desktop Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-speech-technology-navigating-shortcuts-on-win-11/"><u>Unlocking Speech Technology: Navigating Shortcuts on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-credentials-top-11-techniques/"><u>Unlocking Windows 11'S Credentials: Top 11 Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-network-conundrum-defeat-error-0x800704b3/"><u>Win10/11 Network Conundrum: Defeat Error 0X800704B3</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -200,3 +120,23 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-chrome-os-best-free-video-capture-tools-compilation/"><u>[Updated] 2024 Approved Chrome OS Best Free Video Capture Tools Compilation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-efficiently-record-your-gotomeeting-conferences/"><u>[Updated] Efficiently Record Your GoToMeeting Conferences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips/"><u>[Updated] In 2024, Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44kq44oz44op44kk44oz44gn5psplus6ycb5asn5a2m6kyb5bqn44ks6kiy6yyy44gz44kl44gf44kb44gu5b2556ul44gk44os44oz44oi44go44kz44oe44cn/"><u>「オンラインで放送大学講座を記録するための役立つヒントとコツ」</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030291888-mp46/"><u>「ダウンロード不要でスムーズな動画コンバート - MP4に最適化しやすいフリーサイトベスト6選」</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028487452-usb/"><u>高度なビデオファイルをUSB保存・コピーするための専門的テクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-guide-to-5-leading-ai-therapeutic-bots-and-apps-for-improving-psychological-health/"><u>A Guide to 5 Leading AI Therapeutic Bots and Apps for Improving Psychological Health</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-hd-content-transfer-no-loss-h2-cuffing-guide-using-windows-tools/"><u>Accelerate Your HD Content Transfer: No-Loss H.2 Cuffing Guide Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/ape-to-wav-file-transformation-techniques-for-windows-macos-smartphones-and-online-tools/"><u>APE to WAV File Transformation Techniques for Windows, macOS, Smartphones & Online Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/best-video-format-changers-from-dvd-and-avi-to-mp4-on-windows-11-2024-rankings/"><u>Best Video Format Changers From DVD & AVI to MP4 on Windows 11 (2024 Rankings)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-profit-maximizers-collection-8-must-have-tools-that-can-skyro-written-by-jesse-fawcett-edited-by-gpt-3/"><u>In 2024, Profit Maximizers Collection 8 Must-Have Tools That Can Skyro Written by Jesse Fawcett, Edited by GPT-3</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-sony-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Sony Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-memories-stellar-launches-photo-restoration-tech/"><u>Reviving Memories: Stellar Launches Photo Restoration Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/egies-for-safe-and-significant-view-increase/"><u>Strategies for Safe and Significant View Increase</u></a></li>
+<li><a href="https://win11.techidaily.com/44kq44oz44op44kk44oz44gn5l244gi44kl6zu75a2q5rg6566x44k144o844ot44k5/"><u>オンラインで使える電子決算サービス</u></a></li>
+</ul></div>
+

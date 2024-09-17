@@ -1,7 +1,7 @@
 ---
 title: "Leveraging SFX Archives: The Pro's Guide to Win11 Extractables"
-date: 2024-09-11T09:43:35.628Z
-updated: 2024-09-12T09:43:35.628Z
+date: 2024-09-13T19:36:37.481Z
+updated: 2024-09-17T01:15:10.628Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up an SFX Archive With Windows 11's IExpress Wizard
 
  Windows 11 includes an IExpress wizard with which you can set up an SFX. You can utilize that tool to set up SFX archives for extracting files only or ones that run installation commands. Selecting that wizard's**Extract files and run installation command** option enables you to set up archives for installing apps.
@@ -57,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 ![The Prompt user with radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/prompt-user-with-radio-button.jpg)
 3. Click**Next** and select the**Do not display license** radio button.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Next** again and then click the**Add** button. Hold the**Ctrl** key to choose all the files you want to include within the archive and click**Open** .  
 ![The Add file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-package-option.jpg)
 5. Click**Next** to proceed to a Show window step. Select the**Default** (recommended) option there.
@@ -85,13 +59,6 @@ Now we can get started using IExpress Wizard:
 4. Click**Next** twice more to create the archive.
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Testing the SFX Archive Made With IExpress
 
  Now try extracting the files from your new self-extracting archive. Open the folder you selected to save the archive in. Then double-click the SFX archive.exe archive package.
@@ -100,27 +67,7 @@ Now we can get started using IExpress Wizard:
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
@@ -134,13 +81,6 @@ Now we can get started using IExpress Wizard:
 ![The Add button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-file-manager-window.jpg)
 6. Select the**Create SFX archive** checkbox.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
 8. Choose a folder to save the SFX archive in and click**Open** .
@@ -153,13 +93,6 @@ Testing the SFX File With 7-ZIP
 
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
@@ -167,6 +100,13 @@ Testing the SFX File With 7-ZIP
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -189,41 +129,15 @@ Testing the SFX File With 7-ZIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-defeat-synthetic-followers-for-true-popularity-peak/"><u>[New] 2024 Approved Defeat Synthetic Followers for True Popularity Peak</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>[New] In 2024, Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>[Updated] 2024 Approved Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-utorrent-media-player-seamless-streaming/"><u>[Updated] UTorrent Media Player Seamless Streaming</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-your-personalized-playbook-for-nba-live-streaming-top-15-essentials/"><u>2024 Approved Your Personalized Playbook for NBA Live Streaming (Top 15 Essentials)</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly/"><u>Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-error-0x800f082f-in-microsofts-dism-tool/"><u>Conquering Error 0X800F082F in Microsoft's DISM Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-past-the-pioneering-discovery-of-artificial-intelligence/"><u>Decoding the Past: The Pioneering Discovery of Artificial Intelligence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dells-new-contenders-the-impressive-fusion-of-performance-and-style-in-the-xps-16-9640-and-xps-14-9440-plus-a-sneak-peek-at-their-unique-characteristics/"><u>Dell's New Contenders: The Impressive Fusion of Performance & Style in the XPS 16 (9640) & XPS 14 (9440), Plus a Sneak Peek at Their Unique Characteristics</u></a></li>
-<li><a href="https://win11.techidaily.com/disentangling-steam-timeout-problems-on-windows-with-rust-techniques/"><u>Disentangling Steam Timeout Problems on Windows with Rust Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/diving-into-character-inspector-with-win11/"><u>Diving Into Character Inspector with Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-secure-your-browsing-in-win-11-using-microsofts-application-guard/"><u>Efficiently Secure Your Browsing in Win 11 Using Microsoft's Application Guard</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-security-posture-adding-passwords-to-text-files/"><u>Elevating Your Security Posture: Adding Passwords to Text Files</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-share-functionality-in-windows-11-and-11/"><u>Enhancing Share Functionality in Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-space-grade-metal-3d-printer-from-airbus-and-esa-to-launch-at-iss/"><u>Innovative Space-Grade Metal 3D Printer From Airbus & ESA to Launch at ISS</u></a></li>
-<li><a href="https://win11.techidaily.com/interactive-sphere-expands-windows-for-iphonesipads-pcsmac-unveiled/"><u>Interactive Sphere Expands: Windows for iPhones/iPads, PCs/Mac Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-your-sticky-notes-on-pc/"><u>Maintaining Your Sticky Notes on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/making-win1011-recycle-bin-error-free-quick-solutions/"><u>Making Win10/11 Recycle Bin Error-Free: Quick Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-taskbar-modifications/"><u>Mastering Window 11 Taskbar Modifications</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-options-in-the-win-11-context-list/"><u>Minimizing Options in the Win 11 Context List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimized-process-for-melding-gopro-sequences-in-full-dome-videos-for-2024/"><u>Optimized Process for Melding GoPro Sequences in Full-Dome Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rediscovering-the-bygone-folder-interface/"><u>Rediscovering the Bygone Folder Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/sleek-software-not-so-slick-the-throttling-of-your-pcs-speed/"><u>Sleek Software, Not So Slick: The Throttling of Your PC's Speed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-when-your-oculus-quest-2s-microphone-wont-work/"><u>Step-by-Step Fixes When Your Oculus Quest 2'S Microphone Won't Work</u></a></li>
-<li><a href="https://win11.techidaily.com/synergizing-technology-the-role-of-ai-in-windows-11-dynamics/"><u>Synergizing Technology: The Role of AI in Windows 11 Dynamics</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-fixing-screen-alignment-in-windows-os/"><u>Tips for Fixing Screen Alignment in Windows OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-spark-20-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Spark 20 Location | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-pc-players-resolving-armored-core-6-fires-of-rubicon-issues/"><u>Troubleshooting Steps for PC Players: Resolving Armored Core 6 - Fires of Rubicon Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-reactivating-your-windows-update-functionality-efficiently/"><u>Troubleshooting Tips: Reactivating Your Windows Update Functionality Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-future-on-windows-empower-your-pc-with-vivetool/"><u>Unlocking the Future on Windows: Empower Your PC with ViVeTool</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-personalized-audio-settings-key-combinations-explained/"><u>Win11's Personalized Audio Settings: Key Combinations Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-protected-mode-what-does-it-entail/"><u>Windows 11'S Protected Mode: What Does It Entail?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-non-proprietary-serene-tunes-for-2024/"><u>[New] Non-Proprietary Serene Tunes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-delving-into-vidmas-toolkit-for-digital-recording/"><u>[Updated] Delving Into Vidma’s Toolkit for Digital Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-youtube-seo-11-steps-to-improvement/"><u>[Updated] Master the Art of YouTube SEO 11 Steps to Improvement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-power-of-closing-credits-on-vimeo-videos-for-2024/"><u>[Updated] Unlocking the Power of Closing Credits on Vimeo Videos for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-the-payment-structure-on-youtube/"><u>2024 Approved Decoding the Payment Structure on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-write-access-for-files-on-windows-1011/"><u>Enabling Write Access for Files on Windows 10/11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y17s-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y17s</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-volume-regulation-failure-in-win-1011/"><u>Overcoming Volume Regulation Failure in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-control-tackling-scheduler-malfunctions/"><u>Reclaim Control: Tackling Scheduler Malfunctions</u></a></li>
+<li><a href="https://win11.techidaily.com/taskmasters-triumph-essential-apps-to-elevate-workday-productivity/"><u>Taskmaster's Triumph: Essential Apps to Elevate Workday Productivity</u></a></li>
 </ul></div>
 

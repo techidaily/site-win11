@@ -1,7 +1,7 @@
 ---
 title: Windows Folder View Reset to Default State
-date: 2024-09-11T09:46:57.501Z
-updated: 2024-09-12T09:46:57.501Z
+date: 2024-09-12T00:13:43.154Z
+updated: 2024-09-16T18:35:31.276Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Reset Folder View Settings to Default on Windows
 
@@ -70,13 +63,6 @@ start explorer.exe`
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -86,23 +72,9 @@ start explorer.exe`
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
@@ -119,19 +91,25 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 5. Click**Yes** when asked to confirm your action.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Similarly, delete the**Bags** folder and close the Registry window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reset Folder View Settings to Default
@@ -155,66 +133,18 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-disabling-automated-podcast-suggestions-for-privacy/"><u>[New] In 2024, Disabling Automated Podcast Suggestions for Privacy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rising-above-internet-naysayers-and-detractors/"><u>[New] In 2024, Rising Above Internet Naysayers and Detractors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unique-14-motion-graphics-showcasing-text/"><u>[New] Unique 14 Motion Graphics Showcasing Text</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iconic-acting-peek-vimeo/"><u>[Updated] 2024 Approved Iconic Acting Peek - Vimeo</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-beating-the-curve-adapting-to-new-facebook-content-rules-for-2024/"><u>[Updated] Beating the Curve Adapting to New Facebook Content Rules for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-framemaster-hd-recording-suite/"><u>[Updated] FrameMaster HD Recording Suite</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-winx-dvd-editor-pro-advanced-and-easy-to-use-dvd-software-for-windows-1011/"><u>1. WinX DVD Editor Pro: Advanced & Easy-to-Use DVD Software for Windows 10/11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-audio-connection-must-have-tips-for-podcasters/"><u>2024 Approved Perfect Audio Connection Must-Have Tips for Podcasters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-showcasing-brilliance-iconic-anime-intros/"><u>2024 Approved Showcasing Brilliance Iconic Anime Intros</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722902421066-all-about-nothing-phone-3-projected-pricing-expected-release-date-specifications-the-buzz-continues/"><u>All About Nothing Phone 3: Projected Pricing, Expected Release Date, Specifications - The Buzz Continues!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v29e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V29e</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/check-for-software-conflicts/"><u>Check for Software Conflicts</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-the-lunar-client-not-functional-message-in-os/"><u>Dealing with the Lunar Client Not Functional Message in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-your-gameplay-with-the-ultimate-asus-vg245h-gaming-monitor/"><u>Elevate Your Gameplay with The Ultimate Asus VG245H Gaming Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-edge-safety-integrate-microsofts-defender-aguard/"><u>Enhance Edge Safety: Integrate Microsoft's Defender Aguard</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-audio-integrating-dolby-atmos-in-windows/"><u>Enhance Your Audio: Integrating Dolby Atmos in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-consistent-reading-pane-openness-setup-for-email-attachments-in-ms-word/"><u>Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word</u></a></li>
-<li><a href="https://win11.techidaily.com/five-strategies-to-rejuvenate-file-explorer/"><u>Five Strategies to Rejuvenate File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-finding-the-storage-for-your-desktop-pics/"><u>Guide: Finding the Storage for Your Desktop Pics</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-download-issues-with-windows-1011-files/"><u>Handling Download Issues with Windows 10/11 Files</u></a></li>
-<li><a href="https://win11.techidaily.com/how-and-when-to-use-the-ping-command-in-windows/"><u>How (and When) to Use the Ping Command in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-hidden-results-from-your-windows-1011-search-tool/"><u>Identifying Hidden Results From Your Windows 10/11 Search Tool</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-into-the-new-era-evolution-of-file-explorer-on-windows-11/"><u>Journey Into the New Era: Evolution of File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-solutions-for-create-failed-issue-windows-error-30005/"><u>Mastering Solutions for Create Failed Issue - Windows Error 30005</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-error-code-0x80070570-fixes-for-broken-files-on-windows-11/"><u>Navigating Through Error Code 0X80070570: Fixes for Broken Files on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-intricate-boot-configuration-landscape/"><u>Navigating Through Windows' Intricate Boot Configuration Landscape</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-a58-4g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo A58 4G Phone? Unlock It Now</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-extract-audio-from-video-top-mp4-to-mp3-apps/"><u>New 2024 Approved Extract Audio From Video Top MP4 to MP3 Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-screen-quality-resetting-graphics-in-windows-11/"><u>Optimize Screen Quality: Resetting Graphics in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/realignment-of-data-win11-hdd-optimization-techniques/"><u>Realignment of Data: Win11 HDD Optimization Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-your-win11-experience-three-tricks-up-your-sleeve/"><u>Reboot Your Win11 Experience: Three Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-the-start-page-for-windows-task-manager/"><u>Redefining the Start Page for Windows Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-sony-xperia-10-v-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Sony Xperia 10 V Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-gaps-between-windows-explorer-folders/"><u>Resolving Gaps Between Windows Explorer Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-vitality-to-slow-moving-windows-batches/"><u>Restoring Vitality to Slow-Moving Windows Batches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revealing-the-sonic-superiority-of-sony-wh-1000xm4-headphones/"><u>Revealing the Sonic Superiority of Sony WH-1000XM4 Headphones</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-and-solving-winerror-0x80071a90-in-windows/"><u>Simplifying & Solving WinError: 0X80071a90 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/sixfold-solution-to-off-screen-woes-a-roadmap-for-rejuvenating-your-windows-desktop/"><u>Sixfold Solution to Off-Screen Woes: A Roadmap for Rejuvenating Your Windows Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-stranded-status-on-xbox-for-pc-a-practical-approach/"><u>Solving ‘Stranded’ Status on Xbox for PC: A Practical Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resolve-error-403-in-robloxwindows/"><u>Strategies to Resolve Error 403 in Roblox/Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/successfully-installing-the-idt-hd-audio-codec-for-windows-10-step-by-step-solution/"><u>Successfully Installing the IDT HD Audio Codec for Windows 10 - Step-by-Step Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-to-the-not-supported-interface-error/"><u>Swift Solutions to the Not-Supported Interface Error</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-for-dodging-enter-credentials-message-in-windows/"><u>Tactics for Dodging 'Enter Credentials' Message in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-pinnacle-of-personal-data-holdings-for-2024/"><u>The Pinnacle of Personal Data Holdings for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-potential-with-microsofts-copilot-key/"><u>Unlocking Windows 11'S Full Potential with Microsoft's Copilot Key</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-code-4-spotify-connection-problem-in-w10w11/"><u>Unraveling the Code 4 Spotify Connection Problem in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-tangle-solved-unify-system-dates/"><u>Windows Time Tangle Solved: Unify System Dates</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-tips-to-avoid-obs-framing-errors/"><u>[New] In 2024, Essential Tips to Avoid OBS Framing Errors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[New] In 2024, Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-find-zen-with-these-10-game-choices/"><u>[Updated] In 2024, Find Zen with These 10 Game Choices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/10-top-must-have-gear-items-for-youtubers/"><u>10 Top Must-Have Gear Items for YouTubers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 8 Passcode not Working?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-6-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 6 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-y27-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo Y27 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-streaming-mkv-video-formats-on-your-ios-device/"><u>Step-by-Step Guide: Streaming MKV Video Formats on Your iOS Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-displays-lacking-hdcp-support-for-better-streaming-quality/"><u>Troubleshooting Displays Lacking HDCP Support for Better Streaming Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-solving-the-issue-of-unsuccessful-webm-file-imports-into-adobe-premiere-pro/"><u>Troubleshooting Guide: Solving the Issue of Unsuccessful WebM File Imports Into Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-how-to-set-up-an-operating-system-installation-directly-from-an-iso-file-no-discs-needed/"><u>Ultimate Tutorial: How to Set Up an Operating System Installation Directly From an ISO File, No Discs Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-appeal-of-60-fps-anime-a-visual-quality-comparison/"><u>Understanding the Appeal of 60 Fps Anime - A Visual Quality Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-video-playback-easy-instructions-for-toshiba-tv-users/"><u>USB Video Playback: Easy Instructions for Toshiba TV Users</u></a></li>
 </ul></div>
 

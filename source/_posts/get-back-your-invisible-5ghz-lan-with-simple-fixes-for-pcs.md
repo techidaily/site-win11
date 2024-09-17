@@ -1,7 +1,7 @@
 ---
 title: Get Back Your Invisible 5GHz LAN with Simple Fixes for PCs
-date: 2024-09-11T09:39:28.308Z
-updated: 2024-09-12T09:39:28.308Z
+date: 2024-09-09T23:56:16.011Z
+updated: 2024-09-17T04:40:07.479Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Is Windows 11 Not Showing Any 5GHz Wi-Fi Connections?
 
@@ -56,29 +49,22 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 ![Check supported bands in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-supported-bands.jpg)
 5. If this section shows both 2.4GHz and 5GHz, then it indicates your computer is compatible with the 5GHz band. But if it only shows 2.4GHz, then it means that your device doesn't support a 5GHz connection.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another method to confirm your computer's compatibility is by checking the radio types.
 
 ![Radio Types using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/radio-types.jpg)
 
  If the radio type shows**802.11a 802.11g 802.11n** , then your computer is compatible with both 2.4GHz and 5GHz connections. But if it shows**802.11g 802.11n** or**802.11n 802.11g 802.11b** as available network modes, then your device only supports the 2.4GHz Wi-Fi band.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Restart Your Router
 
  Your computer might fail to detect the 5GHz connection if there's something wrong with your router. Restarting the router is one of the best ways you can try to get rid of most of the network issues, including this one. Hence, check out our guide on[how to restart your router](https://www.makeuseof.com/how-to-reset-router/) and check if it makes any difference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Manually Enable the 5GHz Wi-Fi Band
 
@@ -93,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable and Re-Enable the Wi-Fi Adapter
@@ -113,21 +99,7 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 ![Disable Network Adapter using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-network-adapter.jpg)
 6. Wait for a minute or so, and then right-click on the Wi-Fi adapter again and choose**Enable.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. Now check if your computer is showing a 5GHz connection.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the Internet Connection Troubleshooter
 
@@ -141,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  The troubleshooter will scan your network adapter for issues. If it finds any, follow the on-screen instructions to apply the recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Download the Latest Network Driver Update
 
  You will likely face the issue if you last updated the network driver a long time ago. To download the latest network driver update on your computer, follow the below steps:
@@ -155,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 1. Open the Device Manager, expand the Network adapter, right-click on the installed network adapter and choose**Update** **driver** .
 2. Select**Search automatically for drivers** from the window that crops up.  
 ![Updating Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/5-Updating-Network-Drivers-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will now look for and download the latest network driver update on your computer. After that, restart your device and check for the issue.
 
@@ -171,6 +143,13 @@ ipconfig /flushdns
 ipconfig /renew`
 
 Reboot your computer after executing the above commands.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Faster Transfer Speeds With a 5GHz Connection
 
@@ -193,62 +172,19 @@ Reboot your computer after executing the above commands.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/udiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>[New] Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-drone-buying-basics-must-know-points-before-shopping/"><u>[New] Drone Buying Basics Must-Know Points Before Shopping</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-spectrum-of-autonomous-flight-machines/"><u>[New] Spectrum of Autonomous Flight Machines</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-vanguard-of-radio-theatre-composition/"><u>[New] The Vanguard of Radio-Theatre Composition</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-beyond-tubes-the-ultimate-video-share-sites/"><u>[Updated] Beyond Tubes The Ultimate Video Share Sites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dissolving-details-techniques-to-anonymize-youtube-media-for-2024/"><u>[Updated] Dissolving Details Techniques to Anonymize YouTube Media for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-anime-aesthetics-in-viral-tiktoks/"><u>[Updated] Mastering Anime Aesthetics in Viral TikToks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-obs-versus-streamlabs-the-live-stream-software-duel-for-2024/"><u>[Updated] OBS Versus Streamlabs – The Live Stream Software Duel for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-your-video-with-story-remix-and-windows-photos/"><u>[Updated] Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-the-windows-canary-vulnerability-alerts/"><u>Demystifying the Windows Canary Vulnerability Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-security-top-7-windows-defense-methods/"><u>Enhancing Security: Top 7 Windows Defense Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/expertly-winning-at-ps1-on-windows-a-detailed-guide-from-duckstation/"><u>Expertly Winning at PS1 on Windows: A Detailed Guide From Duckstation</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-counteract-uninstallation-restrictions-in-windows-11/"><u>How to Counteract Uninstallation Restrictions in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-c50-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco C50 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-app-launch-tracking-in-windows/"><u>How to Disable App Launch Tracking in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-error-0x800700e1-in-windows-11-and-11/"><u>How to Fix Error 0X800700E1 in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-failed-system-call-in-windows-os/"><u>How to Overcome 'Failed System Call' In Windows OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-se-2020-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone SE (2020)?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-se-2022-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone SE (2022) iCloud Activation Lock</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 2023 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-13c-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi 13C Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a18-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A18</u></a></li>
-<li><a href="https://win11.techidaily.com/increase-efficiency-and-control-with-advanced-wsl-2-docker-tactics/"><u>Increase Efficiency and Control with Advanced WSL 2 Docker Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-storage-inspection-in-windows-10-and-11-through-context-menus/"><u>Instant Storage Inspection in Windows 10 & 11 Through Context Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-diverse-content-in-win1011-systems/"><u>Integrating Diverse Content in WIN10/11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-your-gamer-goals-intact-a-guide-to-epic-saves/"><u>Keeping Your Gamer Goals Intact: A Guide to Epic Saves</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-strategy-behind-extended-updates-for-windows-11/"><u>Microsoft's Strategy Behind Extended Updates for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/minuscule-machines-small-windows-pcs/"><u>Minuscule Machines: Small Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-psx-non-starting-issues-in-newest-ws11-builds/"><u>Overcoming PSX Non-Starting Issues in Newest WS11 Builds</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unity-graphical-glitches-fixed-failure-to-initialize-solutions/"><u>Overcoming Unity Graphical Glitches - Fixed Failure to Initialize Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-deactivated-cooling-protocol-in-winos/"><u>Overhauling Deactivated Cooling Protocol in WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-windows-11-search-the-ultimate-guide-to-11-solutions/"><u>Overhauling Windows 11 Search: The Ultimate Guide to 11 Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-alignment-on-your-monitor-overcoming-overscan/"><u>Perfect Alignment on Your Monitor: Overcoming Overscan</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-abrupt-game-endings-fix-tips-for-roblox-on-pc/"><u>Preventing Abrupt Game Endings: Fix Tips for Roblox on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/re-establishing-seamless-file-downloads-in-windows-11/"><u>Re-Establishing Seamless File Downloads in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-microsoft-store-functionality-on-windows-devices/"><u>Reclaiming Microsoft Store Functionality on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/redefine-winterminals-background-design/"><u>Redefine WinTerminal’s Background Design</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablishing-sound-channels-for-xbox-microphone-in-windows-11/"><u>Reestablishing Sound Channels for Xbox Microphone in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-camera-not-found-on-win11-a-step-by-step-guide/"><u>Resolving Camera Not Found on Win11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/rethink-renewal-why-not-go-beyond-windows/"><u>Rethink Renewal: Why Not Go Beyond Windows?</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-ghosting-how-to-remove-past-entries/"><u>Social Media Ghosting: How to Remove Past Entries</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-fix-for-the-slow-gpsvc-loop/"><u>Step-by-Step Fix for the Slow GPSVC Loop</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-loadlibrary-failure-code-87/"><u>Steps to Correct LoadLibrary Failure Code 87</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-11s-camera-app-failures-error-afc/"><u>Steps to Overcome Windows 11'S Camera App Failures: Error AFC</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-commands-define-wins-cli/"><u>Streamlining Your Commands: Define Win's CLI</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-technicolor-turnover-desktop-color-fix-tips-for-windows/"><u>Taming the Technicolor Turnover: Desktop Color Fix Tips for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-fundamentals-of-data-protection-in-windows-notes/"><u>The Fundamentals of Data Protection in Windows Notes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-simple-steps-to-stop-your-flickering-mouse-pointer/"><u>The Simple Steps to Stop Your Flickering Mouse Pointer</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-manual-for-windows-users-using-imessage/"><u>The Ultimate Manual for Windows Users: Using iMessage</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-overcome-local-security-offline-warning/"><u>Tips to Overcome Local Security Offline Warning</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-read-only-reverting-in-file-systems/"><u>Troubleshooting Read-Only Reverting in File Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-policies-on-windows-discover-3-vital-approaches/"><u>Unlock Policies on Windows: Discover 3 Vital Approaches</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-potential-mastery-of-taskbar-attachments-w11/"><u>Unlock Potential: Mastery of Taskbar Attachments (W11)</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-process-for-ms-office-on-windows-1011/"><u>Unveiling the Process for MS Office on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/vivetool-methods-to-activate-cortana-in-windows/"><u>ViveTool Methods to Activate Cortana in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-gamers-secret-7-insider-moves-to-up-your-score/"><u>Win 11 Gamers' Secret: 7 Insider Moves to Up Your Score</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boost-your-game-strategy-experience-the-best-free-voice-transformer-today/"><u>[New] Boost Your Game Strategy Experience the Best Free Voice Transformer Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effective-ways-how-to-block-facebook-video-ads/"><u>[New] In 2024, Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-picks-top-5-high-performing-android-recorders/"><u>[Updated] 2024 Approved Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-evaluating-aurora-hdr-worth-the-investment/"><u>[Updated] Evaluating Aurora HDR Worth the Investment?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[Updated] In 2024, Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/1-ultimate-guide-downloading-youtube-content-onto-your-ipad/"><u>1. Ultimate Guide: Downloading YouTube Content Onto Your iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027881327-youtube/"><u>効果的な方法でYoutube映像ダウンロード術</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029196115-youtube/"><u>最高の解決策! YouTube動画をセキュリティ保証付きでダウンロードするためのベストソフト選び方</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-ace-your-gameplay-innovative-tvs-to-boost-your-xbox-series-x-adventure/"><u>In 2024, Ace Your Gameplay Innovative TVs to Boost Your Xbox Series X Adventure</u></a></li>
+<li><a href="https://fox-links.techidaily.com/maximizing-visual-potential-with-hdr-technology/"><u>Maximizing Visual Potential with HDR Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027705515-pc-and-smartphone/"><u>PC & Smartphoneで組み合わせ編集:ビデオ・オーディオの最適化</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027640655-wav/"><u>WAV形式のメタデータ管理 - 最適な編集ソフトと使用手順</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026812283-tiktok/"><u>パーフェクトなTikTok動画の縦横サイズ及び製作技術</u></a></li>
 </ul></div>
 

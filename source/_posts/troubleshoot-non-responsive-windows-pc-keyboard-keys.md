@@ -1,0 +1,188 @@
+---
+title: Troubleshoot Non-Responsive Windows PC Keyboard Keys
+date: 2024-09-09T21:48:55.729Z
+updated: 2024-09-16T17:47:33.573Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Troubleshoot Non-Responsive Windows PC Keyboard Keys
+excerpt: This Article Describes Troubleshoot Non-Responsive Windows PC Keyboard Keys
+keywords: Fix Sticky Keys,Responsive Keyboards,Windows Key Issues,Unresponsive Key Troubleshoot,Repair PC Keyboard,Non-Responsive Input,Fix Keyboard Glitches
+thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3e3ae208c5af8f61bf24deca.jpg
+---
+
+## Troubleshoot Non-Responsive Windows PC Keyboard Keys
+
+ If some keyboard keys stop working on your device, it doesn't necessarily mean they've malfunctioned and need to be replaced. Sometimes, keys cease to respond simply because the keyboard drivers go corrupt, you disable some keys mistakenly, or the keyboard settings get misconfigured.
+
+ If this issue has affected your workflow, here are some fixes you can apply to bring problematic keys back to life.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Are You Signed In to Your Computer?
+
+ If you are already logged in to your account on your computer, you can skip this step. However, if you are stuck at the login screen because some of the keys on your keyboard aren't working, use the Windows on-screen keyboard to log in. Follow these steps to sign in using the Windows on-screen keyboard:
+
+1. Click on the**Accessibility** option, represented by a**person icon** located right beside the power button.
+2. Turn on the toggle next to**On-screen keyboard** . It will open up the on-screen keyboard.
+3. Enter your password using the on-screen keyboard and press**Enter** .  
+![Activate Onscreen Keyboard From Accessibility Settings and Enter Your Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/activate-onscreen-keyboard-from-accessibility-settings-and-enter-your-password.jpg)
+
+After logging into your computer, start applying the following fixes.
+
+## 1\. Make Sure the Keys Aren’t Damaged
+
+ It's almost impossible for several keys on your keyboard to malfunction simultaneously. However, if you have dropped your keyboard recently, hit it with something, or spilled a liquid on it, some keys may have been damaged.
+
+ To determine if the keys are functioning correctly, go to the[keyboard test website](https://keyboard-test.space/) , press the keys that are not responding, and check if they register successfully during the test. If the keys don't register, then they may have become defective. So, have your external keyboard or laptop inspected by a technician.
+
+![Testing Keyboard Keys on the Keyboard Test Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/testing-keyboard-keys-on-the-keyboard-test-website.jpg)
+
+ However, if the keys register successfully during the test, either software interference or Windows settings are preventing the keys from working correctly. In that case, start applying the remaining fixes.
+
+## 2\. Apply Some Preliminary Checks
+
+ Before moving on to in-depth troubleshooting, carry out the following preliminary checks:
+
+* If you are experiencing this issue with an external keyboard, unplug it and plug it back in again.
+* Make sure nothing is stuck in the keyboard keys.
+* If some keys on your laptop keyboard are not working, restart your device.
+* If you have a keyboard manager app running on your device, shut it down or, if possible, delete it temporarily.
+* If your keyboard keys have dust on them, wipe them off with a dry cloth.
+* A malware infection, such as a keylogger, can also cause your keyboard keys to malfunction. To ensure that your device is malware-free,[run a malware scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) .
+
+If the above fixes do not work, start applying the remaining fixes.
+
+## 3\. Is a Certain Set of Keys Not Working on Your Laptop?
+
+ Laptop keys are broadly divided into five main types. These include alphanumeric keys, control keys, function keys, navigation keys, and numeric keypad keys. Some modern keyboards also come with special keys, such as multimedia keys.
+
+ If a certain set of keys isn't working on your keyboard, either those keys are disabled or misconfigured keyboard settings are disrupting their operation. So, you should seek solutions specific to those keys.
+
+ In our guides on[how to fix function keys](https://www.makeuseof.com/function-keys-not-working-windows-10/) ,[media keys](https://www.makeuseof.com/windows-10-media-keys-not-working/) , and[Numpad keys](https://www.makeuseof.com/windows-11-numpad-not-working/) , we have covered solutions to fix these specific sets of keys. Therefore, apply the relevant solutions to fix the set of keys not working on your keyboard.
+
+ However, if some of the keys in one or more of these sets are no longer working (randomly), keep applying the remaining fixes.
+
+## 4\. Run the Keyboard Troubleshooter
+
+ Microsoft Windows includes a keyboard troubleshooter designed to diagnose and fix keyboard problems. In most cases, running this troubleshooter fixes most keyboard problems without the need for further action. Follow these steps to run the keyboard troubleshooter:
+
+1. Right-click on the Windows**Start** button and open**Settings** .
+2. Select the**System** tab from the left sidebar.
+3. Navigate to**Troubleshoot > Additional troubleshooters** .
+4. Click on the**Run** button next to the**Keyboard** troubleshooter.  
+![Click on the Run Button Next to the Keyboard Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-run-button-next-to-the-keyboard-troubleshooter-in-windows-settings-app.jpg)
+
+ Then, follow the on-screen instructions if you are prompted to follow them. Most likely, the troubleshooter will make the changes automatically. If not, the troubleshooter will suggest you a few changes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Update or Reinstall the Keyboard Drivers
+
+ Outdated or corrupt drivers can cause unforeseen problems with computer peripherals. So, if you have not updated your keyboard drivers in a long time, this is a good time to do so. Follow these steps to update the keyboard drivers:
+
+1. Right-click on the Windows**Start** button and open**Device Manager** .
+2. Expand the**Keyboards** category.
+3. Right-click on the keyboard driver you want to update and click**Update** .  
+![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If updating the keyboard driver does not make any difference, reinstall it. To uninstall a keyboard driver, right-click it and select**Uninstall device** . Then, click**OK** in the confirmation popup. After that, restart your device, and Windows will hopefully reinstall the drivers.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Change the Keyboard Settings
+
+ If you have made changes to your keyboard settings recently and started experiencing issues with your keys since then, you've probably messed them up. So, if you remember the changes you made, go back and revert them. If you haven't made any changes recently or are unsure what changes you've made, follow these steps:
+
+1. Right-click on the Windows**Start** button and open the**Settings** app.
+2. Select the**Accessibility** tab from the left sidebar.
+3. Click on**Keyboard** on the right side of the screen.  
+![Open the Keyboard Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-open-the-keyboard-settings-in-windows-settings-app.jpg)
+4. Disable the toggles next to**Sticky keys** ,**Filter keys** , and**Toggle keys** .
+5. Disable the toggle next to**Underline access keys** .  
+![Disable Certain Keyboard Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-disable-certain-keyboard-settings-in-the-windows-settings-app.jpg)
+6. Then, go to**Typing** under**Related settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Go to Typing Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-typing-settings-under-related-settings-in-windows-settings-app.jpg)
+7. Turn off the toggles next to **Show text suggestions when typing on the physical keyboard** and**Multilingual text suggestions** .  
+![Turn Off the Toggles Next to Show Text Suggestions When Typing on the Physical Keyboard and Multilingual Text Suggestions in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-turn-off-the-toggles-next-to-show-text-suggestions-when-typing-on-the-physical-keyboard-and-multilingual-text-suggestions-in-windows-settings-app.jpg)
+8. After that, click on**Advanced keyboard settings** and make sure the correct language option is selected.
+
+## Fix the Problematic Keys on Your Keyboard
+
+ Having difficulty using some keyboard keys can be distressing. Hopefully, the above fixes will help you resolve the underlying issue, allowing you to regain access to the problematic keys. If the keys turn out to be defective during the test, or if none of the above fixes resolve the problem, have your laptop or external keyboard inspected by a technician.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revisiting-yesteryears-social-stories-on-fb-device-guide/"><u>[Updated] 2024 Approved Revisiting Yesteryear's Social Stories on FB Device Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/e-book-mastery-with-epubor-streamlined-editing-software-for-beginners/"><u>E-Book Mastery with EPUBOR: Streamlined Editing Software for Beginners</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-15-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 15 or iPad?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-nord-n30-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus Nord N30 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-recording-mastery-with-innovative-webcams-explored-for-2024/"><u>Live Recording Mastery with Innovative WebCams Explored for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>New In 2024, XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-guide-cost-free-movie-trimming-across-platforms-windows-mac-online/"><u>Streamlined Guide: Cost-Free Movie Trimming Across Platforms (Windows, Mac, Online)</u></a></li>
+<li><a href="https://win11.techidaily.com/successful-conversion-transforming-m4a-files-into-mp4-for-easy-video-uploads/"><u>Successful Conversion: Transforming M4A Files Into MP4 for Easy Video Uploads!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-clearstream-2vs-hdtv-antenna-outstanding-signal-in-an-unattractive-build/"><u>The Ultimate Review of ClearStream 2V's HDTV Antenna - Outstanding Signal in an Unattractive Build</u></a></li>
+<li><a href="https://win11.techidaily.com/three-simple-methods-capturing-your-creative-moments-with-youtube-shorts-from-your-computer/"><u>Three Simple Methods: Capturing Your Creative Moments with YouTube Shorts From Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-audio-capture-devices-compatible-with-all-platforms-including-windows-macos-android-and-ios-latest-models-of-223/"><u>Top 10 Audio Capture Devices: Compatible with All Platforms Including Windows, macOS, Android, and iOS - Latest Models of 2^23</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-ways-to-extract-tunes-from-online-sources/"><u>Top 3 Ways to Extract Tunes From Online Sources</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-methods-for-successfully-opening-mp4-videos-in-windows-10/"><u>Top 4 Methods for Successfully Opening MP4 Videos in Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/transform-your-videos-into-cinematic-masterpieces-with-fcpx/"><u>Transform Your Videos Into Cinematic Masterpieces with FCPX</u></a></li>
+</ul></div>
+

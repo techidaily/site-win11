@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Reactivate Missing Windows Apps & Options
-date: 2024-09-11T09:39:06.340Z
-updated: 2024-09-12T09:39:06.340Z
+date: 2024-09-14T22:08:54.137Z
+updated: 2024-09-17T01:02:20.198Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ To check your system using SFC, follow these steps:
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
@@ -90,20 +83,13 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -116,8 +102,23 @@ Follow these steps to run the update troubleshooter on Windows:
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
@@ -135,22 +136,15 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
@@ -169,13 +163,6 @@ Here's how you can update Windows to the latest version:
 
  Once the service restarts, try installing the optional feature again, and it should work now.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Restore Windows Features Using PowerShell
 
  If all the above methods fail to work, restoring Windows features is your last resort. So, if you are unable to use or install an optional Windows feature, you might be able to fix the problem by using PowerShell to restore a particular feature.
@@ -189,19 +176,6 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
@@ -212,19 +186,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -245,46 +206,18 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-copyright-compliance-for-streaming-songs-on-instagram-for-2024/"><u>[Updated] Copyright Compliance for Streaming Songs on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-facebook-visual-stories/"><u>[Updated] In 2024, A Step-by-Step Guide to Crafting Facebook Visual Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-intuitive-methods-to-log-your-google-voice-conversations/"><u>[Updated] In 2024, Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-outstanding-movies-beyond-the-leading-titles/"><u>[Updated] In 2024, Outstanding Movies Beyond the Leading Titles</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-masterclass-selecting-christian-streaming-platforms/"><u>2024 Approved Masterclass Selecting Christian Streaming Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/oggmp3202/"><u>最新フリーツールを紹介! OGGからMP3へ完全変換：専門的な操作手順のレッスン(202</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721451244609-avoid-mistakes-with-friends-and-family-names-in-your-iphones-fix-them-here/"><u>Avoid Mistakes with Friends & Family Names in Your iPhones - Fix Them Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-the-lunar-client-not-functional-message-in-os/"><u>Dealing with the Lunar Client Not Functional Message in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-your-pc-navigation-with-apple-maps/"><u>Empowering Your PC Navigation with Apple Maps</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-audio-integrating-dolby-atmos-in-windows/"><u>Enhance Your Audio: Integrating Dolby Atmos in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-consistent-reading-pane-openness-setup-for-email-attachments-in-ms-word/"><u>Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-finding-the-storage-for-your-desktop-pics/"><u>Guide: Finding the Storage for Your Desktop Pics</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-download-issues-with-windows-1011-files/"><u>Handling Download Issues with Windows 10/11 Files</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-infinix-smart-8-plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Smart 8 Plus Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-and-when-to-use-the-ping-command-in-windows/"><u>How (and When) to Use the Ping Command in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-mpeg-files/"><u>How to Repair Corrupt MPEG Files</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-g54-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola G54 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock OnePlus Open PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-into-the-new-era-evolution-of-file-explorer-on-windows-11/"><u>Journey Into the New Era: Evolution of File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/realignment-of-data-win11-hdd-optimization-techniques/"><u>Realignment of Data: Win11 HDD Optimization Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-your-win11-experience-three-tricks-up-your-sleeve/"><u>Reboot Your Win11 Experience: Three Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-vitality-to-slow-moving-windows-batches/"><u>Restoring Vitality to Slow-Moving Windows Batches</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-and-solving-winerror-0x80071a90-in-windows/"><u>Simplifying & Solving WinError: 0X80071a90 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/sixfold-solution-to-off-screen-woes-a-roadmap-for-rejuvenating-your-windows-desktop/"><u>Sixfold Solution to Off-Screen Woes: A Roadmap for Rejuvenating Your Windows Desktop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-process-youtube-vids-converted-to-mp3/"><u>Step-by-Step Process YouTube Vids, Converted to MP3</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-blueprint-for-customizing-windows-startup/"><u>The Complete Blueprint for Customizing Windows Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-game-crashes-on-oxygen-not-included-solved/"><u>Troubleshooting Persistent Game Crashes on Oxygen Not Included - Solved!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gear-secrets-expert-advice-from-toms-hardware/"><u>Unveiling Top Gear Secrets - Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-tangle-solved-unify-system-dates/"><u>Windows Time Tangle Solved: Unify System Dates</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-vidmas-screen-recording-functionality/"><u>[New] Exploring Vidma’s Screen Recording Functionality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-marketers-manual-for-recognizing-fabricated-supporters/"><u>[New] In 2024, A Marketer’s Manual for Recognizing Fabricated Supporters</u></a></li>
+<li><a href="https://win11.techidaily.com/1-successfully-streaming-mkv-files-on-xbox-series-xs-a-comprehensive-guide/"><u>1. Successfully Streaming MKV Files on Xbox Series X|S: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026610963-bilibili/"><u>Bilibiliビューワで再生問題に見舞われたら、ダウンロード・セーブ不可を解決するポイント</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-narzo-n55-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme Narzo N55 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-best-software-to-start-your-youtube-videos-off-strongly-for-2024/"><u>The Best Software to Start Your YouTube Videos Off Strongly for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-7-solutions-resolve-launch-issues-with-warzone-20-on-your-pc/"><u>Top 7 Solutions: Resolve Launch Issues with Warzone 2.0 on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-acquiring-1440p-video-streams-from-youtube/"><u>Ultimate Techniques for Securely Acquiring 1440P Video Streams From YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-fixing-the-recurring-frostpunk-game-freeze-problems/"><u>Ultimate Troubleshooting: Fixing the Recurring Frostpunk Game Freeze Problems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-divx-video-editing-made-easy-top-free-cutters/"><u>Updated 2024 Approved Divx Video Editing Made Easy Top Free Cutters</u></a></li>
+<li><a href="https://win11.techidaily.com/watch-on-the-go-how-to-effortlessly-save-movies-tv-episodes-and-songs-for-offline-enjoyment/"><u>Watch On the Go: How to Effortlessly Save Movies, TV Episodes & Songs for Offline Enjoyment</u></a></li>
+<li><a href="https://win11.techidaily.com/wma-to-mp3-or-other-formats-the-easy-free-way-of-converting-your-music-without-spending-a-dime/"><u>WMA to MP3 or Other Formats - The Easy, FREE Way of Converting Your Music Without Spending a Dime</u></a></li>
+<li><a href="https://win11.techidaily.com/youtube-live-screen-recording-techniques-ideal-privacy-tips/"><u>YouTube Live Screen Recording Techniques - Ideal Privacy Tips</u></a></li>
 </ul></div>
 
