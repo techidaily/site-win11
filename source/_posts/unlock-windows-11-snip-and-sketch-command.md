@@ -1,7 +1,7 @@
 ---
 title: Unlock Windows 11 Snip & Sketch Command
-date: 2024-09-13T06:48:29.367Z
-updated: 2024-09-17T05:01:31.149Z
+date: 2024-09-18T22:10:27.573Z
+updated: 2024-09-21T21:10:16.321Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  Once you have the Snipping tool open, you can use it just like before to take screenshots of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Open the Snipping Tool by Creating a Desktop Shortcut
 
  You can find the Snipping tool by searching for it in the Start menu. However, it may be more convenient to create a desktop shortcut for the Snipping tool. Here's how to do it:
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. How to Open the Snipping Tool via File Explorer
 
  Windows File Explorer is a file manager for Windows operating systems. It provides a graphical user interface for accessing the file system. A very important aspect of the interface is the address bar that you can find at the top of the screen. This allows you to quickly open applications by simply typing in the app's name.
@@ -106,6 +106,19 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 1. Press**Win + E** on your keyboard to open Windows File Explorer.
 2. Go to the address bar, type**snippingtool** , and press Enter.
 3. The snipping tool will appear at the top of the screen.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. How to Open the Snipping Tool Using Task Manager
 
@@ -121,10 +134,10 @@ To open the Snipping tool using Task Manager, follow these steps:
 5. Click**OK** to launch the application.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Snipping tool should now be open and ready to use!
@@ -138,20 +151,13 @@ The Snipping tool should now be open and ready to use!
 ![Pin Snipping tool toTaskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Snipping-tool-toTaskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, whenever you need to take a screenshot, just click on the Snipping tool icon in your taskbar. You can also use the keyboard shortcut**Win + Shift + S** to open the app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Easy Ways to Open the Snipping Tool
 
@@ -172,17 +178,15 @@ The Snipping tool should now be open and ready to use!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-fb-chronicles-with-complimentary-extension-tools/"><u>[Updated] 2024 Approved Elevate Your FB Chronicles with Complimentary Extension Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-thorough-examination-of-hero5-video-content/"><u>[Updated] A Thorough Examination of Hero5 Video Content</u></a></li>
-<li><a href="https://win11.techidaily.com/back-to-class-bash-enter-our-2014-wonderfox-contest-and-score-top-picks-at-no-cost/"><u>Back to Class Bash: Enter Our 2014 WonderFox Contest and Score Top Picks at No Cost!</u></a></li>
-<li><a href="https://win11.techidaily.com/best-10-free-video-segmenters-how-to-easily-cut-and-slice-movies-without-cost/"><u>Best 10 FREE Video Segmenters: How to Easily Cut and Slice Movies Without Cost</u></a></li>
-<li><a href="https://win11.techidaily.com/best-7-no-cost-audio-equalizers-and-levelers-for-windows-10-users/"><u>Best 7 No-Cost Audio Equalizers & Levelers for Windows 10 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ultimate-selection-of-5-acapella-sites-for-free-tunes-perfect-for-dj-playlists/"><u>Discover the Ultimate Selection of 5 Acapella Sites for Free Tunes Perfect for DJ Playlists</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-setting-up-your-vizio-tv-for-optimal-usb-movie-playback-performance/"><u>Easy Guide: Setting Up Your Vizio TV For Optimal USB Movie Playback Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-14-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 14</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>In 2024, The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-blaze-2-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Lava Blaze 2 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-pc-performance-to-the-next-level-with-crucials-pro-overclocking-ddr5-c36-ram-2x16gb-detailed-insights-and-benchmarks/"><u>Taking PC Performance to the Next Level with Crucial's Pro Overclocking DDR5 C36 RAM (2X16GB) - Detailed Insights & Benchmarks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-command-the-field-with-a-customized-in-game-character-voice-in-free-fire/"><u>[New] Command the Field with a Customized In-Game Character Voice in Free Fire</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-eyecatching-instagram-slideshows/"><u>[New] In 2024, EyeCatching Instagram Slideshows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-new-frontiers-with-vr-game-engines/"><u>[Updated] Exploring New Frontiers with VR Game Engines</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-screensavers-for-your-win11-experience/"><u>Crafting Unique Screensavers for Your Win11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-windows-11s-tpm-barriers/"><u>Dismantling Windows 11'S TPM Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/file-time-fixes-efficient-methods-to-change-createdmodified-dates/"><u>File Time Fixes: Efficient Methods to Change Created/Modified Dates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-the-latest-breakthrough-amds-zen-5-architecture-evaluation-showcasing-ryzen-9000-innovations-benchmarking-with-ai-300-and-next-level-graphics-feature16/"><u>Inside the Latest Breakthrough: AMD's Zen 5 Architecture Evaluation - Showcasing Ryzen 9000 Innovations, Benchmarking with AI 300, and Next-Level Graphics Features in RDNA 3.5 & XDNA</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-spooler-service-performance-on-windows-devices/"><u>Optimize Spooler Service Performance on Windows Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques-for-2024/"><u>Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solving-geforce-nows-error-xc0f1103f-on-windows-11/"><u>Swiftly Solving GeForce Now's Error: Xc0f1103f on Windows 11</u></a></li>
 </ul></div>
 

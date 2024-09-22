@@ -1,7 +1,7 @@
 ---
 title: Supercharge Typing with PowerToys on Windows
-date: 2024-09-09T18:58:53.635Z
-updated: 2024-09-16T21:18:14.990Z
+date: 2024-09-20T05:23:37.647Z
+updated: 2024-09-22T08:50:06.463Z
 tags:
   - windows10
   - windows11
@@ -73,22 +73,16 @@ To remap your keys with Keyboard Manager:
 
 ![Shift + Z Physical Shortcut Mapped to Ctrl + B Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-shortcuts-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, click on the blue**OK** button and click**Continue Anyway** on the prompt.
 
  Now you can bold text with your preferred shortcut and type faster on your favorite app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Type Accents in a Snap With Quick Accent
 
@@ -108,19 +102,20 @@ To remap your keys with Keyboard Manager:
 
 ![Toolbar of Accented Characters for the U Key on Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/munich-umlaut-quick-accent-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move across the toolbar with the**spacebar** or the**left or right arrow keys** to highlight the**ü** accented character. Then release the**u** key on your keyboard—and**ü** will get typed.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Keep Shortcuts Handy With the Shortcut Guide
@@ -130,19 +125,6 @@ To remap your keys with Keyboard Manager:
  First,**Enable Shortcut Guide** in PowerToys Settings. Then choose to activate Shortcut Guide by**holding the Win key down for a set time** or use a**customized shortcut** .
 
 ![Shortcut Guide Settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-guide-settings-powertoys.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While typing, activate the Shortcut Guide. An overlay will appear on your screen displaying keyboard shortcuts that use the Win key. You'll also see the result of each shortcut written in the guide.
 
@@ -175,20 +157,18 @@ To remap your keys with Keyboard Manager:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-captivating-cinematic-experience-video-filters-for-pcmobile/"><u>[New] In 2024, Captivating Cinematic Experience Video Filters for PC/Mobile</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-innovative-approaches-to-healthcare-marketing-on-facebook-for-2024/"><u>[New] Innovative Approaches to Healthcare Marketing on Facebook for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-effortlessly-record-screens-on-your-hp-device/"><u>[Updated] 2024 Approved How to Effortlessly Record Screens on Your HP Device</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-igtv-videos-secure-downloading-techniques-for-computers-for-2024/"><u>[Updated] Unlocking IGTV Videos Secure Downloading Techniques for Computers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026336071-gif/"><u>初心者も簡単に作れる! GIF動画へのテキスト挿入方法</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturing-live-screens-webcam-setup-on-hp-devices/"><u>Capturing Live Screens Webcam Setup on HP Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/escape-high-prices-of-official-revamps-craft-custom-versions-via-modding-techniques/"><u>Escape High Prices of Official Revamps - Craft Custom Versions via Modding Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/optimizing-ps4-games-for-live-capture-in-obs/"><u>Optimizing PS4 Games for Live Capture in OBS</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-videos-fast-mp4-to-wmv-made-easy/"><u>Transform Your Videos Fast: MP4 to WMV Made Easy!</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-windows-movie-maker-videos-into-mp4-format/"><u>Transform Your Windows Movie Maker Videos Into MP4 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-tutorial-capturing-gaming-sounds-with-obs-comprehensive-step-by-step/"><u>Ultimate Tutorial: Capturing Gaming Sounds with OBS - Comprehensive Step-by-Step</u></a></li>
-<li><a href="https://win11.techidaily.com/unlimited-mp4-to-avi-conversion-guide-to-free-download-methods-both-online-and-offline-solutions/"><u>Unlimited MP4 to AVI Conversion - Guide to FREE Download Methods: Both Online and Offline Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10dvdmp3/"><u>Windows 10で簡単なDVDからMP3への変換ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/wmv-vs-mp4-understanding-the-key-differences-and-how-to-convert-wmv-video-format/"><u>WMV vs MP4: Understanding the Key Differences and How to Convert WMV Video Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-secrets-to-saving-switch-gameplay-on-video/"><u>[New] In 2024, Secrets to Saving Switch Gameplay on Video</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-file-writing-restrictions-in-windows-1011/"><u>Curing File Writing Restrictions in Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-audio-converter-change-aac-files-into-aiff-format-with-movavi/"><u>Free Online Audio Converter: Change AAC Files Into AIFF Format with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conjure-imagination-in-ai-art-forms-using-paint-cocreator-and-windows-11/"><u>How to Conjure Imagination in AI Art Forms Using Paint Cocreator and Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweettub-ios-app-for-fetching-twitter-vids/"><u>In 2024, TweetTub IOS App for Fetching Twitter Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-typical-anomalies-in-anydesk-for-windows/"><u>Navigating Through Typical Anomalies in AnyDesk for Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-fps-range-for-gradual-action-footage-for-2024/"><u>Prime FPS Range for Gradual Action Footage for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rapid-unjamming-of-print-workqueue/"><u>Rapid Unjamming of Print Workqueue</u></a></li>
+<li><a href="https://win11.techidaily.com/shattering-the-scripts-off-glass-ceiling-in-powershell-execution/"><u>Shattering the 'Scripts Off' Glass Ceiling in PowerShell Execution</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/starter-deutsch-einleitungsband-zu-zahlenschreiben-von-1-100-in-deutsch/"><u>Starter Deutsch: Einleitungsband Zu Zahlenschreiben Von 1-100 in Deutsch</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-windows-11-search-with-these-top-tips/"><u>Supercharge Your Windows 11 Search with These Top Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-2023s-top-methods-for-harmonizing-audio-levels-a-trifecta-of-speed-and-efficiency/"><u>Updated 2024 Approved 2023S Top Methods for Harmonizing Audio Levels A Trifecta of Speed and Efficiency</u></a></li>
 </ul></div>
 

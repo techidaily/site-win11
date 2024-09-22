@@ -1,7 +1,7 @@
 ---
 title: "Windows Slumber Techniques: Quick Tips"
-date: 2024-09-16T09:24:12.503Z
-updated: 2024-09-17T00:49:24.692Z
+date: 2024-09-19T19:08:38.121Z
+updated: 2024-09-21T23:59:07.708Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 
  The sleep key is usually labeled with a**crescent moon** or a**Zz** icon. You can press that key while holding the**Function** or**Fn** key to put Windows into sleep mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Converting the Power Button Into a Sleep Button
 
  Is your keyboard lacking a dedicated sleep button? Why not use the power button on your desktop or laptop to put Windows to sleep? To do so, you’ll have to access your PC’s power settings and configure the Power key to function as a Sleep key. Here's how to do it.
@@ -69,13 +62,26 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 6. Click the**Save changes** button at the bottom.  
 ![Put Windows Computer to Sleep Using Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-power-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, when you press the physical Power button on your machine, your PC will fall asleep instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use the Ctrl + Alt + Delete Menu
@@ -95,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 ![Put Windows Computer to Sleep Using Shut Down Windows Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-shut-down-windows-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use the Command Prompt or PowerShell
@@ -116,14 +122,14 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 
 ![Put Windows Computer to Sleep Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-command-prompt.jpg)
 
-As soon as you run the above command, your PC will enter sleep mode.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+As soon as you run the above command, your PC will enter sleep mode.
 
 ## 8\. Set Up Automatic Sleep Mode on Windows
 
@@ -172,14 +178,16 @@ As soon as you run the above command, your PC will enter sleep mode.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-masterful-adjustments-the-editors-guide-to-gopro-video-magic/"><u>[Updated] Masterful Adjustments The Editor's Guide to GoPro Video Magic</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/adapt-or-advance-winning-tactics-in-an-ai-infused-economy/"><u>Adapt or Advance: Winning Tactics in an AI-Infused Economy</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevating-your-craft-top-camera-optics-for-professional-videos/"><u>Elevating Your Craft Top Camera Optics for Professional Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-dismantling-breakpoint-exception-in-windows/"><u>Expert Guide to Dismantling Breakpoint Exception in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-the-bluetooth-connectivity-problem-on-windows-11/"><u>How to Solve the Bluetooth Connectivity Problem on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/retouching-lost-plans-win-11-power-settings-guide/"><u>Retouching Lost Plans: Win 11 Power Settings Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-kodi-on-your-windows-10-pc/"><u>Step-by-Step Guide: Setting Up Kodi on Your Windows 10 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-prevent-file-explorer-crashes-on-windows-11/"><u>Tips to Prevent File Explorer Crashes on Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-leading-10-video-editing-programs-for-instagram-reels-enthusiasts/"><u>[Updated] 2024 Approved Leading 10 Video Editing Programs for Instagram Reels Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-balancing-content-creation-and-employment/"><u>[Updated] Balancing Content Creation and Employment</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4isotop3/"><u>無料MP4からISOへの高性能な変換ソフトウェア：おすすめランキングTOP3</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-8-subtitle-transformers-seamless-switch-from-sub-to-srtr-in-seconds-on-windowsmacos/"><u>Best 8 Subtitle Transformers Seamless Switch From SUB to SRTR in Seconds on Windows/MacOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 12 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-wav-file-creation-in-windows-10-for-clear-sound-capture/"><u>Mastering the Art of WAV File Creation in Windows 10 for Clear Sound Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4-f4v/"><u>MP4に変換してください - F4Vファイルからのコンバージョンガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/pcgta5/"><u>PC上のGTA5キャプチャ手順: ステップバイステップガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/professional-ipod-video-format-maker-easily-transform-videos-into-compatible-formats-for-ipod-ipod-touch-and-more/"><u>Professional IPod Video Format Maker - Easily Transform Videos Into Compatible Formats for iPod, iPod Touch & More</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-3-sites-to-find-free-infinix-unlock-codes-to-unlock-your-infinix-phone-by-drfone-android/"><u>Top 3 Sites to Find Free Infinix Unlock Codes to Unlock Your Infinix Phone</u></a></li>
 </ul></div>
 

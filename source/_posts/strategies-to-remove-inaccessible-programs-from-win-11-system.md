@@ -1,7 +1,7 @@
 ---
 title: Strategies to Remove Inaccessible Programs From Win 11 System
-date: 2024-09-12T22:39:30.107Z
-updated: 2024-09-17T05:01:51.113Z
+date: 2024-09-17T09:42:44.501Z
+updated: 2024-09-21T20:35:29.083Z
 tags:
   - windows10
   - windows11
@@ -50,18 +50,18 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 5. Then select the program you can’t uninstall and select **Next**.  
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/program-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Turn Off User Account Control
 
  The “You do not have sufficient access to uninstall” error can sometimes arise because User Account Control is set to high. So, try temporarily turning UAC off before uninstalling the affected software. Our guide on [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off UAC.
 
 ![The User Account Control settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Set Full Control Permissions for the Software’s Installation Folder
 
@@ -71,19 +71,20 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 2. Right-click on the installation folder and select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/properties-option3.jpg)
 3. Click **Edit** on the **Security** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select your user account name.
 5. Click the **Full control** checkbox to select that setting if it’s not already.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-window.jpg)
 6. Then select **Apply** \> **OK** on the folder’s permissions window.
 7. Select **OK** to exit the properties window.
 8. Repeat the above instructions for the program’s EXE (application) file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Uninstall the Software With an UninstallString Value
 
@@ -102,16 +103,17 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 3. Copy the text in the **Value data** box by selecting it and pressing **Ctrl** \+ **C**.  
 ![The Edit String window for the UninstallString](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-string-window3.jpg)
 4. Open Command Prompt as an admin (See [how to open Command Prompt with admin permissions](https://www.makeuseof.com/windows-run-command-prompt-admin/)).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click inside the Command Prompt and press **Ctrl** \+ **V** to paste in the string.  
 ![An uninstall command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/undostring-command.jpg)
 6. Press **Enter** to run the command and remove the software.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that the above registry string is for 64-bit software. To find the strings for 32-bit software, you’ll need to go to this registry path:
 
@@ -128,16 +130,17 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 5. Open IObit Uninstaller and select the **All programs** tab.  
 ![The IObit Uninstaller software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-iobit-uninstaller-software.jpg)
 6. Select the program and click **Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click on the checkbox labeled **Automatically remove residual files**.
 8. Select **Uninstall** to remove the software.  
 ![The Uninstall button in IObit Uninstaller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Uninstall the Software Within Safe Mode
 
@@ -154,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 5. Next, select the **MSIServer** key and double-click its **(Default)** string.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Enter **Service** in the **Value data** box and select **OK**.  
@@ -172,23 +175,6 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
  That error message highlights the issue is caused by insufficient access. However, the error can arise for users even when they have administrator privileges. This is how you can fix the “do not have sufficient access to uninstall” error in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/armonizing-visuals-and-soundtracks-with-youtubes-video-editor-for-2024/"><u>[New] Harmonizing Visuals & Soundtracks with YouTube's Video Editor for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-7-streaming-tools-for-mac-users/"><u>[Updated] Best 7 Streaming Tools for Mac Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-to-your-personal-youtube-collection/"><u>[Updated] Navigating to Your Personal YouTube Collection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>[Updated] The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-solutions-to-address-nwstoreexe-application-malfunctions/"><u>Comprehensive Solutions to Address nw_store.exe Application Malfunctions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Lava Blaze Curve 5G?</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-adding-audio-to-photo-you-should-know-for-2024/"><u>New Adding Audio to Photo You Should Know for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-gxf-files-into-mp4-format-and-more/"><u>Step-by-Step Guide: Converting GXF Files Into MP4 Format & More</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-streaming-mp4-videos-seamlessly-on-your-apple-tv/"><u>Step-by-Step Guide: Streaming MP4 Videos Seamlessly on Your Apple TV</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-guide-cost-free-movie-trimming-across-platforms-windows-mac-online/"><u>Streamlined Guide: Cost-Free Movie Trimming Across Platforms (Windows, Mac, Online)</u></a></li>
-<li><a href="https://win11.techidaily.com/successful-conversion-transforming-m4a-files-into-mp4-for-easy-video-uploads/"><u>Successful Conversion: Transforming M4A Files Into MP4 for Easy Video Uploads!</u></a></li>
-<li><a href="https://win11.techidaily.com/three-simple-methods-capturing-your-creative-moments-with-youtube-shorts-from-your-computer/"><u>Three Simple Methods: Capturing Your Creative Moments with YouTube Shorts From Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y78-5g-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y78 5G</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +182,21 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-compelling-narratives-with-strategic-youtube-banners/"><u>[New] 2024 Approved Crafting Compelling Narratives with Strategic YouTube Banners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-budget-videography-choosing-the-best-panoramic-cameras/"><u>[Updated] Budget Videography Choosing the Best Panoramic Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pixel-perfect-preservation-the-best-practices-of-recording-games/"><u>2024 Approved Pixel-Perfect Preservation The Best Practices of Recording Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/astonishingly-fast-finders-of-forlorn-reddit-content/"><u>Astonishingly Fast Finders of Forlorn Reddit Content</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-refine-user-access-in-windows-environment/"><u>Guidelines to Refine User Access in Windows Environment</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-pop-8-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Pop 8 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/network-fixation-six-easy-ways-to-get-windows-network-hardware-working-again/"><u>Network Fixation: Six Easy Ways to Get Windows Network Hardware Working Again</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-the-lost-search-feature-in-windows-11s-tm-environment/"><u>Restore the Lost Search Feature in Windows 11'S TM Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/sleuthing-out-stealthy-cyber-menaces-on-pcs/"><u>Sleuthing Out Stealthy Cyber Menaces on PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-mohu-blade-review-distinct-design-with-superior-in-house-signal-reception/"><u>The Mohu Blade Review: Distinct Design with Superior In-House Signal Reception</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unearth-hidden-gems-6-must-try-chatgpt-games-for-an-ultimate-play-experience/"><u>Unearth Hidden Gems: 6 Must-Try ChatGPT Games for an Ultimate Play Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-choices-top-windows-tools-for-video-conversion/"><u>Winning Choices: Top Windows Tools For Video Conversion</u></a></li>
+</ul></div>
+

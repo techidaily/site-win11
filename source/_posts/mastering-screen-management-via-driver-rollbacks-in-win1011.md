@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Management via Driver Rollbacks in Win10/11
-date: 2024-09-15T01:34:59.786Z
-updated: 2024-09-17T05:51:07.707Z
+date: 2024-09-15T22:45:50.552Z
+updated: 2024-09-21T23:37:17.481Z
 tags:
   - windows10
   - windows11
@@ -60,30 +60,45 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 2. Then, locate and expand the**Display adapters** section in the Device Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on your graphics card driver and select**Properties** from the context menu.  
 ![graphics card properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/graphics-card-properties.jpg)
 4. Under the Properties window, switch to the**Driver** tab and click on the**Disable Device** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable graphics card driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-graphics-card-driver-2.jpg)
 5. Confirm the disable action and wait for a few moments.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. After the driver is disabled, again right-click on your graphics card driver, and select**Properties** from the menu that appears.
 7. Switch to the Driver tab, and click on the**Enable** **Device** button.  
 ![enable device driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-device-driver-1.jpg)
 8. Wait for the driver to be re-enabled.
 
  This action will reset your graphics card driver and may clear up any display issues you were having.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Uninstall and Reinstall the Graphics Driver to Reset It
 
@@ -96,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 3. Right-click on your graphics card driver and select**Uninstall device** from the context menu.  
 ![uninstall graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-graphics-driver.jpg)
 4. Confirm the uninstall action to remove all its files completely.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. After the driver is removed, reboot your device.
 6. Windows will detect a missing driver and prompt you to install it automatically. If not, head to your graphics card manufacturer's website and download the suitable drivers for your device.
@@ -143,16 +151,15 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-building-a-bountiful-beauty-channel-fortune/"><u>[New] Building a Bountiful Beauty Channel Fortune</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/wift-transformation-video-aspects-to-mac-standard-for-2024/"><u>[New] Swift Transformation Video Aspects to Mac Standard for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-effortless-obs-and-zoom-stream-merge-steps/"><u>[Updated] In 2024, Effortless OBS and Zoom Stream Merge Steps</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-adobe-advances-bringing-text-into-three-dimensional-space/"><u>2024 Approved Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-after-effects-with-top-rated-text-tools-for-2024/"><u>Mastering After Effects with Top-Rated Text Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-dvd-screen-fitting-for-widescreen-televisions/"><u>Mastering the Art of DVD Screen Fitting for Widescreen Televisions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-h2n65-hevc-video-editing-in-windows-11-tips-and-tricks/"><u>Mastering the Art of H.2n65 / HEVC Video Editing in Windows 11: Tips and Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/mp3amazon-music/"><u>MP3形式でAmazon Music曲数枚録音・保存手順</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-modern-filmmakers-guide-for-computer-mac-and-mobile/"><u>The Modern Filmmaker's Guide for Computer, Mac & Mobile</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mkvavi/"><u>マルチメディアファイル変換：MKVをAviに自由で簡単な方法 - 最適スクリプトとリソース</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-premier-guidance-leading-ringtone-artisans-iphone/"><u>[New] In 2024, Premier Guidance Leading Ringtone Artisans iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-blueprint-for-memetic-virality/"><u>[New] The Ultimate Blueprint for Memetic Virality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-pathway-to-photo-mosaic-brilliance/"><u>Discover the Pathway to Photo Mosaic Brilliance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-consumer-demand-is-driving-up-phone-sizes-understanding-this-tech-evolution/"><u>How Consumer Demand Is Driving Up Phone Sizes - Understanding This Tech Evolution.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-football-video-analysis-top-youtube-infographics/"><u>In 2024, Football Video Analysis Top YouTube Infographics</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-file-protection-with-windows-password-practices/"><u>Optimize Your File Protection with Windows Password Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-notice-errors-in-phone-links-windows-functionality/"><u>Overcoming No-Notice Errors in Phone Link's Windows Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-dealing-with-your-license-is-about-to-end-in-win11/"><u>Steps for Dealing with 'Your License Is About to End' In Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tier-digital-workshop-title-maker/"><u>Top-Tier Digital Workshop Title Maker</u></a></li>
 </ul></div>
 

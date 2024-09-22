@@ -1,7 +1,7 @@
 ---
 title: Steps to Successfully Modify Windows 11'S App Preferences
-date: 2024-09-16T01:46:19.389Z
-updated: 2024-09-16T19:16:44.989Z
+date: 2024-09-18T19:59:14.686Z
+updated: 2024-09-21T17:14:50.118Z
 tags:
   - windows10
   - windows11
@@ -62,13 +62,6 @@ Follow these steps to proceed:
 
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Use File Properties
 
  You can also change the file properties of the targeted file to open it with a new default app.
@@ -79,15 +72,15 @@ To proceed, follow these steps:
 ![Access the properties of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties.jpg)
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
 
@@ -112,6 +105,13 @@ Here is how you can do that:
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once this is done, follow one of the steps above to change the default app.
 
 ### 2\. Reset the Targeted App
@@ -130,13 +130,6 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -150,16 +143,23 @@ Here is how you can proceed:
 4. Locate the targeted app and right-click on it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -182,19 +182,17 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unleash-hd-vision-utilizing-youtube-for-clear-videos/"><u>[New] In 2024, Unleash HD Vision Utilizing YouTube for Clear Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-premier-movie-access-on-facebook-ranked-8-list/"><u>[New] Premier Movie Access on Facebook Ranked #8 List</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-integrating-twitter-promotions-into-your-digital-strategy/"><u>[Updated] 2024 Approved Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-explore-the-best-9-gif-recorders-for-windows-seamless-animation-saving/"><u>[Updated] In 2024, Explore the Best 9 GIF Recorders for Windows Seamless Animation Saving</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/choosing-the-right-format-handbrakes-h264-vs-mpeg-4-for-dvd-conversion/"><u>Choosing the Right Format: HandBrake's H.264 Vs MPEG-4 for DVD Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-methods-for-converting-png-graphics-into-high-quality-mp4-movies-with-both-online-services-and-pc-applications/"><u>Easy Methods for Converting PNG Graphics Into High-Quality MP4 Movies with Both Online Services and PC Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-robust-customer-assistance/"><u>Effective Strategies for Robust Customer Assistance</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-techniques-to-combine-mp3-tracks-on-windows-11/"><u>Efficient Techniques to Combine MP3 Tracks on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-dvd-to-mkv-conversion-guide-for-windows-11-and-10-users/"><u>Effortless DVD-to-MKV Conversion Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-transforming-gopro-4k-videos-into-crisp-clear-1080p-without-losing-detail/"><u>Expert Tips for Transforming GoPro 4K Videos Into Crisp, Clear 1080P Without Losing Detail</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-v30-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme V30 Phone Screen?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-textual-terminals/"><u>In 2024, Tailoring Textual Terminals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-insights-on-computers-and-components-by-toms-hardware-experts/"><u>Innovative Insights on Computers and Components by Tom’s Hardware Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamping-your-win8-black-screen-effects/"><u>Revamping Your Win8 Black Screen Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows/"><u>[Updated] 2024 Approved From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-tapping-into-tiktoks-magic-secrets-to-surpassing-your-competitors/"><u>2024 Approved Tapping Into TikTok's Magic Secrets to Surpassing Your Competitors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-understanding-and-complying-with-instagrams-audio-ownership-laws/"><u>2024 Approved Understanding and Complying with Instagram's Audio Ownership Laws</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-one-way-startup-on-secure-windows-for-office-suite/"><u>Combatting the One-Way Startup on Secure Windows for Office Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-exploration-tips-for-roblox-enthusiasts/"><u>Detailed Exploration Tips for Roblox Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-fix-keyboard-issues-on-your-hp-laptop-troubleshooting-steps-inside/"><u>Effortlessly Fix Keyboard Issues on Your HP Laptop – Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-15-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 15 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-sleep-glitches-on-new-windows-11/"><u>Resolving Sleep Glitches on New Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-incompatible-media-input-vlc/"><u>Resolving Windows: Incompatible Media Input VLC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-downloading-and-setting-up-a-dell-mouse-driver-fix/"><u>Step-by-Step Tutorial on Downloading and Setting Up a Dell Mouse Driver Fix</u></a></li>
 </ul></div>
 

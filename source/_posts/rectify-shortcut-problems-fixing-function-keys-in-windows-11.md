@@ -1,7 +1,7 @@
 ---
 title: "Rectify: Shortcut Problems - Fixing Function Keys in Windows 11"
-date: 2024-09-12T04:39:36.822Z
-updated: 2024-09-16T23:19:50.011Z
+date: 2024-09-16T17:07:26.982Z
+updated: 2024-09-22T06:35:21.478Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter wasn’t enough to fix your problem and get the Fn keys working again, there is another Windows tool you can use. This time, you can access it through Settings.
@@ -64,24 +71,18 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Turn Off Filter Keys
 
  In Windows, the Filter Keys feature is designed to stop repeated keystrokes. However, disabling it might have a positive impact on the Fn keys' functionality.
 
  Check out the [ways to turn Filter Keys on or off on Windows](https://www.makeuseof.com/turn-filter-keys-on-off-windows/) for instructions on how to disable it.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Keyboards Drivers
 
@@ -96,21 +97,7 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check the Human Interface Device Service
 
@@ -122,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  Then, restart your computer and check if the problem is now fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bring Back the Convenience of Fn Keys
 
  There you have it—a list of quick and easy solutions to fix your computer Fn keys. However, there's a chance the default Fn keys functionality doesn't work for you. In this case, you should know that you can change what the Fn keys do on your Windows computer.
@@ -130,25 +124,6 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>[Updated] 2024 Approved Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-comprehensive-look-at-stardew-and-ginger-isle-for-2024/"><u>[Updated] A Comprehensive Look at Stardew and Ginger Isle for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1-effortless-conversion-turning-m4a-files-into-mp3-formats-using-free-online-tools/"><u>1. Effortless Conversion: Turning M4A Files Into MP3 Formats Using Free Online Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/1-mastering-the-process-step-by-step-guide-to-converting-beatstars-tracks-into-mp3-format/"><u>1. Mastering the Process: Step-by-Step Guide to Converting BeatStars Tracks Into MP3 Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-display-hidden-file-attributes-on-your-apple-computer-via-terminal/"><u>A Step-by-Step Guide to Display Hidden File Attributes on Your Apple Computer via Terminal</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clarified-unknown-direct-x-flub-on-legends-of-lol/"><u>Clarified Unknown Direct X Flub on Legends of LoL</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-unlocking-tailored-user-engagement-online/"><u>Cookiebot: The Key to Unlocking Tailored User Engagement Online</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-inkjet-4630-firmware-enhancement-guide/"><u>HP Inkjet 4630 Firmware Enhancement Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-mastery-essential-tech-to-enhance-your-streams/"><u>In 2024, YouTube Mastery Essential Tech to Enhance Your Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/itunes-mp3wav/"><u>ITunes MP3ファイルからWAV形式への変換手順</u></a></li>
-<li><a href="https://win11.techidaily.com/mp3-audible-aax/"><u>MP3への変換 - Audible AAX音声ファイルをどうやって変更するか</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-free-dvd-player-applications-compatible-with-windows-11-watch-movies-at-no-charge/"><u>Top 7 Free DVD Player Applications Compatible with Windows 11: Watch Movies at No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/wonderfox-solves-missing-page-issue-error-code-404-no-more/"><u>WonderFox Solves Missing Page Issue - Error Code 404 No More</u></a></li>
-<li><a href="https://win11.techidaily.com/avisynth/"><u>ビデオ再生中の音量設定 - AviSynthを使って</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +131,19 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-10-awesome-ideas-for-igtv-videos-brands-shouldnt-miss-out-on/"><u>[New] 10 Awesome Ideas for IGTV Videos Brands Shouldn't Miss Out On</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook/"><u>[Updated] 2024 Approved Connect & Entertain Stream Xbox Games on the World's Stage - Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-digital-melodies-where-to-grab-skype-ringtone-files/"><u>[Updated] In 2024, Digital Melodies Where to Grab Skype Ringtone Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-guide-using-vlc-for-videos/"><u>[Updated] In 2024, Ultimate Guide Using VLC for Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigating-and-leveraging-siri-for-tiktok-content-creation/"><u>[Updated] Navigating and Leveraging Siri for TikTok Content Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0xc004f050-from-windows-update/"><u>Eliminating Error 0XC004F050 From Windows Update</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/full-analysis-of-camstudio-screen-capture-tech-for-2024/"><u>Full Analysis of CamStudio Screen Capture Tech for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-vivo-unlock-codes-to-unlock-your-vivo-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Vivo Unlock Codes to Unlock Your Vivo Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-enabling-startup-services/"><u>Mastering Windows 11: Enabling Startup Services</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-synchronization-with-microsofts-to-do-app/"><u>Overcoming Non-Synchronization with Microsoft's To-Do App</u></a></li>
+</ul></div>
+

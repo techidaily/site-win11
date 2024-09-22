@@ -1,7 +1,7 @@
 ---
 title: How to Create a Self-Extracting SFX Archive in Windows 11
-date: 2024-09-12T08:00:24.172Z
-updated: 2024-09-17T08:05:12.762Z
+date: 2024-09-20T06:17:56.974Z
+updated: 2024-09-22T07:14:36.080Z
 tags:
   - windows10
   - windows11
@@ -100,10 +100,10 @@ Testing the SFX File With 7-ZIP
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Share Your Files Within Self-Extracting SFX Archives
@@ -127,17 +127,20 @@ Testing the SFX File With 7-ZIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-aligning-podcast-drop-dates-with-listener-patterns/"><u>[New] In 2024, Aligning Podcast Drop Dates with Listener Patterns</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-webcams-on-windows-10-top-applications-reviewed-for-2024/"><u>[Updated] Best Webcams on Windows 10 Top Applications Reviewed for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-notch-screen-recorder-pcmacos-edition-for-2024/"><u>[Updated] Top-Notch Screen Recorder PC/macOS Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-experts-approach-to-cpu-settings-on-pc/"><u>Crafting an Expert's Approach to CPU Settings on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/enhanced-windows-interface-with-right-click-contextual-help/"><u>Enhanced Windows Interface with Right-Click Contextual Help</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/la-meilleure-solution-francaise-pour-decouper-les-fichiers-mkv-sans-avoir-a-recoder/"><u>La Meilleure Solution Française Pour Découper Les Fichiers MKV Sans Avoir À Recoder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/registration-free-copying-of-region-2pal-and-current-video-format-dvds/"><u>Registration-Free Copying of Region 2/PAL and Current Video Format DVDs</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-onedrive-storage-space-a-step-by-step-guide-for-win10/"><u>Reimagine OneDrive Storage Space: A Step-by-Step Guide for Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-search-functionality-on-disk-based-discord/"><u>Upgrading Search Functionality on Disk-Based Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-modify-the-default-browser/"><u>Windows 11: Modify the Default Browser</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[Updated] 2024 Approved PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
+<li><a href="https://win11.techidaily.com/1-ultimate-guide-downloading-youtube-content-onto-your-ipad/"><u>1. Ultimate Guide: Downloading YouTube Content Onto Your iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027881327-youtube/"><u>効果的な方法でYoutube映像ダウンロード術</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-worldwide-loving-sentiments-today/"><u>Discovering Worldwide Loving Sentiments Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-11x-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme 11X 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-functional-keyboard-lights-on-asus-model/"><u>Non-Functional Keyboard Lights on ASUS Model</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027705515-pc-and-smartphone/"><u>PC & Smartphoneで組み合わせ編集:ビデオ・オーディオの最適化</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ise-strategies-for-measuring-yt-success-metrics-and-revenue-for-2024/"><u>Stepwise Strategies for Measuring YT Success Metrics and Revenue for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-start-page-for-task-manager-windows-11/"><u>Tailoring the Start Page for Task Manager (Windows 11)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups-for-2024/"><u>The Ultimate Pathway Understanding Adobe's Storage Solutions & Best Backups for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-background-generator-for-2024/"><u>Updated What Is AI Background Generator for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027640655-wav/"><u>WAV形式のメタデータ管理 - 最適な編集ソフトと使用手順</u></a></li>
+<li><a href="https://win11.techidaily.com/wonderfox-navigation-error-why-you-cant-find-the-content-anymore-new-link-text/"><u>WonderFox Navigation Error: Why You Can’t Find the Content Anymore – New Link Text</u></a></li>
+<li><a href="https://win11.techidaily.com/wonderfoxs-limited-time-deal-earn-high-value-ripper-pro-licenses-discounted-3995-7990-during-this-months-movie-campaign-join-now/"><u>WonderFox's Limited-Time Deal: Earn High-Value Ripper Pro Licenses (Discounted @$3995-$7990) During This Month’s Movie Campaign – Join Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026812283-tiktok/"><u>パーフェクトなTikTok動画の縦横サイズ及び製作技術</u></a></li>
 </ul></div>
 

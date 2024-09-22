@@ -1,7 +1,7 @@
 ---
 title: Discover Windows 11'S Data Extraction Tactics
-date: 2024-09-10T00:04:59.995Z
-updated: 2024-09-16T23:58:51.618Z
+date: 2024-09-18T07:08:44.081Z
+updated: 2024-09-22T06:33:19.938Z
 tags:
   - windows10
   - windows11
@@ -63,34 +63,21 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  However, Activity History is not something Microsoft forces everyone to use. If you don't like Microsoft watching how you use your computer, you can turn off the feature from the Settings app. You can also [erase your Activity History](https://www.makeuseof.com/tag/view-delete-windows-10-activity-history/), but doing so may affect some features in Windows 11\.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Windows 11 Collects Your Voice Data
 
 ![Screenshot showing Speech page in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows 11 can collect and send your voice data to Microsoft's servers through online speech recognition technology, but only if you grant permission.
@@ -99,18 +86,18 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  You can [turn on/off online speech recognition in Windows](https://www.makeuseof.com/windows-11-enable-voice-access/) via the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can You Tweak Your Privacy Settings in Windows 11?
 
  The short answer is yes. You can turn off data collection in Windows 11, but that will severely impact what the operating system can do for you. You may not be able to use some apps when the data collected is completely turned off by tweaking various settings.
 
  If you don't mind losing some features to protect your privacy, here are [every privacy options you can adjust in Windows 11](https://www.makeuseof.com/windows-11-privacy-options-explained/). And if you want to go even further, check out [how to disable Windows 11's tracking features](https://www.makeuseof.com/disable-windows-11-tracking-features/) too.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Worry About Tech Companies Collecting Your Data?
 
@@ -120,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  If you're concerned about others peeking into your information, check out these [data privacy habits to practice for protecting your personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/) and [how to make it harder for brokers to collect your data](https://www.makeuseof.com/ways-to-make-it-harder-for-data-brokers-collect-your-data/).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows 11 Collects Your Data, but Only If You Want
 
  Privacy is an ongoing debate, but transparency is the key, no matter which side you're on. What data Windows 11 can get access to and what it can't is entirely in your hands.
@@ -128,23 +122,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  In this article, we're listing the different ways Windows 11 collects your personal and non-personal data.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-become-a-shorts-connoisseur-must-know-facts/"><u>[New] In 2024, Become a Shorts Connoisseur Must-Know Facts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs-for-2024/"><u>[Updated] Metaverse Comedy The Art & Science of Creating Viral Online Laughs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-fixes-to-lower-desktop-window-managers-power-use/"><u>Easy Fixes to Lower Desktop Window Manager's Power Use</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fast-fix-windows-11-graphics-3000-driver-update-guide/"><u>Fast Fix: Windows 11 - Graphics 3000 Driver Update Guide</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/guia-paso-a-paso-integracion-de-libdvdcss-con-handbrake-para-la-copia-de-dvds-en-macos-y-windows-10/"><u>Guía Paso a Paso: Integración De Libdvdcss Con Handbrake Para La Copia De DVDs en macOS Y Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>In 2024, Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y56-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y56 5G FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-gpu-settings-in-windows-11-and-11/"><u>Mastering GPU Settings in Windows 11 & 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-pro-modding-top-tips-from-industry-leaders/"><u>Mastering the Art of Pro Modding: Top Tips From Industry Leaders</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-energy-efficiency-fully-charged-notifications-for-windows-11-users/"><u>Maximizing Energy Efficiency: Fully Charged Notifications for Windows 11 Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/perfecting-your-presence-mastery-of-title-and-tag-use-on-youtube-for-2024/"><u>Perfecting Your Presence Mastery of Title and Tag Use on YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-access-how-to-set-up-a-hardware-unhook-icon-in-win11/"><u>Secure Access: How to Set Up a Hardware Unhook Icon in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/starting-windows-11-from-scratch-the-ultimate-guide-to-a-clean-reboot/"><u>Starting Windows 11 From Scratch: The Ultimate Guide to a Clean Reboot</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +129,23 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-visionary-graphs-on-upcoming-23-trends/"><u>[New] 2024 Approved Visionary Graphs on Upcoming '23 Trends</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-is-monetization-a-feature-in-review-blogs/"><u>[New] Is Monetization a Feature in Review Blogs?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-selection-leading-wireless-mice-reviewed/"><u>2024'S Ultimate Selection: Leading Wireless Mice Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/movmpeg-12/"><u>動画MOV形式からMPEG-1/2への正しい変換プロセス</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drones-and-cams-clash-dji-action-gopro-max-360-x3/"><u>Drones & Cams Clash DJi Action, GoPro Max 360, X3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-failed-to-create-d3d9-device/"><u>FIX: Failed to Create D3D9 Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-civi-3-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Civi 3 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/newbies-netflix-nook-deciphering-resolution-ratings-for-2024/"><u>Newbie's Netflix Nook Deciphering Resolution Ratings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-simple-guide-converting-opus-files-to-wma-format/"><u>Quick and Simple Guide: Converting Opus Files to WMA Format</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-integrating-audio-tracks-with-avi-files-seamlessly/"><u>Quick Guide: Integrating Audio Tracks with AVI Files Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-transforming-avi-videos-into-gifs-with-speed/"><u>Quick Guide: Transforming AVI Videos Into GIFs with Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-on-effortlessly-transforming-snd-tracks-into-mp3-files/"><u>Quick Tips on Effortlessly Transforming SND Tracks Into MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-a-step-by-step-guide-to-transferring-dvds-onto-your-iphone-7-or-7-plus/"><u>Seamless Conversion: A Step-by-Step Guide to Transferring DVDs Onto Your iPhone 7 or 7 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-the-ghost-add-on-to-your-kodi-version-20-and-19-setup/"><u>Step-by-Step Guide: Adding the Ghost Add-On to Your Kodi (Version 20 & 19) Setup</u></a></li>
+</ul></div>
+

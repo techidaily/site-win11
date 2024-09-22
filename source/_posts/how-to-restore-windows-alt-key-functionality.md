@@ -1,7 +1,7 @@
 ---
 title: How to Restore Windows ALT Key Functionality
-date: 2024-09-10T06:08:08.517Z
-updated: 2024-09-17T04:57:27.315Z
+date: 2024-09-14T19:47:02.857Z
+updated: 2024-09-22T07:10:30.828Z
 tags:
   - windows10
   - windows11
@@ -73,10 +73,10 @@ To get started, follow these steps:
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 HKEY_CURRENT_USER\Control Panel\Input Method
@@ -95,13 +95,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Look for the program that is causing the error.
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Try a Different Keyboard Layout
 
@@ -123,19 +116,34 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Troubleshooting Windows ALT codes
 
@@ -156,19 +164,20 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/udget-friendly-strategies-to-infuse-text-and-video/"><u>[New] Budget-Friendly Strategies to Infuse Text & Video</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter-for-2024/"><u>[New] Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlock-the-full-potential-of-your-reels-with-these-6-essentials/"><u>2024 Approved Unlock the Full Potential of Your Reels with These 6 Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029077015-dvd-2024/"><u>DVDコピー自由化アプリ: 2024新鋭版全面紹介！</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-monitoring-running-apps-on-windows/"><u>Efficiently Monitoring Running Apps on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c12-plus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C12 Plus phone? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-sony-xperia-5-v-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Sony Xperia 5 V Phone? Unlock It Now</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028352179-mp4mov/"><u>MP4への一括変換:多数MOVファイル対応マニュアル</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-scenes-crafting-smooth-transitions-using-kinemaster-for-2024/"><u>Seamless Scenes Crafting Smooth Transitions Using Kinemaster for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029051177-vts-vts/"><u>VTS形式のデータを効率的に変換: VTS変換ソフトウェア使用ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027608600-windows-11/"><u>Windows 11向けマイクロソフトスタジオの動画記録ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027439554-dvdusb/"><u>レンタルDVDデータを保護しながら、USBへ移動する簡単方法</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-curbing-inertia-in-high-altitude-cinematography/"><u>[New] Curbing Inertia in High Altitude Cinematography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-our-picks-the-most-affordable-video-viewing-apps-today/"><u>[Updated] Explore Our Picks The Most Affordable Video Viewing Apps Today</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-unwanted-disk-filling-on-a-windows-system/"><u>Combatting Unwanted Disk Filling on a Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-the-restricted-world-of-windows-11/"><u>Delving Into the Restricted World of Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller/"><u>Exploring the New Frontier A Comparative Study on TikTok & Triller</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-robloxs-access-denied-error-403-on-windows/"><u>How to Overcome Roblox's Access Denied (Error 403) on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-of-breed-premium-4k-camera-mounts-for-pros/"><u>In 2024, Best of Breed Premium 4K Camera Mounts for Pros</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v29-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V29 Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-tech-horizons-toms-comprehensive-hardware-guide/"><u>Navigating New Tech Horizons: Tom's Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wsl-2-error-4294967295-in-windows-environment/"><u>Overcoming WSL 2 Error 4294967295 in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-to-open-system-configuration/"><u>Simple Steps to Open System Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-google-play-in-w11/"><u>Step-by-Step Guide to Google Play in W11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-complete-drivers-handbook-to-unlocking-seagate-backup-plus-potential-fresh-insights/"><u>The Complete Driver's Handbook to Unlocking Seagate Backup Plus Potential - Fresh Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/year-end-splurge-612-on-lifetime-windows-10-bf-day/"><u>Year-End Splurge: $6.12 on Lifetime Windows 10 BF Day</u></a></li>
 </ul></div>
 

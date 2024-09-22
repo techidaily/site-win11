@@ -1,7 +1,7 @@
 ---
 title: "Installing the Crew Add-On Successfully: A Step-by-Step Guide for Kodi Users (Nexus/Matrix)!"
-date: 2024-09-10 15:35:39
-updated: 2024-09-11 10:28:22
+date: 2024-09-17T05:31:16.506Z
+updated: 2024-09-22T05:03:35.461Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867eadfe8568f79af44cbea910.jpg
@@ -70,6 +70,13 @@ WonderFox Free HD Video Converter Factory is the best free video editor for Wind
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Free Video Editor fot Windows 10/11
 
 To edit a video on Windows 10 PC, I highly recommend using [**WonderFox Free HD Video Converter Factory**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). You can use it to trim, crop, [rotate videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), and so forth with just a few simple clicks. The self-explanatory interface and intuitive steps allow you to handle the whole process easily. What’s more, you can also use it to [convert video formats](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) to 500+ presets, [compress large videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) to small sizes, and modify the video and audio parameters.
@@ -87,6 +94,13 @@ Just install this Windows video editor on your PC and learn how to edit a video 
 Launch _**Free HD Video Converter Factory**_ after installing it on your PC. Open the **Converter** window and click the **\+ Add Files** button in the upper right of the interface to import the video you want to edit. Alternatively, you can also hit the center **+** button or drag and drop the video file into the software.
 
 ![How to Edit Videos on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-1.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Edit Videos with Different Tools
 
@@ -114,6 +128,13 @@ Click the **Rotate** (**circle-shaped**) icon next to the scissor icon to enter 
 
 ![Free Video Editing Software for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-4.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**#4\. Crop the Video**_
 
 Enter the **Crop** window by clicking the fourth icon on the toolbar. It offers [two video cropping modes](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) that allow you to freely drag the dotted box or manually input the resolution to select the crop area under **Free Aspect Ratio** or choose one common fixed aspect ratio from the drop-down list under **Fixed Aspect Ratio**. After that, you can also fine-tune the crop area for more accurate capture. Then click **OK** to go back.
@@ -138,11 +159,25 @@ Click the last icon on the toolbar to expand the **Metadata** window. Here you c
 
 ![How to Edit a Video on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-8.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**#8\. Other Practical features**_
 
 Besides these exemplified editing features, this Windows 10 video editor also allows you to [attach subtitles to videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), and add or [remove the audio tracks from video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/).
 
 ![Free Video Editing Software for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-9.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Choose a Preferred Output Format
 
@@ -210,11 +245,30 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-twist-your-content-strategy-inverting-videos-for-instagram-for-2024/"><u>[New] Twist Your Content Strategy Inverting Videos for Instagram for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-joke-geniuses-at-your-service-free-of-charges/"><u>[Updated] 2024 Approved Joke Geniuses at Your Service Free of Charges</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-xs-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone XS Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-borrow-without-cost-images-from-leading-youtubers-archives/"><u>In 2024, Borrow Without Cost Images From Leading YouTubers' Archives</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>In 2024, Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-karaoke-tracks-from-youtube-without-restrictions/"><u>Step-by-Step Guide: Downloading Karaoke Tracks From YouTube Without Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-process-for-clipping-movies-at-15-second-markers-the-ultimate-tutorial/"><u>Step-by-Step Process for Clipping Movies at 15-Second Markers: The Ultimate Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-efficiently-reducing-file-size-using-adobe-media-encoder/"><u>Step-by-Step Tutorial on Efficiently Reducing File Size Using Adobe Media Encoder</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamlining-content-sharing-on-discord-with-ease-and-finesse/"><u>Streamlining Content Sharing on Discord with Ease and Finesse</u></a></li>
+<li><a href="https://win11.techidaily.com/the-six-leading-compact-video-editor-tools-for-seamless-editing-on-the-go/"><u>The Six Leading Compact Video Editor Tools for Seamless Editing on the Go</u></a></li>
+<li><a href="https://win11.techidaily.com/top-ts-encoder-swift-and-simple-video-conversion-fromto-ts-format/"><u>Top TS Encoder: Swift & Simple Video Conversion From/To TS Format</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-your-music-collection-into-ogg-format-at-no-cost-a-simple-guide-on-mp3-to-ogg-transformation/"><u>Turn Your Music Collection Into Ogg Format at No Cost: A Simple Guide on MP3-to-Ogg Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-8-screen-recorder-apps-compatible-with-mac-and-windows-pc-top-picks-for-easy-recording/"><u>Ultimate 8 Screen Recorder Apps Compatible with Mac & Windows PC: Top Picks for Easy Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimateglobalvision-select-live-and-home-channels-together-for-2024/"><u>UltimateGlobalVision Select Live and Home Channels Together for 2024</u></a></li>
+</ul></div>
+

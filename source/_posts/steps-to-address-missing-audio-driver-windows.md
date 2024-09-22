@@ -1,7 +1,7 @@
 ---
 title: Steps to Address Missing Audio Driver Windows
-date: 2024-09-09T17:34:29.194Z
-updated: 2024-09-16T20:12:06.703Z
+date: 2024-09-21T10:12:24.776Z
+updated: 2024-09-22T02:54:38.495Z
 tags:
   - windows10
   - windows11
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 8. Once installed, close **Device Manager**. This should fix the error and restore audio on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Install the Generic Audio Device Driver Using Device Manager
@@ -114,9 +114,25 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 1. Next, select the **Install the hardware that I manually select from a list (Advanced)** option.  
 ![device manager install hardware that i manually select from list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-install-hardware-that-i-manually-select-from-list.jpg)
 2. Click **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under **Common hardware types**, scroll down and select **Sound, video and game controllers.**  
 ![device manager add legacy hardware common hardware types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-add-legacy-hardware-common-hardware-types.jpg)
 4. Click **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select **Generic USB Audio** under **Manufacturer**. In the right pane, selec**t USB Audio OEM Device.**  
 ![device manager generic usb device audio legacy hardware add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-generic-usb-device-audioi-legacy-hardware-add.jpg)
 6. Click **Next**.
@@ -126,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ## 4\. Check if Your Audio Device Is Disabled
 
 ![enable audio device paly sound windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-audio-device-paly-sound-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check if you have accidentally disabled your audio device. While the audio troubleshooter should be able to detect and recommend the same, you can also enable the audio device manually.
 
@@ -156,27 +165,21 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ![Windows Audio Endpoint Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service.jpg)
 3. Next, locate and right-click on **Windows Audio Endpoint Service Builder.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select **Properties** from the context menu.  
 ![Windows Audio Endpoint Service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-startup-type-automatic.jpg)
 5. Click the drop-down for **Startup type** and select **Automatic**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **OK** to save the change.  
 ![Windows Audio Endpoint Service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-restart.jpg)
 7. Right-click on **Windows Audio Endpoint Builder** service again and then select **Restart**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Next, repeat the steps for the **Windows Audio service.**
 9. Once done, close the Services snap-in.
 
@@ -186,22 +189,16 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  To fix the problem, disable or remove any driver update utility such as Avast Driver Updater installed on your PC. Then run the audio troubleshooter again to see if that helps resolve the issue. Sometimes, you may need to remove the updater app to disable it completely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Repair the Windows Image With DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/dism-scan-health-restore-health-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Deployment Image Service Management (DISM) is a built-in Windows image repair command-line utility. If the audio problem is triggered by an issue with your system image, this tool can repair the image to restore the audio functionality on your PC.
 
@@ -228,17 +225,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  This error occurs when Windows fails to detect your connected audio devices. It can be a temporary glitch, a driver-related issue, or, in some cases, caused by system file corruption. Here are a few troubleshooting steps to help you fix the No Audio Output Device installed error on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-exclusive-list-the-most-reliable-10-vimeo-downloader-apps/"><u>[New] 2024 Approved Exclusive List The Most Reliable 10 Vimeo Downloader Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-foremost-5-online-video-editors/"><u>In 2024, Foremost 5 Online Video Editors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-12-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 12 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-winstall-for-bulk-app-setup-in-the-latest-windows-11/"><u>Leveraging Winstall for Bulk App Setup in the Latest Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/longer-security-patch-cycle-what-you-need-to-know-about-windows-11-h2/"><u>Longer Security Patch Cycle: What You Need to Know About Windows 11 H2</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/professional-footage-integrating-watermarks-and-logos-into-yt-videos/"><u>Professional Footage Integrating Watermarks and Logos Into YT Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/unstrand-your-game-remedy-xbox-error-in-windows-operating-systems/"><u>Unstrand Your Game: Remedy Xbox Error in Windows Operating Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -246,3 +232,23 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/effortlessly-add-a-pcmcia-adapter-to-your-computer-using-windows-quick-and-effective-tutorials/"><u>Effortlessly Add a PCMCIA Adapter to Your Computer Using Windows – Quick & Effective Tutorials!</u></a></li>
+<li><a href="https://win11.techidaily.com/flacitunesmp3/"><u>FLAC形式からiTunes対応のMP3への完全ガイド変換</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-steps-for-transferring-films-onto-your-portable-usb-flash-drive/"><u>Guide: Steps for Transferring Films Onto Your Portable USB Flash Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/how-does-handbrake-enable-video-rotation-and-flipping-techniques/"><u>How Does Handbrake Enable Video Rotation and Flipping Techniques?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-10-online-stores-for-personalized-box-designs/"><u>In 2024, Top 10 Online Stores for Personalized Box Designs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-cyberthieves-to-exploit-chatgpt-for-financial-frauds-and-computer-intrusions/"><u>Is It Possible for Cyberthieves to Exploit ChatGPT for Financial Frauds and Computer Intrusions?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-driver-update-procedures-tips-and-tricks-for-windows-10-users/"><u>Latest Epson Driver Update Procedures: Tips & Tricks for Windows 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-dvd-ripping-for-pcs-and-macs-comprehensive-step-by-step-instructions/"><u>Mastering the Art of DVD Ripping for PCs & Macs: Comprehensive Step-by-Step Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-windowsgif/"><u>Microsoft Windowsインターフェース内で簡単に動く画像(GIF)を制作するためのガイド</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-tecno-pop-8-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Pop 8 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/public-vs-closed-ai-collaborative-versus-privatized-worlds/"><u>Public Vs. Closed AI: Collaborative versus Privatized Worlds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-14-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 14 Plus Making It Possible</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-preserving-avi-video-clarity-while-reducing-file-size-in-windows-10/"><u>Ultimate Guide: Preserving AVI Video Clarity While Reducing File Size in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/iuodkplusodhplusocquobruocsoodroodvoocueocseodvoodqpluswkieapmpluswfpemwgdog44gz44g544gm44gr5b2556ul44gk55m96bus5yyw5pa55rovig/"><u>ビデオのグレースケール変換入門: すべてに役立つ白黒化方法</u></a></li>
+</ul></div>
+

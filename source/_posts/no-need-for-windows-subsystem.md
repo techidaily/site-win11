@@ -1,0 +1,121 @@
+---
+title: No Need for Windows Subsystem
+date: 2024-09-19T22:03:58.018Z
+updated: 2024-09-21T20:06:20.179Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes No Need for Windows Subsystem
+excerpt: This Article Describes No Need for Windows Subsystem
+keywords: WS-Free Usage,OSAvoid Windows,No Windows Subsys,SubsysElimination,PCOSfreeChoice,LinuxSubsysNoNeed,BypassWindowsSubs
+thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad53016173b55a4a0650b3071.jpg
+---
+
+## No Need for Windows Subsystem
+
+ The Microsoft Windows Subsystem for Linux (WSL) is a feature of Microsoft Windows 10 and 11 that enables users to run Linux distributions (Ubuntu, Debian, etc.) on their PC. Many users have been asking whether they need WSL.
+
+ The short answer is no, you don't. But if you wanted to know why, read on as we explore why you don't need WSL.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## What Is Windows Subsystem for Linux (WSL)?
+
+![windows subsystem for linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-linus-1.jpg)
+
+ WSL is a Microsoft Windows feature that allows you to run Linux software natively on your machine. It's not a full Linux distribution, but rather an[emulation layer](https://www.makeuseof.com/tag/how-does-emulation-work/) that runs inside of Windows and lets you run Linux applications alongside other programs.
+
+ Many popular open-source applications aren't yet available for Windows. Even if they are, they may not work correctly due to missing dependencies or other issues. WSL helps solve this problem by providing access to many common UNIX tools like grep and sed, which can't be run directly from within Windows itself.
+
+ WSL was mainly designed with web developers in mind. Many developers work on Linux, but they need to test their websites on Windows to make sure they look right. WSL lets them do this without needing to switch back and forth between operating systems. It also provides access to a full version of Bash (which is the default shell for many Linux distros), as well as its underlying toolset.
+
+## What Are the Advantages of WSL?
+
+ As much as you don't need WSL, there are some upsides to using it.
+
+* It's easy to get started. All you need is a Windows 10/11 machine, an internet connection, and a little bit of time.
+* It's easy to use. Once installed, it works just like any other Linux distribution would--you can run commands or scripts as if they were natively installed on your machine (which they are!). You can also install new applications through the command line using apt-get or yum commands just like any other Linux distribution would allow you to do so too! What else could be better than that?
+* It's easy to install: If installing WSL wasn't already simple enough, Microsoft has made it even easier by providing an installer that guides users through each step needed before installing WSL on their computers--and even includes troubleshooting tips if something goes wrong during the installation process!
+
+## Disadvantages of WSL
+
+ WSL is a fine tool, but it's not for everyone. Here are a few of the downsides:
+
+* Performance is slower than a virtual machine or running Linux natively on your hardware. WSL uses software emulation to run Linux programs, which can be slow compared to running them directly on your computer's hardware.
+* Not compatible with all Linux programs. While many popular applications like Firefox and GIMP run fine in WSL, some don't work at all (for example Ubuntu-based distributions such as Mint or Lubuntu).
+* It doesn't truly integrate with Windows itself—you still have separate instances of Bash and Windows Explorer open at all times when using this feature; there's no seamless integration into one cohesive operating system environment.
+
+ That last point is perhaps the biggest shortcoming of using WSL. While WSL can be configured to read/write to the Windows file system (and vice-versa), that's all it can do. Your Linux programs won't have access to Windows, and your Windows programs won't have access to Linux.
+
+ Let's say for example, after installing WSL, you try to run apt-get in the Windows command line. It won't work. You'll need to use apt-get from your Linux instance.
+
+ Your[system PATHs are also completely separate](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) when using WSL. So if you install a program like Node just on the Windows side, none of the commands will work in WSL unless you separately install Node on Linux.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Are the Alternatives to WSL?
+
+![Git bash move to destination directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/git-bash-move-to-directory.png)
+
+ If you're an experienced Linux user unfamiliar with the Windows command line, there are other options for running Linux/Bash on your Windows machine.
+
+* **Git Bash:** This is a popular terminal emulator for Windows systems that allows users to run bash scripts and commands in a native environment. It's available as part of the Git for Windows app or can be downloaded separately from[the official Git Bash download page](https://git-scm.com/downloads) . Unlike WSL, Git Bash integrates with the Windows system PATH. This can be more practical in a development environment because you can use many of the Linux commands, while still having access to your Windows programs.
+* **Cygwin:** This suite provides a Unix-like environment on top of Windows, including tools such as grep, awk, and sed; it also includes OpenSSH server software so you can access your home computer remotely via SSH when working from another computer on your network (or remotely). You can visit[the Cygwin website](https://www.cygwin.com/) for more information.
+* **Linux in a VM:** There are many virtualization programs out there. You could install the[VMware Workstation Player](https://www.vmware.com/uk/products/workstation-player.html) free edition ($0) or[VirtualBox](https://www.virtualbox.org/) ($0) on your PC then download an ISO image file containing Ubuntu 18 LTS (or whatever flavor appeals most).
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## WSL Is a Nice Feature... but It Isn’t Essential
+
+ In summary, WSL is a nice option but not a necessity if you're used to working in a Linux environment. If you want access to the thousands of open-source projects out there and don't mind spending some extra time learning how to use them, WSL is worth it. But if you simply want to run one or two command-line utilities from time to time, then it's probably not worth investing in yet another set of tools for your toolbox just yet.
+
+ WSL is not for everyone. It's a bit of a niche tool, designed for developers who need to run Linux-based software on Windows 10 and 11 machines. If you're looking for something that will make your PC faster, more secure, or easier to use then WSL probably isn't going to help much at all.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-clandestine-watching-of-stories-by-the-best-5-apps/"><u>[New] Clandestine Watching of Stories by the Best 5 Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-soniccapture-pro-review-and-download-steps/"><u>[New] In 2024, SonicCapture Pro Review & Download Steps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>[New] In 2024, The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategies-to-purge-youtubes-video-buffer-list/"><u>[Updated] Strategies to Purge YouTube's Video Buffer List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-ae-templates-for-aspiring-designers/"><u>2024 Approved Top 20 AE Templates for Aspiring Designers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dramatic-channel-reduction-fubotv-drops-19-key-discovery-networks/"><u>Dramatic Channel Reduction: FuboTV Drops 19 Key Discovery Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gui-add-folders-to-windows-11s-taskbar/"><u>Elevate Your GUI - Add Folders to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oppo-reno-8t-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-fodt-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .fodt file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-htc-u23-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from HTC U23 to iPad | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-type-fixes-for-windows-11s-x80049dd3-error/"><u>Mastering the Art of Type Fixes for Windows 11'S X80049DD3 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-windows-11s-unwanted-apps-quickly/"><u>Navigate Through Windows 11'S Unwanted Apps Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eradicate-error-80080300-in-windows-team-collaboration/"><u>Steps to Eradicate Error 80080300 in Windows Team Collaboration</u></a></li>
+<li><a href="https://win11.techidaily.com/the-components-configuration-console-in-windows-explored/"><u>The Components Configuration Console in Windows Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-managing-printers-in-windows-1011/"><u>The Essentials of Managing Printers in Windows 10/11</u></a></li>
+</ul></div>
+

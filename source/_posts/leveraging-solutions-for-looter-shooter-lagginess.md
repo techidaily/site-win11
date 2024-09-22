@@ -1,7 +1,7 @@
 ---
 title: Leveraging Solutions for Looter Shooter Lagginess
-date: 2024-09-14T04:08:17.429Z
-updated: 2024-09-17T06:04:16.322Z
+date: 2024-09-19T17:08:07.015Z
+updated: 2024-09-21T17:04:12.413Z
 tags:
   - windows10
   - windows11
@@ -67,18 +67,24 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Cheat Software
 
  League of Legends does not tolerate the use of cheats and hacks to gain an advantage in the game. If you modify game files or use cheat software to hack into the game, League of Legends will not let you in. Due to this, the game may not turn on or get stuck on the loading screen.
 
  If you use any third-party cheat software, turn it off. Also, revert any unauthorized changes you might have made in the game files to gain an unfair advantage.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Relaunch the Game After Closing the Riot and LoL Processes
 
@@ -90,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Free Up System Resources
@@ -103,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
  To see that, open Task Manager and check the CPU, GPU, and RAM usage. If the usage percentage for these resources touches 100% periodically, your hardware is under severe strain. In other words, the game doesn't have access to the required resources to function properly.
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Delete the Config and Logs Folders
 
@@ -125,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Disable Any Active In-Game Overlays
@@ -147,13 +146,20 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 3. Click the **monitor icon** next to League of Legends.  
 ![Disable Discord Overlay for a Specific Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-discord-overlay-for-a-specific-game-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
@@ -174,22 +180,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-content-choosing-right-youtube-duosgroups/"><u>[New] 2024 Approved Elevating Your Content Choosing Right YouTube Duos/Groups</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-live-twitch-streams-top-5-tips/"><u>[New] In 2024, Mastering Live Twitch Streams Top 5 Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-the-maximum-duration-limit-for-instagram-videos/"><u>[Updated] 2024 Approved Navigating the Maximum Duration Limit for Instagram Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-superior-audience-experiences/"><u>2024 Approved Superior Audience Experiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ive-channel-titling-techniques-for-growth/"><u>Creative Channel Titling Techniques for Growth</u></a></li>
-<li><a href="https://win11.techidaily.com/defying-conformity-a-journey-through-edges-microphonecamera-restrictions/"><u>Defying Conformity: A Journey Through Edge's Microphone/Camera Restrictions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-connectivity-hurdles-bluetooth-pin-problems-in-win11win10/"><u>How To Overcome Connectivity Hurdles: Bluetooth Pin Problems in Win11/Win10</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-pro-vs-express-which-video-editing-software-reigns-supreme/"><u>In 2024, Pro Vs. Express Which Video Editing Software Reigns Supreme?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting/"><u>Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-surface-upgrade-compendium-for-improved-functionality/"><u>The Ultimate Surface Upgrade Compendium for Improved Functionality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100i-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100i Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/tutorial-paso-a-paso-adaptar-peliculas-y-series-usando-handbrake-en-tu-tableta-android/"><u>Tutorial Paso a Paso: Adaptar Películas Y Series Usando HandBrake en Tu Tableta Android</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +187,17 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-innovative-approaches-in-micro-cinematography/"><u>In 2024, Innovative Approaches in Micro Cinematography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-switch-saving-gameplay-footage-for-2024/"><u>Mastering Switch Saving Gameplay Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-effective-methods-for-converting-your-wma-audio-to-wav-quality/"><u>Quick & Effective Methods for Converting Your WMA Audio to WAV Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-crafting-tailored-listening-sessions-with-windows-media-player/"><u>Quick Guide to Crafting Tailored Listening Sessions with Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/returning-to-basics-the-revival-of-apples-traditional-roots/"><u>Returning to Basics: The Revival of Apple's Traditional Roots</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-transition-the-ultimate-guide-to-watching-dvds-on-an-ipad/"><u>Seamless Transition: The Ultimate Guide to Watching DVDs on an iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlock-productivity-selecting-the-top-5-mac-snippers-for-2024/"><u>Unlock Productivity Selecting the Top 5 Mac Snippers for 2024</u></a></li>
+</ul></div>
+

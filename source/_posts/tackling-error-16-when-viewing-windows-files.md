@@ -1,7 +1,7 @@
 ---
 title: Tackling Error 16 When Viewing Windows Files
-date: 2024-09-15T05:54:22.005Z
-updated: 2024-09-17T00:29:39.695Z
+date: 2024-09-19T00:32:57.511Z
+updated: 2024-09-22T09:39:58.742Z
 tags:
   - windows10
   - windows11
@@ -75,24 +75,24 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, try to open photos on your external hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable UAC Temporarily
@@ -109,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
  In this article, we explain how to fix this error, so you can view your photos again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-stepwise-approach-to-mastering-vimeo-recording/"><u>[Updated] Stepwise Approach to Mastering Vimeo Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-ios-emulators-reviving-classic-psp-game-experiences-2023-guide-for-2024/"><u>[Updated] Top iOS Emulators Reviving Classic PSP Game Experiences - 2023 Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-restore-distribution-and-catroot2-in-ws11/"><u>Efficiently Restore Distribution & Catroot2 in WS11</u></a></li>
-<li><a href="https://win11.techidaily.com/gentle-resting-practices-for-your-pc/"><u>Gentle Resting Practices for Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your ZTE Axon 40 Lite Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-11x-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme 11X 5G FRP Without Computer</u></a></li>
-<li><a href="https://facebook.techidaily.com/user-skepticism-rises-examining-five-times-facebook-missed-the-target/"><u>User Skepticism Rises: Examining Five Times Facebook Missed the Target</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-code-0x0000004e-issue/"><u>Windows Troubleshooting: Resolving Code 0X0000004E Issue</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +116,23 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-breakthrough-8-creators-dominating-video-space/"><u>[New] Breakthrough 8 Creators Dominating Video Space</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-master-your-mac-the-top-gif-recorder-choices/"><u>[Updated] In 2024, Master Your Mac The Top GIF Recorder Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/1-effortless-conversion-turning-m4a-files-into-mp3-formats-using-free-online-tools/"><u>1. Effortless Conversion: Turning M4A Files Into MP3 Formats Using Free Online Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-the-latest-hp-laserjet-pro-m452dn-printer-software/"><u>How to Obtain the Latest HP LaserJet Pro M452dn Printer Software</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-8-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 8 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-f5-pro-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco F5 Pro 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-time-insights-into-black-survival-continuum/"><u>Navigating Through Time: Insights Into 'Black Survival Continuum'</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/struggling-to-extract-dvds-on-windows-media-player-discover-top-rated-alternatives/"><u>Struggling to Extract DVDs on Windows Media Player? Discover Top-Rated Alternatives!</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-tablets-with-built-in-dvd-player-capability/"><u>Top-Rated Tablets with Built-In DVD Player Capability</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-flv-format-issues-with-lightworks-quick-fixes-for-smooth-editing/"><u>Troubleshooting FLV Format Issues with Lightworks - Quick Fixes for Smooth Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-os-x-mavericks-video-editing-tutorial-mastering-the-basics-for-2024/"><u>Updated OS X Mavericks Video Editing Tutorial Mastering the Basics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-and-streaming-the-ultimate-guide-to-play-dvds-on-an-acer-laptop-running-windows-1011/"><u>USB and Streaming: The Ultimate Guide to Play DVDs on an Acer Laptop Running Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/wonderfox-solves-missing-page-issue-error-code-404-no-more/"><u>WonderFox Solves Missing Page Issue - Error Code 404 No More</u></a></li>
+</ul></div>
+

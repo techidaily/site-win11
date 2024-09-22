@@ -1,7 +1,7 @@
 ---
 title: Optimizing Video Card Memory for Windows 11
-date: 2024-09-15T02:12:00.232Z
-updated: 2024-09-16T21:17:09.842Z
+date: 2024-09-20T18:44:31.388Z
+updated: 2024-09-21T20:56:58.037Z
 tags:
   - windows10
   - windows11
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  Not every CPU or BIOS has this option, though. If you can't change it, there's a workaround that might help you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Faking a VRAM Increase in Windows
 
  Because most integrated graphics solutions automatically adjust to use the amount of system RAM they need, the details reported in the**Adapter Properties** window don't really matter. In fact, for integrated graphics, the**Dedicated Video Memory** value is completely fictitious. The system reports that dummy value simply so games see something when they check how much VRAM you have.
@@ -82,6 +89,13 @@ Head to the following location:
  Select**New > DWORD (32-bit) Value** . Name this**DedicatedSegmentSize** and give it a value, making sure to select the**Decimal** option. In megabytes, the minimum value is**0** (disabling the entry) and the maximum is**512** . Set this value, restart your computer, and see if it helps a game run better. If not, try a higher value and repeat.
 
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
@@ -104,22 +118,21 @@ Head to the following location:
 ![cyberpunk 2077 xbox series x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/cyberpunk-2077.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Conversely, a cheap card with just 2GB of VRAM (or even integrated graphics with 8GB+ of system RAM) is sufficient for playing PC titles from 20-plus years ago. Games back then had nowhere near modern amounts of RAM at their disposal.
 
  Even if you're not interested in gaming, some popular software requires a fair amount of VRAM too. 3D design software like AutoCAD, particularly intense edits in Photoshop, and editing high-quality video will all suffer if you don't have enough video RAM.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much VRAM Do I Need?
 
@@ -157,13 +170,6 @@ Head to the following location:
 
  As long as your computer is within a few years old, you should have no problems watching videos, playing low-intensity games, and working in basic photo and video editing apps with integrated graphics. However, playing the latest graphically impressive games at a comfortable frame rate with integrated graphics is not possible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Now You Understand Video RAM
 
  Now you know what video RAM is, how much you need, and how to increase it. In the end, though, remember that video RAM is a small aspect of your computer's overall performance. A weak GPU wouldn't perform well even with a lot of VRAM.
@@ -185,20 +191,18 @@ Head to the following location:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-seeking-clearance-can-you-upload-media-on-fb/"><u>[Updated] 2024 Approved Seeking Clearance Can You Upload Media on FB?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-epson-ds-530-printer-software-on-win11-64-bit-fresh-release/"><u>Easy Guide to Installing Epson DS-530 Printer Software on Win11 (64-Bit) | Fresh Release</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-launches-new-ar-experiences-on-messenger-what-you-can-do-with-them/"><u>Facebook Launches New AR Experiences on Messenger: What You Can Do With Them</u></a></li>
-<li><a href="https://win11.techidaily.com/host-free-windows-based-gpt-clones-using-gpt4all/"><u>Host Free Windows-Based GPT Clones Using GPT4All</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eliminate-microsoft-store-error-code-0-in-windows-11/"><u>How to Eliminate Microsoft Store Error Code 0 in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 7 Plus to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-critical-stop-error-vgksys-on-your-pc/"><u>How to Resolve the Critical Stop Error (VGK.SYS) on Your PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reverting-to-classic-from-sierra-to-os-x-1010/"><u>In 2024, Reverting to Classic From Sierra To OS X 10.10</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-gpresult-for-dynamic-group-policy-reports/"><u>Leveraging GPResult for Dynamic Group Policy Reports</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-pioneering-artificial-intelligence-hub/"><u>Microsoft’s Pioneering Artificial Intelligence Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-error-403-in-roblox/"><u>Navigating Windows Error 403 in Roblox</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/smooth-gameplay-and-seamless-recordings-by-nvidia-for-2024/"><u>Smooth Gameplay & Seamless Recordings by NVIDIA for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/sprint-past-slow-spots-enhance-win-outlook/"><u>Sprint Past Slow Spots: Enhance WIN Outlook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tech-unity-expert-easeus-reviews/"><u>Tech Unity Expert EaseUS Reviews</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide-for-2024/"><u>Unlocking the World of Sound on iOS Apple' Point-and-Click Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[New] 2024 Approved How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-supreme-sync-audio-player-android-flair/"><u>[New] Supreme Sync Audio Player, Android Flair</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerating-windows-document-analysis/"><u>Accelerating Windows Document Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/corrective-actions-to-prevent-unintended-scrolling/"><u>Corrective Actions to Prevent Unintended Scrolling</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-facebook-collage-in-minutes-for-2024/"><u>Mastering Facebook Collage in Minutes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-account-access-restrictions-post-failed-logon/"><u>Modifying Account Access Restrictions Post-Failed Logon</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-configuration-windows-11-proxies/"><u>Navigating Network Configuration: Windows 11 Proxies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-safest-email-providers-protecting-your-privacy-online/"><u>Top 5 Safest Email Providers: Protecting Your Privacy Online</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-red-flags-before-resetting-windows/"><u>Top 8 Red Flags Before Resetting Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/forming-smartphone-videos-into-earnings-a-2024-guide-to-monetization/"><u>Transforming Smartphone Videos Into Earnings A 2024 Guide to Monetization</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-control-panel-streamlined-techniques/"><u>Unlock Control Panel: Streamlined Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-folder-view-reset-to-default-state/"><u>Windows Folder View Reset to Default State</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Terminal Visual Element
-date: 2024-09-12T20:55:04.481Z
-updated: 2024-09-16T18:29:37.007Z
+date: 2024-09-18T23:11:31.835Z
+updated: 2024-09-21T21:09:43.586Z
 tags:
   - windows10
   - windows11
@@ -81,10 +81,16 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
@@ -105,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
@@ -130,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-thriving-in-the-world-of-youtube-broadcasting-master-class/"><u>[New] 2024 Approved Thriving in the World of YouTube Broadcasting Master Class</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-youtube-the-ultimate-guide-to-earning-for-2024/"><u>[New] Mastering YouTube The Ultimate Guide to Earning for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-from-basic-to-breathtaking-crafting-top-tier-tiktok-videos-using-templates-for-2024/"><u>[Updated] From Basic to Breathtaking Crafting Top-Tier TikTok Videos Using Templates for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-flight-tech-ready-to-buy/"><u>[Updated] Prime Flight Tech Ready to Buy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-system-reactivated-post-failure/"><u>Display System Reactivated Post-Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-to-upgrading-from-hevc-to-av1-video-codec-without-hitches/"><u>Easy Guide to Upgrading From HEVC to AV1 Video Codec Without Hitches</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-methods-for-iphone-users-to-enjoy-ogg-files/"><u>Effortless Methods for iPhone Users to Enjoy OGG Files</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-transformation-mastering-the-switch-from-wmv-to-webm-files/"><u>Effortless Transformation: Mastering the Switch From WMV to WebM Files</u></a></li>
-<li><a href="https://win11.techidaily.com/full-circle-video-spin-mastering-the-art-of-180-degree-video-rotations/"><u>Full-Circle Video Spin: Mastering the Art of 180 Degree Video Rotations</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-effortlessly-view-mts-videos-a-comprehensive-tutorial-for-your-pc-or-mac/"><u>How To Effortlessly View MTS Videos: A Comprehensive Tutorial for Your PC or Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-basics-of-dynamic-media-artistry/"><u>[Updated] In 2024, The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-videos-to-tweenish-animations-for-no-fee/"><u>[Updated] In 2024, Tweeting Videos to Tweenish Animations for No Fee</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-list-of-windows-10-webcam-recorders-for-2024/"><u>[Updated] The Ultimate List of Windows 10 Webcam Recorders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigate-effortlessly-inshots-role-in-video-crafting-on-devices/"><u>In 2024, Navigate Effortlessly Inshot's Role in Video Crafting on Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/insider-knowledge-navigating-the-world-of-windows-keys-and-deals/"><u>Insider Knowledge: Navigating the World of Windows Keys & Deals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rename-user-home-path-a-windows-11-guide/"><u>Rename User Home Path - A Windows 11 Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotify-stability-strategies-preventing-app-crashes-during-iphone-screen-locks/"><u>Spotify Stability Strategies: Preventing App Crashes During iPhone Screen Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-platforms-your-pc-and-galaxy-phone-via-flow/"><u>Uniting Platforms – Your PC and Galaxy Phone Via Flow</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-guide-for-eliminating-update-error-0x80070003/"><u>Winfixer Guide for Eliminating Update Error 0X80070003</u></a></li>
 </ul></div>
 

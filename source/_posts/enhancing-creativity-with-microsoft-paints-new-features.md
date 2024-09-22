@@ -1,0 +1,105 @@
+---
+title: Enhancing Creativity with Microsoft Paint's New Features
+date: 2024-09-17T20:50:08.475Z
+updated: 2024-09-22T09:26:09.768Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Enhancing Creativity with Microsoft Paint's New Features
+excerpt: This Article Describes Enhancing Creativity with Microsoft Paint's New Features
+keywords: Paint Creativity Boost,Paint Creative Tools,Enhance Paint Art,Making Paint Fun,Paint Idea Generation,New Paint Features,Improve Paint Skills
+thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711109cfbd8cfddd28b50dfbe3.jpg
+---
+
+## Enhancing Creativity with Microsoft Paint's New Features
+
+ With the launch of Windows 11, Microsoft finally decided to give the much-needed design overhaul to its popular classic Paint app. Since then, the company has added more features to the app, a significant one being Dark mode where the app adapts the theme based on your system's setting.
+
+ The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Microsoft Paint Gets a Design Overhaul
+
+![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
+
+ The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
+
+ Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
+
+## 2\. Paint's Dark Mode Is Available for Everyone
+
+![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
+
+ After the initial announcement in January this year, the Dark mode support for the Paint app is now rolling out for the stable release. The app works independently of Windows updates, so you'll need to check the Microsoft Store to install the latest updates available for the Paint app.
+
+ To enable Dark mode, click the new **Settings** button (Gear icon) in the top-right corner of the Paint app. Click on **App theme** to expand the themes section. Select **Dark** to enable dark mode under **Appearance**. Alternatively, set it to "**System setting**" to let the app adapt to [Windows 11's dark mode preference](https://www.makeuseof.com/windows-11-dark-mode/).
+
+ Dark Mode is available on Paint version 11.2304.17.0 and above.
+
+## 3\. A Centered Canvas for Paint
+
+![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
+
+ The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
+
+ A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Enhanced Zoom Controls and Accessibility
+
+![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
+
+ The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
+
+ Microsoft has also updated the Image Properties dialog to match the style of Windows 11\. Moreover, the app now features improved access keys and shortcut support for enhanced accessibility with the keyboard. Since most [keyboard shortcuts in Paint](https://www.makeuseof.com/microsoft-paint-keyboard-shortcuts/) are inherited from the previous version, getting used to the keyboard shortcuts shouldn't be a problem.
+
+ While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Classic Paint App Is Here to Stay
+
+ Microsoft’s continued support to make the classic Paint app match the Windows 11 design language means the app will continue to be a part of the Windows operating system. With the new improvements, MS Paint will remain a good option for basic editing, including quickly drafting user guides, annotating screen captures, or even converting images to different formats.
+
+ The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-captivating-content-incorporate-these-20-magic-words/"><u>[Updated] Captivating Content Incorporate These 20 Magic Words</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v30-lite-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V30 Lite 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-write-access-for-files-on-windows-1011/"><u>Enabling Write Access for Files on Windows 10/11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-image-clarity-solutions-for-iphones-capturing-fewer-megapixels/"><u>Enhancing Image Clarity: Solutions for iPhones Capturing Fewer Megapixels</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-absence-of-critical-dll-mfc71u-on-pcs/"><u>Fixing Absence of Critical DLL: Mfc71u on PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-pcs-premier-ps3-imitators-ranked-top-5-choices/"><u>In 2024, PC's Premier PS3 Imitators Ranked Top 5 Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-your-gaming-pace-with-valorant-advice/"><u>Stabilizing Your Gaming Pace with Valorant Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/taskmasters-triumph-essential-apps-to-elevate-workday-productivity/"><u>Taskmaster's Triumph: Essential Apps to Elevate Workday Productivity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-13-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 13 Is Unlocked</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-x-flips-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo X Flips Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-how-to-enable-the-text-to-speech-function-on-iphone/"><u>Updated How to Enable the Text to Speech Function on iPhone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

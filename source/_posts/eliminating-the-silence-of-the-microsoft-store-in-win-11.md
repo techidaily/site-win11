@@ -1,7 +1,7 @@
 ---
 title: Eliminating the Silence of the Microsoft Store in Win 11
-date: 2024-09-15T04:45:23.792Z
-updated: 2024-09-17T09:53:07.195Z
+date: 2024-09-16T04:57:48.321Z
+updated: 2024-09-22T07:06:04.868Z
 tags:
   - windows10
   - windows11
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 `WSReset.exe`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Try Some General Windows Troubleshooting Tips
 
  There are a few Windows-based fixes you can try that fix general Windows Store issues. So, give these a try:
@@ -83,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disable Any Active Proxy Servers
 
  A proxy server is an intermediary, or middleman, for handling PC client resource requests. Enabling a proxy server might be good for bypassing geographical website restrictions, but it’s a common cause of Microsoft Store errors such as 0x00000000\. So, we recommend that you [disable proxy server settings](https://www.makeuseof.com/windows-11-disable-proxy/) on your Windows 11/10 PC if they’re enabled to resolve error 0x00000000\.
@@ -97,25 +83,33 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reinstall the Microsoft Store
 
 ![An uninstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-apppackage-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Reinstalling Microsoft Store is a slightly more drastic potential fix for error 0x00000000 to apply when others fail. This potential resolution will replace the Microsoft Store’s files.
 
  However, you cannot simply uninstall the Microsoft Store in Settings and download the app from a web source. Instead, you’ll need to remove that app and reinstall it again by inputting PowerShell commands. Our article about [how to reinstall Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes step-by-step instructions for applying this potential error 0x00000000 solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Set Up a New Windows User Account
 
@@ -124,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  You might need to fix error 0x00000000 because of a corrupted user account. Setting up a fresh new user account would then be a probable fix. Note that you can create a new user account and transfer the data from the old one to it.
 
  Our guide on [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) explains how to apply such a potential resolution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Perform a Windows System Restore
 
@@ -135,19 +136,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-restore-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Do an In-Place Windows Upgrade
 
  An in-place upgrade effectively installs a new copy of Windows. That may sound like a drastic solution but applying it won’t affect user files or third-party software installed on your PC. Furthermore, upgrading Windows in such a way will probably fix any system issues causing error 0x00000000\.
@@ -157,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Screenshot captured by Jack Slater - No attribution required
@@ -175,20 +163,6 @@ Screenshot captured by Jack Slater - No attribution required
 
  Users can’t download new apps or updates from the Microsoft Store in Windows 11/10 because of error 0x00000000\. Thus, error 0x00000000 is a big deal for users who get most of their software from Microsoft’s storefront. This is how you can resolve Microsoft Store’s error x00000000 in Windows 11 and 10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[New] 2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/op-8-strategies-for-striking-thumbnails-in-youtube-circles-for-2024/"><u>[New] Top 8 Strategies for Striking Thumbnails in YouTube Circles for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-elite-audio-modifying-tools-tailored-to-youtube-creators/"><u>2024 Approved Elite Audio Modifying Tools Tailored to YouTube Creators</u></a></li>
-<li><a href="https://media-tips.techidaily.com/accelerate-gif-performance-discover-the-four-key-ways-to-improve-load-times-on-windows-and-macos/"><u>Accelerate GIF Performance: Discover the Four Key Ways to Improve Load Times on Windows & macOS</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nokia-c12-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nokia C12</u></a></li>
-<li><a href="https://win11.techidaily.com/infiltrating-restricted-windows-11-themes-through-registry-paths/"><u>Infiltrating Restricted Windows 11 Themes Through Registry Paths</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11-for-home-interface/"><u>Navigating Windows 11 for Home Interface</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-11-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 11</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-controlling-cpu-cooling-in-win10win11/"><u>Understanding and Controlling CPU Cooling in Win10/Win11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +170,19 @@ Screenshot captured by Jack Slater - No attribution required
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-download-updated-drivers-for-hp-laptops-under-windows-now/"><u>Ensure Optimal Performance: Download Updated Drivers for HP Laptops Under Windows Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a05s-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A05s Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-x-apply-stencils-making-idiot-proof-temperature-improvement-easier-than-ever-coming-soon/"><u>Introducing X-Apply Stencils: Making 'Idiot-Proof' Temperature Improvement Easier than Ever - Coming Soon!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-converting-psp-pmf-movies-into-high-quality-mp4-format-with-sound/"><u>Step-by-Step Guide to Converting PSP PMF Movies Into High-Quality MP4 Format With Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-files-into-avi-format-with-premium-quality-offline-and-online-methods/"><u>Step-by-Step Guide: Transforming MKV Files Into AVI Format with Premium Quality Offline & Online Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-ace-2v-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Ace 2V Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11.techidaily.com/top-platforms-showcasing-real-life-japan-no-script-just-reality/"><u>Top Platforms Showcasing Real-Life Japan: No Script, Just Reality</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-quicktimes-inability-to-open-mov-files-3-effective-methods/"><u>Troubleshoot QuickTime's Inability to Open MOV Files - 3 Effective Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-mp4-format-compatibility-with-apple-tv-for-smooth-viewing-experience/"><u>Troubleshooting MP4 Format Compatibility with Apple TV for Smooth Viewing Experience</u></a></li>
+</ul></div>
+

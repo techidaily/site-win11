@@ -1,7 +1,7 @@
 ---
 title: Eliminating uTorrent Download Freeze Phenomenon on PCs
-date: 2024-09-12T01:05:14.847Z
-updated: 2024-09-16T22:23:18.936Z
+date: 2024-09-19T07:56:08.224Z
+updated: 2024-09-22T00:14:45.540Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![Opening the Preferences Settings in the Options Dropdown in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Opening-the-Preferences-Settings-in-the-Options-Dropdown-in-uTorrent-Client-for-Desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, click the **BitTorrent** tab in the left sidebar of the **Preferences** window. Finally, select **Forced** in the **Outgoing** dropdown menu in the **Protocol Encryption** section.
 
 ![Selecting the Forced in the Outgoing Dropdown Menu in the Protocol Encryption Section of the BitTorrent Tab in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Selecting-the-Forced-in-the-Outgoing-Dropdown-Menu-in-the-Protocol-Encryption-Section-of-the-BitTorrent-Tab-in-the-uTorrent-Client-for-Desktop.jpg)
@@ -73,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![Checking the Boxes for Enable UPnP Port Mapping and Enable NAT-PMP Port Mapping in the Connections Tab of uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Checking-the-Boxes-for-Enable-UPnP-Port-Mapping-and-Enable-NAT-PMP-Port-Mapping--in-the-Connections-Tab-of-uTorrent-Client-for-Desktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Interference From Your Windows Firewall or Antivirus
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 * Disable your antivirus temporarily if you are using one. If you can't do that, you should at least whitelist the uTorrent client through your antivirus settings.
 * Navigate to **Options > Preferences** and select the **Connection** tab in the left panel. On that page, check the box for **Add Windows Firewall exception**.  
 ![Checking the Box for Add Windows Firewall Exception in the Connections Tab of uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Checking-the-Box-for-Add-Windows-Firewall-Exception-in-the-Connections-Tab-of-uTorrent-Client-for-Desktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check the Storage Space Available
 
@@ -111,25 +111,19 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![Clicking on the Update Tracker Option by Right-clicking on the Tracker in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Clicking-on-the-Update-Tracker-Option-by-Right-clicking-on-the-Tracker-in-the-uTorrent-Client-for-Desktop.jpg)
 2. If a few trackers remain stuck after updating them, right-click on them and select **Remove Tracker** from the menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking on the Delete Tracker Option by Right-clicking the Tracker in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Clicking-on-the-Delete-Tracker-Option-by-Right-clicking-the-Tracker-in-uTorrent-Client-for-Desktop.jpg)
 3. The next step is to add torrent trackers with high uptime in the uTorrent client. So, find and copy the torrent trackers from any trusted website (such as [FossBytes](https://fossbytes.com/torrent-trackers-list/)). Then, right-click the file stuck on downloading in the uTorrent client and select **Properties**.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Opening Properties of Downloaded File by Right-Clicking on the File in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Opening-Properties-of-Downloaded-File-by-Right-Clicking-on-the-File-in-the-uTorrent-Client-for-Desktop.jpg)  
  After that, paste the copied list of torrent trackers at the end of the **Trackers** box in the Properties window.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Adding the List of Torrent Trackers in the Trackers Box in the Properties Window of Downloaded File in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Adding-the-List-of-Torrent-Trackers-in-the-Trackers-Box-in-the-Properties-Window-of-Downloaded-File-in-uTorrent-Client-for-Desktop.jpg)
 
 ## 6\. Try the Network Configuration Test
@@ -157,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 3. If the box next to **Maximum upload rate** has any value other than 0, remove it and enter 0.  
 ![Resetting the Gloal Maximum Upload Rate in uTorrent's Bandwidth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resetting-the-gloal-maximum-upload-rate-in-utorrent-s-bandwidth-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Wait for the Seeders or Peers to Go Live
 
  Seeders and peers are the users who share files in a torrent swarm for others to download. Seeders have the fully downloaded torrent file, and peers share the portion they have downloaded while downloading the remaining chunks.
@@ -169,16 +170,10 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 * Choose a torrent file with more seeders and fewer leechers—users who do not share the file but only cause strain on the swarm.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Clear the Peer List
@@ -197,17 +192,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
  In this article, we will discuss why uTorrent isn't downloading files or is having trouble connecting to peers and how to fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/void-common-mistakes-mastering-youtube-tags-wisely/"><u>[New] Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-7-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 7 Without Previous Owner?</u></a></li>
-<li><a href="https://win11.techidaily.com/make-file-explorer-more-informative-diskspace-insight-in-menu/"><u>Make File Explorer More Informative: Diskspace Insight in Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/permanent-deletion-made-simple-configuring-the-desktop-trash-on-windows-pcs-11/"><u>Permanent Deletion Made Simple: Configuring the Desktop Trash on Windows PCs (11)</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-sight-restart-gpu-in-windows-11/"><u>Regain Sight: Restart GPU in Windows 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-comprehensive-checklist-for-perfecting-your-reddit-posts/"><u>The Comprehensive Checklist for Perfecting Your Reddit Posts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-store-error-0x80n2ee7/"><u>Troubleshooting and Solutions for Windows Store Error 0X80n2ee7</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,3 +199,21 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-record-and-save-your-workscreen-on-windows-8/"><u>[New] In 2024, How to Record and Save Your Workscreen on Windows 8</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-leading-tech-the-top-10-4k-camera-phones-reviewed/"><u>[New] In 2024, Leading Tech The Top 10 4K Camera Phones Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-performance-frames-per-second-slow-motion/"><u>[New] Peak Performance Frames Per Second Slow Motion</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44kq44oz44op44kk44oz44gn5psplus6ycb5asn5a2m6kyb5bqn44ks6kiy6yyy44gz44kl44gf44kb44gu5b2556ul44gk44os44oz44oi44go44kz44oe44cn/"><u>「オンラインで放送大学講座を記録するための役立つヒントとコツ」</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-hd-content-transfer-no-loss-h2-cuffing-guide-using-windows-tools/"><u>Accelerate Your HD Content Transfer: No-Loss H.2 Cuffing Guide Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/ape-to-wav-file-transformation-techniques-for-windows-macos-smartphones-and-online-tools/"><u>APE to WAV File Transformation Techniques for Windows, macOS, Smartphones & Online Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-off-the-touchscreen-controls-in-windows-10-when-using-a-mouse/"><u>How to Turn Off the Touchscreen Controls in Windows 10 when Using a Mouse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-effortless-photo-and-video-file-transfers-in-windows-10-for-2024/"><u>In-Depth Guide to Effortless Photo & Video File Transfers in Windows 10 for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/netgear-a6100-step-by-step-guide-to-downloading-and-updating-drivers-in-windows/"><u>Netgear A6100: Step-by-Step Guide to Downloading & Updating Drivers in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-how-to-pair-a-wireless-mouse-with-windowsmac-os-devices/"><u>Ultimate Tutorial: How to Pair a Wireless Mouse with Windows/Mac OS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-the-essence-of-meta-in-video-games-compliance-matters/"><u>What Is the Essence of Meta in Video Games? Compliance Matters</u></a></li>
+<li><a href="https://techidaily.com/z50-ultra-music-recovery-recover-deleted-music-from-z50-ultra-by-fonelab-android-recover-music/"><u>Z50 Ultra Music Recovery - Recover Deleted Music from Z50 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/44kq44oz44op44kk44oz44gn5l244gi44kl6zu75a2q5rg6566x44k144o844ot44k5/"><u>オンラインで使える電子決算サービス</u></a></li>
+</ul></div>
+

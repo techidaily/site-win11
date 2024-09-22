@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Help Application Crash
-date: 2024-09-11T05:54:14.314Z
-updated: 2024-09-17T02:42:23.478Z
+date: 2024-09-20T01:00:28.622Z
+updated: 2024-09-22T01:48:07.175Z
 tags:
   - windows10
   - windows11
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 2. Choose the **Disconnect** button to turn off the VPN.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
@@ -99,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
  You may not know that the Get Help app is not a full-fledged Windows app. Instead, it's a simple web app that displays the in-app content from Microsoft's server. For this, the app uses something called Microsoft Edge WebView.
@@ -112,22 +119,16 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -137,20 +138,13 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
@@ -161,23 +155,6 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  So, let's look at how to fix the Get Help app issues on Windows and make the troubleshooting experience a breeze.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-backtracking-visual-vectors-techniques-for-tracking-originals-in-instagram-posts-for-2024/"><u>[New] Backtracking Visual Vectors Techniques for Tracking Originals in Instagram Posts for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-illuminati-the-top-25-visionaries-you-need-to-see/"><u>[New] Instagram Illuminati The Top 25 Visionaries You Need to See</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>[Updated] In 2024, Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-analyzing-and-ranking-lowest-priced-cloud-services/"><u>2024 Approved Analyzing & Ranking Lowest-Priced Cloud Services</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/download-4k-video-downloader-at-no-charge-a-step-by-step-guide-to-acquiring-free-software-access-codes/"><u>Download 4K Video Downloader at No Charge: A Step-by-Step Guide to Acquiring Free Software Access Codes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-windows-11-update-error-0x80246007/"><u>How To Overcome Windows 11 Update Error 0X80246007</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-issues-after-patching-the-escapists-game-on-windows-systems/"><u>How to Resolve Issues After Patching 'The Escapists' Game on Windows Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Reno 11 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-reminders-seamlessly-in-windows-os/"><u>Integrating Reminders Seamlessly in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-to-navigate-through-onedrive-error-messages/"><u>Master Plan to Navigate Through OneDrive Error Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-eradicating-windows-mail-problem-0x80072746/"><u>Quick Guide: Eradicating Windows Mail Problem 0X80072746</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-workflow-batch-files-via-task-scheduler/"><u>Streamlining Your Workflow: Batch Files via Task Scheduler</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-web-speed-imbalance-between-pc-phone/"><u>Taming Web Speed Imbalance Between PC, Phone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +162,22 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>[New] 2024 Approved Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-ways-for-altering-clowns-windows-voice/"><u>[New] Simplified Ways for Altering Clowns' Windows Voice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>[Updated] Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-frontier-fantasies-selecting-the-most-impressive-titles/"><u>2024 Approved Frontier Fantasies Selecting the Most Impressive Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-crystal-clear-videos-tips-for-enhancing-visuals-and-ensuring-flawless-streaming/"><u>Achieve Crystal Clear Videos: Tips for Enhancing Visuals & Ensuring Flawless Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/asf-to-mp4/"><u>ASF to MP4変換:最優秀ソフトで速やかな高画質変換</u></a></li>
+<li><a href="https://win11.techidaily.com/best-8-no-cost-applications-for-removing-video-watersheds-a-comprehensive-offline-and-online-guide/"><u>Best 8 No-Cost Applications for Removing Video Watersheds: A Comprehensive Offline and Online Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/best-free-streaming-platforms-for-downloading-popular-korean-dramas-without-cost/"><u>Best Free Streaming Platforms for Downloading Popular Korean Dramas Without Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/best-no-cost-flv-to-mp4-conversion-tools-for-pc-comprehensive-instructional-tutorials-included/"><u>Best No-Cost FLV to MP4 Conversion Tools for PC - Comprehensive Instructional Tutorials Included</u></a></li>
+<li><a href="https://win11.techidaily.com/budget-friendly-guide-converting-your-vertical-footage-to-horizontal-view/"><u>Budget-Friendly Guide: Converting Your Vertical Footage to Horizontal View</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a56s-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo A56s 5G Bootloader Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>In 2024, Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-by-step-guide-streaming-twitch-channels-via-your-roku-device/"><u>Step-by-Step Guide: Streaming Twitch Channels via Your Roku Device</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100i-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
+

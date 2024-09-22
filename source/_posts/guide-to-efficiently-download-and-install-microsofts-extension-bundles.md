@@ -1,7 +1,7 @@
 ---
 title: Guide to Efficiently Download & Install Microsoft's Extension Bundles
-date: 2024-09-14T03:45:32.748Z
-updated: 2024-09-17T08:27:49.658Z
+date: 2024-09-17T02:46:46.428Z
+updated: 2024-09-21T22:16:53.873Z
 tags:
   - windows10
   - windows11
@@ -81,6 +81,13 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
 1. Locate the saved app package in the**Downloads** folder.
@@ -89,22 +96,15 @@ To generate a Microsoft Store app downloading link using Fiddler:
  Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
 ![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Microsoft offers an official App Installer to sideload Windows 10 apps. However, this app installer also works on Windows 11\. If you encounter an error when sideloading apps using the convention double-click method, the App Installer will do the trick.
 
@@ -121,19 +121,6 @@ To install App Installer:
 ### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
 
 ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-msixbundle-sideload-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use Windows PowerShell to sideload Microsoft Store app on Windows. This is an efficient way to sideload apps on multiple computers or when you get an error while running the msixbundle or other package files.
 
@@ -153,6 +140,13 @@ To install appx, msixbudnle, and appxbundle apps using PowerShell:
 To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
@@ -177,19 +171,16 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-vimeo-vs-youtube-dissecting-the-streamers-choices/"><u>[Updated] In 2024, Vimeo vs YouTube Dissecting the Streamers' Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revamped-podcast-chats-attracting-true-fans/"><u>[Updated] Revamped Podcast Chats Attracting True Fans</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/charting-new-territories-leading-6-artists-in-nft-landscape-for-2024/"><u>Charting New Territories Leading 6 Artists in NFT Landscape for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-unique-screencaps-for-win11/"><u>Crafting Unique Screencaps for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-0xc004f050-from-windows-update/"><u>Eliminating Error 0XC004F050 From Windows Update</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-discover-12-favorite-free-video-player-software-on-pctabletsmartphone/"><u>In 2024, Discover 12 Favorite Free Video Player Software on PC/Tablet/Smartphone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-enabling-startup-services/"><u>Mastering Windows 11: Enabling Startup Services</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-synchronization-with-microsofts-to-do-app/"><u>Overcoming Non-Synchronization with Microsoft's To-Do App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-ghost-touch-on-iphones-discovering-top-10-solutions/"><u>Solving the Mystery of Ghost Touch on iPhones: Discovering Top 10 Solutions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unlocking-windows-10-sound-capabilities-for-2024/"><u>Unlocking Windows 10 Sound Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-the-right-youtube-tv-package-for-you-for-2024/"><u>[New] Choosing the Right YouTube TV Package for You for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-canons-power-explore-10-basic-free-luts-and-more/"><u>[Updated] Harness Canon's Power Explore 10 Basic Free LUTs and More</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-designing-multi-layered-photographic-illusions/"><u>[Updated] In 2024, Designing Multi-Layered Photographic Illusions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamlined-playback-controlling-youtube-video-delivery-speeds-for-2024/"><u>[Updated] Streamlined Playback Controlling YouTube Video Delivery Speeds for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-find-n3-flip-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Find N3 Flip Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a1x-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A1x 5G Fingerprint Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://win11.techidaily.com/itunes-mp3wav/"><u>ITunes MP3ファイルからWAV形式への変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/mp3-audible-aax/"><u>MP3への変換 - Audible AAX音声ファイルをどうやって変更するか</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-free-dvd-player-applications-compatible-with-windows-11-watch-movies-at-no-charge/"><u>Top 7 Free DVD Player Applications Compatible with Windows 11: Watch Movies at No Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/avisynth/"><u>ビデオ再生中の音量設定 - AviSynthを使って</u></a></li>
 </ul></div>
 

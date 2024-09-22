@@ -1,7 +1,7 @@
 ---
 title: Improving Workflow with Swift Android Studio Performance Tweaks
-date: 2024-09-15T04:46:53.243Z
-updated: 2024-09-16T23:25:30.861Z
+date: 2024-09-19T04:05:07.347Z
+updated: 2024-09-22T05:17:16.444Z
 tags:
   - windows10
   - windows11
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
  Installing Android Studio on an SSD will provide a noticeable boost in performance, making it easier and faster to develop your apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Unnecessary Plugins in Android Studio
 
  Unnecessary plugins in Android Studio are those applications and features that you're not actively using but that are still taking up resources on your system. By disabling such unnecessary plugins, you can improve Android Studio's performance significantly.
@@ -83,20 +90,14 @@ Here's how to disable unnecessary plugins in Android Studio:
 ![Installed Plugins List In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installed-plugins-list.jpg)
 4. Click**File > Restart IDE** for the changes to take effect.
 
- After you complete these steps, the plugins you disabled will no longer work and will not appear in the menus or be accessible within Android Studio.
-
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you complete these steps, the plugins you disabled will no longer work and will not appear in the menus or be accessible within Android Studio.
 
 ## 5\. Configure Lint in Android Studio
 
@@ -111,16 +112,16 @@ Follow the below steps to configure Lint in Android Studio:
 ![Lint Settings In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-lint-settings.jpg)
 3. Click the**Apply** button, and then**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In addition to configuring Lint for all your projects, you can also enable or disable specific Lint checks as well as configure the severity level for each check. To view suggestions for your current project, go to the**Project** window and click**Code > Inspect Code** .
 
  You can also configure the scope of the lint checks, such as whether to check only the current file or the entire project. This can help decrease build time and generate your APK file much faster in Android Studio.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update the GPU driver
 
@@ -131,19 +132,6 @@ Follow the below steps to configure Lint in Android Studio:
  Now that you know the importance of the GPU, check out[how to update the GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for help.
 
  If you want to go further, check out[ways to boost Windows' performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) for more tricks.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add Android Studio to the Graphics Performance Preference
 
@@ -158,16 +146,22 @@ Follow the below steps to configure Lint in Android Studio:
 4. Select**Android Studio > Options > High Performance** , and then click**Save** to add it to the Graphics Performance Preference list.  
 ![Android Studio Graphics Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-graphics-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Additionally, you can also enable**Hardware-accelerated GPU scheduling** in order to improve the performance of Android Studio.
 
  Want to go one step higher in optimizing Android Studio? Check out the[official Android Developer optimization guide](https://developer.android.com/studio/build/optimize-your-build) for more tips on improving Android Studio's performance.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Experience Lag-Free Coding in Android Studio
 
@@ -190,15 +184,16 @@ Follow the below steps to configure Lint in Android Studio:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] 2024 Approved Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[Updated] 2024 Approved Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-unique-screencaps-for-win11/"><u>Crafting Unique Screencaps for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-0xc004f050-from-windows-update/"><u>Eliminating Error 0XC004F050 From Windows Update</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embark-on-language-journey-with-googles-top-picks-mondly/"><u>Embark on Language Journey with Google's Top Picks - Mondly</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-detaille-supprimer-le-code-de-region-sur-les-dvd-pour-une-lecture-universelle-avec-windows-1087/"><u>Guide Détaillé : Supprimer Le Code De Région Sur Les DVD Pour Une Lecture Universelle Avec Windows 10/8/7</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-groundbreaking-6-modern-mc-residentials/"><u>In 2024, Groundbreaking 6 Modern MC Residentials</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nubia Red Magic 9 Pro?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-enabling-startup-services/"><u>Mastering Windows 11: Enabling Startup Services</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-pacific-drive-freezing-on-your-computer/"><u>Troubleshooting Tips: Resolving Issues with Pacific Drive Freezing on Your Computer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cutting-edge-techniques-top-lenses-for-youtube-stars-for-2024/"><u>[Updated] Cutting-Edge Techniques Top Lenses for YouTube Stars for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/"><u>[Updated] In 2024, The Comprehensible Guide to Capturing Instagram Media via Computer Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028392485-mp3/"><u>無響拡張子MP3でピークレス部分をクリアする手引き</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/gain-recovery-of-personal-snapshots-for-2024/"><u>Gain Recovery of Personal Snapshots for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027925580-huawei/"><u>Huawei端末における音楽再生の不具合解消ガイド</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-find-x6-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo Find X6 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pathways-to-accumulate-free-photo-frame-media-for-2024/"><u>Pathways to Accumulate Free Photo Frame Media for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028493420-pc/"><u>PC向けビデオからオーディオへの変換ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/44gk6jam44kb44gu44kk44ok44ob44oz44gn6zplusz5aow6yyy6zplusz5qmf6io944gm44gc44kl44oe44o844or/"><u>お薦めのイヤホンで音声録音機能があるツール</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029050456-zoom/"><u>スムーズに連続した状態でZOOM動画を編集する専門技術</u></a></li>
 </ul></div>
 

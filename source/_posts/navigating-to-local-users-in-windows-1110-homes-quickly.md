@@ -1,7 +1,7 @@
 ---
 title: Navigating to Local Users in Windows 11/10 Homes Quickly
-date: 2024-09-16T08:23:43.977Z
-updated: 2024-09-16T16:58:21.895Z
+date: 2024-09-16T08:43:03.398Z
+updated: 2024-09-21T18:18:06.517Z
 tags:
   - windows10
   - windows11
@@ -63,28 +63,35 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
 
  Similarly, you can edit, remove, rename, or add a password to the existing user account. You can also [enable the secret built-in administrator account](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/) using the tool.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Additional Features of the Lusrmgr App
 
 ![The search bar in lusrmgr application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apart from the usual account management features, lusrmgr.exe provides additional functions not available in the native utility. For example, you can use the search function to find a specific account. This is useful for system administrators who manage multiple user accounts in an organization.
 
  Another handy feature is the ability to define access times for individual accounts. To set an access time, right-click on the username and select **Edit**. Next, open the **Account** tab and click on **Define access time**.
 
 ![lusrmgr define account access time screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-define-access-time.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By default, the user accounts have no limit on access time. But you can define this by selecting a time block for different days.
 
@@ -124,33 +131,7 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
 
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-breathtaking-review-and-different-directions/"><u>[New] Breathtaking Review & Different Directions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-mastery-the-essential-guide-to-smartphone-screen-recording-for-2024/"><u>[New] Snapchat Mastery The Essential Guide to Smartphone Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mirthful-milestones-an-examination-of-goofy-odyssey/"><u>[Updated] 2024 Approved 'Mirthful Milestones' An Examination of 'Goofy Odyssey'</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/beatback-bungalow-recordings-downloads-and-reviews/"><u>Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-adding-diamond-shadow-plug-in-compatible-with-matrix-to-your-kodi-setup/"><u>Easy Guide: Adding Diamond Shadow Plug-In Compatible with Matrix to Your Kodi Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-conversion-of-m2ts-files-to-avi-a-step-by-step-tutorial-at-no-charge/"><u>Effortless Conversion of M2TS Files to AVI - A Step-by-Step Tutorial at No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-summer-discounts-buy-factory-pro-hd-video-converter-software-directly-from-our-website/"><u>Exclusive Summer Discounts: Buy Factory Pro HD Video Converter Software Directly From Our Website</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-shrinking-ogg-soundtracks-discover-the-leading-ogg-compression-software-solutions/"><u>Expert Tips for Shrinking OGG Soundtracks: Discover the Leading OGG Compression Software Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-broken-iphone-qr-reader-in-just-10-steps/"><u>Fixing a Broken iPhone QR Reader in Just 10 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/h264/"><u>H264形式適用方法：他の形式への変換手順と、それをもとに戻す簡単ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-download-and-save-threads-video-content/"><u>How to Download and Save Thread's Video Content</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-narzo-60x-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme Narzo 60x 5G FRP</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/youtube-meets-facebook-1080p-live-mastery-guide-for-2024/"><u>YouTube Meets Facebook 1080P Live Mastery Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/dvd-walkman/"><u>ワイヤレスでDVDコピー - 簡単! Walkman内へのビデオと音声移行</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,3 +140,24 @@ thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-5-outstanding-racing-simulations-for-gamers/"><u>[New] 2024 Approved 5 Outstanding Racing Simulations for Gamers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-empower-your-imagery-free-lut-techniques-for-ar-for-2024/"><u>[New] Empower Your Imagery Free LUT Techniques for AR for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-guide-to-instagram-video-brilliance-with-templates-for-2024/"><u>[Updated] A Guide to Instagram Video Brilliance with Templates for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-skyline-spectacle-top-10-websites-for-dynamic-hdr-images-for-2024/"><u>[Updated] Skyline Spectacle Top 10 Websites for Dynamic HDR Images for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-errorinvalidargument-in-wsl-subsystem-windows/"><u>Conquering ERROR_INVALID_ARGUMENT in WSL Subsystem Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-comics-layout-for-win11-users/"><u>Deciphering Comics Layout for Win11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-steams-persistent-disk-write-glitches-effortlessly/"><u>Effective Strategies to Overcome Steam's Persistent Disk Write Glitches Effortlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-digiarty-software-incs-profile-and-insights-for-winxdvd-services/"><u>Explore Digiarty Software, Inc.'s Profile & Insights for WinXDVD Services</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-code-error-0x80072f8f/"><u>Overcoming Windows Code Error: 0X80072f8f</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-video-the-twitterspheres-favorite-shows-of-23-for-2024/"><u>Prime Video The Twittersphere's #Favorite Shows of '23 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-launch-wordpad-on-windows-pc/"><u>Step-by-Step: Launch WordPad on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-creativity-the-ultimate-guide-to-harnessing-powertoy-tools/"><u>Unleash Creativity: The Ultimate Guide to Harnessing PowerToy Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-task-manager-capabilities-advanced-filters-and-dynamic-theme-options-windows-11/"><u>Unlock Full Task Manager Capabilities: Advanced Filters & Dynamic Theme Options (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-your-outlook-stays-in-safe-mode/"><u>What To Do When Your Outlook Stays in Safe Mode</u></a></li>
+</ul></div>
+

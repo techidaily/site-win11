@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Bluetooth Device - Music Without Mute/Volume Control
-date: 2024-09-10T05:05:07.901Z
-updated: 2024-09-16T22:46:42.687Z
+date: 2024-09-18T02:26:09.451Z
+updated: 2024-09-21T20:13:50.760Z
 tags:
   - windows10
   - windows11
@@ -98,13 +98,6 @@ Bluetooth User Support Service`
 * **Roll back a recent driver update**: New but buggy driver update can also cause the Bluetooth adapter to act up. To fix the issue, you can [perform a driver rollback for the Bluetooth adapter](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) to install the previous driver version. While a handy option, its availability can differ depending on when the driver was installed.
 * **Reinstall the Bluetooth adapter driver:** A reinstall may be necessary if a corrupt or partially installed driver causes Bluetooth-related problems. To [uninstall Bluetooth drivers in Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/), you can use the Device Manager or the Command Prompt. Restart your PC and Windows should reinstall the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update the Bluetooth Driver Manually From the Manufacturer’s Website
 
  While some driver updates may be available via Windows updates, you will likely receive the latest update from the device manufacturer's website. In this instance, check your Bluetooth device manufacturer's website to see if a new update is available.
@@ -116,47 +109,35 @@ Bluetooth User Support Service`
 3. In Device Manager, expand the **Bluetooth** section. Here locate your Bluetooth device's make. In this instance, we have an **Intel (R) Wireless Bluetooth (R)** device.  
 ![device manager driver version detials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/device-manager-driver-version-detials.jpg)
 4. Double-click on the Bluetooth device entry to open its properties.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, open the **Driver** tab. Note down the Driver version. You’ll need this to see if a newer driver version is available.
 6. Since we have an Intel Bluetooth Wireless device, we’ll open the [Intel Wireless Bluetooth for Windows page](https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html). The page lists the latest version of the driver available for download. In case of a different Bluetooth device manufacturer, visit the manufacturer's website and locate downloads for the device.  
 ![download bluetooth driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-bluetooth-driver-manually.jpg)
 7. Compare the version with the one available on your computer. Download the newer version if available. Run the installer and complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. During installation, your Bluetooth devices, including the headphone, keyboard, and mouse, may stop working temporarily. Wait for a few minutes for the changes to apply. Sometimes, a restart may be necessary to finish installing the update.
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
  Incorrect Bluetooth service configuration is a common reason your Bluetooth device shows as connected as voice only. You can configure the device’s properties to enable these services. If the issue persists, check for driver issues by installing a new driver update or performing a driver rollback.
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adjusting-youtubes-viewership-limits-for-content/"><u>[New] 2024 Approved Adjusting YouTube's Viewership Limits for Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-8-mistakes-people-should-avoid-as-a-new-youtuber/"><u>[Updated] In 2024, 8 Mistakes People Should Avoid as a New YouTuber</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-old-footage-an-introduction-to-madvr-on-windows-pcs/"><u>Elevating Old Footage: An Introduction to MadVR on Windows PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-free-up-space-on-your-mac-by-deleting-apps/"><u>How To Free Up Space on Your Mac by Deleting Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-picks-for-affordable-video-sbs-grabbers/"><u>In 2024, Ultimate Picks for Affordable Video SBS Grabbers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/launchpad-gear-list-enhance-your-beginners-gopro-journey-for-2024/"><u>Launchpad Gear List - Enhance Your Beginner's GoPro Journey for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/navigating-premieres-export-woes-to-fix-srt-files-for-2024/"><u>Navigating Premiere's Export Woes to Fix SRT Files for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/photography-enhancements-how-to-clear-surrounding-areas/"><u>Photography Enhancements: How to Clear Surrounding Areas</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-1011-0xc000003e-app-start-failure/"><u>Resolving Windows 10/11: 0XC000003E App Start Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-iis-manager-opening/"><u>The Ultimate Guide to IIS Manager Opening</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-windows-11s-new-look-return-to-icons-only/"><u>Transforming Windows 11'S New Look: Return to Icons Only</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011s-hidden-treasures-unlocked-bring-panels-into-view/"><u>Win10/11's Hidden Treasures Unlocked: Bring Panels Into View</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-paves-way-for-pristine-ad-less-start/"><u>Windows 11 Paves Way for Pristine, Ad-Less Start</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -165,3 +146,24 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-techniques-for-depicting-realism-in-docuscripts/"><u>[New] 2024 Approved Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-precisely-how-to-disconnect-from-your-outdated-linkedin-account-for-2024/"><u>[New] Precisely How To Disconnect From Your Outdated LinkedIn Account for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/20996232-2024-approved-how-to-make-a-youtube-subscribe-link-easy/"><u>2024 Approved How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-breakdown-of-payment-percentages-in-short-video-royalties/"><u>2024 Approved The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>2024 Approved The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/iuacgombqeobquodkplusodhplusocquoduplusocquodvoodhplusocoplusocquodleocoeocpoodqplusobrueiuuiqjeobqpluswheimgshjgrpjg7zjg4fjg4pjgqjg4hjgqfjg4pjgqvjg7zmjqjlp77/"><u>最適なビデオ・オーディオファイルの確認に必要!コーデックチェッカー推奨:映像･音声用</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-vob-videos-into-mov-format-step-by-step-guide/"><u>Convert VOB Videos Into MOV Format Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/dvdav/"><u>DVDからAVケーブルで映像素材の移行:手順ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/dvdfire/"><u>DVDコンテンツをFireタブレットで表示する手順及び再生が不可能な場合の対策</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-download-youtube-videos-as-mp3-a-free-tool-guide/"><u>Easily Download YouTube Videos as MP3: A Free Tool Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-techniques-for-transforming-flv-media-files-into-streamlined-mp4s/"><u>Effortless Techniques for Transforming FLV Media Files Into Streamlined MP4s</u></a></li>
+<li><a href="https://win11.techidaily.com/free-guide-converting-wma-audio-files-to-m4a-format-using-windows/"><u>Free Guide: Converting WMA Audio Files to M4A Format Using Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-8-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 8 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-free-video-editing-apps-with-special-effects-for-mobile/"><u>New 2024 Approved Top-Rated Free Video Editing Apps with Special Effects for Mobile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/precision-practices-for-perfecting-figmas-background-removal/"><u>Precision Practices for Perfecting Figma's Background Removal</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlining-your-presentations-vimeo-video-embedding-in-powerpoint/"><u>Streamlining Your Presentations Vimeo Video Embedding in PowerPoint</u></a></li>
+</ul></div>
+

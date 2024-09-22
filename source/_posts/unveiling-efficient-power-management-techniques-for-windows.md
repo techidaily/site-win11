@@ -1,0 +1,116 @@
+---
+title: Unveiling Efficient Power Management Techniques for Windows
+date: 2024-09-20T16:22:53.233Z
+updated: 2024-09-22T06:08:20.626Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Unveiling Efficient Power Management Techniques for Windows
+excerpt: This Article Describes Unveiling Efficient Power Management Techniques for Windows
+keywords: WinPowerSaveTechniques,EfficientWindowsManagement,AdvancedPowerControlWin,OptimizedWinEnergySaving,SmartWinsEnergyOptimize,EffectivePowerWinStrategies,EnhancedWindowsEfficiency
+thumbnail: https://thmb.techidaily.com/de59f9b5780463def4cb9ce5b3382a49671007046477b96e6adff7ee7d6b4151.jpg
+---
+
+## Unveiling Efficient Power Management Techniques for Windows
+
+ Your Windows laptop features a handy battery saver mode that allows you to stretch your device's battery life. Windows archives this by lowering the screen brightness, limiting background processes, and disabling certain visual effects and animations.
+
+ Here we show you how to enable or disable battery saver mode on your Windows 10 or 11 laptop.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. How to Enable or Disable Battery Saver Mode Using Quick Settings
+
+ The[Quick Settings panel in Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/) provides access to frequently used features such as Wi-Fi, Bluetooth, Airplane Mode, and others. You can also access this panel to turn the battery saver mode on or off quickly.
+
+ Simply press**Win + A** to open the Quick Settings panel, and then click the**Battery saver** icon to enable or disable it.
+
+![Enable or Disable Battery Saver in via Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-quick-settings-panel.jpg)
+
+ In case the Battery saver icon is missing, you can add it manually. Click the**pencil** icon at the bottom, and then select**Add > Battery saver** .
+
+![Add Battery Saver Button to Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-battery-saver-button-to-quick-settings-panel-in-windows.jpg)
+
+## 2\. How to Enable or Disable Battery Saver Mode Using the Settings App
+
+ Another way to turn the battery saver mode on or off in Windows is via the Settings app. To do so, use these steps:
+
+1. Right-click on the**Start icon** and select**Settings** from the list.
+2. In the**System** tab, click on**Power & battery** .
+3. Under**Battery** , click on**Battery saver** to expand it.
+4. Click the**Turn on now** button to enable battery saver mode.  
+![Enable or Disable Battery Saver in via the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-the-settings-app.jpg)
+
+ If the battery saver mode is on, you will see the**Turn off now** button instead. Further, plugging your laptop into a power outlet will also disable the battery saver mode.
+
+## 3\. How to Configure the Battery Saver Mode to Turn On Automatically on Windows
+
+ Don’t want to enable the battery saver mode manually all the time? No problem. You can configure Windows to activate battery saver mode automatically whenever the battery level drops below a specific percentage. To do so, you can use the Windows Settings app. Here are the steps you can follow.
+
+1. Press**Win + I** to open the Settings app.
+2. Navigate to**System > Power & battery** .
+3. Click on**Battery saver** to expand it.
+4. Click the drop-down menu next to**Turn battery saver on automatically at** and select your preferred battery level.  
+![Configure the Battery Saver Mode to Turn On Automatically in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-the-battery-saver-mode-to-turn-on-automatically-in-windows.jpg)
+
+ You can also prevent Windows from enabling battery saver mode on its own by selecting**Never** . Alternatively, if you want the battery saver mode to be enabled at all times, choose**Always** instead.
+
+ Although the Settings app is the most commonly used method for configuring the battery saver mode in Windows, it's not the only option available. You can also use a command-line tool like Command Prompt or Windows PowerShell to configure the battery saver mode to turn on automatically. Here are the steps for the same.
+
+1. Use one of the[many ways to open Command Prompt or PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/) on your PC.
+2. Type the following command in the console and press**Enter** .  
+`powercfg /setdcvalueindex scheme_current sub_energysaver esbattthreshold <BatteryPercentage>`
+
+ Replace**<BatteryPercentage>** in the above command with the percentage below which you want the battery saver mode to kick in automatically. Unlike the Settings app, you can specify a custom battery level percentage between 0 and 100 using the command line method.
+
+![Configure the Battery Saver Mode to Turn On Automatically Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-the-battery-saver-mode-to-turn-on-automatically-using-command-prompt.jpg)
+
+ While PowerShell and Windows Terminal may look similar, they act very differently. Check our detailed guide to learn[the differences between PowerShell and Windows Terminal](https://www.makeuseof.com/windows-terminal-vs-powershell/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Easily Enable or Disable Battery Saver Mode on Windows
+
+ Battery saver mode in Windows can come in handy when you're away from a power source. However, it's important to note that leaving battery saver mode on all the time can impact certain features, such as notifications and background app sync. Hence, it's best to enable battery saver mode only when necessary.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easy-techniques-for-using-screencastify-app/"><u>[New] Easy Techniques for Using Screencastify App</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pros-and-experts-choice-discover-the-finest-12-stock-photography-sites-for-2024/"><u>[New] Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-dota-2-fps-drops-on-windows-11-10/"><u>[SOLVED] Dota 2 FPS Drops on Windows 11, 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-windows-10-audio-handbook/"><u>2024 Approved The Essential Windows 10 Audio Handbook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-writing-professional-resumes-and-cover-letters/"><u>ChatGPT's Role in Writing Professional Resumes and Cover Letters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-art-manipulating-photos-creatively/"><u>Digital Art Manipulating Photos Creatively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discover-how-to-restore-hearing-capabilities-in-your-discord-calls/"><u>Discover How to Restore Hearing Capabilities in Your Discord Calls</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone XS Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964489630-memorable-memorial-day-offer-premium-roccat-pyro-full-sized-mechanical-keyboard-at-only-34/"><u>Memorable Memorial Day Offer: Premium Roccat Pyro Full-Sized Mechanical Keyboard at Only $34</u></a></li>
+<li><a href="https://win11.techidaily.com/successful-conversion-transforming-m4a-files-into-mp4-for-easy-video-uploads/"><u>Successful Conversion: Transforming M4A Files Into MP4 for Easy Video Uploads!</u></a></li>
+<li><a href="https://win11.techidaily.com/three-simple-methods-capturing-your-creative-moments-with-youtube-shorts-from-your-computer/"><u>Three Simple Methods: Capturing Your Creative Moments with YouTube Shorts From Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-audio-capture-devices-compatible-with-all-platforms-including-windows-macos-android-and-ios-latest-models-of-223/"><u>Top 10 Audio Capture Devices: Compatible with All Platforms Including Windows, macOS, Android, and iOS - Latest Models of 2^23</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-ways-to-extract-tunes-from-online-sources/"><u>Top 3 Ways to Extract Tunes From Online Sources</u></a></li>
+</ul></div>
+

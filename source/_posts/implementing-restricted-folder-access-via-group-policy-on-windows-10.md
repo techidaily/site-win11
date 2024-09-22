@@ -1,7 +1,7 @@
 ---
 title: Implementing Restricted Folder Access via Group Policy on Windows 10
-date: 2024-09-13T06:04:10.476Z
-updated: 2024-09-16T20:31:38.743Z
+date: 2024-09-18T05:09:38.592Z
+updated: 2024-09-22T03:41:33.723Z
 tags:
   - windows10
   - windows11
@@ -130,19 +130,19 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
 3. Click**Save** to add the**Turn on Control folder access** registry file to the desktop.
 4. Close the Notepad editor, and double-click the**Turn on Control folder access.reg** file on the desktop.  
 ![The registry script confirmation dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/registry-script-confirmation-dialog.jpg)
 5. Select**Yes** to confirm you trust the script.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can enable controlled folder access from the Windows context menu.
 
@@ -158,17 +158,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 4. Click**Yes** to erase that key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Controlled Folder Access Exceptions
@@ -184,6 +177,14 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 4. Click**Browse all** **apps** on the menu that appears.  
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Open** to add the selected game or software.
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
@@ -205,19 +206,18 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-pinpointing-pioneers-a-strategic-look-at-influencers-on-insta/"><u>[New] In 2024, Pinpointing Pioneers A Strategic Look at Influencers on Insta</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-cameras-for-windows-11-pro-review-of-the-latest-gear-for-2024/"><u>[Updated] Elite Cameras for Windows 11 - Pro Review of the Latest Gear for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-pedagogic-practices-with-a-focus-on-visual-materials/"><u>[Updated] In 2024, Pedagogic Practices with a Focus on Visual Materials</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ranking-video-chat-winning-windows-tools-6-1/"><u>[Updated] In 2024, Ranking Video Chat Winning Windows Tools #6-#1</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-max-power-reimagined-selecting-mac-and-wins-best-srt-converters/"><u>[Updated] Max Power Reimagined Selecting Mac & Win's Best SRT Converters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>2024 Approved Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-working-with-microsoft-teams-and-its-copilot-functionality/"><u>Comprehensive Tutorial: Working with Microsoft Teams and Its Copilot Functionality</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Spark 10 4G FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-sharing-video-content-on-pinterest-using-your-smartphone-or-computer/"><u>Step-by-Step Guide to Sharing Video Content on Pinterest Using Your Smartphone or Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-transforming-videos-into-mp4-format-across-pc-mac-and-online-tools/"><u>Step-by-Step Guide to Transforming Videos Into MP4 Format Across PC, Mac, and Online Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-streaming-mp4-content-on-your-windows-n-operating-system/"><u>The Ultimate Guide to Streaming MP4 Content on Your Windows N Operating System</u></a></li>
-<li><a href="https://win11.techidaily.com/top-dvd-ripping-software-securely-convert-your-dvds-into-high-quality-digital-formats/"><u>Top DVD Ripping Software: Securely Convert Your DVDs Into High-Quality Digital Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/top-free-tools-for-converting-mts-files-to-avi-on-windows/"><u>Top Free Tools for Converting MTS Files to AVI on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-easy-fix-windows-error-code-0xc0000098-in-minutes/"><u>Troubleshooting Made Easy: Fix Windows Error Code 0xC0000098 in Minutes!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creator-payment-frequency-on-youtube-platform-for-2024/"><u>[Updated] Creator Payment Frequency on YouTube Platform for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-cuts-the-essential-guide-for-windows-11-users/"><u>2024 Approved Mastering Video Cuts The Essential Guide for Windows 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-compilation-the-top-5-high-fidelity-cameras/"><u>2024 Approved Ultimate Compilation The Top 5 High Fidelity Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/youtuber2024/"><u>次世代Youtuber向けに選ばれる動画編集ソフトウェアとハウツーガイド2024年版</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-cybersecurity-insights-on-mobile-devices-understanding-decryption-for-just-50-listen-to-our-chatgpt-powered-podcast/"><u>Affordable Cybersecurity Insights on Mobile Devices - Understanding Decryption for Just $50! Listen to Our ChatGPT-Powered Podcast.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-methods-to-correctly-address-steelseries-arctis-e-7-mic-issues/"><u>Effective Methods to Correctly Address SteelSeries Arctis E 7 Mic Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-call-control-block-annoying-phone-calls-on-ios-and-android-systems/"><u>Mastering Call Control: Block Annoying Phone Calls on iOS and Android Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-no-cost-solutions-for-seamless-xvid-to-avi-conversion-across-windows-macos-and-web-services/"><u>Top 3 No-Cost Solutions for Seamless Xvid to AVI Conversion Across Windows, MacOS, and Web Services</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-s23plus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel S23+ Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-lossless-audio-compression-tools-how-to-shrink-audio-file-size-without-losing-quality/"><u>Top Lossless Audio Compression Tools: How to Shrink Audio File Size Without Losing Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-cloudy-with-a-chance-of-meatballs-2-into-a-lively-food-frenzy-saga/"><u>Transform Cloudy with a Chance of Meatballs 2 Into a Lively Food Frenzy Saga</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-editing-audio-files-in-windows-operating-systems-windows-11-10-81-and-earlier/"><u>Ultimate Guide: Editing Audio Files in Windows Operating Systems (Windows 11, 10, 8.1, and Earlier)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unravel-the-mysteries-of-youtube-metrics-for-growth-for-2024/"><u>Unravel the Mysteries of YouTube Metrics for Growth for 2024</u></a></li>
 </ul></div>
 

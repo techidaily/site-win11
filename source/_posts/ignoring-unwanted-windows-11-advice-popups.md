@@ -1,7 +1,7 @@
 ---
 title: Ignoring Unwanted Windows 11 Advice Popups
-date: 2024-09-11T23:07:14.072Z
-updated: 2024-09-16T19:21:34.760Z
+date: 2024-09-19T23:15:31.915Z
+updated: 2024-09-21T20:19:15.057Z
 tags:
   - windows10
   - windows11
@@ -60,19 +60,6 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
  This will turn off tips and suggestions notifications in Windows 11\. To enable these notifications once again, delete the file you just created. Alternatively, double-click on it and click **No** in the confirmation dialog.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Tips and Suggestions Notifications in Windows 11
 
  If you prefer to disable tips and suggestions notifications on your computer completely, there are several options available. You can utilize the Group Policy Editor, modify the registry editor, or create a REG file. Let's explore each method in detail to disable this feature.
@@ -92,21 +79,22 @@ Computer Configuration > Administrative Templates > Windows Components > Cloud C
 5. From the box that appears, select the **Enabled** radio button.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **Apply** \> **OK** to save the changes.
 
  Now, tips and suggestions notifications will be completely disabled on your computer. To re-enable the feature, follow the same steps and select the **Not Configured** or **Disabled** radio button instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Disable Tips and Suggestions Notifications Using the Registry Editor
 
@@ -124,6 +112,20 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 7. Name the value **DisableSoftLanding** and hit Enter.  
 ![Disable Tips and Suggestions Notifications Using the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-tips-and-suggestions-notifications-using-the-registry-editor.jpg)
 8. Double-click on this newly created entry and set its Value data to **1**.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click **OK** to save the changes. Now, exit the registry editor window and restart your computer.
 
  After restarting, tips and suggestions notifications will be disabled on your computer. If you want to enable the feature, follow the same steps and change the Value data to **0**.
@@ -145,33 +147,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  That’s it! Tips and suggestions feature is now disabled on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stop the Windows Tips and Suggestions Notifications
 
  We hope that this article helped you understand how to turn off or disable tips and suggestions notifications in Windows 11\. All it takes are a few clicks or a simple REG file to enable or disable this feature.
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones/"><u>[New] In 2024, Unleash Your Device's Potential How to Download and Customize WhatsApp Ringtones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-preserve-precision-4-advanced-screen-recording-for-gamers/"><u>[New] Preserve Precision 4 Advanced Screen Recording for Gamers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-20-hit-tiktok-rhymes-you-cant-miss-for-2024/"><u>[Updated] 20 Hit TikTok Rhymes You Can't Miss for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-discussion-volume-on-your-social-media-hub/"><u>Elevate Discussion Volume on Your Social Media Hub</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-direct-approaches-to-documenting-google-voice-interactions/"><u>In 2024, Direct Approaches to Documenting Google Voice Interactions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-recovering-individual-snap-secrets/"><u>In 2024, Recovering Individual Snap Secrets</u></a></li>
-<li><a href="https://win11.techidaily.com/itunes-iphoneandandroid/"><u>ITunesにダビング！カメラ撮影動画から音楽へ - iPhone&Android利用者向けガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workflow-top-8-chrome-with-ai/"><u>Revolutionize Your Workflow: Top 8 Chrome with AI</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-tricks-capturing-and-downloading-your-favorite-instagram-live-sessions/"><u>Simple Tricks: Capturing and Downloading Your Favorite Instagram Live Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-videos-into-high-quality-av1-format/"><u>Step-by-Step Guide: Transforming MKV Videos Into High-Quality AV1 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-remedies-to-resolve-the-0xc00d36c4-error-during-videoaudio-playback/"><u>Top 4 Remedies to Resolve the '0xC00D36C4' Error During Video/Audio Playback</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +160,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-enriching-listening-activities-for-the-modern-ear-podder-for-2024/"><u>[New] Enriching Listening Activities for the Modern Ear-Podder for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flashing-lights-of-olympic-speed/"><u>[New] Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>In 2024, Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4pcgif5/"><u>MP4ビデオをPC上でGIFへの変換方法:5選ベストガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/offline-entertainment-unlimited-quick-download-movies-shows-songs-and-special-features-for-on-the-go-viewing/"><u>Offline Entertainment Unlimited: Quick-Download Movies, Shows, Songs, and Special Features for On-The-Go Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/playing-japanese-region-bddvd-on-american-systems-without-a-specialized-disc-player/"><u>Playing Japanese Region BD/DVD on American Systems Without a Specialized Disc Player</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-top-3-techniques-for-turning-your-google-slides-into-videos/"><u>Seamless Conversion: Top 3 Techniques for Turning Your Google Slides Into Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-restoring-lost-notes-from-your-ios-device/"><u>Step-by-Step Tutorial: Restoring Lost Notes From Your iOS Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226768596-jpeg/"><u>オンラインで自由にJPEGファイルを変更 - ムーヴェイビの応用方法</u></a></li>
+</ul></div>
+

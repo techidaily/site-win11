@@ -1,7 +1,7 @@
 ---
 title: Simplifying the Process of Activating System Restore in Windows 11
-date: 2024-09-10T18:11:07.943Z
-updated: 2024-09-17T02:03:47.717Z
+date: 2024-09-17T04:46:36.099Z
+updated: 2024-09-22T05:21:22.708Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 ![Open System Restore Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-settings-app-1.jpg)
 4. Now, click on the **Open System Restore** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Using the Run Dialog Box
 
  The Run dialog box supports shortcodes which allow you to access an application faster (provided you know the correct ones). You can even open file locations using this tool. Repeat the following steps:
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 2. Click on the **OK** button to open the System Properties tool.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Using a Pinned Taskbar Shortcut
@@ -87,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 4. A System Restore icon will appear on the Taskbar. You can alter its position on the Taskbar by clicking and dragging it in either direction.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Using the Task Manager
@@ -102,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 3. Type **rstrui.exe** and click on the **OK** button to launch the System Restore tool.  
 ![Open System Restore Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-task-manager.jpg)
 4. Close the Task Manager window.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Using the File Explorer
 
@@ -122,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 ![Open System Restore Using CMD or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-cmd-or-powershell.jpg)
 3. Alternatively, you can use the **start-process** cmdlet in PowerShell to launch the tool: **start-process rstrui**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Close the Command Prompt or PowerShell window.
 
 ## 10\. Using a Desktop Shortcut
@@ -143,19 +150,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 6. Click on the **Next** button.  
 ![Open System Restore Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-desktop-shortcut.jpg)
 7. Now, save the shortcut with the name **System Restore** and click on the **Finish** button.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Double-click on the newly created shortcut to launch System Restore.
 
@@ -172,36 +166,15 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 6. Switch to the desktop or any other window and press the assigned key combination. System Restore utility will pop up.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access System Restore Quickly
 
  System Restore is an essential aspect that is a lifesaver when you install apps and modify system settings and want to go back. Now, you know multiple methods to launch the tool. The keyboard shortcut key combination is our favorite because you don’t need to interact with anything on the screen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-expert-techniques-to-make-the-most-of-instagrams-question-marker/"><u>[New] 2024 Approved Expert Techniques to Make the Most of Instagram's Question Marker</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-transform-your-mac-interface-with-speech-recognition-software-review/"><u>[New] In 2024, Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-record-speech-review-content-for-2024/"><u>[New] Record Speech, Review Content for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-scope-to-screen-partnerships-for-mcns/"><u>[Updated] 2024 Approved Scope-to-Screen Partnerships for MCNs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-managing-who-accesses-your-youtube-videography/"><u>2024 Approved Managing Who Accesses Your YouTube Videography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722164564879-generate-captivating-tales-with-4-leading-artificebased-narrators-worth-a-spin/"><u>Generate Captivating Tales with 4 Leading Artificebased Narrators - Worth a Spin!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/seamlessly-share-videos-on-mstream-services-for-2024/"><u>Seamlessly Share Videos on MStream Services for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solution-found-bypassing-the-time-restriction-for-ripping-longer-segments-with-winx-dvd-ripper/"><u>Solution Found: Bypassing the Time Restriction for Ripping Longer Segments with WinX DVD Ripper</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-shrinking-large-video-files-down-to-manageable-mb-sizes/"><u>Step-by-Step Guide: Shrinking Large Video Files Down to Manageable MB Sizes</u></a></li>
-<li><a href="https://win11.techidaily.com/streaming-ultra-hd-anime-without-limits-your-complete-tutorial-on-using-the-9anime-add-on-in-kodi/"><u>Streaming Ultra HD Anime Without Limits: Your Complete Tutorial on Using the 9Anime Add-On in Kodi</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -210,3 +183,21 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-a-complete-guide-to-use-instagram-video-chat/"><u>[Updated] A Complete Guide to Use Instagram Video Chat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>[Updated] In 2024, The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>[Updated] Live Media Masters Choice VMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-zte-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best ZTE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13 mini? How to Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-your-storage-in-onedrive-within-win-11/"><u>Redefine Your Storage in OneDrive Within Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-config-activatingdeactivating-ai-in-taskbar-window/"><u>Swift Config: Activating/Deactivating AI in Taskbar Window</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-overcome-office-365-issue-code-30015-26/"><u>Techniques to Overcome Office 365 Issue Code 30015-26</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-to-removing-green-screen-effects-on-mac-for-2024/"><u>Unveiling the Secrets to Removing Green Screen Effects on Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/window-essentials-incorporating-this-pc-on-your-screen/"><u>Window Essentials: Incorporating 'This PC' On Your Screen</u></a></li>
+</ul></div>
+

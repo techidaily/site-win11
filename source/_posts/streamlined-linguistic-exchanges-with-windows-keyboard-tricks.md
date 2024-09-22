@@ -1,7 +1,7 @@
 ---
 title: Streamlined Linguistic Exchanges with Windows Keyboard Tricks
-date: 2024-09-15T19:58:03.697Z
-updated: 2024-09-17T06:00:01.554Z
+date: 2024-09-17T17:36:58.912Z
+updated: 2024-09-22T08:46:57.661Z
 tags:
   - windows10
   - windows11
@@ -77,18 +77,18 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
@@ -101,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Translate Text With Handy Hotkeys in Windows
@@ -126,18 +126,19 @@ thumbnail: https://thmb.techidaily.com/d004e321571f8d51a2ae9f7a4b7153fccec7b768f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-relaxation-in-a-box-best-10-stress-busters/"><u>[New] Relaxation in a Box Best 10 Stress Busters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pro-tips-to-elevate-your-headline-game/"><u>[Updated] In 2024, Pro Tips to Elevate Your Headline Game</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-easy-ios-screen-recording-tips-and-tricks/"><u>2024 Approved Easy iOS Screen Recording Tips & Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xs-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone XS Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-list-mix-a-step-by-step-guide-for-2024/"><u>Mastering YouTube List Mix A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/maximize-your-pcs-potential-with-the-newest-rtx-80-super-driver-update-windows-compatibility/"><u>Maximize Your PC's Potential with the Newest RTX #80 Super Driver Update - Windows Compatibility</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-sfc-scan-steps-on-windows/"><u>Navigating Through SFC Scan Steps on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-erratic-movement-of-windows-mouse/"><u>Overcoming Erratic Movement of Windows Mouse</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/paww-tritone-series-3-examination-cost-effective-headphones/"><u>Paww Tritone Series 3 Examination: Cost-Effective Headphones</u></a></li>
-<li><a href="https://win11.techidaily.com/scaling-up-how-to-tap-into-all-available-windows-ram/"><u>Scaling Up: How to Tap Into All Available Windows RAM</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-no-sound-output-windows/"><u>Steps to Rectify No Sound Output Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secure-telnet-access-on-modern-windows/"><u>Unlocking Secure Telnet Access on Modern Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-essential-list-the-10-leading-vimeo-downloaders-web-for-2024/"><u>[New] Essential List The 10 Leading Vimeo Downloaders Web for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-technical-insights-for-superior-ppt-recording-quality/"><u>[Updated] 2024 Approved Technical Insights for Superior PPT Recording Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-recording-your-lol-adventures-3-ways/"><u>[Updated] The Ultimate Guide to Recording Your LOL Adventures (3 Ways)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1-procreate-empowering-creatives-and-revitalizing-digital-artistry/"><u>1. Procreate: Empowering Creatives and Revitalizing Digital Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028090190-20248/"><u>2024年度人気動画編集ツールベスト8！無料でダウンロード可能</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-installing-titanium-kodi-skin-across-various-kodi-editions/"><u>A Comprehensive Guide to Installing Titanium Kodi Skin Across Various Kodi Editions</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-youtubes-limits-tips-to-fix-stalled-video-encoding-at-critical-percentages/"><u>Bypass YouTube's Limits: Tips to Fix Stalled Video Encoding at Critical Percentages</u></a></li>
+<li><a href="https://win11.techidaily.com/canva-tutorial-mastering-video-sound-adjustments-eliminating-or-incorporating-audio-seamlessly/"><u>Canva Tutorial: Mastering Video Sound Adjustments - Eliminating or Incorporating Audio Seamlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/craft-compelling-youtube-titles-faster-than-ever/"><u>Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-12-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi 12 FRP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-view-friends-shared-vids-and-photos-in-2024/"><u>How Can I View Friend’s Shared Vids and Photos, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027263067-step-by-step-guide-video-editing-in-windows-10-updated/"><u>Step-by-Step Guide: Video Editing in Windows 10 (Updated)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-performance-unleashed-asus-rog-rapture-gt-ax110n-router-speed-and-gamers-delight-revealed/"><u>Ultimate Performance Unleashed: Asus ROG Rapture GT-AX110n Router Speed & Gamers' Delight Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Initiate: 15 Approaches to System Controls"
-date: 2024-09-13T16:40:36.480Z
-updated: 2024-09-17T06:57:55.459Z
+date: 2024-09-20T01:40:40.975Z
+updated: 2024-09-22T07:15:50.063Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 
 ![Opening the Windows System Settings via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-windows-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Use the Command Prompt or PowerShell
 
  If you’re a fan of the Command Prompt or PowerShell, then we've got some cool methods you should try.
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 2. Type **PowerShell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **ms-settings:** and press **Enter** to open the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Use File Explorer's Address Bar
 
  File Explorer also offers a quick way to open the settings app. So, let's check how this tool can be helpful:
@@ -99,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 2. Type **ms-settings:** on File Explorer’s address bar and press **Enter** to access the system settings.
 
 ![Opening the Windows System Settings via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-file-explorer-s-address-bar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Use the Settings Widget on File Explorer
 
@@ -119,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 4. Click the **Settings** option from the list of widgets that appear in the top part of the window.
 
 ![Clicking the Settings widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-settings-widget.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Use the Action Center
 
@@ -149,16 +135,10 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 ![Opening the Windows System Settings using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-using-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Use a System Settings Desktop Shortcut
@@ -172,16 +152,16 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 
 ![Creating the system settings desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-the-system-settings-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **System Settings Shortcut** in the "Name box" and then press the **Finish** button. You can now easily access the system settings by clicking your desktop shortcut.
 
  And if you want to make your desktop shortcut easily accessible, simply pin it to the taskbar. To do that, right-click on your desktop shortcut and select **Pin to taskbar**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. Open the Settings Indirectly via the Desktop Context Menu
 
@@ -202,6 +182,20 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 
 ![Clicking the Home button to exit the taskbar settings and access the complete system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-home-button-to-exit-the-taskbar-settings-and-access-the-complete-system-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Access the Windows System Settings With Ease
 
  Accessing the Windows system settings is quite easy. But if you're struggling to open the system settings, check out any of the methods we’ve covered.
@@ -212,22 +206,6 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
 
  In this article, we'll take you through the different ways to open the Windows system settings.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-audio-change-tools-enhancing-virtual-presence/"><u>[New] Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-videos-prime-triad-of-transcoding-ways-for-2024/"><u>[Updated] Elevate Your Videos Prime Triad of Transcoding Ways for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-circumventing-edgenuity-effortlessly-a-students-guide/"><u>2024 Approved Circumventing Edgenuity Effortlessly A Student's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-on-how-to-transform-your-dvds-sound-into-mp3-using-premium-converters/"><u>Expert Tips on How to Transform Your DVD's Sound Into MP3 Using Premium Converters</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-on-securely-saving-your-favorite-videos-from-videahu/"><u>Expert Tips on Securely Saving Your Favorite Videos From Videa.hu</u></a></li>
-<li><a href="https://win11.techidaily.com/free-ways-to-eliminate-your-tiktok-videos-branding/"><u>Free Ways to Eliminate Your TikTok Video's Branding</u></a></li>
-<li><a href="https://win11.techidaily.com/from-concept-to-screen-essential-techniques-for-creating-amazing-music-videos-beginner-level/"><u>From Concept to Screen: Essential Techniques for Creating Amazing Music Videos (Beginner Level)</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-upgrading-your-dvd-files-a-step-by-step-tutorial-for-hd-wmv-playback-on-windows-pcs/"><u>Guide to Upgrading Your DVD Files: A Step-by-Step Tutorial for HD WMV Playback on Windows PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-melodious-memes-crafting-choreographed-reels-with-sound/"><u>In 2024, Melodious Memes Crafting Choreographed Reels with Sound</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-x50-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor X50 GT without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quickcapture-ultimate-scan-for-2024/"><u>QuickCapture Ultimate Scan for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -235,3 +213,18 @@ thumbnail: https://thmb.techidaily.com/1d889f7ba116c60f8da4a77131f21354069b9feb0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-complete-guide-to-understanding-obs-screen-capture/"><u>2024 Approved Complete Guide to Understanding OBS Screen Capture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/achieving-audiovisual-excellence-with-srt-and-mp4-the-ultimate-guide/"><u>Achieving Audiovisual Excellence with SRT and MP4 - The Ultimate Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-the-thrill-streaming-gameplay-like-a-pro/"><u>Capturing the Thrill Streaming Gameplay Like a Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/complete-tutorial-on-testing-your-web-content-before-go-live/"><u>Complete Tutorial on Testing Your Web Content Before Go Live</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-setup-for-your-safety-first-workspace-win-11/"><u>Effortless Setup for Your Safety-First Workspace (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-systemsettings-issues/"><u>Fixing Windows 11'S SystemSettings Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-activate-microsoft-paint-windows-11-edition/"><u>Guide to Activate Microsoft Paint, Windows 11 Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-compatibility-issues-between-arduino-uno-and-windows-drivers/"><u>How to Resolve Compatibility Issues Between Arduino Uno and Windows Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-navigation-the-complete-breakdown-of-google-maps-features-for-ios-users/"><u>Mastering Navigation: The Complete Breakdown of Google Maps Features for iOS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-a-path-to-resolve-windows-mail-error-0x800713f-quickly/"><u>Unlocking a Path to Resolve Windows Mail Error (0X800713F) Quickly</u></a></li>
+</ul></div>
+

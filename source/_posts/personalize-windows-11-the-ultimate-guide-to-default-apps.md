@@ -1,7 +1,7 @@
 ---
 title: "Personalize Windows 11: The Ultimate Guide to Default Apps"
-date: 2024-09-10T08:30:49.208Z
-updated: 2024-09-17T06:31:22.342Z
+date: 2024-09-15T18:59:38.579Z
+updated: 2024-09-21T20:31:37.198Z
 tags:
   - windows10
   - windows11
@@ -71,20 +71,28 @@ To proceed, follow these steps:
 1. Right-click on the targeted file and choose**Properties** from the context menu.  
 ![Access the properties of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties.jpg)
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
@@ -98,6 +106,13 @@ To proceed, follow these steps:
 
  In this case,[ensure that your user account has administrative rights](https://www.makeuseof.com/check-windows-account-admin-rights/) and that the app you are trying to set as default is compatible with the system. Here are some more steps you can follow to resolve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Update Windows 11
 
  If you're running an outdated version of Windows, you may be experiencing problems due to incompatibility issues. Windows 11 needs to be updated to the latest version in this case.
@@ -109,13 +124,6 @@ Here is how you can do that:
 3. Now, click on the**Check for updates** button on the right side.
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once this is done, follow one of the steps above to change the default app.
 
@@ -135,13 +143,6 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -154,17 +155,17 @@ Here is how you can proceed:
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -187,14 +188,18 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-prioritize-your-videography-with-top-12-players/"><u>[New] Prioritize Your Videography with Top 12 Players</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-9-steps-for-adjusting-windows-11-audio-output/"><u>Discover 9 Steps for Adjusting Windows 11 Audio Output</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone without Google Account?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-premier-playstation-simulators-top-5-selection/"><u>In 2024, Premier PlayStation Simulators Top 5 Selection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fps-for-a-smoother-forza-horizon-5-experience-on-computer/"><u>Optimizing FPS for a Smoother Forza Horizon 5 Experience on Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rapidly-create-a-compelling-facebook-photo-group-for-2024/"><u>Rapidly Create a Compelling Facebook Photo Group for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-win11-store-error-0x800704cf/"><u>Resolving Win11 Store Error: 0X800704CF</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-system-history/"><u>Understanding Windows System History</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-a-resource-avoiding-the-in-use-error-in-windows-152-chars/"><u>Unlocking a Resource: Avoiding the In Use Error in Windows (152 Chars)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevate-your-chuckles-kapwings-meme-designer/"><u>[Updated] 2024 Approved Elevate Your Chuckles Kapwing's Meme Designer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-igtv-content-expansion-direct-sharing-on-facebook-platform/"><u>2024 Approved IGTV Content Expansion Direct Sharing on Facebook Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>2024 Approved Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-online-interactions-gpt-3-beta-integration/"><u>Elevating Online Interactions: GPT-3 Beta Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-savefromnet-safety-and-key-insights-for-secure-downloading/"><u>Evaluating SaveFrom.Net: Safety and Key Insights for Secure Downloading</u></a></li>
+<li><a href="https://blog-min.techidaily.com/expert-guide-taming-volume-levels-and-fine-tuning-audio-tracks-within-adobe-premiere-pro/"><u>Expert Guide: Taming Volume Levels and Fine-Tuning Audio Tracks Within Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/free-methods-to-transfer-your-dvd-collection-onto-your-huawei-device-a-comprehensive-guide/"><u>Free Methods to Transfer Your DVD Collection Onto Your Huawei Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-converting-your-media-files-for-optimal-playback-on-sony-bravia-televisions/"><u>Guide to Converting Your Media Files for Optimal Playback on Sony Bravia Televisions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-any-song-you-love-as-a-personalized-ringtone-free-tutorial/"><u>How to Get Any Song You Love as a Personalized Ringtone - Free Tutorial!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/remote-recording-excellence-best-9-webmicrone-capture-systems-23/"><u>Remote Recording Excellence Best 9 Webmicrone Capture Systems ('23)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-cost-of-gaming-why-standard-displays-outweigh-hdrs/"><u>The Real Cost of Gaming: Why Standard Displays Outweigh HDRs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/upgrade-your-media-skills-windows-xp-edition-for-2024/"><u>Upgrade Your Media Skills Windows XP Edition for 2024</u></a></li>
 </ul></div>
 

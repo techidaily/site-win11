@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Windows 11 Interface: Accessible Tabs"
-date: 2024-09-14T06:15:47.288Z
-updated: 2024-09-17T06:34:22.275Z
+date: 2024-09-20T18:30:03.937Z
+updated: 2024-09-22T03:22:12.869Z
 tags:
   - windows10
   - windows11
@@ -45,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Feature Using ViveTool
 
  Now, you have the Insider build running on your system. You will have to use the ViveTool to enable the hidden experimental feature to drag tabs out of the File Explorer. But first,[download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases) and install the ViveTool on your system. After that, repeat the following steps:
@@ -70,29 +57,36 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
 
  Yes, you can indeed restore the dragged tab back to a File Explorer window. But the process is very clunky. You have to drag and hold the tab onto another open tab in a different File Explorer window.
 
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
 
@@ -113,17 +107,15 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-5-free-screen-recorder-extensions-for-chromebooks/"><u>[New] 2024 Approved TOP 5 Free Screen Recorder Extensions for Chromebooks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-producing-effective-youtube-promo-videos/"><u>[Updated] 2024 Approved Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862740728-710-deal-on-core-i5-12450h-alienexchange-swap-keyboard-for-spectacular-16-inch-dual-displays/"><u>$710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-tailoring-your-podcast-content-with-seo-in-mind/"><u>2024 Approved Tailoring Your Podcast Content with SEO in Mind</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-eradicating-a-drives-partition-on-pc/"><u>Essential Steps for Eradicating a Drives Partition on PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-11-pro-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 11 Pro?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-infinix-hot-40-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Infinix Hot 40 using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-to-vector-art-dive-into-basics-forms-and-software/"><u>New to Vector Art? Dive Into Basics, Forms, and Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/perfect-pixels-curing-video-with-interlace-issues/"><u>Perfect Pixels: Curing Video with Interlace Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-couldnt-access-page-issue-with-ms-store/"><u>Remedying 'Couldn't Access' Page Issue with MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-sound-on-windows-mastering-the-art-of-driver-update/"><u>Streamlined Sound on Windows: Mastering the Art of Driver Update</u></a></li>
-<li><a href="https://win11.techidaily.com/the-case-for-continuing-with-classic-windows-10-compelling-reasons/"><u>The Case for Continuing with Classic Windows 10: Compelling Reasons</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-screentogif-facebook-mobile-video/"><u>[Updated] In 2024, ScreenToGif Facebook Mobile Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-color-in-post-production/"><u>2024 Approved Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-computing-select-the-optimal-device-for-video-editing-for-2024/"><u>Cutting Edge Computing Select the Optimal Device for Video Editing for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-language-power-mastering-slovak-in-minutes/"><u>Daily Dose of Language Power: Mastering Slovak in Minutes</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-adding-diamond-shadow-plug-in-compatible-with-matrix-to-your-kodi-setup/"><u>Easy Guide: Adding Diamond Shadow Plug-In Compatible with Matrix to Your Kodi Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-conversion-of-m2ts-files-to-avi-a-step-by-step-tutorial-at-no-charge/"><u>Effortless Conversion of M2TS Files to AVI - A Step-by-Step Tutorial at No Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-summer-discounts-buy-factory-pro-hd-video-converter-software-directly-from-our-website/"><u>Exclusive Summer Discounts: Buy Factory Pro HD Video Converter Software Directly From Our Website</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-shrinking-ogg-soundtracks-discover-the-leading-ogg-compression-software-solutions/"><u>Expert Tips for Shrinking OGG Soundtracks: Discover the Leading OGG Compression Software Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>New In 2024, Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mkvavimp4digiarty/"><u>マルチパーパス ビデオコンバータ - 高精細度MKV、AVI、MP4を完璧に変換するDigiartyの革新技術</u></a></li>
 </ul></div>
 

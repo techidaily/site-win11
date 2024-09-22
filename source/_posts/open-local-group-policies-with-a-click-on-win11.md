@@ -1,7 +1,7 @@
 ---
 title: Open Local Group Policies with a Click on Win11
-date: 2024-09-14T07:28:18.927Z
-updated: 2024-09-16T21:32:40.244Z
+date: 2024-09-17T05:55:59.104Z
+updated: 2024-09-21T23:43:38.175Z
 tags:
   - windows10
   - windows11
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ![Open Group Policy Editor Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Open Local Group Policy Editor From the Control Panel
@@ -74,19 +74,19 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 4. Under Windows Tools, click **Edit group policy** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-via-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Open Local Group Policy Editor From the Settings App
 
  If you prefer the Settings app instead of the classic Control Panel, you can use the following steps to access the Local Group Policy Editor in Windows 11\.
 
 1. Open the **Start menu,** thenclick the **gear icon**, or use the **Win + I** keyboard shortcut to open the Settings app.
 2. Type **edit group policy** in the search box and select the first result that appears.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Open Local Group Policy Editor Using Windows Copilot
 
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ![Open Local Group Policy Editor Using Windows Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-local-group-policy-editor-using-windows-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Open Local Group Policy Editor From the System32 Folder
@@ -112,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 2. Navigate to the following folder: **C: > Windows > System32**.
 3. Locate and double-click the **gpedit.msc** file to launch the Local Group Policy Editor.  
 ![Open Group Policy Editor Using System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-system32-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Open Local Group Policy Editor Using Task Manager
 
@@ -124,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ![Open Group Policy Editor Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Open Local Group Policy Editor Using Command Prompt or PowerShell
@@ -151,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 4. Type **Local Group Policy Editor** inside the name box and hit **Finish**.  
 ![Create a Desktop Shortcut for Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-a-desktop-shortcut-for-group-policy-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now double-click the Group Policy Editor desktop shortcut to open it quickly.
 
  If you want to open the Local Group Policy Editor even faster, why not [assign a keyboard shortcut to this important Windows program](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/)?
@@ -168,24 +168,6 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
  Whether you use the Windows Search menu, the Run command, or a desktop shortcut, accessing the Local Group Policy Editor in Windows 11 is easy. Once you have opened it, you can review and modify the established policies as needed.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-experts-choice-11-premium-video-extractors-for-2024/"><u>[New] Expert's Choice 11 Premium Video Extractors for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-best-offer-top-business-cloud-solutions-for-2024/"><u>[Updated] Best Offer Top Business Cloud Solutions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-frozen-text-editor-reclaiming-access-on-windows-machines/"><u>Fixing the Frozen Text Editor: Reclaiming Access on Windows Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/flawless-frames-mastering-video-performance-on-your-windows-os/"><u>Flawless Frames: Mastering Video Performance on Your Window's OS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-propeller-picks-unveiling-top-5-motors-for-drones/"><u>In 2024, Prime Propeller Picks Unveiling Top 5 Motors for Drones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/key-concepts-of-interactive-storytelling/"><u>Key Concepts of Interactive Storytelling</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-overcoming-windows-11-update-failures/"><u>Methods for Overcoming Windows 11 Update Failures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-landscape-with-insightful-articles-from-toms-hardware/"><u>Navigating the Digital Landscape with Insightful Articles From Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/overriding-default-pdf-software-on-windows/"><u>Overriding Default PDF Software on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-90-lite-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 90 Lite Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy Z Flip 5 can't play MP4 video files</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-picture-management-top-7-windows-apps/"><u>Streamlined Picture Management: Top 7 Windows Apps</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-verdict-on-huion-inspiroy-g10t-drawing-pad-top-notch-quality-tested/"><u>The Ultimate Verdict on Huion Inspiroy G10T Drawing Pad - Top-Notch Quality Tested!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-preventing-mount-and-blade-ii-bannerlord-crashes/"><u>Troubleshooting Tips for Preventing Mount & Blade II: Bannerlord Crashes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -193,3 +175,17 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-guides-and-reviews-by-toms-technology-experts/"><u>Comprehensive Hardware Guides & Reviews by Tom's Technology Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/direct-fix-overcoming-mtp-device-failures/"><u>Direct Fix: Overcoming MTP Device Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-tracking-with-windows-live-tiles/"><u>Mastering Device Tracking with Windows Live Tiles</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-obstacles-in-our-progress-as-a-species/"><u>Overcoming Obstacles in Our Progress as a Species</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-track-to-success-5-straightforward-strategies-to-speed-up-your-youtube-content-sharing-process/"><u>Quick-Track to Success: 5 Straightforward Strategies to Speed up Your YouTube Content Sharing Process</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-to-transforming-your-pds-videos-from-cyberlinks-powerdirector-into-popular-codecs-such-as-mp4-avi-or-wmv/"><u>Simple Guide to Transforming Your PDS Videos From Cyberlink's PowerDirector Into Popular Codecs Such as MP4, AVI or WMV</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-on-shortening-your-zoom-captures-managing-both-online-streams-and-offline-archives/"><u>Step-by-Step Guide on Shortening Your Zoom Captures - Managing Both Online Streams and Offline Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-setting-up-gaia-version-610-on-your-kodi-nexus-and-matrix-units/"><u>Step-by-Step Guide to Setting Up Gaia Version 6.1.0 on Your Kodi Nexus and Matrix Units</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-no-sound-in-avidemux-dont-worry-weve-got-you-covered/"><u>Updated No Sound in Avidemux? Dont Worry, Weve Got You Covered</u></a></li>
+</ul></div>
+

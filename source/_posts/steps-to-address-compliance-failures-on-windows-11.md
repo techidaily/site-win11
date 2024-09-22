@@ -1,7 +1,7 @@
 ---
 title: Steps to Address Compliance Failures on Windows 11
-date: 2024-09-14T04:02:40.371Z
-updated: 2024-09-17T03:18:46.525Z
+date: 2024-09-18T03:39:40.877Z
+updated: 2024-09-21T20:40:30.248Z
 tags:
   - windows10
   - windows11
@@ -75,10 +75,17 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 6. Select **Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
@@ -90,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
@@ -104,19 +111,6 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the Affected Game or Software
 
  If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can [back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
@@ -126,10 +120,16 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
@@ -144,25 +144,6 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screencapture-simplified-an-in-depth-camstudio-review/"><u>[New] 2024 Approved ScreenCapture Simplified An In-Depth CamStudio Review</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unleashing-potential-making-the-most-of-facebook-each-day/"><u>[New] 2024 Approved Unleashing Potential Making the Most of Facebook Each Day</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-android-mastery-for-virtual-reality-and-panoramic-videos/"><u>[Updated] Android Mastery for Virtual Reality & Panoramic Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>[Updated] The Voice of Action Crafting Moving Screenplay Conversations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensively-reviewing-the-ricoh-theta-s-system/"><u>2024 Approved Comprehensively Reviewing the Ricoh Theta S System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-s23plus-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from S23+</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters/"><u>Mastering YouTube Channel Names A Complete List for Vloggers (Keep It at or Below 156 Characters)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721965931623-the-generous-offer-of-free-gpt-4-yet-here-are-six-insights-to-continue-with-chatgpt-plus/"><u>The Generous Offer of Free GPT-4 - Yet, Here Are Six Insights to Continue with ChatGPT Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-managing-digital-copies-of-dvds-and-cds-rip-burn-and-duplicate/"><u>Ultimate Techniques for Securely Managing Digital Copies of DVDs and CDs - Rip, Burn, and Duplicate</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-leaked-clip-insights-and-teasers-for-the-affordable-next-generation-iphone/"><u>Uncovering Leaked Clip Insights & Teasers for the Affordable Next Generation iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-pls-files-a-comprehensive-guide-on-opening-and-conversion/"><u>Understanding PLS Files: A Comprehensive Guide on Opening & Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/video/"><u>Videoダウンロードハンドラーの効果的な利用法を学ぶ</u></a></li>
-<li><a href="https://win11.techidaily.com/watch-youre-next-a-top-recommendation-for-fans-seeking-a-thrilling-horror-experience/"><u>Watch 'You're Next': A Top Recommendation for Fans Seeking a Thrilling Horror Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11stereo-mix/"><u>Windows 11でStereo Mixによる単音声録音手法</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -170,3 +151,22 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-revolutionary-gameplay-preservation-with-advanced-fbx-recording/"><u>[Updated] In 2024, Revolutionary Gameplay Preservation with Advanced FBX Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mapping-social-interest-to-video-idea-generation-with-google/"><u>[Updated] Mapping Social Interest to Video Idea Generation with Google</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-hidden-potential-in-videos-top-5-strategies-for-stellar-tiktok-captions-for-2024/"><u>[Updated] Unveiling Hidden Potential in Videos Top 5 Strategies for Stellar TikTok Captions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>2024 Approved Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>2024 Approved Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
+<li><a href="https://win11.techidaily.com/cultivating-a-rich-comic-reading-experience-with-win11/"><u>Cultivating a Rich Comic-Reading Experience with Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-discovering-the-most-compelling-8-videomosaic-creators-for-android-devices/"><u>In 2024, Discovering the Most Compelling #8 Videomosaic Creators for Android Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/organizing-epics-implementing-chapters-in-vimeo-media/"><u>Organizing Epics Implementing Chapters in Vimeo Media</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-loading-messages-issue-in-windows-discord/"><u>Overcoming Non-Loading Messages Issue in Windows Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-links-at-the-touch-of-a-button-microsoft-store-uwp-apps/"><u>Quick Links at the Touch of a Button: Microsoft Store UWP Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resolving-mysterious-recording-issue-in-obs-on-windows-11/"><u>Strategies for Resolving Mysterious Recording Issue in OBS on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-superior-search-capabilities-why-perplexer-ai-outshines-all-in-your-google-queries/"><u>Unlock Superior Search Capabilities: Why Perplexer AI Outshines All in Your Google Queries</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-advanced-taskbar-functions-with-end-task-in-windows-11/"><u>Unlocking Advanced Taskbar Functions with End Task in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-update-error-x712-on-pcs/"><u>Unraveling Update Error X712 on PCs</u></a></li>
+</ul></div>
+

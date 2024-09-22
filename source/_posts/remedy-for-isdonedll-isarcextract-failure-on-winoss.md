@@ -1,7 +1,7 @@
 ---
 title: Remedy for ISDone.dll (ISArcExtract) Failure on WinOSs
-date: 2024-09-13T02:41:54.397Z
-updated: 2024-09-16T22:27:08.758Z
+date: 2024-09-16T04:26:25.423Z
+updated: 2024-09-22T05:37:54.326Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 `DISM /Online /Cleanup-Image /RestoreHealth`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Increase Virtual Memory Allocation
 
  As the ISDone.dll error sometimes arises due to insufficient system memory, increasing virtual memory allocation can be a viable solution. Virtual memory is extra memory reallocated from hard drive storage when your PC’s RAM utilization is at maximum. Expanding the paging file will increase the virtual memory.
@@ -69,14 +76,20 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
- For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
 ## 6\. Install Any Missing Visual C++ Redistributables
 
@@ -86,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 2. Then click the X64 link for the Visual Studio 2015-2022 package.  
 ![The X64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-download-link-for-visual-c.jpg)
 3. Double-click the**VC\_redist.x64.exe** file to open an installer window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Select the checkbox for agreeing to the license terms.  
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
@@ -111,29 +117,35 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 `regsvr32 isdone.dll`  
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
 
  It’s not entirely unusual for antivirus apps to cause installation issues like the ISDone.dll error. You can ensure your antivirus tool isn’t interfering with the installation process by temporarily disabling its shield before attempting to install the game. Our[guide to disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) explains how to turn off the antivirus shield for the default Windows Security app.
 
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
 
@@ -142,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
@@ -169,20 +181,18 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ideal-6-innovative-minecraft-dwellings/"><u>[New] In 2024, Ideal 6 Innovative Minecraft Dwellings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-visual-victory-top-10-online-apps-to-sharpen-your-snaps/"><u>[Updated] Visual Victory Top 10 Online Apps to Sharpen Your Snaps</u></a></li>
-<li><a href="https://solve-help.techidaily.com/discover-the-best-free-tools-to-convert-videos-on-windows-11-hd-and-4k-top-picks-of-2020/"><u>Discover the Best Free Tools to Convert Videos on Windows 11 (HD & 4K) - Top Picks of 2020</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a05-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A05 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-raw-footage-to-instagram-gold-top-10-editor-shortlists/"><u>From Raw Footage to Instagram Gold - Top 10 Editor Shortlists</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>In 2024, Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-performance-evaluation-toms-technological-tools-and-systems/"><u>Precision Performance Evaluation - Tom's Technological Tools and Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-extracting-videos-from-your-dvds/"><u>Step-by-Step Guide: Extracting Videos From Your DVDs</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-opening-and-streaming-mkv-videos-directly-on-your-chrome-web-browser/"><u>Step-by-Step Guide: Opening & Streaming .mkv Videos Directly on Your Chrome Web Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-streaming-mkv-video-formats-on-your-ios-device/"><u>Step-by-Step Guide: Streaming MKV Video Formats on Your iOS Device</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-solving-the-issue-of-unsuccessful-webm-file-imports-into-adobe-premiere-pro/"><u>Troubleshooting Guide: Solving the Issue of Unsuccessful WebM File Imports Into Adobe Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-tutorial-how-to-set-up-an-operating-system-installation-directly-from-an-iso-file-no-discs-needed/"><u>Ultimate Tutorial: How to Set Up an Operating System Installation Directly From an ISO File, No Discs Needed</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-the-appeal-of-60-fps-anime-a-visual-quality-comparison/"><u>Understanding the Appeal of 60 Fps Anime - A Visual Quality Comparison</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>Unleashing Imagination Creating Motion Pictures with Windows Movie Maker</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-strategies-to-supercharge-pcs-gaming-capabilities-on-the-latest-windows-11-update/"><u>Winning Strategies to Supercharge PC's Gaming Capabilities on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-clearer-captures-smartphone-specific-tripods-guide/"><u>[Updated] Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-cybernetic-wonders-discovering-sci-fi-metaverse-marvels-on-screen/"><u>2024 Approved Cybernetic Wonders Discovering Sci-Fi Metaverse Marvels on Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>2024 Approved Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chord-and-frame-producing-video-tracks-with-iphones/"><u>Chord and Frame Producing Video Tracks with iPhones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-meizu-21-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Meizu 21</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-delays-in-your-windows-discord-experience/"><u>Eliminating Delays in Your Windows Discord Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-zero-30-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Zero 30 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-x50-gt-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor X50 GT Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-pins-projection-mode-tweaks-on-windows-11/"><u>No More PINs? Projection Mode Tweaks on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011-addressing-pin-validation-glitch/"><u>Overcoming Windows 10/11: Addressing Pin Validation Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-downloads-on-windows-our-5-favorite-torrent-tools/"><u>Streamlined Downloads on Windows: Our 5 Favorite Torrent Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/synching-files-across-two-windows-pcs-made-easy-with-aoemi/"><u>Synching Files Across Two Windows PCs Made Easy with AOEMi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-your-ipad-free-ipados-18-update-available-with-new-innovations-and-pricing-insights/"><u>Unlock the Potential of Your iPad: Free IPadOS 18 Update Available with New Innovations and Pricing Insights!</u></a></li>
 </ul></div>
 

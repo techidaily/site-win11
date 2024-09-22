@@ -1,7 +1,7 @@
 ---
 title: Remedy for 'PowerShell Not Available' Error on PCs
-date: 2024-09-12T02:01:40.075Z
-updated: 2024-09-17T04:57:26.923Z
+date: 2024-09-21T01:16:51.650Z
+updated: 2024-09-22T04:23:30.873Z
 tags:
   - windows10
   - windows11
@@ -63,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
@@ -99,10 +93,10 @@ To run the SFC scan on Windows:
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows PowerShell
@@ -136,10 +130,10 @@ To create a new user account on Windows, use these steps.
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
@@ -165,19 +159,20 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-hidden-details-uncovering-story-viewer-truths/"><u>[New] In 2024, Instagram's Hidden Details Uncovering Story Viewer Truths</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-premier-streaming-platforms-reviewed-and-rated-for-2024/"><u>[New] Premier Streaming Platforms Reviewed & Rated for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-minecraft-homestead-essentials-6-10-for-2024/"><u>[Updated] Minecraft Homestead Essentials #6-10 for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-connectivity-how-to-fetch-and-update-usb-bluetooth-driver-software-on-windows-systems/"><u>Enhance Connectivity: How to Fetch and Update USB Bluetooth Driver Software on Windows Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-authenticity-techniques-to-apply-on-insta-photos-for-2024/"><u>Enhancing Authenticity Techniques to Apply on Insta Photos for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-circle-camera-unboxing-and-tests/"><u>In 2024, Full Circle Camera Unboxing & Tests</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v29-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V29 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-format-transformation-the-leading-tools-for-converting-youtube-videos-into-high-quality-mkv-files/"><u>Mastering Format Transformation: The Leading Tools for Converting YouTube Videos Into High-Quality MKV Files!</u></a></li>
-<li><a href="https://win11.techidaily.com/mp3wavwindows-104/"><u>MP3へのWAVの変換:Windows 10ユーザ向け4つの最適な方法</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4-aviwindows-78/"><u>MP4, AVIなどの動画圧縮手法を学べる【Windows 7/8】ユーザーガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-productivity-why-blackberry-excels-in-the-business-realm/"><u>Optimizing Productivity: Why BlackBerry Excels in the Business Realm</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-solving-audio-continuous-video-freezing-problems-in-google-chrome-and-mozilla-firefox-on-youtube/"><u>Troubleshooting Techniques for Solving Audio-Continuous, Video-Freezing Problems in Google Chrome & Mozilla Firefox on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/pc4/"><u>インターネットラジオをPCで最適に記録するための4つの方法</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-luminance-hd-evaluation-the-ultimate-decision/"><u>[New] Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-acquiring-free-music-youtube-video-edition/"><u>[Updated] 2024 Approved Acquiring Free Music YouTube Video Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-sideways-instagram-videos-an-enigma-or-bug/"><u>[Updated] 2024 Approved Sideways Instagram Videos An Enigma or Bug?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-dispelling-the-curvature-how-to-fix-gopros-fish-eye/"><u>2024 Approved Dispelling The Curvature How to Fix GoPro's Fish Eye</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>2024 Approved Next Level Video Top Webcam Filters for Flawless Broadcasts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-quick-fixes-configuring-windows-troubleshooting-commands/"><u>Expert Guide to Quick Fixes: Configuring Windows Troubleshooting Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-mastering-windows-lav-filter-usage-and-functionality/"><u>Expert Tips for Mastering Window's LAV Filter Usage and Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fixing-zoos-audio-quick-fixes-for-sound-issues-for-2024/"><u>Fixing Zoo's Audio Quick Fixes for Sound Issues for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-windows-11-bluescreens-adopt-these-proven-tactics/"><u>Navigate Windows 11 Bluescreens: Adopt These Proven Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/novel-methods-to-execute-software-on-windows-os/"><u>Novel Methods to Execute Software on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audacity-paudio-internal-issue-in-windows/"><u>Troubleshooting Audacity PAudio Internal Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
 </ul></div>
 

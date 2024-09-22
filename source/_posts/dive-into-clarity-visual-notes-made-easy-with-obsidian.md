@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Clarity: Visual Notes Made Easy with Obsidian"
-date: 2024-09-10T06:43:03.466Z
-updated: 2024-09-16T22:12:37.150Z
+date: 2024-09-18T21:20:41.534Z
+updated: 2024-09-22T06:52:48.587Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Obsidian Note Resize](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-note-resize.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Getting Started With Connectors in Canvas
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
  You can also embed images on your Canvas by dragging the media button from the bottom bar or by directly dragging and dropping them from the **File** tab.
 
 ![Obsidian Canvas Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-images.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The connectors between elements are as configurable as the elements themselves. You can click on a connector and use the mini action menu on its top to a) **remove** it, b) change its **color**, c) **center** the view on it, d) change its **direction** (back, forward, and bidirectional), or e) edit its **label**.
 
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![Obsidian Canvas Connector Remove Label](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-connector-remove-label.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Navigating Your Canvas
 
  As your Canvas grows, you'll need some aid in getting around it. Fortunately, Canvas has special tools to help you get around.
@@ -102,32 +102,18 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Obsidian Canvas Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar.jpg)
 2. The first button, with the cog icon, offers the option to toggle two methods of element **snapping** on the board and **locking** it from edits as "Read-only". The plus and minus buttons allow you to **zoom** in and out, and the circular arrow button to **reset** the zoom level. The rectangular selector button centers the view on the **selected element**. Below are two more buttons for **undoing** and **redoing** actions. The last button, Canvas help, with a question mark, shows a panel with Canvas-related **shortcuts**.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Obsidian Canvas Sidebar Snap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-sidebar-snap.jpg)
 3. Obsidian Canvas displays a horizontal or vertical line when two or more elements' borders or centers align to help you keep your Canvas boards tidy.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Obsidian Canvas Alignment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-canvas-alignment.jpg)
 4. Remember, Obsidian's other features are also active and usable on Canvas. For example, you can still keep **CTRL** pressed and point at a link to a note to see a **floating preview** of its contents.  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Obsidian Floating Note Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-floating-note-preview.jpg)
 
@@ -155,6 +141,19 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
  Congratulations, you just created a GTD-compatible Kanban board! Now, you can add notes to each group, shuffle them, and more.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Canvas Priority Matrix
 
  Also known as the Eisenhower/Covey's Matrix, the Priority Matrix is a great visual way to organize and prioritize tasks. You can learn more about this prioritization method in our article on [how to use Covey's 4 Quadrants Matrix for effective time management](https://www.makeuseof.com/use-coveys-quadrants-matrix-time-management/).
@@ -173,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 * Reconsider or act on them, and shuffle them among the quadrants of your Priority Matrix.
 * **Delete** or **Archive** them when done with any of them to keep your Priority Matrix clean.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Canvas for Everything With Obsidian
 
  With Obsidian's Canvas, the possibilities are truly endless. We saw how you can use it to do things for which you might be using other specialized apps up to now, from creating mind maps to organizing your tasks on a Priority Matrix.
@@ -183,20 +189,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>[New] 2024 Approved Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-year-round-chronicles-top-20-youtubers-for-inspiring-tales/"><u>[New] 2024 Approved Year-Round Chronicles Top 20 YouTubers for Inspiring Tales</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-the-maze-mastering-inverted-visual-lookups-in-instagram-photos/"><u>[Updated] 2024 Approved Navigating the Maze Mastering Inverted Visual Lookups in Instagram Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-live-streaming-made-simple-google-meet-to-youtube-guide/"><u>[Updated] In 2024, Live Streaming Made Simple Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-video-conferencing-zoom-and-xbox-playground/"><u>[Updated] Seamless Video Conferencing Zoom & Xbox Playground</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-windows-11-virtual-artwork/"><u>Creating Windows 11 Virtual Artwork</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-production-to-publication-streamlining-video-submission/"><u>From Production to Publication Streamlining Video Submission</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cell-creation-failure-in-excel-on-pcs/"><u>Resolving Cell Creation Failure in Excel on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/seven-methods-to-resolve-absence-of-optional-windows-options/"><u>Seven Methods to Resolve Absence of Optional Windows Options</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-quick-uninstall-capabilities-on-windows-systems/"><u>Unleashing Quick-Uninstall Capabilities on Windows Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -204,3 +196,24 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-farm-tastic-fun-and-games-top-friendly-farming-titles/"><u>[New] In 2024, Farm-Tastic Fun & Games Top Friendly Farming Titles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[Updated] In 2024, From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] In 2024, How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dimming-tunes-windows-and-mac-strategies/"><u>2024 Approved Dimming Tunes Windows & Mac Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seamless-youtube-experience-on-apple-gear-downloading-made-easy/"><u>2024 Approved Seamless Youtube Experience on Apple Gear Downloading Made Easy</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y100a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y100A without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/gif-avi/"><u>人気の高い無料GIF変換ツール: AVIからのパワフルなスイッチング方法</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-heic-images-to-jpg-format-on-pc-and-mac-a-step-by-step-guide/"><u>Convert HEIC Images to JPG Format on PC and Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/dvd-mp4/"><u>DVDコピーワラジ脱出 MP4への変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-for-bulk-downloading-anime-a-step-by-step-guide/"><u>Efficient Techniques for Bulk Downloading Anime: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-guide-finding-and-downloading-your-favorite-disney-films/"><u>Effortless Guide: Finding & Downloading Your Favorite Disney Films</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-sound-with-dts-virtual-x/"><u>Exploring the World of Sound with DTS Virtual X</u></a></li>
+<li><a href="https://win11.techidaily.com/free-mp4-to-mpg-conversion-techniques-top-8-solutions-unveiled/"><u>Free MP4-to-MPG Conversion Techniques: Top 8 Solutions Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-youtube-vids-as-mp4mp3-best-unpaid-video-and-audio-downloader-apps-available-now/"><u>Get Your YouTube Vids as MP4/MP3 - Best Unpaid Video & Audio Downloader Apps Available Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-choose-a-low-size-high-definition-video-file-format-efficiently/"><u>How to Choose a Low-Size, High-Definition Video File Format Efficiently?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>In 2024, The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
+</ul></div>
+

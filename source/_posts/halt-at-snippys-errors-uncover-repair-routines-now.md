@@ -1,7 +1,7 @@
 ---
 title: Halt at Snippy's Errors? Uncover Repair Routines Now
-date: 2024-09-12T02:17:15.074Z
-updated: 2024-09-17T05:29:04.284Z
+date: 2024-09-20T04:27:56.643Z
+updated: 2024-09-21T22:39:56.544Z
 tags:
   - windows10
   - windows11
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 ![Windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Permit Snipping Tool to Run in the Background
 
  Snipping Tool also might not work if it lacks the necessary permission to run in the background. This means the app won't work unless you are active in the app's window. To rectify this, authorize the Snipping Tool's application to run in the background by following these steps:
@@ -79,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 4. Search for **Snip & Sketch** from the app list and ensure it's toggled on.
 
 ![List of Background Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/background-apps-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Graphics Drivers
 
@@ -95,16 +109,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 4. Restart your Windows device.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update Your Windows Computer
@@ -116,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
  So, head to Settings by pressing **Windows Key + I** and select **Windows Update**. The Windows Update app will start scanning your system automatically, and from there, all you have to do is click on **Download & install**and your Windows will be updated.
 
 ![windows update menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this didn't fix the Snipping Tool on your Windows either, jump to the next trick below.
 
@@ -135,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  That’s it—when you have the Focus feature disabled, try out the Snipping Tool again. It should be working now in most cases.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reset the Snipping Tool App
 
  Sometimes things go awry for the weirdest reasons you can’t explain; your apps on Windows are no exception from accidents of such kind.
@@ -160,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  If the Snipping Tool error was caused because of an abrupt mistake in the app, it should be resolved by the end of the above steps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Enable the Auto Copy Feature
 
  If someone has disabled the auto-save feature on Snipping Tool, the screenshots won’t be saved in your default location automatically.
@@ -176,26 +177,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ![Windows snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/snipping-tool-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, toggle on **Automatically save screenshots**. When you have this setup your screenshots will be saved instantly, solving your Snipping Tool errors for good.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Expanding More on the Snipping Tool
 
@@ -207,23 +195,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  We have tracked down a few reasons why the Snipping Tool can stop working and how to easily resolve them. Let's have a look at how they can be dealt with.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-path-forward-on-youtube-self-publishing-vs-major-label-partnership/"><u>[New] Your Path Forward on YouTube Self-Publishing vs Major Label Partnership</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-legal-pathways-for-youtube-to-mp4-file-downloading-for-2024/"><u>[Updated] Legal Pathways for YouTube to MP4 File Downloading for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimizing-channels-with-tubebuddy-expertise/"><u>[Updated] Optimizing Channels with TubeBuddy Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-clickable-window-previews-return/"><u>Ensuring Clickable Window Previews Return</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-struggle-to-success-learnings-top-challenging-languages/"><u>From Struggle to Success: Learning's Top Challenging Languages</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-v29-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo V29 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/joining-forces-8-digital-avenues-of-human-connection/"><u>Joining Forces: 8 Digital Avenues of Human Connection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plug-in-with-ease-integrating-new-extensions-into-chatgpt/"><u>Plug in with Ease - Integrating New Extensions Into ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-ipod-video-format-maker-easily-transform-videos-into-compatible-formats-for-ipod-ipod-touch-and-more/"><u>Professional IPod Video Format Maker - Easily Transform Videos Into Compatible Formats for iPod, iPod Touch & More</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-track-to-success-5-straightforward-strategies-to-speed-up-your-youtube-content-sharing-process/"><u>Quick-Track to Success: 5 Straightforward Strategies to Speed up Your YouTube Content Sharing Process</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-guide-to-transforming-your-pds-videos-from-cyberlinks-powerdirector-into-popular-codecs-such-as-mp4-avi-or-wmv/"><u>Simple Guide to Transforming Your PDS Videos From Cyberlink's PowerDirector Into Popular Codecs Such as MP4, AVI or WMV</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-on-shortening-your-zoom-captures-managing-both-online-streams-and-offline-archives/"><u>Step-by-Step Guide on Shortening Your Zoom Captures - Managing Both Online Streams and Offline Archives</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -231,3 +202,21 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-deactivating-latest-os-restoring-to-mac-os-1010/"><u>[New] In 2024, Deactivating Latest OS Restoring to Mac OS 10.10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>[New] In 2024, The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-f14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy F14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-installation-of-chrome-on-windows-11-pcs/"><u>Efficient Installation of Chrome on Windows 11 PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-smooth-gameplay-in-call-of-dutys-modern-warfare-ii-fixing-dropped-fps-and-stutter/"><u>Enhancing Smooth Gameplay in Call of Duty's Modern Warfare II - Fixing Dropped FPS and Stutter</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-re-register-microsoft-store-apps-on-windows-10-and-11/"><u>How to Re-Register Microsoft Store Apps on Windows 10 & 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-framefraction-review/"><u>In 2024, FrameFraction Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-quadro-graphics-driver-updates-available-for-windows-10-users/"><u>Latest NVIDIA Quadro Graphics Driver Updates Available for Windows 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-based-roblox-availability-error/"><u>Overcoming Windows-Based Roblox Availability Error</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-rejuvenating-your-hesitant-windows-11-pc/"><u>Regain Control: Rejuvenating Your Hesitant Windows 11 Pc</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smartphone-showdown-determining-whether-an-iphone-or-android-suits-you-best/"><u>Smartphone Showdown: Determining Whether an iPhone or Android Suits You Best</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-taskbar-invisibility-while-full-screen/"><u>Solutions for Taskbar Invisibility While Full-Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-protect-your-windows-skipping-bitlocker/"><u>Strategies to Protect Your Windows, Skipping BitLocker</u></a></li>
+</ul></div>
+

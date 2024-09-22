@@ -1,7 +1,7 @@
 ---
 title: Guide to Eradicate Hard Drive Errors in Win
-date: 2024-09-11T23:57:51.471Z
-updated: 2024-09-17T07:53:41.698Z
+date: 2024-09-17T19:25:11.838Z
+updated: 2024-09-22T08:43:51.289Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  Once the repair process begins, avoid interrupting it or turning off your computer. Doing so could corrupt Windows even further.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the SFC and CHKDSK Tools
 
  If the startup repair tool does not work, it's time to use the Command Prompt to run the System File Checker and CHKDSK tool.
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  If these commands came in handy, be sure to check out all the [built-in Windows tools that repair corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update the Disk Controller Driver
 
  The "disk controller driver" usually appears under a variety of names, like "Standard SATA AHCI" Controller. It is a Windows driver that establishes communication between your operating system and your hard drive. If the disk controller driver gets outdated, it can lead to disk-related errors.
@@ -101,23 +101,16 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 2. Expand the **IDE ATA/ATAPI controllers** category. Right-click on your disk controller driver (in our case, **Standard SATA AHCI Controller**) and select **Update driver**.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 11 Device Manager Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-device-manager-preview.jpg)
 3. Choose **Search automatically for drivers**, then **Search for updated drivers on Windows Update**. Windows will then search for the necessary updates for your disk controller driver.  
 ![Windows 11 Update Drivers Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-update-drivers-window.jpg)
 4. Once it installs the driver update, restart your computer. If the error black screen doesn't appear, it means your issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Try a Third-Party Disk Repair Tool
 
@@ -131,17 +124,32 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 2. Click on **dm.exe** to run Macrorit Partition Expert.  
 ![Macrorit Partition Expert Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-files.jpg)
 3. On the application window, select the disk or volume where your current Windows is present. For example, in our case, it's in **Disk 0**.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After selecting, click on **Check Volume** from the left-hand sidebar.  
 ![Macrorit Partition Expert Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-application.jpg)
 5. Choose **Fix found errors**, **Try to fix found bad sectors**, and click **OK**.  
-![Macrorit Partition Expert Volume Checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-volume-checker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Macrorit Partition Expert Volume Checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-volume-checker.jpg)
 
  Now, Macrorit Partition Expert will analyze your selected disk to check for any bad sectors and try to fix them.
 
@@ -159,24 +167,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  Let's look at various methods to repair the disk issue on your Windows device.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktoks-top-10-game-streaming-stars/"><u>[New] In 2024, TikTok's Top 10 Game Streaming Stars</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-acclaimed-encoder-technology-in-broadcast-systems/"><u>[Updated] Acclaimed Encoder Technology in Broadcast Systems</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-digital-footprint-and-interactive-iconography-honors/"><u>[Updated] In 2024, Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://win11.techidaily.com/3-easy-methods-for-saving-your-favorite-overwatch-game-moments/"><u>3 Easy Methods for Saving Your Favorite Overwatch Game Moments</u></a></li>
-<li><a href="https://win11.techidaily.com/5bplusr6ygp57eo6zug77ya44or44k944kz44oz5zcr44gr44gr5oml6lu944k44kk44og44op44ox44k55yuv55s75l2c5oiq44ks44kk44oj/"><u>快適編集：パソコン向けに手軽タイムラプス動画作成ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/craze-worthy-halloween-contest-from-wonderfox-win-big-this-haunted-season/"><u>Craze-Worthy Halloween Contest From WonderFox – Win Big This Haunted Season!</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ultimate-free-combiner-apps-the-easy-way-to-fuse-your-tracks-together/"><u>Discover the Ultimate Free Combiner Apps: The Easy Way to Fuse Your Tracks Together</u></a></li>
-<li><a href="https://win11.techidaily.com/dvdmov-windows-10/"><u>DVDへMOV形式動画を保存: Windows 10での書き込み方法と作業ガイド</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-combat-and-resolve-code-31-glitches-on-your-windows-operating-system/"><u>Expert Tips to Combat and Resolve Code # 31 Glitches on Your Windows Operating System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-lagging-issues-in-the-latest-version-of-assassins-creed-unity-a-comprehensive-guide/"><u>Fixing Persistent Lagging Issues in the Latest Version of Assassin’s Creed Unity: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-to-splitting-the-action-multiscreen-strategies-on-social-media/"><u>In 2024, The Ultimate Guide to Splitting the Action Multiscreen Strategies on Social Media</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-hp-laserjet-p2c35-driver-problems-for-windows-users/"><u>Resolving HP LaserJet P2C35 Driver Problems for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-edge-of-innovation-4-reasons-claudes-ai-outperforms-chatgpt/"><u>The Edge of Innovation: 4 Reasons Claude's AI Outperforms ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029324974-windows-11/"><u>Windows 11における最新動画合成技術【詳細マニュアル】</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +174,23 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-convert-and-store-webcam-footage-in-vlc-media-for-2024/"><u>[Updated] Convert & Store Webcam Footage in VLC Media for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>[Updated] The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y55s-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y55s 5G (2023) Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-learning-sony-vegas-techniques-for-youtube-video-editing/"><u>In 2024, Unleash Creativity Learning Sony Vegas Techniques for YouTube Video Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-chrome-installation-on-windows-11/"><u>Mastering Chrome Installation on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-disk-read-failures-in-windows/"><u>Steps to Mend Disk Read Failures in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-win11-photos-app-showcase-crafting-captivating-slideshows-and-spot-corrections/"><u>The Ultimate Win11 Photos App Showcase: Crafting Captivating Slideshows & Spot Corrections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thieye-t5e-action-camera-complete-review/"><u>ThiEye T5e Action Camera Complete Review</u></a></li>
+<li><a href="https://win11.techidaily.com/trust-traps-heres-how-to-escape-fake-windows-software/"><u>Trust Traps? Here's How to Escape Fake Windows Software</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-efficient-file-sharing-top-fixes-for-onedrive-in-windows-11/"><u>Unlocking Efficient File Sharing: Top Fixes for OneDrive in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unwrapping-paudio-problems-within-audacity-on-w10w11/"><u>Unwrapping PAudio Problems Within Audacity on W10/W11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-warno-keep-freezing-or-crashing-on-your-windows-computer/"><u>Why Is Warno Keep Freezing or Crashing on Your Windows Computer?</u></a></li>
+</ul></div>
+

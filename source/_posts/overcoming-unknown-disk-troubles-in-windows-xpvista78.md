@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unknown Disk Troubles in Windows XP/Vista/7/8
-date: 2024-09-14T01:28:26.251Z
-updated: 2024-09-16T16:57:19.391Z
+date: 2024-09-15T20:47:58.133Z
+updated: 2024-09-22T09:25:49.932Z
 tags:
   - windows10
   - windows11
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 ![updating the disk drive drivers in the device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/updating-the-disk-drive-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Rebuild the MBR
@@ -87,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 6. Right-click the disk again and select **Create**. Then, click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Format the Disk and Create a New Partition
@@ -104,17 +104,18 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 5. Once the disk is selected, type **"clean"** and press **Enter** to format it.  
 ![run the clean disk disk part command in windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/clean-disk-disk-part-command-prompt.jpg)
 6. Then, type **"GPT"** and press **Enter** to convert the disk to GPT format.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. To create a new partition on a formatted drive, type **"create partition primary"** and hit **Enter**.
 8. Then, type **"format quick fs=ntfs"** and hit **Enter** to format the volume.  
 ![quick format ntfs usb drive command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quick-format-ntfs-usb-drive-command-prompt.jpg)
 9. Lastly, type **"assign"** and hit **Enter** to assign the drive letter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the external drive presenting the error under discussion contains essential data, you shouldn't format it, as you'll lose data this way. Before taking this route, keep that in mind.
 
@@ -128,26 +129,6 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
  If you want to resolve this issue and successfully load the data, here are a few fixes you should try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/hanneling-musical-charm-crafting-custom-playlists-on-youtube-for-2024/"><u>[New] Channeling Musical Charm Crafting Custom Playlists on Youtube for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/xplore-unrestricted-stock-content-in-key-4-video-channels/"><u>[New] Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>[New] The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-social-media-insta-to-tiksync/"><u>[Updated] Mastering Social Media Insta-To-TikSync</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-full-potential-of-windows-photos-app-with-sound-and-filter-upgrades/"><u>2024 Approved Unlock Full Potential of Windows Photos App with Sound & Filter Upgrades</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-x50-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor X50 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac-for-2024/"><u>Efficient Techniques for Secure and Effective Lecture Capturing Using iMac for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-security-lock-and-sleep-timer/"><u>Enhancing Windows Security: Lock & Sleep Timer</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-mobile-hotspot-not-working-in-windows-11/"><u>How to Fix the Mobile Hotspot Not Working in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-windows-hello-for-sign-in/"><u>Step-By-Step: Setting up Windows Hello for Sign In</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-verified-app-issues-in-windows/"><u>Strategies for Overcoming Verified App Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-fix-robloxs-error-403-in-a-windows-sphere/"><u>Strategies to Fix Roblox's Error 403 in a Windows Sphere</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-closed-caption-glitches-a-win-10-solution/"><u>Taming Closed Caption Glitches: A Win 10 Solution</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-windows-10-video-production-best-software-options/"><u>Updated Windows 10 Video Production Best Software Options</u></a></li>
-<li><a href="https://win11.techidaily.com/win-at-vms-essential-ways-to-amplify-windows-performance/"><u>Win at VMs: Essential Ways to Amplify Windows Performance</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +136,21 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-navigating-youtubes-comprehensive-comments-section/"><u>[New] Expert Tips for Navigating YouTube's Comprehensive Comments Section</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hat-drives-youtubes-content-creator-hub-in-2024/"><u>[New] What Drives YouTube's Content Creator Hub, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-viewers-to-earners-journey-calculating-necessary-counts/"><u>[Updated] 2024 Approved Viewers to Earner's Journey Calculating Necessary Counts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-getting-into-film-editing-made-easy/"><u>[Updated] Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-20-proplus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-seamlessly-add-presentations-to-youtube-at-no-cost-audio-optional/"><u>Guide to Seamlessly Add Presentations to YouTube at No Cost - Audio Optional</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-transforming-your-facebook-audio-into-mp3-format-via-computer-mobile-or-web/"><u>Guide: Transforming Your Facebook Audio Into MP3 Format via Computer, Mobile, or Web</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-spark-go-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Spark Go (2023)Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-windows-11-media-drive-issue-incompletedamaged-configuration-information-code-19-causing-failures/"><u>How to Repair Windows 11 Media Drive Issue: Incomplete/Damaged Configuration Information (Code 19) Causing Failures</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone SE (2020)</u></a></li>
+<li><a href="https://win11.techidaily.com/itunesaac/"><u>ITunes上でAACファイルを正常に読み込む方法：解決策集</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-iso-tool-for-quick-dvd-to-iso-and-multi-format-file-transformations/"><u>Leading ISO Tool for Quick DVD-to-ISO and Multi-Format File Transformations</u></a></li>
+<li><a href="https://win11.techidaily.com/mbs/"><u>MBS動画イズム動画ダウンロード・セキュリティ対策ガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Mapping W11 Troubleshooter Icons to Buttons"
-date: 2024-09-15T00:02:32.844Z
-updated: 2024-09-17T05:32:53.074Z
+date: 2024-09-15T08:12:46.095Z
+updated: 2024-09-22T06:24:44.832Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
 
  You can also set up shortcuts for opening any specific troubleshooters included within the Troubleshooting Control Panel applet. Each troubleshooter there has a pack ID with which you can set up a desktop shortcut for opening it. You can set up a troubleshooter shortcut in such a way via the Create Shortcut wizard with the following command:
@@ -92,13 +99,6 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
@@ -114,27 +114,27 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
 5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Open the extracted troubleshooters-context-menu folder.
 7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
 8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
@@ -160,19 +160,16 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-canon-image-masters-10plus-luts-some-are-free/"><u>[New] Canon Image Masters - 10+ LUTs, Some Are Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-inside-a-virtual-reality-device-a-basic-overview/"><u>[New] Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-images-with-intentional-leading-lines-iphone/"><u>2024 Approved Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4isotop3/"><u>無料MP4からISOへの高性能な変換ソフトウェア：おすすめランキングTOP3</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-embedding-subtitles-into-movies-tv-shows-and-online-videos/"><u>Comprehensive Guide: Embedding Subtitles Into Movies, TV Shows, and Online Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-installation-get-your-samsung-c460-drivers-now/"><u>Effortless Installation: Get Your Samsung C460 Drivers Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-canon-mx340-drivers-on-your-windows-pc-windows-1187/"><u>How to Install Canon MX340 Drivers on Your Windows PC (Windows 11/8/7)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools/"><u>In 2024, Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-google-pixel-8-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Google Pixel 8 Pro? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-converting-videocasts-to-high-quality-mp3-files-in-minutes/"><u>Master the Art of Converting Videocasts to High-Quality MP3 Files in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-wav-file-creation-in-windows-10-for-clear-sound-capture/"><u>Mastering the Art of WAV File Creation in Windows 10 for Clear Sound Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4-f4v/"><u>MP4に変換してください - F4Vファイルからのコンバージョンガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/pcgta5/"><u>PC上のGTA5キャプチャ手順: ステップバイステップガイド</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-selecting-superior-screenshot-utilities-for-gamers-on-mac-and-pc/"><u>The Ultimate Guide to Selecting Superior Screenshot Utilities for Gamers on Mac & PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>[New] Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-social-feeds-with-panoramic-content-a-guide-for-iosandroid-users/"><u>[New] Navigating Social Feeds with Panoramic Content A Guide for iOS/Android Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Xiaomi Redmi Note 12 4G.</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-frozen-text-editor-reclaiming-access-on-windows-machines/"><u>Fixing the Frozen Text Editor: Reclaiming Access on Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-frames-mastering-video-performance-on-your-windows-os/"><u>Flawless Frames: Mastering Video Performance on Your Window's OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-can-televising-streaming-services-include-facebook-content/"><u>In 2024, Can Televising Streaming Services Include Facebook Content?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/m1-chip-wins-smoothness-in-every-edit-every-time-for-2024/"><u>M1 Chip Wins Smoothness in Every Edit, Every Time for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-overcoming-windows-11-update-failures/"><u>Methods for Overcoming Windows 11 Update Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-default-pdf-software-on-windows/"><u>Overriding Default PDF Software on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-picture-management-top-7-windows-apps/"><u>Streamlined Picture Management: Top 7 Windows Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-here-are-the-top-ten-movie-trailer-apps-for-iphones-and-ipads-you-can-use-to-create-eye-catching-trailers-for-all-types-of-videos-you-/"><u>Updated 2024 Approved Here Are the Top Ten Movie Trailer Apps for iPhones and iPads You Can Use to Create Eye-Catching Trailers for All Types of Videos You Create</u></a></li>
 </ul></div>
 

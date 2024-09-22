@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Security: Add Trusted Sites to Windows 11"
-date: 2024-09-10T20:38:49.968Z
-updated: 2024-09-16T16:28:02.539Z
+date: 2024-09-21T00:59:37.552Z
+updated: 2024-09-21T20:49:01.104Z
 tags:
   - windows10
   - windows11
@@ -81,36 +81,22 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 ![Settings option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option.jpg)
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Add exception option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-exception-option.jpg)
 6. Click the **Save Changes** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to remove a website from Mozilla Firefox's trusted list, access the Manage Exceptions window, select the website and click the **Remove Website** option. Then, click the Save Changes button.
 
 ![Remove Website option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-website-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a Website to the Brave Trusted List
 
@@ -120,29 +106,28 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 2. Click the Lock icon on the URL box and choose Site settings.  
 ![Lock icon in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lock-icon.jpg)
 3. Click the drop-down icon next to the Insecure content option and choose Allow.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Insecure content option in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Up Trusted Sites List
 
  Oftentimes, you will notice your browser showing error messages upon accessing certain websites or web pages. This is in place to keep your computer secure from potentially harmful websites. But if you know the website you're trying to access is safe, you can add it to the trusted list of different browsers.
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-airwaves-dji-drones-and-social-media-live-for-2024/"><u>[New] Mastering the Airwaves DJI Drones and Social Media Live for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-create-memes-with-kapwing-magic-tool/"><u>[Updated] Create Memes with Kapwing Magic Tool</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-discovering-the-tech-behind-dji-phantom-3-professional/"><u>[Updated] In 2024, Discovering the Tech Behind DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-fixes-for-boot-issues-with-windows-11s-safe-mode/"><u>Easy Fixes for Boot Issues with Windows 11'S Safe Mode</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhanced-user-experience-through-cutting-edge-cookiebot-solutions/"><u>Enhanced User Experience Through Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-0x80242016-in-windows-update-woes/"><u>Halt 0X80242016 in Windows Update Woes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-boosting-engagement-customizing-your-shorts-first-impressions/"><u>In 2024, Boosting Engagement Customizing Your Shorts' First Impressions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y27-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y27 5G</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-uncover-the-top-7-android-alternatives-for-ad-free-browsing/"><u>In 2024, Uncover the Top 7 Android Alternatives for Ad-Free Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-heic-photos-into-jpeg-on-pcs/"><u>Streamline HEIC Photos Into JPEG on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-5-frustrations-of-windows-11-switchers/"><u>The Top 5 Frustrations of Windows 11 Switchers</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +136,23 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cutting-edge-obs-use-in-android-broadcasting/"><u>[New] 2024 Approved Cutting-Edge OBS Use in Android Broadcasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-tactics-for-youtube-advertising-with-banners/"><u>[New] 2024 Approved Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-our-quick-and-complete-obs-youtube-streaming-path-for-newbies/"><u>[Updated] In 2024, Our Quick & Complete OBS Youtube Streaming Path for Newbies</u></a></li>
+<li><a href="https://win11.techidaily.com/tar/"><u>「効果的にTARフォームの圧縮手順を追体系化してみませんか？」</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-yearly-insights-the-most-impactful-social-graphs/"><u>2024 Approved Yearly Insights - The Most Impactful Social Graphs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-investigating-the-top-10-cost-effective-video-collaboration-tools-in-corporateedu-settings/"><u>In 2024, Investigating the Top 10 Cost-Effective Video Collaboration Tools in Corporate/Edu Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-of-lenovo-ideapad-l340eer-an-affordable-option-for-gamers/"><u>In-Depth Analysis of Lenovo IdeaPad L340EER - An Affordable Option for Gamers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-simplest-online-tone-generators-our-top-picks/"><u>New 2024 Approved Simplest Online Tone Generators Our Top Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-your-online-gaming-experience-by-lowering-latency-latest-techniques/"><u>Optimize Your Online Gaming Experience by Lowering Latency: Latest Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/petcube-premium-budget-conscious-hd-pet-surveillance-camera/"><u>Petcube Premium: Budget-Conscious HD Pet Surveillance Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-to-converting-psd-images-into-animated-gifs-without-using-adobe-photoshop/"><u>Simple Guide to Converting PSD Images Into Animated GIFs Without Using Adobe Photoshop</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-sign-up-process-mastering-user-registration/"><u>Simple Sign-Up Process - Mastering User Registration</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-making-your-mp4-videos-compatible-with-iphones/"><u>Simple Steps: Making Your MP4 Videos Compatible with iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transferring-youtube-music-and-video-content-onto-your-ipod-device/"><u>Step-by-Step Guide: Transferring YouTube Music & Video Content Onto Your iPod Device</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-the-top-10-mp4-to-avi-video-converter-programs-available-for-free/"><u>The Ultimate List of the Top 10 MP4-to-AVI Video Converter Programs Available for Free</u></a></li>
+</ul></div>
+

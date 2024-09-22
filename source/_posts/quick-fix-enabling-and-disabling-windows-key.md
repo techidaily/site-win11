@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Enabling and Disabling Windows Key"
-date: 2024-09-10T06:31:32.134Z
-updated: 2024-09-16T16:24:10.203Z
+date: 2024-09-21T05:45:12.189Z
+updated: 2024-09-21T23:56:53.434Z
 tags:
   - windows10
   - windows11
@@ -98,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 5. If the value doesn’t exist, you’ll need to create one. So, right-click on the Keyboard Layout sub-key on the left and select **New > Binary Value**. Rename the value as **Scancode Map**.  
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![delete scancode map binary value registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-scancode-map-binary-value-registry-editor-windows.jpg)
@@ -116,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 7. Type the following binary value in the **Value data** field:  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `00, 00, 00, 00, 00, 00, 00, 00  
@@ -148,16 +142,16 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 5. Select **Enabled** and click **Apply** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply the changes, you’ll need to restart your computer; alternatively, open Command Prompt as administrator, type gpupdate /force, and hit Enter to apply the changes immediately.
@@ -174,21 +168,6 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
  Here's a step-by-step guide on how to turn the Windows key on and off in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-assessing-common-fb-video-formats-for-2024/"><u>[New] Assessing Common FB Video Formats for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-organize-photo-album-on-iphone-and-icloud/"><u>[Updated] How To Organize Photo Album On iPhone And iCloud</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-simplifying-visual-sharing-in-ms-teams-with-snap-camera/"><u>[Updated] Simplifying Visual Sharing in MS Teams with Snap Camera</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028777909-windows-11/"><u>「ウェブ会議を記録・再生する Windows 11ユーザーへの究極チュートリアル」</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-making-your-mark-with-effective-facebook-cover-vids/"><u>2024 Approved Making Your Mark with Effective Facebook Cover Vids</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-video-quality-from-sdr-to-stunning-hdr-a-practical-handbook/"><u>2024 Approved Transforming Video Quality From SDR to Stunning HDR - A Practical Handbook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-text-messaging-issues-here-are-10-proven-remedies-for-you/"><u>IPhone Text Messaging Issues? Here Are 10 Proven Remedies for You</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027083182-mp4/"><u>MP4ビデオのクリップ編集：品質損失ゼロ、再エンコード不要</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027968883-pcyoutube/"><u>PCで手軽にYouTubeショートをカット・編集する方法とフリーアプリ</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix IMEI without Root A Comprehensive Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +175,17 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-bring-back-the-light-solutions-for-gaming-screens-turned-black-with-obs/"><u>[New] Bring Back the Light Solutions for Gaming Screens Turned Black with OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>[Updated] Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-invalid-profiles-on-windows-10-and-11-systems/"><u>Fixing Invalid Profiles on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-updates-error-0x8024a205/"><u>How to Fix Windows Update's Error 0X8024a205</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-note-50-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme Note 50 Lock Screen Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-navigation-through-narrator-commands/"><u>Mastering the Art of Windows Navigation Through Narrator Commands</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-frame-rates-fixing-fps-dips-in-rainbow-six-mobile-extraction/"><u>Optimizing Frame Rates: Fixing FPS Dips in Rainbow Six Mobile Extraction</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-discords-devastating-javascript-problems-in-w10w11-systems/"><u>Overcoming Discord's Devastating Javascript Problems in W10/W11 Systems</u></a></li>
+</ul></div>
+

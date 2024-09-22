@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows: Admin-Restricted Security Error"
-date: 2024-09-13T23:48:27.081Z
-updated: 2024-09-17T03:48:18.883Z
+date: 2024-09-14T17:57:57.090Z
+updated: 2024-09-22T00:32:29.820Z
 tags:
   - windows10
   - windows11
@@ -58,16 +58,17 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 4. Then double-click the**Enabled** DWORD within the**HypervisorEnforcedCodeIntegrity** key.  
 ![The HypervisorEnforced registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hypervisor-key.jpg)
 5. Clear the**Data value** box, and then input**0** there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**OK** to set the**Enabled** DWORD’s value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-window.jpg)
 7. Exit Registry Editor and click the**Power** \>**Restart** Start menu options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Set Group Policy’s Real-time Protection Settings to "Not Configured"
 
@@ -82,22 +83,23 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 6. Double-click any policy setting that’s with an enabled state.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Then select the**Not configured radio** button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Windows Security
 
@@ -109,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![The reinstall app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reinstall-app-command.jpg)
 3. Press**Enter** and wait for the command to finish.
 4. Restart your laptop or desktop from the Start menu.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
 
@@ -130,14 +125,15 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
-8. Click**Install** to reinstall Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Click**Install** to reinstall Windows 11.
 
 ## Change Windows Security’s Settings Again
 
@@ -158,21 +154,17 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-obs-timeline-expertise-crafting-custom-countdown-features/"><u>[Updated] 2024 Approved Obs Timeline Expertise Crafting Custom Countdown Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-action-to-archive-top-screen-recording-tools-assessed/"><u>[Updated] Action to Archive Top Screen Recording Tools Assessed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-quick-and-clean-method-to-live-podcast/"><u>[Updated] Quick & Clean Method to Live Podcast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-record-of-screenshots-videos-and-live-audio-by-winxvideo-software/"><u>AI-Powered Record of Screenshots, Videos, and Live Audio by Winxvideo Software</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-common-issues-with-windows-11s-installers/"><u>Eliminating Common Issues with Windows 11'S Installers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tune-your-system-control-delete-confirmations/"><u>Fine-Tune Your System: Control Delete Confirmations</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-inadequate-memory-notifications-in-virtual-machines/"><u>Fixing Inadequate Memory Notifications in Virtual Machines</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harness-the-strengths-of-cookiebot-for-superior-data-collection/"><u>Harness the Strengths of Cookiebot for Superior Data Collection</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-unrequested-file-explorer-launches/"><u>How to Disable Unrequested File Explorer Launches</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reshape-your-windows-identity-with-a-new-username/"><u>How to Reshape Your Windows Identity with a New UserName</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s24-ultra-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S24 Ultra Device SIM</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-vivo-v29-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo V29 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-flaws-in-windows-modern-standby-tech/"><u>The Hidden Flaws in Windows Modern Standby Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-complexity-of-error-0x8007251d-solutions/"><u>Unraveling the Complexity of Error 0X8007251D: Solutions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-the-top-10-vlog-editor-apps/"><u>Updated 2024 Approved Unleash Your Creativity The Top 10 Vlog Editor Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-strategy-for-allocated-memory-management/"><u>Windows' Strategy for Allocated Memory Management</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-your-facebook-experience-mastering-story-uploads-for-2024/"><u>[New] Enhancing Your Facebook Experience Mastering Story Uploads for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-optimal-remote-voice-recorders/"><u>[New] In 2024, Optimal Remote Voice Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-uncovering-expert-video-making-talents/"><u>[New] Uncovering Expert Video Making Talents</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-advantages-analysis-xbox-game-pass-vs-psplus-essential-comparison/"><u>Access Advantages Analysis: Xbox Game Pass Vs. PS+ Essential Comparison</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y100i-power-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y100i Power 5G?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparative-review-of-premium-streaming-services/"><u>In 2024, Comparative Review of Premium Streaming Services</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-animate-for-free-top-10-whiteboard-animation-software-for-windows-and-mac/"><u>New Animate for Free Top 10 Whiteboard Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-videos-into-mov-format/"><u>Step-by-Step Guide: Converting Videos Into MOV Format</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-karaoke-tracks-from-youtube-without-restrictions/"><u>Step-by-Step Guide: Downloading Karaoke Tracks From YouTube Without Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-process-for-clipping-movies-at-15-second-markers-the-ultimate-tutorial/"><u>Step-by-Step Process for Clipping Movies at 15-Second Markers: The Ultimate Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-efficiently-reducing-file-size-using-adobe-media-encoder/"><u>Step-by-Step Tutorial on Efficiently Reducing File Size Using Adobe Media Encoder</u></a></li>
 </ul></div>
 

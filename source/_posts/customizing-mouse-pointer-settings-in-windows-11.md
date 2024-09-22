@@ -1,7 +1,7 @@
 ---
 title: Customizing Mouse Pointer Settings in Windows 11
-date: 2024-09-13T01:53:37.226Z
-updated: 2024-09-16T16:10:50.382Z
+date: 2024-09-18T09:31:46.611Z
+updated: 2024-09-22T07:18:46.885Z
 tags:
   - windows10
   - windows11
@@ -61,13 +61,6 @@ So, without further ado, let’s get into them.
 
  Drag the**Mouse pointer speed** slider to adjust your pointer speed.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Changing Your Primary Mouse Button
 
  The left mouse button is the default primary mouse button, typically used to activate or select on-screen elements. It is used for clicking, double-clicking, and drag-and-drop actions. On the other hand, the right mouse button is mostly used to open up a context menu, which provides more information on the selected item.
@@ -80,21 +73,35 @@ So, without further ado, let’s get into them.
 
 ![Screenshot of primary mouse button settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-primary-mouse-button-settings-page-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Additional Mouse Pointer Settings
 
  To tweak your mouse further, head over to**Additional mouse settings** on the same page.
 
 ![screenshot of additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you can enable**ClickLock** to let you drag and drop without holding down the mouse button.
 
 ![how to enable ClickLock on additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the**Pointers** tab to select a mouse scheme and customize the different shapes of the mouse pointer. You can also[use a custom mouse cursor](https://www.makeuseof.com/windows-11-custom-mouse-cursor/) by clicking**Browse** to download online. Lastly, you can tick the**Enhance pointer shadow** checkbox if you’d prefer that.
@@ -111,33 +118,20 @@ So, without further ado, let’s get into them.
 
  The text cursor is that blinking vertical line that indicates the point where you can enter or highlight text on your screen. The following settings show you how to enhance the look of your text cursor.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Using the Text Cursor Indicator
 
  The text indicator can help you find a cursor easily in a sea of text. By enabling the text indicator in settings, you won’t have to waste time searching for the text cursor while typing.
 
  To turn it on, open **Settings > Accessibility** and select the **Text cursor** option.  Toggle on the text cursor indicator. ![screenshot of text cursor settings page windows 11](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-text-cursor-settings-page-windows-11.jpg)
 
- To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
 
 ### 2\. Changing the Text Cursor’s Thickness
 
@@ -146,10 +140,10 @@ So, without further ado, let’s get into them.
 ![screenshot of text cursor thickness settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-text-cursor-thickness-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configuring Your Mouse Pointer Makes Your PC More Accessible
@@ -173,12 +167,15 @@ So, without further ado, let’s get into them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-the-art-of-uploading-youtube-videos-on-fb/"><u>[New] 2024 Approved Mastering the Art of Uploading YouTube Videos on FB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-laptop-and-mobile-manual-for-old-fb-stories-for-2024/"><u>[Updated] The Complete Laptop & Mobile Manual for Old FB Stories for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-latest-nvidia-1080-drivers-for-windows-10-now/"><u>Get Your Latest NVIDIA 1080 Drivers for Windows 10 Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-startups-on-win11-the-ultimate-guide/"><u>Immediate Startups on Win11: The Ultimate Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-synchronization-with-microsofts-to-do-app/"><u>Overcoming Non-Synchronization with Microsoft's To-Do App</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-fcpx-plugin-roundup-the-best-of-both-worlds-free-and-paid/"><u>Updated FCPX Plugin Roundup The Best of Both Worlds (Free & Paid)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>[New] Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-avoiding-common-mistakes-in-screencasting/"><u>[Updated] 2024 Approved Avoiding Common Mistakes in Screencasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elite-20-unprotected-open-access-pubg-montages-for-2024/"><u>[Updated] Elite 20 Unprotected, Open-Access PUBG Montages for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-prime-sites-for-uploading-and-viewing-new-releases-in-telugu-cinema/"><u>Discover the Prime Sites for Uploading & Viewing New Releases in Telugu Cinema</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-enable-and-listen-to-wma-audio-on-android-smartphones/"><u>Easy Steps to Enable and Listen to WMA Audio on Android Smartphones</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-conversion-transforming-webm-files-into-mov-format-with-simple-methods/"><u>Effortless Conversion: Transforming WebM Files Into MOV Format with Simple Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-12-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme 12 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-install-missing-drivers-for-devices-in-windows-operating-systems/"><u>Solved: How to Install Missing Drivers for Devices in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-conversores-de-video-em-gif-ferramentas-on-line-e-off-line-mais-eficientes/"><u>Top Conversores De Vídeo Em GIF: Ferramentas On-Line E Off-Line Mais Eficientes</u></a></li>
 </ul></div>
 

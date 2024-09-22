@@ -1,7 +1,7 @@
 ---
 title: "Win 11: Rebooting RAM Settings"
-date: 2024-09-13T07:39:10.393Z
-updated: 2024-09-17T00:29:50.696Z
+date: 2024-09-20T20:43:26.426Z
+updated: 2024-09-21T18:02:07.191Z
 tags:
   - windows10
   - windows11
@@ -68,10 +68,10 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use Registry Editor
@@ -87,10 +87,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
  Next, double-click on the **ClearPageFileAtShutdown** key and set its value to **1**. Click on the **OK** button to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reset Virtual Memory To Get Better Performance
@@ -112,20 +112,19 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-demystifying-macos-capture-feature-for-professional-use/"><u>[New] Demystifying macOS Capture Feature for Professional Use</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-precision-in-motion-apowersofts-pc-screen-recorder-review/"><u>[New] Precision in Motion Apowersoft's PC Screen Recorder Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[Updated] [Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-full-guide-to-enhancing-photos-with-facetune-app/"><u>2024 Approved Full Guide to Enhancing Photos with Facetune App</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-itel-a60-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/aural-adventures-tech-updates/"><u>Aural Adventures Tech Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/m4a202c/"><u>M4Aファイル編集プログラム202C最新リリースをお勧めします!音質無傷の維持が可能</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4pspps3ps4ps5/"><u>MP4ビデオプレイヤー不可能：PSP/PS3からPS4、PS5までのトラブルシューティングガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/mpeg-4mp3/"><u>MPEG-4ファイルをMP3形式に変換するための詳細ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/new-htc-windows-phone-7-series-hd7-smartphone-hits-retail-shelves/"><u>New HTC Windows Phone 7 Series HD7 Smartphone Hits Retail Shelves</u></a></li>
-<li><a href="https://win11.techidaily.com/preserve-original-excellence-with-wonderfox-turn-your-videos-into-crisp-clear-gifs-effortlessly/"><u>Preserve Original Excellence with WonderFox: Turn Your Videos Into Crisp, Clear GIFs Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-for-optimizing-videos-in-your-inbox-the-ultimate-compression-guide/"><u>Quick Tips for Optimizing Videos in Your Inbox: The Ultimate Compression Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/shazam-tutorial-how-to-identify-music-in-videos-across-android-ios-and-pcs/"><u>Shazam Tutorial: How to Identify Music in Videos Across Android, iOS, and PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-users-ultimate-guide-to-installing-and-using-chatgpt/"><u>Windows Users' Ultimate Guide to Installing & Using ChatGPT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-xiaomi-mi-11-a-guide-to-screen-recording-pro/"><u>[New] In 2024, Xiaomi Mi 11 A Guide to Screen Recording Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-must-visit-web-resources-for-text-aesthetics-and-functionality/"><u>[New] Must-Visit Web Resources for Text Aesthetics & Functionality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-total-visual-display-for-2024/"><u>[Updated] Secure Total Visual Display for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-yuva-3-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Yuva 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/examine-pimaxs-crystal-clarity-a-visual-treat-with-bugs/"><u>Examine Pimax's Crystal Clarity - A Visual Treat with Bugs</u></a></li>
+<li><a href="https://win11.techidaily.com/give-your-windows-mail-and-calendar-apps-a-cool-look-with-your-favorite-pictures/"><u>Give Your Windows Mail and Calendar Apps a Cool Look With Your Favorite Pictures</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-frozen-intellij-unison-app-on-your-win11-pc/"><u>How to Fix a Frozen IntelliJ Unison App on Your Win11 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-11-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 11 for Free</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-technical-approach-to-combining-soundtracks-with-video-footage-on-mobile-devices/"><u>New A Technical Approach to Combining Soundtracks with Video Footage on Mobile Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/scavenger-race-victory-guide-master-your-match-on-pc/"><u>Scavenger Race Victory Guide - Master Your Match on PC!</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-to-the-too-many-requests-error-on-windows-platform/"><u>Swift Solutions to the Too Many Requests Error on Windows Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/the-next-gen-workstation-a-closer-look-at-the-asus-s15-bape-edition/"><u>The Next-Gen Workstation: A Closer Look at the ASUS S15 BAPE Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-hidden-mastering-dark-modes-in-notepad-win-11-edition/"><u>Unlock the Hidden: Mastering Dark Modes in Notepad, Win 11 Edition</u></a></li>
 </ul></div>
 

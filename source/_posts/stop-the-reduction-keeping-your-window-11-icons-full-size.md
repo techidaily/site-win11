@@ -1,7 +1,7 @@
 ---
 title: "Stop the Reduction: Keeping Your Window 11 Icons Full-Size"
-date: 2024-09-16T03:02:01.059Z
-updated: 2024-09-16T21:13:55.774Z
+date: 2024-09-21T00:07:10.275Z
+updated: 2024-09-22T08:48:13.397Z
 tags:
   - windows10
   - windows11
@@ -56,34 +56,15 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-climbing-the-viewership-ladder-with-igtv-strategies-to-succeed/"><u>[New] 2024 Approved Climbing the Viewership Ladder with IGTV Strategies to Succeed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-top-tools-for-engaging-video-beginnings/"><u>[Updated] In 2024, Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-tips-for-syncing-ios-events-on-windows-pc/"><u>Cutting-Edge Tips for Syncing iOS Events on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719299682478-enhancing-productivity-with-cloud-services-dropboxgoogle-on-c/"><u>Enhancing Productivity with Cloud Services: Dropbox/Google on C</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fitbit-sense-the-smart-choice-for-a-healthier-lifestyle-vs-apple-watch/"><u>Fitbit Sense: The Smart Choice for a Healthier Lifestyle Vs. Apple Watch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic5 Ultimate?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-the-best-5-book-tt-examples/"><u>In 2024, A Guide to the Best 5 Book TT Examples</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-time-lapse-game-with-essential-gopro-studio-skills/"><u>In 2024, Elevate Your Time-Lapse Game with Essential GoPro Studio Skills</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-visual-experience-autocolor-on-windows-11/"><u>Master Your Visual Experience - AutoColor on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-blue-screen-fixation-error-code-0x8007007e/"><u>Mastering Windows Blue Screen Fixation - Error Code 0X8007007E</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/pixelpuzzle-pro-crafting-videos-for-instagallery-for-2024/"><u>PixelPuzzle Pro Crafting Videos for InstaGallery for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enable-halted-slack-notifications-on-windows-devices/"><u>Re-Enable Halted Slack Notifications on Windows Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-honor-magic5-ultimate-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic5 Ultimate Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-repairing-color-distortion-in-shop/"><u>Techniques for Repairing Color Distortion in Shop</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-linux-commands-on-windows-via-sudo/"><u>Unlocking Linux Commands on Windows via Sudo</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -92,3 +73,20 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-is-there-a-superior-cameras-marketplace/"><u>[Updated] Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44kk44oz44k44o844on44od44oi44gl44kj5yuv55s744ks44kt44oj44ox44ob44oj44gz44kl44gf44kb44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj44cn/"><u>「インターネットから動画をキャプチャするためのステップバイステップガイド」</u></a></li>
+<li><a href="https://win11.techidaily.com/2024-ps5/"><u>2024年版 PS5 ビデオ再生問題解決法：ステップバイステップガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030205806-wav/"><u>高度WAV編集ガイド：効果的にトリミング・組み合わせ・ボリューム調整法</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simple-guide-converting-stunning-hdr-videos-into-compatible-sdr-format/"><u>A Simple Guide: Converting Stunning HDR Videos Into Compatible SDR Format</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertire-gratuitamente-i-video-mts-in-mp4-senza-problemi-metodi-e-strumenti-migliori/"><u>Convertire Gratuitamente I Video MTS in MP4 Senza Problemi: Metodi E Strumenti Migliori</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>In 2024, Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-truth-behind-the-genius-widecam-f100-unpacking-pixel-issues-and-sound-echoes/"><u>The Truth Behind the Genius WideCam F100: Unpacking Pixel Issues and Sound Echoes</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-xcover-6-pro-tactical-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy XCover 6 Pro Tactical Edition Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/44oh44oh44kj44ki44ov44kh44kk44or566h55cg44gr54m55yyw44gx44gf44gv44gplus44gw44gplus44gq44k944ov44oi44km44kn44ki44o744oe44o844or44go44ki44ox44oq44kx44o844k34490/"><u>メディアファイル管理に特化したさまざまなソフトウェア・ツールとアプリケーションを紹介する</u></a></li>
+</ul></div>
+

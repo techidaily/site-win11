@@ -1,7 +1,7 @@
 ---
 title: Integrating iMessage Into Your Windows Device Ecosystem
-date: 2024-09-12T17:59:56.586Z
-updated: 2024-09-16T16:48:51.078Z
+date: 2024-09-19T03:30:42.914Z
+updated: 2024-09-21T19:15:46.235Z
 tags:
   - windows10
   - windows11
@@ -55,18 +55,32 @@ Close
 
 ![Choosing a mobile device in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/phone-link-choose-mobile-device-screen-windows.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The app will display a QR code that you can scan using the Camera app on your iPhone. Tap**Pair Your Devices** when it appears on your iPhone—it will pop up below the QR code. Then, tap**Open** on the prompt that appears.
 
 ![Scanning a QR code on an iPhone,](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/iphone-camera-pairing-qr-code.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Prompt to open the Link to Windows app after scanning the QR code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/prompt-pair-devices-link-to-windows-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -77,10 +91,10 @@ Close
 ![The prompt with a pairing code in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-prompt-link-to-windows-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -88,6 +102,19 @@ Close
  Now, go to the Phone Link app on Windows and click**Pair** .
 
 ![The pairing screen with code in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-screen-phone-link-windows.png)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On your iPhone, tap**Done** . You’re almost done setting up iMessage for your PC; there’s just one more step.
 
@@ -99,21 +126,7 @@ Close
 
 ![The Bluetooth settings page on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/bluetooth-settings-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Bluetooth settings of a Windows PC on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pc-bluetooth-settings-iphone.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -134,13 +147,6 @@ Close
  Type your message in the chat box at the bottom and press Enter or click**Send** .
 
 ![Sending a message in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/sending-message-phone-link-windows.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As long as you have notifications enabled on the Phone Link app, you will get an alert when the other person responds.
 
@@ -167,19 +173,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-create-square-videos-to-gain-more-likes-on-facebook/"><u>[Updated] 2024 Approved How to Create Square Videos to Gain More Likes on Facebook</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/19-secrets-to-free-capture-of-virtual-learning-sessions-for-2024/"><u>19 Secrets to FREE Capture of Virtual Learning Sessions for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-digital-dynamics-pro-strategies-to-switch-shades/"><u>2024 Approved Digital Dynamics Pro Strategies to Switch Shades</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-facial-transformation-tools-for-smartphones/"><u>2024 Approved Premier Facial Transformation Tools for Smartphones</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-xr-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone XR without Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app-for-2024/"><u>How to Edit Text in Image? [Photo Text Editor Online and App] for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-failed-updates-on-microsoft-store/"><u>How to Rectify Failed Updates on Microsoft Store</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ideal-imagery-best-google-meet-screen-savers-for-2024/"><u>Ideal Imagery Best Google Meet Screen Savers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/new-era-of-laptops-unveiled-at-ifa-2023/"><u>New Era of Laptops Unveiled at IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-device-usage-post-sleep-in-win11/"><u>Reactivate Device Usage Post-Sleep in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-to-rectify-errant-keyboard-arrows/"><u>Reboot to Rectify Errant Keyboard Arrows</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-performance-with-just-six-simple-steps-in-windows/"><u>Skyrocketing Performance with Just Six Simple Steps in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-remedies-for-correction-of-wsls-errortoomanyretries/"><u>Swift Remedies for Correction of WSL's ERROR_TOO_MANY_RETRIES</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-vortex-keywords-that-propel-you-into-social-media-spotlight/"><u>Viral Vortex Keywords that Propel You Into Social Media Spotlight</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-become-a-whatsapp-guru-key-tips-and-tricks-uncovered-for-2024/"><u>[New] Become a WhatsApp Guru Key Tips and Tricks Uncovered for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-conquer-the-vr-world-your-first-vr-adventure-for-2024/"><u>[Updated] Conquer the VR World Your First VR Adventure for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recordernation-gratuity-edition-2024-release/"><u>[Updated] RecorderNation Gratuity Edition, 2024 Release</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/drive-engagement-with-free-tools-crafting-powerful-fb-ad-videos/"><u>Drive Engagement with FREE Tools Crafting Powerful FB Ad Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airdrop-back-on-track-with-these-critical-nine-fixes-in-minutes/"><u>Get Your AirDrop Back on Track with These Critical Nine Fixes in Minutes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-12-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus 12</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-c55-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco C55 Phone When You Forget the Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-strategies-for-psp-as-a-wii-u-clone/"><u>Innovative Strategies for PSP as a Wii U Clone</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-movierulz-kodi-add-on-tutorial-for-unlimited-streaming-of-top-cinema-hits/"><u>Step-by-Step MovieRulz Kodi Add-On Tutorial for Unlimited Streaming of Top Cinema Hits</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-correcting-video-layouts-and-rotation-techniques/"><u>Step-by-Step Tutorial on Correcting Video Layouts & Rotation Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/swfiphone/"><u>SWFファイルの動作方法：iPhoneで見るためのガイド</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
 </ul></div>
 

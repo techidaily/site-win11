@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your System: Rename User Folders, Win11 Style"
-date: 2024-09-15T02:44:07.908Z
-updated: 2024-09-17T01:20:41.059Z
+date: 2024-09-15T22:28:24.756Z
+updated: 2024-09-22T06:55:29.825Z
 tags:
   - windows10
   - windows11
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Now, you can log in with your new administrator account. To do this, click **Start**, then click on the user profile name, and select **Sign out.** Next, sign in with the new administrator account.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change the User Profile Folder Name Using the Registry Editor
 
  You can modify the registry entries associated with your user account to change the user profile folder name in Windows 11\.
@@ -86,16 +79,17 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
@@ -115,15 +109,23 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 6. Close the Registry Editor and Command Prompt window if open.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
 ![Rename user profile folder name.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/rename-user-profile-folder-name.png)
 8. Select your **user profile** and press **F2** to rename it. Enter a new name for your user profile (it must match the user name entered in the Registry Editor).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click away and then click **Continue** to save the changes.
 
  You may sometimes encounter the "You can’t perform this action" error when renaming the folder. This error often occurs if you switch to a different administrator account without signing out from the primary user account. Alternatively, restart your PC and repeat the steps to rename the user profile folder without the error.
@@ -134,19 +136,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-navigating-the-solo-podcast-landscape-successfully-for-2024/"><u>[New] Navigating the Solo Podcast Landscape Successfully for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expert-mp3-creation-guide-top-video-to-audio-devices/"><u>[Updated] 2024 Approved Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cutting-edge-the-best-mac-video-editing-apps-1-5-for-2024/"><u>Cutting Edge The Best Mac Video Editing Apps #1-#5 for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-fcpxs-power-the-best-10-plugins-for-video-editing-pros/"><u>In 2024, Unleash FCPXs Power The Best 10 Plugins for Video Editing Pros</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-fix-for-windows-activation-error-0x8007251d/"><u>Mastering the Fix for Windows Activation Error 0X8007251D</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-dll-absence-in-windows-11/"><u>Overcoming DLL Absence in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-correct-err-87-library-misloading-issue/"><u>Solutions to Correct Err 87 Library Misloading Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgraded-amd-radeon-hd-6950-graphics-drivers-on-windows-11/"><u>Upgraded AMD Radeon HD 6950 Graphics Drivers on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/win-10-and-11s-hidden-gems-restoring-off-screen-windows-with-these-6-methods/"><u>Win 10 & 11'S Hidden Gems: Restoring Off-Screen Windows with These 6 Methods</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,3 +143,21 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-detailed-guide-to-crop-your-video-for-instagram/"><u>[Updated] A Detailed Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-worlds-top-12-screensaver-apps-no-end-in-view/"><u>[Updated] In 2024, World's Top 12 Screensaver Apps (No End in View)</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030317707-dvdusb/"><u>「市販・レンタルDVDからUSBメモリーへのコピー方法：自動コピーガイド」</u></a></li>
+<li><a href="https://win11.techidaily.com/2024youtube3/"><u>「最新推奨」:2024年に流行するYouTubeライブ記録用フリーツールベスト3選び</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030303703-windows-foto/"><u>「WINDOWS FOTOを使った簡単なビデオ編集手順」</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-top-16-youtube-starting-points-to-enhance-view-count/"><u>2024 Approved Top 16 YouTube Starting Points to Enhance View Count</u></a></li>
+<li><a href="https://win11.techidaily.com/2024gif/"><u>2024年度の最新版:優れた高解像度GIF作成ツールをご紹介</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-gaming-defeating-garrys-mod-crashing-glitches-with-effective-fixes/"><u>Achieve Uninterrupted Gaming: Defeating Garry's Mod Crashing Glitches with Effective Fixes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-share-igtv-video-on-instagram-story-with-ease/"><u>In 2024, How to Share IGTV Video on Instagram Story with Ease</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-11-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 11 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win11.techidaily.com/44ok44ov44o844ol44ol44o844k544gu44ot44oh44kq5lplusd5a2y5oml6acgic3pgjluqbph43oppyt/"><u>ヤフーニュースのビデオ保存手順 -速度重視-</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030019491-dvd/"><u>ワンダーフォックス DVDビデオ変換機能で動画視聴手順</u></a></li>
+</ul></div>
+

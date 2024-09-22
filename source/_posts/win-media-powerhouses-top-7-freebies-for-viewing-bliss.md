@@ -1,7 +1,7 @@
 ---
 title: "Win Media Powerhouses: Top 7 Freebies for Viewing Bliss"
-date: 2024-09-10T18:19:43.138Z
-updated: 2024-09-17T04:41:55.258Z
+date: 2024-09-18T16:15:01.587Z
+updated: 2024-09-22T06:02:20.671Z
 tags:
   - windows10
   - windows11
@@ -80,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
  If you like the idea of PotPlayer and other portable apps, take a look at this list of the[best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) .
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Media Player Classic
@@ -121,16 +115,22 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
 **Download:** [Media Player Classic](https://mpc-hc.org/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. ACG Player
 
 ![acgplayer free media tool 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/acgplayer-free-media-tool-2021.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that we've got the "Big Three" out of the way, it's time to highlight this gem of a video player in the Microsoft Store. It's called ACG Player, and it's tragically underrated. If you thought Media Player Classic was lightweight, this will blow you away.
 
@@ -150,29 +150,9 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
 **Download:** [ACG Player](https://www.microsoft.com/en-us/store/p/acg-player/9nblggh698c7) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. MPV
 
 ![mpv media player 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/mpv-media-player-2021.png)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In MPV, we have another free media player for Windows 10 and Windows 11, which also happens to be an open-source, cross-platform contender to VLC. This particular project is a fork of both MPlayer and mplayer2, keeping the good bits of those, throwing out the junk, and introducing a whole lot more goodies.
 
@@ -191,6 +171,13 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 * Available on Windows, Mac, Linux, Android.
 
 **Download:** [MPV](https://mpv.io/) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. 5KPlayer
 
@@ -230,6 +217,13 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
 **Download:** KMPlayer for[Windows](https://www.kmplayer.com/pc) |[Windows 64-bit](https://www.kmplayer.com/pc64x)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Media Player App Do You Use on Windows?
 
  Not happy with the current crop of media players? Windows 10 and Windows 11 have such an array of excellent free media players available, and it isn't easy choosing the best option of all. For many people, VLC is the go-to option, even if it is a little bloated. You can still drop and drag almost any file into the VLC, and it'll work the first time without any hassle.
@@ -249,13 +243,20 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-highhurdle-slowmomenttape/"><u>[New] In 2024, HighHurdle SlowMomentTape</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-treasure-trove-guide-to-public-domain-images/"><u>[Updated] 2024 Approved A Treasure Trove Guide to Public Domain Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discovering-10-ultimate-pic-finder-portals-for-2024/"><u>[Updated] Discovering 10 Ultimate Pic Finder Portals for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>[Updated] Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-from-concept-to-measurement-configuring-and-assessing-facebooks-in-stream-ads/"><u>In 2024, From Concept to Measurement Configuring and Assessing Facebook's In-Stream Ads</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-windows-breaking-point-issue/"><u>Overcoming the Hurdle of Windows Breaking Point Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/release-trapped-windows-handbrake/"><u>Release Trapped Windows HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/unstick-windows-operatic-install-with-ease/"><u>Unstick Windows Operatic Install with Ease</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-lunapic-essentials-starting-with-simple-edits-for-2024/"><u>[New] LunaPic Essentials Starting with Simple Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>[Updated] 2024 Approved Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-mending-iphone-xs-identity-check/"><u>[Updated] Expert Advice on Mending iPhone X's Identity Check</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quick-retrieval-downloading-gifs-from-twitter-apps/"><u>[Updated] In 2024, Quick Retrieval Downloading GIFs From Twitter Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-through-the-world-of-cosmetics-youtubes-top-artists/"><u>[Updated] Navigating Through the World of Cosmetics YouTube's Top Artists</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New 2024 Approved The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/timecode-calculator-showdown-the-top-8-tools/"><u>Timecode Calculator Showdown The Top 8 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-gif-editors-step-by-step-guide-for-cropping-gifs-on-desktop-mobile-and-web/"><u>Top 7 GIF Editors: Step-by-Step Guide for Cropping GIFs on Desktop, Mobile, and Web</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-avcd-to-avi-transcoder-for-pcs-running-windows-11-your-ultimate-guide/"><u>Top Rated AVCD to AVI Transcoder for PCs Running Windows 11 – Your Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-common-issues-why-doesnt-your-dvd-video-converter-successfully-convert-vob-files/"><u>Troubleshooting Common Issues: Why Doesn't Your DVD Video Converter Successfully Convert VOB Files?</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-how-to-troubleshoot-video-issues-in-your-android-device/"><u>Ultimate Guide: How to Troubleshoot Video Issues in Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-step-by-step-tutorial-cropping-footage-with-davinci-resolve/"><u>Ultimate Step-by-Step Tutorial: Cropping Footage with DaVinci Resolve</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-managing-digital-copies-of-dvds-and-cds-rip-burn-and-duplicate/"><u>Ultimate Techniques for Securely Managing Digital Copies of DVDs and CDs - Rip, Burn, and Duplicate</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/what-is-apple-m1-chip/"><u>What Is Apple M1 Chip?</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

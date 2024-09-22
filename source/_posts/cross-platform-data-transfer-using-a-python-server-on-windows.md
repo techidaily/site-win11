@@ -1,7 +1,7 @@
 ---
 title: Cross-Platform Data Transfer Using a Python Server on Windows
-date: 2024-09-11T09:20:22.216Z
-updated: 2024-09-16T21:36:02.903Z
+date: 2024-09-17T05:30:26.770Z
+updated: 2024-09-21T22:04:26.694Z
 tags:
   - windows10
   - windows11
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 ![Image showing the set up python server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023-04-21-19_25_20-directory-listing-for-_.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Python to Make Your Tasks Easier
@@ -94,21 +88,18 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-30-whatsapp-biographies-for-every-astrology-follower/"><u>[New] In 2024, Top 30 WhatsApp Biographies for Every Astrology Follower</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-crafting-a-cinematic-short-blending-images-and-melodies/"><u>[Updated] 2024 Approved Crafting a Cinematic Short Blending Images and Melodies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-reviving-your-visual-story-adding-instagrams-flavor-to-old-photosvideos-for-2024/"><u>[Updated] Reviving Your Visual Story Adding Instagram's Flavor to Old Photos/Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-rhythm-and-reel-adding-music-to-ig-feeds/"><u>2024 Approved Rhythm and Reel Adding Music to IG Feeds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-list-of-the-best-8-sites-for-free-3d-text-psd-downloads/"><u>A List of the Best 8 Sites for Free 3D Text PSD Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-the-shadows-overcome-mouse-troubles-in-resident-evil-village-with-these-proven-techniques/"><u>Conquer the Shadows: Overcome Mouse Troubles in Resident Evil Village with These Proven Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-not-allowed-feature-on-windows-software/"><u>Dealing with Not Allowed Feature on Windows Software</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-browser-blockage-by-windows-firewall-for-chrome-usage/"><u>Fixing Browser Blockage by Windows Firewall for Chrome Usage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-mp4-converters-are-they-worth-using-to-convert-rm-files/"><u>Free MP4 Converters - Are They Worth Using to Convert RM Files?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-f54-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy F54 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>In 2024, Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-full-network-connectivity-on-windows/"><u>Regaining Full Network Connectivity on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/separate-your-onedrive-and-microsoft-account-on-pc/"><u>Separate Your OneDrive & Microsoft Account on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-mend-disk-management-virtual-disk-fault/"><u>Steps to Mend Disk Management Virtual Disk Fault</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-audacity-crash-code-9999-fix-in-windows/"><u>Unraveling Audacity Crash: Code 9999 Fix in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10-basics-first-steps-in-enhancing-access/"><u>Windows 10 Basics: First Steps in Enhancing Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-restrict-viewership-of-your-youtube-content/"><u>[New] In 2024, How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-instantly-post-photosvideos-to-twitter-skipping-retweets/"><u>[New] In 2024, Instantly Post Photos/Videos to Twitter, Skipping Retweets</u></a></li>
+<li><a href="https://win11.techidaily.com/samsungdvd/"><u>現代のSamsungスマートテレビで見られなくなったDVDプレーヤーの代わり:使い勝手チェックと設定詳解</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-install-epson-xp-410-drivers-for-your-windows-computer-a-stepwise-approach/"><u>How to Get and Install Epson XP-410 Drivers for Your Windows Computer: A Stepwise Approach</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rewind-the-recordings-streamlined-playlist-reversal/"><u>In 2024, Rewind the Recordings Streamlined Playlist Reversal</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-preserve-your-memories-how-to-burn-videos-to-dvds-on-windows-and-mac/"><u>New In 2024, Preserve Your Memories How to Burn Videos to DVDs on Windows and Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-productivity-why-blackberry-excels-in-the-business-realm/"><u>Optimizing Productivity: Why BlackBerry Excels in the Business Realm</u></a></li>
+<li><a href="https://win11.techidaily.com/spread-the-word-the-ultimate-complimentary-blackberry-video-conversion-toolkit/"><u>Spread the Word: The Ultimate Complimentary BlackBerry Video Conversion Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mkv-files-into-avi-format-using-vlc-media-player/"><u>Step-by-Step Guide: Converting MKV Files Into AVI Format Using VLC Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mp4-videos-to-high-quality-wav-files-with-ffmpeg/"><u>Step-by-Step Guide] Converting MP4 Videos to High-Quality WAV Files with FFmpeg</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-auditory-excision-handbook-removing-sound-from-mp4-mkv-avi-mov-wmv-videos/"><u>Updated The Auditory Excision Handbook Removing Sound From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/pc4/"><u>インターネットラジオをPCで最適に記録するための4つの方法</u></a></li>
 </ul></div>
 

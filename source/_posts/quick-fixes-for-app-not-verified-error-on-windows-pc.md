@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for App Not Verified Error on Windows PC
-date: 2024-09-10T16:25:54.998Z
-updated: 2024-09-16T19:49:32.889Z
+date: 2024-09-17T23:09:42.074Z
+updated: 2024-09-22T04:41:57.517Z
 tags:
   - windows10
   - windows11
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ![Select Anywhere From the Dropdown Menu Next to Choose Where to Get Apps Option in Apps Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-anywhere-from-the-dropdown-menu-next-to-choose-where-to-get-apps-option-in-apps-settings-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off the App Install Control Policy
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 3. Open the policy for **Configure App Install Control**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select **Disabled** to turn off this feature.  
@@ -98,31 +98,32 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ![Go to Explorer Folder by Navigating to the Path in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-go-to-explorer-folder-by-navigating-to-the-path-in-windows-registry-editor.jpg)
 3. Right-click on **Explorer** and select **New > String value**.  
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Create New String Value in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-create-new-string-value-in-windows-registry-editor.jpg)
 4. Name this new value **"AicEnabled."**  
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Name the Newly Created String Value AicEnabled in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-name-the-newly-created-string-value-aicenabled-in-windows-registry-editor.jpg)
 5. Double-click on the newly created string and type "**Anywhere"** in the **Value data** field.  
 ![Type Anywhere in the Value Data Field of Newly Created String in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-type-anywhere-in-the-value-data-field-of-newly-created-string-in-windows-registry-editor.jpg)
 6. Restart the computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the above Registry tweak does not resolve the issue, turn off S mode.
@@ -158,26 +159,6 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  Other than that, a corrupted Microsoft Store cache, installing an app from an unofficial source, and enabling Windows S mode can also cause the error. Below, you will find a few checks and fixes you should apply to resolve the error and install the app successfully.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-curating-the-perfect-mix-a-youtube-playlist-manual/"><u>[New] In 2024, Curating the Perfect Mix A Youtube Playlist Manual</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-guide-to-capturing-moments-during-google-meets/"><u>[New] In 2024, Quick Guide to Capturing Moments During Google Meets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tips-for-endlessly-playing-facebook-videos/"><u>[New] In 2024, Tips for Endlessly Playing Facebook Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-tips-for-integrating-supplemental-film-content/"><u>2024 Approved Tips for Integrating Supplemental Film Content</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-overcoming-access-restrictions-in-windows/"><u>Comprehensive Guide: Overcoming Access Restrictions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-unnecessary-workload-in-windows-system/"><u>Cutting Down Unnecessary Workload in Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-tactics-for-printer-troubles-on-windows-11/"><u>Effective Tactics for Printer Troubles on Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-audio-delay-in-videos/"><u>Fixing Audio Delay in Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-forego-pin-while-projecting-on-win11/"><u>How to Forego PIN While Projecting on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-locate-a-vanishing-sd-card-in-windows-filesystem/"><u>How to Locate a Vanishing SD Card in Windows Filesystem</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-fix-easy-steps-for-fresh-start-even-without-backup/"><u>Iphone Fix: Easy Steps for Fresh Start, Even Without Backup</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-workspace-viewing-switch-wmdesk-way/"><u>Optimize Workspace Viewing: Switch WmDesk Way</u></a></li>
-<li><a href="https://win11.techidaily.com/proficient-techniques-for-managing-win-registry-from-cmd/"><u>Proficient Techniques for Managing Win Registry From CMD</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme C67 4G | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +166,20 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-lengthy-video-to-captivating-animation-create-gifs-with-ease-for-2024/"><u>[New] From Lengthy Video to Captivating Animation - Create Gifs with Ease for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-video-filter-installation-in-zoom-the-simplified-method/"><u>[New] Video Filter Installation in Zoom The Simplified Method</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-moments-in-motion-a-review-on-panasonic-hx-a1-actioncam/"><u>[Updated] Capturing Moments in Motion - A Review on Panasonic HX-A1 ActionCam</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-legacy-hdmi-linkup/"><u>[Updated] In 2024, Legacy HDMI Linkup</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-essentials-of-adding-siri-speech-features-to-tiktok-sharing-for-2024/"><u>[Updated] The Essentials of Adding Siri Speech Features to TikTok Sharing for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>2024 Approved Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-the-experience-top-9-streams/"><u>2024 Approved Unleash the Experience Top 9 Streams</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-lava-storm-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/instructive-tutorial-how-not-to-see-news-in-windows-11s-taskbar-widgets/"><u>Instructive Tutorial: How Not to See News in Windows 11'S Taskbar Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10movjpeg/"><u>Windows 10向けMOVファイルからの高品質JPEGへの変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/windowsiphoneandroidtop5/"><u>Windows、iPhone、Android用動画連結手法TOP5 - スムーズな映像編集</u></a></li>
+<li><a href="https://win11.techidaily.com/wwe-video-extractor-pro-your-ultimate-resource-for-free-mp4avi3gp-download-from-wrestling-events/"><u>WWE Video Extractor Pro - Your Ultimate Resource for Free MP4/AVI/3GP Download From Wrestling Events</u></a></li>
+</ul></div>
+

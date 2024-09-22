@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide for Using Winstall for Group Applications on Windows 11
-date: 2024-09-14T22:22:43.172Z
-updated: 2024-09-17T05:56:58.974Z
+date: 2024-09-21T01:48:17.440Z
+updated: 2024-09-21T21:25:54.140Z
 tags:
   - windows10
   - windows11
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 ![Install Multiple Apps Using a Winstall App Pack 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-4.jpg)
 6. The commands will execute linearly and download and install the respective apps on your system. You won't have to click a button or interact with an installer window. After all the apps finish installation, close the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How to Install Multiple Apps Using a Custom App List in Winstall
 
  If you don't like the packs available on the Winstall packs section, you can create your custom collection or pack and then download and batch-install those apps. But you must pick at least five apps to create a pack and have to log in. Or you can use the Generate Script option to view the code to batch install the selected apps. Repeat the following steps:
@@ -90,16 +83,17 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 6. Wait for Winget to download and install each app and then close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Things to Remember While Using Winstall
@@ -122,24 +116,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  With Winstall, you can now easily use Winget to batch-install Windows 10 and 11 apps. Best of all, both tools are free! So, are you wondering how to use this? Let's begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-accessing-the-apex-high-definition-media-from-facebooks-realm-for-2024/"><u>[Updated] Accessing the Apex High-Definition Media From Facebook's Realm for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-active-recorder-assessment-industry-standards-met/"><u>[Updated] In 2024, Active Recorder Assessment Industry Standards Met?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-televised-facebook-interactions-via-live-streams-for-2024/"><u>[Updated] Pioneering Televised Facebook Interactions via Live Streams for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-most-advanced-video-conversion-programs-updated-ranking-of-top-10-picks/"><u>Discover the Most Advanced Video Conversion Programs: Updated Ranking of Top 10 Picks!</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ultimate-list-of-secure-sites-similar-to-justdubs-for-watching-your-favorite-english-dubs-in-real-time-updates/"><u>Discover the Ultimate List of Secure Sites Similar to JustDubs for Watching Your Favorite English Dubs in Real-Time Updates!</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-techniques-for-minimizing-dvd-storage-footprint-using-premier-compression-programs/"><u>Effective Techniques for Minimizing DVD Storage Footprint Using Premier Compression Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-techniques-transform-high-resolution-4k-content-into-1080p-with-ease/"><u>Effective Techniques: Transform High-Resolution 4K Content Into 1080P with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-dvd-formatting-tips-and-techniques-for-windows-users/"><u>Effortless DVD Formatting Tips and Techniques for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-your-pcs-speed-essential-steps-to-install-the-latest-intel-optane-drivers-on-windows/"><u>Enhancing Your PC's Speed: Essential Steps to Install the Latest Intel Optane Drivers on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-loved-fast-essential-bio-hacks-that-work-on-every-version-of-tinder-for-2024/"><u>Get Loved, Fast Essential Bio Hacks that Work on Every Version of Tinder for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/humor-and-heartbreak-the-vhs-story-of-goofy-movie-for-2024/"><u>Humor and Heartbreak The VHS Story of Goofy Movie for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-m14-4g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy M14 4G Phone Now with These Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +123,19 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-interactive-photography-sharing-immersive-360-photos-via-mobile-devices-for-2024/"><u>[New] Interactive Photography Sharing Immersive 360 Photos via Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-precision-mixing-techniques-with-logics-audio-fading/"><u>[Updated] Precision Mixing Techniques with Logic's Audio Fading</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-course-through-yts-creative-space-for-2024/"><u>Charting a Course Through YT's Creative Space for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/incorporating-numeric-key-symbols-into-win11s-tray-ui/"><u>Incorporating Numeric Key Symbols Into Win11's Tray UI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-psd-pattern-overlays/"><u>Master PSD Pattern Overlays</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-display-quality-on-windows-systems/"><u>Maximizing Display Quality on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnecting-missed-razer-devices-through-windows-synapse/"><u>Reconnecting Missed Razer Devices Through WIndows' Synapse</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-boot-process-interruption-win11-boot-timer-shortening/"><u>Reducing Boot Process Interruption: Win11 Boot Timer Shortening</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-prior-disk-formatting-windows-warning/"><u>Tackling 'Prior Disk Formatting' Windows Warning</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-pinnacle-studio-alternatives-on-mac/"><u>Updated In 2024, Best Pinnacle Studio Alternatives on Mac</u></a></li>
+</ul></div>
+

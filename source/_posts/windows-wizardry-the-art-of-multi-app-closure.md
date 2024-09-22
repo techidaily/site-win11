@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizardry: The Art of Multi-App Closure"
-date: 2024-09-11T01:36:47.923Z
-updated: 2024-09-17T02:30:57.995Z
+date: 2024-09-14T20:34:16.073Z
+updated: 2024-09-22T06:24:13.862Z
 tags:
   - windows10
   - windows11
@@ -83,16 +83,10 @@ taskkill /f /im explorer.exe
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
@@ -100,16 +94,10 @@ taskkill /f /im explorer.exe
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
@@ -149,19 +137,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
@@ -181,6 +156,13 @@ taskkill /f /im paintdotnet.exe /T > nul
  You can customize the Close All Windows tool by clicking the **View** tab and ticking the relevant boxes. And if the tool seems a bit too complicated to use, then you can navigate to the **Help** tab to get some assistance.
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
@@ -203,13 +185,19 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-a-guide-to-elevating-your-obs-video-projects/"><u>[New] A Guide to Elevating Your OBS Video Projects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>2024 Approved Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-5-gif-to-video-converters-online-no-need-to-download-for-2024/"><u>Best 5 GIF to Video Converters Online [No Need to Download] for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/datadeliverers-professional-view/"><u>DataDeliverers Professional View</u></a></li>
-<li><a href="https://win11.techidaily.com/recent-update-reveals-true-identity-of-9-anime-series/"><u>Recent Update Reveals True Identity of 9 Anime Series</u></a></li>
-<li><a href="https://win11.techidaily.com/risk-free-deal-on-factorypro-for-ipads-professional-video-conversion-software-now-available-online/"><u>Risk-Free Deal on FactoryPro for iPads – Professional Video Conversion Software Now Available Online!</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-for-seamless-dv-format-changes-experience-limit-free-video-enjoyment/"><u>Simple Steps for Seamless DV Format Changes - Experience Limit-Free Video Enjoyment!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streamlined-techniques-for-saving-slideshows-for-2024/"><u>Streamlined Techniques for Saving Slideshows for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-guide-for-high-quality-presentation-capture-for-2024/"><u>[New] Comprehensive Guide for High-Quality Presentation Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-video-integration-for-pc-and-android-users-explained/"><u>[New] Facebook Video Integration for PC & Android Users Explained</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-10-screenrecord-tips-and-tricks-on-a-laptop/"><u>[New] In 2024, Top 10 ScreenRecord Tips and Tricks on a Laptop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-micro-scripted-movie-plot/"><u>[New] Micro-Scripted Movie Plot</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-pioneering-video-editing-techniques-for-windows-10-aficionados-for-2024/"><u>[New] Pioneering Video Editing Techniques for Windows 10 Aficionados for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discovering-the-past-best-history-youtubers/"><u>2024 Approved Discovering the Past Best History YouTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-and-mac4/"><u>動画画角トリミング: Windows & Macで実行可能な4手法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accelerate-windows-11-overcoming-slow-processes-with-simple-fixes/"><u>Accelerate Windows 11: Overcoming Slow Processes with Simple Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-non-functioning-microphone-on-turtle-beach-stealth-60/"><u>Troubleshooting Guide: How To Fix Non-Functioning Microphone on Turtle Beach Stealth 60</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-on-transforming-vcd-audio-tracks-into-mp3-format/"><u>Ultimate Tutorial on Transforming VCD Audio Tracks Into MP3 Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmuting-the-battlefield-how-to-enable-sounds-in-hearthstone-again/"><u>Unmuting the Battlefield: How to Enable Sounds in Hearthstone Again</u></a></li>
+<li><a href="https://win11.techidaily.com/uno-bindas-download-de-videos-de-aerobic-una-guia-completa-para-el-usuario-promedio/"><u>Uno Bindas Download De Vídeos De Aerobic: Una Guía Completa Para El Usuario Promedio</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-dvd-8/"><u>Windows 11対応 DVD コピープロテクトを解除するための無料ツール、ベスト8推薦</u></a></li>
+<li><a href="https://win11.techidaily.com/wmamp3-top3/"><u>WMAファイルからMP3への変換が簡単! ベストオンラインツールTOP3</u></a></li>
 </ul></div>
 

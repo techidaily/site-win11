@@ -1,7 +1,7 @@
 ---
 title: Reactivating Default Energy Settings on Modern Windows
-date: 2024-09-15T05:11:08.325Z
-updated: 2024-09-17T01:04:57.156Z
+date: 2024-09-19T07:56:22.939Z
+updated: 2024-09-21T23:17:43.386Z
 tags:
   - windows10
   - windows11
@@ -68,16 +68,16 @@ To reset Windows default power plans:
 `powercfg -restoredefaultschemes`
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
 
@@ -97,6 +97,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 4. If successfully executed, type**exit** and press**Enter** to close Command Prompt.
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
@@ -121,16 +128,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Manually Create the Power Plans
@@ -148,32 +149,25 @@ To create a custom Power Plan on Windows:
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click**Create** .\`
 
  Your new custom power plan will appear in Power Options. To remove the power plan, unselect the plan and click on**Change plan** settings. Next, click on**Delete this plan** and click**OK** .
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Restore the Missing Default Power Plans on Windows
 
@@ -196,16 +190,15 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-and-the-evolution-of-short-form-videos-a-2023-perspective/"><u>[New] In 2024, Facebook and the Evolution of Short-Form Videos A 2023 Perspective</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>[Updated] Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/"><u>[Updated] Perfect Synchronization Enhancing Audio-Visual with Subtitles in WMP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-synergy-powering-googles-productivity-pages/"><u>ChatGPT Synergy: Powering Google's Productivity Pages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-superiority-of-microsoft-copilot-over-chatgpt-in-four-key-aspects/"><u>Exploring the Superiority of Microsoft Copilot Over ChatGPT in Four Key Aspects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/freedom-from-filmage-tiktok-videos-without-stickers-for-2024/"><u>Freedom From Filmage TikTok Videos Without Stickers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026382879-gif/"><u>GIFアニメ画質向上:高解像度への改良手順</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y78 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027369163-pcdvd/"><u>PCで安全にDVDのデータをバックアップする手順ガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/revealing-the-hideouts-for-in-game-images/"><u>Revealing the Hideouts for In-Game Images</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026492605-gif/"><u>ダイナミックなGIFウェルカムバナー作成の基礎知識</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-luminous-lore-of-video-production-expert-insights/"><u>[Updated] Luminous Lore of Video Production Expert Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-softening-audio-routine/"><u>[Updated] Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-13-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 13 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-dollars-and-cents-of-podcasting/"><u>Decoding the Dollars and Cents of Podcasting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-seamless-integration-using-your-switch-pro-controller-to-dominate-on-steam/"><u>In 2024, Seamless Integration Using Your Switch Pro Controller to Dominate on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-youtube-to-mp3-conversion-using-vidtomp3-solving-common-issues-and-fixes/"><u>Mastering YouTube-to-MP3 Conversion Using VidToMp3 – Solving Common Issues & Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4-to-mp3-in-a-flash-master-the-art-of-quick-video-to-audio-file-conversions/"><u>MP4 to MP3 in a Flash! Master the Art of Quick Video-to-Audio File Conversions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-video-import-and-export-in-adobe-premiere-pro/"><u>New In 2024, Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-website-with-quick-and-effective-video-downsizing-methods/"><u>Optimizing Your Website with Quick and Effective Video Downsizing Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/iuocpoodoeodvoocuoobiplusociewniplusocgeocipluswlleeuupluswitus9ndrjgrnjg4bjg4pjg5fjg5djgqtjgrnjg4bjg4pjg5fjgqzjgqtjg4ki/"><u>イメージから始める動画制作:ステップバイステップガイド</u></a></li>
 </ul></div>
 

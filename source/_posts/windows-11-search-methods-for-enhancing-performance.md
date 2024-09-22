@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Search: Methods for Enhancing Performance"
-date: 2024-09-16T08:16:47.342Z
-updated: 2024-09-16T16:49:29.176Z
+date: 2024-09-21T01:04:13.003Z
+updated: 2024-09-22T04:15:24.004Z
 tags:
   - windows10
   - windows11
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 5. Click the menu buttons for all excluded search folders listed below that option and select**Remove** .  
 ![The Remove option for excluded folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-remove-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Start the Windows Search Service
 
  The search tool won’t display results if the Windows Search service it’s based on isn’t running. So, check the Windows Search is enabled and running:
@@ -78,6 +71,20 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 3. Double-click**Windows Search** within the Services app.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-services-window2.jpg)
 4. Click the drop-down menu for the**Startup type** option to select the service’s**Automatic** option.  
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows Search Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-search-properties-window.jpg)
 5. Press**Start** in the properties window if the search service isn’t running.
 6. To save the changed settings, click the**Apply** option.
@@ -86,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
  If the Windows Search service is already running, try restarting it. Select the**Stop** option for Windows Search. Wait a few minutes, and click the**Start** button for the service to restart it.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run a Scan With the SFC Tool
@@ -112,17 +113,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 5. Wait for the SFC tool to show a Windows Resource Protection scan outcome.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Rebuild the Search Tool’s Index
@@ -137,14 +131,15 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 5. Click**Rebuild** in the Index**Settings** tab.  
 ![The Rebuild button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-rebuild-option.jpg)
 6. Wait for the rebuilding to finish.
-7. Select**OK** \>**Close** to exit the indexing applet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Select**OK** \>**Close** to exit the indexing applet.
 
 ## 7\. Reinstall Cortana
 
@@ -159,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 `Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The command for reinstalling Cortana](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reinstall-cortana-command.jpg)
 7. Press**Enter** to execute the PowerShell command.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -187,19 +189,19 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-top-10-4k-mirrorless-camera-lists/"><u>[New] Explore the Best Top 10 4K Mirrorless Camera Lists</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pristine-movie-trailer-curated-list/"><u>[Updated] 2024 Approved Pristine Movie Trailer Curated List</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-efficient-methods-for-video-to-dvd-conversion-in-macos/"><u>[Updated] Efficient Methods for Video-to-DVD Conversion in MacOS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-professional-recording-software-for-education-sector/"><u>[Updated] In 2024, Professional Recording Software for Education Sector</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-quick-swivel-techniques-vlcs-video-flipping-mastery/"><u>[Updated] In 2024, Quick-Swivel Techniques VLC's Video Flipping Mastery</u></a></li>
-<li><a href="https://facebook.techidaily.com/accessing-most-recent-videos-on-fb/"><u>Accessing Most Recent Videos on FB</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2690dw-printer-driver-download-and-update/"><u>Brother MFC-L2690DW Printer Driver | Download & Update</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-mastering-the-conversion-of-youtube-videos-into-m4a-format-using-three-effective-techniques/"><u>Simple Steps: Mastering the Conversion of YouTube Videos Into M4A Format Using Three Effective Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/smoothly-stream-mp3-files-on-your-android-device-with-the-ultimate-mpg-player-app/"><u>Smoothly Stream MP3 Files on Your Android Device with the Ultimate MPG Player App</u></a></li>
-<li><a href="https://win11.techidaily.com/struggling-to-extract-dvds-on-windows-media-player-discover-top-rated-alternatives/"><u>Struggling to Extract DVDs on Windows Media Player? Discover Top-Rated Alternatives!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-underground-guide-5-unauthorized-uses-of-ai/"><u>The Underground Guide: 5 Unauthorized Uses of AI</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-tablets-with-built-in-dvd-player-capability/"><u>Top-Rated Tablets with Built-In DVD Player Capability</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-flv-format-issues-with-lightworks-quick-fixes-for-smooth-editing/"><u>Troubleshooting FLV Format Issues with Lightworks - Quick Fixes for Smooth Editing</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-and-streaming-the-ultimate-guide-to-play-dvds-on-an-acer-laptop-running-windows-1011/"><u>USB and Streaming: The Ultimate Guide to Play DVDs on an Acer Laptop Running Windows 10/11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-first-timers-cameras-guide-best-of-24/"><u>[Updated] First-Timer's Cameras Guide - Best of '24</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-strategies-for-optimal-ram-in-the-world-of-minecraft/"><u>[Updated] In 2024, Strategies for Optimal RAM in the World of Minecraft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-essential-artifice-intelligence-vocabulary/"><u>Comprehensive Guide to Essential Artifice Intelligence Vocabulary</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-screencaps-for-win11/"><u>Crafting Unique Screencaps for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-harmony-a-guide-to-efficient-hdds-in-win11/"><u>Drive Harmony: A Guide to Efficient HDDs in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-restore-distribution-and-catroot2-in-ws11/"><u>Efficiently Restore Distribution & Catroot2 in WS11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-se-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone SE Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://win11.techidaily.com/gentle-resting-practices-for-your-pc/"><u>Gentle Resting Practices for Your PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-instagrams-restrictions-for-larger-posts-for-2024/"><u>Navigating Instagram's Restrictions for Larger Posts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-windows-app-speed-revitalize-their-web-connection/"><u>Propel Window's App Speed: Revitalize Their Web Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-code-0x0000004e-issue/"><u>Windows Troubleshooting: Resolving Code 0X0000004E Issue</u></a></li>
 </ul></div>
 

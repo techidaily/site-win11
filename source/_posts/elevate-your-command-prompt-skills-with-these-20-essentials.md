@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Command Prompt Skills with These 20 Essentials
-date: 2024-09-13T00:00:09.309Z
-updated: 2024-09-16T21:01:57.714Z
+date: 2024-09-15T00:02:17.527Z
+updated: 2024-09-21T22:15:13.620Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
 ![Cipher command in the Windows command prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/ciphercmd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Deleting files on a mechanical hard drive doesn't really delete them at all. Instead, it marks the files as no longer accessible and the space they took up as free. The files remain recoverable until the system overwrites them with new data, which can take some time.
 
  The cipher command, however, lets you wipe a directory on an NTFS-formatted volume by writing random data to it. To wipe your C drive, for example, you'd use the **cipher /w:d** command, which will wipe free space on the drive. The command does not overwrite undeleted data, so you will not wipe out the files you need by running this command.
@@ -90,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
  Still, ipconfig is useful because of its extensions. **ipconfig /release** followed by **ipconfig /renew** can force your Windows PC into asking for a new IP address, which is useful if your computer claims one isn't available. You can also use **ipconfig /flushdns** to refresh your DNS address. These commands are great if the [Windows network troubleshooter](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) chokes, which does happen on occasion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Netstat
 
 ![Netstat command run on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/netstatcmd.png)
@@ -106,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
  Typing **ping** followed by an IP address or web domain will send a series of test packets to the specified address. If they arrive and are returned, you know the device is capable of communicating with your PC; if it fails, you know that there's something blocking communication between the device and your computer. This can help you decide if the root of the issue is an improper configuration or a failure of network hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. PathPing
 
 ![Windows command prompt with PathPing command.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/pathpingcmd.png)
@@ -124,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 ![Screenshot of Tracert command in Windows command prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/tracertcmd.png)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **tracert** command is similar to pathping. Once again, type **tracert** followed by the IP address or domain you'd like to trace. You'll receive information about each step in the route between your PC and the target. Unlike pathping, however, tracert also tracks how much time (in milliseconds) each hop between servers or devices takes.
@@ -152,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
 ![Powercfg energy command in Administrator command prompt on Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/powercfgenergycmd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the **powercfg /energy** command to build a detailed power consumption report for your PC. The report saves to the directory indicated after the command finishes.
 
  This report will let you know of any system faults that might increase power consumption, like devices blocking certain sleep modes, or poorly configured to respond to your power management settings.
@@ -162,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
 ![Shutdown command on Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/shutdowncmd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows 8 introduced the shutdown command that, you guessed it, [shuts down your computer](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/).
 
  This is, of course, redundant with the already easily accessed shutdown button, but what's not redundant is the **shutdown /r /o** command, which restarts your PC and launches the Advanced Start Options menu, which is where you can access Safe Mode and Windows recovery utilities. This is useful if you want to restart your computer for troubleshooting purposes.
@@ -176,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 ### 11\. System File Checker
 
 ![System File Checker sfc command options available on Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/sfccmd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  System File Checker is an [automatic scan and repair tool](https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/) that focuses on Windows system files.
 
@@ -223,13 +217,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
  To duplicate the above command for different programs, just copy, paste, and modify it as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 16\. Format
 
 ![Windows Command Prompt showing the format command with various parameters.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-Command-Prompt-Format.jpg)
@@ -257,6 +244,13 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 `prompt $t on $d at $p using $v:`
 
  Type "prompt" to reset your command prompt to default settings or just restart the command prompt. Unfortunately, these settings aren't permanent.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 18\. cls
 
@@ -300,18 +294,6 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
 
  Here we present the essential commands every Windows user must know.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-interactive-television-integrating-fb-vids-for-2024/"><u>[New] Interactive Television Integrating FB Vids for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-power-packed-film-titles-for-inner-growth-and-strength/"><u>[New] Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-step-by-step-guide-to-youtube-gamers-broadcasting/"><u>2024 Approved The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essentials-of-capturing-free-visual-display-vids/"><u>Essentials of Capturing Free Visual Display Vids</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-disable-hyber-v-service-in-windows-11/"><u>Guide: Disable Hyber-V Service in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/modernizing-windows-11-essential-modifications-and-improvements-for-the-taskbar/"><u>Modernizing Windows 11: Essential Modifications and Improvements for the Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-common-onedrive-login-issues-in-windows/"><u>Overcoming Common OneDrive Login Issues in Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic 6 | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -319,3 +301,23 @@ thumbnail: https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-enhance-your-file-management-six-tips-for-win-11s-mov-files/"><u>[New] 2024 Approved Enhance Your File Management Six Tips for Win 11'S MOV Files</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>[New] 2024 Approved Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-diaspora-user-visualization-measurements-format-length/"><u>[New] Diaspora User Visualization Measurements, Format, Length</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-av1-your-initial-journey/"><u>[Updated] Navigating AV1 Your Initial Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-tricks-to-restore-windows-display-immediately/"><u>Easy Tricks to Restore Windows Display Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-use-win-plus-p-printer-command-in-windows/"><u>How to Correctly Use Win + P Printer Command in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-camerascape-woes-a-guide-to-overcoming-7-prevalent-problems/"><u>How to Repair Your iPhone's Camerascape Woes - A Guide to Overcoming 7 Prevalent Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/propel-steam-performance-circumventing-zero-speed-troubles/"><u>Propel Steam Performance: Circumventing Zero-Speed Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-approaches-to-restarting-file-explorer-on-windows-11/"><u>Strategic Approaches to Restarting File Explorer on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-with-technology-effective-use-of-youtube-in-education/"><u>Teach with Technology Effective Use of YouTube in Education</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-help-with-cortanas-replacement/"><u>Transforming Help with Cortana's Replacement</u></a></li>
+<li><a href="https://win11.techidaily.com/triumphant-tweaks-for-trendsetting-windows-11-users/"><u>Triumphant Tweaks for Trendsetting Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-data-transfer-failures-from-usb-devices/"><u>Troubleshooting Data Transfer Failures From USB Devices</u></a></li>
+</ul></div>
+

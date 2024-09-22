@@ -1,7 +1,7 @@
 ---
 title: Should Pagefile.sys Be Removed Regularly? Pros & Cons
-date: 2024-09-14T08:16:23.925Z
-updated: 2024-09-16T18:40:51.825Z
+date: 2024-09-17T05:22:26.159Z
+updated: 2024-09-22T05:41:12.352Z
 tags:
   - windows10
   - windows11
@@ -69,24 +69,18 @@ Here's what you need to know.
 
  So unless your physical memory needs aren’t greater than your installed RAM’s capacity, we recommend leaving Pagefile.sys alone.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Delete Pagefile.sys
 
  Since Windows is constantly using Pagefile.sys, it will not allow you to delete it in File Explorer directly. In fact, if you selected the file and hit the**Delete** key, you will see the following message: "The action can't be completed because the file is open in another program."
 
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
 
@@ -95,32 +89,33 @@ Here's what you need to know.
 ![searching for sysdm.cpl in windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-search-sysdm-cpl.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
 7. You’ll get a warning from Windows. Click**Yes** to bypass it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click on**OK** to close the Virtual Memory window and apply the changes.
 9. Restart your Windows computer for the changes to take effect.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Restore Pagefile.sys
 
@@ -133,19 +128,19 @@ Now, to bring back Pagefile.sys, follow the steps below:
 ![opening the System Properties window using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-system-properties-windows-run.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .
 5. In the Virtual Memory window, make sure the**Automatically manage paging file size for all drives** checkbox at the top is checked.
 6. Click on**OK** to close the Virtual Memory window and apply the changes.
 7. Restart your Windows computer for the changes to take effect.
 
  Once your computer boots up, and you go to the folder where Pagefile.sys is located, you will see that the file has returned, along with Swapfile.sys.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Resize Pagefile.sys
 
@@ -185,21 +180,21 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/channel-trailers-that-convert-viewers-into-customers-for-2024/"><u>Channel Trailers that Convert Viewers Into Customers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-android-studio-speed-and-productivity-on-windows/"><u>Elevate Android Studio Speed and Productivity on Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-for-free-take-advantage-of-our-90-day-trial-for-2024/"><u>Final Cut Pro for Free Take Advantage of Our 90-Day Trial for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/freeze-laughs-select-the-best-templates/"><u>Freeze Laughs Select the Best Templates</u></a></li>
-<li><a href="https://win11.techidaily.com/from-yesterdays-tech-to-todays-trendsetter-implementing-windows-11-on-legacy-pcs/"><u>From Yesterday's Tech to Today's Trendsetter - Implementing Windows 11 on Legacy PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-the-frozen-windows-start-button/"><u>How to Reactivate the Frozen Windows Start Button</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-14-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 14 Plus Device from iCloud</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-note-50-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme Note 50 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-earning-potential-maximizing-youtube-revenue-on-mobile/"><u>In 2024, Unlock Your Earning Potential Maximizing YouTube Revenue on Mobile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-expertise/"><u>Navigating the Latest in Technology with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11-install-on-no-wi-fi/"><u>Navigating Windows 11 Install on No Wi-Fi</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
-<li><a href="https://win11.techidaily.com/the-foundation-of-victory-in-the-world-of-diablo/"><u>The Foundation of Victory in the World of Diablo</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-fix-list-for-defective-mail-alerts-in-os-windows/"><u>The Ultimate Fix List for Defective Mail Alerts in OS Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-5-tricks-for-instantly-boosting-youtube-subscribers/"><u>[New] 5 Tricks for Instantly Boosting YouTube Subscribers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-control-switch-pro-in-steam-play-for-2024/"><u>[New] Streamline Control Switch Pro in Steam Play for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-discover-11-secrets-of-windows-11/"><u>[Updated] In 2024, Discover 11 Secrets of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1-quick-guide-transforming-tta-files-into-various-audio-formats-like-flac-wav-and-mp3/"><u>1. [Quick Guide: Transforming TTA Files Into Various Audio Formats Like FLAC, WAV, and MP3]</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-xr-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone XR and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premium-portables-laptops-to-supercharge-your-creative-work/"><u>In 2024, Premium Portables Laptops to Supercharge Your Creative Work</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cs-to-triple-your-youtube-subscription-numbers-for-2024/"><u>Tactics to Triple Your YouTube Subscription Numbers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028764480-tsmp3/"><u>TSファイルからMP3への簡単なコンバートガイド:初学者がわかりやすい</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-converting-ogv-audio-files-to-mp3-format-on-your-windows-pc/"><u>Ultimate Guide: Converting OGV Audio Files to MP3 Format on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-the-top-12-leading-youtube-to-mp4-converter-tools/"><u>Ultimate Guide: The Top 12 Leading YouTube to MP4 Converter Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-changing-a-videos-fps-from-60-to-24/"><u>Ultimate Techniques for Changing a Video's FPS From 60 to 24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-the-potential-of-ai-with-an-affordable-local-chatgpt-clone-for-windows-users/"><u>Unleash the Potential of AI with an Affordable Local ChatGPT Clone for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/users-guide-to-the-leading-free-tool-for-downloading-vimeo-content-without-hassle/"><u>User's Guide to the Leading Free Tool for Downloading Vimeo Content Without Hassle</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028775285-windows-10/"><u>Windows 10でスクリーンショットファイルサイズ調整手順</u></a></li>
 </ul></div>
 

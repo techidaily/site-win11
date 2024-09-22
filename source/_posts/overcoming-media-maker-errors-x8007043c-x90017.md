@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Media Maker Errors: X.8007043C, X.90017"
-date: 2024-09-16T05:21:42.771Z
-updated: 2024-09-16T23:45:49.258Z
+date: 2024-09-20T03:17:11.205Z
+updated: 2024-09-22T06:28:24.303Z
 tags:
   - windows10
   - windows11
@@ -74,21 +74,20 @@ To run the Windows Update Troubleshooter:
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
@@ -97,10 +96,10 @@ To run the Windows Update Troubleshooter:
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check for a Third-Party Antivirus Conflict
@@ -110,10 +109,10 @@ To run the Windows Update Troubleshooter:
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run the DISM and System File Checker Tool
@@ -147,6 +146,13 @@ sfc /scannow
 
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
  The 0x8007043C - 0x90017 Media Creation Tool error is often due to an insufficient permission issue. You can unblock the utility in the Properties dialog to run the utility without the error. Only in rare instances, you may need to perform a clean install due to system file corruption.
@@ -166,21 +172,17 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-extensive-review-the-360-degree-capture-of-samsung/"><u>[New] Extensive Review The 360-Degree Capture of Samsung</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-mp3-conversion-of-fb-video-content/"><u>[Updated] Instant MP3 Conversion of FB Video Content</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/best-winx-dvd-ripper-and-audio-video-converter-toolkit-for-easy-media-handling/"><u>Best WinX DVD Ripper and Audio-Video Converter Toolkit for Easy Media Handling</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-elevation-for-power-users-on-pc/"><u>Enabling Elevation for Power Users on PC</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-do-evs-fare-against-severe-cold-or-scorching-heat/"><u>How Do EVs Fare Against Severe Cold or Scorching Heat?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-file-or-directory-is-corrupted-error-0x80070570-on-windows-11-and-11/"><u>How to Fix the “File or Directory Is Corrupted” Error 0X80070570 on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-teams-error-80080300-in-windows-11/"><u>How to Fix the Microsoft Teams Error 80080300 in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-nostalgic-journey-through-time-with-stop-motion-classics/"><u>In 2024, A Nostalgic Journey Through Time with Stop-Motion Classics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n53-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N53 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-lofree-edge-affordable-alternative-despite-higher-price-tag-vs-apple-magic-board/"><u>In-Depth Look at the Lofree Edge: Affordable Alternative Despite Higher Price Tag Vs. Apple Magic Board</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-portal-elevated-terminal-at-your-fingertips/"><u>Quick Portal: Elevated Terminal at Your Fingertips</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-unstartable-speech-to-text-on-windows-platform/"><u>Remedies for Unstartable Speech-to-Text on Windows Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-sleepy-batch-processes-in-windows-os/"><u>Revitalizing Sleepy Batch Processes in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-shortcuts-gaining-infinite-capabilities/"><u>Windows Shortcuts: Gaining Infinite Capabilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-the-full-potential-of-your-video-with-studio-editor/"><u>[New] 2024 Approved Unlock the Full Potential of Your Video with Studio Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-spectrum-kinetics-examination/"><u>[New] Full Spectrum Kinetics Examination</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-strategies-obs-streams-to-facebook-success/"><u>[New] In 2024, Expert Strategies OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-innovative-text-techniques-in-videos/"><u>[Updated] 2024 Approved Innovative Text Techniques in Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>[Updated] A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-robloxs-error-code-amok-expert-tips-and-tricks-for-a-smooth-gaming-experience/"><u>Conquer Roblox's Error Code amoK: Expert Tips and Tricks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/decoding-the-process-your-comprehensive-guide-to-filing-a-dispute-report-on-discord-for-2024/"><u>Decoding the Process Your Comprehensive Guide to Filing a Dispute Report on Discord for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 15 Pro without Security Questions?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-youtube-video-extraction-dumpertnls-top-4-strategies-unveiled/"><u>Mastering the Art of YouTube Video Extraction: Dumpert.nl's Top 4 Strategies Unveiled!</u></a></li>
+<li><a href="https://win-online.techidaily.com/mp2-to-avi-converter-free-online-service-with-movavi/"><u>MP2 to AVI Converter - Free Online Service with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-audio-amplifier-a-user-friendly-guide-to-boosting-sound-clarity/"><u>Top-Rated Audio Amplifier: A User-Friendly Guide to Boosting Sound Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-fixing-the-causes-behind-the-0xc00d3e8c-error-in-windows-11/"><u>Troubleshooting Guide: Fixing the Causes Behind the 0XC00D3E8C Error in Windows 11</u></a></li>
 </ul></div>
 

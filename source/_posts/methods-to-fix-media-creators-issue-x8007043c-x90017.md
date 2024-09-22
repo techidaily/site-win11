@@ -1,7 +1,7 @@
 ---
 title: "Methods to Fix Media Creator's Issue: X.8007043C, X.90017"
-date: 2024-09-10T21:11:02.456Z
-updated: 2024-09-17T10:13:21.893Z
+date: 2024-09-20T21:54:12.827Z
+updated: 2024-09-22T10:06:33.205Z
 tags:
   - windows10
   - windows11
@@ -74,21 +74,16 @@ To run the Windows Update Troubleshooter:
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
 5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
 6. If not, click**No** in the Windows Update troubleshooter dialog.
@@ -101,10 +96,16 @@ To run the Windows Update Troubleshooter:
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run the DISM and System File Checker Tool
@@ -123,16 +124,23 @@ DISM.exe /Online /Cleanup-image /Restorehealth
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
 7. Type**exit** and press**Enter** to close the Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
@@ -145,13 +153,6 @@ sfc /scannow
  Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
 
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
@@ -172,20 +173,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-can-i-watch-facebook-videos-on-my-apple-tv/"><u>[New] 2024 Approved How Can I Watch Facebook Videos on My Apple TV?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-audio-to-text-the-5-most-acclaimed-zoom-transcribing-platforms-freepaid/"><u>[New] In 2024, From Audio to Text The 5 Most Acclaimed Zoom Transcribing Platforms (Free/Paid)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-getting-started-with-your-youtube-channel-essentials/"><u>[Updated] In 2024, Getting Started with Your YouTube Channel – Essentials</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>2024 Approved Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-horizons-with-chatgpt-learning-its-usage-across-various-languages/"><u>Expand Your Horizons with ChatGPT - Learning Its Usage Across Various Languages</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-portable-gaming-to-handheld-controls-phone-playstation-union/"><u>From Portable Gaming to Handheld Controls: Phone-PlayStation Union</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-moto-g-5g-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Moto G 5G (2023) without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/movwindows-1011/"><u>MOVビデオファイルに対してWindows 10/11環境での品質保持編集テクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/oggwav3/"><u>OGGからWAVへの完全なコンバート手順：3つの方法を解説します</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-easy-top-disney-dvd-backup-software-for-rapid-ripping/"><u>Quick & Easy: Top Disney DVD Backup Software for Rapid Ripping</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/seamless-hd-to-dvd-transformation-make-professional-dvds-from-high-quality-videos/"><u>Seamless HD to DVD Transformation – Make Professional DVDs From High-Quality Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-guide-transforming-audio-from-3gp-files-into-wav-format/"><u>Simple Guide: Transforming Audio From 3GP Files Into WAV Format</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-solutions-for-correcting-synchronization-of-subtitles-in-vlc-media-player-effortlessly/"><u>Simple Solutions for Correcting Synchronization of Subtitles in VLC Media Player Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-step-by-step-guide-boosting-audio-levels-with-audacity/"><u>Simple Step-by-Step Guide: Boosting Audio Levels with Audacity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>[New] The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-from-live-to-recorded-using-obs-for-games/"><u>[Updated] In 2024, From Live to Recorded Using OBS for Games</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-quick-access-installing-and-using-tiktok-app-on-macbook/"><u>[Updated] Quick Access Installing and Using TikTok App on MacBook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-pro-tip-speedy-like-video-strategies/"><u>2024 Approved Instagram Pro Tip Speedy Like-Video Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-fix-gtf-object-disappearances/"><u>Effective Strategies to Fix GTF Object Disappearances</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-issues-with-microsoft-store-logins/"><u>Fixing Common Issues with Microsoft Store Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-winscomrssvcdll-malfunctions-in-windows-108/"><u>Fixing WinscomrsSvc.dll Malfunctions in Windows 10/8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>In 2024, Become the Brand You Want With Our Exclusive Set of FREE Graphics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-sony-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Sony Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-your-youtube-identity-with-cool-titles/"><u>In 2024, Master Your YouTube Identity with Cool Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-controlling-highlight-on-windows-11/"><u>Navigating & Controlling Highlight on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revamped-collaboration-speed-and-memory-optimized/"><u>Revamped Collaboration: Speed & Memory Optimized</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-playback-integrating-intel-gpu-in-gaming/"><u>Streamline Playback: Integrating Intel GPU in Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-charge-notifications-in-windows-os/"><u>Streamlining Charge Notifications in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-to-hero-in-finding-windows-ram-specifications/"><u>Zero to Hero in Finding Windows RAM Specifications</u></a></li>
 </ul></div>
 

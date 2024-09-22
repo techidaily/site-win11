@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Audacity's Code 9999 on PCs
-date: 2024-09-13T20:29:30.982Z
-updated: 2024-09-16T21:18:13.461Z
+date: 2024-09-20T20:42:43.489Z
+updated: 2024-09-21T16:38:29.290Z
 tags:
   - windows10
   - windows11
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Microphone Driver
@@ -81,15 +81,31 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 3. Right-click your microphone and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
 4. Click the confirmation dialog’s**Uninstall** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
@@ -97,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
  Audacity users have confirmed disabling Host Intrusion Protection in Kaspersky antivirus (security) software fixes error 9999\. Host Intrusion Protection is a feature that regulates apps’ activities in Windows 11/10\. That component is enabled by default in Kaspersky security software.
 
  Do you have Kaspersky security software installed on your PC? If so, look for and disable a**Host Intrusion Protection** setting in that software. This[Kaspersky online help page](https://support.kaspersky.com/KESWin/11.5.0/en-US/128217.htm) tells you how to disable that feature in Endpoint Security for Windows. Or move Audacity to a Trusted app group in that software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Antivirus Shields
 
@@ -118,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall Audacity
 
@@ -153,18 +155,18 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-convert-instagram-vids-to-mp4-optimal-methods-and-results/"><u>[New] 2024 Approved Convert Instagram Vids to MP4 Optimal Methods & Results</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unseen-aspects-the-hidden-secrets-of-instagram-stories-viewers/"><u>[New] In 2024, Unseen Aspects The Hidden Secrets of Instagram Stories Viewers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>[New] Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/implified-guide-instant-deletion-methods-for-youtube-discussions-for-2024/"><u>[New] Simplified Guide Instant Deletion Methods for Youtube Discussions for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-captivate-and-conquer-with-customized-content-shorts/"><u>[Updated] In 2024, Captivate and Conquer with Customized Content Shorts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-learn-to-slow-down-video-speed-for-enhanced-viewer-experience-in-snapchat-for-2024/"><u>[Updated] Learn to Slow Down Video Speed for Enhanced Viewer Experience in Snapchat for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-find-x7-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Find X7 UltraMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-gaming-rig-craft-your-mini-pc-with-a-high-speed-egpu-pcie-link-surpassing-traditional-thunderbolt-4-speeds/"><u>Next-Level Gaming Rig: Craft Your Mini PC with a High-Speed eGPU PCIe Link Surpassing Traditional Thunderbolt 4 Speeds</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-easy-ways-disabling-closed-captions-in-vlc-player-top-3-methods/"><u>Quick & Easy Ways: Disabling Closed Captions in VLC Player - Top 3 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-audio-extraction-from-dvds-speedy-software-solutions/"><u>Quick Guide to Audio Extraction From DVDs - Speedy Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/record-voice-clips-using-windows-snipping-tool-a-complete-explanation/"><u>Record Voice Clips Using Windows' Snipping Tool - A Complete Explanation!</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-tricks-effective-methods-to-reduce-email-attachments-by-compressing-videos/"><u>Simple Tricks: Effective Methods to Reduce Email Attachments by Compressing Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-tablet-screen-top-8-solutions/"><u>Troubleshooting a Non-Responsive Tablet Screen: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-meme-playbook-no-10-essentials/"><u>[New] In 2024, The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-blueprint-for-thriving-in-virtual-events-stream-success-tips/"><u>[Updated] 2024 Approved Blueprint for Thriving In Virtual Events Stream Success Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crescendo-collection-leading-sites-for-skype-tone-downloads/"><u>[Updated] 2024 Approved Crescendo Collection Leading Sites for Skype Tone Downloads</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-resolving-0x80071a90-windows-faults/"><u>Explaining and Resolving 0X80071A90 Windows Faults</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-local-groups-policies-to-individual-accounts-in-windows-11/"><u>Integrating Local Groups Policies to Individual Accounts in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/masterful-presentations-in-google-meet-with-new-backdrops-for-2024/"><u>Masterful Presentations in Google Meet with New Backdrops for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-for-unique-hotkeys/"><u>Navigating Windows 11 for Unique Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-tools-of-windows-11-dont-miss-them/"><u>The Forgotten Tools of Windows 11 - Don’t Miss Them!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-boosting-windows-storage-without-a-fee/"><u>The Ultimate Guide to Boosting Windows Storage Without a Fee</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012327034-trouble-with-launching-witcher-3-wild-hunt-here-are-fixes-that-work/"><u>Trouble with Launching Witcher 3: Wild Hunt? Here Are Fixes That Work</u></a></li>
 </ul></div>
 

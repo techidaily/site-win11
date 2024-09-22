@@ -1,7 +1,7 @@
 ---
 title: Reinstating Basic Battery Power Schemes (Win 11)
-date: 2024-09-10T07:25:21.558Z
-updated: 2024-09-17T05:41:28.063Z
+date: 2024-09-18T06:03:32.176Z
+updated: 2024-09-22T01:44:04.656Z
 tags:
   - windows10
   - windows11
@@ -73,10 +73,10 @@ To reset Windows default power plans:
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
@@ -98,6 +98,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
@@ -113,10 +120,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
@@ -126,19 +133,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  As you may have guessed already, in this situation, you’ll need to[disable Modern Standby (S0) on Windows](https://www.makeuseof.com/windows-disable-modern-standby/) to restore the default power plans on Windows. After you disable Modern Standby (S0), open Power Options to use the default power plans.
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Manually Create the Power Plans
 
@@ -156,10 +150,16 @@ To create a custom Power Plan on Windows:
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
@@ -189,14 +189,17 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-online-presence-making-exceptional-facebook-reels-for-2024/"><u>[Updated] Elevate Your Online Presence Making Exceptional Facebook Reels for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-tech-manual-for-game-screen-recording-win10/"><u>2024 Approved The Complete Tech Manual for Game Screen Recording Win10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-soundtrack-anytime-anywhere-6-top-ranked-free-apps-to-download-youtube-music/"><u>2024 Approved Your Soundtrack, Anytime, Anywhere 6 Top-Ranked Free Apps to Download Youtube Music</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-zte-axon-40-lite-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from ZTE Axon 40 Lite to iPod | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-removing-custom-kodi-modifications-and-restoring-default-settings/"><u>Step-by-Step Guide: Removing Custom Kodi Modifications & Restoring Default Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-latest-enzo-plugins-on-kodi-leia-and-krypton-for-reliable-live-tv/"><u>Step-by-Step Guide: Setting Up the Latest Enzo Plugins on Kodi (Leia and Krypton) for Reliable Live TV</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-top-11-youtube-downloaders-latest-version/"><u>The Ultimate List of Top 11 YouTube Downloaders - Latest Version</u></a></li>
-<li><a href="https://win11.techidaily.com/top-3-no-cost-solutions-for-seamless-xvid-to-avi-conversion-across-windows-macos-and-web-services/"><u>Top 3 No-Cost Solutions for Seamless Xvid to AVI Conversion Across Windows, MacOS, and Web Services</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vllo-for-mac-download-guide-and-alternatives/"><u>VLLO for Mac Download Guide and Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-no-video-on-asus-laptop-camera-in-windows-10/"><u>How to Resolve the No Video on ASUS Laptop Camera in Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-view-facebook-stories-anonymously-for-2024/"><u>How to View Facebook Stories Anonymously for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-reno-11-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Reno 11 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-11-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus 11 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/starlit-secrets-dos-and-donts-of-astrophotography/"><u>Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-sharing-video-content-on-pinterest-using-your-smartphone-or-computer/"><u>Step-by-Step Guide to Sharing Video Content on Pinterest Using Your Smartphone or Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-transforming-videos-into-mp4-format-across-pc-mac-and-online-tools/"><u>Step-by-Step Guide to Transforming Videos Into MP4 Format Across PC, Mac, and Online Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-firefox-hanging-comprehensive-solutions-for-a-smooth-browsing-experience-2024-edition/"><u>Stop Firefox Hanging: Comprehensive Solutions for a Smooth Browsing Experience - 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-streaming-mp4-content-on-your-windows-n-operating-system/"><u>The Ultimate Guide to Streaming MP4 Content on Your Windows N Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/top-dvd-ripping-software-securely-convert-your-dvds-into-high-quality-digital-formats/"><u>Top DVD Ripping Software: Securely Convert Your DVDs Into High-Quality Digital Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/top-free-tools-for-converting-mts-files-to-avi-on-windows/"><u>Top Free Tools for Converting MTS Files to AVI on Windows</u></a></li>
 </ul></div>
 

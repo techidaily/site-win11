@@ -1,7 +1,7 @@
 ---
 title: Reactivating Stuck Windows Media Center Sounds
-date: 2024-09-10T20:36:52.261Z
-updated: 2024-09-17T01:34:05.363Z
+date: 2024-09-17T10:09:45.516Z
+updated: 2024-09-22T06:41:11.445Z
 tags:
   - windows10
   - windows11
@@ -75,10 +75,10 @@ Restart your PC after this and check if the issue is still there.
  If updating audio drivers manually sounds like a tedious task, you can get one of the[best driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) to ease the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Switch to the Default Sound Drivers
@@ -101,10 +101,16 @@ Restart your PC after this and check if the issue is still there.
 ![Uninstall Sound Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-sound-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run the SFC and DISM Scans
@@ -112,13 +118,6 @@ Restart your PC after this and check if the issue is still there.
  Corrupt or damaged system files on Windows can also cause audio services to stop responding. System File Checker (SFC) and Deployment Image Servicing and Management (DISM) are two Windows tools that can help you identify and repair such system files.
 
  The SFC scan will check your computer for missing or corrupt system files, whereas DISM will repair the Windows system image. You can run these tools using Command Prompt. To know more, check our guide on[how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
 
@@ -136,6 +135,13 @@ To perform a system restore on Windows, use these steps:
 6. Select a restore point before the issue first appeared and hit**Next** .
 7. Review all the details and click**Finish** .  
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Windows to restart and revert to the specified restore point. After that, the audio services should work fine.
 
@@ -160,20 +166,20 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-review-gopro-hero5-adventure-footage/"><u>[New] 2024 Approved The Ultimate Review GoPro Hero5 Adventure Footage</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44ot44oq44ot44oq44gl44kj6ksh5pww5yuv55s744gu6zug5lit44oa44km44oz44ot44o844oj5oml6acg44cn/"><u>「ビリビリから複数動画の集中ダウンロード手順」</u></a></li>
-<li><a href="https://win11.techidaily.com/2024-youtube/"><u>2024年用: YouTubeコンテンツをメモリースティックにバックアップする専門的な方法</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/5l255so44gx44gm44ge44kl6zplusz5aow44ov44kp44o844oe44od44oi44gu56k66kqn5pa55rov44co6zplusz5aow56ym5yplus35yyw44k544kt44o844og44ob44kn44od44kv44cp/"><u>使用している音声フォーマットの確認方法『音声符号化スキームチェック』</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029196115-youtube/"><u>最高の解決策! YouTube動画をセキュリティ保証付きでダウンロードするためのベストソフト選び方</u></a></li>
-<li><a href="https://fox-that.techidaily.com/addressing-calendar-anomalies-retrieving-lost-events-on-iphones/"><u>Addressing Calendar Anomalies: Retrieving Lost Events on iPhones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-c55-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C55 Fingerprint Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-poco-c50-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco C50 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>In 2024, Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-12-pro-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 12 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030664644-pc8/"><u>PCに最適!人気の絶対必見ビデオ記録ソフト8本載流</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030030603-pcyoutube/"><u>PCを使ったYouTubeショートムービーの手順と最適アプリ選び：ステップバイステップレシピ</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-miniscreen-tape-snapshot-assessment-and-substitutes/"><u>[New] MiniScreen Tape Snapshot Assessment & Substitutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-every-detail-android-recording-at-zero-cost/"><u>[Updated] In 2024, Capture Every Detail Android Recording at Zero Cost</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[Updated] In 2024, How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secure-and-quick-screen-captures-on-android-devices/"><u>[Updated] In 2024, Secure & Quick Screen Captures on Android Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/101-the-ultimate-guide-to-japanese-salutations/"><u>101: The Ultimate Guide to Japanese Salutations</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-proplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0x80040610-a-tactical-approach-to-outlook-repair/"><u>Eliminating Error 0X80040610: A Tactical Approach to Outlook Repair</u></a></li>
+<li><a href="https://win11.techidaily.com/hack-the-store-glitch-defeating-error-code-x80072f30-on-pc/"><u>Hack the Store Glitch: Defeating Error Code X80072F30 on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-gionee-f3-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Gionee F3 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-c0000005-errors-in-windows/"><u>Mastering the Art of Fixing C0000005 Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-lunar-client-launch-hurdle/"><u>Overcoming Windows' Lunar Client Launch Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-eliminating-minecraft-win-error-1/"><u>Quick Remedies for Eliminating Minecraft Win Error: 1</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-transforming-your-dvd-files-into-mp4-using-windows-11-or-macos-top-strategies-revealed/"><u>Ultimate Guide: Transforming Your DVD Files Into MP4 Using Windows 11 or macOS - Top Strategies Revealed!</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-threats-exposed-manual-checks-for-windows-pc-security/"><u>Unseen Threats Exposed: Manual Checks for Windows PC Security</u></a></li>
 </ul></div>
 

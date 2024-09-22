@@ -1,7 +1,7 @@
 ---
 title: Key Factors When Choosing Windows Video Codecs
-date: 2024-09-11T05:25:27.657Z
-updated: 2024-09-17T05:29:05.885Z
+date: 2024-09-16T17:07:19.823Z
+updated: 2024-09-22T09:12:21.777Z
 tags:
   - windows10
   - windows11
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
  That's why you see it at the top of our list: it's slower to encode to H.265 using a specialized software encoder like x265, but that will offer you the best possible quality for your content. It will still be (much) faster than AV1 and also plays nice with content with "grain" (the "noise" you see in cinematic movies).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. AV1
 
  The newest codec in our selection, AV1, is a super-evolved VP9 that offers significant gains in compression and quality compared to its ancestor. Where VP9 often "traded blows" with H.265, AV1 leaves them both behind, achieving even +50% better quality at the same file size or -50% smaller file size for the same quality—you choose which way you'd prefer to go.
@@ -83,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
  As such, it's much faster in encoding than both H.265 and especially AV1 and has significantly wider hardware support. Even the most affordable smartphones you can buy today can decode and encode H.264 in hardware.
 
  With H.264, you get either lower quality for the same size or much larger files for the same quality compared to H.265 and AV1\.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. VP9
 
@@ -131,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
  The very fact most PCs today don't even have an optical drive is telling on MPEG2's usefulness in the modern tech landscape.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Choose a Codec
 
  We saw why codec choice matters, as well as how the major codecs differ regarding quality and speed. But still, which one should you choose, when, and why?
@@ -158,10 +151,16 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
  All codecs up to H.264 were designed for sub-HD resolutions. H.264 was the first codec designed to store full-HD content (at resolutions up to 1920 x 1080). However, today we also have [4K and Ultra HD](https://www.makeuseof.com/tag/whats-difference-4k-ultra-hd/) content, and H.265, AV1, and VP9 are better for much higher resolutions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Choosing a Codec to Maximise Compatibility
@@ -169,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
  The rule of thumb is that the older the codec you'll use, the higher its compatibility with more devices. If you want your videos to play practically everywhere, go for MPEG4\. It's old, outperformed by all newer options, but it's also natively supported even by ten-year-old TVs.
 
 ![KODI Hardware Acceleration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/kodi-hardware-acceleration-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you only care about newer devices, H.264 can work on almost any media-playing device released within the last five years, including gaming consoles and smartphones.
 
@@ -186,6 +178,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
  Hardware-accelerated encoding feels like magic and might affect your choice of codec. Still, you should remember that hardware-accelerated encoding is useful primarily for real-time uses, like streaming. That's why we've suggested you use GPU encoding in our article on [how to optimize game streams using OBS Studio](https://www.makeuseof.com/how-to-optimize-game-streams-using-obs-studio/).
 
 ![OBS Output Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obs-output-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unlike software-based encoders like x265, hardware-accelerated encoders don't achieve higher speeds purely because of a GPU's dedicated hardware: they also use "streamlined" versions of the same algorithms. Those prioritize speed and compatibility over quality.
 
@@ -199,19 +198,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
 ![MPC HC The Turret Anthem File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mpc-hc-the-turret-anthem-file-properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Picking a Codec Based on Content
 
  Each codec addressed the needs of a particular time and specific media formats.
@@ -219,6 +205,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 * **Old videos**: If you have ample storage space and work with videos up to Full-HD resolutions, you can use MPEG2 with a high bitrate and enjoy blistering fast encoding speeds when compressing home videos or old movies.
 * **Movies & modern videos**: To preserve the Full-HD goodness of modern videos, use either H.264 or H.265, depending on if you prioritize encoding speed or quality and smaller sizes.
 * **Cartoons & anime**: For animated content, AV1, followed by H.265 and then VP9, can preserve the crisp visuals, lines, and curves of most cartoons. However, they can also lead to "banding", an effect where smooth gradients between two colors "get un-smoothed" and appear as crude regions with "colored steps". To avoid that, you can use H.264's, H.265's, and AV1's 10-bit variants, which compress video with a wider color palette, through an app like Handbrake. For even better, H.265 also supports 12-bit color.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Picking a Codec Based on Bitrate
 
@@ -256,6 +249,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
 ![Handbrake Initial Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/handbrake-initial-window-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Quite helpfully, Handbrake comes with lots of premade presets, which include different use cases of the most popular codecs (like for encoding super HQ 2160p 60FPS 4K content with AV1), but also many popular devices (from Amazon's Fire tablets to Xbox consoles).
 
 ### StaxRip
@@ -292,19 +292,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
  So what are video codecs, how should you choose one, and how would it affect your produced videos?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/advancedinstaller/products/"><u>Advancedinstaller's Products</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypass-microsoft-store-hurdles-swift-steps-for-successful-age-of-empires-iv-downloads-and-installs/"><u>Bypass Microsoft Store Hurdles: Swift Steps for Successful Age of Empires IV Downloads & Installs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/choruscheck-live-audio-critique/"><u>ChorusCheck Live Audio Critique</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/efficient-movie-file-management-in-windows-11-six-approaches-for-2024/"><u>Efficient Movie File Management in Windows 11 Six Approaches for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-switch-cr2-format-with-windows-for-jpg-output/"><u>Efficiently Switch CR2 Format with Windows for JPG Output</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-windows-updates-error-0x8024a205/"><u>How to Fix Windows Update's Error 0X8024a205</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-winter-settings-for-warmer-yt-videos-for-2024/"><u>Ideal Winter Settings for Warmer YT Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-access-to-windows-performance-metrics-guide/"><u>Swift Access to Windows Performance Metrics Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-implementing-windows-11s-auto-hdr/"><u>The Essentials of Implementing Windows 11'S Auto HDR</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -312,3 +299,23 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>[New] Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-xml-and-ttml-conversion-to-srt/"><u>[New] Mastering XML & TTML Conversion to SRT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>[Updated] Top Shots and Their Tales The Most Shared Stock Memes</u></a></li>
+<li><a href="https://win11.techidaily.com/7-top-free-tools-like-jibjab-make-custom-e-cards-using-just-your-image/"><u>7 Top Free Tools Like JibJab: Make Custom E-Cards Using Just Your Image</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1726030631911-and/"><u>動画のみで音声を記録するための全ての方法、紹介&比較</u></a></li>
+<li><a href="https://win11.techidaily.com/adobe-media-encoder-mp4/"><u>Adobe Media Encoderで動画変換＆圧縮 - MP4形式への完全ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/best-free-and-premium-pc-based-flv-video-editing-tools-top-picks/"><u>Best Free and Premium PC-Based FLV Video Editing Tools: Top Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/best-video-conversion-tools-from-dvd-to-mp4-on-windows-11-2024-edition/"><u>Best Video Conversion Tools From DVD to MP4 on Windows 11 - 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-aiff-audio-files-to-free-and-open-source-ogg-format-with-ease/"><u>Convert AIFF Audio Files to Free and Open-Source Ogg Format with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-videos-seamlessly-for-psp-top-tools-that-transform-media-into-optimal-ps-portable-size-and-resolution/"><u>Convert Videos Seamlessly for PSP - Top Tools That Transform Media Into Optimal PS Portable Size and Resolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-plus-vs-perplexity-the-ultimate-ai-battle/"><u>GPT Plus Vs. Perplexity: The Ultimate AI Battle</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inshots-playlist-prowess-adding-external-music-for-2024/"><u>InShot's Playlist Prowess Adding External Music for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-character-potential-with-gpt-and-visionary-ai-tools/"><u>Unlocking Character Potential with GPT and Visionary AI Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029399771-3/"><u>プロが選ぶベストな動画合成ソフトウェア 上位3品種（新しいもの）</u></a></li>
+</ul></div>
+

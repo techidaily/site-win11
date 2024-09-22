@@ -1,7 +1,7 @@
 ---
 title: Overcoming Remote Desktop Errors in Windows 10 & 11
-date: 2024-09-14T20:45:16.499Z
-updated: 2024-09-17T02:37:31.442Z
+date: 2024-09-14T17:42:44.555Z
+updated: 2024-09-22T08:19:08.703Z
 tags:
   - windows10
   - windows11
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Select the "Reconnect if the Connection Is Dropped" Setting
 
  Some Remote Desktop Connection users have confirmed that selecting a**Reconnect if the connection is dropped** setting in that app can resolve this error. That simple potential resolution is certainly worth a try. You can select that**Reconnect** setting like this:
@@ -77,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![The Experience tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/experience-tab.jpg)
 4. Then select the**Reconnect if the connection is dropped** checkbox.
 5. Press the**Connect** button.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Set an Automatic DNS Server
 
@@ -90,19 +90,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 5. Then click**Obtain DNS server automatically** radio button.  
 ![The Obtain DNS server radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/obtain-dns-server-option.jpg)
 6. Also, click**Obtain an IP address automatically** if that option isn’t selected.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Select**OK** to confirm the new DNS and IP address settings.
 
@@ -122,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 8. Click**Apply** \>**OK** inside the**Require use of specific security layer** for remote (RDP) connections policy window.
 9. Restart Windows and then open the Remote Desktop Connection app to check if that fixes the issue.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn Off UDP on the Client via Group Policy
 
  Users have also confirmed they fixed the “internal error has occurred” issue by enabling a**Turn off UDP** **on Client** policy setting. This is how you can enable that policy setting.
@@ -144,15 +118,16 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 2. Then double-click**Turn off UDP on Client** on the right side of Group Policy Editor.  
 ![The Security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-policies.jpg)
 3. Select that policy’s**Enabled** option.  
-![The Turn Off UDP On Client window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-udp-client-window.jpg)
-4. Click**Apply** to set the new**Turn off UDP** on Client policy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Turn Off UDP On Client window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-udp-client-window.jpg)
+4. Click**Apply** to set the new**Turn off UDP** on Client policy.
 
 5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
 
@@ -165,8 +140,23 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 3. Click**Access work or school** to view connected domain accounts.  
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 4. Select**Disconnect** for a domain account.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Press your Start menu’s**Restart** button.
 6. Then try connecting to the remote computer with RDC again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Turn Off Any Active VPNs
 
@@ -179,16 +169,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Re-establish Remote PC Access on Windows
@@ -210,20 +194,16 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-spotting-blocked-contacts-in-snapchat/"><u>[New] 2024 Approved Spotting Blocked Contacts in Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-your-cinematic-experience-camera-upgrade-tips/"><u>[New] In 2024, Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-premiere-experts-exceptional-instagram-highlight-craftsmen-for-2024/"><u>[New] Premiere Experts Exceptional Instagram Highlight Craftsmen for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>[New] Smooth Shooting Secured Choosing Ideal Tripods & Gimbals</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-strategic-approaches-broadcasting-live-sports-with-precision/"><u>[Updated] In 2024, Strategic Approaches Broadcasting Live Sports with Precision</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-windows-1011-tackling-expiration-notifications/"><u>Easing Windows 10/11: Tackling Expiration Notifications</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone XR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-photos-ios-alignment-and-cloud-syncing-for-2024/"><u>Mastering Photos IOS Alignment and Cloud Syncing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11s-screen-configurations-a-guide-to-10-methods/"><u>Mastering Window 11'S Screen Configurations: A Guide to 10 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-administrative-firewalls-for-installer-setup/"><u>Navigating Administrative Firewalls for Installer Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-application-unable-to-initialize-due-to-missing-qt-plugin/"><u>Overcoming 'Application Unable to Initialize Due to Missing Qt Plugin'</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-following-a-windows-update/"><u>Overcoming Obstacles Following a Windows Update</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/rediscovering-classic-designs-with-canons-powershot-g9-x-ii-a-reviewers-perspective/"><u>Rediscovering Classic Designs with Canon’s PowerShot G9 X II: A Reviewer's Perspective</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-windows-11-fs-errors-swiftly/"><u>Reversing Windows 11 FS Errors Swiftly</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-renaming-limitations-on-windows-11s-system/"><u>Strategies to Overcome Renaming Limitations on Windows 11'S System</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential/"><u>2024 Approved Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>2024 Approved Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-maps-mastery-navigating-to-the-closest-electric-vehicle-charge-points/"><u>Google Maps Mastery: Navigating to the Closest Electric Vehicle Charge Points</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-sfc-scan-steps-on-windows/"><u>Navigating Through SFC Scan Steps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-erratic-movement-of-windows-mouse/"><u>Overcoming Erratic Movement of Windows Mouse</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixed-tips-for-corrupted-windows-1011-bin-problems/"><u>Quick Fixed! Tips for Corrupted Windows 10/11 Bin Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/scaling-up-how-to-tap-into-all-available-windows-ram/"><u>Scaling Up: How to Tap Into All Available Windows RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unidentified-component-problem-with-lsassexe/"><u>Tackling Unidentified Component Problem with lsass.exe</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-correcting-the-absent-coprocessor-driver-problem-on-windows-11/"><u>Troubleshooting Tips: Correcting the Absent Coprocessor Driver Problem on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g34-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G34 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

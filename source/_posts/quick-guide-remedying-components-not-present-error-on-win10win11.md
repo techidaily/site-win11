@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Remedying Components Not Present Error on Win10/Win11"
-date: 2024-09-10T02:07:48.957Z
-updated: 2024-09-16T19:41:34.550Z
+date: 2024-09-20T23:53:28.687Z
+updated: 2024-09-21T18:16:05.856Z
 tags:
   - windows10
   - windows11
@@ -70,23 +70,45 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 3. Select **I accept the agreement** inside the "Installing Microsoft DirectX" window.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click **Next** to proceed to an offer for installing a Bing Bar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Uncheck the **Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
@@ -97,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the Affected Game or Software
 
  If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can [back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
@@ -112,23 +127,9 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
 
@@ -138,22 +139,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-ads-transformed-predicting-the-trends-for-next-year/"><u>[Updated] In 2024, Facebook Ads Transformed Predicting the Trends for Next Year</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>2024 Approved Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/apex-media-merge-sleek-pc-video-and-music-harmony-for-2024/"><u>Apex Media Merge Sleek PC Video & Music Harmony for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/best-video-conversion-tools-from-dvd-to-mp4-on-windows-11-2024-edition/"><u>Best Video Conversion Tools From DVD to MP4 on Windows 11 - 2024 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/convert-aiff-audio-files-to-free-and-open-source-ogg-format-with-ease/"><u>Convert AIFF Audio Files to Free and Open-Source Ogg Format with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/convert-videos-seamlessly-for-psp-top-tools-that-transform-media-into-optimal-ps-portable-size-and-resolution/"><u>Convert Videos Seamlessly for PSP - Top Tools That Transform Media Into Optimal PS Portable Size and Resolution</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-digital-conversion-how-to-upgrade-doobie-brothers-dvds-to-modern-mp4-and-mp3-formats/"><u>Effortless Digital Conversion: How to Upgrade Doobie Brothers DVDs to Modern MP4 and MP3 Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-methods-mastering-the-playback-of-ogm-format-videos/"><u>Effortless Methods: Mastering the Playback of OGM Format Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-using-manycams-cutting-edge-webcam-emulation-tools/"><u>Enhance Your Online Presence Using ManyCam's Cutting-Edge Webcam Emulation Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-the-fm20dll-not-located-problem/"><u>Troubleshooting Techniques for the 'fm20.dll Not Located' Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-stop-assassins-creed-odyssey-from-crashing-on-pc-easily/"><u>Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-home-network-potential-with-the-netgear-nighthawk-x6-ac3200-performance-and-family-protection-unleashed/"><u>Unlocking Home Network Potential with the Netgear Nighthawk X6 AC3200 – Performance & Family Protection Unleashed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,3 +146,19 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-overcoming-obscured-visual-space-on-youtube/"><u>[New] 2024 Approved Overcoming Obscured Visual Space on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-mobile-hotspot-not-working-in-windows-11/"><u>How to Fix the Mobile Hotspot Not Working in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462113834-overcome-these-6-prevalent-iphone-13-glitches-expert-fixing-guides-inside/"><u>Overcome These 6 Prevalent iPhone 13 Glitches - Expert Fixing Guides Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebooting-the-clock-fixes-for-disabled-windows-time-service/"><u>Rebooting the Clock: Fixes for Disabled Windows Time Service</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-adding-djay-skins-in-kodi-version-19/"><u>Step-by-Step Guide to Adding DJay Skins in Kodi Version 19</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-windows-hello-for-sign-in/"><u>Step-By-Step: Setting up Windows Hello for Sign In</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-verified-app-issues-in-windows/"><u>Strategies for Overcoming Verified App Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-closed-caption-glitches-a-win-10-solution/"><u>Taming Closed Caption Glitches: A Win 10 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/win-at-vms-essential-ways-to-amplify-windows-performance/"><u>Win at VMs: Essential Ways to Amplify Windows Performance</u></a></li>
+</ul></div>
+

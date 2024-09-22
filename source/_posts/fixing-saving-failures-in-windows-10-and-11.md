@@ -1,7 +1,7 @@
 ---
 title: Fixing Saving Failures in Windows 10 & 11
-date: 2024-09-11T18:28:42.688Z
-updated: 2024-09-16T19:23:40.541Z
+date: 2024-09-16T08:26:56.822Z
+updated: 2024-09-21T18:59:57.722Z
 tags:
   - windows10
   - windows11
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -79,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 4. Press the **Continue** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click **Add** to view a Permission Entry window.
@@ -91,6 +90,14 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 2. Input **SYSTEM** inside the object name box.  
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
@@ -105,24 +112,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[New] 2024 Approved Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-elevating-video-discoverability-with-strategic-tagging-on-youtube/"><u>[New] In 2024, Elevating Video Discoverability with Strategic Tagging on Youtube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-premier-moba-experiences-on-your-android-device/"><u>[New] In 2024, Premier MOBA Experiences on Your Android Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>[New] Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-10-filmora-editing-traits-for-fan-loyalty/"><u>[New] Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-artisans-guide-to-chromatic-mastery/"><u>[Updated] The Artisan's Guide to Chromatic Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-issues-with-googles-nearby-sharing-on-windows/"><u>Fixing Issues with Google's Nearby Sharing on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-power-saver-modes-in-windows-os/"><u>Mastering Power Saver Modes in Windows OS</u></a></li>
-<li><a href="https://network-issues.techidaily.com/normalizing-opposite-orientation-screens-windows-11/"><u>Normalizing Opposite Orientation Screens, Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/perpetual-disposal-setting-up-unchangeable-deletion-bin-on-pc/"><u>Perpetual Disposal: Setting up Unchangeable Deletion Bin on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-11-sign-in-your-guide-to-success/"><u>Seamless Windows 11 Sign-In: Your Guide to Success</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-usage-error-in-windows-11-os/"><u>Troubleshooting Usage Error in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unresponsive-click-problems-guide-for-win11-users/"><u>Unresponsive Click Problems: Guide for Win11 Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme V30? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +119,24 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-dominate-the-battlefield-learn-vocal-modification-for-free-fire-characters/"><u>[New] 2024 Approved How to Dominate the Battlefield Learn Vocal Modification for Free Fire Characters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-digital-dossiers-decoded-craft-your-signature-bio-with-stars/"><u>[Updated] 2024 Approved Digital Dossiers Decoded Craft Your Signature Bio with Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-beginners-to-pros-choosing-webcams-for-youtube-live-for-2024/"><u>[Updated] From Beginners to Pros Choosing Webcams for YouTube Live for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>2024 Approved Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-your-spotify-playlist-library-into-the-world-of-text-a-comprehensive-guide/"><u>Bring Your Spotify Playlist Library Into the World of Text: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-tutorial-unlocking-the-secrets-of-peekvids-video-extraction/"><u>Effortless Tutorial: Unlocking the Secrets of PeekVids Video Extraction</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-comparison-the-leading-mp3-editor-tools-for-professionals-and-hobbyists-alike/"><u>Expert Comparison: The Leading MP3 Editor Tools for Professionals and Hobbyists Alike</u></a></li>
+<li><a href="https://win11.techidaily.com/free-conversion-of-m4a-audio-files-to-mp3-format-easy-guide/"><u>Free Conversion of M4A Audio Files to MP3 Format - Easy Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-motion-review-full-scope-2023/"><u>In 2024, Motion Review Full Scope 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/isowindows-10/"><u>ISOファイルを動かす：Windows 10で完全ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/isodvd/"><u>ISOへの変換マスタークラス「最新かつ安全なDVDダウンロード」</u></a></li>
+<li><a href="https://win11.techidaily.com/joyful-easter-celebrations-with-wonderfoxs-special-edition-for-the-holiday/"><u>Joyful Easter Celebrations with WonderFox's Special Edition for the Holiday</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-converting-videocasts-to-high-quality-mp3-files-in-minutes/"><u>Master the Art of Converting Videocasts to High-Quality MP3 Files in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-firefox-stutter-and-freeze-expert-advice-for-smooth-browsing/"><u>Overcome Firefox Stutter and Freeze: Expert Advice for Smooth Browsing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-proven-techniques-to-amplify-content-for-2024/"><u>Top 8 Proven Techniques to Amplify Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranking-no-cost-mac-dvd-ripper-transform-your-disc-files-into-avi-format-seamlessly/"><u>Top-Ranking No Cost Mac DVD Ripper: Transform Your Disc Files Into AVI Format Seamlessly</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Purchase Speeds in Microsoft's Marketplace
-date: 2024-09-10T03:15:09.041Z
-updated: 2024-09-17T06:25:03.716Z
+date: 2024-09-15T01:05:57.717Z
+updated: 2024-09-22T09:25:15.892Z
 tags:
   - windows10
   - windows11
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 4. Disable the toggle next to the**Metered connection** option.  
 ![Disable Metered Connection in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change the Background Download Bandwidth
 
  The next thing you can try to get better speeds on the Microsoft Store is to increase the background download bandwidth. Here's how:
@@ -76,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 5. Under**Download settings,** select the **Percentage of measured bandwidth (measured against the updates source)** option.  
 ![Percentage of measured bandwidth (measured against the updates source) option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/percentage-of-measured-bandwidth-measured-against-the-updates-source.jpg)
 6. Check the **Limit how much bandwidth is used for downloading updates in the background** option, and drag the slider to**100%.**
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Then, check the **Limit how much bandwidth is used for downloading updates in the foreground** option and drag the slider to**100%.**  
 ![Limit how much bandwidth is used for downloading updates in the foreground option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/limit-how-much-bandwidth-is-used-for-downloading-updates-in-the-foreground.jpg)
@@ -107,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Switch to the Google Public DNS
@@ -125,16 +105,29 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 5. Right-click on the connected network and choose**Properties.**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
 
@@ -148,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 3. Press**Enter** to re-register the Microsoft Store.
 
  After that, restart your computer and check if the download speed has increased. If not, then you might have to reset the network settings of your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset the Network Settings
 
@@ -180,16 +180,16 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-echoes-of-exploration-your-step-by-step-blueprint-to-becoming-a-travel-vlogger-for-2024/"><u>[New] Echoes of Exploration Your Step-by-Step Blueprint to Becoming a Travel Vlogger for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-structuring-stories-that-resonate-in-docu-cinema/"><u>[Updated] Structuring Stories That Resonate in Docu-Cinema</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-poco-x6-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco X6 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mpeg-4m4vmp4/"><u>MPEG-4(M4V)ファイルを無料でMP4に効率良くアップコンバートする方法</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-your-firefox-video-problems-with-these-8-proven-strategies/"><u>Solve Your Firefox Video Problems with These 8 Proven Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-on-setting-up-wonderfox-dvd-ripper-software/"><u>Step-by-Step Guide on Setting Up WonderFox DVD Ripper Software</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-webm-videos-to-mp4-on-windows-11/"><u>Step-by-Step Guide: Converting WebM Videos to MP4 on Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlock-full-scale-viewing-on-facebook/"><u>Unlock Full-Scale Viewing on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>2024 Approved Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comprehensive-tutorial-on-converting-3gp-files-into-flv-with-ease/"><u>Comprehensive Tutorial on Converting .3Gp Files Into .flv with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/erase-unsupported-windows-interfaces-with-these-fixes/"><u>Erase Unsupported Windows Interfaces with These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-power-boosting-mouseclicklock-in-windows-pcs/"><u>Harnessing Power: Boosting MouseClickLock in Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-iphone-cinematic-experience-essential-film-gear/"><u>In 2024, Boost iPhone Cinematic Experience Essential Film Gear</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-capture-live-camera-feed-in-vlc-media-player/"><u>In 2024, Capture Live Camera Feed in VLC Media Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-steps-to-conquer-hdr-images-in-ps/"><u>In 2024, Proven Steps to Conquer HDR Images in PS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-techniques-for-browsing-youtube-comments/"><u>In 2024, Simplified Techniques for Browsing YouTube Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-setting-up-msoffice-in-win11/"><u>Quick Steps for Setting Up MSOffice in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-inactive-windows-11-key-activation/"><u>Revitalizing Inactive Windows 11 Key Activation</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Smart 7 HD</u></a></li>
 </ul></div>
 

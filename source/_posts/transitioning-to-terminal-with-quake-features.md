@@ -1,7 +1,7 @@
 ---
 title: Transitioning to Terminal with Quake Features
-date: 2024-09-14T17:46:27.589Z
-updated: 2024-09-16T20:46:47.119Z
+date: 2024-09-16T00:00:56.784Z
+updated: 2024-09-21T19:59:35.043Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,13 @@ To reveal the window again, press the same keyboard shortcut.
 
  The Quake mode terminal window stretches the entire width of the screen. By default, it will fill about half the height of the screen. Unfortunately, you can't change the width, but you can click and drag the bottom edge of the panel to make it less intrusive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Closing the Quake Mode Terminal Window
 
  As mentioned, the**Windows Key + \`** shortcut doesn't close the terminal window; it only hides it. Even closing the original Windows Terminal window won't remove the Quake mode window.
@@ -74,10 +81,10 @@ To reveal the window again, press the same keyboard shortcut.
  If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Windows Terminal in Quake Mode at Logon
@@ -88,13 +95,6 @@ To reveal the window again, press the same keyboard shortcut.
 2. Open the startup items folder by typing**shell:startup** , then click**Ok** .  
 ![creating a shortcut to quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/auto-open-quake-mode.jpg)
 3. Right-click anywhere in the folder and select**New > Shortcut** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. For the location of the item, type:**wt.exe -w \_quake** . Click**Next** .  
 ![shortcut to automatically open quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quake-mode-shortcut.jpg)
@@ -123,17 +123,19 @@ To reveal the window again, press the same keyboard shortcut.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-street-smart-showdown-top-hand-to-hand-video-games/"><u>2024 Approved Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-latest-innovations-in-bard-7-key-features-revealed-at-googol-io-2023/"><u>Discover the Latest Innovations in BARD: 7 Key Features Revealed at Googol I/O 2023</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevate-imagery-quality-achieve-ultra-hd-clarity-with-4k8k10k-conversion-powered-by-winxvideo-ai-technology/"><u>Elevate Imagery Quality: Achieve Ultra HD Clarity with 4K/8K/10K Conversion Powered by Winxvideo AI Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-missing-taskbar-in-full-screen-browser-frames/"><u>Fixing Missing Taskbar in Full-Screen Browser Frames</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-f5-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco F5 Pro 5G Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-echoes-of-excellence-10-strategies-for-superior-sound-quality/"><u>In 2024, Echoes of Excellence 10 Strategies for Superior Sound Quality</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-s23-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel S23 Through Google Earth?</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-active-state-for-windows-11-user-interface/"><u>Reinstating Active State for Windows 11 User Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-override-windows-antivirusfirewall-blocking-chrome/"><u>Steps to Override Windows Antivirus/Firewall Blocking Chrome</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-versatile-osprey-series-a-deep-dive-into-the-affordable-ws-2902a-by-ambient/"><u>The Versatile Osprey Series: A Deep Dive Into the Affordable WS-2902A by Ambient</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-filesystem-glitches/"><u>Unlocking Windows 11'S Filesystem Glitches</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-master-iphone-timelapses-efficient-recording-tips-for-2024/"><u>[New] Master iPhone Timelapses Efficient Recording Tips for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-directory-free-visual-content-oasis-online/"><u>2024 Approved Exclusive Directory Free Visual Content Oasis Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-record-ruckus-samsung-phone-gaming-chronicles/"><u>2024 Approved Record Ruckus Samsung Phone Gaming Chronicles</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-14-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 14 Activation Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-selection-of-5-acapella-sites-for-free-tunes-perfect-for-dj-playlists/"><u>Discover the Ultimate Selection of 5 Acapella Sites for Free Tunes Perfect for DJ Playlists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-asus-webcam-display-glitches-on-windows-10-systems/"><u>DIY Fixes for ASUS Webcam Display Glitches on Windows 10 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dousing-display-disruptions-in-pro-7/"><u>Dousing Display Disruptions in Pro 7</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-to-setting-up-the-ultimate-loonatics/"><u>Easy Guide to Setting Up the Ultimate LooNatics</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-setting-up-your-vizio-tv-for-optimal-usb-movie-playback-performance/"><u>Easy Guide: Setting Up Your Vizio TV For Optimal USB Movie Playback Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-dvd-viewing-a-step-by-step-guide-to-using-a-pc-dvd-player/"><u>Effortless DVD Viewing: A Step-by-Step Guide to Using a PC DVD Player</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-guide-solving-iphone-mov-file-playback-issues-and-troubleshooting-tips/"><u>Effortless Guide: Solving iPhone MOV File Playback Issues & Troubleshooting Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C55 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-method-to-seamless-integration-of-linktree-into-tiktok-profiles/"><u>In 2024, The Ultimate Method to Seamless Integration of Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-acid-pro-review-a-look-at-similar-programs/"><u>Magix ACID Pro Review A Look at Similar Programs</u></a></li>
 </ul></div>
 

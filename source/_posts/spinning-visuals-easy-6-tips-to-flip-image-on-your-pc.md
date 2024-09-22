@@ -1,7 +1,7 @@
 ---
 title: "Spinning Visuals Easy: 6 Tips to Flip Image on Your PC"
-date: 2024-09-10T09:28:28.807Z
-updated: 2024-09-16T19:10:45.745Z
+date: 2024-09-20T22:32:09.994Z
+updated: 2024-09-22T07:13:22.036Z
 tags:
   - windows10
   - windows11
@@ -83,25 +83,25 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 5. Select the **Rotate image 90 degrees counter anticlockwise** or **Rotate image 90 degrees clockwise** options within the **Crop** tool.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The image rotation options in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotation-options-in-edge.jpg)
 6. Click **Save** to download the rotated image.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You cannot upload images to rotate within Edge’s crop tool. If you want to utilize the tool for rotating your photos, upload the pictures to a cloud storage account like Google Drive to make them accessible within Edge.
 
  Then you can right-click your uploaded photos there to select **Edit image**. Our guide to [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/) provides further details about how to tweak your photos with that browser.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Rotate Images With Online Image Tool
 
@@ -115,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 ![The Rotate by options in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-images-option.jpg)
 6. You can drag the slider across the image thumbnail to compare the original selected image with the optimized one.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The image comparison slider bar in Online Image Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/online-image-tool-image-comparison-tool.jpg)
 7. Click **Save All** to download the rotated images.
 
@@ -134,6 +127,14 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 1. Open this [IrfanView webpage](https://www.irfanview.com/64bit.htm) and download the app.  
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/irfanview-setup-window.jpg)
 2. Click **Next** four times in the setup wizard to install IrfanView with its default installation settings.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Open IrfanView by double-clicking its desktop shortcut.
 4. Press the **O** keyboard shortcut, select a file to rotate, and click **Open**.
 5. Click on the **Image** menu.  
@@ -145,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 ![The Rotate by angle tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rotate-by-angle-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Rotate Images for a Better Orientation in Windows 11
@@ -157,25 +158,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 
  You can rotate images in many ways within Windows 11\. Windows 11 has built-in options and three pre-installed apps with which you can rotate pictures. However, you can also rotate images with myriad editing software and web apps. Here are six different methods for rotating images on a Windows 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-standout-14-animation-techniques-for-texts/"><u>2024 Approved Standout 14 Animation Techniques for Texts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-google-pixel-8-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Google Pixel 8</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/expert-tips-to-enhance-your-adobe-presentation-videos-for-2024/"><u>Expert Tips to Enhance Your Adobe Presentation Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-innovative-windows-podcast-solutions-top-8-cutting-edge-apps/"><u>In 2024, Innovative Windows Podcast Solutions Top 8 Cutting-Edge Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/optimal-tools-for-high-quality-zoom-recordings-for-2024/"><u>Optimal Tools for High-Quality Zoom Recordings for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
-<li><a href="https://win11.techidaily.com/top-no-cost-arte-video-downloader-seamless-access-to-high-quality-arte-streams-at-zero-price/"><u>Top No-Cost Arte Video Downloader: Seamless Access to High-Quality Arte Streams at Zero Price</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-mpeg-2-converter-tools-effortlessly-transforming-files-into-your-desired-format/"><u>Top Rated MPEG-2 Converter Tools: Effortlessly Transforming Files Into Your Desired Format</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-the-top-6-superior-desktop-and-web-based-chrome-audio-recording-tools/"><u>Ultimate Guide: The Top 6 Superior Desktop and Web-Based Chrome Audio Recording Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/unpacking-facebooks-claim-of-continued-vitality/"><u>Unpacking Facebook's Claim of Continued Vitality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-wisdom-from-toms-hardware/"><u>Unveiling the Latest in Technology: Wisdom From Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-movie-player-for-ps4-a-step-by-step-guide-to-watch-films-directly-from-a-flash-drive/"><u>USB Movie Player for PS4 - A Step-by-Step Guide to Watch Films Directly From a Flash Drive</u></a></li>
-<li><a href="https://win11.techidaily.com/video-compilation-magic-a-trio-of-app-solutions-for-your-images/"><u>Video Compilation Magic: A Trio of App Solutions for Your Images</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026987488-windows/"><u>Windows向け最適動画変更アプリと手順ガイド</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -183,3 +165,21 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>[New] 2024 Approved Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-bgms-and-gifs-stylish-google-meet-backdrops/"><u>[Updated] Best BGMs & GIFs Stylish Google Meet Backdrops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-hd-video-recording-for-windows-10-users/"><u>[Updated] In 2024, HD Video Recording for Windows 10 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-video-livestreaming-vlc-strategies/"><u>2024 Approved Streamline Your Video Livestreaming VLC Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-component-services-in-windows-11/"><u>How to Open the Component Services in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-10-visionary-beauticians-poised-success/"><u>In 2024, 10 Visionary Beauticians Poised Success</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-custom-power-plans-in-windows/"><u>Overhauling Custom Power Plans in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-windows-app-malfunctions-on-devices/"><u>Strategies to Address Windows App Malfunctions on Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-for-altering-windows-pin/"><u>The Essential Guide for Altering Windows PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tier-software-selecting-the-most-effective-fps-counters-for-windows-11/"><u>Top-Tier Software: Selecting The Most Effective FPS Counters For Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-deco-p9-review/"><u>TP-Link Deco P9 Review</u></a></li>
+<li><a href="https://solve-news.techidaily.com/m4b-to-mp3/"><u>속도 문이 느껴지는 M4B-to-MP3 전환기 – 큰 청음기 무료</u></a></li>
+</ul></div>
+

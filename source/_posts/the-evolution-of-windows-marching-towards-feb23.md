@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Windows: Marching Towards FEB23"
-date: 2024-09-11T01:58:04.068Z
-updated: 2024-09-16T21:53:01.415Z
+date: 2024-09-17T02:07:22.536Z
+updated: 2024-09-22T02:21:18.511Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
  Among the three design options, the last one will occupy the most space in Taskbar. The ability to hide Search from appearing in Taskbar is also there. If you need more help, check out[how to get started with Windows 11 Taskbar Search](https://www.makeuseof.com/windows-11-taskbar-search/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. New Energy Recommendations Settings to Reduce Your Carbon Footprint
 
 ![Energy Recommendations in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/energy-recommendations-in-windows-11.jpg)
@@ -74,15 +81,22 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  While you should always aim to reduce the power consumption of your PC, make sure it does not come at the expense of lesser performance and productivity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access the Windows Studio Effects Directly From the Taskbar in Quick Settings
 
 ![Windows 11 Studio Effects in Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-studio-effects-in-quick-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://blogs.windows.com/windowsexperience/2023/02/28/introducing-a-big-update-to-windows-11-making-the-everyday-easier-including-bringing-the-new-ai-powered-bing-to-the-taskbar/)
 
@@ -97,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
  Additionally, Microsoft also introduced the Phone Link widget in the February feature drop for you to glance at your phone's notifications without actually opening the app on your PC.
 
  Hopefully, more first-party and third-party widgets will be available via "Moment" updates in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. A Full-Screen Widgets Panel
 
@@ -120,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 ![New Snipping Tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-snipping-tool-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Before the arrival of the Windows 11 February 2023 update, users were primarily dependent on third-party tools like OBS Studio to capture what was happening on their PC screens. But now, the new Snipping Tool can also start a recording session of what is happening on your PC screen.
@@ -136,27 +143,26 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The tabbed interface is now expanded to the Notepad. Like in File Explorer, the new Notepad will enable you to open multiple folders and directories in one app window. Because different folders or directories can be in a single Notepad window due to the tabs support, it is easier for you to switch between them.
 
  If you are not seeing tabs in Notepad after upgrading to the February 2023 update, go to Microsoft Store and get the latest version of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Else Is Included in the Windows 11 February 2023 Update?
 
  Microsoft also introduced a redesigned Quick Assist app, voice access improvements, AI-powered file recommendations in Start for AAD joined devices, and Phone Link for iOS (Preview) devices in the February 2023 update. The software giant also introduced the new AI Bing in Windows 11 taskbar search but removed it a few days later.
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Do More With the Windows 11 February 2023 Update
 
@@ -177,16 +183,19 @@ thumbnail: https://thmb.techidaily.com/e87b3408f54a53f91c9308647e5fc7c06d24ab266
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mov-files-saving-methods-for-windows-10-users/"><u>[New] 2024 Approved .mov Files Saving Methods for Windows 10 Users</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-achieve-superior-mp4-output-from-instagram-videos-2-ways/"><u>2024 Approved Achieve Superior MP4 Output From Instagram Videos 2 Ways</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>2024 Approved Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oneplus-nord-3-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/exposing-the-concealed-managing-windows-11-icons/"><u>Exposing the Concealed: Managing Windows 11 Icons</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-responsive-squad-mic-a-comprehensive-2nary/"><u>How to Fix a Non-Responsive Squad Mic: A Comprehensive 2Nary</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 6/iPad | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-the-file-explorer-restart-process/"><u>Simplifying the File Explorer Restart Process</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-maneuvers-beat-the-windows-lag-on-sw-bf2/"><u>Swift Maneuvers: Beat the Windows Lag on SW BF2</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fix-guide-to-eliminating-screen-sizes-errors/"><u>Win-Fix Guide to Eliminating Screen Sizes Errors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-leisure-ideal-screen-time-solutions/"><u>[Updated] 2024 Approved Essential Leisure Ideal Screen-Time Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capture-unrooted-android-sounds-4-techniques/"><u>[Updated] In 2024, Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-battlegrounds-mastery-of-marketing-metrics-on-youtube-for-2024/"><u>Brand Battlegrounds Mastery of Marketing Metrics on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comprehensive-examination-of-syma-x5c-perfect-for-uav-newbies-for-2024/"><u>Comprehensive Examination of Syma X5C Perfect for UAV Newbies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-robust-customer-assistance/"><u>Effective Strategies for Robust Customer Assistance</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-to-combine-mp3-tracks-on-windows-11/"><u>Efficient Techniques to Combine MP3 Tracks on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-dvd-to-mkv-conversion-guide-for-windows-11-and-10-users/"><u>Effortless DVD-to-MKV Conversion Guide for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-transforming-gopro-4k-videos-into-crisp-clear-1080p-without-losing-detail/"><u>Expert Tips for Transforming GoPro 4K Videos Into Crisp, Clear 1080P Without Losing Detail</u></a></li>
+<li><a href="https://win11.techidaily.com/flacwav/"><u>FLACファイルの変換：WAVへの簡単なデコードガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/from-film-to-feast-unleashing-the-culinary-adventures-of-cloudy-sequels-leftovers/"><u>From Film to Feast: Unleashing the Culinary Adventures of Cloudy Sequel's Leftovers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-12-5g-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonize-visual-and-auditory-elements-adding-filters-and-sound-to-windows-photos-app/"><u>In 2024, Harmonize Visual & Auditory Elements Adding Filters & Sound to Windows Photos App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/masterful-stardew-upgrades-uncovered-the-seven-best/"><u>Masterful Stardew Upgrades Uncovered The Seven Best</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-definitive-guide-to-googles-podcast-submission/"><u>The Definitive Guide to Google’s Podcast Submission</u></a></li>
 </ul></div>
 

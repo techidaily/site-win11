@@ -1,7 +1,7 @@
 ---
 title: Unlock the Mystery of Windows Object Info
-date: 2024-09-13T00:09:14.190Z
-updated: 2024-09-16T18:03:25.507Z
+date: 2024-09-18T03:23:40.083Z
+updated: 2024-09-22T01:26:42.446Z
 tags:
   - windows10
   - windows11
@@ -56,20 +56,19 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 4. The file properties window will launch on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
 
@@ -81,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 4. A drop-down menu will open. Select the**Properties** option from the menu.  
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
 
@@ -104,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -129,16 +141,21 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-10-high-resolution-tv-experiences/"><u>[Updated] 2024 Approved Top 10 High-Resolution TV Experiences</u></a></li>
-<li><a href="https://win11.techidaily.com/drive-harmony-a-guide-to-efficient-hdds-in-win11/"><u>Drive Harmony: A Guide to Efficient HDDs in Win11</u></a></li>
-<li><a href="https://solve-help.techidaily.com/dvd20245/"><u>DVDコピーガード対策：2024最新フリーソフトベスト5推薦 - 安全かつ正しく解除方法を学ぶ</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-restore-distribution-and-catroot2-in-ws11/"><u>Efficiently Restore Distribution & Catroot2 in WS11</u></a></li>
-<li><a href="https://win11.techidaily.com/gentle-resting-practices-for-your-pc/"><u>Gentle Resting Practices for Your PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oneplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on OnePlus</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-minitool-movie-maker-and-its-alternatives/"><u>New In 2024, The Ultimate Guide to Minitool Movie Maker and Its Alternatives</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-ios-slideshow-creation-tools-xs-max-a9/"><u>Top iOS Slideshow Creation Tools (XS Max - A9)</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-troubleshooting-resolving-code-0x0000004e-issue/"><u>Windows Troubleshooting: Resolving Code 0X0000004E Issue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-sonic-wonders-on-iphone/"><u>[New] Exploring Sonic Wonders on iPhone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-webvidrecorder-download-fb-content-easily/"><u>[New] In 2024, WebVidRecorder Download FB Content Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-endless-video-recording-program/"><u>[Updated] 2024 Approved Endless Video Recording Program</u></a></li>
+<li><a href="https://win11.techidaily.com/1-effortless-conversion-turning-m4a-files-into-mp3-formats-using-free-online-tools/"><u>1. Effortless Conversion: Turning M4A Files Into MP3 Formats Using Free Online Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/1-mastering-the-process-step-by-step-guide-to-converting-beatstars-tracks-into-mp3-format/"><u>1. Mastering the Process: Step-by-Step Guide to Converting BeatStars Tracks Into MP3 Format</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-guide-to-nvidia-screener-use-for-2024/"><u>Comprehensive Guide to NVIDIA Screener Use for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-mastery-reimagined-with-artificial-intelligence/"><u>Content Mastery Reimagined with Artificial Intelligence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia FRP Bypass</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-v29-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo V29 Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/itunes-mp3wav/"><u>ITunes MP3ファイルからWAV形式への変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/mp3-audible-aax/"><u>MP3への変換 - Audible AAX音声ファイルをどうやって変更するか</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-free-dvd-player-applications-compatible-with-windows-11-watch-movies-at-no-charge/"><u>Top 7 Free DVD Player Applications Compatible with Windows 11: Watch Movies at No Charge</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-quickly-and-effectively-convert-youtube-content-into-mp3-format-for-offline-listening/"><u>Ultimate Guide: Quickly and Effectively Convert YouTube Content Into MP3 Format for Offline Listening</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-11-cinema-download-and-activate-movie-maker-app/"><u>Windows 11 Cinema Download and Activate Movie Maker App</u></a></li>
+<li><a href="https://win11.techidaily.com/wonderfox-solves-missing-page-issue-error-code-404-no-more/"><u>WonderFox Solves Missing Page Issue - Error Code 404 No More</u></a></li>
+<li><a href="https://win11.techidaily.com/avisynth/"><u>ビデオ再生中の音量設定 - AviSynthを使って</u></a></li>
 </ul></div>
 

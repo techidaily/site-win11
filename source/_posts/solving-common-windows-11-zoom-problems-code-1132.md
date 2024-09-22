@@ -1,7 +1,7 @@
 ---
 title: "Solving Common Windows 11 Zoom Problems: Code 1132"
-date: 2024-09-15T16:56:54.399Z
-updated: 2024-09-17T07:08:11.755Z
+date: 2024-09-15T17:05:42.163Z
+updated: 2024-09-21T22:24:14.008Z
 tags:
   - windows10
   - windows11
@@ -71,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Third-Party Antivirus/Security Software
 
  Some third-party antivirus tools also have firewalls that can potentially cause Zoom issues like error 1132\. Disable any third-party antivirus shield and firewall if you’ve installed security software on your PC. Options for disabling an antivirus tool’s shield and firewall may be separate. Select options that disable your antivirus software’s shield and firewall (if it has one) by right-clicking its system tray icon and looking through the context menu or settings tabs.
@@ -85,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  After disabling the third-party security software, try using the Zoom app again to see if that resolves the error. If it does, set up an antivirus exclusion for Zoom and allow that app through the firewall with the settings in your security software. Then you can turn on the antivirus utility’s shield protection and firewall feature again.
 
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Zoom App
 
@@ -96,16 +96,17 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
 4. Open[the Zoom](https://zoom.us/download#client%5F4meeting) download center.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
@@ -125,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Join Your Zoom Meetings Again on Windows
@@ -150,18 +151,20 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/apexflac/"><u>「瞬時にAPEXファイルから高品質なFLACへの完全保存変換テクニック」</u></a></li>
-<li><a href="https://win11.techidaily.com/1-quick-guide-transforming-tta-files-into-various-audio-formats-like-flac-wav-and-mp3/"><u>1. [Quick Guide: Transforming TTA Files Into Various Audio Formats Like FLAC, WAV, and MP3]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-dark-and-light-iphone-silhouette-tips/"><u>2024 Approved Master the Dark & Light IPhone Silhouette Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/best-video-transformation-tool-batch-convert-avi-over-1gb-to-mp4-for-free/"><u>Best Video Transformation Tool: Batch Convert AVI over 1GB to MP4 for Free!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-the-power-of-behavioral-tracking-with-cookiebot/"><u>Experience the Power of Behavioral Tracking with Cookiebot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008853146-how-to-fix-cyberpunk-2077s-notorious-black-screen-problem-solutions-unveiled/"><u>How to Fix Cyberpunk 2077'S Notorious Black Screen Problem - Solutions Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-bridging-platforms-integrating-instagram-with-facebook/"><u>In 2024, Bridging Platforms Integrating Instagram with Facebook</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-the-ultimate-avs-video-editor-review-pros-cons-and-verdict/"><u>New 2024 Approved The Ultimate AVS Video Editor Review Pros, Cons, and Verdict</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/radeon-hd-7850-graphics-driver-download-and-update-on-windows-10/"><u>Radeon HD 7850 Graphics Driver Download & Update on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-v-purse-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor V Purse Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028764480-tsmp3/"><u>TSファイルからMP3への簡単なコンバートガイド:初学者がわかりやすい</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028775285-windows-10/"><u>Windows 10でスクリーンショットファイルサイズ調整手順</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029187166-wonderfox/"><u>すべての角を守る！WonderFox | カバーマウントモデル検討</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[New] In 2024, How To Be A Beauty Guru on YouTube Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-record-with-chrome-os-native-screen-recorder-for-2024/"><u>[New] Record with Chrome OS Native Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-experts-choice-aspertronics-for-phones/"><u>[Updated] In 2024, Expert's Choice Aspertronics For Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-live-link-lore-when-does-gear-give-way-to-grids/"><u>[Updated] Live Link Lore When Does Gear Give Way to Grids?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-bite-sized-video-lessons-clearly/"><u>2024 Approved Bite-Sized Video Lessons, Clearly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-versatile-chatgpt-profiles-adapted-for-diverse-events/"><u>Building Versatile ChatGPT Profiles Adapted for Diverse Events</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-smartphone-a-comprehensive-iphone-vs-android-showdown/"><u>Choosing Your Smartphone: A Comprehensive iPhone Vs. Android Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/defying-conformity-a-journey-through-edges-microphonecamera-restrictions/"><u>Defying Conformity: A Journey Through Edge's Microphone/Camera Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-connectivity-hurdles-bluetooth-pin-problems-in-win11win10/"><u>How To Overcome Connectivity Hurdles: Bluetooth Pin Problems in Win11/Win10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-pro-tips-for-capturing-stunning-igtv-content-on-mobile-and-dslr/"><u>In 2024, Pro Tips for Capturing Stunning IGTV Content on Mobile & DSLR</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-accidental-keyboard-hotkeys-at-desktop/"><u>Overcoming Accidental Keyboard Hotkeys at Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-windows-11-screens-9-fixes-for-blurry-views/"><u>Perfecting Windows 11 Screens: 9 Fixes for Blurry Views</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-data-corruption-fixes-in-windows-1011/"><u>Streamlining Data Corruption Fixes in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-surface-upgrade-compendium-for-improved-functionality/"><u>The Ultimate Surface Upgrade Compendium for Improved Functionality</u></a></li>
 </ul></div>
 

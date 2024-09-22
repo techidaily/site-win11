@@ -1,7 +1,7 @@
 ---
 title: "Notepad Nightmare: Unlock Access with Our Expert Troubleshooting Guide"
-date: 2024-09-13T20:32:31.663Z
-updated: 2024-09-17T07:32:30.083Z
+date: 2024-09-15T17:09:52.870Z
+updated: 2024-09-22T04:22:06.694Z
 tags:
   - windows10
   - windows11
@@ -74,10 +74,16 @@ To repair the Notepad app on Windows:
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Notepad App
@@ -90,18 +96,19 @@ To repair the Notepad app on Windows:
 4. Click the**Uninstall** button.  
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
@@ -143,16 +150,16 @@ To create a new user account on Windows:
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Using Notepad Again
 
@@ -173,18 +180,15 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-tricks-making-powerful-yt-thumbnails/"><u>[Updated] Top Tricks Making Powerful YT Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/youtubeweb/"><u>「YouTube動画のオーディオコンテンツだけダウンロード可能な無料アプリとWebサイト」</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028154413-dvd/"><u>「パソコン上でDVDのデータダウンロード手順４つの効果的な方法」</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027472714-mp4mp3/"><u>効率的な方法：大量のMP4ファイルが入ったバッチでMP3への変換手順</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-microsoft-surface-duo-a-pricey-tech-with-persistent-bugs-and-clumsiness/"><u>Evaluating Microsoft Surface Duo: A Pricey Tech with Persistent Bugs and Clumsiness</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone X</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/left-4-dead-2-troubleshooting-fixing-game-crashes-efficiently/"><u>Left 4 Dead 2 Troubleshooting: Fixing Game Crashes Efficiently</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-huawei-p60-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Huawei P60 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere-for-2024/"><u>The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
-<li><a href="https://win11.techidaily.com/youtubecapcut/"><u>YouTubeビデオやミュージックの編集：容易なCapCutで始めよう</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027458854-mov/"><u>ファイル形式MOVから変換するための最適な方法 - 詳細ガイド</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-comprehensive-guide-to-thumbnail-production/"><u>[New] 2024 Approved A Comprehensive Guide to Thumbnail Production</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-most-viewed-vids-worldwide-roundup/"><u>[New] 2024 Approved Most Viewed Vids Worldwide Roundup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-amplifying-viewership-strategies-for-unboxing-tiktoks/"><u>[New] Amplifying Viewership Strategies for Unboxing TikToks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-expert-finder-high-speed-pics-on-win-11/"><u>[Updated] 2024 Approved Expert Finder High-Speed Pics on Win 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-your-digital-post-its-in-windows/"><u>Preserving Your Digital Post-Its in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-correct-err-87-library-misloading-issue/"><u>Solutions to Correct Err 87 Library Misloading Issue</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-8-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 8 You Should Try Out</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-and-11s-hidden-gems-restoring-off-screen-windows-with-these-6-methods/"><u>Win 10 & 11'S Hidden Gems: Restoring Off-Screen Windows with These 6 Methods</u></a></li>
 </ul></div>
 

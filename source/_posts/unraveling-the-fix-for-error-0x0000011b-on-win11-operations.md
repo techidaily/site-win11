@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Fix for Error 0X0000011B on Win11 Operations
-date: 2024-09-10T05:55:47.647Z
-updated: 2024-09-17T04:02:45.537Z
+date: 2024-09-16T18:36:58.644Z
+updated: 2024-09-22T05:34:18.684Z
 tags:
   - windows10
   - windows11
@@ -104,27 +104,20 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. After the restart, try to use your shared printer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -138,17 +131,32 @@ To uninstall Windows updates:
 2. Type**control** and click**OK** to open**Control Panel.**  
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
-![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
-4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
-![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
-5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
+4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
+5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
@@ -171,21 +179,15 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-free-makers-hub-for-top-tier-fb-visuals/"><u>[New] In 2024, Free Maker's Hub for Top-Tier FB Visuals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-bringing-text-to-life-a-guide-to-dynamic-animation-methods/"><u>[Updated] 2024 Approved Bringing Text to Life A Guide to Dynamic Animation Methods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-2023s-leading-browsers-recording-software-guide/"><u>2024 Approved 2023'S Leading Browsers Recording Software Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-errorinvalidargument-in-wsl-subsystem-windows/"><u>Conquering ERROR_INVALID_ARGUMENT in WSL Subsystem Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-comics-layout-for-win11-users/"><u>Deciphering Comics Layout for Win11 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-of-chatgpt-to-design-your-ideal-health-meal-plan/"><u>Harnessing the Power of ChatGPT to Design Your Ideal Health Meal Plan</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-f5-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco F5 Pro 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stepwise-discovery-of-covert-youtube-archives/"><u>In 2024, Stepwise Discovery of Covert YouTube Archives</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6 Passcode without a Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-reminders-seamlessly-in-windows-os/"><u>Integrating Reminders Seamlessly in Windows OS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/key-steps-to-accurate-and-effective-market-research-analysis-for-2024/"><u>Key Steps to Accurate and Effective Market Research Analysis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-to-navigate-through-onedrive-error-messages/"><u>Master Plan to Navigate Through OneDrive Error Messages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-binkw32dll-troubleshooting-process-for-flawless-operations/"><u>Mastering the binkw32.dll Troubleshooting Process for Flawless Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-code-error-0x80072f8f/"><u>Overcoming Windows Code Error: 0X80072f8f</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-task-manager-capabilities-advanced-filters-and-dynamic-theme-options-windows-11/"><u>Unlock Full Task Manager Capabilities: Advanced Filters & Dynamic Theme Options (Windows 11)</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-when-your-outlook-stays-in-safe-mode/"><u>What To Do When Your Outlook Stays in Safe Mode</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-optimizing-live-recording-with-chromebooks-and-hp/"><u>[New] Optimizing Live Recording with Chromebooks & HP</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-tips-how-to-reinstall-a-lost-print-job/"><u>[Windows Tips] How to Reinstall a Lost Print Job</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-ad-dollars-boost-your-view-count-for-free-for-2024/"><u>Avoid Ad Dollars – Boost Your View Count for Free for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-edit-audio-in-canva-videos-removing-and-adding-voiceovers-effortlessly/"><u>How to Edit Audio in Canva Videos: Removing and Adding Voiceovers Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/huge-savings-alert-check-out-the-amazing-black-friday-bargains-of-2eusier-in-2020/"><u>Huge Savings Alert! Check Out the Amazing Black Friday Bargains of 2Eusier in 2020</u></a></li>
+<li><a href="https://win11.techidaily.com/imgburn-dvd-dvd/"><u>ImgBurn フリーウェアで簡単DVDバックアップ: DVDコピー機能をご案内し、コピーガード解除に最適なツールも紹介</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-voice-customization-go-beyond-echoes/"><u>Leading Voice Customization Go Beyond Echoes</u></a></li>
+<li><a href="https://win11.techidaily.com/master-video-conversion-for-portable-gaming-systems-pspps3-compatible-solutions/"><u>Master Video Conversion for Portable Gaming Systems - PSP/PS3 Compatible Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-codegpts-capabilities-in-modern-coding-environments/"><u>Understanding CodeGPT's Capabilities in Modern Coding Environments</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-suggested-for-you-content-on-facebook-and-why-cant-you-disable-it/"><u>What Is “Suggested for You” Content on Facebook, and Why Can’t You Disable It?</u></a></li>
 </ul></div>
 

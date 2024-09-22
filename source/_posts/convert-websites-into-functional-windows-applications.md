@@ -1,7 +1,7 @@
 ---
 title: Convert Websites Into Functional Windows Applications
-date: 2024-09-14T08:13:06.738Z
-updated: 2024-09-17T03:44:43.670Z
+date: 2024-09-19T08:44:45.229Z
+updated: 2024-09-22T05:21:53.968Z
 tags:
   - windows10
   - windows11
@@ -58,13 +58,6 @@ To install a website and app using Microsoft Edge:
 
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Install Websites as App Using Google Chrome
 
  Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also[run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
@@ -77,6 +70,14 @@ To add a shortcut to a website as an app in Chrome:
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
@@ -92,15 +93,16 @@ To change the app icon:
 2. In the**Properties** dialog, open the**Shortcut** tab.  
 ![website app properties shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut.jpg)
 3. Click the**Change icon** button at the bottom.  
-![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
-4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
+4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
 
 C:\Windows\System32\imageres.dll
 5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
@@ -119,22 +121,15 @@ To install a website as an app using WebCatalog:
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click the**Create custom app** option.  
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
 2. Select the**Add shadows and rounded corners** option.
@@ -151,6 +146,19 @@ To install a website as an app using WebCatalog:
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
 
 ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
 
@@ -189,14 +197,14 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-a-short-form-video-star-with-these-10-proven-methods/"><u>[New] In 2024, Become a Short-Form Video Star with These 10 Proven Methods</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-fading-out-sound-fl-studio-guide/"><u>[Updated] In 2024, Fading Out Sound FL Studio Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-professionalizing-your-youtube-income-with-universal-tech-tips/"><u>In 2024, Professionalizing Your YouTube Income with Universal Tech Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-12-proplus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme 12 Pro+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-fix-for-windows-activation-error-0x8007251d/"><u>Mastering the Fix for Windows Activation Error 0X8007251D</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-dll-absence-in-windows-11/"><u>Overcoming DLL Absence in Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/reassert-true-look-corrected-video-error-for-2024/"><u>Reassert True Look Corrected Video Error for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-correct-err-87-library-misloading-issue/"><u>Solutions to Correct Err 87 Library Misloading Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/win-10-and-11s-hidden-gems-restoring-off-screen-windows-with-these-6-methods/"><u>Win 10 & 11'S Hidden Gems: Restoring Off-Screen Windows with These 6 Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-optimal-scripting-solutions-in-ae/"><u>[New] 2024 Approved Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://win11.techidaily.com/youtubeweb/"><u>「YouTube動画のオーディオコンテンツだけダウンロード可能な無料アプリとWebサイト」</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-flip-to-impress-the-instagram-video-guide/"><u>2024 Approved Flip to Impress The Instagram Video Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-on-windows-1011-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders on Windows 10/11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-darkness-step-by-step-guide-to-resolve-google-chromes-screen-issues/"><u>Conquering the Darkness: Step-by-Step Guide to Resolve Google Chrome’s Screen Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discover-the-ultimate-10-igtv-content-genres-that-work-best/"><u>Discover the Ultimate 10 IGTV Content Genres That Work Best</u></a></li>
+<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
+<li><a href="https://win11.techidaily.com/youtubecapcut/"><u>YouTubeビデオやミュージックの編集：容易なCapCutで始めよう</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027458854-mov/"><u>ファイル形式MOVから変換するための最適な方法 - 詳細ガイド</u></a></li>
 </ul></div>
 

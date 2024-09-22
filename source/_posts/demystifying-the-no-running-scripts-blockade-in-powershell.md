@@ -1,7 +1,7 @@
 ---
 title: Demystifying the 'No Running Scripts' Blockade in PowerShell
-date: 2024-09-12T18:33:38.222Z
-updated: 2024-09-16T20:47:49.510Z
+date: 2024-09-18T17:38:15.490Z
+updated: 2024-09-22T02:22:22.956Z
 tags:
   - windows10
   - windows11
@@ -94,18 +94,18 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -125,6 +125,19 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
  Remember, the main aim is to change the execution policy such that you’ll be able to run your PowerShell scrips without a hassle. And by so doing, you’ll get rid of the “running scripts is disabled” error on PowerShell.
@@ -137,48 +150,15 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
 
  If you want to run all scripts without restrictions, pick the **Allow all scripts** option from the "Execution Policy" drop-down menu.
 
  From there, click **Apply** and then click **OK** to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -194,6 +174,13 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the value is missing, create it through these steps:
 
 1. Right-click on a blank space on the right-hand side.
@@ -206,6 +193,13 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  After entering your preferred value in the "Value data" section, press **OK** to save the changes. Finally, close the Registry Editor and then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run Your PowerShell Scripts Without Any Restrictions
 
  It can be quite frustrating when you suddenly can’t execute certain commands on Windows PowerShell. But if you come across the “scripts is disabled” error, the solutions we’ve covered should help.
@@ -216,21 +210,6 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  Let’s dive in!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-deciding-on-video-platforms-podcast-or-youtube/"><u>[New] 2024 Approved Deciding on Video Platforms Podcast or YouTube?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/astering-online-income-from-youtubes-adsense-to-direct-payments-for-2024/"><u>[New] Mastering Online Income From YouTube's AdSense to Direct Payments for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>[Updated] In 2024, Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-unsung-heroes-key-contributions-of-each-cinematic-craftsperson/"><u>2024 Approved The Unsung Heroes Key Contributions of Each Cinematic Craftsperson</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6 Plus with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-permanent-deletion-of-files-using-the-windows-11-and-11-trash-bin/"><u>Ensuring Permanent Deletion of Files Using the Windows 11 & 11 Trash Bin</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y28-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y28 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-the-ins-and-outs-of-win11-status-with-these-top-five-uptime-tests/"><u>Navigate the Ins and Outs of Win11 Status with These Top Five Uptime Tests</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-sight-of-sd-card-in-windows-filesystem/"><u>Reclaim Sight of SD Card in Windows Filesystem</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-note-taking-techniques-on-win11/"><u>Seamless Note-Taking Techniques on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/tailored-techniques-for-widget-notification-control-win-11/"><u>Tailored Techniques for Widget Notification Control Win 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -238,3 +217,21 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-timeline-tools-at-no-cost/"><u>[New] Ultimate Timeline Tools at No Cost</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-convert-your-youtube-files-effortlessly-to-webm/"><u>[Updated] 2024 Approved Convert Your YouTube Files Effortlessly to WebM</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-setup-guide-for-mac-devices-for-2024/"><u>[Updated] Snapchat Setup Guide for Mac Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-srt-expertise-essential-insights/"><u>[Updated] Unlocking SRT Expertise Essential Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44k144kk44oi44go44k944o844k344oj44or44oh44oh44kj44ki44gn5yq55p6c55qe44gr44oe44or44ob44oh44oh44kj44ki44ov44kh44kk44or44ks5ywx5pyj44gz44kl44gf30/"><u>「ウェブサイトとソーシャルメディアで効果的にマルチメディアファイルを共有するための戦略」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>2024 Approved A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disabling-persistent-bluetooth-on-windows-11/"><u>Disabling Persistent Bluetooth on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028954324-m4a/"><u>M4A形式への簡単なビデオ変換テクニック</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-solving-the-issue-of-unsuccessful-webm-file-imports-into-adobe-premiere-pro/"><u>Troubleshooting Guide: Solving the Issue of Unsuccessful WebM File Imports Into Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-how-to-set-up-an-operating-system-installation-directly-from-an-iso-file-no-discs-needed/"><u>Ultimate Tutorial: How to Set Up an Operating System Installation Directly From an ISO File, No Discs Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-appeal-of-60-fps-anime-a-visual-quality-comparison/"><u>Understanding the Appeal of 60 Fps Anime - A Visual Quality Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-video-playback-easy-instructions-for-toshiba-tv-users/"><u>USB Video Playback: Easy Instructions for Toshiba TV Users</u></a></li>
+</ul></div>
+
