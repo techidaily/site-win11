@@ -1,7 +1,7 @@
 ---
 title: What Is Microsoft Family Safety? Everything You Need to Know
-date: 2024-09-17T17:35:06.555Z
-updated: 2024-09-22T00:29:01.917Z
+date: 2024-09-21T18:05:44.885Z
+updated: 2024-09-28T22:07:52.584Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
  It's a unique tool available for all Microsoft users which works by limiting your online or offline interaction on all your Microsoft devices, helping plan shared tasks, and all the more. Best of all, you can get started for free on the[Microsoft Family Safety website](https://www.microsoft.com/en-us/microsoft-365/family-safety) .
 
  Let's look at the features that make Microsoft Family Safety possible, one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Content Filters
 
@@ -76,6 +83,13 @@ Here's how you can enable Screen Time:
 
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
@@ -99,10 +113,10 @@ Firstly, make sure you have checked all your location permissions:
  That's it; do this, and location sharing will be turned on your Family Safety account from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Activity Reporting
@@ -137,10 +151,10 @@ Here's how you can add money to your account:
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
@@ -159,20 +173,20 @@ Here's how you can add money to your account:
 
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learning All About Microsoft Family Safety
 
@@ -191,5 +205,24 @@ Here's how you can add money to your account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-basic-capture-tool-windows-10-screen-recorder/"><u>[New] Basic Capture Tool Windows 10 Screen Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syma-x5c-detailed-review-the-optimal-beginners-drone/"><u>[New] Syma X5C Detailed Review The Optimal Beginner's Drone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-affordable-pc-cases-and-accessories-under-100/"><u>[Updated] 2024 Approved Best Affordable PC Cases & Accessories (Under $100)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-techniques-for-perfecting-instagram-video-loops-for-2024/"><u>[Updated] The Ultimate Techniques for Perfecting Instagram Video Loops for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-digital-workshop-title-maker/"><u>2024 Approved Top-Tier Digital Workshop Title Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-conflicting-apps-camera-use-windows-error-0xa00f4243/"><u>Addressing Conflicting Apps' Camera Use: Windows Error 0xA00F4243</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-revamp-for-windows-11-status-area-include-a-chosen-weather-symbol/"><u>Aesthetic Revamp for Windows 11 Status Area: Include a Chosen Weather Symbol</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-or-huggingface-exploring-the-top-contenders-in-ai-assistants/"><u>ChatGPT or HuggingFace? Exploring the Top Contenders in AI Assistants</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-jamboree-discovering-5-entertaining-techniques/"><u>Command Prompt Jamboree: Discovering 5 Entertaining Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-ark-system-failures-with-effective-fixes/"><u>Overcoming ARK System Failures with Effective Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-windows-aural-outputs-with-win-compatible-audacity/"><u>Overhauling Windows' Aural Outputs with Win-Compatible Audacity</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/professional-free-online-tool-batch-transform-multiple-images-into-high-quality-pdf-documents/"><u>Professional Free Online Tool: Batch Transform Multiple Images Into High-Quality PDF Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-sign-out-problem-due-to-malware-intrusion/"><u>Remedying Windows Sign-Out Problem Due to Malware Intrusion</u></a></li>
+<li><a href="https://win11.techidaily.com/smashing-through-disconnection-issues-during-wins-discord-setup/"><u>Smashing Through Disconnection Issues During Win's Discord Setup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncluttered-images-using-photopea-for-flawless-edits/"><u>Uncluttered Images Using Photopea for Flawless Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-fixing-search-service-disruptions/"><u>Understanding and Fixing Search Service Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-audit-steps-for-default-user-permission-reset/"><u>Win11 Audit: Steps for Default User Permission Reset</u></a></li>
+</ul></div>
 

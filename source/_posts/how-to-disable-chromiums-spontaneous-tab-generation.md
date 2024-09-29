@@ -1,7 +1,7 @@
 ---
 title: How to Disable Chromium's Spontaneous Tab Generation
-date: 2024-09-17T10:18:11.880Z
-updated: 2024-09-21T19:42:27.017Z
+date: 2024-09-25T00:28:52.317Z
+updated: 2024-09-28T20:21:38.592Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,21 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -65,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 
 ![Disable Chrome From Startup Apps in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-chrome-from-startup-apps-in-the-task-manager-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If new tabs open up at browser startup, you've probably configured the browser to open a set of new tabs at its launch or to open the tabs you left open when you last used the browser. Follow these steps to remove these permissions:
 
 1. Open Chrome.
@@ -72,37 +93,24 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 3. Navigate to the **On startup** tab and check the circle besides **Open the New Tab page**.  
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
 
  If Chrome opens new tabs with unwanted websites whenever you click on a text, link, or area on a particular website, that site or its content is likely malicious. That might explain why it redirects you to malicious offers and landing pages run by threat actors.
 
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Ensure Your Browser and Device are Malware-Free
 
  The Chrome browser can also misbehave or act strangely if infected with malware or viruses. If none of the fixes above resolve the problem, your browser could be infected with a [browser hijacker](https://www.makeuseof.com/what-is-browser-hijacking/).
 
  If the problem persists despite removing the hijacker, you may have a malware infection on your device, forcing Chrome to open unwanted websites on its own. To rule out this possibility, [run a full malware scan using a Microsoft Security scanner](https://www.makeuseof.com/microsoft-safety-scanner-guide/) to get rid of any possible infections.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset and Reinstall Chrome
 
@@ -113,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -133,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 
  If you'd like to open new links in the same tab or stop the browser from opening new tabs automatically, here are a few fixes you can try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +148,23 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-expert-techniques-for-stellar-titling/"><u>[New] 2024 Approved Expert Techniques for Stellar Titling</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-directly-embedding-google-meet-in-youtubes-video-library/"><u>[New] Directly Embedding Google Meet in YouTube's Video Library</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-complete-walkthrough-to-grab-youtube-playlists/"><u>[Updated] 2024 Approved Complete Walkthrough to Grab YouTube Playlists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-video-direction-on-instagram-in-reverse/"><u>[Updated] 2024 Approved Mastering Video Direction on Instagram in Reverse</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-optimize-social-vids-for-maximum-view-size/"><u>2024 Approved Optimize Social Vids for Maximum View Size</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-artistry-perfecting-subject-isolation-techniques/"><u>Digital Artistry: Perfecting Subject Isolation Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/halting-unintentional-launches-of-microsofts-storeapp/"><u>Halting Unintentional Launches of Microsoft's StoreApp</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-puzzle-paradise-10-amazing-e-commerce-sites-for-box-enigmas/"><u>In 2024, Puzzle Paradise 10 Amazing E-Commerce Sites for Box Enigmas</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-9-methods-to-access-and-tweak-windows-sound-settings/"><u>Learn 9 Methods to Access and Tweak Windows Sound Settings</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New 2024 Approved Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac-for-2024/"><u>Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-way-to-windows-11-group-policies/"><u>Streamline Your Way to Windows 11 Group Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-keyboard-mastery-with-typingaid/"><u>Swift Keyboard Mastery with TypingAid</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pathway-to-using-windows-11-toolbars-effectively/"><u>The Pathway to Using Window's 11 Toolbars Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/top-12-redundant-windows-extras-for-removal/"><u>Top 12 Redundant Windows Extras for Removal</u></a></li>
+</ul></div>
+

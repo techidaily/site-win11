@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Windows 11 Photography: Crafting Dynamic Slide Shows & Spot Repairing"
-date: 2024-09-15T18:50:13.974Z
-updated: 2024-09-22T08:58:56.927Z
+date: 2024-09-26T21:44:59.545Z
+updated: 2024-09-28T16:31:31.570Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Slideshow Feature in the Photos App
 
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
@@ -55,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
  If you want to adjust the volume of the slideshow, you can hover on the **speaker** icon and use the **slider bar**. It doesn’t affect the system volume settings. Click on the **speaker** icon or press the **M** key to mute the slideshow.
@@ -64,10 +84,23 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -75,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the Spot Fix Feature in the Photos App
 
@@ -106,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
@@ -120,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +153,19 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-crew-for-imaginative-audio-visual-art/"><u>[Updated] Ultimate Crew for Imaginative Audio-Visual Art</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-1011-login-lockout-interval/"><u>Adjusting Windows 10/11 Login Lockout Interval</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guidelines-for-perfect-nightscape-photography-for-2024/"><u>Guidelines for Perfect Nightscape Photography for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-quality-drones-that-accommodate-gopro-cameras/"><u>High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-color-management-not-working-on-windows/"><u>How to Fix Color Management Not Working on Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-panoramic-filmmaking-made-easy-9-key-techniques/"><u>In 2024, Panoramic Filmmaking Made Easy 9 Key Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-filename-changes-with-powertoys/"><u>Mastering Batch-Filename Changes with PowerToys</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-the-art-of-ios-device-reset-a-step-by-step-approach/"><u>Mastering the Art of iOS Device Reset: A Step-by-Step Approach</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-asana-app-performance-on-windows-systems/"><u>Reviving Asana App Performance on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-safe-slumber-techniques/"><u>Understanding Window's Safe Slumber Techniques</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Pinpoint Your PC's RAM Quickly on Windows
-date: 2024-09-17T01:20:39.936Z
-updated: 2024-09-21T17:18:54.669Z
+date: 2024-09-25T19:12:02.041Z
+updated: 2024-09-28T23:16:34.740Z
 tags:
   - windows10
   - windows11
@@ -54,9 +54,23 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 `Get-CimInstance -ClassName Win32_PhysicalMemory | Format-Table SMBIOSMemoryType`  
 ![Check RAM Type Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-ram-type-using-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Under the **SMBIOSMemoryType** column, note down the code number and compare it with the following table to determine the RAM type.
 
 ![A Table Showing RAM Type and Numeric Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-table-showing-ram-type-and-numeric-value.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Check the RAM Type Using the Task Manager App
 
@@ -69,14 +83,20 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 3. Select **Memory** from the left pane. You should see the amount and type of RAM your PC has in the top right corner of the screen.  
 ![Check Memory Type Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-windows-task-manager.jpg)
 
- The Windows Task Manager does more than show hardware information. You also use it to manage running programs, end tasks, and view resource usage. To learn more, read our guide on the best [Windows Task Manager tips that you may not know](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The Windows Task Manager does more than show hardware information. You also use it to manage running programs, end tasks, and view resource usage. To learn more, read our guide on the best [Windows Task Manager tips that you may not know](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/).
 
 ## 4\. How to Check the RAM Type Using CPU-Z
 
@@ -87,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 ![Check Memory Type Using CPU-Z App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-memory-type-using-cpu-z-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Know the Type of RAM Installed on Your Windows PC
@@ -99,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
  This guide will walk you through some easy methods for identifying the type of RAM housed within your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -108,3 +126,24 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-avoiding-pitfalls-in-low-light-portrait-photography/"><u>[New] Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fight-to-the-end-nintendos-top-10-fighters/"><u>[New] In 2024, Fight to the End Nintendo's Top 10 Fighters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-profile-snap-intro-dimensions-file-type-duration-for-2024/"><u>[Updated] FB Profile Snap Intro Dimensions, File Type, Duration for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-examining-the-effectiveness-of-selfie-validation-on-instagram/"><u>2024 Approved Examining the Effectiveness of Selfie Validation on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-groundbreaking-photo-editor-photonshift-tech/"><u>2024 Approved Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>2024 Approved Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-cheap-traps-the-realities-of-inferior-windows-activation-codes/"><u>Avoid Cheap Traps: The Realities of Inferior Windows Activation Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/esd-files-demystified-creating-iso-versions-for-windows-systems/"><u>ESD Files Demystified: Creating ISO Versions for Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-missing-component-in-windows-lsassexe/"><u>Handling Missing Component in Windows' lsass.exe</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-first-steps-on-the-path-equipment-for-beginners/"><u>In 2024, First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-switch-for-regedit-on-win11/"><u>Mastering the Switch for RegEdit on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-mending-deskanywhere-on-windows-11/"><u>Methods for Mending DeskAnywhere on Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-try-before-you-buy-90-day-final-cut-pro-free-trial-offer-for-2024/"><u>New Try Before You Buy 90-Day Final Cut Pro Free Trial Offer for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-visuals-with-winxvideo-ai-enhancing-images-and-videos-with-upscaling-stabilizing-and-more/"><u>Transform Your Visuals with WinxVideo AI - Enhancing Images & Videos with Upscaling, Stabilizing, and More</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-erroneous-temporary-folders-in-windows-11/"><u>Troubleshooting Erroneous Temporary Folders in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-microsoft-store-access-on-windows-11/"><u>Troubleshooting Microsoft Store Access on Windows 11</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Efficient Restarting of Windows 11'S Key Software Directories
-date: 2024-09-18T18:44:28.178Z
-updated: 2024-09-21T23:48:00.381Z
+date: 2024-09-24T16:17:25.786Z
+updated: 2024-09-28T17:20:01.420Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
  This method for resetting the SoftwareDistribution and Catroot2 folders involves manually eradicating the data in them via File Explorer. It’s also necessary to disable and re-enable certain services via the Command Prompt to ensure they’re not utilizing files in them. Delete the files in the SoftwareDistribution and Catroot2 folders as follows:
@@ -55,6 +62,14 @@ net stop msiserver`
 8. Right-click and select **Delete** (the trash can button) to eradicate selected content.  
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
@@ -86,10 +101,10 @@ net start msiserver`
 6. Exit Command Prompt and select to restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
@@ -103,18 +118,19 @@ net start msiserver`
 5. Extract the FixWin archive by going through the steps in this article about [unzipping ZIP files on Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).  
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
 
@@ -124,8 +140,6 @@ net start msiserver`
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +147,27 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-decoding-the-dynamics-of-whatsapp-audio-communication-for-2024/"><u>[New] Decoding the Dynamics of WhatsApp Audio Communication for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nstantly-invert-your-playback-order-with-these-hacks/"><u>[New] Instantly Invert Your Playback Order with These Hacks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-revolutionize-your-tiktok-videos-streamlined-methods-for-new-borders/"><u>[Updated] 2024 Approved Revolutionize Your TikTok Videos Streamlined Methods for New Borders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-transformative-tapes-the-essential-5-video-booster-apps/"><u>[Updated] In 2024, Transformative Tapes The Essential 5 Video Booster Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-full-laptop-screencapture-experience/"><u>2024 Approved The Full Laptop ScreenCapture Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-disabled-windows-firewall-4-methods-explored/"><u>Bypassing Disabled Windows Firewall: 4 Methods Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-startup-options-your-ultimate-guidebook/"><u>Decoding Windows Startup Options: Your Ultimate Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-update-interruptions/"><u>Disabling Windows Update Interruptions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-your-youtube-presence-with-strategic-post-publish-video-updates/"><u>Elevating Your YouTube Presence with Strategic Post-Publish Video Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-asus-rog-rapture-gt-ax11000-router-superior-gaming-capabilities-and-lightning-quick-speeds-unveiled/"><u>Evaluating the Asus ROG Rapture GT-AX11000 Router: Superior Gaming Capabilities and Lightning-Quick Speeds Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/feel-windows-power-with-curated-app-selection/"><u>Feel Windows Power with Curated App Selection</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-realm-of-localized-machine-intellect-an-analysis-of-its-functionality/"><u>Navigating the Realm of Localized Machine Intellect: An Analysis of Its Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-11-installation-with-these-easy-to-implement-tweaks/"><u>Optimize Your Windows 11 Installation with These Easy-to-Implement Tweaks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-optional-features-on-windows-os-with-ease/"><u>Restore Optional Features on Windows OS with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/set-up-a-stunning-slideshow-easily-create-in-win11-heres-how/"><u>Set Up a Stunning Slideshow: Easily Create in Win11 Here’s How</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-windows-with-5-mac-inspired-ideas/"><u>Simplify Your Windows with 5 Mac-Inspired Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-unsolicited-search-window-opens-in-windows-11/"><u>Stopping Unsolicited Search Window Opens in Windows 11</u></a></li>
+</ul></div>
+

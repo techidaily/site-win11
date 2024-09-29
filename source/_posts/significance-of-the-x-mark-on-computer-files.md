@@ -1,7 +1,7 @@
 ---
 title: Significance of the X Mark on Computer Files
-date: 2024-09-20T05:11:15.702Z
-updated: 2024-09-21T21:17:44.078Z
+date: 2024-09-23T17:38:42.172Z
+updated: 2024-09-28T21:30:55.635Z
 tags:
   - windows10
   - windows11
@@ -45,8 +45,24 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 2. Click the**Sign in** button.  
 ![Click on the Sign in Button to Log in to Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-sign-in-button-to-log-in-to-microsoft-onedrive.jpg)
 3. Enter the email address associated with your Microsoft account and click**Sign in** . If you want to sync your data to a OneDrive account created with the same Microsoft account you are using on your device, you won't have to enter a password. If it's different, you may need to enter a password.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
 4. Choose a OneDrive folder location or click**Next** to use the default location.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the Next Button After Choosing OneDrive Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-the-next-button-after-choosing-onedrive-folder-location.jpg)
 5. Then, follow a few on-screen instructions to log into OneDrive.
 
@@ -61,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 3. Select**Settings** from the menu.  
 ![Go to Settings From OneDrive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-from-onedrive-menu.jpg)
 4. Go to the**Account** tab in the**OneDrive Settings** window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then click on**Unlink this PC** .  
 ![Unlink the PC From OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-unlink-the-pc-from-onedrive.jpg)
 6. In the confirmation window, click**Unlink account** .
@@ -79,27 +103,27 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 ![Click on the Show More Options to Expand Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-the-show-more-options-to-expand-context-menu.jpg)
 3. Select**Settings** from the context menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
 4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you disable these two options, OneDrive syncing won't stop when your device is connected via a metered connection or set to power-saving mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Ensure OneDrive Has Enough Space Free
 
@@ -113,22 +137,16 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Restart the Windows Explorer Process
 
  Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall OneDrive
 
@@ -142,16 +160,17 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 5. Then click on**three horizontal dots** next to**Microsoft OneDrive** and click**Uninstall** .  
 ![Uninstall Microsoft OneDrive in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/12-uninstall-microsoft-onedrive-in-windows-settings-app.jpg)
 6. After that, go to the[OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Rid of Red Circles on Your Windows Folders
 
@@ -170,5 +189,22 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-your-content-game-mastering-the-art-of-instagram-video-uploads-on-desktop/"><u>[New] 2024 Approved Elevate Your Content Game Mastering the Art of Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/urning-youtube-sounds-into-text-an-in-depth-no-cost-course-for-2024/"><u>[New] Turning YouTube Sounds Into Text An In-Depth, No-Cost Course for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-excellent-free-webcam-video-snapper-app/"><u>[Updated] In 2024, Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aimp-pro-541-wmsps-advanced-desktop-companion/"><u>AIMP Pro 5.41 WMSP's Advanced Desktop Companion</u></a></li>
+<li><a href="https://win11.techidaily.com/beginning-your-art-with-ms-paint-windows-11-way/"><u>Beginning Your Art with MS Paint - Windows 11 Way</u></a></li>
+<li><a href="https://win11.techidaily.com/christmas-edition-enhance-windows-11/"><u>Christmas Edition: Enhance Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-how-to-execute-system-file-checker-sfc/"><u>Command Line: How to Execute System File Checker (SFC)</u></a></li>
+<li><a href="https://win11.techidaily.com/does-the-geforce-experience-scan-fail-on-windows-heres-how-to-fix-it/"><u>Does the GeForce Experience Scan Fail on Windows? Here’s How to Fix It</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engaging-podcast-openers-captivating-intro-lines/"><u>Engaging Podcast Openers Captivating Intro Lines</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-common-flaws-in-windows-applications/"><u>Essential Tips to Overcome Common Flaws in Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-accessing-windows-11-homescreen/"><u>Expert Tips on Accessing Windows 11 Homescreen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y100i-power-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y100i Power 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-v-purse-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor V Purse FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instasoundscapes-audio-visual-fusion-for-stories/"><u>In 2024, InstaSoundscapes Audio-Visual Fusion for Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-moment-update-a-treasure-trove-of-features/"><u>Windows 11'S Moment Update - A Treasure Trove of Features?</u></a></li>
+</ul></div>
 

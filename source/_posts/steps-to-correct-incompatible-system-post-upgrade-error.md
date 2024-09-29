@@ -1,7 +1,7 @@
 ---
 title: Steps to Correct 'Incompatible System' Post-Upgrade Error
-date: 2024-09-14T21:02:35.465Z
-updated: 2024-09-21T19:13:33.897Z
+date: 2024-09-26T19:04:52.453Z
+updated: 2024-09-28T21:24:01.660Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ Additionally, you may also see the following error:
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
 ### What Is UEFI Boot Mode?
@@ -61,13 +68,6 @@ Additionally, you may also see the following error:
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -79,16 +79,16 @@ Additionally, you may also see the following error:
 
  If you use legacy boot mode, you need to set the Boot Mode to UEFI in your BIOS setup to enable the Secure Boot feature (and potentially switch TMP 1.2/2.0 on, too).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the "This PC Can't Run Windows 11 Error?"
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Enable Secure Boot in Windows 10
 
@@ -110,6 +110,13 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  TMP 1.2/2.0 feature is accessible from the BIOS setup as well. Here's how to do it.
 
@@ -138,16 +145,17 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Boot Device Found Error After Changing Boot Mode from Legacy to UEFI
 
@@ -160,10 +168,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the This PC Can't Run Windows 11 Error
@@ -183,5 +191,26 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[New] In 2024, Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-2023-landscape-for-screen-captures-and-ppts-for-2024/"><u>[New] Navigating the 2023 Landscape for Screen Captures & PPTs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mouthwatering-movies-a-cooks-guide/"><u>2024 Approved Mouthwatering Movies A Cook's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/6-tips-to-improve-your-wsl-2-docker-experience-on-windows/"><u>6 Tips to Improve Your WSL 2 Docker Experience on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/adobe-application-start-up-problems-fixing-the-causes-behind-code-0xc0000022-and-ensuring-smooth-operation/"><u>Adobe Application Start-Up Problems: Fixing the Causes Behind Code 0xC0000022 and Ensuring Smooth Operation</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-an-inactive-firewall-a-step-by-step-guide/"><u>Bypassing an Inactive Firewall: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-downloading-and-enjoying-nook-books-on-apples-tablet-device/"><u>Easy Instructions for Downloading and Enjoying Nook Books on Apple's Tablet Device</u></a></li>
+<li><a href="https://win11.techidaily.com/expanding-pin-code-length-in-windows-11-and-11/"><u>Expanding Pin Code Length in Windows 11 and 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-motorola-edge-2023-easily-by-drfone-android/"><u>How To Unlock a Motorola Edge 2023 Easily?</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-fixing-absence-of-hypervisor-on-windows-sandbox/"><u>Identifying and Fixing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 20 Pro+ Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-window-image-display-windows-11-style/"><u>Maximizing Window Image Display: Windows 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-pcs-wi-fi-woes-six-effective-steps-from-fixing-adapter-failure/"><u>Reviving Your PC's Wi-Fi Woes - Six Effective Steps From Fixing Adapter Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-yuzu-experience-on-windows/"><u>Supercharge Your Yuzu Experience on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-picks-hd-cameras-under-100-for-extreme-sports/"><u>Top Picks HD Cameras Under $100 for Extreme Sports</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-top-windows-11-fps-monitors-and-counter-tools/"><u>Unveiling Top Windows 11 FPS Monitors & Counter Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-zte-axon-40-lite-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your ZTE Axon 40 Lite Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-guide-to-security-focused-dialogue-shortcuts/"><u>Windows 11: Guide to Security-Focused Dialogue Shortcuts</u></a></li>
+</ul></div>
 

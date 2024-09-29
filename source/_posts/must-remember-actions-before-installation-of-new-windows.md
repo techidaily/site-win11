@@ -1,7 +1,7 @@
 ---
 title: Must-Remember Actions Before Installation of New Windows
-date: 2024-09-19T18:15:38.668Z
-updated: 2024-09-22T05:20:06.877Z
+date: 2024-09-27T16:49:20.788Z
+updated: 2024-09-28T20:29:50.440Z
 tags:
   - windows10
   - windows11
@@ -52,22 +52,15 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![minimal usb drive with key symbol on front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/usb-key-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Directly installing Windows through the Windows setup program is an easy way to upgrade or replace your current operating system with the new one. However, the direct install is unreliable and may not work if your system is infected by malware or corrupted.
 
  To ensure a smooth installation, you should always [boot from a USB](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or CD/DVD drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Remember to Choose the Right Windows Edtion During Setup
 
@@ -79,9 +72,23 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Windows is activated on your PC and your Microsoft account is linked to the license key, it becomes easier to reactivate Windows later. Before clean installing Windows, make sure to remember to check the Windows activation status from the Settings app.
 
  If you don't know how all of that works, you can check out [what Windows Activation key is and how it works](http://www.makeuseof.com/what-is-windows-activation-how-does-it-work/).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Know Which Interface Your System Supports
 
@@ -89,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  If your system detects the incompatibility, you will get an error message that says, "Windows cannot be installed to this disk. The selected disk is of the GPT partition style" during Windows installation. This error message suggests that you need to [change the disk partition style from GPT to MBR](https://www.makeuseof.com/windows-cannot-be-installed-to-disk-error/). You can switch to MBR during installation as well as before proceeding with clean installing Windows. Also, check out our [comparison between MBR and GPT](https://www.makeuseof.com/tag/mbr-vs-gpt/) and which one you should use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall Your Drivers and Programs After Installation Is Complete
 
 ![windows 11 device manager update network adapter pick from available drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-device-manager-update-network-adapter-pick-from-available-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you are done Installing Windows, you might not get everything working. For example, the keyboard might not work after the clean installation of Windows. In such scenarios, you should reinstall your drivers and install everything you see on the Windows Update page in the Settings app. Also, you can check out [what to do when you can't install drivers on Windows](https://www.makeuseof.com/windows-cant-install-drivers/).
 
@@ -108,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  In this article, we will explain all the critical aspects of clean installing Windows and what you should do and keep in mind before starting with a fresh copy of Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +122,21 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/10-routes-to-windows-diagnostics-hub/"><u>10 Routes to Windows Diagnostics Hub</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-methods-reverting-customized-windows-configurations/"><u>Effective Methods: Reverting Customized Windows Configurations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-content-perfecting-videos-on-instagram/"><u>Elevate Your Content Perfecting Videos on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-digital-talk-initiator/"><u>Ideal Digital Talk Initiator</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/independent-artists-guide-to-personalized-visual-tricks-for-2024/"><u>Independent Artists' Guide to Personalized Visual Tricks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/propel-power-5-best-windows-optimization-strategies/"><u>Propel Power: 5 Best Windows Optimization Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-account-transitioning-from-pin-to-password-in-windows-11/"><u>Secure Your Account: Transitioning From PIN to Password in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-importance-of-consistent-windows-data-saves/"><u>The Importance of Consistent Windows Data Saves</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-printer-commands-using-windows-11-edge-shield-mode/"><u>Triggering Printer Commands Using Windows 11 Edge Shield Mode</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-lava-yuva-3-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-enhanced-video-compression-explore-the-latest-av1-encoders-now-available/"><u>Unlocking Enhanced Video Compression: Explore the Latest AV1 Encoders Now Available!</u></a></li>
+</ul></div>
+

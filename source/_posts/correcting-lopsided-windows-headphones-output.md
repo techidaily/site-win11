@@ -1,7 +1,7 @@
 ---
 title: Correcting Lopsided Windows Headphones Output
-date: 2024-09-20T17:38:54.314Z
-updated: 2024-09-22T04:35:24.757Z
+date: 2024-09-22T18:42:32.369Z
+updated: 2024-09-28T16:57:52.038Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First and foremost, you should ensure it's not a hardware issue that has muted one side of your headphone. The easiest way to check this is to plug the headphones into any other device you own and see whether you hear anything from the problematic side.
 
  If you fail to hear anything when connecting the headphones to another device, the problem is likely hardware-related. In that case, either have your headphones inspected by a technician or [watch YouTube videos to learn how to fix headphones yourself](https://www.makeuseof.com/fix-broken-earphones-with-youtube-videos/).
@@ -72,41 +79,20 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click on the **Balance** button.  
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully you can now hear from both sides of your headphones.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Audio Enhancements
 
@@ -122,13 +108,20 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![Disable Audio Enhancements in the Advanced Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-audio-enhancements-in-the-advanced-tab-of-the-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now give your headphones another try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable Mono Audio
 
@@ -145,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
 
 ## 7\. Check for App-Specific Issues
@@ -152,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
  If you don't hear any voice from one side of your headphones only when running a particular app, chances are that app offers a setting to control the output from each side of your headphones Therefore, check the audio settings and ensure both sides are unmuted, and the volume levels are balanced.
 
  Likewise, third-party audio enhancement apps can sometimes interfere with the audio output, blocking sound from one side of your headset. If you use such an app, try temporarily turning it off. If turning off the app solves the problem, delete the app permanently and find an alternative that does not cause the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Perform Some Windows Fixes
 
@@ -167,8 +174,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,3 +181,21 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-15-premium-free-music-websites-every-videographer-needs-for-2024/"><u>[Updated] 15 Premium, Free Music Websites Every Videographer Needs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-script-to-screen-cutting-edge-video-editing-for-youtubers-for-2024/"><u>[Updated] From Script to Screen Cutting-Edge Video Editing for YouTubers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming-in-2024/"><u>[Updated] Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-spontaneous-search-menu-open-in-win11/"><u>Fixing Spontaneous Search Menu Open in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-lsa-protection-error-on-windows/"><u>How to Fix the LSA Protection Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-regain-file-viewer-rights-in-windows-1011/"><u>How to Regain File Viewer Rights in Windows 10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-trackers-for-social-media-hashes-in-fb-tweet-and-ig/"><u>In 2024, Expert Trackers for Social Media Hashes in FB, Tweet & IG</u></a></li>
+<li><a href="https://win11.techidaily.com/methodology-for-disabling-onedrive-indicator-in-windows-11/"><u>Methodology for Disabling OneDrive Indicator in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-missing-window-panes-with-win11-6-tips/"><u>Reclaiming Missing Window Panes with Win11 (6 Tips)</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-legacy-boot-configurations/"><u>Reinstating Legacy Boot Configurations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-metaverse-headset-selection/"><u>The Ultimate Guide to Metaverse Headset Selection</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-live-streaming-hardware-encoder-and-equipment-you-should-know-for-2024/"><u>Top Live Streaming Hardware Encoder and Equipment You Should Know for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-premiere-pro-on-your-computer-a-comprehensive-system-requirement-guide-for-2024/"><u>Updated Premiere Pro on Your Computer A Comprehensive System Requirement Guide for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Method: Opening Components Settings in Windows 11"
-date: 2024-09-18T09:34:25.307Z
-updated: 2024-09-21T17:44:40.193Z
+date: 2024-09-22T23:54:37.618Z
+updated: 2024-09-28T23:31:46.649Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,21 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 2. Once you are in the Run window, type**dcomcnfg** into the text field and press**Enter** .  
 ![Open Components Services Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Component Services window will now appear on your screen. Here you will find the options to manage administrative tools such as Event Viewer, Services, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Component Services From the Start Menu
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 3. Scroll down and click**Windows Tools** at the bottom of the screen.  
 ![Open Components Services Using Windows Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-windows-tools.jpg)
 4. Next, double-click on**Component Services** to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Component Services Using File Explorer
 
@@ -73,6 +94,13 @@ The Component Services window should now open.
 2. Select**Command Prompt** from the list at the top.
 3. Once the Command Prompt window opens, type**dcomcnfg** and hit**Enter** .  
 ![Open Components Services Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This should open up the Component Services window for you to explore further. Now you can close the Command Prompt window.
 
@@ -99,19 +127,6 @@ You should now be able to use the Component Services window.
 2. Once you're in the Task Manager, click the**Run new task** button at the top of the window.
 3. Type**dcomcnfg** into the text box and click**OK** .  
 ![Open Components Services Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Component Services tool should now be open and ready to use!
 
@@ -148,20 +163,13 @@ Create a desktop shortcut for Component Services as explained above.
 ![Open Components Services Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-components-services-using-shortcut-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you're done, press Ctrl + Alt and enter your letter or number. For example, if you select**T** in the above steps, you will need to press**Ctrl + Alt + T** to access Component Services.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. How to Pin Component Services to the Taskbar
 
@@ -172,17 +180,16 @@ Create a desktop shortcut for Component Services as explained above.
 ![Pin Component Services to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pin-component-services-to-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easy Access to Component Services
@@ -202,5 +209,21 @@ Create a desktop shortcut for Component Services as explained above.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-culinary-kings-and-queens-youtube-food-experts/"><u>[New] 2024 Approved Culinary Kings & Queens YouTube Food Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-into-the-shoes-of-a-pro-screen-capture-techniques-for-mac-enthusiasts/"><u>[New] 2024 Approved Step Into the Shoes of a Pro Screen Capture Techniques for Mac Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-chasing-charm-innovative-photo-techniques-to-ignite-insta-for-2024/"><u>[Updated] Chasing Charm Innovative Photo Techniques to Ignite Insta for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-stellar-background-choices-for-effective-video-conferencing/"><u>[Updated] Stellar Background Choices for Effective Video Conferencing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-endless-humor-best-free-meme-designs/"><u>2024 Approved Endless Humor Best Free Meme Designs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tactics-for-effective-whatsapp-broadcast-with-facebook-videos/"><u>2024 Approved Tactics for Effective WhatsApp Broadcast with Facebook Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-robot-generated-passwords-for-win-11-access/"><u>Bypassing Robot-Generated Passwords for Win 11 Access</u></a></li>
+<li><a href="https://win11.techidaily.com/cortanas-farewell-windows-future-awaits/"><u>Cortana's Farewell, Windows' Future Awaits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-split-screen-video-tutorials-for-youtube-enthusiasts-for-2024/"><u>DIY Split-Screen Video Tutorials for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/email-safelisting-best-practices-for-enhanced-online-security-and-visibility/"><u>Email Safelisting Best Practices for Enhanced Online Security and Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/prose-perfection-on-a-windows-desktop-the-top-5-picks/"><u>Prose Perfection on a Windows Desktop - The Top 5 Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-halting-windows-boot-straight-into-cmos-setup/"><u>Techniques for Halting Windows Boot Straight Into CMOS Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-tips-for-a-productive-win-11-bar/"><u>Transformative Tips for a Productive Win 11 Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1110-onedrive-errors/"><u>Troubleshooting Windows 11/10 OneDrive Errors</u></a></li>
+</ul></div>
 

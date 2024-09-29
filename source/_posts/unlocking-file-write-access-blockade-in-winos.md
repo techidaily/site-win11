@@ -1,7 +1,7 @@
 ---
 title: Unlocking File Write Access Blockade in WINOS
-date: 2024-09-16T20:07:36.972Z
-updated: 2024-09-22T08:08:52.222Z
+date: 2024-09-24T17:54:46.761Z
+updated: 2024-09-28T18:29:19.073Z
 tags:
   - windows10
   - windows11
@@ -43,14 +43,36 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 2. Click the**Change your account type** option.  
 ![The User Accounts applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/user-accounts.jpg)
 3. Select the**Administrator** radio button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Administrator account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/admin-account-option.jpg)
 4. Click the**Change Account Type** option to switch it to an admin account.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change the Installation Drive
 
  Some users have said they resolved this installation issue by selecting an alternative installation drive beyond C. So, that might be worth a try for users who’ve partitioned drives or have alternative external storage devices available. If you can select an alternative, click**Browse** in the setup wizard for the software to change the installation drive and choose a folder location there before selecting to install.
 
 ![The Browse button on a setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/catchchar-setup-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the Compatibility Troubleshooter for the Installer File
 
@@ -66,20 +88,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![The Test this program button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/test-this-program-option.jpg)
 7. Then try installing the software again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Delete Temporary Files
 
  Another possibility is that corrupted temporary file data on your PC could be causing this installation issue. So, it’s recommended to eradicate temporary files. You can do that with the Disk Cleanup tool, Settings app, Command Prompt, or other methods outlined in our guide to[deleting temporary data on Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
@@ -87,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![The Temporary files checkbox in Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/temporary-files-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Change the Security Settings for the Installation File
@@ -104,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 5. Press the**Edit** button to open a separate window.  
 ![The Edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Then click**Add** to open a Select User or Group window.
 2. Select**Advanced** to access a search tool for the window.
 3. Click the**Find now** button.
@@ -113,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 6. Select the**Full Control** permission checkbox.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/full-control-checkbox.jpg)
 7. Then click**Apply** to save the new permission settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Select**OK** twice to exit the permission and properties windows.
 
@@ -132,16 +140,10 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Disable Controlled Folder Access
@@ -154,11 +156,25 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controlled-folder-access-option.jpg)
 4. Click the**Controlled folder access** toggle switch to set that option to off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Uninstall the Old Version of the Software
 
  If you’re trying to install a new version of the software already on your PC, uninstall the existing (old) program version. You can uninstall software with the Programs and Features applet as instructed within our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
  However, it would be even better to uninstall the old program version with one of the[best third-party uninstaller utilities](https://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/) that thoroughly eradicate leftover files and registry entries.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the Software You Need on Windows
 
@@ -177,5 +193,23 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-key-approaches-converting-visual-content-on-pinterest-to-audio/"><u>[New] 2024 Approved Key Approaches Converting Visual Content on Pinterest To Audio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-essential-guide-to-tracking-your-youtube-progress/"><u>[Updated] 2024 Approved The Essential Guide to Tracking Your YouTube Progress</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-essential-uav-upgrades-and-parts/"><u>[Updated] The Complete Guide to Essential UAV Upgrades & Parts</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-overcoming-file-access-barriers-using-powershell/"><u>Efficiently Overcoming File Access Barriers Using PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-for-invisible-second-screen-on-windows-11/"><u>Fix for Invisible Second Screen on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ds4-controller-issues-resolving-windows-not-recognizing-problems/"><u>Fixing DS4 Controller Issues: Resolving 'Windows Not Recognizing' Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-connection-issue-on-windows-os/"><u>Fixing No Connection Issue on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-solo-now-premium-sound-drivers-for-pcs/"><u>Get Your Focusrite Scarlett Solo Now – Premium Sound Drivers for PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/iphone-13-critique-quality-performance-and-more/"><u>IPhone 13 Critique: Quality, Performance, and More</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/key-tips-for-attracting-brands-as-youtubers-sponsors-for-2024/"><u>Key Tips for Attracting Brands as Youtubers' Sponsors for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-clear-of-fullscreen-failures-with-sonic-adventure-w11-edition/"><u>Steering Clear of Fullscreen Failures with Sonic Adventure, W11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-address-code-3-error-in-nvidia-opengl-win1011/"><u>Techniques to Address Code 3 Error in Nvidia OpenGL (Win10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-audio-devices-in-windows/"><u>Troubleshooting Unresponsive Audio Devices in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-a-deep-dive-into-data-consumption-patterns/"><u>Windows: A Deep Dive Into Data Consumption Patterns</u></a></li>
+</ul></div>
 

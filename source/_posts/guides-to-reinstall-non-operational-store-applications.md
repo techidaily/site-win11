@@ -1,7 +1,7 @@
 ---
 title: Guides to Reinstall Non-Operational Store Applications
-date: 2024-09-19T21:00:34.967Z
-updated: 2024-09-21T16:41:38.524Z
+date: 2024-09-25T23:54:21.351Z
+updated: 2024-09-28T16:59:33.927Z
 tags:
   - windows10
   - windows11
@@ -63,32 +63,34 @@ To restart Microsoft Store Install Service:
 3. In the**Services** snap-in, locate the**Microsoft Store Install Service** entry.  
 ![microsoft store install service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-properties.jpg)
 4. Right-click on the service entry and select**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Properties** dialog, check if the**Startup type** is set to**Disabled** .  
 ![microsoft store install service manual startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-manual-startup-type.jpg)
 6. If yes, click the**Startup type** drop-down and select**Manual** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
 7. Click**Apply** and**OK** to save the changes.
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
 
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Perform a Microsoft Store Repair
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the built-in repair tool to fix common issues that may prevent the Microsoft Store from triggering such errors. Follow these steps to repair the Microsoft Store app.
 
@@ -100,6 +102,13 @@ To restart Microsoft Store Install Service:
 6. Scroll down to the**Reset** section.
 7. Click on**Repair** and wait for the process to complete.
 8. Once done, relaunch Microsoft Store and try to install the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Manually Reset Microsoft Store Apps
 
@@ -125,10 +134,10 @@ To reset Microsoft Store:
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
@@ -139,6 +148,13 @@ To reset Microsoft Store:
 4. In the PowerShell window, type the following command to re-register the app for the current user:  
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`
 5. Wait for the command to process and close PowerShell. Relaunch Microsoft Store and check if you can install the app without the error.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
 
@@ -154,6 +170,14 @@ To reinstall Microsoft Store:
 2. Right-click on Windows PowerShell and select**Run as administrator.**  
 ![remove microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-microsoft-store-powershell.jpg)
 3. Next, in the PowerShell Windows, type the following command and press Enter:  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `get-appxpackage *store |remove-appxpackage`
 4. Once the app is removed, use the following command to reinstall Microsoft Store:  
 `Get-AppxPackage -AllUsers Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}  
@@ -162,13 +186,6 @@ To reinstall Microsoft Store:
 5. Wait for the app to install successfully. Then, type**exit** and press**Enter** to close PowerShell.  
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
@@ -189,5 +206,20 @@ To reinstall Microsoft Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-best-recording-methods-for-environmentally-friendly-screens/"><u>[New] In 2024, Best Recording Methods for Environmentally Friendly Screens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-connecting-for-content-roku-and-facebook-live/"><u>[Updated] In 2024, Connecting for Content Roku and Facebook LIVE</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-tinder-bio-hacks-steal-these-examples-and-get-swiped-right/"><u>[Updated] In 2024, Tinder Bio Hacks Steal These Examples & Get Swiped Right</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-share-vimeo-video-online/"><u>2024 Approved How to Share Vimeo Video Online</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-ai-capabilities-at-ms-store/"><u>Delving Into AI Capabilities at MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/dxvk-uncovered-enhancing-win-based-gameplay-dynamics/"><u>DXVK Uncovered: Enhancing Win-Based Gameplay Dynamics</u></a></li>
+<li><a href="https://article-files.techidaily.com/enabling-adaptive-hdr-mode-in-windows-11-os/"><u>Enabling Adaptive HDR Mode in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-learning-7-strategies-for-windows-users/"><u>Enhancing Learning: 7 Strategies for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-c67-4g-lock-screen-password-by-drfone-android/"><u>How To Change Realme C67 4G Lock Screen Password?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y28-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y28 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-v29-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo V29? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-crashes-during-xbox-app-update-process/"><u>Resolving Crashes During Xbox App Update Process</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-virtualboxs-efail-windows-issue-0x80004005/"><u>Tips to Rectify Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
+</ul></div>
 

@@ -1,0 +1,150 @@
+---
+title: From Gaming Laptop to Kali-Focused Workstation
+date: 2024-09-22T20:47:16.315Z
+updated: 2024-09-28T16:49:45.470Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes From Gaming Laptop to Kali-Focused Workstation
+excerpt: This Article Describes From Gaming Laptop to Kali-Focused Workstation
+keywords: Gaming Laptops,Kali Tools Setup,HP Stream Enhanced,Linux for Gamers,Full HD Display PC,High-Performance Workstation,Secure Operating System
+thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf0188fbbf3a215fd35680a08.JPG
+---
+
+## From Gaming Laptop to Kali-Focused Workstation
+
+ Kali Linux is the primary Debian-based Linux distribution used for information security purposes such as security research, penetration testing, password cracking, and more. It is mainly used by white hat or ethical hackers to test the integrity of a system or a network.
+
+ If you cannot install Kali Linux on your PC directly, you can easily install it on Windows through a virtual machine. Read on as we guide you on installing Kali Linux on a Windows PC.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to Install a Virtual Machine on Windows
+
+ The first step to installing Kali Linux is downloading and setting up a virtual machine on your Windows PC. We recommend using Oracle VM VirtualBox as it’s reliable, free to use, and offers very high performance. We also compared[VirtualBox vs. VMWare Player](http://www.makeuseof.com/tag/best-virtual-machine-windows/) if you'd like more information.
+
+To install VM VirtualBox:
+
+1. Download the**Windows hosts** binary setup from the[official VirtualBox site](https://www.virtualbox.org/wiki/Downloads) .  
+![download virtual box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtual-box.jpg)
+2. Once the download is complete, launch the VirtualBox installation setup and confirm administrator access if prompted.
+3. Go through the installation wizard and click on**Finish** to complete the process.
+4. You can optionally restart your PC to ensure that VirtualBox is installed correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Download the Kali Linux Virtual Machine
+
+ Once we have installed a virtual machine, we need to download the Kali Linux VM image. The VM image will allow you to run the Kali Linux operating system on your current Windows PC.
+
+ There are two main ways to install Kali Linux on a virtual machine: download and use a pre-built VM image or install Kali via an ISO image. Since it is much quicker to import a pre-built VM rather than installing Kali from scratch, we will focus on using the pre-made virtual machine image for this guide. If you’re still interested in installing Kali Linux via ISO, we will overview that at the end of the article.
+
+To download the Kali Linux VM image:
+
+1. Head to the[official Kali Linux website](https://www.kali.org/get-kali/#kali-virtual-machines) to download the pre-built VM image.  
+![kali vm download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/kali-download.jpg)
+2. Since we have installed VirtualBox, we will download the VirtualBox image.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+3. Confirm whether your PC is 32-bit architecture or 64-bit, and download the stable version (not the weekly version).
+4. Extract the contents of the downloaded file, and you may need to install the[7z app](https://www.7-zip.org/download.html) to complete the extraction process.
+5. We’re now ready to import Kali into our VirtualBox.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Import Kali Linux VM on Windows
+
+ Now that our VirtualBox and Kali Linux VM image is ready, we can import it into our VM. Here’s how you can import the pre-installed Kali Linux image into Oracle VM VirtualBox:
+
+1. Search for**Oracle VM Virtual** box in the**Start** menu, and launch the Best match.
+2. Click on the green plus-icon labeled**Add** .  
+![import kali virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/import-kali.jpg)
+3. Navigate to the folder where you extracted the Kali Linux image (we’re looking for a .vbox file).  
+![import kali linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/import-kali-2.jpg)
+4. Select the**.vbox** file and click on**Open** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Once the VM is loaded, you will see it appear in VirtualBox.
+6. Click on the green**Start** icon to fire up Kali Linux.  
+![launch kali on virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/launch-kali.jpg)
+7. You can log in using the default**kali** user profile using the password**kali** .
+
+## Download the Kali Linux ISO
+
+ If you would instead use the official ISO to install Kali Linux, you can download it from the[official Kali website](https://www.kali.org/) . Once you’ve downloaded the ISO, mount it within VirtualBox and start the virtual machine. After completing the Kali installation steps within VirtualBox, you will successfully install Kali Linux on your Windows.
+
+## Use Kali Linux on Windows
+
+ You can easily install Kali Linux within your Windows PC thanks to virtual machines. We recommend you use the pre-built VM image and skip through the grunty installation process and jump right into Kali Linux. As one of the most secure and popular Linux distributions, Kali Linux is a very useful tool in the world of information security.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-flight-cam-combat-dji-spark-vs-gopro-fury/"><u>[New] Flight Cam Combat DJI Spark VS GoPro Fury</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-7-affordable-4k-mirrorless-cameras-(1000/"><u>[Updated] 2024 Approved Top 7 Affordable 4K Mirrorless Cameras <$1,000</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-iphoneipads-screen/"><u>[Updated] How to Record iPhone/iPad’s Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/7-innovative-uses-for-windows-11-god-mode/"><u>7 Innovative Uses for Windows 11 God Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/awareness-on-7-key-windows-events-that-signal-infection/"><u>Awareness on 7 Key Windows Events That Signal Infection</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-windowsstore-app-folder-secrets/"><u>Breaking Into WindowsStore App Folder Secrets</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-data-storage-top-external-hard-drive-picks-for-seagate-backup-plus-users-updated-tips/"><u>Mastering Data Storage: Top External Hard Drive Picks for Seagate Backup Plus Users [Updated Tips]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/metodi-di-sovrapposizione-delle-foto-soluzione-web-e-desktop-per-lunione-in-un-solo-pezzo/"><u>Metodi Di Sovrapposizione Delle Foto: Soluzione Web E Desktop per L'Unione in Un Solo Pezzo</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-best-laptops-for-video-editing-you-should-know/"><u>The Best Laptops For Video Editing You Should Know</u></a></li>
+<li><a href="https://win11.techidaily.com/1719349600813-troubleshoot-unlock-handbrake-on-widows/"><u>Troubleshoot: Unlock HandBrake on Widows!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-8-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 8 Plus Passcode without a Computer</u></a></li>
+</ul></div>
+

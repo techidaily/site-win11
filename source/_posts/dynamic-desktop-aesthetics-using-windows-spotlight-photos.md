@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Desktop Aesthetics: Using Windows Spotlight Photos"
-date: 2024-09-20T08:20:11.704Z
-updated: 2024-09-21T22:22:56.575Z
+date: 2024-09-22T23:37:31.709Z
+updated: 2024-09-29T00:54:00.121Z
 tags:
   - windows10
   - windows11
@@ -50,9 +50,23 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Assets Folder Path Pasted in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-assets-folder-path-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Finally, hit **enter.** The folder that opens will be the hidden Assets folder that contains Windows Spotlight images.
 
 ![Assets Folder With Windows Spotlight Image Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/assets-folder-with-windows-spotlight-images.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this Assets folder, you'll probably see white thumbnails with long file names made of numbers and letters. These are not only the Spotlight images but also smaller image files and some that are not even images. So it's better if you sort them out first.
 
@@ -72,10 +86,16 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 7. Right-click inside the folder you just made and select the **Paste** option or use the shortcut **Ctrl + V** to save the chosen Spotlight images from the **Assets** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert Spotlight Images to Picture Files
@@ -94,14 +114,22 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 3. Press enter and exit Windows PowerShell.  
 ![Enter Command in PowerShell to Add.jpg Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enter-command-to-add-jpg-extension.jpg)
 4. Now check the Windows Spotlight folder. You will see that all the files have been converted to JPG image files.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Spotlight Assets Files Converted to JPG Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/assets-files-converted-to-jpg.jpg)
 5. You can now view their thumbnails by clicking **View > Extra Large Icons** or **Large Icons**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows Spotlight Folder With Image Thumbnails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-spotlight-image-folder.jpg)
@@ -116,33 +144,20 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 3. In the following line, type **ren \* \*.jpg** and hit **enter**. This command will convert all the files in the folder to JPG files.  
 ![Convert Files to JPG with Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enter-command-in-windows-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've converted all the files to .jpg, you can view the picture thumbnails in the folder.
 
 ![View Image Thumbnails in Windows Spotlight Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-image-thumbnails-in-windows-spotlight-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With that, the spectacular Windows Spotlight images are ready for you to use as your desktop wallpapers. You'll find HD images in the horizontal 1920 x 1080 dimension that you can just right-click and save as a desktop background on your Windows PC.
 
  Plus, there will be vertical images in 1080 x 1920 dimensions—you can use these as cool wallpapers on your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Awesome Wallpapers Whenever You Want
 
@@ -163,5 +178,26 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlocking-creative-potential-best-tiktok-intros-on-a-mac/"><u>[New] In 2024, Unlocking Creative Potential Best TikTok Intros on a Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-next-gen-consumer-engagement-strategies/"><u>[Updated] 2024 Approved Next-Gen Consumer Engagement Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-launch-your-wealth-journey-on-periscope-platform/"><u>[Updated] Launch Your Wealth Journey on Periscope Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-superior-battery-packs-and-charger-systems-for-hero5/"><u>[Updated] Superior Battery Packs and Charger Systems for Hero5</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y36i-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-application-failures-due-to-net-not-installed/"><u>Addressing Application Failures Due to .NET Not Installed</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-x6-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco X6 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11-drag-and-drop-failures-now/"><u>Fix Windows 11 Drag-and-Drop Failures Now</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-photos-app-background-blur-feature-on-windows-11/"><u>How to Use the Photos App Background Blur Feature on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-high-space-consumers-on-your-windows-machine/"><u>Identifying High-Space Consumers on Your Windows Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-9-methods-for-accessing-windows-11s-audio-control-panel/"><u>Navigate 9 Methods for Accessing Windows 11'S Audio Control Panel</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-reversed-alphabet-input-on-windows/"><u>Rectifying Reversed Alphabet Input on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-acpi-drive-id-33a0-problems/"><u>Resolving Acpi Drive ID 33A0 Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-in-gameplay-implementing-retroarchs-shader-effects/"><u>Time Travel in Gameplay: Implementing RetroArch's Shader Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overwatch-2-renderer-issues-on-windows/"><u>Troubleshooting Overwatch 2 Renderer Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-persistent-windows-boot-issue-to-bios-mode/"><u>Troubleshooting Persistent Windows Boot Issue to BIOS Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-to-windows-11-success/"><u>Unlocking the Secrets to Windows 11 Success</u></a></li>
+</ul></div>
 

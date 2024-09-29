@@ -1,7 +1,7 @@
 ---
 title: Solving LSA Protection Errors, Step by Step
-date: 2024-09-21T02:51:39.329Z
-updated: 2024-09-21T16:16:25.219Z
+date: 2024-09-22T17:55:47.657Z
+updated: 2024-09-28T19:43:49.378Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,26 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the Group Policy Settings
@@ -75,7 +88,21 @@ Administrative Templates > System > Local Security Authority
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After making the above changes, restart your computer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -95,13 +122,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reset the Windows Security App
 
  Windows Security is an integrated antivirus program built into the Windows OS. It's responsible for scanning your system and removing malicious content. If there's something wrong with the Windows Security app, it might trigger this error. To fix the issue, reset the app and see if it helps. Here's how to do it:
@@ -117,13 +137,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
@@ -136,8 +149,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +156,27 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-the-nuances-of-streaming-and-saving-on-facebook-for-2024/"><u>[New] Navigating the Nuances of Streaming and Saving on Facebook for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-video-size-adjustments-on-igtv/"><u>[Updated] In 2024, Mastering Video Size Adjustments on IGTV</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-stream-selection-simplified-top-10-actionable-tips-for-2024/"><u>[Updated] Stream Selection Simplified Top 10 Actionable Tips for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>2024 Approved Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ken-burns-effect-techniques-for-camtasia-users/"><u>2024 Approved Ken Burns Effect Techniques for Camtasia Users</u></a></li>
+<li><a href="https://win11.techidaily.com/balancing-act-equalizing-pc-and-mobile-internet-speeds/"><u>Balancing Act: Equalizing PC & Mobile Internet Speeds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-a-consistent-meditation-routine-with-chatgpt-a-step-by-step-guide/"><u>Creating a Consistent Meditation Routine with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-reasons-for-preserving-your-win-11-alerts/"><u>Discover the Reasons for Preserving Your Win 11 Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/from-a-simple-pin-a-comprehensive-approach-to-switching-passwords-in-windows-11/"><u>From a Simple PIN: A Comprehensive Approach to Switching Passwords in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/galaxy-vs-ford-trucks-downsized-to-rc-glory-who-reigns-supreme/"><u>Galaxy vs Ford Trucks Downsized to RC Glory: Who Reigns Supreme?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-mpeg-to-mkv-konverter-online-professioneel-en-eenvoudig-met-movavi/"><u>Gratis MPEG-to-MKV Konverter Online: Professioneel en Eenvoudig Met Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-s23-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy S23 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-novatech-series-unified-4k-all-in-one-workstations/"><u>In 2024, NovaTech Series Unified 4K, All-in-One Workstations</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-insights-new-folder-formation-in-windows-11/"><u>Innovative Insights: New Folder Formation in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-1011s-recycle-bin-issues/"><u>Navigating Through Windows 10/11'S Recycle Bin Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-startup-changing-boot-timeout-in-windows-11/"><u>Optimize Startup: Changing Boot Timeout in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-code-0xc0000142-in-winos/"><u>Resolving Code 0XC0000142 in WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/sketch-mastery-for-desktop-users-in-windows-11/"><u>Sketch Mastery for Desktop Users in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-screens-boost-your-pcs-performance-with-hotkeys/"><u>Streamlined Screens: Boost Your PC's Performance with Hotkeys</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Revive Missing File Images in Windows 11’S User Interface
-date: 2024-09-19T06:34:48.141Z
-updated: 2024-09-21T20:53:31.380Z
+date: 2024-09-24T17:45:03.992Z
+updated: 2024-09-28T20:32:10.681Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,20 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change Icon Size and View Style
 
  If thumbnails are enabled in the Folder Options settings, check the icon size and view style of your files and folders. When the icon size is set to small or if you change the view style to lists or details, Windows does not show thumbnails.
@@ -50,15 +64,28 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
 ![Change the Icon Size of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-change-the-icon-size-of-folders-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If changing the icon size doesn't make a difference, change the view style by right-clicking in the same folder, navigating to**View** , and selecting**Tiles** or**Content** .
 
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Files or Format Specific Issues
@@ -85,18 +112,18 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
  So, if you haven't cleared it yet,[clear the thumbnail cache](https://www.makeuseof.com/windows-11-clear-thumbnail-cache/) and restart your device so Windows can rebuild it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Restart File Explorer
 
  Restarting File Explorer is usually enough to fix most issues with icons, navigation panes, ribbons, tabs, and everything related. If you have not restarted File Explorer yet, you should; it may help you resolve the thumbnail issue. To restart File Explorer, open Task Manager, locate the**File Explorer** (or**Windows Explorer**) process, right-click on it, and click**Restart** .
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Enable Thumbnail Preview From Visual Effects
 
@@ -109,21 +136,14 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Apply Generic Windows 11 Fixes
 
@@ -150,5 +170,26 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-macs-visionary-picks-the-10-elite-monitors-with-4k/"><u>[New] Mac's Visionary Picks The #10 Elite Monitors with 4K</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-tips-how-to-quickly-enjoy-instagram-videos/"><u>[New] Tips How to Quickly Enjoy Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfect-posts-enhance-videos-before-sharing-on-instagram/"><u>[Updated] 2024 Approved Perfect Posts Enhance Videos Before Sharing on Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-android-developers-insider-take-scouting-the-leading-fb-video-extractors/"><u>[Updated] Android Developer's Insider Take Scouting the Leading FB Video Extractors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-youtube-beauty-mastering-video-color-dynamics-for-2024/"><u>[Updated] Enhancing YouTube Beauty Mastering Video Color Dynamics for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-nat-types-for-better-connection-performance-in-win1110/"><u>Changing NAT Types for Better Connection Performance in Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-windows-11-cache-cutting-out-the-clutter/"><u>Clear Windows 11 Cache: Cutting Out the Clutter</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-105-classic-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-new-home-for-onedrive-folder-in-windows/"><u>Configuring New Home for OneDrive Folder in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-a-computer-to-a-televison-screen-via-hdmi-cable-a-comprehensive-guide/"><u>Connecting a Computer to a Televison Screen via HDMI Cable: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-14-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi 14 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/make-the-best-out-of-what-you-have-even-without-11/"><u>Make the Best Out of What You Have, Even Without 11</u></a></li>
+<li><a href="https://win11.techidaily.com/making-older-computers-more-comfortable-for-seniors/"><u>Making Older Computers More Comfortable for Seniors</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-low-resource-utilization-wlanextexe/"><u>Mastering Low Resource Utilization: Wlanext.EXE</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-resurrect-inactive-windows-email-rule-configurations/"><u>Methods to Resurrect Inactive Windows Email Rule Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/shining-up-dull-desktops-with-vibrant-colors/"><u>Shining Up Dull Desktops with Vibrant Colors</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-unresponsive-windows-media-files/"><u>Steps to Rectify Unresponsive Windows Media Files</u></a></li>
+</ul></div>
 

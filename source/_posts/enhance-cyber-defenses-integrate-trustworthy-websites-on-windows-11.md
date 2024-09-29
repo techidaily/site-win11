@@ -1,7 +1,7 @@
 ---
 title: "Enhance Cyber Defenses: Integrate Trustworthy Websites on Windows 11"
-date: 2024-09-15T01:25:20.713Z
-updated: 2024-09-22T04:39:04.795Z
+date: 2024-09-24T18:57:21.117Z
+updated: 2024-09-29T00:23:46.043Z
 tags:
   - windows10
   - windows11
@@ -53,13 +53,42 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 2. Click the **Lock icon** on the left side of the URL box and choose **Site settings** from the menu that pops up.  
 ![Site settings option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/site-settings.jpg)
 3. Click the drop-down icon next to the **Insecure content** option and choose **Allow** from the context menu. Then, restart Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Insecure content option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that’s about it. Now you can access the added website without any pop-up or warning by Google Chrome.
 
  In the future, if you want to remove the website from the trusted list, choose **Block(default)** from the Insecure content drop-down menu and then restart Google Chrome to save the changes.
 
 ![Block option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/block-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a Website to the Microsoft Edge Trusted List
 
@@ -69,6 +98,20 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 2. Click the Lock icon on the left side of the URL box and choose **Permissions** **for this site** option.  
 ![Permission for this site option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-for-this-site.jpg)
 3. Choose Allow from the Insecure content drop-down menu. Then, restart Microsoft Edge to save the changes.  
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
 
 ## How to Add a Website to the Mozilla Firefox Trusted List
@@ -80,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 3. Click the **hamburger icon** at the top right corner, and choose **Settings.**  
 ![Settings option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option.jpg)
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
@@ -107,28 +143,19 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 3. Click the drop-down icon next to the Insecure content option and choose Allow.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Insecure content option in Brave](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set Up Trusted Sites List
 
  Oftentimes, you will notice your browser showing error messages upon accessing certain websites or web pages. This is in place to keep your computer secure from potentially harmful websites. But if you know the website you're trying to access is safe, you can add it to the trusted list of different browsers.
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,3 +164,25 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-altering-mac-screenshot-format-on-the-fly-for-2024/"><u>[New] Altering Mac Screenshot Format on the Fly for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>2024 Approved Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/battle-tested-selecting-the-supreme-7-fps/"><u>Battle Tested Selecting the Supreme 7 FPS</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-insufficient-storage-warning-in-vmware-hosts/"><u>Dealing with Insufficient Storage Warning in VMware Hosts</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-for-resolving-password-hash-misalignment-on-windows/"><u>Essential Strategies for Resolving Password Hash Misalignment on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-teams-cleaner-systems-microsofts-pivot/"><u>Faster Teams, Cleaner Systems: Microsoft's Pivot</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a15-4g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A15 4G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-11-shine-a-holiday-system-guide/"><u>Make Windows 11 Shine: A Holiday System Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-narzo-60x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Narzo 60x 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-the-disappeared-disk-space-issue/"><u>Rectify the Disappeared Disk Space Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-it-administrator-cant-do-more-warning-in-winsec/"><u>Resolving 'IT Administrator Can’t Do More' Warning in WinSec</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-support-leading-5-cognitive-bot-apps/"><u>Revolutionizing Support: Leading 5 Cognitive Bot Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-gaming-on-win-11-via-play-store-linkup/"><u>Seamless Android Gaming on Win 11 via Play Store Linkup</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-security-lockouts-proven-methods-for-fixing-4n-authorization-mishaps/"><u>Tackling Security Lockouts: Proven Methods for Fixing 4N Authorization Mishaps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-dev-error-5573-in-call-of-duty-vanguard/"><u>Troubleshooting Guide for Dev Error 5573 in Call of Duty: Vanguard</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Successful Run As User Permissions
-date: 2024-09-14T23:14:50.388Z
-updated: 2024-09-22T06:40:04.329Z
+date: 2024-09-23T18:32:56.348Z
+updated: 2024-09-28T19:32:30.196Z
 tags:
   - windows10
   - windows11
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check User Account Control Settings
 
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 6. Drag the slider to **Default**, then click **OK**. It will set your UAC to the default level and enable you to run applications with elevated privileges.
 
  Now, close the window and restart your PC. After that, try running the application with the Run as administrator feature and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change Group Policy Settings
 
@@ -85,13 +92,6 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Clean up the Context Menu
 
  When you right-click on a program or file, you often see the Run as administrator option in the context menu. If it's missing, you should look at your context menu entries for clutter.
@@ -109,13 +109,20 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Try Some Generic Fixes
@@ -134,8 +141,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +148,19 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-nighttime-navigator-tips-for-effortless-evening-shots/"><u>[New] The Nighttime Navigator Tips for Effortless Evening Shots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-zoom-into-action-videoleaps-tips-and-tricks/"><u>2024 Approved Zoom Into Action Videoleap's Tips and Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726219835337-amv-mp4-movavi/"><u>免費線上AMV MP4格式改造服務 - Movavi動畫媒體編譯器</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-disappearances-in-system-navigator/"><u>Eradicating Disappearances in System Navigator</u></a></li>
+<li><a href="https://win11.techidaily.com/hosting-multiple-oses-linux-vm-inside-hyper-v-on-a-windows-machine/"><u>Hosting Multiple OSes: Linux VM Inside Hyper-V on a Windows Machine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-insider-look-at-ios-video-recording-tools/"><u>In 2024, The Insider Look at IO's Video Recording Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-app-hiccup-geforce-x0001/"><u>Overcoming Windows 11 App Hiccup: GeForce X0001</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-shutdown-techniques-for-windowed-applications/"><u>Simultaneous Shutdown Techniques for Windowed Applications</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/six-super-simple-free-fb-downloader-tools/"><u>Six Super Simple Free FB Downloader Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-non-windows-sniping-tools-for-quick-screen-capture/"><u>Top 5 Non-Windows Sniping Tools for Quick Screen Capture</u></a></li>
+</ul></div>
+

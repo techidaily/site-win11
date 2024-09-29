@@ -1,7 +1,7 @@
 ---
 title: "Custom FN Key Roles: Win 10 & 11 Guide"
-date: 2024-09-18T19:12:26.714Z
-updated: 2024-09-22T00:59:59.867Z
+date: 2024-09-21T23:49:42.098Z
+updated: 2024-09-28T23:42:12.505Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
  In most laptops, there are 12 function keys (they used to be a lot more in the older devices), and you can use them by pressing them along with the "Fn" key on your keyboard. So for instance, if you wish to enable the backlit keyboard using the F3 key, you can hold the Fn key and then press F3 to make the desired changes.
 
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
@@ -71,13 +78,6 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -90,12 +90,26 @@ Similarly, if you have an Acer device, follow these steps:
 3. Choose Restart now.  
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you are a Windows 11 user, follow these steps:
 
 1. Press the Win + S keys together to open the Windows Search utility.
 2. Type Recovery in the search field and choose**Recovery options** from the list of options available.
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
@@ -104,22 +118,15 @@ If you are a Windows 11 user, follow these steps:
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
@@ -129,6 +136,19 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -161,5 +181,24 @@ If you are a Windows 11 user, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-guide-to-free-melodies-in-youtube-productions-for-2024/"><u>[New] Effortless Guide to Free Melodies in YouTube Productions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>[New] Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[Updated] 2024 Approved Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommendations-for-full-rotation-shots/"><u>[Updated] Expert Recommendations for Full Rotation Shots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-instagram-video-tricks-uncovered/"><u>[Updated] In 2024, Instagram Video Tricks Uncovered</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-racing-hearts-22-short-track-triumph/"><u>2024 Approved Racing Hearts '22 Short-Track Triumph</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-and-configuring-windows-data-sources-by-odbc/"><u>Accessing and Configuring Windows Data Sources by ODBC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-missing-speakers-while-screen-sharing-on-discord-platforms/"><u>Effective Fixes for Missing Speakers While Screen Sharing on Discord Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-permission-restrictions-and-open-hidden-folders/"><u>How to Disable Permission Restrictions and Open Hidden Folders</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-troubleshoot-invisible-hand-in-windows/"><u>Mouse Troubleshoot - Invisible Hand in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-approach-to-disable-unnecessary-windows-11-services/"><u>Proactive Approach to Disable Unnecessary Windows 11 Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ranked-slideshow-creation-software-on-latest-iphones/"><u>Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/silence-windows-software-update-messages/"><u>Silence Windows Software Update Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mitigate-application-crashes-unhandled-exception-error/"><u>Steps to Mitigate Application Crashes: Unhandled Exception Error</u></a></li>
+<li><a href="https://win11.techidaily.com/why-excel-fails-to-open-in-windows-notepad/"><u>Why Excel Fails to Open in Windows Notepad?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10plus-users-unlocking-the-secrets-of-your-ram-type/"><u>Windows 10+ Users: Unlocking the Secrets of Your RAM Type</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-struggles-lack-of-drive-letters-explained-and-cured/"><u>Windows Struggles: Lack of Drive Letters Explained & Cured</u></a></li>
+</ul></div>
 

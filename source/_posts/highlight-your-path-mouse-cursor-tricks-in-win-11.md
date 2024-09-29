@@ -1,7 +1,7 @@
 ---
 title: "Highlight Your Path: Mouse Cursor Tricks in Win 11"
-date: 2024-09-21T00:05:29.253Z
-updated: 2024-09-22T02:42:23.093Z
+date: 2024-09-23T01:02:09.501Z
+updated: 2024-09-28T22:27:49.282Z
 tags:
   - windows10
   - windows11
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
  When you’re done configuring your cursor highlighting, click the**Apply Setting** button. The app must be running for its cursor highlighting to work, but it doesn’t run in the background with a system tray icon. Minimize the app’s window to the taskbar when you’re utilizing it.
@@ -84,18 +91,18 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 ![The Enable Mouse Highlighter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-mouse-highligher-option.jpg)
 7. Then press the**Windows** logo key +**Shift** +**H** hotkey to activate the highlighter.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerToy’s cursor highlighting only applies to mouse clicking. You’ll see different color circles whenever you right or left-click the mouse. Those circles are set to yellow and blue colors by default.
 
  To customize PowerToy’s cursor highlighting, click**Appearance and Behavior** to view further options. Then you can click the**Primary** or**Secondary** button boxes to bring up palettes from which to select different colors. Drag the**Opacity** bar’s slider lift and right to adjust the highlighting’s transparency level. Click the**Radius** option to select a different size value for the circle.
 
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
 
@@ -106,6 +113,20 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 3. Then press the**Extensions** button in Chrome or Edge.  
 ![the-extensions-menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extensions-menu.jpg)
 4. Click**Cursor Highlighter** to view the extension’s options.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Turn on the**Enable/Disable** option.  
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
 6. Click the color palette box to choose a color for the highlight and select save.
@@ -113,16 +134,16 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
 ![The mouse pointer highlight added by the Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-circle-highligher-for-cursor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that extensions from other stores need to be enabled for Edge users to highlight their cursors with this Chrome add-on. You can access that option in Edge by pressing**Alt** +**F** and selecting**Extensions** \>**Manage Extensions** . Then turn on the**Allow extensions from other stores** setting.
 
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
 
@@ -141,5 +162,20 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-epicurean-education-recipe-film-making/"><u>[New] 2024 Approved Epicurean Education Recipe Film-Making</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-interview-questions-for-engaged-audience/"><u>[New] In 2024, Essential Interview Questions for Engaged Audience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-niche-to-notorious-the-journey-of-crafting-memetic-content-gifs/"><u>In 2024, From Niche to Notorious The Journey of Crafting Memetic Content (GIFs)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-performance-gadgets-with-toms-hardware-expertise/"><u>Inside Look at Performance Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-windows-icon-placement-strategies/"><u>Perfect Window's Icon Placement Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-elimination-guide-for-wsl-on-windows-11-systems/"><u>Permanent Elimination Guide for WSL on Windows 11 Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stop-microsoft-teams-from-crashing-windows-1110/"><u>Steps to Stop Microsoft Teams From Crashing Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-persistent-ps4-controller-connections-in-windows/"><u>Strategies for Persistent PS4 Controller Connections in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sync-chrome-and-pc-time-seamlessly-on-windows/"><u>Sync Chrome and PC Time Seamlessly on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-the-footprints-of-your-latest-window-use/"><u>Tracing the Footprints of Your Latest Window Use</u></a></li>
+</ul></div>
 

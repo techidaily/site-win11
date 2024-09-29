@@ -1,7 +1,7 @@
 ---
 title: Eradicating Aw, Snap! In Google Chrome on Windows
-date: 2024-09-15T20:00:54.758Z
-updated: 2024-09-21T17:50:38.557Z
+date: 2024-09-25T19:10:45.348Z
+updated: 2024-09-28T18:36:49.969Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,25 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 * **Clear Cache and Cookies:** It is not unusual for Chrome's browser data to become corrupted over time. When this happens, webpages may crash in Google Chrome. To fix this, you can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/).
 * **Check the Computer for Memory Problems:** Memory issues with your Windows computer can also cause such anomalies. To check for this possibility, you can [use the Memory Diagnostic Tool on Windows to scan your PC for memory problems](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rule Out Issues With Your Internet Connection
 
  A weak or inconsistent internet connection can prevent Google Chrome from loading pages, resulting in the “Aw Snap!” page crash error. Hence, it's important to make sure that your internet connection is working properly. A quick way to test your internet connection on Windows is to open an app that uses the internet, such as the Microsoft Store, and see if it loads fine.
 
  If there’s a problem with your internet, try out some [helpful suggestions to resolve internet issues on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) or switch to an alternate network connection.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use an Incognito Window
 
@@ -67,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Hardware Acceleration
@@ -86,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 5. Click the **Relaunch** button to apply the changes and restart Chrome.  
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create a New Chrome Profile
 
  Issues with your Chrome profile can also cause the browser to misbehave at times. This usually happens when your Chrome profile becomes corrupted. You can try creating and using a new profile in Chrome to see if that helps.
@@ -96,21 +117,7 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 4. Choose whether you want to sign in with or without an account.  
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After creating a new profile, try loading a few websites and see if you get any errors.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reset Google Chrome
 
@@ -133,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
 
  If you are facing the same problem, this guide has some useful solutions that should get Google Chrome to work again on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,3 +147,27 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-best-text-effects-for-your-video/"><u>[New] 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-complete-process-of-logging-google-voice-calls/"><u>[Updated] 2024 Approved The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-favorites-top-10-tiktok-vids/"><u>[Updated] 2024 Approved Twitter's Favorites Top 10 TikTok Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-the-spectacular-features-of-dells-p2715q-display/"><u>2024 Approved Breaking Down the Spectacular Features of Dell's P2715Q Display</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-email-notifications-glitches-on-windows-devices/"><u>Addressing Email Notifications Glitches on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-memory-caching-in-windows-os/"><u>Breaking Down Memory Caching in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-windows-oversight-on-apps-browsers/"><u>Harnessing Windows Oversight on Apps, Browsers</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-14-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-for-reviving-freeze-ups-on-resource-monitor-win11/"><u>Immediate Actions for Reviving Freeze-Ups on Resource Monitor, Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-office-setup-on-windows-10-and-11-systems/"><u>Mastering Office Setup on WIndows 10 & 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-windows-environment-adding-to-the-desktop-menu/"><u>Personalizing Your Windows Environment: Adding to the Desktop Menu</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/physical-presence-vs-virtual-validation/"><u>Physical Presence vs Virtual Validation</u></a></li>
+<li><a href="https://win11.techidaily.com/realign-google-chrome-clock-with-windows-time/"><u>Realign Google Chrome Clock with Windows Time</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-no-associated-error-on-windows-devices/"><u>Removing 'No Associated' Error on Windows Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamlining-your-digital-life-how-to-share-a-single-phone-number-among-various-electronics/"><u>Streamlining Your Digital Life: How to Share a Single Phone Number Among Various Electronics</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-your-way-through-windows-application-hiccups-7-tips/"><u>Troubleshoot Your Way Through Windows Application Hiccups (7 Tips)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-grammarlys-non-operational-status/"><u>Troubleshooting Grammarly's Non-Operational Status</u></a></li>
+</ul></div>
+

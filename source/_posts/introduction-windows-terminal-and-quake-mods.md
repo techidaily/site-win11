@@ -1,7 +1,7 @@
 ---
 title: "Introduction: Windows Terminal and Quake Mods"
-date: 2024-09-15T16:44:46.665Z
-updated: 2024-09-22T05:50:39.052Z
+date: 2024-09-23T22:30:50.653Z
+updated: 2024-09-28T21:44:21.424Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ There are two ways to open the Windows Terminal in Quake mode.
 
 ![The windows terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-terminal-quake.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open[Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 ## Hiding and Restoring the Terminal Window
@@ -69,15 +76,22 @@ To reveal the window again, press the same keyboard shortcut.
 
 ![The peek window for the Windows Terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/closing-quake-mode-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't see a peek preview, you can right-click on the terminal icon in the Taskbar and select**Close Window** .
 
  If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Windows Terminal in Quake Mode at Logon
@@ -88,6 +102,14 @@ To reveal the window again, press the same keyboard shortcut.
 2. Open the startup items folder by typing**shell:startup** , then click**Ok** .  
 ![creating a shortcut to quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/auto-open-quake-mode.jpg)
 3. Right-click anywhere in the folder and select**New > Shortcut** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. For the location of the item, type:**wt.exe -w \_quake** . Click**Next** .  
 ![shortcut to automatically open quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quake-mode-shortcut.jpg)
 5. Give the shortcut a name you will recognize, such as**Terminal Quake** . Then click**Finish** .
@@ -95,13 +117,6 @@ To reveal the window again, press the same keyboard shortcut.
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
  If you have[disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using the Windows Terminal's Quake Mode
 
@@ -120,5 +135,23 @@ To reveal the window again, press the same keyboard shortcut.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-sharing-stories-that-resonate-with-a-digital-audience-yt/"><u>[New] 2024 Approved Sharing Stories that Resonate with a Digital Audience YT</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-symphony-of-sights-picture-plus-sound-videography-for-2024/"><u>[New] Symphony of Sights Picture + Sound Videography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-everlasting-trash-can-icon-for-windows-1011/"><u>Crafting an Everlasting Trash Can Icon for Windows 10/11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-permanently-delete-files-and-folders-using-proven-algorithms/"><u>How to Permanently Delete Files and Folders Using Proven Algorithms</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-windows-11-file-transfers-that-halt/"><u>How to Resolve Windows 11 File Transfers That Halt</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-x9b-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor X9b FRP Without Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-made-easy-explore-manycam-top-choice-for-virtual-webcams-and-recording/"><u>Live Streaming Made Easy: Explore ManyCam - Top Choice for Virtual Webcams and Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/luts-explained-enhancing-images-through-color-grading/"><u>LUTs Explained Enhancing Images Through Color Grading</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ical-integration-on-windows-11-systems/"><u>Mastering iCal Integration on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-biometric-settings-of-w11-for-domains/"><u>Mastering the Biometric Settings of W11 for Domains</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/memorymender-pro-contacts-videos-photos/"><u>MemoryMender Pro: Contacts, Videos, Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-keys-to-unlocking-the-full-potential-of-windows-software/"><u>Seven Keys to Unlocking the Full Potential of Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/should-you-embrace-windows-11s-secure-environment/"><u>Should You Embrace Windows 11'S Secure Environment?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-process-for-downloading-adobe-on-microsoft-store/"><u>The Complete Process for Downloading Adobe on Microsoft Store</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-fundamentals-of-successful-instagram-video-promotion-planning-for-2024/"><u>The Fundamentals of Successful Instagram Video Promotion Planning for 2024</u></a></li>
+</ul></div>
 

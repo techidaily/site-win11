@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obstacles to Activate Windows Batch Scripts
-date: 2024-09-17T00:46:28.047Z
-updated: 2024-09-21T18:45:19.653Z
+date: 2024-09-26T21:42:44.723Z
+updated: 2024-09-28T19:18:41.607Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
 ## 2\. Disable Your Antivirus Temporarily
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
  Another way around the antivirus issue is by adding your BAT file to the list of antivirus exclusions. This allows specific files to bypass the regular antivirus scan.
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  To add the BAT file to the exclusion list, navigate to your antivirus settings or options menu. Look for a section titled **Exclusions**, **Whitelist**, or something similar. Then, add your BAT file to the exclusion list.
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Adjust .BAT File Association
 
@@ -92,17 +99,18 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
@@ -117,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  Now that you know the main reason, you can learn [how to take ownership of any file or folder on Windows](https://www.makeuseof.com/windows-10-11-own-folder/). All the steps for taking ownership are the same in the case of an individual file and a folder.
 
  Remember that taking ownership carries risk. Here's why: if the file comes from an unknown source (a random website) and you take ownership, you may unknowingly execute harmful code. So, double-check the code and the file source before taking ownership.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Modify the ComSpec System Variable
 
@@ -133,28 +148,21 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resolve All Your BAT File Issues on Windows
 
@@ -164,8 +172,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +179,25 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-best-tiktok-watermark-remover-apps-for-iphone-and-android/"><u>[New] In 2024, Best TikTok Watermark Remover Apps for iPhone and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-effective-macbook-air-screen-capture/"><u>[Updated] 2024 Approved Unveiling the Secrets to Effective MacBook Air Screen Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-twitter-video-converters-guide/"><u>2024 Approved Premier Twitter Video Converters Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-winrars-summation-oversights-a-6-step-approach/"><u>Correcting WinRAR's Summation Oversights: A 6-Step Approach</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-resolving-phoenix-points-crashing-problems-now-solved/"><u>Expert Advice on Resolving Phoenix Point's Crashing Problems – Now Solved!</u></a></li>
+<li><a href="https://win11.techidaily.com/expertly-restoring-erased-data-in-a-microsoft-world/"><u>Expertly Restoring Erased Data in a Microsoft World</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-critical-winerror-upgrade-fault-0xc004f050/"><u>Fixing Critical WinError: Upgrade Fault #0XC004F050</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-moving-your-entire-dvd-archive-onto-the-amazon-web-services-platform/"><u>Guide: Moving Your Entire DVD Archive Onto the Amazon Web Services Platform</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo T2 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-privacy-unveil-faces-less-clearly/"><u>Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-system-preferences-to-adjust-after-dark-mode/"><u>Mastery of Windows System Preferences to Adjust After Dark Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/night-sky-magic-long-exposure-photography-on-iphone/"><u>Night Sky Magic Long-Exposure Photography on iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-large-group-renames-with-powertoys/"><u>Simplify Large Group Renames with PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-turning-on-copy-and-paste-operations-in-edges-security-shield-w11/"><u>Steps for Turning on Copy & Paste Operations in Edge's Security Shield W11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-cannot-end-task-on-your-computer/"><u>Tackling 'Cannot End Task' On Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-inner-gamer-strategic-play-and-success-at-zero-cost/"><u>Unleash Your Inner Gamer: Strategic Play & Success at Zero-Cost</u></a></li>
+</ul></div>
+

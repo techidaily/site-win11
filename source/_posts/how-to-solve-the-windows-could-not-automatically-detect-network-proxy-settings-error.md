@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Windows Could Not Automatically Detect Network Proxy Settings Error
-date: 2024-09-18T07:15:45.909Z
-updated: 2024-09-22T09:36:01.972Z
+date: 2024-09-27T19:41:43.626Z
+updated: 2024-09-28T17:34:49.363Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Review Proxy Settings in Windows
 
  Because this issue is related to your Windows proxy settings, that's a sensible first place to check. To access proxy settings in Windows 10, open**Settings** , select the**Network & Internet** category, and switch to the**Proxy** tab on the left sidebar. This is in the same place on Windows 11, except**Proxy** is an item in the list instead of appearing on a sidebar.
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  Choose**Network Adapter** from the list and walk through the troubleshooter. As seasoned Windows users know, these troubleshooters don't always fix your problem, but it's still worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Auto-Obtain IP Address and DNS Info
 
  As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to[fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
@@ -84,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update or Roll Back Your Network Driver
 
  An outdated network driver may lead to connection problems. Similarly, you might have recently installed a botched update for your network driver. In either case, replacing the driver could clear the proxy message issue.
@@ -102,13 +95,20 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -126,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
@@ -134,25 +141,11 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Scan for Malware
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
  You should thus run a scan with a trusted anti-malware app, like[Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Utilize a Restore Point
 
@@ -164,7 +157,21 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Reset Your Network Settings
 
@@ -195,5 +202,23 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-become-a-pro-at-documenting-your-twitch-sessions/"><u>[New] 2024 Approved Become a Pro at Documenting Your Twitch Sessions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>[Updated] 2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unleash-potential-a-comprehensive-guide-to-youtube-backlink-building/"><u>[Updated] 2024 Approved Unleash Potential A Comprehensive Guide to YouTube Backlink Building</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seeking-the-perfect-match-for-samsung-gear-360-find-it-here/"><u>[Updated] Seeking the Perfect Match for Samsung Gear 360 - Find It Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/anleitung-zum-entfernen-von-sicherheitsvorkehrungen-und-dvd-rippen-bei-disney-produkten/"><u>Anleitung Zum Entfernen Von Sicherheitsvorkehrungen Und DVD-Rippen Bei Disney Produkten</u></a></li>
+<li><a href="https://win11.techidaily.com/best-password-managers-for-windows-11-unleashing-your-digital-fortresses/"><u>Best Password Managers for Windows 11: Unleashing Your Digital Fortresses</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-11-biometrics-permissions/"><u>Configuring Windows 11 Biometrics Permissions</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-websites-that-work-on-your-windows-pc/"><u>Crafting Websites That Work on Your Windows PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dissecting-the-necessity-and-impact-of-applecare-plus-extended-plan/"><u>Dissecting the Necessity and Impact of AppleCare Plus Extended Plan</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-idea-to-execution-creating-youtube-trailers-in-filmora-for-2024/"><u>From Idea to Execution Creating YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-installing-new-drivers-in-windows-11/"><u>Mastering the Art of Installing New Drivers in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-os-security-patches/"><u>Navigating Windows OS Security Patches</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-fix-to-unknown-not-initialized-in-windows/"><u>Step-by-Step Fix to 'Unknown Not Initialized' In Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-ultimate-camera-and-video-recording-apps-iphoneandroid-edition-for-2024/"><u>Top 5 Ultimate Camera & Video Recording Apps IPhone/Android Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-gamers-should-trust-windows-vision-and-performance/"><u>Why Gamers Should Trust Windows' Vision and Performance</u></a></li>
+</ul></div>
 

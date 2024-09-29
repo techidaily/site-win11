@@ -1,7 +1,7 @@
 ---
 title: "Windows Device Mgmt: Camera Not Displayed? Here's How"
-date: 2024-09-20T16:40:22.921Z
-updated: 2024-09-22T09:24:52.506Z
+date: 2024-09-22T22:04:05.034Z
+updated: 2024-09-28T21:27:56.923Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ Apply the remaining fixes if the above checks don't help.
 ![Showing Hidden Devices From the View Tab of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-showing-hidden-devices-from-the-view-tab-of-windows-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Run the Camera Troubleshooter
@@ -78,39 +78,40 @@ Apply the remaining fixes if the above checks don't help.
 3. In the right pane, click**Troubleshoot** .  
 ![Going to the Troubleshooters in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-going-to-the-troubleshooters-in-windows-settings-app.jpg)
 4. Go to**Other troubleshooters** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Run** button next to the**Camera** troubleshooter.  
 ![Clicking on the Run Button Next to Camera Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-run-button-next-to-camera-troubleshooter-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Run a Few Scans
 
  Make sure corrupt system files are not causing the problem. To rule out this possibility, you need to run a few scans, such as SFC, DISM, and CHKDSK. If you have never performed these scans before, our guide on[repairing corrupt files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) explains how to run them. So, run these scans before moving on.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Download the Camera Drivers Manually
 
  When a driver gets corrupt, or you mistakenly uninstall it, Windows is supposed to automatically reinstall it when you restart the computer. If the camera driver is not appearing in Device Manager after restarting the computer, you should manually install it.
 
  To do that, go to your laptop manufacturer's website, for instance,[HP](https://www.hp.com/us-en/home.html) ,[Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fpk%2Fen%2F) ,[Dell](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2021669/https://www.dell.com/en-pk) , etc., search for the latest camera driver, and download it. Once you have downloaded the driver, follow the on-screen instructions to install it, just like any other driver or program.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Let the Camera App Access Your Camera
 
@@ -124,11 +125,25 @@ Here are the steps to check:
 3. Make sure Camera access is enabled under**App permissions** . If not, turn it on.  
 ![Ensuring the Camera Access is Enabled in the Camera App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-ensuring-the-camera-access-is-enabled-in-the-camera-app-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Reset the Camera App
 
  If you've modified the settings for the camera app recently and are experiencing the issue under discussion afterward, reset the app. You won't lose any data by resetting the camera app, but it will revert all customizations you've made. Therefore, you will need to customize the app from scratch.
 
  Don't know how to reset the camera app? Our article on[how to reset any app on Windows 10 and Windows 11](https://www.makeuseof.com/windows-reset-app/) explains how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Add the Camera Device in Device Manager
 
@@ -147,6 +162,13 @@ Here are the steps to check:
 
 ![Clicking on the Next Button After Selecting Install the Hardware That I Manually Select From a List Advanced Option in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/8-clicking-on-the-next-button-after-selecting-install-the-hardware-that-i-manually-select-from-a-list-advanced-option-in-the-add-hardware-wizard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Next** , and double-click on**Camera** from available hardware types.
 
 ![Clicking on the Next Button After Double-Clicking on the Camera App Device in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/9-clicking-on-the-next-button-after-double-clicking-on-the-camera-app-device-in-the-add-hardware-wizard.jpg)
@@ -158,13 +180,6 @@ Here are the steps to check:
 ### 9\. Get Your Laptop Checked
 
  If none of these fixes work and the camera device doesn't appear in the Device Manager, there may be a hardware issue. So, you should take your laptop for a thorough inspection. If the device is still under warranty, you should have it checked by the manufacturer rather than a local shop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Restore the Camera Driver in the Device Manager
 
@@ -183,5 +198,26 @@ Here are the steps to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-captivating-content-creation-the-best-10-igtv-strategies-for-brands-for-2024/"><u>[New] Captivating Content Creation The Best 10 IGTV Strategies for Brands for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[Updated] 2024 Approved Banner Bonanza Unlimited 50 FREE YouTube Designs</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-11-overcoming-5ghz-wi-fi-barriers/"><u>Breaking Down Windows 11: Overcoming 5GHz Wi-Fi Barriers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-mastery-how-much-investment-needed-for-2024/"><u>Budget Mastery How Much Investment Needed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c300-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C300?</u></a></li>
+<li><a href="https://win11.techidaily.com/commanding-control-navigating-the-windows-print-hub/"><u>Commanding Control: Navigating the Windows Print Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-for-your-xbox-ones-no-signal-snag/"><u>Comprehensive Solutions for Your Xbox One's 'No Signal' Snag</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-the-finest-free-media-tools-for-windows-pcs/"><u>Explore the Finest Free Media Tools for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-booting-window-11s-boot-delay-adjustment-explained/"><u>Faster Booting: Window 11'S Boot Delay Adjustment Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-displaying-messages-errors-in-discord-for-windows/"><u>Fixing Non-Displaying Messages Errors in Discord for Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-x100-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo X100 Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/introducing-macx-mediatrans-a-pioneering-tool-enabling-itunes-purchase-management-and-camera-roll-cleanup/"><u>Introducing MacX MediaTrans: A Pioneering Tool Enabling iTunes Purchase Management & Camera Roll Cleanup</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-app-size-metrics-in-windows/"><u>Navigating Through App Size Metrics in Windows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-leading-web-based-trailer-production-tools/"><u>New 2024 Approved Leading Web-Based Trailer Production Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-managing-directories-without-renaming-feature-in-win-11/"><u>The Ultimate Guide to Managing Directories Without Renaming Feature in Win 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-cat-s42-armored-handset-impressive-durability-marred-by-sluggishness/"><u>Unboxing the CAT S42 Armored Handset: Impressive Durability Marred by Sluggishness</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-creativity-personalizing-windows-1011-screens/"><u>Unleash Creativity: Personalizing Windows 10/11 Screens</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-pausing-your-insta-addiction-is-better-for-you/"><u>Why Pausing Your Insta Addiction Is Better for You</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-sound-revolution-embrace-dolby-atmos/"><u>Win 10/11 Sound Revolution: Embrace Dolby Atmos</u></a></li>
+</ul></div>
 

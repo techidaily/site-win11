@@ -1,7 +1,7 @@
 ---
 title: Disabling M365 Error 30015-26 in Windows Environment
-date: 2024-09-16T04:49:54.785Z
-updated: 2024-09-22T09:27:02.443Z
+date: 2024-09-21T16:17:29.921Z
+updated: 2024-09-28T19:56:03.353Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  If you want to access it faster, you can [add a Disk Cleanup option to the context menu](https://www.makeuseof.com/how-to-add-a-disk-clean-up-option-to-the-local-disk-icons-context-menu-in-windows-11/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart BITS Services
 
  If Microsoft 365 isn’t the only app that can’t automatically update, there might be a problem with the Background Intelligent Transfer Service. This Windows service is responsible for automatically downloading programs and other information.
@@ -62,21 +69,7 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![Repair Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-microsoft-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re still facing the error code 30015-26, go through the instruction again and select **Online repair** for a more detailed fixing process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check for Corrupted Files
 
@@ -84,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortunately, there’s an easy fix for you to try. Log into your administrator account and [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to automatically detect and replace any corrupted system files.
 
  If you get the **Windows Resource Protection did not find any integrity violations** message after running the scan, there’s nothing wrong with your system files.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reinstall Office
 
@@ -103,7 +96,21 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![Uninstall Microsoft 365 in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-microsoft365-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the process is complete, go to the [Microsoft 365 website](https://www.microsoft.com/microsoft-365) and download the app. Alternatively, you could download Microsoft 365 through the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Turn Off the Antivirus
 
@@ -119,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  Now, let’s take a look at how you can get rid of the 30015-26 error code.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,3 +133,23 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-wintvcapture-learn-the-art-of-free-screen-recording-for-2024/"><u>[New] WinTVCapture Learn the Art of Free Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-aviation-gaming-the-ultimate-drone-race-course-and-best-models/"><u>2024 Approved Aviation Gaming The Ultimate Drone Race Course and Best Models</u></a></li>
+<li><a href="https://win11.techidaily.com/5-steps-to-clear-windows-not-supported-error-hurdle/"><u>5 Steps to Clear Windows' 'Not Supported' Error Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/apex-legends-resolving-the-simple-cheating-detector-glitch/"><u>Apex Legends - Resolving the Simple Cheating Detector Glitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-commanders-unite-discovering-best-11-war-sims/"><u>Combat Commanders Unite: Discovering Best 11 War Sims</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xs-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XS with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-15-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 15?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-hyper-v-installation-on-w11-home-edition/"><u>Mastering Hyper-V Installation on W11 Home Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-updates-error-0x80242016-fix/"><u>Mastering Windows Updates' Error 0X80242016 Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-perplexity-of-blued-in-windows-10/"><u>Overcoming the Perplexity of Blued in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-steam-sync-issue/"><u>Solving Windows Steam Sync Issue</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/targeted-user-group-policies-implementing-changes-step-by-step/"><u>Targeted User Group Policies: Implementing Changes Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-username-experience-on-windows-11-platform/"><u>Transforming UserName Experience on Windows 11 Platform</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files</u></a></li>
+</ul></div>
+

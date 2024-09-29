@@ -1,7 +1,7 @@
 ---
 title: Discover Windows 11'S Novelty Post-Update Features
-date: 2024-09-18T01:04:55.446Z
-updated: 2024-09-22T06:40:49.221Z
+date: 2024-09-26T19:59:15.870Z
+updated: 2024-09-28T19:14:07.033Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
 ![The Copilot virtual assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/copilot-app.jpg)
 
- As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ As a replacement for an old Windows feature, some users might not consider Windows Copilot to be new. However, it is a sophisticated AI tool that can do more than Cortana. For example, Windows Copilot has options for summarizing, rewriting, and explaining documents. Plus, you can select different conversational style options in Copilot.
 
 ## 2\. A Cloud Backup Tool
 
@@ -57,14 +57,14 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
 ![The Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-backup-app.jpg)
 
- This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
 
 ## 3\. RGB Lighting Settings
 
@@ -85,18 +85,25 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
 ![The Combine taskbar buttons and hide labels option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/combine-taskbar-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can access these new settings by right-clicking Windows 11’s taskbar and selecting **Taskbar settings**. Click **Taskbar behaviors** and the **Combine taskbar** **buttons and hide labels** drop-down menu. Selecting **Never** will enable window taskbar labels.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Extended Compression Support
 
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. An Updated Paint App
 
@@ -104,14 +111,14 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
 ![The Remove background option in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-background-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Plus, the updated Paint app now supports dark mode. That means you can [select a Dark mode within Paint](https://www.makeuseof.com/dark-mode-microsoft-paint/) to turn that app black without changing the whole system theme. Or you can select alternative **Light** or **System setting** options for Paint’s theme.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. A Volume Mixer in Quick Settings
 
@@ -127,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +141,19 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apple-podcasts-get-your-audio-fix-instantly/"><u>2024 Approved Apple Podcasts Get Your Audio Fix Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-enhancement-in-wt-with-personalized-schemes/"><u>Aesthetic Enhancement in WT with Personalized Schemes</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-comprehensive-steps-for-successfully-starting-overwatch-2-troubleshooting-guide-2e4/"><u>Beat the Bug: Comprehensive Steps for Successfully Starting Overwatch 2 (Troubleshooting Guide - 2E4)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehending-quadcopters-how-they-soar-and-operate-for-2024/"><u>Comprehending Quadcopters How They Soar and Operate for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-control-set-active-hours-to-avoid-surprises-on-windows-11/"><u>Cutting Edge Control: Set Active Hours to Avoid Surprises on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-an-easy-to-understand-introduction-to-artifical-intelligence/"><u>Decoding AI: An Easy-to-Understand Introduction to Artifical Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-paths-back-to-success-in-steam-gaming/"><u>Easy Paths Back to Success in Steam Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-photoshopping-in-windows-11-without-hurdles/"><u>Enabling Photoshopping in Windows 11 Without Hurdles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-techniques-for-dell-pc-screen-saving/"><u>Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-boosting-your-snapchat-presence-with-easy-voice-modification-tricks/"><u>In 2024, Boosting Your Snapchat Presence with Easy Voice Modification Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-the-lost-connection-top-9-remedies-for-missing-bluetooth-on-win-11/"><u>Revive the Lost Connection: Top 9 Remedies for Missing Bluetooth on Win 11</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Introduction to Designing New Sections for Win 11 Desktop
-date: 2024-09-20T06:48:43.772Z
-updated: 2024-09-22T00:57:24.722Z
+date: 2024-09-27T18:22:01.241Z
+updated: 2024-09-28T21:32:32.355Z
 tags:
   - windows10
   - windows11
@@ -82,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 
 ![The Delete option for the Menu1 key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a Submenu to the Context Menu With Easy Context Menu
 
  Easy Context Menu is a freely available context menu customization desktop app. That software enables you to add custom software shortcut submenus to the right-click menu without [manually editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/).
@@ -103,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 5. Repeat the previous two steps to add more programs to the submenu.  
 ![A program shortcut added to the Software Shortcuts submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/program-shortcuts.jpg)
 6. Select the checkboxes for the new **Software Shortcuts** submenu and the programs added to it in the List Editor window.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Press the **Save Changes** button and close the List Editor window.
 8. Select the checkboxes for the **Software Shortcuts** submenu and the program options it includes within the Easy Context Menu window.  
 ![The Easy Context Menu window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/easy-context-menu-window.jpg)
@@ -118,6 +133,20 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
 
 ![A Tools submenu added with Easy Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-tools-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Organize Your Windows Desktop Context Menu Shortcuts With Submenus
 
  Adding one or more submenus to Windows 11’s desktop context menu will enable you to organize the software shortcuts added to it.
@@ -125,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
  You could create multiple submenus on the context menu that include shortcuts for opening different software categories, such as web browsers, media players, productivity apps, etc. Or you can add a new desktop context menu submenu for accessing Windows tools and turn off options with Easy Context Menu.
 
  If you add many shortcuts to that menu, organizing them into submenus is a good idea. Doing so will enable you to add more shortcuts without greatly extending the length of the classic context menu. This is how you can add new submenus to the Windows 11’s desktop context menu.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,10 +163,24 @@ thumbnail: https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2
       data-full-width-responsive="true"></ins>
     
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-mac-apps-for-high-quality-gif-saving/"><u>[New] 2024 Approved Best Mac Apps for High-Quality GIF Saving</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>[New] 2024 Approved The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-nintendo-switch-capturing-your-playtime/"><u>[New] Nintendo Switch Capturing Your Playtime</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-directors-speak-the-soul-of-film-writing/"><u>[Updated] Directors Speak The Soul of Film Writing</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-msresourceappname-text-glitch-in-w11/"><u>Addressing 'MsResource/AppName Text' Glitch in W11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-printing-experience-update-hp-officejet-pro-8620-in-windows-pcs/"><u>Boost Your Printing Experience - Update HP OfficeJet Pro 8620 in Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-for-refreshing-the-driver-software-of-an-epson-wf-7620-on-a-pc-with-windows-os/"><u>Comprehensive Tutorial for Refreshing the Driver Software of an Epson WF-7620 on a PC with Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investigating-the-safety-of-independent-chatgpt-plugins/"><u>Investigating the Safety of Independent ChatGPT Plugins</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-volume-adjustment-issues-in-windows-os/"><u>Mastering Volume Adjustment Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unable-to-display-errors-in-microsoft-store/"><u>Overcoming 'Unable to Display' Errors in Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-thumbnails-dimensions-on-desktop/"><u>Personalize Thumbnails: Dimensions on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-keyboard-errors-fixing-function-keys-on-windows-11/"><u>Resolve: Keyboard Errors - Fixing Function Keys on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-installed-but-inaccessible-microsoft-apps/"><u>Solving Installed but Inaccessible Microsoft Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clear-sight-crusade-nine-methods-to-sharpen-your-monitor/"><u>The Clear Sight Crusade: Nine Methods to Sharpen Your Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211533200-turbocharged-tech-discover-the-secret-to-superior-swiftness-instantly/"><u>Turbocharged Tech: Discover the Secret to Superior Swiftness Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/1719276552494-unlock-windows-free-up-space-no-more-temp-files/"><u>Unlock Windows Free Up Space, No More Temp Files</u></a></li>
+</ul></div>
 

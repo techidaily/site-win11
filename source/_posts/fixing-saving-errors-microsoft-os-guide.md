@@ -1,7 +1,7 @@
 ---
 title: "Fixing Saving Errors: Microsoft OS Guide"
-date: 2024-09-17T23:07:55.609Z
-updated: 2024-09-21T17:48:18.706Z
+date: 2024-09-21T17:14:19.270Z
+updated: 2024-09-28T17:06:00.979Z
 tags:
   - windows10
   - windows11
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
@@ -69,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 3. Deselect the **Hide protected operating system files (Recommended)** option.  
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -76,6 +84,14 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 3. Click **Security > Advanced** to bring up an Advanced Security Settings window.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click **Add** to view a Permission Entry window.
 
 1. Click the **Select a principal** option.
@@ -84,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 3. Click on the **OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select the **Full control permission** setting.  
@@ -104,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -113,3 +127,27 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-leaders-in-earnings-prediction-tiktoks-finest-tools/"><u>[New] In 2024, Leaders in Earnings Prediction TikTok's Finest Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-real-time-hardware-for-vr/"><u>[Updated] In 2024, Real-Time Hardware for VR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-additions-for-newbie-gopro-photographers/"><u>2024 Approved Prime Additions for Newbie GoPro Photographers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/boosting-audio-levels-the-ultimate-guide-to-enhancing-your-videos-sound-quality/"><u>Boosting Audio Levels: The Ultimate Guide to Enhancing Your Video's Sound Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-to-change-various-video-formats-into-mp3-using-vlc/"><u>Easy Steps to Change Various Video Formats Into MP3 Using VLC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722656393897-exciting-fortnite-update-diving-into-a-fresh-and-thrilling-season-reviews-inside/"><u>Exciting Fortnite Update: Diving Into a Fresh & Thrilling Season - Reviews Inside!</u></a></li>
+<li><a href="https://win11.techidaily.com/flashback-fun-enjoying-oldschool-games-with-dosbox-x/"><u>Flashback Fun: Enjoying Oldschool Games with DOSBox-X</u></a></li>
+<li><a href="https://win11.techidaily.com/master-windows-integration-with-steam-deck/"><u>Master Windows Integration with Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-windows-10-and-11-apps-temp-and-forecast-picks/"><u>Prime Windows 10 & 11 Apps: Temp & Forecast Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-hidden-network-sight-fixing-windows-issue/"><u>Reviving Hidden Network Sight: Fixing Windows Issue</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/snappy-business-tactics-on-snapchat/"><u>Snappy Business Tactics on Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-turn-off-chrome-notifications-windows-version/"><u>Steps to Turn Off Chrome Notifications, Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-approach-installing-and-using-outlook-preview-for-windows-11-users/"><u>Tailored Approach: Installing and Using Outlook Preview for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-efficient-device-communication-via-google-sharing/"><u>Tips for Efficient Device Communication via Google Sharing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992118972-troubleshooting-guide-for-grand-theft-auto-5-stuttering-problems-fixed/"><u>Troubleshooting Guide for Grand Theft Auto 5 Stuttering Problems, Fixed!</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-system-health-improvement-via-updates/"><u>Understanding System Health Improvement via Updates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-clearer-livestreams-with-these-4-tips-for-2024/"><u>Unlock Clearer Livestreams with These 4 Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-recurring-anydesk-errors-on-windows/"><u>Unraveling the Mysteries of Recurring AnyDesk Errors on Windows</u></a></li>
+</ul></div>
+

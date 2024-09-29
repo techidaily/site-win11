@@ -1,7 +1,7 @@
 ---
 title: Techniques to Block Spotify's Auto-Play on PC
-date: 2024-09-20T01:48:55.381Z
-updated: 2024-09-22T00:22:42.989Z
+date: 2024-09-27T23:25:27.101Z
+updated: 2024-09-28T20:28:29.357Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
  Once you complete the above steps, Spotify should no longer open automatically when you boot up your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Stop Spotify From Opening Automatically Using Windows Task Manager
 
  The Task Manager app on Windows makes it simple to manage your startup apps. Here's how you can use Task Manager to disable Spotify as a startup app and prevent it from opening automatically on Windows.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
  After you complete the above steps, Spotify’s status should change to**Disabled** in the Task Manager app. Following that, the app will not open during startup. Later, if you want to re-enable Spotify as a startup app, you can change its status back to**Enabled** .
 
  Aside from managing startup apps, Task Manager is also useful for monitoring system resources, force-closing frozen apps, and doing other tasks. To know more, check our guide on the[best Windows Task Manager tips and tricks](https://www.makeuseof.com/tag/10-windows-task-manager-tricks-didnt-know/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Stop Spotify From Opening Automatically via the Windows Settings App
 
@@ -64,16 +78,17 @@ To stop Spotify from opening at startup via the Settings app:
 ![Disable Spotify as a Startup App via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-spotify-as-a-startup-app-via-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prevent Spotify From Launching at Startup on Windows
@@ -95,5 +110,26 @@ To stop Spotify from opening at startup via the Settings app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-video-uploads-on-social-platforms/"><u>[New] 2024 Approved Navigating Video Uploads on Social Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crafting-compelling-iphone-shadow-images-for-2024/"><u>[New] Crafting Compelling iPhone Shadow Images for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-amplify-audience-response-with-unique-instagram-quiz-features/"><u>[Updated] Amplify Audience Response with Unique Instagram Quiz Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-craft-your-virtual-persona-with-our-metaverse-guide/"><u>2024 Approved Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-solid-state-drive-speed-on-windows-via-ssd-fresh/"><u>Elevate Solid State Drive Speed on Windows via SSD Fresh</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-hello-login-fingerprint-failure/"><u>Eliminating Windows Hello Login Fingerprint Failure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-apple-vision-pro-a-weekend-review-with-top-insights-zdnet/"><u>Exploring the Apple Vision Pro: A Weekend Review with Top Insights | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-to-add-motion-blur-to-face-with-picsart/"><u>In 2024, Steps to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-charmap-incompatibility-challenges/"><u>Overcoming Windows CharMap Incompatibility Challenges</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/personalize-vr-gear-with-homemade-google-headgear/"><u>Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-crash-error-0x800704cf-in-windows/"><u>Quick Fix for Microsoft Store Crash: Error 0X800704CF in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-blocking-spam-by-whitelisting-domains-in-apple-mail-for-mac-users/"><u>Step-by-Step: Blocking Spam by Whitelisting Domains in Apple Mail for Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-repairing-code-0x0000004e-on-pcs/"><u>Step-by-Step: Repairing Code 0X0000004E on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-laptop-studio-review-the-quest-for-perfection-continues/"><u>Surface Laptop Studio Review: The Quest for Perfection Continues</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-savers-a-guide-to-win11/"><u>Tailoring Screen Savers: A Guide to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-convenience-of-uwp-shortcuts-in-windows-11/"><u>The Convenience of UWP Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/whats-behind-yourphoneexe-in-modern-windows-systems/"><u>What's Behind YourPhone.exe in Modern Windows Systems?</u></a></li>
+</ul></div>
 
