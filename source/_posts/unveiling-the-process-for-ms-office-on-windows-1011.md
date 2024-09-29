@@ -117,50 +117,7 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-dual-display-dominance-top-videographer-verdict-for-2024/"><u>[New] Dual Display Dominance  Top Videographer Verdict for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-gamers-pathway-to-impeccable-recordings/"><u>[New] In 2024, Gamers' Pathway to Impeccable Recordings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-engagement-strategic-use-of-youtube-titles/"><u>[Updated] 2024 Approved  Elevating Engagement  Strategic Use of Youtube Titles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-luster-leads-transformative-techniques-for-videos/"><u>[Updated] 2024 Approved  Luster Leads  Transformative Techniques for Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premium-top-5-budget-friendly-chromeos-recorders/"><u>[Updated] In 2024, Premium Top 5 Budget-Friendly ChromeOS Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-your-digital-footprint-the-ultimate-screen-recording-manual-for-2024/"><u>[Updated] Streamline Your Digital Footprint  The Ultimate Screen Recording Manual for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1-mastering-invisible-cell-duplication-a-step-by-step-guide-to-copying-and-pasting-hidden-data-in-excel/"><u>1. Mastering Invisible Cell Duplication: A Step-by-Step Guide to Copying and Pasting Hidden Data in Excel</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-premier-mac-gif-capturer-pro/"><u>2024 Approved  Premier Mac GIF Capturer Pro</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>A Closer Look at the Metaverse  6 Deep-Dive Examples Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/adding-the-windows-calculator-button-on-your-microsoft-excel-2013-quick-access-toolbar-a-comprehensive-tutorial/"><u>Adding the Windows Calculator Button on Your Microsoft Excel 2013 Quick Access Toolbar - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-tech-evaluations-by-toms-hardware-experts/"><u>Comprehensive Computer Tech Evaluations by Tom's Hardware Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-applying-if-and-or-xor-not-functions-in-microsoft-excel/"><u>Comprehensive Guide to Applying IF, AND, OR, XOR, Not Functions in Microsoft Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-tutorial-on-implementing-the-countif-feature-in-ms-excel-for-data-analysis/"><u>Comprehensive Tutorial on Implementing the COUNTIF Feature in MS Excel for Data Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/concealing-tabs-and-full-workbook-data-a-guide-to-privacy-in-microsoft-excel/"><u>Concealing Tabs and Full Workbook Data: A Guide to Privacy in Microsoft Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-essential-microsoft-excel-functions-a-comprehensive-guide/"><u>Discovering Essential Microsoft Excel Functions: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-to-define-excel-cell-value-constraints-min-and-max-techniques/"><u>Easy Steps to Define Excel Cell Value Constraints: Min and Max Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-removing-extra-spaces-with-excels-trim-function-essential-techniques-for-microsoft-excel-users/"><u>Efficiently Removing Extra Spaces with Excel's TRIM Function - Essential Techniques for Microsoft Excel Users</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-calculation-tricks-utilizing-the-paste-special-tool-for-summation-and-product-operations-in-ms-excel/"><u>Effortless Calculation Tricks: Utilizing the Paste Special Tool for Summation & Product Operations in MS Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-excel-visualizations-adding-personalized-data-labels-easily/"><u>Enhance Your Excel Visualizations: Adding Personalized Data Labels Easily!</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-formula-integrity-in-excel-spreadsheets-top-tips-and-techniques/"><u>Ensuring Formula Integrity in Excel Spreadsheets: Top Tips and Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-enhancement-tips-discover-the-7-unique-tools-often-ignored-by-users/"><u>Excel Enhancement Tips: Discover the 7 Unique Tools Often Ignored by Users</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-essentials-unlocking-efficiency-with-the-xlookup-function-demystified/"><u>Excel Essentials: Unlocking Efficiency with the XLOOKUP Function Demystified</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-whats-new-in-microsoft-office-2024-unveiling-key-features-and-enhancements/"><u>Explore What’s New in Microsoft Office 2024: Unveiling Key Features and Enhancements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-mfsx-2020-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How To Stop MFSX 2020 From Continuously Crashing On Your PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-google-elevates-linguistics-with-its-newly-launched-palm-2-model/"><u>How Google Elevates Linguistics with Its Newly Launched PaLM 2 Model</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-steer-clear-of-key-blunders-in-microsoft-excel-insight-on-6-frequent-missteps-and-their-solutions/"><u>How to Steer Clear of Key Blunders in Microsoft Excel: Insight on 6 Frequent Missteps and Their Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-mystery-of-iphone-based-podcast-access/"><u>In 2024, Unraveling the Mystery of iPhone-Based Podcast Access</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-tailoring-your-own-spreadsheets-in-excel-easily/"><u>Master the Art of Tailoring Your Own Spreadsheets in Excel Easily!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-excel-functionality-how-to-insert-text-data-into-a-cell-via-formula/"><u>Mastering Excel Functionality: How To Insert Text Data Into A Cell Via Formula</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-excel-a-step-by-step-guide-to-utilizing-the-rank-function/"><u>Mastering Excel: A Step-by-Step Guide to Utilizing the RANK Function</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-excels-in-app-stock-tracking-a-comprehensive-guide/"><u>Mastering Excel's In-App Stock Tracking: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-excel-a-complete-guide-to-utilizing-the-fv-formula/"><u>Mastering Microsoft Excel: A Complete Guide to Utilizing the FV Formula</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-office-unlocking-the-power-of-ink-functionality/"><u>Mastering Microsoft Office: Unlocking the Power of Ink Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-open365-your-step-by-step-manual-on-leveraging-an-open-source-replacement-for-office-365-services/"><u>Mastering Open365 - Your Step-by-Step Manual on Leveraging an Open Source Replacement for Office 365 Services</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-bar-graphs-in-ms-excel-a-comprehensive-tutorial/"><u>Mastering the Art of Bar Graphs in MS Excel: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-checkbox-counting-in-ms-excel-worksheets/"><u>Mastering the Art of Checkbox Counting in MS Excel Worksheets</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-explorers-guide-6-steps-to-property-expertise/"><u>The Explorer's Guide: 6 Steps to Property Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-ai-capabilities-with-copilot-pro-in-your-ms-office-suite/"><u>Unleashing AI Capabilities with Copilot Pro in Your MS Office Suite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-immersing-in-your-favorite-talk-shows-for-2024/"><u>Unlock the Power of Podcasts  15 Task-Filled Activities to Do While Immersing in Your Favorite Talk Shows for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-s-demystified-understanding-its-special-editions-and-key-variations-from-the-standard-os/"><u>Windows 11 S Demystified: Understanding Its Special Editions and Key Variations From the Standard OS</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

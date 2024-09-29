@@ -124,20 +124,7 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/mkvmp3/"><u>完全ガイド：MKV形式のビデオから高品質なMP3音声ファイルへの変換手順</u></a></li>
-<li><a href="https://win11.techidaily.com/iuacgombqeobquodkplusodhplusocquoduplusocquodvoodhplusocoplusocquodleocoeocpoodqplusobrueiuuiqjeobqpluswheimgshjgrpjg7zjg4fjg4pjgqjg4hjgqfjg4pjgqvjg7zmjqjlp77/"><u>最適なビデオ・オーディオファイルの確認に必要!コーデックチェッカー推奨:映像･音声用</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-reno-10-proplus-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo Reno 10 Pro+ 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/diy-method-for-moving-memories-from-vhs-to-dvd-format-with-simple-pc-tricks/"><u>DIY Method for Moving Memories From VHS to DVD Format with Simple PC Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-techniques-for-transforming-flv-media-files-into-streamlined-mp4s/"><u>Effortless Techniques for Transforming FLV Media Files Into Streamlined MP4s</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhancing-zoom-sessions-with-video-filters-a-guide/"><u>Enhancing Zoom Sessions with Video Filters A Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixed-how-to-deal-with-frequent-ark-application-failures/"><u>Fixed! How to Deal with Frequent ARK Application Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/free-guide-converting-wma-audio-files-to-m4a-format-using-windows/"><u>Free Guide: Converting WMA Audio Files to M4A Format Using Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi K70E Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/pcdvd/"><u>PCやスマートフォンに移行できるDVDへのビデオコピー手順</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

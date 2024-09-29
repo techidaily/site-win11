@@ -154,22 +154,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-full-story-on-instagrams-video-length/"><u>[New] 2024 Approved The Full Story on Instagram's Video Length</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-6-awesome-free-webcam-games-for-computer-for-2024/"><u>[New] 6 Awesome Free Webcam Games for Computer for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solved-logitech-k520-keyboard-not-working-quickly-and-easily/"><u>[SOLVED] Logitech K520 Keyboard Not Working | Quickly & Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-como-tomar-fotografias-profesionales-usando-tu-pc-tres-metodos-utiles/"><u>1. Cómo Tomar Fotografías Profesionales Usando Tu PC: Tres Métodos Útiles</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/boosting-your-businesss-productivity-with-top-fb-planners/"><u>Boosting Your Business's Productivity with Top FB Planners</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-unique-screencaps-for-win11/"><u>Crafting Unique Screencaps for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-restore-distribution-and-catroot2-in-ws11/"><u>Efficiently Restore Distribution & Catroot2 in WS11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-0xc004f050-from-windows-update/"><u>Eliminating Error 0XC004F050 From Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/gentle-resting-practices-for-your-pc/"><u>Gentle Resting Practices for Your PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-photo-the-leading-6-4k-dslr-cameras-of-the-year/"><u>In 2024, Pinnacle Photo The Leading 6 4K DSLR Cameras of the Year</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-ways-to-document-your-digital-collaboration-sessions/"><u>Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

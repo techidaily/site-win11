@@ -78,16 +78,7 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-excellent-video-recorders-for-desktops/"><u>[New] 2024 Approved Excellent Video Recorders for Desktops</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-journey-of-trust-a-guide-to-becoming-a-verified-discord-partner-for-2024/"><u>[New] The Journey of Trust A Guide to Becoming a Verified Discord Partner for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>[Updated] Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-0x803f8001-on-your-minecraft-launcher-easy-solutions-for-windows-1110-gamers/"><u>Error Code 0X803f8001 on Your Minecraft Launcher? Easy Solutions for Windows 11/10 Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-printer-access-management-on-windows-11/"><u>Mastering Printer Access Management on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-active-windows-11-context-menus/"><u>Restoring Active Windows 11 Context Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-want-current-pass-window-error/"><u>Unlocking the ‘Want Current Pass’ Window Error</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

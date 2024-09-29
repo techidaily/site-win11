@@ -106,22 +106,7 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
  With this guide, you will remove an extra step when accessing the D: drive on your Windows computer. Once you have created the registry files, adding and removing the D: drive from the Navigation pane will be easy. While the registry files are safe, don’t forget to create a backup of your Registry or a system restore point for good measure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-inquiry-into-youtubes-monetary-frequency/"><u>[New] In 2024, Inquiry Into YouTube's Monetary Frequency</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-sword-and-shield-the-ultimate-10-game-collection/"><u>[New] In 2024, Sword and Shield The Ultimate 10-Game Collection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-keeping-content-copyright-compliant-with-instra-watermarking/"><u>[New] Keeping Content Copyright-Compliant with Instra Watermarking</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-xsplit-expertise-centralized-downloads-and-views/"><u>[Updated] XSplit Expertise Centralized Downloads & Views</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-xs-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone XS Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-errorinvalidargument-in-wsl-subsystem-windows/"><u>Conquering ERROR_INVALID_ARGUMENT in WSL Subsystem Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-comics-layout-for-win11-users/"><u>Deciphering Comics Layout for Win11 Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-12-mini-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 12 mini without Apple ID?</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-code-error-0x80072f8f/"><u>Overcoming Windows Code Error: 0X80072f8f</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-launch-wordpad-on-windows-pc/"><u>Step-by-Step: Launch WordPad on Windows PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-resource-for-finding-downloading-and-installing-atheros-drivers-for-windows-operating-systems/"><u>The Ultimate Resource for Finding, Downloading, and Installing Atheros Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-task-manager-capabilities-advanced-filters-and-dynamic-theme-options-windows-11/"><u>Unlock Full Task Manager Capabilities: Advanced Filters & Dynamic Theme Options (Windows 11)</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-when-your-outlook-stays-in-safe-mode/"><u>What To Do When Your Outlook Stays in Safe Mode</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

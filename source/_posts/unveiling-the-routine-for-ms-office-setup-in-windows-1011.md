@@ -78,23 +78,7 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-biscuit-broadcast-expert-review-of-frosty-film-recorder/"><u>[New] In 2024, Biscuit Broadcast Expert Review of Frosty Film Recorder</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-venn-of-virtuality-metaverse-and-multiverse-analysis-for-2024/"><u>[Updated] The Venn of Virtuality Metaverse & Multiverse Analysis for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-future-of-gaming-with-xbox-vr-projected-costs-and-debut-timeline-unveiled/"><u>Exploring the Future of Gaming with Xbox VR - Projected Costs and Debut Timeline Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-skyrims-perpetual-preloading-problem-on-your-system/"><u>How to Resolve Skyrim's Perpetual Preloading Problem on Your System</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-12-pro-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 12 Pro 4G to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-s23-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy S23 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-recruitment-powerhouses-top-ten-shorts/"><u>In 2024, Recruitment Powerhouses - Top Ten Shorts</u></a></li>
-<li><a href="https://win11.techidaily.com/installation-guide-for-enhancing-security-of-edge-with-defender-aguard/"><u>Installation Guide for Enhancing Security of Edge with Defender Aguard</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-outlook-alert-mechanisms-on-pcs/"><u>Mastering Microsoft Outlook Alert Mechanisms on PCs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-podcasts-incorporating-audio-in-powerpoint-slides-for-2024/"><u>Mastering Podcasts Incorporating Audio in PowerPoint Slides for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-your-notepad-experience-with-windows-theme-tweaks/"><u>Maximizing Your Notepad Experience with Windows Theme Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-windows-resource-intensity-due-to-unrealcefsubprocess/"><u>Minimizing Windows' Resource Intensity Due to UnrealCEFSubprocess</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-store-trouble-fix-for-error-x80072f17/"><u>Tackling Windows Store Trouble: Fix for Error X80072F17</u></a></li>
-<li><a href="https://win11.techidaily.com/the-leap-from-w10-to-w11-major-os-overhauls-revealed/"><u>The Leap From W10 to W11: Major OS Overhauls Revealed</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

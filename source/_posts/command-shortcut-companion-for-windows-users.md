@@ -158,58 +158,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-dynamic-collab-videos-with-content-partners-on-youtube/"><u>[New] In 2024, Crafting Dynamic Collab Videos with Content Partners on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-comprehensive-blueprint-for-capturing-whatsapp-calls/"><u>[Updated] 2024 Approved  The Comprehensive Blueprint for Capturing WhatsApp Calls</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>[Updated] Capturing Clarity  Best Practices for iPhone Photo Cropping</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-guide-video-recording-with-vlc-for-2024/"><u>[Updated] Essential Guide  Video Recording with VLC for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-compreeved-guide-youtube-to-mp3mpeg-transcoding/"><u>[Updated] In 2024, Compreeved Guide  YouTube to MP3/MPEG Transcoding</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-revenue-building-for-youtube-creators-for-2024/"><u>[Updated] Step-by-Step Revenue Building for YouTube Creators for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>2024 Approved  A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-jovial-media-grabber-critique/"><u>2024 Approved  Jovial Media Grabber Critique</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-optimal-home-theater-choosing-the-right-3d-blu-ray-devices/"><u>2024 Approved  Optimal Home Theater  Choosing the Right 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-visionplay-app-feedback-summary/"><u>2024 Approved  VisionPlay App Feedback Summary</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-s23-ultra-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy S23 Ultra PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>Best of Both Worlds  Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-user-management-in-windows-cmd/"><u>Comprehensive Guide to User Management in Windows CMD</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-xc0351000-finding-the-absent-hypervisor/"><u>Correcting XC0351000: Finding the Absent Hypervisor</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-batch-execution-with-task-scheduler/"><u>Effortless Batch Execution with Task Scheduler</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-iis-manager-entry/"><u>Essential Tips for IIS Manager Entry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-setup-guide-to-capture-high-quality-video-using-logitech-camera-for-2024/"><u>Expert Setup Guide to Capture High-Quality Video Using Logitech Camera for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/get-chrome-back-in-windows-11-quick-recovery-methods/"><u>Get Chrome Back in Windows 11 – Quick Recovery Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ready-for-ps5-slim-inside-information-on-when-it-hits-shelves-price-tags-and-features/"><u>Get Ready for PS5 Slim - Inside Information on When It Hits Shelves, Price Tags & Features</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 8 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-hot-30i-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Hot 30i</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 6s Plus?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-f15-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy F15 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/invisible-input-concealing-commands-in-windows-11-ui/"><u>Invisible Input: Concealing Commands in Windows 11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-connectivity-issues-for-spotify-on-windows-11/"><u>Mastering Connectivity Issues for Spotify on Windows 11</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/mastering-the-preview-process-of-your-website-content-before-upload/"><u>Mastering the Preview Process of Your Website Content Before Upload</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-unpredicted-error-messages/"><u>Mastering the Resolution of Unpredicted Error Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-win11s-cursor-anomalies-a-decades-insight/"><u>Mastering Win11's Cursor Anomalies: A Decade's Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-uninstall-win11-microsoft-store/"><u>Methods to Uninstall Win11 Microsoft Store</u></a></li>
-<li><a href="https://fox-info.techidaily.com/must-haves-for-capturing-movies-on-the-move/"><u>Must-Haves for Capturing Movies on the Move</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-without-automation-time-zone-fixes-for-windows/"><u>Navigate Without Automation: Time Zone Fixes for Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators/"><u>New In 2024, From Snapshots to Masterpieces Best Online Photo and Video Collage Creators</u></a></li>
-<li><a href="https://win11.techidaily.com/no-ink-just-notes-best-desktop-notepad-substitutes-on-windows/"><u>No Ink, Just Notes: Best Desktop Notepad Substitutes on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-stuck-at-error-e8024002e/"><u>Quick Fixes for Windows Stuck at Error E:8024002E</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-corrupted-files-with-a-faulty-bin-on-windows-11/"><u>Rectifying Corrupted Files with a Faulty Bin on WIndows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-your-desktop-with-dynamic-backgrounds/"><u>Redefining Your Desktop with Dynamic Backgrounds</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-inoperative-clipboard-mechanism-win-11/"><u>Resolving Inoperative Clipboard Mechanism Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-steam-games-images-in-windows/"><u>Restoring Lost Steam Games Images in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-standard-plans-for-windows-11-battery-use/"><u>Restoring Standard Plans for Windows 11 Battery Use</u></a></li>
-<li><a href="https://win11.techidaily.com/six-secrets-to-temporarily-halt-updates-on-your-pc/"><u>Six Secrets to Temporarily Halt Updates on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-turn-onoff-handwriting-on-windows-pcs/"><u>Step-by-Step Guide: Turn On/Off Handwriting on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-immediate-reopening-of-battlenet-interface/"><u>Strategies for Immediate Reopening of Battle.net Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-pathway-creating-personalized-pin-patterns-on-windows/"><u>The Insider's Pathway: Creating Personalized Pin Patterns on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-enabling-fingerwriting-on-pcs/"><u>The Ultimate Guide: Enabling Fingerwriting on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-resource-roundup-top-free-must-haves-for-win11/"><u>The Ultimate Resource Roundup: Top Free Must-Haves for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/three-approaches-to-test-windows-11-activation/"><u>Three Approaches to Test Windows 11 Activation</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-disconnected-steam-contacts-w11/"><u>Troubleshooting Disconnected Steam Contacts W11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-text-display-error-in-windows-11-resource/"><u>Troubleshooting Text Display Error in Windows 11 Resource</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

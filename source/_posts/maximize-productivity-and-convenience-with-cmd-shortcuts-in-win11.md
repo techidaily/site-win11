@@ -169,24 +169,7 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-a-tweet-to-snap-showcase-video-posting-techniques-for-2024/"><u>[New] A Tweet-to-Snap Showcase Video Posting Techniques for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-first-step-into-furnishings-simplest-mc-houses-unveiled-for-2024/"><u>[New] First Step Into Furnishings Simplest MC Houses Unveiled for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-discovering-vector-images-a-beginners-overview-of-categories/"><u>[Updated] In 2024, Discovering Vector Images A Beginner’s Overview of Categories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>2024 Approved Midnight Tales in Motion Evaluating Parental Choices for Kids</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cutting-through-wi-fi-barriers-an-expert-analysis-of-the-amplifi-hd-mesh-network-reviews/"><u>Cutting Through Wi-Fi Barriers: An Expert Analysis of the Amplifi HD Mesh Network Reviews</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-refine-user-access-in-windows-environment/"><u>Guidelines to Refine User Access in Windows Environment</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-extended-motion-systems-appraisal/"><u>In 2024, Extended Motion Systems Appraisal</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-13c-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi 13C Phones? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/network-fixation-six-easy-ways-to-get-windows-network-hardware-working-again/"><u>Network Fixation: Six Easy Ways to Get Windows Network Hardware Working Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sleuth-through-cyberspace-discover-4-immersive-ai-game-challenges/"><u>Sleuth Through Cyberspace: Discover 4 Immersive AI Game Challenges</u></a></li>
-<li><a href="https://win11.techidaily.com/sleuthing-out-stealthy-cyber-menaces-on-pcs/"><u>Sleuthing Out Stealthy Cyber Menaces on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/stealth-mode-abscond-with-taskview-icon/"><u>Stealth Mode: Abscond with TaskView Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-wi-fi-connectivity-issues-in-winmc-minecraft/"><u>Tackling Wi-Fi Connectivity Issues in WinMC Minecraft</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-the-mechanism-of-winos-gpu-ordering-suspension/"><u>Understanding the Mechanism of WinOS GPU Ordering Suspension</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-best-weather-app-picks-compiled/"><u>Window's Best Weather App Picks, Compiled</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

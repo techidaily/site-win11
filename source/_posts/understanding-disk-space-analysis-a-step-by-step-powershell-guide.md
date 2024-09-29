@@ -132,22 +132,5 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-listenguide-review/"><u>[Updated] 2024 Approved ListenGuide Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-dual-angles-debate-vertical-vs-horizontal-fb-videos/"><u>2024 Approved Dual Angles Debate Vertical vs Horizontal FB Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-dji-4k-video-editors-compared-expert-reviews-and-ratings/"><u>Best DJI 4K Video Editors Compared – Expert Reviews and Ratings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-guidance-on-computer-components-with-toms-gear-guide/"><u>Expert Guidance on Computer Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-troubleshooting-tiktok-ensuring-smooth-video-playback/"><u>In 2024, Troubleshooting TikTok Ensuring Smooth Video Playback</u></a></li>
-<li><a href="https://fox-access.techidaily.com/instantaneous-windows-image-player-for-2024/"><u>Instantaneous Windows Image Player for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/spread-the-word-the-ultimate-complimentary-blackberry-video-conversion-toolkit/"><u>Spread the Word: The Ultimate Complimentary BlackBerry Video Conversion Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mkv-files-into-avi-format-using-vlc-media-player/"><u>Step-by-Step Guide: Converting MKV Files Into AVI Format Using VLC Media Player</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-extracting-videos-from-your-dvds/"><u>Step-by-Step Guide: Extracting Videos From Your DVDs</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-opening-and-streaming-mkv-videos-directly-on-your-chrome-web-browser/"><u>Step-by-Step Guide: Opening & Streaming .mkv Videos Directly on Your Chrome Web Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-streaming-mkv-video-formats-on-your-ios-device/"><u>Step-by-Step Guide: Streaming MKV Video Formats on Your iOS Device</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mp4-videos-to-high-quality-wav-files-with-ffmpeg/"><u>Step-by-Step Guide] Converting MP4 Videos to High-Quality WAV Files with FFmpeg</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-solving-the-issue-of-unsuccessful-webm-file-imports-into-adobe-premiere-pro/"><u>Troubleshooting Guide: Solving the Issue of Unsuccessful WebM File Imports Into Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-worlds-reimagined-the-most-spectacular-sci-fi-films-of-the-metaverse-era/"><u>Virtual Worlds Reimagined The Most Spectacular Sci-Fi Films of the Metaverse Era</u></a></li>
-</ul></div>
+
 

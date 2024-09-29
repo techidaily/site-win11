@@ -159,44 +159,7 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-asynchronous-programming-in-javascript/"><u>[New] 2024 Approved  Harnessing the Power of Asynchronous Programming in JavaScript</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-much-does-pewdiepie-make/"><u>[New] How Much Does PewDiePie Make</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-spectrum-adjuster/"><u>[Updated] In 2024, Optimal Spectrum Adjuster</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instantly-examine-windows-documents-efficiently/"><u>2024 Approved  Instantly Examine Windows Documents Efficiently</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemasters-journey-through-seamless-segmentation/"><u>2024 Approved  Kinemaster's Journey Through Seamless Segmentation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-outro-designs-ending-credits-for-every-budget/"><u>2024 Approved  Outro Designs  Ending Credits for Every Budget</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategic-hashing-techniques-for-success-in-youtube-game-vids/"><u>2024 Approved  Strategic Hashing Techniques for Success in YouTube Game Vids</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-gt-3-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-code-0xa00f4289-webcam-glitches-on-win1011/"><u>Correcting Code 0xA00F4289: Webcam Glitches on Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-enhancing-non-working-windows-batch-files/"><u>Deciphering and Enhancing Non-Working Windows Batch Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/editors-choice-the-ultimate-list-of-6-journaling-tools-online-and-offline/"><u>Editors' Choice: The Ultimate List of 6 Journaling Tools Online and Offline</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-disk-capacity-in-windows-7-best-no-cost-techniques/"><u>Elevate Disk Capacity in Windows - 7 Best No-Cost Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-rectify-missing-windows-component/"><u>Essential Steps to Rectify Missing Windows Component</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-take-on-camstudios-recorder-efficacy-for-2024/"><u>Expert Take on CamStudio's Recorder Efficacy for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-code-31-for-your-pcs-internet-connection/"><u>Fixing Error Code 31 for Your PC's Internet Connection</u></a></li>
-<li><a href="https://win11.techidaily.com/granting-admin-access-to-win11s-task-manager/"><u>Granting Admin Access to Win11's Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-you-through-the-admin-access-passway/"><u>Guiding You Through the Admin Access Passway</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-brand-your-youtube-channel-to-get-more-subscribers/"><u>How to Brand Your YouTube Channel to Get More Subscribers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-cooking-chronicles-video-production-insights/"><u>In 2024, Cooking Chronicles  Video Production Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-virtual-frontier-googles-cardboard-meets-samsung-gear/"><u>In 2024, Exploring the Virtual Frontier  Google's Cardboard Meets Samsung Gear</u></a></li>
-<li><a href="https://win11.techidaily.com/intuitive-setup-techniques-for-desktop-icons-in-windows-11/"><u>Intuitive Setup Techniques for Desktop Icons in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-tech-legacy-for-windows-11-22h2-compatibility/"><u>Jumpstart Tech Legacy for Windows 11 22H2 Compatibility</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-winsminecrafts-lan-play-functionality/"><u>Mastering WinsMinecraft's LAN Play Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-non-deletable-keys-on-microsoft-platforms/"><u>Repairing Non-Deletable Keys on Microsoft Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/risk-averse-approach-foregoing-bots-for-win-11-authentication/"><u>Risk-Averse Approach: Foregoing Bots for Win 11 Authentication</u></a></li>
-<li><a href="https://win11.techidaily.com/sticky-ideas-on-screens-essential-notes-apps-for-windows-users/"><u>Sticky Ideas on Screens: Essential Notes Apps for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-avoid-print-server-communication-failures/"><u>Strategies to Avoid Print Server Communication Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/stripping-decorative-elements-from-window-search-ui/"><u>Stripping Decorative Elements From Window Search UI</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-errors-forbidden-explained/"><u>Tackling Windows Errors: Forbidden Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-skyrocket-your-productivity-on-windows-11-or-11/"><u>The 5 Best Apps to Skyrocket Your Productivity on Windows 11 or 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-windows-display-duration-manual/"><u>The Complete Windows Display Duration Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/the-comprehensive-blueprint-for-addressing-directdraw-errors-on-windows-1011/"><u>The Comprehensive Blueprint for Addressing DirectDraw Errors on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-control-of-windows-key-using-these-tips/"><u>Unlock Full Control of Windows Key Using These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-disks-easy-steps-in-w10w11/"><u>Unlocking Your Disks: Easy Steps in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/zoning-out-realign-your-mouse-wheel-now-7-steps/"><u>Zoning Out? Realign Your Mouse Wheel Now! (7 Steps)</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

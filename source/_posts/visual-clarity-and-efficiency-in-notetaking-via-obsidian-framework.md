@@ -188,19 +188,7 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] In 2024, Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-8-iphonecomputer-apps-for-seamless-video-editing/"><u>[New] Top 8 iPhone/Computer Apps for Seamless Video Editing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-audacity-audio-basics-for-new-mac-users/"><u>[Updated] Audacity Audio Basics for New Mac Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-invalid-response-error-on-steam/"><u>Eliminating Invalid Response Error on Steam</u></a></li>
-<li><a href="https://win11.techidaily.com/give-your-windows-mail-and-calendar-apps-a-cool-look-with-your-favorite-pictures/"><u>Give Your Windows Mail and Calendar Apps a Cool Look With Your Favorite Pictures</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-frozen-intellij-unison-app-on-your-win11-pc/"><u>How to Fix a Frozen IntelliJ Unison App on Your Win11 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994531491-pc-gamers-rejoice-as-wrath-of-the-righteous-pathfinder-glitches-are-resolved/"><u>PC Gamers Rejoice as 'Wrath of the Righteous' Pathfinder Glitches Are Resolved</u></a></li>
-<li><a href="https://howto.techidaily.com/1723262390859-score-big-on-the-alienware-aurora-r16-save-200-and-enjoy-next-gen-performance-with-intel-core-i7-and-rtx-4070/"><u>Score Big on the Alienware Aurora R16: Save $200 & Enjoy Next-Gen Performance With Intel Core I7 and RTX 4070!</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-hidden-mastering-dark-modes-in-notepad-win-11-edition/"><u>Unlock the Hidden: Mastering Dark Modes in Notepad, Win 11 Edition</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

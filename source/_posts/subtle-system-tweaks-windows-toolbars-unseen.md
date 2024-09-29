@@ -119,49 +119,7 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[New] Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>[New] Softening Sonic Surge  Gradual Volume Reduction Tutorial</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-instant-access-extract-and-save-fb-videos-as-mp4s/"><u>[Updated] 2024 Approved  Instant Access  Extract and Save FB Videos as MP4s</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-self-portraits-iphones-burst-capability/"><u>[Updated] Perfecting Self-Portraits  IPhone's Burst Capability</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-sound-transmitter-for-casters/"><u>[Updated] Precision Sound Transmitter for Casters</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-optical-character-recognition-ocr-understanding-image-based-text-capture-with-copernic-software/"><u>A Deep Dive Into Optical Character Recognition (OCR): Understanding Image-Based Text Capture with Copernic Software</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-pc-conflicts-with-pct-guide/"><u>Conquer PC Conflicts with PCT Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-disabling-the-mystery-of-0x8007045d-on-windows-11/"><u>Decoding and Disabling the Mystery of 0X8007045d on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-how-to-leverage-copernic-for-efficient-cloud-storage-searches/"><u>Discover How to Leverage Copernic for Efficient Cloud Storage Searches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-your-fifa-22-gameplay-tips-to-prevent-crashing-on-desktop-systems/"><u>Enhance Your FIFA 22 Gameplay: Tips to Prevent Crashing on Desktop Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-integrating-msixbundle-and-msix-extensions-into-windows/"><u>Essential Guide: Integrating Msixbundle & MSIX Extensions Into Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/expert-tips-to-download-and-save-instagram-media-from-your-computer/"><u>Expert Tips to Download and Save Instagram Media From Your Computer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exploring-premium-9-digital-mic-capture-tools/"><u>Exploring Premium 9 Digital Mic Capture Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/family-fortification-the-top-5-corrections-for-safe-haven/"><u>Family Fortification: The Top 5 Corrections for Safe Haven</u></a></li>
-<li><a href="https://win11.techidaily.com/find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search</u></a></li>
-<li><a href="https://win11.techidaily.com/1723809008305-find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search!</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-steams-unauthorized-files-problem-in-win11/"><u>Fixing Steam's Unauthorized Files Problem in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-printer-id-clashes-in-windows/"><u>Handling Printer ID Clashes in Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-70-lite-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor 70 Lite 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correctly-handle-read-only-folders-on-windows/"><u>How to Correctly Handle Read-Only Folders on Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s24-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S24 FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-pro-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 Pro 4G Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/linux-flourish-windows-subsystem-effect/"><u>Linux Flourish: Windows Subsystem Effect?</u></a></li>
-<li><a href="https://win11.techidaily.com/1723809006534-mastering-social-media-growth-with-seamless-menu-expand-functions-on-fb-li-yt-top-level-navigation-essentials/"><u>Mastering Social Media Growth with Seamless Menu Expand Functions on FB, LI, YT - Top-Level Navigation Essentials!</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-fixing-windows-1011-filesystem-issues/"><u>Navigating and Fixing Windows 10/11 Filesystem Issues</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mavericks-video-production-from-start-to-finish/"><u>New In 2024, Mavericks Video Production From Start to Finish</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-windows-8-avi-file-editor-simplify-video-editing-for-2024/"><u>New Windows 8 AVI File Editor Simplify Video Editing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-downloads-a-guide-to-the-microsoft-store/"><u>Optimize Your Downloads: A Guide to the Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-round-corners-on-windows-11/"><u>Rectify Round Corners on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-stream-disconnection-in-remote-pc-mode/"><u>Resolving Stream Disconnection in Remote PC Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/shake-off-frozen-clicks-top-6-tips-for-windows-users/"><u>Shake Off Frozen Clicks: Top 6 Tips for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-output-5-essential-windows-productivity-hacks/"><u>Skyrocketing Output: 5 Essential Windows Productivity Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-win11-cc-troubleshooting-made-easy/"><u>Step-by-Step Guide: Win11 CC Troubleshooting Made Easy</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-document-discovery-using-copernics-expert-text-search-features-for-professionals/"><u>Streamline Document Discovery Using Copernic's Expert Text Search Features for Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/the-stranded-site-stories-seven-windows-workarounds-for-access-issues/"><u>The Stranded Site Stories: Seven Windows Workarounds for Access Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-10-editor-di-video-per-computer-scopri-i-programmi-piu-ottimi/"><u>Top 10 Editor Di Video per Computer: Scopri I Programmi Più Ottimi</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-to-virtualbox-70-on-windows-11-your-ultimate-walkthrough/"><u>Transitioning to VirtualBox 7.0 on Windows 11 – Your Ultimate Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-adjusting-creation-and-modification-dates-in-windows/"><u>Understanding and Adjusting Creation & Modification Dates in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-11-potential-mastering-the-run-command-enhancement/"><u>Unlock Windows 11 Potential: Mastering the Run Command Enhancement</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fixes-overcoming-firefox-page-load-issues-in-windows/"><u>Win Fixes: Overcoming Firefox Page Load Issues in Windows</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

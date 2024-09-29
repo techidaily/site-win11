@@ -163,19 +163,7 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-small-businesss-safest-video-conferencing-top-picks/"><u>2024 Approved Small Business's Safest Video Conferencing Top Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/delaying-windows-10-close-out-keep-running-programs-active/"><u>Delaying Windows 10 Close-Out: Keep Running Programs Active</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-data-reducing-high-cpu-usage-with-resource-monitor/"><u>Dive Into Data: Reducing High CPU Usage with Resource Monitor</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>In 2024, Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/livestream-luminaries-clash-for-2024/"><u>Livestream Luminaries Clash for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-dimming-features-in-windows-power-settings/"><u>Mastering Dimming Features in Windows Power Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-applications-of-vcplusplus-release/"><u>Unveiling the Applications of VC++ Release</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-ultimate-youtube-video-gear-top-rated-cameras-and-lenses-for-2024/"><u>Your Ultimate YouTube Video Gear Top-Rated Cameras and Lenses for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

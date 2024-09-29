@@ -101,46 +101,7 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-shadow-surge-and-sun-sweep-encounter/"><u>[New] Shadow Surge and Sun Sweep Encounter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-shift-video-techniques-mastering-transitions/"><u>[Updated] Quick-Shift Video Techniques  Mastering Transitions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-expressive-faces-with-motion-blur-in-picsart/"><u>2024 Approved  Expressive Faces with Motion Blur in Picsart</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-optimizing-engagement-on-instagram-with-youtube-story-features/"><u>2024 Approved  Optimizing Engagement on Instagram with YouTube Story Features</u></a></li>
-<li><a href="https://win11.techidaily.com/6-effective-techniques-to-resurrect-off-screen-windows-in-windows-11/"><u>6 Effective Techniques to Resurrect Off-Screen Windows in Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facesavedownloader-suite-mobile-pc/"><u>FaceSaveDownloader Suite (Mobile, PC)</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-repairing-disk-errors-issue-on-windows/"><u>How to Fix the Repairing Disk Errors Issue on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-1111/"><u>How to Install Dolby Atmos in Windows 11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-solution-for-frozen-keys-in-snipping-tool/"><u>Immediate Solution for Frozen Keys in Snipping Tool</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-mcb-theme-images-templates-and-more/"><u>In 2024, Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-app-for-android-complete-review/"><u>In 2024, KineMaster App for Android - Complete Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-majestic-visual-chronicles-compiler-suite/"><u>In 2024, Majestic Visual Chronicles Compiler Suite</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>In 2024, Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi 12 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lava-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lava FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-windows-11-registry-file-layout/"><u>Mastering the Windows 11 Registry File Layout</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-savings-with-windows-11-pro-secure-top-deals/"><u>Maximize Savings with Windows 11 Pro: Secure Top Deals</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-the-maze-of-unspecified-obs-error-in-windows/"><u>Navigate Through the Maze of Unspecified OBS Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-intelligence-of-microsofts-marketplace/"><u>Navigating the Intelligence of Microsoft's Marketplace</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11s-compatibility-checklist-tool/"><u>Navigating Windows 11'S Compatibility Checklist Tool</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-advertising/"><u>New What Is AI Advertising?</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-functional-shortcuts-cure-errors-in-win-11/"><u>Rectify: Functional Shortcuts - Cure Errors in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-system-call-failure-in-win1011-systems/"><u>Remedying System Call Failure in Win10/11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-a60-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel A60? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/superior-sound-capture-insiders-list-of-the-best-9-microphones-online-for-2024/"><u>Superior Sound Capture  Insider's List of the Best 9 Microphones Online for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-skills-sharpen-your-windows-images-for-2024/"><u>Swift Skills  Sharpen Your Windows Images for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-strategies-for-fixing-dism-error-0x800f082f-in-windows/"><u>Swift Strategies for Fixing DISM Error: 0X800F082F in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-windows-screenshot-feature-to-suit-your-preferences/"><u>Tailor Windows Screenshot Feature to Suit Your Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-collectors-dream-essential-612lifetime-windows-11-deal-awaits/"><u>Tech-Savvy Collectors' Dream: Essential $6.12/Lifetime Windows 11 Deal Awaits</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/"><u>The Art of Merging: Your Guide to Windows Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-for-overcoming-the-msvcr120dll-deficiency-issue/"><u>Tips and Tricks for Overcoming the Msvcr120dll Deficiency Issue</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-9-fixes-for-chromium-browsers-live-streaming-troubles/"><u>Top 9 Fixes for Chromium Browser's Live-Streaming Troubles</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-user-experience-in-windows-11/"><u>Transforming User Experience in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-in-windows-pricing-acquiring-top-product-keys/"><u>Triumph in Windows Pricing: Acquiring Top Product Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/uniting-devices-android-and-windows-with-nearby-share/"><u>Uniting Devices: Android & Windows With Nearby Share</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-solutions-for-error-0x800704b3-in-windows-11-and-11/"><u>Unlocking Solutions for Error 0X800704B3 in Windows 11 & 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/virtual-broadcast-archivers-for-2024/"><u>Virtual Broadcast Archivers for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

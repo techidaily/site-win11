@@ -210,49 +210,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-master-fades-with-ease-4-methods-unveiled/"><u>[New] Master Fades with Ease  4 Methods Unveiled</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-our-picks-for-the-finest-car-dvd-units-for-2024/"><u>[New] Our Picks for the Finest Car DVD Units for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-insiders-guide-to-recording-slideshows-for-2024/"><u>[New] The Insider's Guide to Recording Slideshows for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-3-tactics-to-grab-twitter-gifs-on-pc/"><u>[Updated] 3 Tactics to Grab Twitter GIFs on PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>[Updated] In 2024, Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-and-mastering-instagram-filters-a-2023-guide/"><u>[Updated] Navigating and Mastering Instagram Filters  A 2023 Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-punpixel-the-ultimate-tool-for-digital-humor/"><u>[Updated] PunPixel  The Ultimate Tool for Digital Humor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-easyrecorder-straightforward-windows-10-tool/"><u>2024 Approved  EasyRecorder - Straightforward Windows 10 Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-digital-power-for-maximum-outreach/"><u>2024 Approved  Harnessing Digital Power for Maximum Outreach</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-inaccessible-recycle-bin-status-in-win11/"><u>Correcting Inaccessible Recycle Bin Status in Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-playlist-compiler-android-edition/"><u>Elite Playlist Compiler Android Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-system-monitoring-add-analyzer-to-windows-context-menu/"><u>Enhance System Monitoring: Add Analyzer to Windows Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-security-by-safe-disabling-of-windows-11-features/"><u>Enhancing Security by Safe Disabling of Windows 11 Features</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-system-accessibility-with-elevated-privileges/"><u>Enhancing System Accessibility with Elevated Privileges</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fiscal-footprint-of-the-mr-beast-empire-for-2024/"><u>Fiscal Footprint of the Mr. Beast Empire for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-recurring-garrys-mod-crashes-top-strategies-for-stability/"><u>Fixing the Recurring Garry's Mod Crashes: Top Strategies for Stability</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-breakdown-of-polarr-photo-editors-features/"><u>In 2024, Comprehensive Breakdown of Polarr Photo Editor's Features</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-directory-management-windows-11-techniques/"><u>Mastering Directory Management: Windows 11 Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mend-software-hardware-gap/"><u>Mend Software-Hardware Gap</u></a></li>
-<li><a href="https://win11.techidaily.com/merge-gmail-with-outlook-on-windows-a-detailed-guide/"><u>Merge Gmail with Outlook on Windows: A Detailed Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-top-6-to-do-apps-for-windows/"><u>Navigating the Top 6 To-Do Apps for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/powershell-for-professionals-automated-archive-operations/"><u>PowerShell for Professionals: Automated Archive Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-keyboard-mastery-typingaids-way/"><u>Quick Keyboard Mastery - TypingAid's Way</u></a></li>
-<li><a href="https://win11.techidaily.com/regular-update-reactivating-microsoft-store-on-windows-pcs/"><u>Regular Update: Reactivating Microsoft Store on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-delete-functionality-on-windows-systems/"><u>Reinstating Delete Functionality on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-ms-store-error-code-0x80073d26-on-windows-11-os/"><u>Remedying MS Store Error Code 0X80073D26 on Windows 11 OS</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-honor-100-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor 100</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-12-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme 12 Pro 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-camera-problems-in-windows-like-a-pro/"><u>Solving Camera Problems in Windows Like a Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-unidentified-fingerprint-scanner-errors-in-windows/"><u>Solving Unidentified Fingerprint Scanner Errors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-fix-for-invalid-system-id-alert-in-win11/"><u>Step-by-Step Fix for Invalid System ID Alert in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-remedies-restoring-the-functionality-of-windows-defenders-threat-barrier/"><u>Swift Remedies: Restoring the Functionality of Windows Defender's Threat Barrier</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-active-directory-errors-with-xp-devices/"><u>Troubleshooting Active Directory Errors with XP Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-blocked-app-notification-in-windows/"><u>Troubleshooting Blocked App Notification in Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uncover-your-photos-true-colors-with-picart/"><u>Uncover Your Photo's True Colors with PicArt</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-gaming-potential-directdraw-tips/"><u>Unlocking Windows 11'S Full Gaming Potential: DirectDraw Tips</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-gopro-video-editing-on-mac-made-easy-for-2024/"><u>Updated Unleash Your Creativity GoPro Video Editing on Mac Made Easy for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-vortex-keywords-that-propel-you-into-social-media-spotlight/"><u>Viral Vortex  Keywords that Propel You Into Social Media Spotlight</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-sales-how-does-microsoft-earn/"><u>Windows 11 Sales - How Does Microsoft Earn?</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

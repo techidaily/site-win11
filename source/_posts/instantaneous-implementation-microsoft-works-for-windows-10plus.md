@@ -115,49 +115,7 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-your-complete-breakdown-of-youtube-short-content/"><u>[New] In 2024, Your Complete Breakdown of YouTube Short Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-zooming-in-win11-for-2024/"><u>[New] The Ultimate Guide to Zooming in Win11 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-prolive-vs-showrunner-hub/"><u>[Updated] In 2024, ProLive VS Showrunner Hub</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-securely-extract-and-backup-your-instagram-content-for-2024/"><u>[Updated] Securely Extract and Backup Your Instagram Content for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-strategy-for-boosted-instagram-video-traffic-for-2024/"><u>[Updated] The Ultimate Strategy for Boosted Instagram Video Traffic for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-8-mistakes-to-avoid-as-a-new-youtuber/"><u>2024 Approved  8 Mistakes to Avoid as a New Youtuber</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-all-inclusive-iptv-delivery-systems/"><u>2024 Approved  All-Inclusive IPTV Delivery Systems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/action-to-archive-a-guide-to-top-screen-recording-tools/"><u>Action to Archive  A Guide to Top Screen Recording Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-directdraw-errors-effective-remedies-for-modern-microsoft-oses/"><u>Decoding DirectDraw Errors: Effective Remedies for Modern Microsoft OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/defining-fresh-default-for-windows-pdf-files/"><u>Defining Fresh Default for Windows PDF Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/disable-the-acoustic-enhancements-a-comprehensive-tutorial-for-windows-11-users/"><u>Disable the Acoustic Enhancements: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-power-within-wintoys-an-in-depth-user-friendly-guide-for-windows-os-users/"><u>Discover the Power Within WinToys: An In-Depth, User-Friendly Guide for Windows OS Users</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-slide-show-creation-in-windows-seven-ways-to-go/"><u>Effortless Slide Show Creation in Windows – Seven Ways to Go</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensuring-email-safety-with-google-the-ultimate-guide-to-whitelisting-in-gmail/"><u>Ensuring Email Safety with Google: The Ultimate Guide to Whitelisting in Gmail</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-obstructed-video-feed-from-webcam/"><u>Fixing Obstructed Video Feed From Webcam</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guiding-steps-for-effective-gopro-time-lapse-capture-for-2024/"><u>Guiding Steps for Effective GoPro Time-Lapse Capture for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-delay-windows-10-shutdown-with-running-software-applications/"><u>How to Delay Windows 10 Shutdown with Running Software Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-steams-missing-file-privileges-error-in-windows-11/"><u>How to Fix Steam's Missing File Privileges Error in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-1011/"><u>How to Install Dolby Atmos in Windows 10/11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-m6-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco M6 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Reno 11 5G Phone Without Password?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-strategies-to-find-the-perfect-power-source-for-drones/"><u>In 2024, Strategies to Find the Perfect Power Source for Drones</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-edge-in-sharing-files-windows-finest-apps-ranked/"><u>Leading Edge in Sharing Files: Windows' Finest Apps Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/live-microphone-input-addressing-recording-issues-with-obs-w11-edition/"><u>Live Microphone Input: Addressing Recording Issues with OBS, W11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/master-rdc-start-ups-with-these-10-tips/"><u>Master RDC Start-Ups with These 10 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-apexs-windows-server-issues-(156-chars/"><u>Mastering Apex's Windows Server Issues (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-device-control-in-windows-11-updates/"><u>Mastering Device Control in Windows 11 Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-transitioning-your-workspace-from-concentration-to-normal-on-terminal/"><u>Mastery over Transitioning Your Workspace: From Concentration to Normal on Terminal</u></a></li>
-<li><a href="https://win11.techidaily.com/mouse-double-click-mastery-3-easy-steps-for-speed-enhancement/"><u>Mouse Double-Click Mastery: 3 Easy Steps for Speed Enhancement</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-upgrade-obstacles-windows-11-update-error-0x80246007/"><u>Overcoming Upgrade Obstacles: Windows 11 Update Error 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-tactics-to-handle-win1011-recycle-bin-crashes/"><u>Precision Tactics to Handle Win10/11 Recycle Bin Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-inactive-conditional-filters-in-outlook-email/"><u>Reactivating Inactive Conditional Filters in Outlook Email</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-non-functional-outlook-push-notifications/"><u>Reviving Non-Functional Outlook Push Notifications</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-multitasking-the-art-of-shifting-windows-by-90-degrees/"><u>Simplify Multitasking: The Art of Shifting Windows by 90 Degrees</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reinstate-disappearing-registry-management-tool/"><u>Steps to Reinstate Disappearing Registry Management Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-the-look-of-your-windows-cursor/"><u>Transforming the Look of Your Windows Cursor</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-the-power-of-window-tabbing-for-streamlined-productivity/"><u>Uncover the Power of Window Tabbing for Streamlined Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-complex-registry-edits-with-command-prompt-scripts/"><u>Unlocking Complex Registry Edits with Command Prompt Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-win11s-narrator-command-efficiency/"><u>Unlocking Win11's Narrator Command Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-icons-how-to-ditch-the-focused-wallpaper-symbol/"><u>Win11 Icons: How to Ditch the Focused Wallpaper Symbol</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

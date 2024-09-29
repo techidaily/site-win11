@@ -187,19 +187,7 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
  Let's see how you can use Obsidian's Canvas to make sense of your notes and boost your productivity visually.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-essential-techniques-for-ps3-gameplay-screencasts/"><u>[New] Essential Techniques for PS3 Gameplay Screencasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pro-minecraft-recordings-handbook/"><u>[New] In 2024, Pro Minecraft Recordings Handbook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/al-artisans-exclusive-summit/"><u>Digital Artisans' Exclusive Summit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/h264-2024-7/"><u>H264動画再生ソフト選び: 2024年度最新リコメンド! おすすめ無料プログラム7点</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instagram-video-troubleshooting-no-silence-full-sound/"><u>Instagram Video Troubleshooting - No Silence, Full Sound</u></a></li>
-<li><a href="https://win11.techidaily.com/recent-update-reveals-true-identity-of-9-anime-series/"><u>Recent Update Reveals True Identity of 9 Anime Series</u></a></li>
-<li><a href="https://win11.techidaily.com/risk-free-deal-on-factorypro-for-ipads-professional-video-conversion-software-now-available-online/"><u>Risk-Free Deal on FactoryPro for iPads – Professional Video Conversion Software Now Available Online!</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-for-seamless-dv-format-changes-experience-limit-free-video-enjoyment/"><u>Simple Steps for Seamless DV Format Changes - Experience Limit-Free Video Enjoyment!</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-transforming-videos-into-avc-format-with-ease/"><u>Simple Steps: Transforming Videos Into AVC Format with Ease</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

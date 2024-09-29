@@ -101,25 +101,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harness-your-footage-potential-with-vimeo-record/"><u>[Updated] In 2024, Harness Your Footage Potential with Vimeo Record</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>[Updated] Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/9-insights-into-the-future-workforce-for-prompt-crafting/"><u>9 Insights Into the Future Workforce for Prompt Crafting</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-converting-dvd-content-into-avi-format-with-minimal-hassle/"><u>A Beginner's Guide to Converting DVD Content Into AVI Format with Minimal Hassle</u></a></li>
-<li><a href="https://win11.techidaily.com/alcwavmp3/"><u>ALCフォーマットを効率的にWAVやMP3に変換する方法 | ハイレゾ音質移行手順</u></a></li>
-<li><a href="https://win11.techidaily.com/aviyoutube/"><u>AVI形式への無料YouTubeビデオ変換</u></a></li>
-<li><a href="https://win11.techidaily.com/best-top-10-screen-capture-tools-on-windows-10-enhance-your-productivity/"><u>Best Top 10 Screen Capture Tools on Windows 10: Enhance Your Productivity</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-dvd-video-toolkit-effortless-conversion-from-dvd-to-apple-devices-and-cellphones/"><u>Comprehensive DVD Video Toolkit - Effortless Conversion From DVD to Apple Devices and Cellphones</u></a></li>
-<li><a href="https://win11.techidaily.com/convert-your-ape-audio-files-free-of-charge-simple-and-effective-techniques/"><u>Convert Your APE Audio Files Free of Charge: Simple and Effective Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-top-rated-app-for-seamless-dvd-to-android-video-conversion/"><u>Discover the Top-Rated App for Seamless DVD to Android Video Conversion!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-faceless-watchers-of-fb-flashbacks/"><u>In 2024, Faceless Watchers of Fb Flashbacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/preferred-craftsmen-exceptional-iphone-tones-for-2024/"><u>Preferred Craftsmen Exceptional iPhone Tones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spin-original-web-jokes-for-sharing-for-2024/"><u>Spin Original Web Jokes for Sharing for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-budget-friendly-youtube-outro-makers-for-2024/"><u>Top 6 Budget-Friendly YouTube Outro Makers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/webcam-recording-guide-using-vlc-media-player-across-windows-and-macos/"><u>Webcam Recording Guide: Using VLC Media Player Across Windows and macOS</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

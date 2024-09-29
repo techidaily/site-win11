@@ -292,23 +292,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[New] 2024 Approved Enhancing Content Reach IGTV & Facebook Synergy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-a-comprehensive-introduction-to-streamlabs-obs/"><u>[New] A Comprehensive Introduction to Streamlabs OBS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-underlying-messages-in-snapchats-symbolic-language/"><u>[New] Decoding the Underlying Messages in Snapchat's Symbolic Language</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>[Updated] In 2024, Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-solutions-when-apps-arent-working-properly-on-windows/"><u>7 Solutions When Apps Aren't Working Properly on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computing-hardware-by-tom/"><u>Mastering the World of Computing Hardware by Tom</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-errors-related-to-absent-mfplatdll-files-in-your-operating-system/"><u>Overcoming Errors Related to Absent mfplat.dll Files in Your Operating System</u></a></li>
-<li><a href="https://techidaily.com/potential-risks-how-windows-11s-24-h2-update-may-compromise-network-attached-storage-devices/"><u>Potential Risks: How Windows 11'S 24 H2 Update May Compromise Network Attached Storage Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-onedrive-login-issues-in-windows-systems/"><u>Resolving OneDrive Login Issues in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-steps-to-reset-softwaredistribution-on-windows-11/"><u>Simplified Steps to Reset SoftwareDistribution on Windows 11</u></a></li>
-<li><a href="https://app-tips.techidaily.com/slash-your-costs-secure-a-whopping-50-discount-on-dashlanes-elite-password-manager-now/"><u>Slash Your Costs: Secure a Whopping 50% Discount on Dashlane's Elite Password Manager - Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-resolving-mysterious-recording-issue-in-obs-on-windows-11/"><u>Strategies for Resolving Mysterious Recording Issue in OBS on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unique-windows-11-workarounds-for-inaccessible-folder-names/"><u>Unique Windows 11 Workarounds for Inaccessible Folder Names</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-update-error-x712-on-pcs/"><u>Unraveling Update Error X712 on PCs</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
