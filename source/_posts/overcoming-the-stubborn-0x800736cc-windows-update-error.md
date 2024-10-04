@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Stubborn 0X800736CC Windows Update Error
-date: 2024-09-24T23:27:42.799Z
-updated: 2024-09-29T00:16:40.556Z
+date: 2024-09-29T22:00:49.420Z
+updated: 2024-10-03T17:47:23.885Z
 tags:
   - windows10
   - windows11
@@ -43,19 +43,19 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Clear the Windows Update Cache
@@ -73,27 +73,26 @@ thumbnail: https://thmb.techidaily.com/e3e57dc288a15eebc6a087ce47534d889b154128f
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
 
  Security software interferes with Windows Update and causes errors. To avoid this issue, [temporarily disable your security program](http://www.makeuseof.com/how-to-turn-off-windows-defender/) before running updates. Once you have disabled it, restart the computer and install the update again. If it works, it was your security software that caused the issue.
 
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset Windows Update Components
 
@@ -170,6 +169,13 @@ net start cryptsvc`
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Try Generic Windows Update Fixes
 
  Besides the methods listed above, you can also try some generic Windows Update fixes. These methods usually work if a temporary issue or corrupted system files cause the error.
@@ -184,27 +190,6 @@ net start cryptsvc`
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-enhance-web-presentations-top-12-html5-video-platforms-for-2024/"><u>[New] Enhance Web Presentations Top 12 HTML5 Video Platforms for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-creative-captioning-masterful-techniques-for-text-in-windowsmac-pics/"><u>[New] In 2024, Creative Captioning Masterful Techniques for Text in Windows/Mac Pics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-aspect-ratio-woes-to-winning-instagram-square-video-for-2024/"><u>[Updated] From Aspect Ratio Woes to Winning Instagram Square Video for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-green-screen-mastery-on-youtube-ideas-unleashed/"><u>[Updated] Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-catalysts-da-vincis-triumph-in-image-generation-ai/"><u>Creative Catalysts: Da Vinci’s Triumph in Image Generation AI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-your-playstation-4-mic-stops-working-a-step-by-step-solution/"><u>Effective Fixes for When Your PlayStation 4 Mic Stops Working: A Step-by-Step Solution</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y56-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y56 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-se-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone SE & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-pathway-restrictions-in-windows/"><u>Overcoming Device Pathway Restrictions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-launchers-secure-login-failures-on-windows-os/"><u>Overcoming Launcher's Secure Login Failures on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-outdated-boot-options-gray/"><u>Overcoming Outdated BOOT Options Gray</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-hurdle-opening-windows-folders-via-double-click/"><u>Overcoming the Hurdle: Opening Windows' Folders via Double-Click</u></a></li>
-<li><a href="https://win11.techidaily.com/steer-clear-from-cheap-windows-codes-a-cautionary-tale/"><u>Steer Clear From Cheap Windows Codes: A Cautionary Tale</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-remedies-for-the-delayed-folder-upload-issue-onedrive-errors/"><u>Swift Remedies for the Delayed Folder Upload Issue: OneDrive Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-temporary-path-errors-quick-fix-guide-for-windows-error-1152/"><u>Tackling Temporary Path Errors - Quick Fix Guide for Windows Error 1152</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-missing-device-issue-on-windows-os/"><u>Troubleshooting Missing Device Issue on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-peak-potential-7-efficient-practices-for-windows-11-users/"><u>Unleash Peak Potential: 7 Efficient Practices for Windows 11 Users</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,3 +197,24 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-content-creation-hacks-for-rapid-youtubers-growth-for-2024/"><u>[New] Content Creation Hacks for Rapid Youtubers' Growth for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-value-hd-cams-for-adventurous-pursuits/"><u>Best Value HD Cams for Adventurous Pursuits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-instagrams-accessibility-with-easy-caption-features-for-2024/"><u>Boost Your Instagram's Accessibility with Easy Caption Features for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/common-problems-and-solutions-with-chatgpt-on-iphones-expert-tips-to-get-it-working-again/"><u>Common Problems & Solutions with ChatGPT on iPhones – Expert Tips to Get It Working Again</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-productivity-through-win11-workspace-customization/"><u>Enhancing Productivity Through Win11 Workspace Customization</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-intellij-unison-run-smoothly-on-win11/"><u>How to Make IntelliJ Unison Run Smoothly on Win11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leveling-up-the-fun-in-gaming-without-chasing-full-completion/"><u>Leveling Up the Fun in Gaming without Chasing Full Completion</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealthy-toolbar-additions-in-win-1011/"><u>Mastering Stealthy Toolbar Additions in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-phantom-device-error-in-windows-11/"><u>Remedying Phantom Device Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-overcome-the-windows-11-v22h2-update-hurdle/"><u>Techniques to Overcome the Windows 11 V22H2 Update Hurdle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-insights/"><u>Tom's Tech Review: In-Depth Analysis & Expert Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-over-uptime-failure-solving-error-code-0x80246007-in-win11/"><u>Triumph over Uptime Failure: Solving Error Code 0X80246007 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-solution-for-error-code-3-with-nvidia-windows/"><u>Unveiling the Solution for Error Code 3 with NVIDIA, Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/video-to-photo-windows-11-methodology/"><u>Video to Photo Windows 11 Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-unbundled-outstanding-non-native-software/"><u>Win 11 Unbundled: Outstanding Non-Native Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows Update Hurdles Effortlessly
-date: 2024-09-22T21:48:25.550Z
-updated: 2024-09-29T01:06:04.618Z
+date: 2024-09-27T08:07:03.081Z
+updated: 2024-10-04T03:48:33.435Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
  But you can clear or flush the DNS cache to resolve security and internet connectivity issues. Check out[how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) for more information on how to do this.
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Cryptographic Services
 
@@ -63,13 +77,6 @@ To fix this, you can try restarting Cryptographic Services.
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now close Services and try running the Windows Update Troubleshooter again.
 
@@ -97,14 +104,21 @@ To fix this, you can try restarting Cryptographic Services.
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
@@ -123,38 +137,25 @@ To edit and enable the Scripted Diagnostics policy:
 ![Open Group Policy Editor Via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-group-policy-editor-via-run.jpg)
 3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
 
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
 
@@ -177,17 +178,22 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture-for-2024/"><u>[Updated] Unraveling the Discrepant Nature of VR and Full Sphere Capture for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-common-problems-with-windows-hello-fingerprint-detection/"><u>Addressing Common Problems with Windows Hello Fingerprint Detection</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-functional-gadget-alert-in-windows-11/"><u>Addressing Non-Functional Gadget Alert in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-nvidia-opengl-failure-code-3-on-win11/"><u>Addressing NVIDIA OpenGL Failure Code 3 on Win11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/flashscreen-snapshot-evaluation-and-alternates-for-2024/"><u>FlashScreen Snapshot Evaluation & Alternates for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y55s-5g-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y55s 5G (2023) Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xs-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone XS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-photo-editing-with-snapseed/"><u>In 2024, Master the Art of Photo Editing with Snapseed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-lg-screen-drivers-troubles-on-pcs-runninng-windows-11-8-or-7/"><u>Overcoming LG Screen Drivers Troubles on PCs Runninng Windows 11, 8 or 7</u></a></li>
-<li><a href="https://win11.techidaily.com/1719338015239-team-share-dilemma-heres-the-solution/"><u>Team Share Dilemma? Here's the Solution</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-throwing-a-memorable-labor-day-bash-tips-and-tricks-zdnet/"><u>Ultimate Guide to Throwing a Memorable Labor Day Bash: Tips & Tricks - ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/1719371064101-windows-11-ready-embrace-google-chrome-now/"><u>Windows 11 Ready? Embrace Google Chrome Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-23-key-metaverse-implementations-unveiling-future-prospects/"><u>2024 Approved 23 Key Metaverse Implementations Unveiling Future Prospects</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-mka-wav/"><u>移動革命！如何在不付錢的情況下，利用 Movavi 工具將 MKA 影片轉成 WAV 音效 - 簡便解決方案</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-typing-precision-in-windows-11-sidestep-key-lag-pitfalls/"><u>Enhance Typing Precision in Windows 11: Sidestep Key Lag Pitfalls</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-privilege-access-denial-error-error-0x80070522-on-modern-windows-pcs/"><u>Fixing Privilege Access Denial Error (Error 0X80070522) on Modern Windows PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-11-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 11 Pro in Lost Mode</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-disrupt-unbidden-youtube-content-feeds/"><u>In 2024, Disrupt Unbidden YouTube Content Feeds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-efficient-techniques-for-distributing-youtube-videos-via-facebook/"><u>In 2024, Efficient Techniques for Distributing YouTube Videos via Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/master-control-unscheduling-gpgpu-on-windows-platforms/"><u>Master Control: Unscheduling GPGPU on Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-attributes-on-windows-a-practical-guide/"><u>Mastering File Attributes on Windows: A Practical Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-windows-11-safe-mode-in-6-steps/"><u>Navigate to Windows 11 Safe Mode in 6 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/nvidias-geforce-error-on-windows-heres-the-fix/"><u>Nvidia's GeForce Error on Windows? Here’s the Fix</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098770708-pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-iphone-screen-problems-and-their-simple-solutions/"><u>Top 7 iPhone Screen Problems & Their Simple Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-update-9-tactics-against-steady-verify-failures/"><u>Unlock Windows Update: 9 Tactics Against Steady Verify Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-mystery-fixing-missing-updates-on-windows-os-code-0x80070003/"><u>Unpacking the Mystery: Fixing Missing Updates on Windows OS (Code: 0X80070003)</u></a></li>
 </ul></div>
 

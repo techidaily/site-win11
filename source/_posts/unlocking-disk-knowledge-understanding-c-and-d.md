@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Disk Knowledge: Understanding 'C' & 'D'"
-date: 2024-09-24T19:57:27.423Z
-updated: 2024-09-29T00:17:16.186Z
+date: 2024-09-26T20:50:50.040Z
+updated: 2024-10-04T00:25:00.464Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Characteristics of the C: Drive
 
  This is your Windows computer's primary drive or partition. Here are the features of the C: drive:
@@ -60,23 +53,16 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 * While it is possible to use the D: drive or C: drive for games and other non-essential apps, some app components must be installed on your primary drive to function properly, as it houses your OS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If the drive C: is an SSD, it'll likely be faster than an external HDD assigned the letter D. However, a heavily fragmented drive C: with numerous read and write operations may be slower than a D: drive with fewer operations. But this will vary greatly based on each computer's specifications.
 * Although the primary partition or drive is automatically assigned letter C, you can [swap drive letter C for another letter](https://www.makeuseof.com/tag/change-drive-letter-windows/), as it’s not set in stone. However, it’s typically not worth the hassle!
 
  Remember that the letter C in itself doesn't mean anything. However, it's typically assigned as an identifier for the local drive containing your Windows OS.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Local Drive D?
 
@@ -94,6 +80,13 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Characteristics of the D: Drive
 
  Drive D: is a secondary local drive attached to your system after the primary drive with your OS. Here are the common features of the D: drive:
@@ -106,6 +99,13 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What About macOS and Linux Computers?
 
  You'll only find the C: and D: drive on a Windows computer. While Windows assigns letters from C to storage devices to access them easily, Linux and macOS don't use letters. Instead, they use a unified system hierarchy, placing all files under a root directory.
@@ -113,10 +113,10 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## C: Drive vs. D: Drive: Which Should You Use?
@@ -127,24 +127,6 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>[New] 2024 Approved Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-capture-every-angle-top-360-streaming-devices-reviewed/"><u>[New] Capture Every Angle Top 360° Streaming Devices Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-looking-beneath-surface-understanding-vr-drawbacks/"><u>[New] Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] 2024 Approved Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>[Updated] Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-1011s-share-issue-with-nvidia/"><u>Addressing Windows 10/11'S Share Issue with NVIDIA</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-platforms-virtual-media-restoration/"><u>Advanced Platforms: Virtual Media Restoration</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-regain-basic-windows-settings-after-restart/"><u>Guide to Regain Basic Windows Settings After Restart</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-repair-microsoft-outlook-problems-effectively/"><u>How to Repair Microsoft Outlook Problems Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-accessing-your-iis-management-center/"><u>Quick Fixes for Accessing Your IIS Management Center</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unboxing-titans-of-youtube-the-most-popular-for-2024/"><u>Unboxing Titans of YouTube - The Most Popular for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unzipping-complex-archives-a-windows-cli-experts-manual/"><u>Unzipping Complex Archives: A Windows CLI Expert's Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/w11s-moment-update-a-glimpse-at-the-next-gen-features/"><u>W11's Moment Update: A Glimpse at the Next-Gen Features</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +134,22 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>[New] 2024 Approved Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adept-adjustments-mastering-the-chromatic-dance/"><u>[New] Adept Adjustments Mastering the Chromatic Dance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-why-microsoft-surface-ergonomic-keyboard-stands-out-in-terms-of-excellence/"><u>Comprehensive Review: Why Microsoft Surface Ergonomic Keyboard Stands Out in Terms of Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-speech-to-text-on-the-spot-with-whisper/"><u>Converting Speech to Text on the Spot with Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-error-code-xc0f1103f-with-nvidias-geforce-now/"><u>Eradicating Error Code Xc0f1103f with NVIDIA's GeForce Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-a2-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi A2 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-desktop-input-via-wired-connection-on-pc/"><u>How to Prevent Desktop Input via Wired Connection on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-epson-stylus-nx420-driver-on-windows-7-8-and-10-step-by-step-guide/"><u>How to Update Epson Stylus NX420 Driver on Windows 7, 8 and 10: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-power-status-add-custom-battery-alerts-to-win11/"><u>Optimize Your Power Status: Add Custom Battery Alerts to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-11-taskbar-incorporating-folders/"><u>Optimizing Windows 11 Taskbar - Incorporating Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc0000001/"><u>Resolving Windows Error: Code 0xC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-financial-wins-with-w11-pro-special-offers/"><u>Unlock Financial Wins with W11 Pro Special Offers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-online-video-editing-platforms/"><u>Updated In 2024, Top-Rated Free Online Video Editing Platforms</u></a></li>
+</ul></div>
+

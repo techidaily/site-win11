@@ -1,7 +1,7 @@
 ---
 title: Discover Redefined Artistry with New Microsoft Paint Tools
-date: 2024-09-21T17:42:27.402Z
-updated: 2024-09-28T22:59:12.935Z
+date: 2024-09-29T21:54:05.534Z
+updated: 2024-10-04T04:05:34.335Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,28 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
 ![ms paint dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-dark-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the initial announcement in January this year, the Dark mode support for the Paint app is now rolling out for the stable release. The app works independently of Windows updates, so you'll need to check the Microsoft Store to install the latest updates available for the Paint app.
@@ -51,26 +64,26 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
 
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enhanced Zoom Controls and Accessibility
 
@@ -82,41 +95,11 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
 
  While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Classic Paint App Is Here to Stay
 
  Microsoft’s continued support to make the classic Paint app match the Windows 11 design language means the app will continue to be a part of the Windows operating system. With the new improvements, MS Paint will remain a good option for basic editing, including quickly drafting user guides, annotating screen captures, or even converting images to different formats.
 
  The new Paint app also brings UI improvements and an enhanced toolset without compromising on the simplicity and accessibility factors of the graphics editor. If you are upgrading to Windows 11, here's what's new in the new Microsoft Paint app.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-streamlined-video-production-youtube-studio-edition-for-2024/"><u>[Updated] Streamlined Video Production YouTube Studio Edition for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-who-likes-what-deciphering-instagram-stats-and-screenshots-for-2024/"><u>[Updated] Who Likes What? Deciphering Instagram Stats & Screenshots for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/0x8004def5-on-onedrive-unraveling-windows-11-troubles/"><u>0X8004DEF5 on OneDrive - Unraveling Windows 11 Troubles</u></a></li>
-<li><a href="https://win11.techidaily.com/access-gpos-securely-a-guide-to-win11s-tools/"><u>Access GPOs Securely: A Guide to Win11's Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-microsoft-paint-in-windows-11/"><u>Accessing Microsoft Paint in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-full-control-with-admin-cmd-role/"><u>Achieve Full Control with Admin CMD Role</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-seamless-software-operation-with-4-key-pcts/"><u>Achieve Seamless Software Operation with 4 Key PCTs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-audacitys-portaudio-hiccup-on-windows-11-and-11/"><u>Addressing Audacity’s PortAudio Hiccup on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-configuration-for-optimal-android-resource-use/"><u>Advanced Configuration for Optimal Android Resource Use</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-windows-management-application-hiccups/"><u>Avoid Windows Management Application Hiccups</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-notability-of-your-scribbles-with-strategic-sticky-note-placement-in-win-os/"><u>Boost Notability of Your Scribbles with Strategic Sticky Note Placement in Win OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/compatible-with-vlc-discover-how-to-stream-dav-files-smoothly/"><u>Compatible with VLC? Discover How to Stream .DAV Files Smoothly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-steps-from-production-to-apple-store-placement/"><u>Essential Steps From Production to Apple Store Placement</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-bargain-hunting-to-video-glamour-editing-insights-for-hauls-for-2024/"><u>From Bargain Hunting to Video Glamour Editing Insights for Hauls for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-ready-everything-you-need-to-know-about-vision-pros-new-travel-feature-a-detailed-guide-zdnet/"><u>Get Ready: Everything You Need to Know About Vision Pro's New Travel Feature - A Detailed Guide | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-gionee-f3-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Gionee F3 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-7-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 7 without Security Questions?</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23-fe-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23 FE working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-to-do-with-icloud-drives-desktop-anddocuments-access-in-sierra/"><u>What to Do with iCloud Drive’s Desktop &Documents Access in Sierra</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,3 +108,23 @@ thumbnail: https://thmb.techidaily.com/6eaf9b365a6361451b5795d958332fe971bf3b2af
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-oral-explanitations-and-slides/"><u>[New] In 2024, Mastering the Art of Oral Explanitations & Slides</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-capture-breathtaking-shots-for-fb-livestreaming-with-dji-for-2024/"><u>[Updated] Capture Breathtaking Shots for FB Livestreaming with DJI for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guffaw-gallery-your-free-high-quality-memes/"><u>[Updated] Guffaw Gallery Your Free, High-Quality Memes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/discover-the-leading-performance-trackers-for-runners-top-picks-of-2024/"><u>Discover the Leading Performance Trackers for Runners - Top Picks of 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-youtubemp4dvd/"><u>DVD変換ガイド: YouTubeやMP4からDVDに簡単移行方法</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977908382-get-the-latest-intel-wireless-ac-9560-driver-software-here/"><u>Get the Latest Intel Wireless AC 9560 Driver Software Here</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-conceal-dim-display-feature-in-win-os-control-panel/"><u>Guide to Conceal Dim Display Feature in Win OS Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-random-console-window-flashes/"><u>How to Prevent Random Console Window Flashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlock-your-watch-list-10-best-free-youtube-extractors/"><u>In 2024, Unlock Your Watch List 10 Best Free YouTube Extractors</u></a></li>
+<li><a href="https://win11.techidaily.com/premium-choices-top-windows-platforms-for-dsswitch-experience/"><u>Premium Choices: Top Windows Platforms for DS/Switch Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-clock-and-dates-windows-1011-guide/"><u>Tailor Your Clock and Dates: Windows 10/11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-mind-maps-organizing-notes-using-obsidian-canvas/"><u>The Art of Mind Maps: Organizing Notes Using Obsidian Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-your-win11-status-key-indicators-and-checks-for-uptime/"><u>Understanding Your Win11 Status: Key Indicators and Checks for Uptime</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-webcam-visibility-alerts-in-win11/"><u>Unlocking Webcam Visibility Alerts in Win11</u></a></li>
+</ul></div>
+

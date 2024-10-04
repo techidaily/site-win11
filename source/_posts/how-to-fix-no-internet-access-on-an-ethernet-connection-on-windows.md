@@ -1,7 +1,7 @@
 ---
 title: How to Fix No Internet Access on an Ethernet Connection on Windows
-date: 2024-09-25T20:30:58.458Z
-updated: 2024-09-29T00:22:57.681Z
+date: 2024-09-30T02:20:55.314Z
+updated: 2024-10-03T19:26:51.517Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
  Changing the network profile and turning off the metered connection can also help resolve the issue under discussion. Therefore, you should make these changes in your Ethernet connection settings.
@@ -86,13 +86,20 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, restart your device once to ensure the changes take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
@@ -105,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
@@ -121,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Effortlessly Connect Your Device to an Ethernet Connection
@@ -133,21 +133,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-spys-guide-to-unearthing-hidden-youtube-videos/"><u>[New] 2024 Approved The Spy's Guide to Unearthing Hidden YouTube Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-choosing-the-best-camera-for-filming-mirrorless-or-dslr/"><u>[New] In 2024, Choosing the Best Camera for Filming Mirrorless or DSLR</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-list-of-popular-videos-online/"><u>[New] The Ultimate List of Popular Videos Online</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-step-by-step-adding-custom-images-to-youtube-videos/"><u>[Updated] 2024 Approved Step-by-Step Adding Custom Images to YouTube Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-pioneers-8-youtubes-fastest-climbers/"><u>[Updated] In 2024, Fresh Pioneers 8 YouTube's Fastest Climbers</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-adobe-acquisition-through-microsofts-marketplace/"><u>Achieving Adobe Acquisition Through Microsoft's Marketplace</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-ai-assistant-via-vivetool/"><u>Activating Windows AI Assistant via ViveTool</u></a></li>
-<li><a href="https://win11.techidaily.com/android-ios-direct-pc-file-access/"><u>Android-iOS: Direct PC File Access</u></a></li>
-<li><a href="https://win11.techidaily.com/away-from-clouds-data-at-your-fingertips-onedrive-tutorial/"><u>Away From Clouds, Data at Your Fingertips - OneDrive Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-performance-using-ntfs-file-compression-wisely/"><u>Boost Performance: Using NTFS File Compression Wisely</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +140,24 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-and-free-facebook-picture-video-maker/"><u>[New] In 2024, Best And Free Facebook Picture Video Maker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-combine-power-tweeting-and-snapping-with-snapchat/"><u>[New] In 2024, Combine Power Tweeting and Snapping with Snapchat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-iphones-guide-to-night-photography-excellence/"><u>[New] IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplify-video-annotation-adding-titles-and-captions-via-photos-win-11/"><u>[New] Simplify Video Annotation Adding Titles & Captions via Photos Win 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-gratuitous-video-chats-with-desktop-viewing/"><u>[New] Top 10 Gratuitous Video Chats with Desktop Viewing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-inside-look-at-youtubes-digital-media-oasis/"><u>[Updated] 2024 Approved Inside Look at YouTube's Digital Media Oasis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-auto-gpt-complexities-with-easy-fixes-for-six-issues/"><u>Decoding Auto-GPT Complexities with Easy Fixes for Six Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-audio-error-xc00d36b4-in-win10-and-11/"><u>Eliminating Audio Error XC00D36B4 in Win10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-user-experience-optimizing-windows-pins/"><u>Enhance User Experience: Optimizing Windows PINs</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-efficiently-undoing-changes-with-system-restore/"><u>Expert Tips for Efficiently Undoing Changes with System Restore</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transition-to-hdr-a-step-forward-in-high-quality-video/"><u>In 2024, Transition to HDR A Step Forward in High-Quality Video</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-iomap64sys-blue-screen-in-win108/"><u>Mastering Fixes for IOMap64.sys Blue Screen in Win10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-graphics-driver-updates-for-amd-windows-11/"><u>Navigating the Maze of Graphics Driver Updates for AMD, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-steam-ui-module-failure-in-steam-client/"><u>Tackling Steam UI Module Failure in Steam Client</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-tecno-pova-6-pro-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Tecno Pova 6 Pro 5G fingerprint</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-web-control-panel/"><u>Unlocking Windows 11'S Web Control Panel</u></a></li>
+</ul></div>
+

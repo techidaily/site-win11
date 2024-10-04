@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows 11 Without a PIN After Corruption Issue
-date: 2024-09-23T00:42:26.175Z
-updated: 2024-09-28T20:04:14.048Z
+date: 2024-09-27T16:09:36.581Z
+updated: 2024-10-03T18:23:11.074Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  To test your new PIN, press**Win + L** to lock your screen. Next, enter the new PIN in the login screen to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What If I Don't Remember My Account Password?
 
  If you have forgotten your account password, you can reset it from the sign-in screen by answering the security questions for your account.
@@ -71,13 +78,6 @@ To reset your user account password:
 3. Next, click on the**Reset Password** option. This will open the reset password dialog.  
 ![reset password lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-password-lock-screen.jpg)
 4. Next, you need to answer the three security questions and press**Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. When successful, Windows will ask you to enter your new password. So, enter your new password and confirm the same. Press enter to save the password.
 
@@ -100,10 +100,10 @@ To delete your NGC folder:
 4. Next, navigate to the following path:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft`
@@ -111,16 +111,16 @@ To delete your NGC folder:
 
  If you see the**You need permission to perform this action** prompt, you'll need to[take the folder ownership on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) to delete the folder. After taking ownership, try to delete the Ngc folder again, and you should be able to fix the error. Once done, you can set up a new PIN from the sign-in options in the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall Windows Updates
 
 ![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you determine the error to have appeared after installing a Windows update, uninstalling the same should help you undo the changes and fix the error.
 
@@ -136,27 +136,36 @@ To delete your NGC folder:
 2. Next, press and hold the**Shift** key and click on**Restart** . Click on**Restart anyway** if a confirmation prompt appears. Make sure to hold the Shift key until the PC starts to restart.  
 ![choose an option windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-1.jpg)
 3. In the**System Recovery** section, click on**Troubleshoot** .  
-![choose an option windows recovery environment advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-1.jpg)
-4. Next, select**Advanced options** .
-5. Click on**System Restore.**  
-![choose an option windows recovery environment advanced options system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-system-restore-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![choose an option windows recovery environment advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-1.jpg)
+4. Next, select**Advanced options** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Click on**System Restore.**  
+![choose an option windows recovery environment advanced options system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-system-restore-1.jpg)
 
 1. Next, your system will restart in the**System Restore** environment.  
 ![system restore windows recovery environment 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-windows-recovery-environment-1.jpg)
 2. Click on your user account name under**Choose an account to continue.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Next, you'll need to enter the password for the selected account and click**Continue** . If your user account doesn't have a password, then press**Enter** to continue without the password.
@@ -172,13 +181,6 @@ To delete your NGC folder:
 1. In the sign-in screen, click on the**Power** icon. Then press and hold the**Shift** key and click on**Restart** . Hold the key until the PC restarts.
 2. Next, under**Choose an option,** go to**Troubleshoot > Advanced Options.**
 3. Click on**Startup Repair** . Windows will start diagnosing your PC and repair any issues with the startup files.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a System Reset
 
@@ -216,21 +218,24 @@ To perform a system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-optimal-twitvid-saves-mastering-tweeted-media-downloads/"><u>[New] 2024 Approved Optimal TwitVid Saves Mastering Tweeted Media Downloads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-image-enlargers-making-photographs-larger-without-losing-quality/"><u>[New] Best Image Enlargers Making Photographs Larger Without Losing Quality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-the-tech-world-top-rated-recorders/"><u>[New] In 2024, Capturing the Tech World Top-Rated Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[Updated] 2024 Approved From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-4-free-apps-to-record-windows-8-content/"><u>[Updated] In 2024, 4 Free Apps to Record Windows 8 Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-organizing-your-youtube-content-with-ease-for-2024/"><u>[Updated] Organizing Your YouTube Content with Ease for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-enable-compact-view-in-file-explorer-on-windows-11/"><u>3 Ways to Enable Compact View in File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/8-simple-steps-for-unlocking-your-windows-hello-device/"><u>8 Simple Steps for Unlocking Your Windows Hello Device</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-hidden-taskbar-query-function-in-windows-11/"><u>Activating Hidden Taskbar Query Function in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-your-pc-a-guide-to-optimizing-windows-11-options/"><u>Adjusting Your PC: A Guide to Optimizing Windows 11 Options</u></a></li>
-<li><a href="https://win11.techidaily.com/augment-windows-11-notebook-with-cognitive-companion/"><u>Augment Windows 11 Notebook with Cognitive Companion</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-the-deadly-javascript-error-from-discord-on-win-11/"><u>Banishing the Deadly JavaScript Error From Discord on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/beginners-tutorial-starting-windows-media-player/"><u>Beginner's Tutorial: Starting Windows Media Player</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-pova-6-pro-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Pova 6 Pro 5G Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-into-ai-its-uses-and-dangers-revealed/"><u>Insight Into AI: Its Uses and Dangers Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-high-disk-usage-caused-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows 10 Performance by Managing High Disk Usage Caused by Microsoft Compatibility Telemetry</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-infuse-vibrancy-youtube-thumbnails-with-neon-borders/"><u>[New] Infuse Vibrancy YouTube Thumbnails with Neon Borders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-inspirational-insta-captions-to-elevate-your-social-presence/"><u>[Updated] 2024 Approved Inspirational Insta Captions to Elevate Your Social Presence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-advanced-tech-webcams-the-ultimate-guide-to-the-top-5-with-sound-for-2024/"><u>[Updated] Advanced Tech Webcams - The Ultimate Guide to the Top 5 With Sound for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unleash-your-potential-navigating-the-world-of-switch-pro-in-steam/"><u>[Updated] Unleash Your Potential Navigating the World of Switch Pro in Steam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-rise-and-shine-on-these-overlooked-meme-platforms/"><u>2024 Approved Rise and Shine on These Overlooked Meme Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-missteps-an-ongoing-cybersecurity-scare/"><u>AI Missteps: An Ongoing Cybersecurity Scare</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-wmv-en-mp4-sin-coste-con-el-servidor-online-de-movavi/"><u>Cómo Convertir Archivos WMV en MP4 Sin Coste Con El Servidor Online De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-dots-top-8-window-friendly-note-apps/"><u>Digital Dots: Top 8 Window-Friendly Note Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-web-interaction-enable-mouse-gestures-in-microsofts-edge-browser/"><u>Elevate Your Web Interaction: Enable Mouse Gestures in Microsoft's Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-vmware-bsod-error-on-windows-11/"><u>How to Fix VMware BSOD Error on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-14-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 14 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-ed-inspired-visuals-to-windows/"><u>Introducing Ed-Inspired Visuals to Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-books-unlocking-potential-with-7-top-study-methods-on-a-windowed-computer/"><u>Master the Books: Unlocking Potential with 7 Top Study Methods on a Windowed Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-remedies-for-windows-app-issues-7-steps-to-success/"><u>Masterful Remedies for Windows App Issues, 7 Steps to Success</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-excessive-heat-on-windows-11-devices/"><u>Mitigating Excessive Heat on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-your-desktop-icon-order/"><u>Reclaiming Your Desktop Icon Order</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tweak-indexer-in-windows/"><u>Steps to Tweak Indexer in Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlining-the-process-of-iptv-video-recordings/"><u>Streamlining the Process of IPTV Video Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-edit-suite-apps-and-devices-tools-listed/"><u>Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
 </ul></div>
 

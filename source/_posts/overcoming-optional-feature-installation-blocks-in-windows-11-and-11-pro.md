@@ -1,7 +1,7 @@
 ---
 title: Overcoming Optional Feature Installation Blocks in Windows 11 & 11 Pro
-date: 2024-09-24T18:17:41.591Z
-updated: 2024-09-28T19:24:39.637Z
+date: 2024-10-03T03:39:32.062Z
+updated: 2024-10-04T02:36:23.989Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Reset the Windows Update Components
 
  Windows Update Components include all the services, tasks, and programs that work together to make sure your Windows system is up-to-date and secure.
@@ -85,6 +92,13 @@ net start msiserver`
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -98,15 +112,22 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
@@ -122,22 +143,21 @@ Here's how you can update Windows to the latest version:
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
 
@@ -150,13 +170,6 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -178,13 +191,6 @@ Get-WindowsOptionalFeature -Online
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -211,22 +217,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-showcasing-8-online-marvels-3d-and-luxurious-text-visuals/"><u>[Updated] Showcasing 8 Online Marvels 3D & Luxurious Text Visuals</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725288258213-2022dvd/"><u>2022最强大的DVD到数字化转换技术：终极指南</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-balancing-act-weaving-b-roll-into-main-scenes/"><u>2024 Approved Balancing Act Weaving B Roll Into Main Scenes</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-flickering-screens-windows-11-edition/"><u>Banishing Flickering Screens: Windows 11 Edition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beat-the-odds-which-tech-dominates-in-airpods-vs-galaxy-buds-showdown/"><u>Beat the Odds: Which Tech Dominates in AirPods Vs. Galaxy Buds Showdown</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-pc-windows-11-device-options-revised/"><u>Customize Your PC: Windows 11 Device Options Revised</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-retrofit-modernizing-windows-11-with-a-98-twist/"><u>Digital Retrofit: Modernizing Windows 11 with a '98 Twist</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-audible-mp3-players-of-the-year-top-5-picks-for-audiophiles/"><u>Discover the Best Audible MP3 Players of the Year: Top 5 Picks for Audiophiles</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211590610-effective-strategies-to-address-twitchs-error-4/"><u>Effective Strategies to Address Twitch's Error 4#</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-the-power-of-multiple-directories-windows-11-edition/"><u>Harnessing the Power of Multiple Directories: Windows 11 Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-video-recording-decisions-optimal-fps-is-it-30-or-60/"><u>In 2024, Video Recording Decisions Optimal FPS – Is It 30 or 60?</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-the-ink-flow-pc-pen-and-touch-adjustments/"><u>Perfecting the Ink Flow: PC Pen and Touch Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-store-color-glitches/"><u>Resolving Microsoft Store Color Glitches</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/teaching-with-video-effective-editing-methods/"><u>Teaching with Video Effective Editing Methods</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-process-cleaning-up-your-social-sphere/"><u>Unveiling the Process: Cleaning up Your Social Sphere</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-cars-mouse-keys-and-acceleration-mastery/"><u>Winning Cars: Mouse, Keys, and Acceleration Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/winshift-troubles-how-to-resolve-them/"><u>WinShift Troubles: How to Resolve Them.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/opyright-laws-and-screencasting-of-online-video-platforms-youtube/"><u>[New] Copyright Laws and Screencasting of Online Video Platforms (YouTube)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-gamers-edge-5-secrets-for-exceptional-recording-for-2024/"><u>[New] Gamers' Edge 5 Secrets for Exceptional Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive/"><u>[Updated] Top Tactics 3 Ways to Record and Keep Your Live Discord Events Alive</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-transform-your-video-footage-with-advanced-screen-recording-tech/"><u>[Updated] Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/encrypted-space-covertly-placing-zip-archives-in-pixels/"><u>Encrypted Space: Covertly Placing Zip Archives in Pixels</u></a></li>
+<li><a href="https://win11.techidaily.com/find-my-missing-f-16-copilot-in-windows-11-steps/"><u>Find My Missing F-16 Copilot In Windows 11 Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grand-revelations-in-cinema-trailers-for-2024/"><u>Grand Revelations in Cinema Trailers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-color-laserjet-pro-m452dn-printer-drivers-free-download/"><u>HP Color LaserJet Pro M452dn Printer Drivers - Free Download</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-navigation-learn-to-use-gestures-in-ms-edge-for-windows-11/"><u>Master the Art of Navigation: Learn to Use Gestures in MS Edge for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-pcs-automatic-shutdown-at-idle-w11-style/"><u>Secure Your PCs: Automatic Shutdown at Idle, W11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-file-maintenance-the-autodelete-system-for-windows-users/"><u>Simplifying File Maintenance: The AutoDelete System for Windows Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlock-creative-potential-top-methods-for-green-screen-filming/"><u>Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-win11s-capabilities-new-folder-fundamentals/"><u>Unlock Win11's Capabilities: New Folder Fundamentals</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-despite-operational-error-740/"><u>Unlocking Windows 11'S Potential Despite Operational Error #740</u></a></li>
 </ul></div>
 

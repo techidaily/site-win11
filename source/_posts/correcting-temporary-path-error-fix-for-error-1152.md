@@ -1,7 +1,7 @@
 ---
 title: Correcting 'Temporary Path Error' - Fix for Error 1152
-date: 2024-09-22T23:11:48.677Z
-updated: 2024-09-29T01:30:33.063Z
+date: 2024-09-29T19:14:54.561Z
+updated: 2024-10-04T07:11:47.143Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
  This error can feasibly occur because of an issue with the downloaded installer file. Download process errors can corrupt files. So, try downloading the same setup file again, preferably from a different website source if you can. Then right-click the new installer file and select to run it with administrative rights.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Full Control Permissions for the Temp Folder
 
  Setting full control permissions for the Temp folder has fixed error 1552 for many users. That highlights error 1152 occurs because the Temp folder has insufficient permissions. You can address such a potential cause by adjusting permission settings for the Temp folder like this:
@@ -48,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 5. Next, click **Add** to bring up an object name selection window.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-or-groups-window.jpg)
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 4. Select the **Full control** permission checkbox.  
 ![Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-checkbox.jpg)
 5. Apply and OK out of all windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. It’s also recommended to repeat those steps for the Temp folder in the local directory. You can reach that folder at the following path:  
 `C:\Users\<user folder>\AppData\Local`
@@ -83,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
 ![The Temporary files checkbox in the Disk Clean-up tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/temporary-files-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Perform a Clean Boot
 
  Performing a clean boot means restarting Windows 11/10 without any third-party background apps and services enabled. This is a recommended troubleshooting method for error 1152 because it could eliminate background items conflicting with your software installation. You might then be able to install the software as required after the clean boot.
@@ -92,10 +85,17 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 ![The Hide all Microsoft services checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-all-microsoft-services-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the Windows Software You Need Again
@@ -104,29 +104,6 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-copycat-cinema-steps-for-satirical-video-making/"><u>[New] 2024 Approved Copycat Cinema Steps for Satirical Video Making</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-high-fidelity-mp4-converter-to-fb/"><u>[New] In 2024, High-Fidelity MP4 Converter to FB</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-digital-life-with-exclusive-ms-choice/"><u>Elevate Your Digital Life with Exclusive MS Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-decrease-extras-in-win-11-context-list/"><u>How to Decrease Extras in Win 11 Context List</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-in-class-android-storage-in-the-cloud/"><u>In 2024, Best-in-Class Android Storage in the Cloud</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-zoom-performance-top-three-tactical-approaches/"><u>In 2024, Optimize Zoom Performance Top Three Tactical Approaches</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premium-screen-capture-gear-flawless-performance/"><u>In 2024, Premium Screen Capture Gear - Flawless Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/modifying-oculus-quest-2-for-windows-vr-use/"><u>Modifying Oculus Quest 2 for Windows VR Use</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-7-video-mergers-with-no-watermark-for-2024/"><u>New The Ultimate List 7 Video Mergers with No Watermark for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-absence-of-monitor-on-startup/"><u>Remedy for Absence of Monitor on Startup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reviving-your-missing-mouse-pointer-in-windows-effective-solutions-explored/"><u>Reviving Your Missing Mouse Pointer in Windows: Effective Solutions Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-sluggish-outlook-on-your-computer/"><u>Sidestep Sluggish Outlook on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/stealth-mode-hiding-or-revealing-windows-protection-sectors/"><u>Stealth Mode: Hiding or Revealing Windows Protection Sectors</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-compression-via-cli/"><u>The Essential Guide to File Compression via CLI</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-assembling-a-taskbar-on-windows-11-slate/"><u>The Ultimate Guide to Assembling a Taskbar on Windows 11 Slate</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-film-a-beginners-guide-to-essential-shots/"><u>Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/update-windows-11-admin-credentials-quickly/"><u>Update Windows 11 Admin Credentials Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/window-terminal-design-your-own-palette/"><u>Window Terminal: Design Your Own Palette</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +111,20 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-snicker-showcase-top-10-tweets/"><u>[New] Snicker Showcase Top 10 Tweets</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-context-menu-with-submenus/"><u>Enhancing Windows 11 Context Menu with Submenus</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/flight-sim-expertise-how-to-stop-microsoft-flight-simulator-2020-from-frequently-crashing-on-pcs/"><u>Flight Sim Expertise: How to Stop Microsoft Flight Simulator 2020 From Frequently Crashing on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-reno-10-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Reno 10 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/masterclass-choosing-the-top-fps-games/"><u>Masterclass Choosing the Top FPS Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-products-with-toms-digital-equipment-overview/"><u>Navigating High-Tech Products with Tom's Digital Equipment Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-user-directory-naming/"><u>Personalizing Your User Directory Naming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-into-the-future-of-browsing-with-agentgpt/"><u>Step Into the Future of Browsing with AgentGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-procedure-for-installing-outlook-preview/"><u>Step-by-Step Procedure for Installing Outlook Preview</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-settle-windows-laptop-latency-after-external-monitors-addition/"><u>Swiftly Settle Window's Laptop Latency After External Monitors Addition</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-system-preferences/"><u>Unlock the Power of System Preferences</u></a></li>
+</ul></div>
+

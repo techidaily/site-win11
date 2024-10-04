@@ -1,7 +1,7 @@
 ---
 title: "Win Logins: Spotting Valid and Invalid Credentials Entry Attempts"
-date: 2024-09-24T23:03:48.134Z
-updated: 2024-09-28T16:56:57.226Z
+date: 2024-09-29T08:23:35.293Z
+updated: 2024-10-03T17:59:12.108Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View Failed and Successful Login Attempts in Event Viewer
@@ -69,11 +69,25 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 6. To find failed login attempts, locate**Event ID 2625** entries instead.
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Decipher the Logon Entries in Event Viewer
 
  While Event ID 4624 is associated with logon events, you will likely find multiple instances of this entry occurring every few minutes in the log. This is due to Event Viewer recording every logon event (whether from the local user account or system services such as Windows Security) with the same event ID**(Event 4624**).
 
 ![event viewer security logon event properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To identify the source of login, right-click on the event record and select**Properties** . In the**General** tab, scroll down and locate the**Logon information** section. Here, the**Logon Type** field indicates the kind of logon that occurred.
 
@@ -82,28 +96,15 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 ![event viewer security logon event properties details 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, scroll down to the**New Logon** section and locate the**Security ID** . This will show the user account that was affected by the logon.
 
 ![event viewer security logon event failed attemptjpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, for failed login attempts, review**Event ID 4625** . In the**Properties** dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning[how to limit the number of failed login attempts to protect your Windows PC](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) .
 
@@ -120,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 | Logon Type 9   | NewCredentials – triggered when a user uses the RunAs command with the /netonly option to start a program.                                        |
 | Logon Type 10  | RemoteInteractive – Generated when a computer is accessed via a remote access tool such as Remote Desktop Connection.                             |
 | Logon Type 11  | CachedInteractive – When the user logged on to the computer via console using the cached credentials when the domain controller is not available. |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to View the Last Logon History Using Command Prompt
 
@@ -164,22 +158,19 @@ To view the login history of a specific user using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>[New] How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-your-content-access-free-vocal-sfx/"><u>[New] In 2024, Boost Your Content Access Free Vocal SFX</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximize-impact-with-insightful-youtube-stats-analysis/"><u>[New] In 2024, Maximize Impact with Insightful YouTube Stats Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-science-of-captivating-audience-with-mukbang-videos-for-2024/"><u>[New] The Science of Captivating Audience with Mukbang Videos for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-8-android-platforms-revolutionizing-large-calls/"><u>[Updated] Top 8 Android Platforms Revolutionizing Large Calls</u></a></li>
-<li><a href="https://win11.techidaily.com/7-essential-cryptography-tools-for-windows-users-146-chars/"><u>7 Essential Cryptography Tools for Windows Users (146 Chars)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bmp-movavi/"><u>随时可用免费移动BMP格式的转换器在线服务 – Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-the-action-center-mixer-for-clear-windows-sounds/"><u>Activating the Action Center Mixer for Clear Windows Sounds</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-steam-error-unauthorized-file-reading-in-win11/"><u>Addressing Steam Error: Unauthorized File Reading in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-unreadable-folder-in-microsoft-office-for-desktop-users/"><u>Addressing Unreadable Folder In Microsoft Office for Desktop Users</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-monitors-order-in-windows/"><u>Altering Monitors' Order in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bare-bones-pc-boasts-bulky-but-lackluster-loops/"><u>Bare-Bones PC Boasts Bulky, but Lackluster Loops</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-competition-with-fc-managed-for-no-charge/"><u>Beat the Competition with FC Managed for No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/1719329356847-chrome-freezing-woes-on-win11-try-these-swift-solutions/"><u>Chrome Freezing Woes on Win11? Try These Swift Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-x-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone X when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-the-spectrum-of-hand-tracking-technologies/"><u>In 2024, Unveiling the Spectrum of Hand Tracking Technologies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series/"><u>The Ultimate List of iOS Camera Apps for the iPhone X+ Series</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-8-key-money-making-moves-for-youtube-rookies/"><u>[New] In 2024, 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exploring-the-best-5-book-promo-videos-for-authors/"><u>[Updated] Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>2024 Approved Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-razer-device-compatibility-in-windows-1011/"><u>Enhancing Razer Device Compatibility in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-seamless-spotify-links-on-windows-11-pc/"><u>Ensuring Seamless Spotify Links on Windows 11 PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-feed-breakthroughs-seeing-your-videos/"><u>Facebook Feed Breakthroughs Seeing Your Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/full-fledged-quest-mastery-classics-full-hd-and-the-power-of-scummvm-windows/"><u>Full-Fledged Quest Mastery: Classics, Full HD, and the Power of ScummVM Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a34-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A34 5G Unlock Without Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/managing-space-on-your-smart-tv-easy-instructions-for-removing-apps-on-samsung-devices/"><u>Managing Space on Your Smart TV: Easy Instructions for Removing Apps on Samsung Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/premium-windows-emulators-for-nintendos-switch-library/"><u>Premium Windows Emulators for Nintendo's Switch Library</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-tasks-using-ifttt-for-microsoft-to-do/"><u>Simplifying Tasks: Using IFTTT for Microsoft To-Do</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-your-creative-potential-10-top-music-video-editing-software/"><u>Unlock Your Creative Potential 10 Top Music Video Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-bsod-log-files-in-microsoft-os/"><u>Unveiling BSOD Log Files in Microsoft OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speed Up: Locating Your GPU Model on Windows 11"
-date: 2024-09-27T18:35:53.713Z
-updated: 2024-09-28T18:40:34.333Z
+date: 2024-10-01T16:59:34.860Z
+updated: 2024-10-04T05:32:34.453Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,10 @@ To check the installed graphics card or GPU of your Windows 11 PC:
  Check out[how to use the Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) for more in-depth instructions on this tool.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Find Your GPU Model Using DirectX on Windows 11
@@ -60,6 +54,13 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 1. Launch the**Start** menu, search for**dxdiag** , and select the**Best match** .  
 ![directx GPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/directx-specs.jpeg)
 2. Select the**Display** tab to view details of your GPU, including the GPU manufacturer, chip type, dedicated display memory, etc. If you have more than one GPU on your PC, you will see multiple**Display** tabs with details of each GPU.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Confirm Your Graphics Card Model via the Windows 11 Settings App
 
@@ -74,27 +75,20 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 4. You can see your GPU make and model under the**Display information** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![display adapter properties in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/display-adapter-properties-win11.jpg)
 5. For more details, select**Display adapter properties for Display** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get to Know Your GPU Model Better on Windows 11
@@ -116,15 +110,22 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-guide-to-successfully-saving-your-iptv-streams/"><u>[New] In 2024, Guide to Successfully Saving Your IPTV Streams</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-select-your-go-to-teacher-recording-software-now/"><u>[New] In 2024, Select Your Go-To Teacher Recording Software Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-how-to-for-mac-obs-plus-streamlabs-integration/"><u>[Updated] The Complete How-To for Mac OBS + Streamlabs Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-factory-reset-your-windows-computer/"><u>3 Ways to Factory Reset Your Windows Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-entering-your-folder-of-apps-in-windows-11/"><u>A Step-by-Step Guide to Entering Your Folder of Apps in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/access-denied-tips-and-fixes-for-onedrive-on-windows-pcs/"><u>Access Denied? Tips and Fixes for OneDrive on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disappearances-in-file-explorer/"><u>Addressing Disappearances in File Explorer</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-ultimate-picks-google-play-passs-top-8-titles/"><u>Discover the Ultimate Picks: Google Play Pass's Top 8 Titles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-printer-software-download-get-the-latest-driver-updates/"><u>HP Printer Software Download – Get the Latest Driver Updates</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-high-end-online-locations-for-metallic-3d-lettering/"><u>[New] 2024 Approved High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ultimate-guide-choosing-powerful-notebooks-for-filmmakers/"><u>[New] 2024 Approved Ultimate Guide Choosing Powerful Notebooks for Filmmakers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-the-world-of-online-streaming-wirecast-and-facebook/"><u>[New] In 2024, Navigating the World of Online Streaming Wirecast & Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-maximize-android-gaming-with-funimate-apk-download-for-2024/"><u>[New] Maximize Android Gaming with Funimate APK Download for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-your-ideal-vr-gear-selection-would-you-prefer-the-ease-of-mobile-or-tethered-setup/"><u>[Updated] In 2024, Unveiling Your Ideal VR Gear Selection Would You Prefer the Ease of Mobile or Tethered Setup?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-mobile-cinematography-must-have-iphone-accessories/"><u>Enhance Mobile Cinematography Must-Have iPhone Accessories</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-gaming-experience-tackle-warhammers-stutter-problems/"><u>Enhance Your Gaming Experience - Tackle Warhammer's Stutter Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-tips-for-crafting-intricate-photo-mosaics/"><u>Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-an-unmountable-boot-volume-blue-screen-of-death-in-windows-10/"><u>How to Recover From an Unmountable Boot Volume Blue Screen of Death in Windows 10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>In 2024, Convert with Precision 10 Leading Tools From Flv to YouTube Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-windows-ui-with-supernatural-shortcuts/"><u>Infuse Windows UI with Supernatural Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-forcibly-disable-windows-11-print-devices/"><u>Instant Guide: Forcibly Disable Windows 11 Print Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-exe-opener-blockage/"><u>Overcoming Windows EXE Opener Blockage</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-how-to-reactivate-a-grayed-out-secure-boot-on-windows-pcs/"><u>Regaining Control: How to Reactivate a Grayed-Out Secure Boot on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-a-computer-name-mistake-on-windows-11/"><u>Reversing a Computer Name Mistake on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-guide-to-immediate-accessibility-of-software-shortcuts/"><u>Stepwise Guide to Immediate Accessibility of Software Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/systematic-approach-for-restarting-your-windows-update-cycle/"><u>Systematic Approach for Restarting Your Windows Update Cycle</u></a></li>
 </ul></div>
 

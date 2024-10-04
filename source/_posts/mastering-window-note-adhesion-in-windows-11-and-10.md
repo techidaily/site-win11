@@ -1,7 +1,7 @@
 ---
 title: Mastering Window Note Adhesion in Windows 11 & 10
-date: 2024-09-22T22:57:51.617Z
-updated: 2024-09-29T00:24:43.116Z
+date: 2024-09-27T21:33:51.029Z
+updated: 2024-10-04T03:14:51.194Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -81,10 +88,16 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 2. Click**Finish** with the Launch Notezilla checkbox selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Bring up a software window to add your note.
@@ -101,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 5. Click**OK** to stick the note to the selected window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
@@ -122,23 +135,10 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
@@ -160,21 +160,22 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-dynamic-images-from-static-pixels-from-photos-to-video-for-2024/"><u>[New] Dynamic Images From Static Pixels From Photos to Video for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>[Updated] 2024 Approved Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-gameplay-utilizing-steams-switch-controller/"><u>[Updated] Streamline Gameplay Utilizing Steam's Switch Controller</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-10-most-admirable-photo-frame-apps/"><u>[Updated] The 10 Most Admirable Photo Frame Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/10-iphone-camera-features-you-should-know-in-ios-11/"><u>10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-distinctive-shadowing-via-outer-radial-fuzz-on-pics-cs/"><u>2024 Approved Distinctive Shadowing via Outer Radial Fuzz on Pics CS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-forward-ingenious-techniques-for-soft-echos-in-audacity/"><u>2024 Approved Fading Forward Ingenious Techniques for Soft Echos in Audacity</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-nvidia-geforce-notaxc0f1103f-error/"><u>Correcting Windows Nvidia GeForce NotaXC0F1103F Error</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-an-enhanced-run-tool-to-windows-10-and-11/"><u>How to Add an Enhanced Run Tool to Windows 10 & 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-essential-guide-to-multistation-open-source-video-tools/"><u>In 2024, Essential Guide to Multistation Open Source Video Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-turn-off-corner-shaping/"><u>Mastering Windows 11: Turn Off Corner Shaping</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-windows-11-search-backup-procedure/"><u>Navigate to Windows 11 Search Backup Procedure</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-mobile-app-match-android-plus-windows-pc-edition/"><u>Perfect Mobile App Match: Android + Windows PC Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-optimizing-windows-lockscreen-with-spotlight/"><u>Tips for Optimizing Windows Lockscreen with Spotlight</u></a></li>
-<li><a href="https://win11.techidaily.com/trimming-early-edges-methods-to-stop-tab-preload-on-windows-11/"><u>Trimming Early Edges: Methods to Stop Tab Preload on Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-experts-reveal-unknown-functions-and-features/"><u>[New] In 2024, Insta-Experts Reveal Unknown Functions and Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhanced-clarity-clear-background-in-cam-recordings-for-2024/"><u>[Updated] Enhanced Clarity Clear Background in Cam Recordings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-crafting-professional-livestreams-on-youtube-and-twitch-using-obs/"><u>[Updated] In 2024, Crafting Professional Livestreams on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-reformat-and-rename-macs-image-file-transformation/"><u>2024 Approved Reformat and Rename Mac's Image File Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-issues-with-windows-11-search-bar/"><u>Eliminate Issues with Windows 11 Search Bar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-sd-cards-for-gopro-hero-78-cameras-our-picks/"><u>Essential SD Cards for GoPro Hero 7/8 Cameras Our Picks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-14-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi 14 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/nearby-share-guide-for-dual-os-connectivity/"><u>Nearby Share Guide for Dual OS Connectivity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-malfunctions-during-zoom-calls-on-microsofts-latest-os-versions/"><u>Overcoming Microphone Malfunctions During Zoom Calls on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-zero-a00f-camera-application-issue/"><u>Overcoming Windows 11'S Zero-A00F Camera Application Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/refine-your-tapes-best-no-cost-windows-software/"><u>Refine Your Tapes: Best No-Cost Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-directory-fullness-errors-with-code-0x80070091-on-windows-11/"><u>Resolving Directory Fullness Errors with Code: 0X80070091 on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-wireless-charger-issues-a-step-by-step-fix-list-for-non-working-charges/"><u>Solving iPhone Wireless Charger Issues: A Step-by-Step Fix List for Non-Working Charges</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-3d-lut-application-in-photoshop-mastery/"><u>Step-by-Step 3D LUT Application in Photoshop Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-domain-services-printer-error-on-microsofts-newest-os/"><u>Tackling Domain Services Printer Error on Microsoft's Newest OS</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-efficiently-changing-directory-visibility-windows-11/"><u>Techniques for Efficiently Changing Directory Visibility (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-after-successful-login-failed/"><u>Unlocking Windows After Successful Login Failed</u></a></li>
 </ul></div>
 

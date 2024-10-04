@@ -1,7 +1,7 @@
 ---
 title: "Implementing Custom Folder Options: Adding 'Move'/'Copy' To Context Menu"
-date: 2024-09-14T22:18:38.590Z
-updated: 2024-09-21T23:56:45.894Z
+date: 2024-09-29T01:14:21.462Z
+updated: 2024-10-04T02:21:09.098Z
 tags:
   - windows10
   - windows11
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
@@ -87,10 +94,25 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
@@ -99,18 +121,19 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Minimize or exit the WinBubble window.
 
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
@@ -129,5 +152,26 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-breakdown-of-earnings-how-much-does-a-clicky-make/"><u>[New] Breakdown of Earnings How Much Does a Clicky Make?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-apeak-captures-attention-an-in-depth-screen-recorder-examination-for-2024/"><u>[Updated] Apeak Captures Attention An In-Depth Screen Recorder Examination for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-game-on-video-recording-revolution/"><u>2024 Approved Game On Video Recording Revolution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pioneering-visual-stories-with-windows-10-photos-and-story-remix/"><u>2024 Approved Pioneering Visual Stories with Window's 10 Photos & Story Remix</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-streamlining-visual-content-applying-texts-to-photos-in-windows-10/"><u>2024 Approved Streamlining Visual Content Applying Texts to Photos in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-steps-to-update-login-credentials-on-win-11/"><u>Effective Steps to Update Login Credentials on Win 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-driver-update-for-your-aoc-monitor-with-windows-compatibility-guide/"><u>Get the Newest Driver Update for Your AOC Monitor with Windows Compatibility Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-eliminate-microsoft-offices-error-code-0x80041015/"><u>Guide to Eliminate Microsoft Office's Error Code 0X80041015</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-moto-g84-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Moto G84 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11.techidaily.com/latency-less-viewing-optimizing-winx-media-with-these-fixes/"><u>Latency-Less Viewing: Optimizing WinX Media with These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-inactive-mail-signals-for-outlook-users/"><u>Mending Inactive Mail Signals for Outlook Users</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-stop-video-resets-on-win1110-devices/"><u>Strategies to Stop Video Resets on Win11/10 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-symbiosis-navigating-github-desktop-and-windows-11/"><u>The Perfect Symbiosis: Navigating GitHub Desktop & Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-smooth-playback-of-cyberpunk-2077-and-virtues-last-reward-on-desktop/"><u>Troubleshooting Steps for Smooth Playback of Cyberpunk 2077 & Virtue's Last Reward on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-windows-drives-c-and-d/"><u>Unraveling the Mystery of Windows Drives (C & D)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-innovation-four-revolutionary-updates-for-paint/"><u>Unveiling Innovation: Four Revolutionary Updates for Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-mystery-of-windows-bt-folders/"><u>Unveiling the Mystery of Windows ~BT Folders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vrij-nieuw-mediaconverter-mp2-naar-flac-online-gratis-demo-versie-movavi/"><u>Vrij Nieuw Mediaconverter MP2 Naar FLAC Online - Gratis Demo Versie Movavi</u></a></li>
+</ul></div>
 

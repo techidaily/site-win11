@@ -1,7 +1,7 @@
 ---
 title: "Terminal: Keep Your Admin Settings Persistent & Handy"
-date: 2024-09-15T23:15:41.676Z
-updated: 2024-09-22T06:44:17.222Z
+date: 2024-10-01T07:32:52.092Z
+updated: 2024-10-04T07:57:50.137Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 ![Always Open the Windows Terminal as Administrator Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/always-open-the-windows-terminal-as-administrator-using-settings.jpeg)
 5. Then click**Save** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the terminal will open automatically in the admin terminal the next time you open it.
 
 ## 2\. How to Always Open the Windows Terminal as Administrator With Desktop Shortcut
@@ -53,9 +60,24 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 3. The next step is to specify the location of the shortcut. To proceed, type the following path in the search field and click**Next** .  
 ![Create Desktop Shortcut For Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-desktop-shortcut-for-windows-terminal.jpg)  
 `%LocalAppData%\Microsoft\WindowsApps\wt.exe`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Give the shortcut a name, such as Windows Terminal.  
 ![Give the Desktop Shortcut Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/give-the-desktop-shortcut-name.jpg)
 5. Finally, click**Finish** to create the shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After creating the shortcut, you can find it on your desktop.
 
@@ -67,14 +89,14 @@ After creating the shortcut, you can find it on your desktop.
 ![Set to run Windows Terminal as an administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-to-run-windows-terminal-as-an-administrator.jpg)
 4. On the Properties window, click**Apply** \>**OK** to save your changes.
 
- Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
 
 ## Windows Terminal Now Opens With Admin Rights
 
@@ -93,5 +115,22 @@ After creating the shortcut, you can find it on your desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ecoding-youtubes-clandestine-content-with-orderliness/"><u>[New] Decoding YouTube's Clandestine Content with Orderliness</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-digital-distortion-made-simple-for-creative-minds/"><u>[Updated] 2024 Approved Digital Distortion Made Simple for Creative Minds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-complete-checklist-for-recording-fb-chats-and-meets/"><u>[Updated] 2024 Approved The Complete Checklist for Recording FB Chats and Meets</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-connecting-your-computer-again/"><u>Bridge the Gap: Connecting Your Computer Again</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-f23-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo F23 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-error-0x80242016-for-updates/"><u>Circumventing Error 0X80242016 for Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-diablo-playbook-step-by-step-guide/"><u>Classic Diablo Playbook: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-the-path-to-chatting-ease-on-your-pc/"><u>Clear the Path to Chatting Ease on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-errors-successfully-downloading-from-the-ms-store/"><u>Clearing Errors: Successfully Downloading From the MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-dark-screen-with-windows-webcam/"><u>Clearing Up Dark Screen with Windows Webcam</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-disappearing-steam-app-graphics/"><u>Combat Disappearing Steam App Graphics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-instructions-to-get-and-install-arduino-nano-drivers-on-windows-machines/"><u>Comprehensive Instructions to Get & Install Arduino Nano Drivers on Windows Machines</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertissez-vos-films-av-au-format-numerique-gratuitement-votre-guide-facile-par-movavi/"><u>Convertissez Vos Films AV Au Format Numérique Gratuitement – Votre Guide Facile Par Movavi.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-image-format-from-pgm-to-jpg-with-movavi/"><u>Free Online Converter: Change Image Format From PGM to JPG with Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taskmgr-full-disk-use-windows-10/"><u>TaskMgr: Full Disk Use - Windows 10</u></a></li>
+</ul></div>
 

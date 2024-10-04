@@ -1,7 +1,7 @@
 ---
 title: "Sketching Savvy: Transforming Windows Desktops"
-date: 2024-09-26T23:16:09.680Z
-updated: 2024-09-28T22:21:44.034Z
+date: 2024-10-03T04:28:00.900Z
+updated: 2024-10-03T19:04:18.575Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
@@ -67,17 +74,10 @@ Now you can get scribbling on the Windows desktop.
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
@@ -90,6 +90,13 @@ Now you can get scribbling on the Windows desktop.
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
@@ -100,13 +107,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
  The gInk app includes five pens on its toolbar by default, but you can add four more. To do so, you’ll need to close gInk’s toolbar first by clicking its**Exit** drawing option. Then right-click the gInk system tray icon and select**Options** .
@@ -116,10 +116,10 @@ Now you can get scribbling on the Windows desktop.
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
@@ -143,15 +143,22 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-critical-take-on-sharex-expert-evaluations-and-alternates/"><u>[New] 2024 Approved The Critical Take on ShareX Expert Evaluations & Alternates</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/lip-concoction-station/"><u>[New] Clip Concoction Station</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-10-comprehensible-and-cost-free-subtitle-downloader-sites-for-2024/"><u>[Updated] 10 Comprehensible & Cost-Free Subtitle Downloader Sites for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-tips-for-opening-windows-help-and-support-promptly/"><u>5 Tips for Opening Windows Help and Support Promptly</u></a></li>
-<li><a href="https://win11.techidaily.com/7-exciting-additions-on-the-horizon-for-windows-11s-moment-22h2/"><u>7 Exciting Additions on the Horizon for Windows 11'S Moment #22H2</u></a></li>
-<li><a href="https://win11.techidaily.com/assess-if-your-system-qualifies-for-new-windows-11/"><u>Assess if Your System Qualifies for New Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-error-xc0f1103f-in-windows-11-nvidias-geforce-now/"><u>Banishing Error Xc0f1103f in Windows 11, NVIDIA's GeForce Now</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-modern-editors-handbook-cutting-and-mixing-in-avidemux-for-2024/"><u>New The Modern Editors Handbook Cutting and Mixing in Avidemux for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/safekeeping-your-favorites-expert-tips-for-preserving-the-teenage-mutant-ninja-turtles-dvd-set/"><u>Safekeeping Your Favorites: Expert Tips for Preserving the Teenage Mutant Ninja Turtles DVD Set</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-battle-royale-bugs-fixing-call-of-duty-warzone-disc-reading-issues-5031-for-pc/"><u>Solving Battle Royale Bugs: Fixing Call of Duty Warzone Disc Reading Issues (5.0/3.1) for PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-twitch-stream-mastery-top-4-innovations-to-try/"><u>[New] 2024 Approved Twitch Stream Mastery Top 4 Innovations to Try</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-undisclosed-screengrabbing-invisible-photography-on-snapchat/"><u>[New] 2024 Approved Undisclosed ScreenGrabbing Invisible Photography on Snapchat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-8-best-image-grabbing-utilities/"><u>[Updated] 2024 Approved 8 Best Image Grabbing Utilities</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tailored-titling-techniques-for-impactful-youtube-channels/"><u>[Updated] 2024 Approved Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-complete-kinetics-exploration/"><u>[Updated] In 2024, Complete Kinetics Exploration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-integrating-youtube-media-into-instagram-experience/"><u>[Updated] Integrating YouTube Media Into Instagram Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/4kplus-3d-blu-ray-magic-high-end-players-guide/"><u>4K+ 3D Blu-Ray Magic High-End Players Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-windows-11-shutdown-techniques-for-active-processestasks/"><u>Delaying Windows 11 Shutdown: Techniques for Active Processes/Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-unclog-printer-usage-jams-in-win11/"><u>Guide to Unclog Printer Usage Jams in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-isdonedll-isarcextract-error-in-windows-10-and-11/"><u>How to Fix the ISDone.dll (ISArcExtract) Error in Windows 10 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-failed-geforce-scans-on-pcs-running-windows/"><u>Navigating Failed GeForce Scans on PCs Running Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-wsl-the-4294967295-error-explained/"><u>Resolving WSL: The 4294967295 Error Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-desktop-with-w11-pinning-tips/"><u>Streamline Your Desktop with W11 Pinning Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/systems-untapped-resource-potential/"><u>System's Untapped Resource Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-system-call-failures-in-windows-11/"><u>Troubleshooting: Resolving System Call Failures in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-workflows-6-top-time-management-apps-reviewed/"><u>Winning Workflows: 6 Top Time Management Apps Reviewed</u></a></li>
 </ul></div>
 

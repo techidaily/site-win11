@@ -1,7 +1,7 @@
 ---
 title: Guide to Quick Refresh of Critical Directories in WS11
-date: 2024-09-27T22:09:34.515Z
-updated: 2024-09-28T21:48:34.263Z
+date: 2024-10-03T00:28:26.654Z
+updated: 2024-10-03T20:31:35.998Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
  Both folders contain files needed for the installation of Windows updates. Windows update installation issues can occur because of corrupted data in those folders. Those errors typically appear in Settings with variable codes like 0x800f0922 when users manually select to check for and install updates.
 
  Therefore, resetting those folders is a troubleshooting method for fixing Windows 11 update installation issues. Resetting the SoftwareDistribution and Catroot2 folders removes corrupted data they might contain, which rebuilds them. You can reset those folders by deleting their contents or renaming them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Erasing Their Contents
 
@@ -68,6 +75,13 @@ net start cryptSvc
 net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
 
  Renaming the SoftwareDistribution and Catroot2 directories is an alternative method for resetting those folders. Windows will recreate those folders after you’ve renamed them. You can rename the SoftwareDistribution and catroot2 folders with the Command Prompt like this:
@@ -78,28 +92,34 @@ net start msiserver`
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -113,31 +133,11 @@ net start msiserver`
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
 
@@ -147,27 +147,6 @@ net start msiserver`
 
  So, try doing that whenever you need to fix an error code shown within the Windows Update tab of Settings.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/raft-your-vision-best-cameras-for-video-creators/"><u>[New] Craft Your Vision Best Cameras for Video Creators</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-explore-new-movie-landscapes-top-7-alternates/"><u>[Updated] Explore New Movie Landscapes - Top 7 Alternates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbey-jahresumsatz-steigt-um-19-in-deutschland-fur-das-jahr-2018-seo-freundliche-ubersicht/"><u>ABBEY Jahresumsatz Steigt Um 19 % in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht</u></a></li>
-<li><a href="https://win11.techidaily.com/corrective-guide-to-browser-paste-issues-on-windows/"><u>Corrective Guide to Browser Paste Issues on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-dev-drive-setup-in-windows-11-development-space/"><u>Demystifying Dev Drive Setup in Windows 11 Development Space</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-the-latest-surface-book-driver-updates-now/"><u>Effortless Installation: Get the Latest Surface Book Driver Updates Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-15-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 15? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-installation-windows-cab-files-unpacked-and-utilized/"><u>Initiating Installation: Windows CAB Files Unpacked and Utilized</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-free-vob-to-flac-converter-movavi-media/"><u>Online FREE VOB to FLAC Converter - Movavi Media</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-disregard-must-have-components-issue-in-win10win11/"><u>Quick Guide to Disregard Must-Have Components Issue in Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-headphone-connection-errors-in-windows-1011/"><u>Resolving Headphone Connection Errors in Windows 10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-limitations-of-artificial-intelligence-in-copy-detection/"><u>The Limitations of Artificial Intelligence in Copy Detection</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-best-video-edits-and-scripting-tools-in-windows-11/"><u>The Ultimate List: Best Video Edits & Scripting Tools in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-the-way-you-use-windows-11s-search-feature/"><u>Transforming the Way You Use Windows 11'S Search Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-destinations-for-procuring-phones-at-best-value/"><u>Ultimate Destinations for Procuring Phones at Best Value</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-group-policy-settings-an-exploration-in-3-dimensions/"><u>Unraveling Windows Group Policy Settings: An Exploration in 3 Dimensions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -175,3 +154,27 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-25-anime-visionaries-on-tiktok-changing-content-norms/"><u>[New] In 2024, Top 25 Anime Visionaries on TikTok Changing Content Norms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-learn-to-mute-igs-personalized-prompts/"><u>[New] Learn to Mute IG's Personalized Prompts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tailored-techniques-to-procure-tweets-gifs/"><u>[Updated] 2024 Approved Tailored Techniques to Procure Tweets GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-ahead-with-funimates-easy-apk-instructions/"><u>2024 Approved Game Ahead with Funimate's Easy APK Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-simplified-your-companion-for-w11-transitioning/"><u>DevHome Simplified: Your Companion for W11 Transitioning</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0xc00ce556-in-winoss-parsing/"><u>Eliminating Error 0xC00CE556 in WinOSs PARSING</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-chrome-notification-suppression-windows/"><u>Mastering Chrome Notification Suppression, Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-concentration-a-guide-to-activating-focus-mode-on-your-android-device/"><u>Mastering Concentration: A Guide to Activating Focus Mode on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fixes-for-unsuccessful-windows-upgrades/"><u>Mastering the Fixes for Unsuccessful Windows Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-program-management-thwarting-windows-autoshrink/"><u>Optimal Program Management: Thwarting Windows' Autoshrink</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-inadequate-systems-to-satisfy-intel-graphic-standards/"><u>Overhauling Inadequate Systems to Satisfy Intel Graphic Standards</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalized-fitness-plans-powered-by-chatgpt-a-trainers-guide/"><u>Personalized Fitness Plans Powered by ChatGPT: A Trainer's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-top-8-methods-to-prevent-multiversus-from-freezing/"><u>Resolved: Top 8 Methods to Prevent MultiVersus From Freezing</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-connectivity-how-to-enable-telnet-in-windows-os/"><u>Streamline Connectivity: How to Enable Telnet in Windows OS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unparalleled-top-5-lightweight-cinematography-devices-for-2024/"><u>Unparalleled Top 5 Lightweight Cinematography Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unravel-complex-windows-issues-help-at-hand/"><u>Unravel Complex Windows Issues: Help at Hand!</u></a></li>
+<li><a href="https://win11.techidaily.com/unsafe-synthetic-methods-for-windows-11-key-creation/"><u>Unsafe Synthetic Methods for Windows 11 Key Creation</u></a></li>
+</ul></div>
+

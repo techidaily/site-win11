@@ -1,7 +1,7 @@
 ---
 title: Improving Windows Discord Search Response Times
-date: 2024-09-27T20:19:34.100Z
-updated: 2024-09-28T16:12:38.198Z
+date: 2024-10-01T06:41:20.229Z
+updated: 2024-10-03T22:17:06.410Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 
  Now that you know the common reasons behind the Discord search issue, let’s move on to some recommended fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  A weak internet connection is the most common issue that everyone faces. So, fixing your internet first should be your top priority.
@@ -50,18 +57,39 @@ Here's how you can check and fix your internet-related issues:
 2. Select**Command Prompt (Admin)** from the list of options. You can also click the**Terminal (Admin)** option.  
 ![Windows Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-power-user-menu.jpg)
 3. Type**netsh winsock reset** into the command prompt or terminal and hit**Enter** . This will force Windows to reset Winsock.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
 4. You can restart your PC and check if the Discord search feature works correctly.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that this method will restore your network settings to their default values. There's nothing to worry about, as it will not do any harm to your internet connection.
 
  Besides, you should also[fix your Wi-Fi connection if it's unstable](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) to avoid network-related errors in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Discord Windows Client
@@ -77,19 +105,6 @@ Here's how you can check and fix your internet-related issues:
 ![Discord Icon On Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-icon-on-taskbar.jpg)
 * The last way of updating Discord is by running it as an administrator. To do so, right-click**Discord** on the desktop and select**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable Your VPN or Proxy
 
  If you are using any VPN or proxy, you may often run into Discord-related issues. For example, the[Discord messages fail to load](https://www.makeuseof.com/windows-discord-messages-failed-to-load/) issue can occur due to a VPN or proxy.
@@ -104,19 +119,6 @@ Here's how you can check and fix your internet-related issues:
 3. Under**VPN connections** , click the**Disconnect** button next to your connected VPN.  
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
 
@@ -134,6 +136,19 @@ Below are the steps you need to perform to disable the Streamer Mode:
 ![Discord Streamer Mode Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-streamer-mode-settings.jpg)
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Clear Discord's AppData Cache Folder
 
  Discord stores its cache in the AppData folder. Over time, the Discord cache may get corrupted and cause issues like the search bar not working. There's nothing to worry about, as clearing the cache is as simple as deleting a folder.
@@ -145,13 +160,6 @@ Here's how you can clear Discord's cache files on Windows:
 3. Type**%appdata%** in the search bar and hit**Enter** . This will open the cache directory in File Explorer.  
 ![AppData Command In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-command-in-explorer.jpg)
 4. Locate the**discord** folder and right-click on it.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
@@ -170,10 +178,16 @@ Here's how you can clear Discord's cache files on Windows:
 3. Double-click the downloaded file to launch the Discord installer setup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Log in to your Discord account and try searching messages now via the search bar.
@@ -183,13 +197,6 @@ Here's how you can clear Discord's cache files on Windows:
 ## 7\. Some Miscellaneous Fixes to Try
 
  If you've tried everything and still can't get Discord's search function to work, try the following miscellaneous fixes once.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Uninstall Your Discord Plugins
 
@@ -202,10 +209,10 @@ Here's how you can clear Discord's cache files on Windows:
  Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit[Discord's server status](https://discordstatus.com/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Restore Discord’s Search Functionality in No Time on Windows
@@ -229,24 +236,18 @@ Here's how you can clear Discord's cache files on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-downloadsave-instagram-photosvideos-on-iphone/"><u>[Updated] 2024 Approved How to Download/Save Instagram Photos/Videos on iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-noise-reduction-for-videographers-best-freepriced-choices-for-2024/"><u>[Updated] Noise Reduction for Videographers Best Free/Priced Choices for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-online-media-crafter/"><u>2024 Approved Online Media Crafter</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-gleeful-twittersphere/"><u>2024 Approved The Gleeful Twittersphere</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-zootopias-freshest-startup-ideas/"><u>2024 Approved Zootopia’s Freshest Startup Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-approach-to-mend-windows-1011-discord-errors/"><u>A Step-by-Step Approach to Mend Windows 10/11 Discord Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-finding-documents-with-windows-11-taskbar-search-feature/"><u>Accelerate Finding Documents with Windows 11 Taskbar Search Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/accessible-windows-10-navigating-as-a-first-timer/"><u>Accessible Windows 10: Navigating as a First-Timer</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-profile-not-valid-issue-for-users-in-windows/"><u>Addressing Profile Not Valid Issue for Users in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/augmenting-linux-infrastructure-with-windows-software/"><u>Augmenting Linux Infrastructure with Windows Software</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-visual-chaos-tidy-up-your-icons/"><u>Avoid Visual Chaos: Tidy Up Your Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-edge-how-to-get-rid-of-it-in-w11/"><u>Avoiding Edge: How to Get Rid of It in W11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beginners-blueprint-for-earnings-in-periscope-livestreams-for-2024/"><u>Beginner's Blueprint for Earnings in Periscope Livestreams for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719302930005-bypass-incompatibility-woes-in-windows-xp-7-and-8-easily/"><u>Bypass Incompatibility Woes in Windows XP, 7 & 8 Easily.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-content-that-wins-on-ig-unboxing-edition/"><u>Crafting Content That Wins on IG Unboxing Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/1719373181052-gpt4alls-local-window-companion-a-cost-free-chatbot-clone/"><u>GPT4All's Local Window Companion - A Cost-Free ChatBot Clone.</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-12-proplus-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme 12 Pro+ 5G FRP Locks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/logitech-g533-review-one-of-the-better-sounding-wireless-gaming-headsets/"><u>Logitech G533 Review: One of the Better-Sounding Wireless Gaming Headsets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-capturing-real-life-the-art-of-writing-docs-for-2024/"><u>[New] Capturing Real Life The Art of Writing Docs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-direct-transmission-of-google-meet-into-your-youtube-playlist-for-2024/"><u>[New] Direct Transmission of Google Meet Into Your YouTube Playlist for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>[New] In 2024, Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-copyright-compliance-for-streaming-songs-on-instagram/"><u>[Updated] Copyright Compliance for Streaming Songs on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-harnessing-zoom-for-impactful-youtube-livestream-presentations/"><u>[Updated] In 2024, Harnessing Zoom for Impactful YouTube Livestream Presentations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-yogic-alchemy-transform-your-body-mind-and-spirit/"><u>[Updated] In 2024, Yogic Alchemy - Transform Your Body, Mind & Spirit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/get-the-most-out-of-windows-11-essential-settings-for-upgraded-speed/"><u>Get the Most Out of Windows 11: Essential Settings for Upgraded Speed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-android-vr3d-player-selection/"><u>In 2024, Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-file-access-barriers-on-windows-11/"><u>Overcoming File Access Barriers on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-lost-control-panel-configurations-in-win11/"><u>Rediscover Lost Control Panel Configurations in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-non-existent-camera-issue-in-windows-device-hub/"><u>Resolve Non-Existent Camera Issue in Windows Device Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/track-down-and-fix-gone-data-devices-on-pc/"><u>Track Down and Fix Gone Data Devices on PC</u></a></li>
 </ul></div>
 

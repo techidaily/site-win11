@@ -1,7 +1,7 @@
 ---
 title: How to Delete Account Details Efficiently Post-Login
-date: 2024-09-20T22:22:25.341Z
-updated: 2024-09-21T18:01:01.690Z
+date: 2024-09-26T20:35:58.684Z
+updated: 2024-10-04T03:03:45.920Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 3. Under**Additional settings** , toggle off the switch next to **Show account details such as my email address on the sign-in screen** .  
 ![Hide Email From Windows Login Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Hide Email Address From Windows Login Screen Using the Group Policy Editor
 
  The Group Policy Editor (or gpedit.msc) is a handy Windows tool for configuring advanced system settings. You can also this tool to hide your email address from the Windows login screen.
@@ -48,8 +61,23 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 6. Click**Apply** followed by**OK** .  
 ![Hide Email From Windows Login Screen Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-group-policy-editor.jpg)
 7. Next, double-click on the**Interactive logon: Do not display last user name** policy from the same section.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Select**Enabled** in the properties window.
 9. Click**Apply** followed by**OK** to save changes.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Hide Email Address From Windows Login Screen Using the Registry Editor
 
@@ -71,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
  Exit the Registry Editor and restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hiding Your Email Address From the Windows Login Screen Is Easy
@@ -94,5 +122,26 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/-guide-to-crafting-engaging-videos-in-adobe-premiere-for-2024/"><u>[New] A Guide to Crafting Engaging Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-countdown-control-in-live-broadcasting-obs-approach/"><u>[New] In 2024, Countdown Control in Live Broadcasting OBS Approach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[New] In 2024, Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-20mb-files-timing/"><u>2024 Approved Breaking Down 20MB File's Timing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-thx-audio-malfunction-in-windows/"><u>Correcting THX Audio Malfunction in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/delving-deep-into-ios-video-recording-capabilities-for-2024/"><u>Delving Deep Into IO's Video Recording Capabilities for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-mending-the-windows-performance-sensor/"><u>Diagnosing and Mending the Windows Performance Sensor</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-windows-application-tracking-feature/"><u>Halt Windows Application Tracking Feature</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-6s-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 6s to iPad | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminating-creativity-with-dark-themes-in-paint/"><u>Illuminating Creativity with Dark Themes in Paint</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-best-practices-in-adobe-captivate-for-videos/"><u>In 2024, Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-savings-tap-into-w11-pro-offers/"><u>Optimize Savings: Tap Into W11 Pro Offers</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-pc-with-windows-visual-treasures-in-backgrounds/"><u>Personalizing Your PC with Windows' Visual Treasures in Backgrounds</u></a></li>
+<li><a href="https://win11.techidaily.com/ram-cache-insight-and-clearing-methods-for-win-users/"><u>RAM Cache Insight & Clearing Methods for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/shadows-no-more-restore-your-lost-windows-on-win10win11/"><u>Shadows No More: Restore Your Lost Windows on Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-hand-tracker-potential-guide/"><u>Unlock Hand Tracker Potential Guide</u></a></li>
+</ul></div>
 

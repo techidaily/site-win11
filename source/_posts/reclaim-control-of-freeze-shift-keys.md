@@ -1,7 +1,7 @@
 ---
 title: Reclaim Control of Freeze Shift Keys
-date: 2024-09-28T00:07:52.915Z
-updated: 2024-09-28T20:28:51.871Z
+date: 2024-09-27T04:16:26.645Z
+updated: 2024-10-03T16:09:18.964Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  If you need help, see our guide on [how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/). Also, check out this [trick for cleaning under keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart Your Computer
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Turn Off Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-off-filter-keys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, close the Settings window and see if the shift key is now working.
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 5. On the next page, select the **Search automatically for drivers** option.  
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now follow the instructions displayed on your screen to complete the process. After that, restart your computer and see if it solves the issue. If not, reinstall the keyboard drivers. This resolves compatibility issues and ensures hardware functions properly.
 
  To reinstall the keyboard drivers, follow these steps:
@@ -86,7 +93,21 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
 3. Click **Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now close the Device Manager window and restart your computer. Windows will now automatically install drivers on startup. After that, test the shift key again and see if the problem is solved.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Devices Troubleshooter
 
@@ -99,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 3. In the Troubleshooting window, click **Advanced** and check the box next to **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. Click **Next** and follow the instructions displayed on your screen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The troubleshooter will now scan your computer for hardware-related issues. When it's done, restart your computer and check if the shift key now works.
 
@@ -137,14 +151,14 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 5. Next, check the **Full scan** box and click **Scan now**.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Try a Different Keyboard
 
@@ -154,56 +168,13 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 
 ![On-screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/on-screen-keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Using the Shift Key Again on Windows
 
  The Shift key is useful for capitalization, symbols, and navigating Windows menus. However, if it stops working, tasks become tedious and productivity slows down. If other solutions fail, try performing a system restore to return your Windows computer to a previous state where the Shift key worked properly.
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-bridging-devices-move-images-and-videos-from-pc/"><u>[New] 2024 Approved Bridging Devices Move Images & Videos From PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-next-gen-visuals-top-5-hdmi-21-gaming-pcconsole-screens/"><u>2024 Approved Next-Gen Visuals Top 5 HDMI 2.1 Gaming PC/Console Screens</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 11 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/9-pros-of-modernizing-to-windows-revamped-outlook/"><u>9 Pros of Modernizing to Windows' Revamped Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-workflow-fine-tuning-mouse-clicks/"><u>Accelerate Your Workflow: Fine-Tuning Mouse Clicks</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-failed-logon-wait-duration-settings/"><u>Adjusting Failed Logon Wait Duration Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-devices-performance-with-quick-android-apk-installation-in-windows-11/"><u>Boost Your Device's Performance with Quick Android APK Installation in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosted-app-opening-top-techniques-for-windows-11/"><u>Boosted App Opening: Top Techniques for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-memory-usage-in-windows-without-complications/"><u>Boosting Memory Usage in Windows Without Complications</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-the-utility-of-windows-11s-initial-interface/"><u>Boosting the Utility of Windows 11'S Initial Interface</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-fast-paced-footage-to-staggeringly-slow-motion-videos-a-comprehensive-ig-reel-guide-for-2024/"><u>From Fast-Paced Footage to Staggeringly Slow Motion Videos A Comprehensive IG Reel Guide for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-acer-chromebook-cb3-15-review-enhancing-your-workflow-on-the-large-display/"><u>In-Depth Acer Chromebook CB3-15 Review - Enhancing Your Workflow on the Large Display</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lost-files-on-iphone-discover-top-notch-recovery-solutions-now/"><u>Lost Files on iPhone? Discover Top-Notch Recovery Solutions Now</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-x-flip-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo X Flip</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-poem-craft-via-chatgpt-interaction/"><u>The Art of Poem Craft via ChatGPT Interaction</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y55s-5g-2023-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y55s 5G (2023) Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/touchscreen-innovation-on-the-horizon-for-macbook-users-expected-pricing-availability-dates-and-hardware-revealed-in-rumors/"><u>Touchscreen Innovation on the Horizon for MacBook Users: Expected Pricing, Availability Dates & Hardware Revealed in Rumors</u></a></li>
-<li><a href="https://win11.techidaily.com/1719245846865-windows-issues-learn-how-to-seek-expert-guidance/"><u>Windows Issues? Learn How to Seek Expert Guidance</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -212,3 +183,20 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practices-in-selecting-premium-hdr-cameras/"><u>[Updated] Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-marvelous-evaluation-and-replacement-insight/"><u>[Updated] Marvelous Evaluation & Replacement Insight</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-visual-storytelling-at-its-best-the-quintessential-5-techniques/"><u>[Updated] Visual Storytelling at Its Best The Quintessential 5 Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battling-with-palworld-strategies-to-stop-your-gaming-platform-from-crashing/"><u>Battling with Palworld: Strategies to Stop Your Gaming Platform From Crashing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/directcapture-pro-windows-11-recording-made-simple-for-2024/"><u>DirectCapture Pro - Windows 11 Recording Made Simple for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/echoes-of-files-past-navigating-windows-11-history/"><u>Echoes of Files Past: Navigating Windows 11 History</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-videos-with-winxvideo-ai-superior-upscaling-recording-and-editing-tools/"><u>Enhance Your Videos with WinxVideo AI: Superior Upscaling, Recording and Editing Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-the-uninstalling-and-restoring-process-of-windows-apps/"><u>Guiding Through the Uninstalling & Restoring Process of Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/hidden-actions-for-context-menus-on-windows-editions/"><u>Hidden Actions for Context Menus on Windows Editions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g24-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Motorola Moto G24.</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-windows-11-ui-master-end-task-options/"><u>Securing Your Windows 11 UI: Master End Task Options</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-iphones-calendar-data-on-windows-10/"><u>Unlocking Your iPhone's Calendar Data on Windows 10</u></a></li>
+</ul></div>
+

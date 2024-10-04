@@ -1,7 +1,7 @@
 ---
 title: Reactivating Non-Responding Windows Media Player
-date: 2024-09-27T23:20:09.929Z
-updated: 2024-09-29T00:08:59.462Z
+date: 2024-09-30T08:23:41.148Z
+updated: 2024-10-03T20:09:08.462Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ To restart the Windows Audio service:
 3. In the Services window, scroll down to locate the**Windows Audio** service on the list. Then, right-click on it and select**Restart** .  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-audio-service.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Make Sure the Supporting Audio Components Are Running
 
  Windows Audio service relies on several system components to function properly on your PC. If one of these components is not running, audio services may stop responding.
@@ -58,13 +51,26 @@ Here’s how to check if the required services are running.
 ![Remote Procedure Call Service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remote-procedure-call-service-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your PC after this and check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Add Local and Network Services Using Command Prompt
 
@@ -82,18 +88,18 @@ Restart your PC after this and check if the issue is still there.
 
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update Audio Drivers
 
  Outdated or incompatible audio drivers on your PC can also cause the audio services to malfunction. If that's the case, updating the audio drivers on your PC should do the trick. If you need help with that, check our guide on[how to update audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) and follow the steps outlined there.
 
  If updating audio drivers manually sounds like a tedious task, you can get one of the[best driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) to ease the process.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Switch to the Default Sound Drivers
 
@@ -113,13 +119,6 @@ Restart your PC after this and check if the issue is still there.
 5. Select**Uninstall** to confirm the action.
 6. In the Device Manager window, click the**Action** menu at the top and select**Scan for hardware changes** from the list.  
 ![Uninstall Sound Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-sound-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run the SFC and DISM Scans
 
@@ -144,6 +143,13 @@ To perform a system restore on Windows, use these steps:
 7. Review all the details and click**Finish** .  
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to restart and revert to the specified restore point. After that, the audio services should work fine.
 
 ## Fixing Audio Services on Windows Is Easy
@@ -167,18 +173,24 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-auditory-adaptability-for-ace-gamers/"><u>[New] Auditory Adaptability for Ace Gamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elevate-your-meetings-best-tools-to-record-zoom/"><u>[New] Elevate Your Meetings Best Tools to Record Zoom</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-streamers-to-millionaires-the-monetization-blueprint-for-2024/"><u>[New] From Streamers to Millionaires The Monetization Blueprint for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam/"><u>2024 Approved In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam?</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-unexpected-reference-to-token-in-win10win11/"><u>Correcting Unexpected Reference to Token in Win10/Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-12plus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme 12+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-plugin-integration/"><u>Mastering ChatGPT Plugin Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-screen-snapshotting-4-key-strategies-for-windows-users/"><u>Mastering the Art of Screen Snapshotting: 4 Key Strategies for Windows Users.</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise:</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/stabile-videos-erstellen-tipps-fur-die-optimierung-auf-windows-mac-android-und-iphone/"><u>Stabile Videos Erstellen: Tipps Für Die Optimierung Auf Windows, Mac, Android Und iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-repeated-edge-desktop-additions/"><u>Stopping Repeated Edge Desktop Additions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-mac-high-res-screen-and-audio-recorder/"><u>[New] Exclusive Mac High-Res Screen & Audio Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revolutionizing-reach-the-next-wave-of-fb-ad-techniques-2024/"><u>[New] Revolutionizing Reach The Next Wave of FB Ad Techniques, 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-stifled-expression-sudden-copyright-breach-for-2024/"><u>[New] Stifled Expression Sudden Copyright Breach for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/build-your-own-free-pc-based-ps4-media-streaming-station-a-step-by-step-guide/"><u>Build Your Own Free PC-Based PS4 Media Streaming Station: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-p55-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel P55 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-to-ios-snapshots-and-more/"><u>Complete Guide to iOS Snapshots and More</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco X6 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-speech-to-text-the-whisper-desktop-way/"><u>Mastering Speech-to-Text: The Whisper Desktop Way</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-ai-hub-revolutionizing-retail-shopping/"><u>Microsoft AI Hub: Revolutionizing Retail Shopping</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-cmd-prompt-lack-of-admin-privileges/"><u>Resolving Cmd Prompt Lack of Admin Privileges</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-and-using-microsofts-code-assistant/"><u>Step-by-Step: Setting Up and Using Microsoft's Code Assistant</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-camera-non-storage-feedback/"><u>Tackling Windows Camera Non-Storage Feedback</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-enthusiasts-choice-for-hardware-advice-trust-in-toms-guidance/"><u>Tech Enthusiasts' Choice for Hardware Advice - Trust in Tom's Guidance</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-workflow-efficiency-mastering-flow-launcher-basics/"><u>Transform Workflow Efficiency: Mastering Flow Launcher Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-0x800f082f-with-dism/"><u>Troubleshooting Windows Error 0X800F082F with DISM</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/everyone-should-know-about-youtube-tv-before-you-stream-for-2024/"><u>What Everyone Should Know About YouTube TV Before You Stream for 2024</u></a></li>
 </ul></div>
 

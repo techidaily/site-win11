@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizardry: The Art of Multi-App Closure"
-date: 2024-09-14T20:34:16.073Z
-updated: 2024-09-22T06:24:13.862Z
+date: 2024-09-30T04:27:36.563Z
+updated: 2024-10-03T21:54:11.035Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
 ![Closing multiple apps using the Resource Monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/closing-multiple-apps-using-the-resource-monitor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Want to know the best part about using the Resource Monitor? This tool allows you to re-open multiple apps simultaneously with just a few clicks!
 
  Here's how to reopen your apps with the Resource Monitor:
@@ -76,28 +83,28 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
 ![Opening the Command Prompt using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-command-prompt-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Let’s say you want to close multiple File Explorer windows simultaneously. To do that, type the following command in the Command Prompt and press **Enter**:
 
 taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
@@ -145,6 +152,13 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
  This app works almost like the Windows built-in Resource Monitor. However, it comes with a basic and easy-to-understand interface. When you open the tool, it immediately displays all your active apps. All you need to do is tick the relevant boxes and then click the **OK** button to close those apps.
@@ -156,13 +170,6 @@ taskkill /f /im paintdotnet.exe /T > nul
  You can customize the Close All Windows tool by clicking the **View** tab and ticking the relevant boxes. And if the tool seems a bit too complicated to use, then you can navigate to the **Help** tab to get some assistance.
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
@@ -183,5 +190,26 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-fast-funny-build-memes-with-kapwing/"><u>[Updated] In 2024, Fast, Funny Build Memes with Kapwing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-upgrading-your-spotify-library-to-youtube-music-access/"><u>[Updated] Upgrading Your Spotify Library to YouTube Music Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>2024 Approved From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-premier-audio-archivers-for-teachings/"><u>2024 Approved Premier Audio Archivers for Teachings</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-1011-search-visibility-and-functionality/"><u>Enhancing Windows 10/11 Search Visibility & Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-windows-11-with-dolby-atmos-experience/"><u>Enriching Windows 11 with Dolby Atmos Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ensuring-seamless-security-with-iphone-x-face-id-fixed/"><u>Ensuring Seamless Security with iPhone X - Face ID Fixed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-the-samsung-galaxy-watch-active-2-outshines-its-original-version-with-superior-connectivity-control-and-insightful-functions/"><u>How the Samsung Galaxy Watch Active 2 Outshines Its Original Version with Superior Connectivity, Control, and Insightful Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-windows-11s-isdonedll-complications/"><u>How to Repair Windows 11'S ISDone.dll Complications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-12-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi 12 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-cost-free-tool-transforming-dpx-photos-into-png-format-online/"><u>Movavi's Cost-Free Tool: Transforming DPX Photos Into PNG Format Online</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-system-failure-windows-error-0x8007045d/"><u>Overcoming System Failure - Windows Error 0X8007045D</u></a></li>
+<li><a href="https://win11.techidaily.com/project-proficiency-through-keyboard-kudos/"><u>Project Proficiency Through Keyboard Kudos</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-chrome-download-issues-in-the-windows-environment/"><u>Remedying Chrome Download Issues in the Windows Environment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/showcase-excellence-with-these-essential-thumbnail-fonts/"><u>Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-malfunction-fixing-windows-update-error-0x80246007/"><u>Swift Solution to Upgrade Malfunction: Fixing Windows Update Error 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharging-android-dev-tools-speed-boost-for-windows-users/"><u>Turbocharging Android Dev Tools: Speed Boost for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-netstat-function-for-network-surveillance/"><u>Unveiling Windows 11'S Netstat Function for Network Surveillance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-drivers-downloaded-how-to-install-hp-deskjet-2700-printing-software/"><u>Updated Drivers Downloaded: How to Install HP DeskJet 2700 Printing Software</u></a></li>
+</ul></div>
 

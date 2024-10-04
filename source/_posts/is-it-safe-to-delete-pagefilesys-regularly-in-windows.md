@@ -1,7 +1,7 @@
 ---
 title: Is It Safe to Delete Pagefile.sys Regularly in Windows?
-date: 2024-09-21T16:01:15.055Z
-updated: 2024-09-28T20:12:04.043Z
+date: 2024-10-03T05:31:52.970Z
+updated: 2024-10-03T21:48:11.553Z
 tags:
   - windows10
   - windows11
@@ -51,31 +51,26 @@ Here's what you need to know.
 ![selecting options in the top menu of file explorer in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/file-explorer-options.jpg)
 4. Select the**View** tab in Folder Options and uncheck**Hide protected operating system files (Recommended)** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The unhide protected os files option in folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/folder-options-unhide-protected-os-files.jpg)
 5. In the warning that pops up, click**Yes** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
 7. Click**OK** to close Folder Options and apply the changes.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
@@ -96,6 +91,13 @@ Here's what you need to know.
 
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
 
 1. Press**Win + S** to open Windows Search.
@@ -103,22 +105,8 @@ Here's what you need to know.
 ![searching for sysdm.cpl in windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-search-sysdm-cpl.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
@@ -129,6 +117,13 @@ Here's what you need to know.
 9. Restart your Windows computer for the changes to take effect.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Restore Pagefile.sys
 
@@ -157,13 +152,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
 ![the About page of the System window in the Settings app on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-about-windows-11.jpg)
 4. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the Performance Options window, select the**Advanced** tab and click**Change** .
 6. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 7. Click on the radio button for**Custom size** . Immediately, you’ll see that the two text boxes below it (**Initial size** and**Maximum size**) are no longer grayed out.
@@ -172,13 +160,20 @@ Now, to bring back Pagefile.sys, follow the steps below:
 9. Click**OK** to close the Virtual Memory window and apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Restart your Windows computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pagefile.sys, Demystified
 
@@ -201,14 +196,21 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mastering-live-participation-in-tiktok-a-step-by-step-guide/"><u>[New] In 2024, Mastering Live Participation in TikTok A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-decoding-youtubes-algorithm-behind-prominent-comments-for-2024/"><u>[Updated] Decoding YouTube's Algorithm Behind Prominent Comments for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-productivity-with-descriptive-folders-in-windows-11/"><u>Boosting Productivity with Descriptive Folders in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gopro-hero9-black-review-the-best-of-gopro-comes-at-a-price/"><u>GoPro HERO9 Black Review: The Best of GoPro Comes at a Price</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-etiquette-ceasing-connections-for-2024/"><u>Instagram Etiquette Ceasing Connections for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-repair-tactics-for-windows-photo-app-malfunctions/"><u>Instant Repair Tactics for Windows Photo App Malfunctions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-best-free-webm-video-editors-for-2024/"><u>New Top 10 Best Free WebM Video Editors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resizing-desktop-picture-summaries-in-win11/"><u>Resizing Desktop Picture Summaries in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-at-lan-play-fixes-for-no-connection-woes/"><u>Winning at LAN Play: Fixes for No Connection Woes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-20-greatest-sandbox-experiences-ever-made/"><u>[New] 20 Greatest Sandbox Experiences Ever Made</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs/"><u>[New] 2024 Approved Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-creativity-with-tiktok-video-tricks/"><u>[New] 2024 Approved Unleashing Creativity with TikTok Video Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>[New] Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-setting-up-an-alternate-email-address-on-gmail/"><u>A Step-by-Step Guide: Setting Up an Alternate Email Address on Gmail</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-guide-square-windows-interface/"><u>Direct Guide: Square Windows' Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-remove-on-screen-dialogues-from-your-amazon-prime-viewing-experience/"><u>Easy Steps to Remove On-Screen Dialogues From Your Amazon Prime Viewing Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-photovideo-loss-in-windows-camera-app/"><u>Fixing Photo/Video Loss in Windows Camera App</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-deletion-to-joy-a-testimonial-on-extraordinary-photo-salvage/"><u>From Deletion to Joy: A Testimonial on Extraordinary Photo Salvage</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-with-microsofts-copilot-key-insights/"><u>Mastering Windows 11 with Microsoft's Copilot Key Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-overcoming-windows-10-bsod-issues/"><u>Quick Guide: Overcoming Windows 10 BSOD Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unresponsive-snip-tools-shortcuts/"><u>Resolving Unresponsive Snip Tools Shortcuts</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/schnelle-prozesse-erhebliche-einsparungen-zeigen-sie-mit-abbyy-flexicapture-lokalen-behorden-wie-die-zeit-geld-ist-optimierung-von-arbeitsablaufen-bei-der-v23/"><u>Schnelle Prozesse, Erhebliche Einsparungen: Zeigen Sie Mit ABBYY FlexiCapture Lokalen Behörden Wie Die Zeit Geld Ist – Optimierung Von Arbeitsabläufen Bei Der Verarbeitung Von Dokumenten Und Formularen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-image-files-management-on-ios-jpegpng-to-pdf/"><u>Seamless Image Files Management on IOS JPEG/PNG to PDF</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-cause-of-geforce-error-x0001-in-windows-os/"><u>Unraveling the Cause of GeForce Error X0001 in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-surface-devices-firmware-edition-explained/"><u>Upgrading Surface Devices: Firmware Edition Explained</u></a></li>
 </ul></div>
 

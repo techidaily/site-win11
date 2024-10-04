@@ -1,7 +1,7 @@
 ---
 title: Recovering the Malfunctional Windows Diagnostic Tool
-date: 2024-09-27T17:30:35.196Z
-updated: 2024-09-28T21:02:19.071Z
+date: 2024-09-27T23:48:11.579Z
+updated: 2024-10-04T00:04:56.727Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ To restart this service, follow these steps:
 
  After you follow the above steps, check if Performance Monitor is working correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the System File Checker
 
  The System File Checker is a handy Windows tool that can scan for and fix corrupted system files. It is useful when the Performance Monitor isn't working due to a corrupt system file.
@@ -63,10 +70,10 @@ To run the System File Checker, follow these steps:
 4. In the Command Prompt, type the following command and press**Enter** :  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -75,10 +82,10 @@ sfc /scannow
  After the scan is complete, restart your computer and check if Performance Monitor is working properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for a Windows Update
@@ -89,6 +96,13 @@ sfc /scannow
 2. Click**Windows Update** in the left pane.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 3. Then click the**Check for updates** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If any available updates are found, Windows will download and install them automatically. After the updates have been installed, restart your computer and check if Performance Monitor is now working correctly.
 
@@ -104,29 +118,9 @@ To perform a system restore, follow these steps:
 ![Run System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-system-restore.jpg)
 4. Choose a restore point, then click**Next** .
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Follow the on-screen instructions to perform a system restore.
 
  Upon completion of the restoration process, make sure Performance Monitor is working properly.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Hassle Free Performance and Health Monitoring
 
@@ -147,22 +141,22 @@ To perform a system restore, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-diving-deep-into-instagrams-new-features-for-2024/"><u>[New] Diving Deep Into Instagram's New Features for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-a-bricked-windows-update-fix/"><u>Bypassing a Bricked Windows Update Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-effective-batch-conversion-of-heic-to-jpeg-in-windows/"><u>Expert Tips for Effective Batch Conversion of HEIC to JPEG in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-open-issues-windows-11s-mail-and-calendar-hiccup/"><u>Fixing Open Issues: Windows 11'S Mail & Calendar Hiccup</u></a></li>
-<li><a href="https://win11.techidaily.com/forward-into-futures-ai-driven-windows-transformation/"><u>Forward Into Futures: AI-Driven Windows Transformation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transforming-wmv-files-into-mp4-format-for-both-mac-and-windows-10/"><u>Free Online Converter: Transforming WMV Files Into MP4 Format for Both Mac and Windows 10</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gunstige-angebote-fur-macx-mediatrans-online-kauf/"><u>Günstige Angebote Für MacX MediaTrans Online-Kauf</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-nord-n30-semirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Nord N30 SEMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-grok-ai-by-elon-musk-understanding-and-pricing-insights/"><u>Introducing Grok AI by Elon Musk: Understanding and Pricing Insights</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/picture-talk-engineer/"><u>Picture Talk Engineer</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tutorial-opening-the-windows-info-panel/"><u>Quick Tutorial: Opening the Windows Info Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-vmware-freeze-up-in-windows-11/"><u>Resolving VMware Freeze-Up in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-windows-home-admin-with-ease-of-use/"><u>Streamline Windows Home Admin with Ease of Use</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-overcoming-failed-rpc-in-windows/"><u>The Ultimate Guide to Overcoming Failed RPC in Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-magic-5-lite-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Magic 5 Lite for Streaming | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-videotopia-exploring-the-most-engaged-twitters-daily/"><u>[New] 2024 Approved Videotopia Exploring the Most Engaged Twitters Daily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>[New] Crafting Cinematic Magic A Filmmaker's Guide to Light</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beat-the-wait-efficient-iphone-time-lapse-tricks-for-2024/"><u>Beat the Wait Efficient iPhone Time-Lapse Tricks for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-failed-file-creation-on-win11s-camera-app/"><u>Fixing Failed File Creation on Win11's Camera App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-a2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from A2?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-pc-potential-through-processor-options/"><u>Maximizing PC Potential Through Processor Options</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-camera-error-a00f425d/"><u>Navigating Through Windows Camera Error A00F425D</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-11-notes-for-universal-accessibility/"><u>Optimize Windows 11 Notes for Universal Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-high-usage-chatgpt-alerts-on-pc/"><u>Overcoming High Usage ChatGPT Alerts on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-blocked-by-admin-error-in-windows-setup/"><u>Overcoming the Blocked by Admin Error in Windows Setup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oppo-f25-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/shattered-scenery-9-ways-to-restore-win11-screen-snapshots/"><u>Shattered Scenery? 9 Ways to Restore Win11 Screen Snapshots</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-inactive-alerts-for-phone-link-app-on-windows-devices/"><u>Tackling Inactive Alerts for Phone Link App on Windows Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-why-does-my-iphone-keep-losing-wi-fi-connection/"><u>Top 5 Solutions: Why Does My iPhone Keep Losing Wi-Fi Connection?</u></a></li>
 </ul></div>
 

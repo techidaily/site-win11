@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Err 87 in WinOS: Correcting LoadLib Malfunction"
-date: 2024-09-24T00:59:13.131Z
-updated: 2024-09-28T19:09:40.984Z
+date: 2024-09-27T00:23:05.188Z
+updated: 2024-10-04T07:26:39.263Z
 tags:
   - windows10
   - windows11
@@ -47,22 +47,16 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
  You can[perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Uninstall and Reinstall the Graphics Drivers
 
 ![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Corrupt display adapter drivers can also trigger "LoadLibrary failed with error 87". To fix the issue, you can uninstall the display driver from Device Manager and then perform a reinstall.
 
@@ -76,6 +70,19 @@ To uninstall a display adapter driver:
 6. Once done, restart your PC.
 
  You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Rename the atig6pxx.dll File
 
@@ -108,15 +115,22 @@ attrib -r -s atig6pxx.dll`
 7. If all the commands are successfully executed, you can rename the atig6pxx.dll file without the permission error.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair Windows Image with DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Corrupt system files are another cause that can trigger the LoadLibrary failed error. Fortunately, Windows comes with a built-in system image repair tool to repair the system image.
 
@@ -134,13 +148,6 @@ To run the DISM command-line tool to repair the system image:
 
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-apps-windows-11-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the error occurs when you launch a specific app, it may be an app-specific conflict triggering the error. To determine the cause, uninstall and install the latest version available.
 
 To uninstall the app:
@@ -150,13 +157,6 @@ To uninstall the app:
 3. Click on**Installed** apps.
 4. Search for the app and click the**three-dots menu** beside the app name.
 5. Click**Uninstall** and then click**Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the LoadLibrary Failed With Error 87 on Windows
 
@@ -177,24 +177,24 @@ To uninstall the app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>[New] How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>[New] In 2024, Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
-<li><a href="https://win11.techidaily.com/averting-steam-library-write-errors-on-modern-windows-pcs/"><u>Averting Steam Library Write Errors on Modern Windows PCs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-xipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone X/iPad/iPod</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clear-pathways-to-unlocking-your-chatgpt-access/"><u>Clear Pathways to Unlocking Your ChatGPT Access</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-multi-selection-activating-windows-11s-checkboxes/"><u>Efficient Multi-Selection: Activating Windows 11'S Checkboxes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/flat-to-fantastic-animated-text-transformations/"><u>From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-connectivity-at-its-peak-strategies-for-broadcasting-videos-to-friends/"><u>In 2024, Connectivity at Its Peak Strategies for Broadcasting Videos to Friends</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-instructions-for-setting-up-dolby-atmos-in-windows-1111/"><u>In-Depth Instructions for Setting Up Dolby Atmos in Windows 11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/master-window-11s-icon-arrangement/"><u>Master Window 11'S Icon Arrangement</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-past-fatal-js-error-in-discord-on-modern-windows-11/"><u>Navigating Past Fatal JS Error in Discord on Modern Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-dormant-slack-alerts-on-modern-windows-pcs/"><u>Reinstating Dormant Slack Alerts on Modern Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-deleted-characters-a-guide-for-windows-users/"><u>Restoring Deleted Characters: A Guide for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-address-dying-function-keys-adjusting-screen-brightness/"><u>Solutions to Address Dying Function Keys Adjusting Screen Brightness</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essential-breakdown-of-dji-phantom-3-mechanics-for-2024/"><u>The Essential Breakdown of DJI Phantom 3 Mechanics for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-store-error-0x800704cf-in-win11/"><u>Troubleshooting Store Error 0X800704CF in Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-11-leading-no-cost-movie-streaming-platforms/"><u>Ultimate Selection of 11 Leading No-Cost Movie Streaming Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-quick-keyboard-shortcut-guide/"><u>Windows 11: Quick Keyboard Shortcut Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ultimate-converter-mp4-videos-to-facebook/"><u>[Updated] 2024 Approved Ultimate Converter MP4 Videos to Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-bring-back-the-buzz-transforming-previous-media-with-ig-filters/"><u>[Updated] In 2024, Bring Back the Buzz Transforming Previous Media with IG Filters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-insider-tips-for-facebook-cover-video-mastery-for-2024/"><u>[Updated] Insider Tips for Facebook Cover Video Mastery for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wmvwebm-movavi/"><u>簡單方法：在線無需付費的WMV影片轉換成WEBM格式- Movavi工具演示</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-the-perfect-blurred-photo-with-these-essentials-for-2024/"><u>Craft the Perfect Blurred Photo with These Essentials for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-effortless-gameplay-capture-using-windows-and-intel-graphics/"><u>Direct, Effortless Gameplay Capture Using Windows and Intel Graphics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-play-8t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Play 8T Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-absence-of-monitor-post-bootup/"><u>Eliminating Absence of Monitor Post-Bootup</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-interrupted-by-breakpoint-error-in-windows/"><u>Eliminating Interrupted by Breakpoint Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-techniques-to-launch-windows-11s-restore-mode/"><u>Exploring Techniques to Launch Windows 11'S Restore Mode</u></a></li>
+<li><a href="https://article-helps.techidaily.com/filmopedia-answer-to-inquiries-for-2024/"><u>FilmoPedia Answer to Inquiries for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977162676-fix-your-windows-10-bluetooth-connection-woes-expert-advice-and-fixes/"><u>Fix Your Windows 10 Bluetooth Connection Woes: Expert Advice & Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-s24-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy S24 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unclog-the-secondary-user-writes-access-issue/"><u>How to Unclog the Secondary User' Writes Access Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-14-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 14 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-options-in-the-win-11-context-list/"><u>Minimizing Options in the Win 11 Context List</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-based-inaccessibility-to-roblox-experience/"><u>Resolving Windows-Based Inaccessibility to Roblox Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-switching-assistants-helping-you-ditch-your-mac-os/"><u>Top 5 Switching Assistants Helping You Ditch Your Mac OS</u></a></li>
+<li><a href="https://win11.techidaily.com/winway-login-tips-removing-personal-emails/"><u>Winway Login Tips: Removing Personal Emails</u></a></li>
 </ul></div>
 

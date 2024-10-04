@@ -1,7 +1,7 @@
 ---
 title: Guidance to Resolve Improper Token Usage Problems
-date: 2024-09-19T23:30:05.100Z
-updated: 2024-09-22T04:08:43.700Z
+date: 2024-10-01T23:54:46.755Z
+updated: 2024-10-03T22:01:48.063Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reregister Windows DLL Files
 
  Users who’ve needed to fix the “reference a token” error have confirmed reregistering the Windows DLL (Dynamic Link Library) files works. That highlights the token reference error can occur because some Windows DLL files aren’t correctly registered. This is how you can reregister Windows DLL files:
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 5. Wait for the command to finish reregistering DLLs.
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
@@ -64,20 +78,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Go Back to a Previous Windows Build Version
 
  If the “reference a token” error occurs after a recent Windows feature update, restoring the previous build version might resolve that issue. However, you can only restore a previous build version for a limited period. This is how you can restore a previous Windows build version:
@@ -87,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
- If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
 ### Go Back to a Previous Restore Point
 
@@ -103,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-restore-point.jpg)
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reset Windows
 
@@ -114,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 
  Does the same error message pop up when you try to access Explorer, Device Manager, or another native Windows tool? If yes, try applying these potential remedies for the “reference a token” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +128,25 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-zoom-for-enhanced-tiktok-streams/"><u>[Updated] In 2024, Mastering Zoom for Enhanced TikTok Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-playstation-errors-and-pc-glitches-in-warzone-20-with-these-7-proven-fixes-2024-guide/"><u>Beat PlayStation Errors and PC Glitches in Warzone 2.0 with These 7 Proven Fixes - 2024 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-restoring-your-tab-on-a-pc/"><u>Bridging the Gap: Restoring Your Tab on a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-back-the-search-box-in-win11-task-management/"><u>Bringing Back the Search Box in Win11 Task Management</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-buffering-in-chrome-for-seamless-youtube-playback/"><u>Bypass Buffering in Chrome for Seamless YouTube Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-pin-check-error-on-w11w10-bluetooth-devices/"><u>Bypass Pin Check Error on W11/W10 Bluetooth Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-windows-alert-for-unverified-adobe/"><u>Bypass Windows Alert for Unverified Adobe</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-session-verification-error-with-steams-vac/"><u>Bypassing “Session Verification” Error with Steam’s VAC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-obstacles-fixing-windows-11-login-hitches/"><u>Bypassing Obstacles: Fixing Windows 11 Login Hitches</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-default-settings-forcefully-remove-print-devices/"><u>Bypassing the Default Settings: Forcefully Remove Print Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-13-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 13 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-navigate-googles-features-with-gemini-learn-how/"><u>Efficiently Navigate Google's Features with Gemini - Learn How!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>In 2024, Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
+<li><a href="https://media-tips.techidaily.com/iphone-x-casting-tutorial-transmitting-media-from-your-phone-to-computer-or-laptop/"><u>IPhone X Casting Tutorial: Transmitting Media From Your Phone to Computer or Laptop</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-youtube-gaming-success-with-right-tags-for-2024/"><u>Navigate YouTube Gaming Success with Right Tags for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-get-hitman-n-3-running-on-windows/"><u>Troubleshooting Guide: How To Get Hitman N 3 Running on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-brother-hl-l2370dw-free-printing-software-for-smooth-operations/"><u>Update Your Brother HL-L2370DW - Free Printing Software for Smooth Operations</u></a></li>
+</ul></div>
+

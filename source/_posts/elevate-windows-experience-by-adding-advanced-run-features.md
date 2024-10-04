@@ -1,7 +1,7 @@
 ---
 title: Elevate Windows Experience by Adding Advanced Run Features
-date: 2024-09-25T19:20:06.932Z
-updated: 2024-09-28T21:11:17.939Z
+date: 2024-10-01T16:25:16.823Z
+updated: 2024-10-04T05:07:26.886Z
 tags:
   - windows10
   - windows11
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
@@ -95,20 +95,28 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -118,29 +126,22 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
@@ -171,19 +172,22 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-list-for-capturing-instagram-vids-pcmac/"><u>[New] 2024 Approved The Ultimate List for Capturing Instagram Vids (PC/Mac)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-video-editor-battle-filmora-versus-democracy-creator-for-2024/"><u>[New] Top Video Editor Battle Filmora versus Democracy Creator for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-soundtrack-synthesis-crafting-scenes-in-imovie/"><u>[Updated] Soundtrack Synthesis Crafting Scenes in iMovie</u></a></li>
-<li><a href="https://article-files.techidaily.com/7-essential-secrets-for-delectable-cooking-clips-for-2024/"><u>7 Essential Secrets for Delectable Cooking Clips for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enablingdisabling-microsofts-smartguard-in-win-10/"><u>Enabling/Disabling Microsoft's SmartGuard in Win 10</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-abrupt-device-removal-errors-dxgi/"><u>Fixing Abrupt Device Removal Errors (DXGI)</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-kodi-cant-reach-the-library-a-guide-to-resolving-connection-errors/"><u>How to Fix Kodi 'Can't Reach the Library': A Guide to Resolving Connection Errors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-revamp-your-video-exposure-on-youtube-with-these-simple-steps/"><u>In 2024, Revamp Your Video Exposure on YouTube with These Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-visibility-to-system-startups-on-win-os/"><u>Restoring Visibility to System Startups on Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-editing-with-these-win11-videoscripts/"><u>Streamline Editing with These Win11 Videoscripts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-blueear-bluetooth-hat-an-expert-look-at-comfort-and-crisp-sounds-in-style/"><u>Unboxing the Blueear Bluetooth Hat: An Expert Look at Comfort and Crisp Sounds in Style</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-tech-tutorial-how-to-launch-calculator/"><u>Windows 11 Tech Tutorial: How to Launch Calculator</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-entry-workstation-access-the-hidden-side-of-rdp-in-win-11/"><u>Zero-Entry Workstation Access: The Hidden Side of RDP in Win 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[New] 2024 Approved The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-maximizing-performance-optimize-mov-files-in-win-11/"><u>[Updated] 2024 Approved Maximizing Performance Optimize MOV Files in Win 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>[Updated] Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-customizing-characters-the-ae-font-guide-for-2024/"><u>[Updated] Customizing Characters The AE Font Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-digital-diagnostics-vll-app-examination/"><u>[Updated] Digital Diagnostics VLL App Examination</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-taskbar-add-capslock-and-numlock-icons-on-win11/"><u>Enhance Taskbar: Add CapsLock & NumLock Icons on Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-new-widget-chooser-in-microsoft-windows-11/"><u>Mastering New Widget Chooser in Microsoft Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-proxy-configurations/"><u>Mastering Windows 11 Proxy Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-microsoft-offices-error-0x80041015/"><u>Navigating Through Microsoft Office's Error 0X80041015</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-mouse-settings-to-enhance-accessibility-in-windows-11/"><u>Navigating Through Mouse Settings to Enhance Accessibility in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-using-a-new-usb-dongle-for-your-logitech-bluetooth-mouse/"><u>Step-by-Step Tutorial: Using a New USB Dongle for Your Logitech Bluetooth Mouse</u></a></li>
+<li><a href="https://win11.techidaily.com/tapping-into-the-world-of-command-line-alias-names/"><u>Tapping Into the World of Command Line Alias Names</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-to-utilizing-hdr-on-windows-11-systems/"><u>Ultimate Guide to Utilizing HDR on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-windows-methodology-to-split-audiosystems/"><u>Unpacking Windows’ Methodology to Split Audiosystems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-top-10-glitch-video-editing-apps-for-mobile-creatives/"><u>Updated The Ultimate List Top 10 Glitch Video Editing Apps for Mobile Creatives</u></a></li>
 </ul></div>
 

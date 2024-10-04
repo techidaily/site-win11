@@ -1,7 +1,7 @@
 ---
 title: Explaining & Fixing Windows Defender Error 0X80004004
-date: 2024-09-23T00:08:06.068Z
-updated: 2024-09-28T21:49:22.864Z
+date: 2024-10-01T23:24:21.678Z
+updated: 2024-10-03T23:44:06.603Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Microsoft Defender Services
 
  The first thing that we recommend doing is restarting the services that Microsoft Defender relies on to function properly. It's possible that these services may have been disabled by another user or malware on the system, or they may have encountered corruption errors, leading to the problem. Restarting these services can help resolve such issues and get Microsoft Defender back on track.
@@ -65,10 +58,10 @@ Here is how you can do that:
 5. Now, click on the**Start** button if the service is stopped. If it is functional, click on the**Stop** button, wait for a few seconds, and click**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Make sure the Startup type is set to**Automatic** .
@@ -86,13 +79,6 @@ Here is how you can do that:
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Windows-Based Fixes
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
@@ -102,15 +88,22 @@ Here is how you can do that:
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
@@ -121,6 +114,13 @@ Here is how you can do that:
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -141,14 +141,24 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-photo-text-editing-made-simple-tools-and-techniques/"><u>2024 Approved Photo Text Editing Made Simple Tools & Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-audacitys-unexpected-device-access-in-winos/"><u>Addressing Audacity's Unexpected Device Access in WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-spontaneous-store-openings-on-pc/"><u>Addressing Spontaneous Store Openings on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/batch-automation-for-file-repositioning-in-win-11/"><u>Batch Automation for File Repositioning in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/1719343067302-become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-selecting-the-ideal-imagery-for-remote-meetings/"><u>In 2024, Selecting the Ideal Imagery for Remote Meetings</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-your-ultimate-guide-to-telegram-web-navigation/"><u>In 2024, Your Ultimate Guide to Telegram Web Navigation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ogg-webm-webm-movavi/"><u>OGG 및 WebM 영상에서 무료 채널을 위해 WEBM 전환 기술 - 최신 Movavi 사용자가 이해하는 방법</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-seamless-video-and-picture-upload-w11-for-2024/"><u>Unlocking the Secrets of Seamless Video & Picture Upload W11 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-block-windows-11-from-collecting-data/"><u>How to Block Windows 11 From Collecting Data</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-the-non-operational-windows-search-error/"><u>How to Correct the Non-Operational Windows Search Error</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x9a-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-dji-phantom-4-complete-review/"><u>In 2024, DJI Phantom 4 Complete Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-xcover-7-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy XCover 7 Phone? Unlock It Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-11-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 11 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-high-view-counts-using-savvy-hashtag-use/"><u>In 2024, Unlock High View Counts Using Savvy #Hashtag Use</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-windows-11-password-management-top-11-easy-steps-unveiled/"><u>Masterful Windows 11 Password Management: Top 11 Easy Steps Unveiled</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-your-iphone-the-secrets-to-hdr-image-magic-for-2024/"><u>Mastering Your iPhone The Secrets to HDR Image Magic for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-settings-for-flawless-valorant/"><u>Optimizing Windows Settings for Flawless Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-battlenet-not-opening-issue/"><u>Overcoming Obstacles: Battle.net Not Opening Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-un65nu8000fzax-evaluation-overpriced-and-underwhelming-smart-tv-performance/"><u>Samsung Un65nu8000fzax Evaluation - Overpriced and Underwhelming Smart TV Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/taking-a-ride-into-the-future-with-teslas-robotaxi-inside-news-price-estimates-and-launch-date-secrets/"><u>Taking a Ride Into the Future with Tesla's Robotaxi - Inside News, Price Estimates & Launch Date Secrets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-witcher-3-wild-hunt-startup-issues/"><u>Troubleshooting Tips for Resolving 'Witcher 3: Wild Hunt' Startup Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-adding-the-jdk-efficiently/"><u>Unlock Windows 11: Adding the JDK Efficiently</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-s17ts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo S17ts Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-a-fresh-windows-update-start/"><u>Unlocking the Potential of a Fresh Windows Update Start</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-googles-nearby-share-app-is-not-working-on-windows/"><u>What to Do if Google’s Nearby Share App Is Not Working on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-0x800f0922-update-fix-strategies/"><u>Windows 11'S 0X800F0922 Update Fix Strategies</u></a></li>
 </ul></div>
 

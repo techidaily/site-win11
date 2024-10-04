@@ -1,7 +1,7 @@
 ---
 title: "Ensuring a Valid Temp Directory: How to Fix Errors on Windows 11"
-date: 2024-09-23T21:03:14.244Z
-updated: 2024-09-29T00:06:46.454Z
+date: 2024-09-28T02:19:50.333Z
+updated: 2024-10-03T20:13:22.952Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Read-Only Access
 
  Windows usually creates temporary files for programs, including the one that you're trying to install. If the temp folder is set to read-only, Windows can't save files in it and will throw an error.
@@ -47,32 +54,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 7. Click**Apply > OK** .
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Restart your computer and check if the problem is now solved.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Compress the EXE File You're Trying to Run
 
@@ -81,21 +69,22 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clean Boot Your System
 
@@ -114,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
 
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
 
@@ -143,24 +125,20 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>[New] 2024 Approved Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge-for-2024/"><u>[New] From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-popular-10-music-videos-trending-on-facebook/"><u>[New] Popular 10 Music Videos Trending on Facebook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-the-art-of-digital-distortion-in-minutes/"><u>[Updated] 2024 Approved Mastering the Art of Digital Distortion in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/10-pro-tips-for-naming-and-organizing-files-in-windows/"><u>10 Pro Tips for Naming and Organizing Files in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-112024/"><u>容易に学ぶ：Windows 11対応オーディオレコーダーソフトウェアの使用マニュアル・特別限定「2024モデル」</u></a></li>
-<li><a href="https://win11.techidaily.com/a-complete-guide-to-the-windows-startup-settings/"><u>A Complete Guide to the Windows Startup Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-rockalldlldll-unavailability-in-pcs/"><u>Addressing Rockalldll.dll Unavailability in PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-11s-0x800713f-email-problem/"><u>Addressing Windows 11'S 0X800713F Email Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tactics-to-boost-file-organization-with-multi-folder-setup-in-windows-1011/"><u>Advanced Tactics to Boost File Organization with Multi-Folder Setup in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/amplifying-steam-data-flow-combatting-sudden-drops/"><u>Amplifying Steam Data Flow: Combatting Sudden Drops</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-local-file-transmission-methods-which-fits-best/"><u>Analyzing Local File Transmission Methods: Which Fits Best?</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369975560-break-free-from-google-chrome-glitch-on-windows-11-now/"><u>Break Free From Google Chrome Glitch on Windows 11 Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-unbeatable-value-with-propella-7s-40-a-stellar-blend-of-lightness-agility-and-affordability/"><u>Discover Unbeatable Value with Propella 7S 4.0: A Stellar Blend of Lightness, Agility & Affordability!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/identifying-common-causes-when-car-speakers-malfunction/"><u>Identifying Common Causes When Car Speakers Malfunction</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-prevent-fbs-video-ad-pop-ups/"><u>In 2024, How to Prevent FB's Video Ad Pop-Ups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphoneipads-wi-fi-connection-issues-with-these-8-effective-solutions/"><u>Solve Your iPhone/iPad's Wi-Fi Connection Issues with These 8 Effective Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforme-vos-fichiers-aiff-au-format-mp3-avec-le-convertisseur-de-movavi/"><u>Transforme Vos Fichiers AIFF Au Format MP3 Avec Le Convertisseur De Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-list-of-easy-free-ios-tools-for-stunning-collage-creation/"><u>[New] The Ultimate List of Easy, FREE iOS Tools for Stunning Collage Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-notch-avi-player-for-pcmobile/"><u>[Updated] In 2024, Top-Notch Avi Player for PC/Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-the-art-of-autoplay-videos-for-2024/"><u>[Updated] Mastering the Art of Autoplay Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-photos-at-a-click-top-captioning-software/"><u>2024 Approved Perfect Photos at a Click Top Captioning Software</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/accelerating-slow-playback-videos-tips/"><u>Accelerating Slow-Playback Videos Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/combining-windows-partitions-an-expert-guide/"><u>Combining Windows Partitions: An Expert Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-taskbar-spacing-on-windows-11/"><u>Customizing Taskbar Spacing on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-x-flip-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo X Flip in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-techniques-for-silent-film-capturing/"><u>In 2024, Top Techniques for Silent Film Capturing</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-cli-toolbar-in-windows-11-task-manager/"><u>Integrating CLI Toolbar in Windows 11 Task Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/key-to-opening-windows-credential-hideout/"><u>Key to Opening Windows Credential Hideout</u></a></li>
+<li><a href="https://win11.techidaily.com/snip-and-sketch-vs-prtsc-the-window-warriors-showdown/"><u>Snip & Sketch Vs. PrtSc: The Window Warriors Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-asus-rog-ally-docks-for-laptop-users-2024/"><u>The Premier ASUS ROG Ally Docks for Laptop Users, 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-resolving-minecrafts-win-error-1/"><u>Top Strategies for Resolving Minecraft's Win Error: 1</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming the High CPU Conundrum in Setup Systems
-date: 2024-09-18T22:13:01.070Z
-updated: 2024-09-21T17:43:49.319Z
+date: 2024-09-29T20:31:54.491Z
+updated: 2024-10-04T01:41:33.887Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
 
 ### 2\. Use the Update Troubleshooter
@@ -57,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
  The Update Troubleshooter is a tool on Windows that can help diagnose and fix common issues related to Windows Updates. And since Modern Setup Host is integral to the Windows Update process, running the troubleshooter can also help fix issues that affect it, including what's making it cause high CPU usage.
 
  To do that, you can learn [how to run any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/), including the Update Troubleshooter.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Delete the Contents of the SoftwareDistribution Folder
 
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the service stops, go to the SoftwareDistribution folder by [opening the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and heading to **C: > Windows > SoftwareDistribution**.
@@ -89,13 +89,20 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Try a Clean Boot
 
@@ -107,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +121,21 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-your-fb-videos-instant-mp4-download/"><u>[Updated] Unlock Your FB Videos - Instant MP4 Download</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-studyhistory-10-essential-youtube-historical-channels/"><u>2024 Approved StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-meetings-integrating-filters-to-stand-out-on-zoom/"><u>Ace Meetings Integrating Filters to Stand Out on Zoom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-powered-predators-in-the-dating-world/"><u>AI-Powered Predators in the Dating World</u></a></li>
+<li><a href="https://win11.techidaily.com/brightening-up-life-controlling-windows-display-shine/"><u>Brightening Up Life: Controlling Windows Display Shine</u></a></li>
+<li><a href="https://win11.techidaily.com/brightening-up-get-rid-of-yellow-on-windows-screens/"><u>Brightening Up: Get Rid of Yellow on Windows Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-forlorn-add-ons-back-a-compreenas-seven-points-plan/"><u>Bring Forlorn Add-Ons Back: A Compreenas Seven Points Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/brushes-and-pixels-our-top-7-choices-for-sketching-on-win10/"><u>Brushes and Pixels: Our Top 7 Choices for Sketching on Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-a-blocked-warcraft-update-process/"><u>Bypassing a Blocked Warcraft Update Process</u></a></li>
+<li><a href="https://win11.techidaily.com/circumventing-win11s-security-rufus-techniques/"><u>Circumventing Win11's Security: Rufus Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78t to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/lively-captions-how-to-add-motion-to-instagram-posts/"><u>Lively Captions How to Add Motion to Instagram Posts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-fast-to-furious-top-10-slow-motion-video-editing-solutions/"><u>Updated From Fast to Furious Top 10 Slow Motion Video Editing Solutions</u></a></li>
+</ul></div>
+

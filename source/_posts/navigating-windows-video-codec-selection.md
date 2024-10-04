@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows' Video Codec Selection
-date: 2024-09-19T03:19:51.582Z
-updated: 2024-09-22T05:15:15.618Z
+date: 2024-09-27T17:10:06.252Z
+updated: 2024-10-04T07:02:12.543Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  To learn more about codecs, check our guide on [all you need to know about video codecs, containers, and compression](https://www.makeuseof.com/tag/all-you-need-to-know-about-video-codecs-containers-and-compression/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why Your Codec Choice Matters
 
  When choosing a codec, you must consider its pros and cons and pick the best one for the task.
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
  Let's go over the major video codecs you can use:
 
 ![Handbrake H265 Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/handbrake-h265-options-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. H.265/HEVC
 
@@ -121,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  We saw why codec choice matters, as well as how the major codecs differ regarding quality and speed. But still, which one should you choose, when, and why?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Choosing a Codec for Streaming
 
  If you're streaming to platforms like Twitch and YouTube, you'll probably want to use H.264\. It's faster than H.265 and AV1 in encoding while having much lower hardware requirements.
@@ -143,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  All codecs up to H.264 were designed for sub-HD resolutions. H.264 was the first codec designed to store full-HD content (at resolutions up to 1920 x 1080). However, today we also have [4K and Ultra HD](https://www.makeuseof.com/tag/whats-difference-4k-ultra-hd/) content, and H.265, AV1, and VP9 are better for much higher resolutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Choosing a Codec to Maximise Compatibility
 
  The rule of thumb is that the older the codec you'll use, the higher its compatibility with more devices. If you want your videos to play practically everywhere, go for MPEG4\. It's old, outperformed by all newer options, but it's also natively supported even by ten-year-old TVs.
@@ -159,6 +173,19 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
  If you only care about newer devices, H.264 can work on almost any media-playing device released within the last five years, including gaming consoles and smartphones.
 
  We'd suggest you skip H.265, AV1, and VP9, since each has its own "quirks" and is better supported in particular ecosystems. For example, VP9 is playable in most modern browsers but only by a few standalone media players.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Choosing a Codec Centered Around Hardware Encoding
 
@@ -194,6 +221,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  With the latest codecs, though, like H.264/H.265 and VP9/AV1, you usually won't have to deal with bitrates and work with encoder presets/levels and (C)RF values.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Picking a Codec Based on Encoder Presets/Levels & (C)RF Values
 
  Each encoder uses a combination of various encoding features when compressing video. Modern encoders come with presets/levels to assist with all this complexity, where those features are "bundled" under a simpler selection.
@@ -208,6 +242,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  In contrast, keeping the Encoder Preset static and changing only the RF value will change the final file's quality and size but won't significantly affect encoding speed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Choosing an Editor/Encoder
 
  Codecs are only useful when you use them alongside compatible software.
@@ -215,6 +256,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
  In our modern always-on world, you can use [online file and video compressors](https://www.makeuseof.com/best-online-file-video-compressors/) for such tasks. However, dedicated "offline" apps usually produce much better results, and you don't have to share your files with third parties.
 
  Some of the best apps you can use to encode your videos with various codecs are:
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Handbrake
 
@@ -224,37 +272,11 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  Quite helpfully, Handbrake comes with lots of premade presets, which include different use cases of the most popular codecs (like for encoding super HQ 2160p 60FPS 4K content with AV1), but also many popular devices (from Amazon's Fire tablets to Xbox consoles).
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### StaxRip
 
 [StaxRip](https://github.com/staxrip/staxrip) makes network-based encoding easy, allowing you to use multiple PCs in your local network to go "clear" an encoding queue much quicker than with a single computer. It also exposes almost all important options for codecs like H.264 and H.265\.
 
  Still, all this also means that it's not as easy as alternatives, and you'll have to customize each encode's settings individually to achieve optimal results.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### VirtualDub
 
@@ -263,23 +285,10 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 ![VirtualDub Menu Video Compression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/virtualdub-menu-video-compression-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Cut Pro/Vegas Pro/Davinci Resolve
@@ -304,8 +313,6 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  So what are video codecs, how should you choose one, and how would it affect your produced videos?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -313,3 +320,19 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-accelerate-instagram-video-playback-mobile-tips-and-tricks/"><u>[Updated] 2024 Approved Accelerate Instagram Video Playback Mobile Tips & Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-creative-mc-survival-habitat-concepts-for-2024/"><u>[Updated] Creative MC Survival Habitat Concepts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-gamers-pathway-to-impeccable-recordings-for-2024/"><u>[Updated] Gamers' Pathway to Impeccable Recordings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-win-11-usb-fastest-and-simplest-methods-for-3-ways/"><u>Building a Win 11 USB: Fastest and Simplest Methods for 3 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-windows-11-registry-access-settings/"><u>Changing Windows 11 Registry Access Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-access-denied-errors-fixing-outlook-issues-in-windows-os/"><u>Clearing 'Access Denied' Errors: Fixing Outlook Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-corruption-fix-your-win1011-recycle-error/"><u>Clearing up CORRUPTION! Fix Your WIN10/11 Recycle Error</u></a></li>
+<li><a href="https://win11.techidaily.com/cmd-magic-show-unraveling-5-mesmerizing-maneuvers/"><u>CMD Magic Show: Unraveling 5 Mesmerizing Maneuvers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-disorder-revolutionary-fixes-for-cluttered-linux-and-open-source-guides-on-zdnet/"><u>Navigating Through Disorder: Revolutionary Fixes for Cluttered Linux & Open-Source Guides on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y36-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y36</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-tech-news-and-reviews-with-toms-expertise/"><u>Top Tech News and Reviews with Tom's Expertise</u></a></li>
+</ul></div>
+

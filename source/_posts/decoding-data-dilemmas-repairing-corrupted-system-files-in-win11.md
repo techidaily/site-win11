@@ -1,7 +1,7 @@
 ---
 title: "Decoding Data Dilemmas: Repairing Corrupted System Files in Win11"
-date: 2024-09-26T00:04:23.773Z
-updated: 2024-09-29T00:51:41.936Z
+date: 2024-09-29T18:33:22.933Z
+updated: 2024-10-03T16:37:19.253Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Use the Disk Cleanup Tool
 
  Rather than installing a third-party cleanup tool, try the Windows Disk Cleanup utility. It is an old yet trustworthy utility included with every copy of Windows OS. You can use it to clear system clutter which also clears registry associations of some apps. Repeat the following steps:
@@ -53,6 +46,14 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 3. Navigate down and click on the**Clean up system files** button.  
 ![Run Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-disk-cleanup-tool-in-windows-11.jpg)
 4. The Disk Cleanup tool will launch again. Keep the Drive selection as**OS (C:)** and click on the**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
 
@@ -67,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 ![Using Startup Repair in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/using-startup-repair-in-windows-11.jpg)
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Run an SFC Scan
 
  SFC is an inbuilt windows utility that can scan your system for corrupt or missing system files. It will then replace all the corrupt or missing files with a fresh copy. Here’s how you can scan your system with SFC:
@@ -78,19 +86,19 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 4. Patiently wait for the utility to scan and replace files on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. **Close** the command prompt window and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Try a DISM Scan
@@ -103,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 3. Wait for the tools to scan and repair the problems with the system image.
 4. Finally,**close** the command prompt and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Import an Old Registry Backup
 
  If you have a habit of[creating registry backups on Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , it could solve the broken registry items issue with your system. When you encounter issues, you can import the old registry backup when the system was working fine.
@@ -120,6 +121,14 @@ Here’s how you can import an old backup in Windows Registry:
 2. Go to the top bar in the Registry Editor window and click on**File > Import** .  
 ![Importing old registry backup in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/importing-old-registry-backup-in-windows-11.jpg)
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait for a few minutes for the import to complete.**Restart** your system.
 
 ### 6\. Check for Malware on Your System
@@ -147,32 +156,19 @@ Repeat the following steps to perform a system restore:
 ![Restore Windows 11 to an old but working state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restore-windows-11-to-an-old-but-working-state.jpg)
 5. Click on the**Close** button. In the System Restore window click on the**Next** button.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Your Registry Safe From Corruption
 
@@ -193,18 +189,20 @@ Repeat the following steps to perform a system restore:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-digital-creativity-unleashed-changing-numbers-in-tiktok-for-2024/"><u>[New] Digital Creativity Unleashed Changing Numbers in TikTok for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-unreliable-chatgpt-plugins-you-should-avoid-using/"><u>5 Unreliable ChatGPT Plugins You Should Avoid Using</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-the-calculator-on-windows-11-effortlessly/"><u>Accessing the Calculator on Windows 11 Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-out-of-space-issue-in-windows-oses/"><u>Addressing Out-of-Space Issue in Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-install-net-application-complaint/"><u>Addressing the Install .NET Application Complaint</u></a></li>
-<li><a href="https://win11.techidaily.com/big-hard-drive-in-minipcs-but-below-average-brawn/"><u>Big Hard Drive in Minipcs, But Below Average Brawn</u></a></li>
-<li><a href="https://win11.techidaily.com/1719209276170-essential-windows-store-top-10-crucial-apps/"><u>Essential Windows Store: Top 10 Crucial Apps!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/googles-portal-for-efficient-podcast-submission/"><u>Google's Portal for Efficient Podcast Submission</u></a></li>
-<li><a href="https://win11.techidaily.com/1719356384376-mastery-over-mute-shift-key-trouble/"><u>Mastery Over Mute Shift Key Trouble</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/maximize-ps5-space-premier-top-10-hdds-for-2024/"><u>Maximize PS5 Space Premier Top 10 HDDs for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/strategies-for-procuring-high-quality-clip-art-with-no-cost-for-2024/"><u>Strategies for Procuring High-Quality Clip Art with No Cost for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-convergence-experience-meta-quest-3-explored/"><u>The Convergence Experience: Meta Quest 3 Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/zdnets-ultimate-guide-to-the-ideal-gaming-displays-rankings-and-reviews/"><u>ZDNet's Ultimate Guide to the Ideal Gaming Displays : Rankings & Reviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-combat-oculus-discomfort-10-methods/"><u>[New] 2024 Approved Combat Oculus Discomfort 10 Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-your-snaps-with-zooming-techniques/"><u>[New] In 2024, Elevate Your Snaps with Zooming Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagrams-background-replace-technique/"><u>[Updated] 2024 Approved Unveiling Instagram’s Background Replace Technique</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-surprise-your-friends-with-these-unheard-memes-for-2024/"><u>[Updated] Surprise Your Friends with These Unheard Memes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-upgrades-unveiled-enroll-now-for-the-cutting-edge-plugin-platform/"><u>ChatGPT Upgrades Unveiled: Enroll Now for the Cutting-Edge Plugin Platform!</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-microsoft-teams-video-glitch/"><u>Fix Microsoft Teams Video Glitch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-voice-chat-back-on-track-in-apex-legends-expert-solutions/"><u>Get Your Voice Chat Back on Track in Apex Legends – Expert Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-boost-your-classic-game-experience-adding-achievements-with-retroarch/"><u>How to Boost Your Classic Game Experience: Adding Achievements with Retroarch</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-league-of-legends-2024-connection-glitch-patched/"><u>Resolved: League of Legends 2024 Connection Glitch Patched</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-v-rising-game-crashes-on-windows-pc-a-comprehensive-guide/"><u>Solving the 'V Rising' Game Crashes on Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/synching-your-way-to-digital-unity-android-plus-windows/"><u>Synching Your Way to Digital Unity: Android + Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-failed-windows-update-error-0x80242016/"><u>Troubleshoot Failed Windows Update (Error 0X80242016)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-token-misreference-issue-in-win11-and-10/"><u>Troubleshooting Token Misreference Issue in Win11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/win10win11-restoring-write-access-to-corrupted-folders/"><u>Win10/Win11: Restoring Write Access to Corrupted Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/winupdates-troubleshooting-guide-for-error-x80246007/"><u>WinUpdates Troubleshooting Guide for Error X80246007</u></a></li>
 </ul></div>
 

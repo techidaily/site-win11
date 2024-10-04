@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting File History Error on Windows Devices
-date: 2024-09-23T01:14:21.080Z
-updated: 2024-09-28T18:36:59.889Z
+date: 2024-09-29T23:58:32.060Z
+updated: 2024-10-04T08:15:04.758Z
 tags:
   - windows10
   - windows11
@@ -36,18 +36,18 @@ To restart the File History Service in Windows:
 3. In the Services windows, scroll down to locate**File History Service** . Right-click on it and select**Restart** . If the service is not running, select**Start** .  
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Backup Drive
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
 
  While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Re-Select the Backup Drive and Restart File History
 
@@ -70,19 +70,19 @@ To restart the File History Service in Windows:
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset File History
@@ -105,10 +105,10 @@ To restart the File History Service in Windows:
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing File History Errors on Windows
@@ -132,20 +132,17 @@ To restart the File History Service in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>[Updated] How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-snapsizesecrets-perfecting-photo-and-video-sizes-in-instagram/"><u>[Updated] In 2024, SnapSizeSecrets Perfecting Photo and Video Sizes in Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quality-control-best-free-lut-selections-and-links-reviewed/"><u>[Updated] Quality Control Best Free LUT Selections & Links Reviewed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-vivid-cutting-edge-m1-chips-transform-video-editing-landscape-for-2024/"><u>[Updated] Vivid Cutting Edge M1 Chips Transform Video Editing Landscape for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-restore-missing-desktop-icons-on-windows-11/"><u>8 Ways to Restore Missing Desktop Icons on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-vlc-a-deep-dive-into-media-players-for-2024/"><u>Beyond VLC A Deep Dive Into Media Players for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/deletion-risks-for-windows-bt-folder-expert-advice/"><u>Deletion Risks for Windows ~BT Folder: Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-the-role-of-windows-cab-files-in-system-setup/"><u>Dissecting the Role of Windows CAB Files in System Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/ditching-taskbar-chatting-in-windows-11-how-will-it-influence-your-experience/"><u>Ditching Taskbar Chatting in Windows 11: How Will It Influence Your Experience?</u></a></li>
-<li><a href="https://win11.techidaily.com/employing-rufus-to-navigate-windows-11s-security-barriers/"><u>Employing Rufus to Navigate Windows 11'S Security Barriers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-play-7t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Play 7T Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-fixing-failed-file-creation-by-camera-app/"><u>Solutions for Fixing Failed File Creation by Camera App</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-strong-with-these-trendy-15-video-intros/"><u>Starting Strong with These Trendy 15 Video Intros</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-username-switch-on-windows-11/"><u>Streamlining the UserName Switch on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-innovative-copywriting-routines-adopting-three-key-approaches-to-fb-advertising/"><u>[New] 2024 Approved Innovative Copywriting Routines Adopting Three Key Approaches to FB Advertising</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-stories-your-complete-tune-up-guide/"><u>[New] Mastering Instagram Stories Your Complete Tune-Up Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-text-design-with-ae-top-10-tips/"><u>[New] Mastering Text Design with AE Top 10 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-device-compatibility-windows-app-supports-apple-and-desktop-oses/"><u>Cross-Device Compatibility: Windows App Supports Apple and Desktop OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-root-of-windows-defender-error-0x80004004/"><u>Eliminating the Root of Windows Defender Error 0X80004004</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-disableremove-youtube-shorts-permanently2/"><u>How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ideal-mac-recording-solutions-for-efficient-documentation-for-2024/"><u>Ideal Mac Recording Solutions for Efficient Documentation for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Asus ROG Phone 8 Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-htcs-masterpiece-in-vr-the-immersive-experience/"><u>In 2024, HTC's Masterpiece in VR The Immersive Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-non-empty-directory-error-in-windows-11-and-win11-code-0x80070091/"><u>Taming the Non-Empty Directory Error in Windows 11 & Win11 (Code: 0X80070091)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-free-hdtv-streaming-apps-and-software-compatible-with-windows-11/"><u>Top 13 Free HDTV Streaming Apps & Software Compatible with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-source-unavailable-errors-in-windows-1011/"><u>Troubleshooting Steps for “Source Unavailable” Errors in Windows 10/11</u></a></li>
 </ul></div>
 

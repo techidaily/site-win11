@@ -1,7 +1,7 @@
 ---
 title: Fixing Absent Windows Updates on Your PC
-date: 2024-09-24T18:29:36.746Z
-updated: 2024-09-28T17:50:56.419Z
+date: 2024-10-02T08:00:05.611Z
+updated: 2024-10-03T19:49:05.521Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,10 @@ To run the Windows Update troubleshooter:
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-sfc-scan-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
@@ -73,6 +73,13 @@ To run the Windows Update troubleshooter:
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
 
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restore the Windows Update Service Manually via the Registry Editor
 
@@ -170,10 +177,10 @@ To run the Windows Update troubleshooter:
 13. Save the file with**.reg** extension.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
@@ -194,22 +201,15 @@ To reset your Windows computer:
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
 
  Using the Settings app isn't the only way to reset Windows. If you want to take a different approach, check out these[various methods to factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Restoring the Missing Windows Update Service
 
@@ -230,24 +230,19 @@ To reset your Windows computer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-the-fb-algorithm-maximizing-page-visibility/"><u>[New] 2024 Approved Navigating the FB Algorithm Maximizing Page Visibility</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-trackingcast-synopsis/"><u>[Updated] 2024 Approved TrackingCast Synopsis</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-slash-energy-drain-by-default-desktop-window-manager/"><u>7 Ways to Slash Energy Drain by Default Desktop Window Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deeper-look-at-windows-11-efficiency-mastering-processes-and-customizing-themes/"><u>A Deeper Look at Windows 11 Efficiency: Mastering Processes and Customizing Themes</u></a></li>
-<li><a href="https://win11.techidaily.com/a-window-into-personalized-typing-mastering-keybinding-w11/"><u>A Window Into Personalized Typing: Mastering Keybinding W11</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-windows-based-excel-tasks-a-guide/"><u>Accelerating Windows-Based Excel Tasks: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11-volume-mixer-shortcut/"><u>Accessing Windows 11 Volume Mixer Shortcut</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-dxgi-error-after-device-removal/"><u>Addressing DXGI Error After Device Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-system-settings-for-outdated-app-packages/"><u>Adjusting System Settings for Outdated App Packages</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-blank-screens-windows-10-and-11-troubleshooting/"><u>Banishing Blank Screens: Windows 10 & 11 Troubleshooting</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-to-restore-visual-clarity-in-winos/"><u>Best Practices to Restore Visual Clarity in WinOS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/comprehensive-guide-to-fixing-not-working-problems-on-vrchat-platform/"><u>Comprehensive Guide to Fixing 'Not Working' Problems on VRChat Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-selections-of-innovative-vtuber-sound-tools/"><u>Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone XS Max and iPad</u></a></li>
-<li><a href="https://solve-news.techidaily.com/telechargement-gratuit-de-la-serie-ripper-version-entierement-numerisee-a-illimite/"><u>Téléchargement Gratuit De La Série Ripper : Version Entièrement Numérisée À Illimité</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-fcpx-plugin-troubleshooting-checklist-updated-2023/"><u>Updated The Ultimate FCPX Plugin Troubleshooting Checklist (Updated 2023)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-tagging-instas-top-25-must-use-tags/"><u>[New] Mastering the Art of Tagging Insta's Top 25 Must-Use Tags</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-budget-friendly-high-quality-gaming-keyboards-unveiled-for-2024/"><u>[Updated] Budget-Friendly, High-Quality Gaming Keyboards Unveiled for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-optimal-performance-drives-top-10-srt-enhancements-for-pc-and-mac/"><u>2024 Approved Optimal Performance Drives Top 10 SRT Enhancements for PC and Mac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-setup-get-your-amd-ryzen-5-2600s-best-drivers-online-now/"><u>Easy Setup: Get Your AMD Ryzen 5 2600'S Best Drivers Online Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-facile-conversion-du-flv-en-mp4-strategies-pour-eviter-la-reencodage/"><u>Guide Facile : Conversion Du FLV en MP4 - Stratégies Pour Éviter La Réencodage</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-respond-to-customer-feedback-a-guide-to-handling-contact-us-inquiries/"><u>How to Respond to Customer Feedback: A Guide to Handling 'Contact Us' Inquiries</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-variance-computation-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Variance Computation: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-issues-with-scroll-using-arrow-keys-on-your-excel-spreadsheet/"><u>Resolving Issues with Scroll Using Arrow Keys on Your Excel Spreadsheet</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-your-spreadsheets-with-microsoft-excels-updated-checklist-capability-on-pcs/"><u>Revolutionizing Your Spreadsheets with Microsoft Excel’s Updated Checklist Capability on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneously-opening-two-excel-2013-workbooks-on-different-screens/"><u>Simultaneously Opening Two Excel 2013 Workbooks on Different Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-changing-cell-orientations-and-text-directions-in-excel-spreadsheets/"><u>Step-by-Step Guide: Changing Cell Orientations and Text Directions in Excel Spreadsheets</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-combining-columns-effectively-in-microsoft-excel/"><u>Step-by-Step Guide: Combining Columns Effectively in Microsoft Excel</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-green-screen-editing-on-a-mac-software-comparison-and-recommendations/"><u>Updated In 2024, Green Screen Editing on a Mac Software Comparison and Recommendations</u></a></li>
 </ul></div>
 

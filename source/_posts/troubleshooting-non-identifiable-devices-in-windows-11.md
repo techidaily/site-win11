@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Identifiable Devices in Windows 11
-date: 2024-09-22T16:28:55.051Z
-updated: 2024-09-28T17:39:45.071Z
+date: 2024-09-30T19:41:39.963Z
+updated: 2024-10-04T05:33:01.965Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -60,18 +53,25 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -83,6 +83,13 @@ Here's how to use the Hardware and Devices troubleshooter:
 4. Click**Next** .
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
 
@@ -99,14 +106,14 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Driver Update
 
@@ -119,19 +126,6 @@ Next, restart your computer and check for the problem.
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall All the USB Controllers
 
@@ -154,10 +148,10 @@ Next, restart your computer and check for the problem.
 5. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
@@ -187,18 +181,16 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-digital-presence-best-ways-to-utilize-zoom-changer/"><u>[Updated] In 2024, Elevate Your Digital Presence Best Ways to Utilize Zoom Changer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-assembling-visual-slices-photo-montage-techniques/"><u>2024 Approved Assembling Visual Slices Photo Montage Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-storage-management-on-win-1011/"><u>Enhancing Storage Management on Win 10/11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ideal-techniques-for-garnering-background-visuals/"><u>Ideal Techniques for Garnering Background Visuals</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-x100-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo X100 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-windows-11-desktop-sparkle-with-lively-wallpaper-art/"><u>Make Your Windows 11 Desktop Sparkle with Lively Wallpaper Art</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New 2024 Approved Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/party-pulse-perfect-dj-content-for-events-for-2024/"><u>Party Pulse Perfect DJ Content for Events for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-sector-mastering-windows-methods-for-adapter-velocity-check/"><u>Speed Sector: Mastering Windows Methods for Adapter Velocity Check</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-typing-experience-changing-layouts-on-windows-11/"><u>Tailoring Your Typing Experience: Changing Layouts on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-itel-a70-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Itel A70 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-arma-3-stability-and-performance-tips/"><u>Ultimate Troubleshooting Guide: Arma 3 Stability and Performance Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/unhindered-administrator-experience-via-terminals-every-time/"><u>Unhindered Administrator Experience via Terminals Every Time</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cloud-storage-pricing-comparison-and-best-price-recommendations-for-2024/"><u>[Updated] Cloud Storage Pricing Comparison and Best Price Recommendations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-gaming-footage-fbx-edition/"><u>[Updated] Elevate Your Gaming Footage FBX Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-create-captivating-yt-thumbnails-fast/"><u>[Updated] In 2024, Create Captivating YT Thumbnails Fast!</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1725286005533-dvd-dvd/"><u>DVDへのダウンロード再生ビデオ変換テクニック | 無償ストリーミング全動画DVD化ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-functional-status-of-windows-event-viewer/"><u>Ensuring Functional Status of Windows Event Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/experience-freed-digital-conversations-winstyle/"><u>Experience Freed Digital Conversations, WinStyle</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/minecraft-wi-fi-connectivity-problems-solved-on-pc/"><u>Minecraft Wi-Fi Connectivity Problems, Solved on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-invalid-profile-error-windows-xpvista7-solution/"><u>Tackling Invalid Profile Error: Windows XP/Vista/7 Solution</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-success-with-instagrams-business-platform-for-2024/"><u>Unlocking Success with Instagram's Business Platform for 2024</u></a></li>
 </ul></div>
 

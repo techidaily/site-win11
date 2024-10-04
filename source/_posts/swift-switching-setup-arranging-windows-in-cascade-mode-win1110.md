@@ -1,7 +1,7 @@
 ---
 title: "Swift Switching Setup: Arranging Windows in Cascade Mode (Win11/10)"
-date: 2024-09-22T19:12:07.227Z
-updated: 2024-09-28T20:10:49.936Z
+date: 2024-10-01T22:44:10.804Z
+updated: 2024-10-04T06:46:09.529Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
  Navigating through too many open windows on your PC? One of the easiest ways to sort them out is to have Windows cascade them for you. You can use this feature on Windows 10\. But does the function still work on Windows 11, or is there an alternative?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Cascade Open Windows in Windows 10
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  To return them to their original locations, right-click the taskbar again and select **Undo to cascade all windows**. If the option is unavailable on your computer, you’ve probably enabled Tablet mode. Launch the **Action Center** and [click on the **Tablet** tile to turn it off](https://www.makeuseof.com/turn-off-tablet-mode-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can You Cascade Open Windows in Windows 11?
 
  We have bad news if you’ve upgraded from Windows 10 to Windows 11 and are looking for the **Cascade windows** option. Windows 11 has no built-in feature that allows you to cascade all open windows. So what are the alternatives?
@@ -62,30 +55,31 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can [use PowerToys to make windows more manageable](https://www.makeuseof.com/tag/windows-10-powertoys/). However, you’ll have to use a different app to replicate the cascade option properly in Windows 11\.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Cascade Windows on Windows 11
 
 ![Fancy Wm app in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/fancy-wm-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Windows 11, one of the best tools for this job is an open source tiling manager called [FancyWM](https://github.com/FancyWM), available free from the Microsoft Store. Launch the Microsoft Store app and search for "fancywm," or go to the [FancyWM Microsoft Store page](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-us&gl=us) directly. Once installed, you can [use FancyWM to create custom layouts](https://www.makeuseof.com/windows-fancywm-guide/), manage window groups, and take advantage of all your virtual desktops and monitors.
 
@@ -97,19 +91,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  Navigating through too many open windows on your PC? One of the easiest ways to sort them out is to have Windows cascade them for you. You can use this feature on Windows 10\. But does the function still work on Windows 11, or is there an alternative?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-like-a-pro-gopro-model-comparison-guide/"><u>[New] Capture Like a Pro Gopro Model Comparison Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac-for-2024/"><u>[New] Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-snaprecorder-expert-breakdowns/"><u>[New] SnapRecorder Expert Breakdowns</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-temporarily-disable-windows-security-in-windows-11/"><u>4 Ways to Temporarily Disable Windows Security in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/9-quick-ways-to-fix-wwe-2k23-crashing-on-windows-11/"><u>9 Quick Ways to Fix WWE 2K23 Crashing on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-high-ram-demand-of-user-service-on-platforms/"><u>Addressing High RAM Demand of User Service on Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/autonomous-windows-update-an-offline-methodology/"><u>Autonomous Windows Update: An Offline Methodology</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/riproduci-i-tuoi-film-in-dvd-senza-costi-utilizzando-il-ripper-gratuito-del-dvd-piu-recente-dvd-copy-protection/"><u>Riproduci I Tuoi Film in DVD Senza Costi Utilizzando Il Ripper Gratuito Del DVD Più Recente (DVD Copy Protection)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +98,23 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimal-tools-for-high-quality-zoom-recordings/"><u>[Updated] 2024 Approved Optimal Tools for High-Quality Zoom Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-stardews-successors-top-10-farming-sim-picks/"><u>[Updated] 2024 Approved Stardew's Successors Top 10 Farming Sim Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vidma-redefining-standard-practices-in-video-capture/"><u>[Updated] In 2024, Vidma Redefining Standard Practices in Video Capture</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>2024 Approved Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-peaceful-playback-practices-for-pcos-users/"><u>2024 Approved Peaceful Playback Practices for PC/OS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-efficiency-integrating-to-dot-and-ifttt/"><u>Enhanced Efficiency: Integrating To-Dot & IFTTT</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-index-settings-on-windows/"><u>Fine-Tuning Index Settings on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/heroes-of-the-storm-connectivity-fixed-restart-your-adventure/"><u>Heroes of the Storm Connectivity Fixed – Restart Your Adventure</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-oculus-setup-failures-in-windows-11-and-10/"><u>How to Overcome Oculus Setup Failures in Windows 11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-preview-errors-in-windows-outlook/"><u>Mastering the Art of Resolving Preview Errors in Windows Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-time-deal-black-friday-612-endless-windows-10/"><u>Prime Time Deal: Black Friday - $6.12, Endless Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/restore-lost-details-4-premiere-pro-methods-for-iphone-hdr-footage/"><u>Restore Lost Details 4 Premiere Pro Methods for iPhone HDR Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-adding-bespoke-pattern-loops-for-windows-pin/"><u>Step-by-Step: Adding Bespoke Pattern Loops for Windows PIN</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-guide-fixing-issues-with-gogoanime-and-restoring-your-streaming-service/"><u>Troubleshooting Guide: Fixing Issues with GogoAnime and Restoring Your Streaming Service</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-beta-access-the-insider-program-guide/"><u>Windows 11'S Beta Access: The Insider Program Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Ethernet on Windows
-date: 2024-09-23T16:31:34.433Z
-updated: 2024-09-28T21:42:10.804Z
+date: 2024-10-03T00:47:06.154Z
+updated: 2024-10-03T17:30:43.335Z
 tags:
   - windows10
   - windows11
@@ -75,29 +75,22 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
  After that, restart your device once to ensure the changes take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
 ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  DNS serves as the backbone of your internet connection and translates domain names into IP addresses. If you haven't changed your DNS since your internet service provider set up your connection, likely, you're still using the DNS server the internet service provider assigned you initially.
 
@@ -105,15 +98,22 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
@@ -121,10 +121,16 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Effortlessly Connect Your Device to an Ethernet Connection
@@ -133,23 +139,6 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-innovative-approaches-adding-borders-to-your-instagram-content/"><u>[Updated] 2024 Approved Innovative Approaches Adding Borders to Your Instagram Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-forge-strong-content-partnerships-on-youtube-for-2024/"><u>[Updated] How to Forge Strong Content Partnerships on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-your-thriving-youtube-space-for-gamers/"><u>[Updated] In 2024, Building Your Thriving YouTube Space for Gamers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-guide-to-turning-fb-videos-into-audible-mp3s/"><u>[Updated] The Ultimate Guide to Turning Fb Videos Into Audible MP3s</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-11-spatial-audio-setup-guide/"><u>Activating Windows 11: Spatial Audio Setup Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ai-helper-dilemma-solved-making-sense-of-the-great-alexa-vs-google-assistant-debate/"><u>AI Helper Dilemma Solved: Making Sense of the Great Alexa Vs. Google Assistant Debate</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-system-index-for-optimization/"><u>Altering System Index for Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-windows-startechs-expertise-in-fixing-drivers-7-11/"><u>Mastering Windows: StarTech's Expertise in Fixing Drivers (7-11)</u></a></li>
-<li><a href="https://win11.techidaily.com/1719254323833-overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-installation-of-acer-predator-xb271h-monitor-drivers/"><u>Seamless Installation of Acer Predator XB271H Monitor Drivers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/visual-verve-new-era-of-radeon/"><u>Visual Verve New Era of Radeon</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +146,25 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-cinematic-basics-a-list-of-essential-camera-movements/"><u>[New] Cinematic Basics A List of Essential Camera Movements</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clean-cut-windows-10-screen-logger/"><u>[New] Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-0-to-million-views-the-ultimate-content-blueprint-for-2024/"><u>[New] From 0 to Million Views The Ultimate Content Blueprint for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-bridging-platforms-integrating-instagram-with-facebook/"><u>[Updated] 2024 Approved Bridging Platforms Integrating Instagram with Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-cheat-sheet-to-mastering-spotify-advertising/"><u>[Updated] The Comprehensive Cheat Sheet to Mastering Spotify Advertising</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-of-steam-error-130-strategies-for-a-smooth-gaming-experience-fixed/"><u>Cracking the Code of Steam Error 130: Strategies for a Smooth Gaming Experience [FIXED]</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-disk-space-on-windows-using-altwindirstat/"><u>Decluttering Disk Space on Windows Using altWinDirStat</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-code-management-on-windows-11-with-github-desktop/"><u>Elevate Your Code Management on Windows 11 with Github Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-already-used-errors-in-windows-1011-152-chars/"><u>Eliminate 'Already Used' Errors in Windows 10/11 (152 Chars)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-your-systems-graphical-power-with-a-quick-intel-graphics-3000-update-on-w10/"><u>Enhance Your System's Graphical Power with a Quick Intel Graphics 3000 Update on W10.</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-touchpad-settings-on-windows-11/"><u>Fine-Tuning Touchpad Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-and-when-to-use-file-locksmith-in-powertoys/"><u>How and When to Use File Locksmith in PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-draw-on-the-desktop-on-windows-10-and-11/"><u>How to Draw on the Desktop on Windows 10 & 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-essential-tips-for-zooming-on-snapchat-shots/"><u>In 2024, Essential Tips for Zooming on Snapchat Shots</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-enlargement-win11-taskbar-icons-reimagined/"><u>The Art of Enlargement: Win11 Taskbar Icons Reimagined</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/to-update-or-not-making-the-right-choice-with-ios-17/"><u>To Update or Not: Making the Right Choice with iOS 17</u></a></li>
+<li><a href="https://win11.techidaily.com/unified-solutions-overcoming-issues-with-windows-defender-threat-engine/"><u>Unified Solutions: Overcoming Issues with Windows Defender Threat Engine</u></a></li>
+</ul></div>
+

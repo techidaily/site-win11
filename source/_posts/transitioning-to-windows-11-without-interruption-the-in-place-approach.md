@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11 Without Interruption: The In-Place Approach"
-date: 2024-09-25T17:11:36.754Z
-updated: 2024-09-28T22:49:44.475Z
+date: 2024-09-28T17:18:29.028Z
+updated: 2024-10-04T02:33:32.158Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  An in-place upgrade doesn’t replace anything other than Windows files. So, in addition to your personal files, all the installed apps and system settings also remain untouched. You won’t need to re-configure those settings after the in-place upgrade completes. But if you go with the Reset option, it can preserve your files but will remove all your installed programs and settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Prerequisites Before Performing a Windows In-Place Upgrade
 
  You will need to do the following things before performing an in-place upgrade:
@@ -43,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Download the Windows 11 ISO Image File
 
@@ -76,27 +69,36 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 ![Change how Setup downloads updates setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-how-setup-downloads-updates-setting.jpg)
 5. Read the EULA page and click on the**Accept** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
@@ -118,21 +120,20 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-aurora-hdr-reviews-is-aurora-hdr-a-good-choice/"><u>[Updated] 2024 Approved Aurora HDR Reviews Is Aurora HDR a Good Choice ?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bridging-mac-and-monetization-imovie-editing-to-youtube-success/"><u>[Updated] 2024 Approved Bridging Mac & Monetization IMovie Editing to YouTube Success</u></a></li>
-<li><a href="https://win11.techidaily.com/7-expert-moves-for-restoring-the-functionality-of-windows-services-control-panel/"><u>7 Expert Moves for Restoring the Functionality of Windows Services Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/8-easy-ways-to-unlock-windows-screen-setup-problems/"><u>8 Easy Ways to Unlock Windows Screen Setup Problems</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-no-network-reachability-windows/"><u>Addressing No Network Reachability (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-win11-crashes-with-exception-handlers/"><u>Addressing WIN11 Crashes with Exception Handlers</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-display-output-clarity-with-high-dpi-adjustments/"><u>Boost Display Output Clarity with High-DPI Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/1719313088233-break-free-from-windows-update-problems-quickly/"><u>Break Free From Windows Update Problems Quickly!</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-the-barrier-5-apps-to-increase-volume-on-windows-past-100/"><u>Breaking the Barrier: 5 Apps to Increase Volume on Windows Past 100%</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-and-deploy-8-gpt-alternatives-available-today/"><u>Discover and Deploy: 8 GPT Alternatives Available Today</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-12-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 12 iCloud Bypass</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>In 2024, Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-huawei-p60-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Huawei P60 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-excel-2010-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2010 Online for Free</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-xs-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone XS Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>[New] Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-render-and-upload-your-youtube-video-faster-for-2024/"><u>[New] How to Render and Upload Your YouTube Video Faster for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-movavi-pro-video-review-the-new-standard/"><u>[New] Movavi Pro Video Review – The New Standard</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>[New] Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-blitz-photo-screening-for-windows-users/"><u>[Updated] Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premium-5-android-capture-and-screen-save-apps/"><u>[Updated] Premium 5 Android Capture & Screen Save Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-snapchats-spotlight-feature/"><u>[Updated] The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/command-shortcut-companion-for-windows-users/"><u>Command Shortcut Companion for Windows Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-13-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 13 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-system-notifications-via-explorers-menu/"><u>Facilitating System Notifications via Explorer's Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-enable-the-powerful-end-task-functionality-on-windows-11/"><u>Step by Step Guide to Enable the Powerful End Task Functionality on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-post-win-11-upgrade-linux-issues/"><u>Steps to Address Post-Win 11 Upgrade Linux Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-everlasting-file-erasure-with-windows-desktop-trash-setup/"><u>Unlock the Power of Everlasting File Erasure with Window's Desktop Trash Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-fix-for-windows-11-camera-error-code-f429f/"><u>Unlocking Fix for Windows 11 Camera Error: Code F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/your-smart-lock-at-risk-windows-hellos-latest-security-threat/"><u>Your Smart Lock at Risk? Windows Hello's Latest Security Threat</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overhauling Deactivated Coolant Regulation Mechanism
-date: 2024-09-24T18:54:22.564Z
-updated: 2024-09-28T19:19:19.730Z
+date: 2024-10-02T00:03:15.805Z
+updated: 2024-10-03T19:34:33.591Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,10 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +74,16 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,10 +95,10 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -114,24 +120,17 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-from-kitchen-to-feeds-the-10-hottest-tiktok-treats/"><u>[New] 2024 Approved From Kitchen to Feeds The 10 Hottest TikTok Treats</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-spark-viewers-attention-with-these-10-youtube-responses/"><u>[New] 2024 Approved Spark Viewer's Attention with These 10 YouTube Responses</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamcatcher-pro-for-facebook-videos/"><u>[New] 2024 Approved StreamCatcher Pro for Facebook Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-tips-for-saving-your-favorite-screened-events/"><u>[Updated] Expert Tips for Saving Your Favorite Screened Events</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-about-to-expire-message-on-microsoft-os/"><u>Bypassing the About To Expire Message on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/decreasing-excessive-use-of-windows-module-installer-worker/"><u>Decreasing Excessive Use of Windows Module Installer Worker</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-mail-readability-removing-html-from-email-text/"><u>Enhancing Windows 11 Mail Readability: Removing HTML From Email Text</u></a></li>
-<li><a href="https://win11.techidaily.com/1719334729837-fix-unusable-compatibility-center-on-vista7-pcs-fast/"><u>Fix Unusable Compatibility Center on Vista/7 PCs Fast</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-modify-win11s-network-preferences/"><u>Guide to Modify Win11's Network Preferences</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-a2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi A2 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-learn-to-navigate-two-screens-for-superior-streaming-on-netflix/"><u>In 2024, Learn to Navigate Two Screens for Superior Streaming on Netflix</u></a></li>
-<li><a href="https://video-capture.techidaily.com/infinite-jest-joyride-top-kids-game-lineup-in-2024/"><u>Infinite Jest Joyride - Top Kids' Game Lineup, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-assistance-entry/"><u>Mastering the Art of Windows Assistance Entry</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-missing-action-buttons-on-windows-11-pc/"><u>Overcoming Missing Action Buttons on Windows 11 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-tray-interface-with-numeric-and-caps-indicators/"><u>Personalize Tray Interface with Numeric and Caps Indicators</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-original-directory-display-preferences/"><u>Regaining Original Directory Display Preferences</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-apples-podcast-library-a-download-guide/"><u>Unlocking Apple's Podcast Library A Download Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-splitter-software-our-top-picks-of-the-year/"><u>Updated Free Video Splitter Software Our Top Picks of the Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b-for-2024/"><u>[New] Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>[New] In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-saving-your-best-on-instagram-a-comprehensive-guide/"><u>[New] Saving Your Best on Instagram A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-educators-resourceful-recorder-companion/"><u>2024 Approved The Educator's Resourceful Recorder Companion</u></a></li>
+<li><a href="https://win11.techidaily.com/crucial-steps-to-idle-your-windowed-machine/"><u>Crucial Steps to Idle Your Windowed Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ensuring-smooth-play-diagnosing-and-repairing-starcraft-er-crashes-in-windows-environments/"><u>Ensuring Smooth Play: Diagnosing and Repairing StarCraft Er Crashes in Windows Environments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-amazon-kindle-oasis-impeccable-elegance-meets-expensive-price-point/"><u>Expert Review of the Amazon Kindle Oasis: Impeccable Elegance Meets Expensive Price Point</u></a></li>
+<li><a href="https://win11.techidaily.com/from-silence-to-sound-windows-11s-tale-beginnings/"><u>From Silence to Sound: Windows 11'S Tale Beginnings</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-active-directory-domain-services-printer-error-in-windows-11-and-11/"><u>How to Fix the “Active Directory Domain Services” Printer Error in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-audio-playwright-craftsmanship/"><u>In 2024, Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://win11.techidaily.com/sudden-rav-virus-alert-where-it-comes-from-how-to-uninstall/"><u>Sudden Rav Virus Alert - Where It Comes From, How To Uninstall</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-xc0f1103f-failure-on-geforce-now-and-windows-1011/"><u>Troubleshooting XC0F1103F Failure on GeForce Now & Windows 10/11</u></a></li>
 </ul></div>
 

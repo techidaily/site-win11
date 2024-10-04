@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Prime Viewing: Deciphering Subtitle Woes in Windows 11"
-date: 2024-09-22T21:24:45.096Z
-updated: 2024-09-28T16:08:01.892Z
+date: 2024-09-30T19:06:18.569Z
+updated: 2024-10-04T06:32:30.507Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Eliminate Browser Issues
 
  If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually[clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -76,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
 
@@ -94,13 +87,20 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -121,20 +121,20 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-navigating-the-maze-of-tiktoks-bulk-video-transfer-for-2024/"><u>[New] Navigating the Maze of TikTok's Bulk Video Transfer for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-top-10-best-drones-for-kids-and-beginners/"><u>[New] Top 10 Best Drones for Kids and Beginners</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-scope-camera-platforms/"><u>2024 Approved Extended Scope Camera Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/5-effective-ways-to-manipulate-image-size-on-windows-11/"><u>5 Effective Ways to Manipulate Image Size on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/access-windows-greatness-through-microsoft-store/"><u>Access Windows Greatness Through Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-utorrents-non-functionality-on-pc-systems/"><u>Addressing uTorrent's Non-Functionality on PC Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tactics-in-managing-windows-startup-procedures/"><u>Advanced Tactics in Managing Windows Startup Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/alleviating-high-cpu-demands-in-setups/"><u>Alleviating High CPU Demands in Setups</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-the-implications-of-device-isolation-on-windows-audio/"><u>Assessing the Implications of Device Isolation on Windows Audio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hololens-review-unleashing-virtual-potential-with-microsoft-for-2024/"><u>HoloLens Review – Unleashing Virtual Potential with Microsoft for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-80-pro-straight-screen-edition-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 80 Pro Straight Screen Edition Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v30-lite-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V30 Lite 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-visual-greenprints-a-treasure-trove-of-free-templates-for-cinematic-professionals/"><u>In 2024, Visual Greenprints A Treasure Trove of Free Templates for Cinematic Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/1719345925022-the-forgotten-tools-of-windows-11-dont-miss-them/"><u>The Forgotten Tools of Windows 11 - Don’t Miss Them</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-how-to-create-and-grow-an-online-space-for-beauty-product-reviews-for-2024/"><u>[Updated] How To Create and Grow an Online Space for Beauty Product Reviews for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-spectrum-signatures-filmmakers-guide-to-adjustment-for-2024/"><u>[Updated] Spectrum Signatures Filmmaker's Guide to Adjustment for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-io-scanner-insiders-handbook/"><u>[Updated] The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/end-the-paper-to-excel-transfer-hassle-with-our-simple-phone-trick/"><u>End the Paper-to-Excel Transfer Hassle with Our Simple Phone Trick</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-essentials-a-step-by-step-guide-to-manipulating-dates-by-addingsubtracting-them/"><u>Excel Essentials: A Step-by-Step Guide to Manipulating Dates by Adding/Subtracting Them</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-and-tricks-leveraging-the-power-of-text-splitting-in-excel/"><u>Expert Tips and Tricks: Leveraging the Power of Text Splitting in Excel</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-7-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 7 or iPad?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-5-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT 5 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-masterclass-essential-10-mods-in-terraria/"><u>In 2024, Masterclass Essential 10 Mods in Terraria</u></a></li>
+<li><a href="https://win11.techidaily.com/latest-tech-news-anticipating-new-releases-from-google-and-samsung-telecoms/"><u>Latest Tech News: Anticipating New Releases From Google and Samsung Telecoms</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-financial-formatting-a-step-by-step-guide-to-applying-accounting-number-styles-in-excel/"><u>Mastering Financial Formatting: A Step-by-Step Guide to Applying Accounting Number Styles in Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-alphabetizing-excel-sheet-tab-names-efficiently/"><u>Step-by-Step Guide: Alphabetizing Excel Sheet Tab Names Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-incorporating-a-trendline-into-your-microsoft-excel-data-analysis/"><u>Step-by-Step Guide: Incorporating a Trendline Into Your Microsoft Excel Data Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/streamline-gpu-cooling-with-cooler-masters-compact-2-fan-replacement-over-traditional-triple-fans/"><u>Streamline GPU Cooling with Cooler Master's Compact 2-Fan Replacement Over Traditional Triple Fans</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unrivaled-5-non-twitter-communities-online-for-2024/"><u>Unrivaled 5 Non-Twitter Communities Online for 2024</u></a></li>
 </ul></div>
 

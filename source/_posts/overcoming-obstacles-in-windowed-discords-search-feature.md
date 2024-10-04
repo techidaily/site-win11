@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obstacles in Windowed Discord's Search Feature
-date: 2024-09-26T20:16:34.424Z
-updated: 2024-09-28T21:16:21.403Z
+date: 2024-09-28T06:34:55.692Z
+updated: 2024-10-03T21:30:59.783Z
 tags:
   - windows10
   - windows11
@@ -51,26 +51,19 @@ Here's how you can check and fix your internet-related issues:
 ![Windows Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-power-user-menu.jpg)
 3. Type**netsh winsock reset** into the command prompt or terminal and hit**Enter** . This will force Windows to reset Winsock.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Winsock Reset Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/winsock-reset-command.jpg)
 4. You can restart your PC and check if the Discord search feature works correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that this method will restore your network settings to their default values. There's nothing to worry about, as it will not do any harm to your internet connection.
 
  Besides, you should also[fix your Wi-Fi connection if it's unstable](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) to avoid network-related errors in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update the Discord Windows Client
 
@@ -98,28 +91,8 @@ Here's how you can check and fix your internet-related issues:
 ![Network And Internet Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/network-and-internet-settings.jpg)
 3. Under**VPN connections** , click the**Disconnect** button next to your connected VPN.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
 
@@ -138,10 +111,10 @@ Below are the steps you need to perform to disable the Streamer Mode:
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Clear Discord's AppData Cache Folder
@@ -155,8 +128,23 @@ Here's how you can clear Discord's cache files on Windows:
 3. Type**%appdata%** in the search bar and hit**Enter** . This will open the cache directory in File Explorer.  
 ![AppData Command In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/appdata-command-in-explorer.jpg)
 4. Locate the**discord** folder and right-click on it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it for your part. You can now restart your computer and relaunch Discord to check the search issue. Make sure to test in both cases: searching in an individual chat as well as in a server!
 
@@ -175,10 +163,10 @@ Here's how you can clear Discord's cache files on Windows:
  Hopefully, this should help you quickly resolve any issues with Discord's search functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Some Miscellaneous Fixes to Try
@@ -186,10 +174,16 @@ Here's how you can clear Discord's cache files on Windows:
  If you've tried everything and still can't get Discord's search function to work, try the following miscellaneous fixes once.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Uninstall Your Discord Plugins
@@ -201,6 +195,19 @@ Here's how you can clear Discord's cache files on Windows:
 ### Check Discord’s Server Status
 
  Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit[Discord's server status](https://discordstatus.com/) page.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Restore Discord’s Search Functionality in No Time on Windows
 
@@ -223,19 +230,22 @@ Here's how you can clear Discord's cache files on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-audience-friendly-techniques-for-monitoring-facebook-live/"><u>[New] 2024 Approved Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>[New] In 2024, Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-social-media-reach-a-deep-dive-into-instagram-and-obs-streaming/"><u>[Updated] 2024 Approved Enhancing Social Media Reach A Deep Dive Into Instagram & OBS Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-craft-the-perfect-livestream-on-youtube-and-twitch-with-obs/"><u>2024 Approved Craft the Perfect Livestream on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://win11.techidaily.com/adding-animated-backgrounds-to-windows-11-pcs-effortlessly/"><u>Adding Animated Backgrounds to Windows 11 PCs Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-failure-starting-services-on-windows-efficiently/"><u>Avoiding Failure: Starting Services on Windows Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-old-wallpaper-memories-triple-approach/"><u>Banish Old Wallpaper Memories: Triple Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/1719366255245-functional-failures-cure-win10-key-issues-now/"><u>Functional Failures? Cure Win10 Key Issues Now!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuidade-converter-e-salvar-em-video-flv-ao-vivo-online-sem-custo-com-o-movavi/"><u>Gratuidade: Converter E Salvar Em Vídeo FLV Ao Vivo Online Sem Custo Com O Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-deciphering-youtubes-comprehensive-feedback-system-for-2024/"><u>Guide to Deciphering YouTube's Comprehensive Feedback System for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ideal-presents-for-aspiring-gamers-kid-friendly-consoles-add-ons/"><u>Ideal Presents for Aspiring Gamers: Kid-Friendly Consoles, Add-Ons</u></a></li>
-<li><a href="https://win11.techidaily.com/1719347188756-overcoming-chrome-hurdles-in-w11-effective-steps-herein/"><u>Overcoming Chrome Hurdles in W11 – Effective Steps Herein.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/professional-grade-hd-video-editing-software-top-5-recommendations-for-2024/"><u>Professional-Grade HD Video Editing Software Top 5 Recommendations for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719347815778-resolve-dormant-shift-key-issue-on-windows/"><u>Resolve Dormant Shift Key Issue on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ace-your-signature-rapid-background-cleansing-guide/"><u>[New] In 2024, Ace Your Signature Rapid Background Cleansing Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/itchen-chronicles-filming-every-bite/"><u>[New] Kitchen Chronicles Filming Every Bite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>2024 Approved Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-pop-up-non-adobe-issue/"><u>Avoiding Windows Pop-Up: Non-Adobe Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-zte-nubia-z60-ultra-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix ZTE Nubia Z60 Ultra Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-poco-f5-pro-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-precision-in-sound-10-tips-for-professional-audio-quality/"><u>In 2024, Precision in Sound 10 Tips for Professional Audio Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/making-oculus-quest-compatible-with-windows-vr-systems/"><u>Making Oculus Quest Compatible with Windows VR Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-blue-screen-errors/"><u>Navigating Through the Maze of Blue Screen Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-paudio-quirks-on-wos-an-audacity-guide/"><u>Resolving PAudio Quirks on WOS: An Audacity Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sifting-through-legacy-works-a-cultural-journey/"><u>Sifting Through Legacy Works A Cultural Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-non-procreate-sketchers-for-pc-users/"><u>The Ultimate List of Non-Procreate Sketchers for PC Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-14-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi 14</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-enigma-of-windows-security-errors/"><u>Unraveling the Enigma of Windows Security Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-efficiency-pro-tips-for-scanning-qr-codes-via-windows/"><u>Unveiling Efficiency: Pro Tips for Scanning QR Codes via Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-program-compatibility-troubleshooter-on-windows-11-and-how-do-you-use-it/"><u>What Is the Program Compatibility Troubleshooter on Windows 11, and How Do You Use It?</u></a></li>
 </ul></div>
 

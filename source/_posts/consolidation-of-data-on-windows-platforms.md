@@ -1,7 +1,7 @@
 ---
 title: Consolidation of Data on Windows Platforms
-date: 2024-09-26T22:51:04.067Z
-updated: 2024-09-28T22:00:01.123Z
+date: 2024-09-30T20:30:25.058Z
+updated: 2024-10-03T23:22:34.481Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
  Conversely, this can be a time-consuming process when you have to work with hundreds of folders at a time. A more efficient way to overcome this limitation is to use a PowerShell script hack to merge folders on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Merge Folders Using a PowerShell Script
 
  PowerShell is a powerful automation shell utility. You can learn the[essential PowerShell cmdlets](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to automate everyday tasks with a script.
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
  With the script running on PowerShell enabled, follow these to execute a PowerShell script to merge folders.
 
 ![merge folders powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/merge-folders-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**powershell** .
 2. Click on**Windows PowerShell** from the search results.
@@ -95,20 +95,27 @@ foreach($file in $files){
 
  You can repeat the script with different file paths to merge more folders. If you encounter any error, check if the file path for the destination and source is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Merge Folders Using Third-Party Software
 
  If you prefer a GUI-based utility over a PowerShell script to merge files, you have a few options to choose from. Third-party merge tools for Windows offer basic merging capabilities and premium offerings catered to software and creative design professionals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Folder Merger
 
 ![folder merger windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/folder-merger-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Folder Merger is a free utility to merge the contents of different folders into a single folder. You can add multiple source folders to the app and then merge them to a specified destination folder.
 
@@ -123,13 +130,6 @@ foreach($file in $files){
 ### 2\. WinMerge
 
 ![winmerge file difference comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/winmerge-file-difference-comparison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  WinMerge serves a different purpose than Folder Merger with a clean user interface. It is an open-source differencing and merger utility for Windows. A handy tool if you want to compare multiple text documents to find the differences. It can compare text-based documents, images, web pages, and more from a folder for differences and then perform a merge.
 
@@ -147,10 +147,10 @@ To compare and merge documents using WinMerge:
 **Download** :[WinMerge](https://winmerge.org/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Apps to Merge Files and Folders on Windows
@@ -172,15 +172,16 @@ To compare and merge documents using WinMerge:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/irect-download-destiny-ultimate-guide-to-mp3-makers-for-2024/"><u>[New] Direct Download Destiny Ultimate Guide to Mp3 Makers for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[New] Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-performer-freedom-agreement-form/"><u>[New] Performer Freedom Agreement Form</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-into-photo-magic-innovative-edits-on-snapchat/"><u>[Updated] 2024 Approved Step Into Photo Magic Innovative Edits on Snapchat</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-access-denied-error-on-windows-11/"><u>5 Ways to Fix the “Access Denied” Error on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-problems-with-minecraft-local-area-network-play/"><u>Expert Tips for Resolving Problems with Minecraft Local Area Network Play</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-how-to-infuse-your-iphone-pics-with-movement/"><u>In 2024, How to Infuse Your iPhone Pics with Movement</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-asana-glitches-on-pc/"><u>Troubleshooting Asana Glitches on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-properties-puzzles-in-windows-os/"><u>Unveiling Properties Puzzles in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-s-mode-understanding-its-role-in-security/"><u>Windows 11'S 'S Mode': Understanding Its Role in Security</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-deal-with-youtube-trolls-and-negative-comments/"><u>[New] 2024 Approved How To Deal with YouTube Trolls and Negative Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-fix-13-solutions-for-windows-system-repair/"><u>A Quick Fix: 13 Solutions for Windows System Repair</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-lost-words-effective-strategies-for-getting-back-your-erased-iphone-notes/"><u>Finding Lost Words: Effective Strategies for Getting Back Your Erased iPhone Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-broken-registry-items-in-windows-11/"><u>How to Fix Broken Registry Items in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-github-desktop-in-windows-11-and-11/"><u>How to Use GitHub Desktop in Windows 11 and 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-print-driver-troubleshooting-on-win11/"><u>HP Print Driver Troubleshooting on Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instantaneous-image-viewing-with-windows-11/"><u>In 2024, Instantaneous Image Viewing with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-quick-systemsettings-fix-on-windows-11/"><u>Strategies for Quick SystemSettings Fix on Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transform-your-gaming-consoles-vocals-today/"><u>Transform Your Gaming Consoles' Vocals Today</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-full-potential-chromium-setup-for-windows-11/"><u>Unleash Full Potential: Chromium Setup for Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722166933106-zero-cost-local-chatbot-ai-mastering-gpt-4-all-version-installation-on-windows/"><u>Zero-Cost, Local Chatbot AI: Mastering GPT-4 All Version Installation on Windows</u></a></li>
 </ul></div>
 

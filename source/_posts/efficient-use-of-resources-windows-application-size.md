@@ -1,7 +1,7 @@
 ---
 title: "Efficient Use of Resources: Windows Application Size"
-date: 2024-09-24T20:19:46.417Z
-updated: 2024-09-28T16:05:54.958Z
+date: 2024-09-30T00:37:46.571Z
+updated: 2024-10-03T16:27:34.861Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
 
  Although Microsoft is gradually transitioning from the Control Panel to the modern Settings app, the Control Panel still remains accessible in all versions of Windows, including Windows 11\. So, if you prefer using the Control Panel, use these steps to check how much storage your apps or programs are using on Windows.
@@ -47,28 +54,15 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 ![Check App Storage Usage via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In case the **Size** column is not visible, right-click on the **Name** column header and select **Size** from the context menu.
 
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
 
@@ -82,17 +76,17 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -101,29 +95,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>[New] From Novice to Pro Building an Insta Highlight Showcase</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-intense-close-ups-in-minecraft-five-simple-steps/"><u>2024 Approved Intense Close-Ups in Minecraft Five Simple Steps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-minecraft-ultimate-recording-techniques/"><u>2024 Approved Mastering Minecraft Ultimate Recording Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-setting-up-your-gaming-studio-with-obs/"><u>2024 Approved Setting Up Your Gaming Studio with OBS</u></a></li>
-<li><a href="https://win11.techidaily.com/5-strategies-for-switching-out-of-unwanted-night-mode/"><u>5 Strategies for Switching Out of Unwanted Night Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
-<li><a href="https://win11.techidaily.com/8-mistakes-you-should-avoid-making-as-a-beginner-to-windows-11/"><u>8 Mistakes You Should Avoid Making as a Beginner to Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-wordpad-efficiently-in-windows-computers/"><u>Activating WordPad Efficiently in Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-win-11-context-menu-to-omit-additional-entry/"><u>Adjusting Win 11 Context Menu to Omit Additional Entry</u></a></li>
-<li><a href="https://win11.techidaily.com/age-friendly-features-in-pre-windows-10-systems/"><u>Age-Friendly Features in Pre-Windows 10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-defaults-20-ways-to-personalize-windows-11/"><u>Beyond Defaults: 20 Ways to Personalize Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-pinned-items-visibility-on-w11-start/"><u>Boosting Pinned Items Visibility on W11 Start</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m34-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M34 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
-<li><a href="https://win11.techidaily.com/1719382719080-optimal-start-menu-no-commercials-here/"><u>Optimal Start Menu: No Commercials Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-zoom-camera-malfunctions-with-easy-fixes/"><u>Overcoming Zoom Camera Malfunctions with Easy Fixes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/prime-recommendations-downloading-video-intros-and-templates-for-2024/"><u>Prime Recommendations Downloading Video Intros & Templates for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/razer-basilisk-v3-pro-review-low-latency-and-high-performance/"><u>Razer Basilisk V3 Pro Review: Low Latency and High Performance</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +102,19 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-zero-to-twitter-an-instagram-guide-for-2024/"><u>[Updated] From Zero to Twitter An Instagram Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-historical-stop-motion-masterpieces-15-essential-viewing/"><u>2024 Approved Historical Stop-Motion Masterpieces #15 Essential Viewing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-7-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 7 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-2023/"><u>最新技術によるDVDコピーガード解除: 2023年優れたソフトウェアガイド</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a14-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A14 4G Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>In 2024, Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-printer-support-into-application-guard/"><u>Integrating Printer Support Into Application Guard</u></a></li>
+<li><a href="https://win11.techidaily.com/snooze-button-secrets-for-window-computers/"><u>Snooze Button Secrets for Window Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-windows-update-eliminating-error-0x800736cc/"><u>Swift Solutions for Windows Update: Eliminating Error 0X800736CC</u></a></li>
+<li><a href="https://win11.techidaily.com/synapse-troubleshoot-restore-functionality-on-windows-devices/"><u>Synapse Troubleshoot: Restore Functionality on Windows Devices</u></a></li>
+</ul></div>
+

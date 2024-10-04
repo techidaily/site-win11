@@ -1,7 +1,7 @@
 ---
 title: Resolving Value Cannot Be Established Errors on Windows Devices
-date: 2024-09-22T17:16:05.203Z
-updated: 2024-09-28T17:36:48.440Z
+date: 2024-09-29T08:14:01.579Z
+updated: 2024-10-04T08:01:40.933Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,25 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 
  Once its system boots up, reconnect it and try to transfer the files again. Additionally, you could use a different USB port in case a malfunctioning USB port is preventing you from copying the files. If one of your ports isn't behaving, check out[how to diagnose and fix a faulty USB port on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Copy Fewer Files at Once
 
  Most of the time, you’ll get the "the requested value cannot be determined" error if you try to copy a large number of folders with many subfolders, and files. In addition to giving Windows too many files to handle at once, the transfer might exceed the supported limited size.
 
  For example, you can only transfer files smaller than 4GB to a FAT32 partition. To test it, try to copy a single file at once.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Change the File Destination
 
@@ -59,23 +73,10 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 ![Check folder permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/folder-permissions.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choose the Right Transfer Protocol
@@ -85,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
  If setting the transfer protocol to MTP or File Transfer is still giving you headaches, try using**PTP (Picture Transfer Protocol)** . If none of these options worked, your problem isn’t protocol related.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Use Different Transfer Methods
@@ -96,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
  If you’ve tried every solution but nothing worked, you might have to wait for a Windows, Android, or iOS update to fix the issue. Alternatively, you could update the files to your cloud storage, send them through Bluetooth, or use one of many[methods to transfer files from Android to PC](https://www.makeuseof.com/tag/transfer-files-android-pc/) .
 
  If you don’t have a lot of storage space on your phone, chances are you’ve extended its capacity using an SD card. If that’s the case here, you can remove the SD card and use your computer's SD card reader to transfer the files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Transfer Files From Phone to Windows
 
@@ -123,19 +117,15 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost/"><u>[Updated] 2024 Approved Capture Perfection Dive Into Top 12 Websites Offering Stock Photos Without Cost</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-techniques-for-realistic-photo-motions-in-illustrator/"><u>[Updated] In 2024, Techniques for Realistic Photo Motions in Illustrator</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-windows-11s-voice-recorder-usability-via-shortcut-guide/"><u>Elevating Windows 11'S Voice Recorder Usability via Shortcut Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-lenovo-130s-slimmed-down-yet-still-functionally-robust/"><u>Exploring the Lenovo 130S: Slimmed Down, Yet Still Functionally Robust</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-autonomous-command-line-openings/"><u>How to Disable Autonomous Command Line Openings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-make-youtube-banners-and-thumbnails-for-2024/"><u>How to Make YouTube Banners and Thumbnails for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-the-absence-of-dxgidll-in-windows-11/"><u>How to Rectify the Absence of Dxgi.dll in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X Fold 2</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/inside-the-windows-world-crafting-and-examining-system-data/"><u>Inside the Windows World: Crafting and Examining System Data</u></a></li>
-<li><a href="https://win11.techidaily.com/key-techniques-eradicating-predominant-anomalies-with-anydesk-on-windows/"><u>Key Techniques: Eradicating Predominant Anomalies with AnyDesk on Windows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/revealing-the-secrets-behind-lgs-high-definition-monitoring/"><u>Revealing the Secrets Behind LG’s High-Definition Monitoring</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722115707567-selecting-the-right-ai-chatbot-check-out-these-7-crucial-features-first/"><u>Selecting the Right AI Chatbot: Check Out These 7 Crucial Features First!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unveil-secrets-to-speedy-caption-design-in-facebook-media-for-2024/"><u>Unveil Secrets to Speedy Caption Design in Facebook Media for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xploring-differences-between-igtv-and-youtube-for-effective-posts-for-2024/"><u>[New] Exploring Differences Between IGTV and YouTube for Effective Posts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[New] First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-syncing-muted-voices-with-obs-streams-for-2024/"><u>[New] Syncing Muted Voices with OBS Streams for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-polishing-your-tiktok-content-a-guide-to-filters/"><u>[Updated] 2024 Approved Polishing Your TikTok Content A Guide to Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/connoisseurs-tips-for-immaculate-w11-window-backgrounds/"><u>Connoisseur’s Tips for Immaculate W11 Window Backgrounds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-laptops-sound-back-on-track-a-comprehensive-guide/"><u>Getting Your Laptop's Sound Back On Track: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-pin-almost-anything-to-the-windows-11-taskbar/"><u>How to Pin Almost Anything to the Windows 11 Taskbar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/reworking-windows-11-to-utilize-traditional-search-icon/"><u>Reworking Windows 11 to Utilize Traditional Search Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-disable-repetitive-sign-in-requests-in-teams/"><u>Techniques to Disable Repetitive Sign-In Requests in Teams</u></a></li>
 </ul></div>
 

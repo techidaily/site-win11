@@ -1,7 +1,7 @@
 ---
 title: Guide to Fix 'Unstoppable Volume Controller' On Windows
-date: 2024-09-26T21:39:28.652Z
-updated: 2024-09-28T21:18:08.188Z
+date: 2024-10-01T00:40:11.083Z
+updated: 2024-10-04T04:25:15.453Z
 tags:
   - windows10
   - windows11
@@ -48,18 +48,27 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 3. Right-click Windows Explorer and select **End task**. Your desktop will go blank, but restarting Explorer will restore it.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/end-task-option.jpg)
 4. Click Task Manager’s **File** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select **Run new task** on the menu.
 6. Then input **explorer** in Create new task.  
 ![The Create a new task tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-create-a-new-task-window.jpg)
 7. Select **Create this task with administrative privileges**.
-8. Click **OK** to restart Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Click **OK** to restart Explorer.
 
 ## 3\. Troubleshoot the Device
 
@@ -73,23 +82,32 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 `msdt.exe -id DeviceDiagnostic`  
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter.jpg)
 4. Click **Next** to run the troubleshooting tool.  
-![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter4.jpg)
-5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
-![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
-6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter4.jpg)
+5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
+6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
 
 ## 4\. Select the Quick Removal Option
 
@@ -102,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 4. Then press the **Properties** button.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **Change settings** to bring up another window.  
@@ -128,10 +146,17 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 4. Select **Apply** and **OK** to set the drive’s new setting.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
@@ -147,24 +172,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 ![The diskpart command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command.jpg)
 5. Next, execute this command to select your USB drive:  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `select disk <drive number>`
 6. Finally, set the selected disk to offline by executing this command:  
 `offline disk`  
 ![The offline command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/offline-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will need to replace **<drive number>** for the select disk command with the actual number of your USB drive listed by Diskpart. For example, if your USB drive is disk 1, the required command would look like this:
 
@@ -182,19 +193,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
 ![The Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-management-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Safely Eject Your USB Drive
 
  Removing a USB drive from a PC without safely ejecting it can corrupt the data on it. So, it’s not a good idea to ignore the “Windows can’t stop your generic volume device” error.
@@ -203,26 +201,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Of course, you can still safely remove a USB drive with a PC off. However, many users still prefer to be able to safely eject their connected drives without shutting down their computer. This is how you can fix the “Windows can’t stop your generic volume device” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-estimate-income-from-youtube-video-snippets-for-2024/"><u>[New] How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-friendly-obs-configuration-guide/"><u>[New] In 2024, Budget-Friendly OBS Configuration Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-pureimagezone-premium-tool-to-remove-backgrounds-for-2024/"><u>[New] PureImageZone Premium Tool to Remove Backgrounds for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/10-substitutes-for-bitlocker-in-winxp-systems/"><u>10 Substitutes for BitLocker in WinXP Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/10-trusted-secure-windows-software-download-spots/"><u>10 Trusted, Secure Windows Software Download Spots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-tips-for-srt-file-production-mastery/"><u>2024 Approved In-Depth Tips for SRT File Production Mastery</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-and-tricks-for-editing-your-way-to-greatness-in-facebook-reels/"><u>2024 Approved Tips and Tricks for Editing Your Way to Greatness in Facebook Reels</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-sam-mismanagement/"><u>Addressing Windows SAM Mismanagement</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-network-settings-with-precision-win11/"><u>Adjusting Network Settings with Precision (Win11)</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-slowness-essential-tricks-for-windows-11s-pace/"><u>Beat the Slowness: Essential Tricks for Windows 11'S Pace</u></a></li>
-<li><a href="https://win11.techidaily.com/beware-the-traps-in-budget-friendly-windows-license-purchases/"><u>Beware the Traps in Budget-Friendly Windows License Purchases</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-wirecast-other-options-to-consider-for-2024/"><u>Evaluating WireCast Other Options To Consider for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-update-your-asus-computers-touchpad-driver-for-optimal-performance-on-windows-10/"><u>How to Seamlessly Update Your ASUS Computer's Touchpad Driver for Optimal Performance on Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s23-tactical-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S23 Tactical Edition Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719251209823-overcome-wwinplusprint-hurdles-for-seamless-operations-in-windows/"><u>Overcome WWin+Print Hurdles for Seamless Operations in Windows.</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-a60-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel A60</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -230,3 +208,19 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-seamless-teaching-online-screen-sharing-on-skype-explained/"><u>[New] Seamless Teaching Online Screen Sharing on Skype Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g24-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G24 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-220-driver-update-how-to-keep-your-scanner-running-smoothly/"><u>CanoScan LIDE 220 Driver Update: How to Keep Your Scanner Running Smoothly</u></a></li>
+<li><a href="https://win11.techidaily.com/crucial-excel-tricks-you-need-to-know-for-effective-data-input/"><u>Crucial Excel Tricks You Need to Know for Effective Data Input</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-tips-leveraging-the-power-of-scenario-analysis-with-microsoft-excels-tools/"><u>Excel Tips: Leveraging the Power of Scenario Analysis with Microsoft Excel’s Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-void-of-originality-in-vr-content-for-2024/"><u>Exploring the Void of Originality in VR Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-synthesizing-success-the-power-of-magix-samplitude/"><u>In 2024, Synthesizing Success The Power of Magix Samplitude</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-live-broadcast-over-the-internet-via-vlc-media-player/"><u>Mastering Live Broadcast Over the Internet via VLC Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/organize-your-data-with-excel-mastering-alphabetical-tab-arrangement-techniques/"><u>Organize Your Data with Excel: Mastering Alphabetical Tab Arrangement Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-transferring-data-between-sheets-using-microsoft-excel/"><u>Simple Steps: Transferring Data Between Sheets Using Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-tallying-selections-with-excels-formulas/"><u>Step-by-Step Guide: Tallying Selections with Excel's Formulas</u></a></li>
+</ul></div>
+

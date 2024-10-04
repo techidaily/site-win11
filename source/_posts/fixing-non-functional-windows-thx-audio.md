@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Functional Windows THX Audio
-date: 2024-09-14T18:41:45.459Z
-updated: 2024-09-21T22:16:01.130Z
+date: 2024-10-01T22:17:47.341Z
+updated: 2024-10-04T04:35:21.475Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ To run the Windows Audio troubleshooter:
 5. The troubleshooter will first check for issues with the audio services. Next, you'll be prompted to select a malfunctioning device. Select the**THX Spatial** **Audio** device and click**Next** .
 6. Follow on-screen instructions and apply the recommended fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Sound Output Device
 
  You can set your preferred sound output device in the THX Spatial Audio interface. Since THX Spatial Audio routs the audio through its interface to your audio device, you must set it as the default audio output device on your PC.
@@ -71,11 +78,26 @@ To change your default playback device:
 2. Type**mmsys.cpl** and click**OK** to open**Windows Sound properties.**  
 ![run mmsys cpl sound properties windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-mmsys-cpl-sound-properties-windows-11.jpg)
 3. In the**Sound** dialog, open the**Playback** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down and right-click on**Speaker (THX Spatial).**
 5. Select**Set as Default Device.**  
 ![set thx spatial audio default audio device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-thx-spatial-audio-default-audio-device.jpg)
 6. Click**Apply** and**OK** to save the changes.
 7. Relaunch the THX Spatial Audio and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair Your Razer THX Spatial Audio App
 
@@ -98,13 +120,6 @@ To run the THX Spatial Audio repair:
 
  To fix the issue, right-click on the**Muted Speaker** icon in**Taskbar** and select**Troubleshoot Sound Problems** . This will launch the**Windows Audio troubleshooter** . Follow on-screen instructions and apply any recommended fixes to restore audio on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reinstall THX Spatial Audio
 
  You can uninstall and reinstall the THX Spatial Audio app to fix issues due to glitches and other driver issues. Once removed, you can download the latest version from the Razor website and install the app.
@@ -116,6 +131,14 @@ To uninstall THX Spatial Audio:
 3. Next, click on**Installed** apps.  
 ![windows 11 settings apps installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-apps-installed-apps.jpg)
 4. Locate the**THX Spatial Audio** app using the**Search app** bar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**three-dots menu** next to the app name and select**Uninstall** .  
 ![thx spatial audio uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-uninstall.jpg)
 
@@ -124,6 +147,14 @@ To uninstall THX Spatial Audio:
 3. Type**regedit** and click**OK** to open**Registry Editor.**  
 ![delete registry editor entry key razer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-registry-editor-entry-key-razer.jpg)
 4. In Registry Editor, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\`
 5. Locate the**Razer** key. If it exists, right-click and select**Delete** . Click**Yes** to confirm the action.
 6. Close Registry Editor and restart your PC.
@@ -132,15 +163,22 @@ To uninstall THX Spatial Audio:
  Additionally, if you have Razer Synapse installed, check if an update is available. To do this, launch the app and click on the**Settings** (**Gear**) icon on top of the toolbar. Next, open the**About** tab and click on**Check for updates.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Install Pending Windows Updates
 
 ![check for windows update 1 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Keeping your Windows computer up to date can help you fix compatibility issues. It may also include an update to your audio device drivers. Check if you have a pending Windows update and install them to see if that helps resolve the error.
 
@@ -150,13 +188,6 @@ To update your Windows PC:
 2. In the left pane, open the**Windows Update** tab.
 3. Click on**Check for updates** . Windows scan for available updates and list them.
 4. Next, click on**Download** and install all. Wait for the updates to install and restart your PC to see if that resolves the THX Spatial Audio no sound problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update or Reinstall Your Audio Drivers
 
@@ -169,13 +200,6 @@ To update your audio device driver:
 3. In Device Manager, expand the**Audio inputs and outputs** section.  
 ![device manager update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver.jpg)
 4. Next, right-click on your audio output device and select**Update driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![device manager update audio driver search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-search-automatically-for-drivers.jpg)
 5. Click on**Search automatically for drivers.** If no new driver is found, click**Close** .
@@ -190,10 +214,10 @@ To reinstall the audio device driver:
 4. Click on **Let me pick from a list of available drivers on my computer.**  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![device manager update audio driver let me pick from list available drivers on computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-let-me-pick-from-list-available-drivers-on-computer.jpg)
@@ -219,5 +243,24 @@ To reinstall the audio device driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>[New] In 2024, Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimize-youtube-visibility-by-sustaining-creativity-commons-license/"><u>[New] Optimize YouTube Visibility by Sustaining Creativity Commons License</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-workplace-cloud-keep/"><u>[New] Ultimate Workplace Cloud Keep</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-harmony-in-transition-crafting-crossfade-effects/"><u>[Updated] Harmony in Transition Crafting Crossfade Effects</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-live-stream-entry-tiktok-edition/"><u>2024 Approved Mastering Live-Stream Entry TikTok Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nokia-130-music-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nokia 130 Music Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-navigation-in-files-windows-11s-tab-system/"><u>Effortless Navigation in Files: Windows 11'S Tab System</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-real-time-performance-of-yuzu-emulator/"><u>Enhance Real-Time Performance of Yuzu Emulator</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-13-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 13 When You Forget the Passcode?</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-the-account-lockout-threshold-post-failed-attempts-win-11/"><u>Optimizing the Account Lockout Threshold Post Failed Attempts, Win 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-installation-hurdles-for-minecraft-in-the-latest-windows-11-update/"><u>Overcoming Installation Hurdles for Minecraft in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-systemtray-to-showcase-number-keys/"><u>Personalizing SystemTray to Showcase Number Keys</u></a></li>
+<li><a href="https://extra-information.techidaily.com/standout-80s-aesthetics-for-video-editing-pros/"><u>Standout '80S Aesthetics for Video Editing Pros</u></a></li>
+<li><a href="https://win11.techidaily.com/unearthing-windows-11s-subdued-bar-scanner/"><u>Unearthing Windows 11'S Subdued Bar Scanner</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-win11-sefx-archive-techniques/"><u>Unlocking Win11 SEFx Archive Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/visualizing-data-footprint-in-windows-os/"><u>Visualizing Data Footprint in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10s-best-encryption-software-compared-153-chars/"><u>Windows 10'S Best Encryption Software, Compared (153 Chars)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fasten Your Computer's Ready Starts with 3 Tricks for Win11
-date: 2024-09-23T23:29:26.725Z
-updated: 2024-09-28T20:30:01.294Z
+date: 2024-09-29T19:32:06.694Z
+updated: 2024-10-04T03:11:10.135Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
  If you’re unsure whether a program is considered safe to be disabled, you may want to check out our dedicated guide[here](https://www.makeuseof.com/tag/make-windows-start-faster-10-non-essential-startup-items-can-safely-remove/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Fast Startup
@@ -55,36 +55,32 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 1. We first need to ensure Hibernation mode is enabled on the Windows 11 system. To do that, right-click on the**Start** menu and select**Terminal (Admin)** .  
 ![enable hibernation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-hibernation.jpg)
 2. Within the Terminal window, type the below command and hit enter to turn on the Hibernate mode:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Powercfg -h on`
 3. Launch the**Control Panel** via the**Start** menu.
 4. Navigate to**System and Security > Power Options** .  
 ![power plans in control-panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/powerplans-control-panel.jpg)
 5. From the left sidebar menu, select**Choose what the power button does** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![enable-fast-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-fast-startup.jpg)
 6. Select**Change settings that are currently available** .
-7. Under**Shutdown settings** , check the**Turn on fast startup (recommended) option** .
-8. Finally, select**Save changes** and restart your PC to see Fast Startup in action.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Under**Shutdown settings** , check the**Turn on fast startup (recommended) option** .
+8. Finally, select**Save changes** and restart your PC to see Fast Startup in action.
 
 ## 3\. Upgrade Hardware
 
@@ -93,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 ![Samsung T3 SSD on a MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/protect-external-hard-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  SSDs are much faster than traditional HDDs but can be a bit pricey. An SSD will ensure fast bootup and overall smoother system performance, so we highly recommend upgrading to an SSD (you can also consider[replacing a laptop's DVD drive with an SSD](https://www.makeuseof.com/tag/swap-laptop-dvd-drive-ssd-hdd/) ).
@@ -122,21 +118,21 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-engagement-imovie-techniques-for-youtube-intros-for-2024/"><u>[New] Enhancing Engagement IMovie Techniques for YouTube Intros for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-from-still-shots-to-soundscapes-an-instagram-mp3-journey/"><u>[Updated] From Still Shots to Soundscapes An Instagram-MP3 Journey</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-compreenhensive-guide-for-youtube-short-video-creators/"><u>[Updated] In 2024, Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pros-list-17-leading-apps-for-easy-image-transformation/"><u>2024 Approved Pro's List 17 Leading Apps for Easy Image Transformation</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-use-windows-11-more-efficiently/"><u>7 Ways to Use Windows 11 More Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerated-collaboration-the-5-top-windows-fs-software-picks/"><u>Accelerated Collaboration: The 5 Top Windows FS Software Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-full-compatibility-with-ios-events-in-windows/"><u>Achieving Full Compatibility with iOS Events in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-stubborn-epic-launcher-guide-for-win-11-users/"><u>Banish Stubborn Epic Launcher: Guide for Win 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/blueprint-for-dominance-in-windows-appbrowser-arena/"><u>Blueprint for Dominance in Windows' App/Browser Arena</u></a></li>
-<li><a href="https://win11.techidaily.com/bootable-backup-a-self-reliant-approach/"><u>Bootable Backup: A Self-Reliant Approach</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-intuitive-mac-videographer-plus-voice-support/"><u>In 2024, Intuitive Mac Videographer + Voice Support</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-luts-into-professional-movie-post-processing/"><u>Integrating Luts Into Professional Movie Post-Processing</u></a></li>
-<li><a href="https://win11.techidaily.com/1719360178726-navigate-and-rectify-common-errors-using-snip-and-sketch-on-windows/"><u>Navigate and Rectify Common Errors Using Snip & Sketch on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-ultimate-guide-convert-and-save-4k-videos-as-mp4-files-for-2024/"><u>Updated Ultimate Guide Convert and Save 4K Videos as MP4 Files for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-11-microsofts-most-polarizing-operating-system-yet-is-the-hate-justified-zdnet-insights/"><u>Windows 11: Microsoft's Most Polarizing Operating System Yet - Is the Hate Justified? | ZDNET Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-2024-voice-memo-saving-device/"><u>[Updated] IPhone 2024 Voice Memo Saving Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-techniques-for-streaming-and-recording-league-of-legends-for-2024/"><u>[Updated] Professional Techniques for Streaming and Recording League of Legends for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tricks-for-transferring-twitter-video-to-your-phone-for-2024/"><u>[Updated] Tricks for Transferring Twitter Video to Your Phone for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-most-motivational-shots-a-top-20-list/"><u>2024 Approved Instagram's Most Motivational Shots A Top 20 List</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oneplus-nord-3-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-the-perplexing-windows-net-error-0x800704b3/"><u>Deciphering and Fixing the Perplexing Windows Net Error 0X800704B3</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-stacked-elements-at-pcs-action-bar/"><u>Fixing Stacked Elements at PC's Action Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-windows-11s-sticky-notes-on-all-your-devices/"><u>How to Use Windows 11'S Sticky Notes on All Your Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-a-dormant-wired-controller-on-windows-pc/"><u>Reactivating a Dormant Wired Controller on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-unable-to-join-a-party-issue-a-guide-through-fortnite-error-code-84/"><u>Resolving the 'Unable to Join a Party' Issue: A Guide Through Fortnite Error Code #84</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-application-was-unable-to-start-in-win1011/"><u>Solving The Application Was Unable to Start in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-for-detecting-missing-disk-on-windows/"><u>Tactics for Detecting Missing Disk on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/uninvited-rav-security-on-pc-origins-and-deletion-steps/"><u>Uninvited Rav Security on PC - Origins and Deletion Steps</u></a></li>
 </ul></div>
 

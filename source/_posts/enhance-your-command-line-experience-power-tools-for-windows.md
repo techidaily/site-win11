@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Command-Line Experience: Power Tools for Windows"
-date: 2024-09-22T21:26:37.299Z
-updated: 2024-09-28T22:07:49.770Z
+date: 2024-10-02T21:38:04.327Z
+updated: 2024-10-03T18:30:12.956Z
 tags:
   - windows10
   - windows11
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
@@ -99,30 +99,9 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -142,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
@@ -150,7 +136,21 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
 
@@ -171,16 +171,24 @@ thumbnail: https://thmb.techidaily.com/dd4233ccec15666d6d616a1b1df2dfb0cda2d2ae2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-brilliant-hues-ranking-11-expert-color-correction-tutorials/"><u>[New] Brilliant Hues Ranking 11 Expert Color Correction Tutorials</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-raw-to-ready-a-comprehensive-instruction-manual-for-picture-posting-on-youtube/"><u>[New] From Raw to Ready A Comprehensive Instruction Manual for Picture Posting on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-fix-the-windows-terminal-not-opening/"><u>6 Ways to Fix the Windows Terminal Not Opening</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-device-not-found-problems-in-windows/"><u>Addressing 'Device Not Found' Problems in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-operational-windows-rules-in-office-365/"><u>Addressing Non-Operational Windows Rules in Office 365</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-the-shrinkage-optimal-windows-11-icons/"><u>Avoid the Shrinkage: Optimal Windows 11 Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-a-look-at-four-game-changing-paint-additions/"><u>Breaking Barriers: A Look at Four Game-Changing Paint Additions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/grandest-film-storytelling-explored/"><u>Grandest Film Storytelling Explored</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-redirecting-powershell-command-results-into-files/"><u>Guide: Redirecting PowerShell Command Results Into Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-stand-out-strategies-a-step-by-step-guide-to-reddit-success/"><u>In 2024, Stand Out Strategies A Step-By-Step Guide to Reddit Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-illustration-ingenuity-3d-text-magic/"><u>[New] 2024 Approved Illustration Ingenuity 3D Text Magic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-glare-free-guide-to-stellar-gopro-videos-for-2024/"><u>[New] The Glare-Free Guide to Stellar GoPro Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-wisdom-a-compilation-of-inspiring-thoughts/"><u>[Updated] Metaverse Wisdom A Compilation of Inspiring Thoughts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-practices-in-producing-trustworthy-video-product-reviews/"><u>2024 Approved Top Practices in Producing Trustworthy Video Product Reviews</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-premier-tools-for-fast-fixing-vid/"><u>Android's Premier Tools for Fast-Fixing Vid</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-data-handling-enabledisable-ntfs-compression-in-win11/"><u>Efficient Data Handling: Enable/Disable NTFS Compression in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-restoring-lost-wifi-connections-on-windows/"><u>Guidelines for Restoring Lost WiFi Connections on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ice-artistry-at-the-2022-winter-games/"><u>Ice Artistry at the 2022 Winter Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-edge-2023-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Edge 2023 Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-14-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 14 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-chat-shutdown-december-update/"><u>Instagram's Chat Shutdown: December Update</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-procedures-windows-11-and-vmware-workstation-17/"><u>Installation Procedures: Windows 11 & VMWare Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-cant-share-desktop-across-screens/"><u>Resolving Error: Can’t Share Desktop Across Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-prime-viewing-fixing-windows-11-audio-subtitle-discrepancies/"><u>Seamless Prime Viewing: Fixing Windows 11 Audio-Subtitle Discrepancies</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-exploration-windows-display-breaks/"><u>The Ultimate Exploration: Windows Display Breaks</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-solutions-for-overcoming-hypervisorbsod-in-windows/"><u>Top 5 Solutions for Overcoming HYPERVISOR_BSOD in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-the-chatgpt-add-on-experience-with-5-critical-upgrades/"><u>Transforming the ChatGPT Add-On Experience with 5 Critical Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-potential-with-top-notch-fps-counters-for-windows-11-gamers/"><u>Unleashing Your Potential with Top-Notch FPS Counters for Windows 11 Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pc-potential-top-tips-to-troubleshoot-broken-keyboard-commands-in-windows/"><u>Unlocking PC Potential: Top Tips to Troubleshoot Broken Keyboard Commands in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lockdown Windows: 7 Ways to Secure Your System"
-date: 2024-09-23T00:53:56.013Z
-updated: 2024-09-28T17:23:18.001Z
+date: 2024-10-02T04:50:29.935Z
+updated: 2024-10-03T16:25:42.505Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  You can check out how to do this and more as part of our [tricks to keep your Outlook and Microsoft accounts secure](https://www.makeuseof.com/tag/tricks-outlook-microsoft-account-secure/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable Windows Security
 
  While securing your PC from unknown physical access is a massive part of cyber-protection, it's not the only one. Today, Malware of enumerable type plagues the cyber-world.
@@ -56,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  Weak antivirus protection can let any malware get an easy foothold on your PC, and from there, it's far too easy to obtain unauthorized access or take other malicious actions on your PC. [Enabling Windows Security](https://www.makeuseof.com/enable-windows-security-app-windows-10/) and setting up the best protection practices will be your best bet against such unauthorized action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use a Firewall
@@ -70,44 +77,37 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Use BitLocker
 
  BitLocker works by encrypting the disk data on your Windows and works as a great second layer of defense. So, even if someone manages to access your PC, in the case of a theft, for example, they won't be able to access your data without a key.
 
  As such, [enabling BitLocker on Windows](https://www.makeuseof.com/bitlocker-windows-11-guide/) is a great hack to boost your computer's security.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Keep Your Windows Updated
 
 ![update on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows updates are a vital component for any PC. They patch up recurring bugs and bring in new features. Most importantly, they install the latest Windows security updates.
 
  These regular updates are crucial to protect yourself from ever-evolving malware and hacks in the 21st century. So, make sure you have enabled automatic updates on your Windows, or at least [manually get your Windows updates regularly](https://www.makeuseof.com/update-windows-manually/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Keep Aware of Social Engineering Tactics
 
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
@@ -127,27 +127,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streamline-your-music-movement-between-services/"><u>[Updated] 2024 Approved Streamline Your Music Movement Between Services</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-classic-play-on-ios-with-select-ps2-emulators/"><u>[Updated] Seamless Classic Play on iOS with Select PS2 Emulators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-workplace-efficiency-with-onlyoffice-docspace-and-chatgpt-integration/"><u>Boosting Workplace Efficiency with ONLYOFFICE DocSpace & ChatGPT Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/boundary-defying-tech-windows-for-apple-devices-breaks-new-ground/"><u>Boundary-Defying Tech: Windows for Apple Devices Breaks New Ground</u></a></li>
-<li><a href="https://win11.techidaily.com/break-free-from-100mbps-wired-internet-limit-in-windows/"><u>Break Free From 100Mbps Wired Internet Limit in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-obstacles-hindering-discord-setup-success/"><u>Eliminating Obstacles Hindering Discord Setup Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-flat-to-360-comparing-googles-cardboard-and-samsungs-gear/"><u>In 2024, From Flat to 360 Comparing Google's Cardboard & Samsung's Gear</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-telegram-the-ultimate-step-by-step-guide/"><u>In 2024, Mastering Telegram The Ultimate Step-By-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-parse-error-recovery-techniques-for-android-applications-8-methods/"><u>Mastering Parse Error Recovery Techniques for Android Applications (8 Methods)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-cr2-to-jpg-conversion-on-windows/"><u>Mastering the Art of CR2 to JPG Conversion on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-reboot-file-explorer-on-win1011/"><u>Methods to Reboot File Explorer on Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-err0r-x7e1-in-win1011/"><u>Remedying Err0r: X7E1 in Win10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-chatgpt-tweaks-youll-love/"><u>Revolutionary ChatGPT Tweaks You'll Love</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-windows-7-solved/"><u>SYSTEM SERVICE EXCEPTION Windows 7 [SOLVED]</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-windows-11-ui/"><u>The Essentials of Windows 11 UI</u></a></li>
-<li><a href="https://driver-error.techidaily.com/turn-off-windows-11-bluetooth-permanently/"><u>Turn Off Windows 11 Bluetooth Permanently</u></a></li>
-<li><a href="https://win11.techidaily.com/type-smartly-and-fast-typingaid-secrets/"><u>Type Smartly and Fast - TypingAid Secrets</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +134,21 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-hashtag-strategies-for-boosting-your-contents-visibility/"><u>[New] Top Youtube Hashtag Strategies for Boosting Your Content's Visibility</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-navigating-picture-landscapes-on-pexelscom/"><u>[Updated] 2024 Approved Navigating Picture Landscapes on Pexels.com</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-revolutionize-online-transmission-essential-browsers-screen-capture-vendors/"><u>2024 Approved Revolutionize Online Transmission Essential Browsers' Screen Capture Vendors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-installing-lenovo-thinkpad-t430-drivers-on-windows-1187-systems/"><u>Complete Guide to Installing Lenovo ThinkPad T430 Drivers on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-harmony-a-salute-to-independence/"><u>Global Harmony: A Salute to Independence</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203925153-is-my-netflix-service-disrupted-find-out-why-and-how-to-fix-it-now/"><u>Is My Netflix Service Disrupted? Find Out Why & How To Fix It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-exclusive-access-to-insider-batches/"><u>Maintaining Exclusive Access to Insider Batches</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-magic-6-lite-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor Magic 6 Lite without backup.</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
+</ul></div>
+

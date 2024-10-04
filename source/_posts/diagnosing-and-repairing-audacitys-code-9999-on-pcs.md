@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Audacity's Code 9999 on PCs
-date: 2024-09-20T20:42:43.489Z
-updated: 2024-09-21T16:38:29.290Z
+date: 2024-09-27T18:50:52.279Z
+updated: 2024-10-03T18:09:09.708Z
 tags:
   - windows10
   - windows11
@@ -62,14 +62,22 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 3. Select**Microphone** to access those app permission settings.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Microphone Driver
@@ -83,29 +91,22 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 4. Click the confirmation dialog’s**Uninstall** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
@@ -120,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
  However, some antivirus utilities have special features that monitor microphones, which can block mic access for certain apps. For example, Bitdefender has a**Microphone monitor** setting. Disabling your antivirus utility’s shield might not turn off such a microphone security feature. So, have a look through your security software’s tabs to see if they include any feature setting that could affect microphone access and disable it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perform a Clean Boot
 
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on[how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
@@ -133,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
  Reinstalling Audacity is the last resort if none of the potential error 9999 solutions work for you. In this case, that sound editor app could have corrupted or missing files. You can remove Audacity within the Control Panel as instructed for method one in our guide to[uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-programs-and-features-applet.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To reinstall the software, open the[Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** option there.[Open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and double-click the**audacity-win-3.2.4-x64.exe** file in whatever folder includes it. Then you can go through the setup wizard to reinstall Audacity.
 
@@ -153,5 +168,26 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-free-skype-recording-made-easy-mp3-edition/"><u>[New] In 2024, Free Skype Recording Made Easy - MP3 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discover-best-drone-motor-picks-for-peak-performance/"><u>[Updated] Discover Best Drone Motor Picks for Peak Performance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[Updated] Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-c53-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme C53</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/constructing-an-affordable-google-vr-helmet-at-home/"><u>Constructing an Affordable Google VR Helmet at Home</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cut-to-the-chase-must-know-tips-for-win10-users/"><u>Cut-to-the-Chase Must-Know Tips for Win10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/does-pressing-prtscr-start-snipping-tool-on-win-11-trick-to-block-it/"><u>Does Pressing PrtScr Start Snipping Tool on Win 11? Trick to Block It</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo F25 Pro 5G FRP?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-discords-cannot-resize-gif-error-on-windows-11/"><u>How to Fix Discord's Cannot Resize GIF Error on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-leading-apps-for-editing-dji-drone-film-content/"><u>In 2024, Leading Apps for Editing DJi Drone Film Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveiling-the-techniques-for-autoplay-youtube-videos-on-fb/"><u>In 2024, Unveiling the Techniques for Autoplay YouTube Videos on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-window-transparency-on-windows-11-machines/"><u>Maximizing Window Transparency on Windows 11 Machines</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-best-free-iphone-video-rotation-software-for-2024/"><u>New Discover the Best Free iPhone Video Rotation Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/six-proven-techniques-for-pinpointing-your-pcs-brand-and-version/"><u>Six Proven Techniques for Pinpointing Your PC's Brand & Version</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-performance-with-expert-tips-on-wintoys-usage/"><u>Skyrocket Performance with Expert Tips on Wintoys Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-digital-life-using-windows-11s-taskbar-search/"><u>Streamline Your Digital Life: Using Windows 11'S Taskbar Search</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-as-the-base-crafting-a-linux-vm-environment-via-hyper-v/"><u>Windows as the Base: Crafting a Linux VM Environment via Hyper-V</u></a></li>
+<li><a href="https://win11.techidaily.com/wsl-adoption-and-linux-market-dynamics/"><u>WSL Adoption and Linux Market Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-internet-window-upgrades-strategy/"><u>Zero Internet Window Upgrades Strategy</u></a></li>
+</ul></div>
 

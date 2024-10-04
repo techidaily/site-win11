@@ -1,7 +1,7 @@
 ---
 title: Overcoming Virtual Physical Memory Limit Exceeded
-date: 2024-09-26T01:07:55.536Z
-updated: 2024-09-28T16:46:47.821Z
+date: 2024-09-28T07:21:42.382Z
+updated: 2024-10-03T18:13:07.731Z
 tags:
   - windows10
   - windows11
@@ -51,32 +51,24 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 4. Select**Notepad** to view the configuration file in that text editor.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then **input vmmon.disableHostParameters = “TRUE”** at the bottom of the configuration file as in the image below.  
 ![WMware's config.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-config-ini-file.jpg)
 6. Click**File** on Notepad’s menubar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select the menu’s**Save** option.  
 ![The Save option in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-save-option-in-notepad.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Expand the Virtual Memory for the Virtual Machine
 
@@ -88,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 ![The memory bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-memory-bar.jpg)
 4. Click**OK** to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update VMware
 
  The “not enough physical memory” error will more likely arise on outdated WMware versions. So, ensure you’re utilizing the latest version of the software. This is how you can update VMware:
@@ -97,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 3. Select**Software Updates** to view that window.  
 ![The Software Updates option in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-software-updates-option.jpg)
 4. Then click the**Check for Updates** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option4.jpg)
 5. Press the**Get More Information** button for an available update.
@@ -115,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 5. Then click File Explorer’s taskbar shortcut.
 6. Go to the downloads folder that includes the WMware setup wizard.
 7. Double-click the downloaded VMware installer to open it. Go through the setup wizard to install the latest VMware version.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Delete a Recent Windows Update
 
@@ -128,20 +127,27 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab-in-msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To disable all third-party startup programs and services, check out the guidelines in our guide on[how to clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will perform a clean boot whenever you restart Windows.
 
  Try utilizing your VMware virtual machine after clean booting. If this works,
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Set Up a New Virtual Machine
 
  If the issue persists despite applying the resolutions above, consider setting up a new virtual machine to replace the one that needs fixing. Download the latest ISO for the virtual machine’s platform. Then you can set up the virtual machine again, as outlined on the[VMware support page](https://kb.vmware.com/s/article/1018415) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Jump Into Your WMware Virtual Machine Again
 
@@ -162,21 +168,24 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>[Updated] Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-stop-the-background-from-automatically-changing-on-windows-11/"><u>6 Ways to Stop the Background From Automatically Changing on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-windows-11s-speedy-startup/"><u>A Beginner's Guide to Windows 11'S Speedy Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/a-journey-into-the-new-era-of-laptops-at-ifa-2023/"><u>A Journey Into the New Era of Laptops at IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-tech-finding-your-graphics-spec-in-windows-11/"><u>Accelerate Tech: Finding Your Graphics Spec in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-pcs-wake-up-time-enabling-quick-start/"><u>Accelerate Your PC's Wake-Up Time: Enabling Quick Start</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-empty-folder-warning-windows/"><u>Addressing Empty Folder Warning Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-gmail-security-a-comprehensive-guide-on-turning-on-two-factor-auth/"><u>Boosting Gmail Security: A Comprehensive Guide on Turning On Two-Factor Auth</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719307817163-keyboard-keyscalyping-restore-your-arrows-now/"><u>Keyboard Keyscalyping? Restore Your Arrows Now!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-video-sharing-techniques-in-zoom-and-tiktok-for-2024/"><u>Pioneering Video Sharing Techniques in Zoom and TikTok for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safe-psychological-dialogues-gpt-enhanced-therapy/"><u>Safe Psychological Dialogues: GPT-Enhanced Therapy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-explained/"><u>The Ultimate Resource for Computer Enthusiasts: Tom's Hardware Explained</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-better-performance-the-ultimate-6-step-battery-calibration-guide-for-iphones/"><u>Unlock Better Performance: The Ultimate 6 Step Battery Calibration Guide for iPhones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>[New] Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-escapade-experiences-the-finest-action-adventure-gems-for-2024/"><u>[Updated] Elite Escapade Experiences The Finest Action-Adventure Gems for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-captivating-slow-motion-photos-for-instagram/"><u>2024 Approved Crafting Captivating Slow-Motion Photos for Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-audacity-tricks-for-premium-audio/"><u>2024 Approved Expert Audacity Tricks for Premium Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-intricacies-of-windows-automated-repair/"><u>Decoding the Intricacies of Windows’ Automated Repair</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iency-in-action-rapid-removal-of-youtube-discussions/"><u>Efficiency in Action Rapid Removal of YouTube Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/five-superior-tools-excluding-the-standard-windows-snipper/"><u>Five Superior Tools Excluding the Standard Windows Snipper</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-countermeasures-to-address-winoffice-operational-failure/"><u>Immediate Countermeasures to Address WinOffice Operational Failure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-a-step-by-step-guide-to-seeing-whos-watching/"><u>In 2024, A Step-by-Step Guide to Seeing Who's Watching</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island-for-2024/"><u>Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-adjusting-windows-11-device-usage/"><u>Maximizing Efficiency: Adjusting Windows 11 Device Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unsuccessful-share-attempts-in-nvidias-experience/"><u>Overcoming Unsuccessful Share Attempts in NVIDIA's Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-update-issue-with-error-code-0x800f0922-using-these-easy-fixes/"><u>Resolve Windows 10 Update Issue with Error Code 0X800f0922 Using These Easy Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-for-winerror-0x80072746-in-microsoft-mail/"><u>Swift Solution for WinError 0X80072746 in Microsoft Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now</u></a></li>
+<li><a href="https://win11.techidaily.com/trimming-unwanted-background-workers-windows-pc/"><u>Trimming Unwanted Background Workers Windows PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574032401-trouble-printing-on-windows-11-lets-fix-it/"><u>Trouble Printing on Windows 11? Let's Fix It!</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-11-interface-elements/"><u>Understanding Windows 11 Interface Elements</u></a></li>
 </ul></div>
 

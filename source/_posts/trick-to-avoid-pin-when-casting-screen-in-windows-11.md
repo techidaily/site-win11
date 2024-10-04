@@ -1,7 +1,7 @@
 ---
 title: Trick to Avoid PIN When Casting Screen in Windows 11
-date: 2024-09-22T20:00:43.894Z
-updated: 2024-09-28T19:05:55.010Z
+date: 2024-10-02T03:53:14.614Z
+updated: 2024-10-03T21:37:26.529Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
  Once the feature is installed, return to the Projecting to this PC section in Settings. You should now see the “require a PIN for pairing” setting. Choose the **Never** option and close the window.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using the Group Policy Editor
 
  Another option is to use the Group Policy Editor. This method requires you to have a Pro or Enterprise Windows version. However, you can [activate the Group Policy Editor in Windows Home Edition](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
@@ -67,30 +74,30 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 ![Disable the Require pin for pairing policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-the-require-pin-for-pairing-policy.jpg)
 5. Select the **Enabled** radio button and select **Never** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Never Require Pin For Pairing in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-require-pin-for-pairing-in-gpe.jpg)
 6. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, exit out of the window. When projecting your computer onto another screen, you won’t need a PIN anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Using the Registry Editor
 
@@ -115,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
  To turn the feature back on, follow the same steps but set the **Value data** to **1**. This will enable the required PIN for pairing settings when projecting to a Windows 11 PC​​​​​.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Using a REG File
@@ -137,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 6. Name the file **DisableRequirePin.reg** and select **Desktop** from the left sidebar.  
 ![Disable the Required PIN for Pairing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-the-required-pin-for-pairing.jpg)
 7. Now click **Save** and exit Notepad. You'll find the REG file on your desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Double-click on it and select **Yes** when prompted. This will edit the registry on your behalf.
 
@@ -166,29 +166,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
  However, if you’re the only person using your computer, you may find this extra security measure unnecessary. Let’s explore how to disable the "require PIN for pairing" setting when projecting to your PC in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-secrets-of-crafting-captivating-instagram-videos/"><u>[New] The Secrets of Crafting Captivating Instagram Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-cross-border-tech-assessment-by-experts/"><u>[Updated] 2024 Approved Cross-Border Tech Assessment by Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-brightening-videos-android-tips/"><u>[Updated] Brightening Videos Android Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-guide-to-full-battery-indicators-in-win-oses/"><u>Advanced Guide to Full Battery Indicators in Win OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-unique-characteristics-of-ai-computers/"><u>Delving Into Unique Characteristics of AI Computers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-to-implementing-wake-on-lan-functionality-in-newest-windows-versions/"><u>Guide to Implementing Wake-on-LAN Functionality in Newest Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-access-onedrive-files-offline-on-a-windows-pc/"><u>How to Access OneDrive Files Offline on a Windows PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-go-frame-by-frame-on-youtube-video-5-free-methods-for-2024/"><u>How to Go Frame by Frame on YouTube Video [5 Free Methods] for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-repair-0x800713f-error-on-the-windows-mail-service/"><u>How to Repair 0X800713f Error on the Windows Mail Service</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2016 by digital signature</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-speed-up-your-pcs-shutdown-process-in-windows-10/"><u>How to Speed Up Your PC's Shutdown Process in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-common-anydesk-errors-on-windows/"><u>Mastering the Art of Resolving Common AnyDesk Errors on Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-windows-10-essential-knowledge-for-2024/"><u>Mastering Windows 10 Essential Knowledge for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-folder-navigation-in-win-11-movecopy-command-addition/"><u>Optimizing Folder Navigation in Win 11 - Move/Copy Command Addition</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-saving-hurdles-with-steps-to-fix-pubg/"><u>Overcoming Saving Hurdles with Steps to Fix PUBG</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-x887a0006-dxgi-error-in-windows-11/"><u>Quick Fixes for X887A0006: DXGI Error in Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/standout-14-animation-techniques-for-texts-for-2024/"><u>Standout 14 Animation Techniques for Texts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-mac-mixer-synchronization-for-2024/"><u>The Art of Mac-Mixer Synchronization for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-uncover-hidden-system-startups/"><u>Tips to Uncover Hidden System Startups</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,3 +173,27 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-disseminate-vimeo-videos-widely/"><u>[New] 2024 Approved Disseminate Vimeo Videos Widely</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cross-platform-filmography-syncing-smartphones-and-systems/"><u>[New] Cross-Platform Filmography Syncing Smartphones and Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youth-inspiration-tales-of-overcoming-challenges/"><u>[New] Youth Inspiration Tales of Overcoming Challenges</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crafting-compelling-youtube-profile-definitions/"><u>2024 Approved Crafting Compelling YouTube Profile Definitions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-integrating-skype-into-zoom-meetings-made-simple/"><u>2024 Approved Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cracking-the-code-windows-versioning-insight/"><u>Cracking the Code: Windows Versioning Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-windows-1111-ui-for-auto-check-updates/"><u>Enabling Windows 11/11 UI for Auto-Check Updates</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/keep-it-burning-ensuring-an-everlasting-snapchat-connection/"><u>Keep It Burning Ensuring an Everlasting Snapchat Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-xbox-mic-troubleshooting-in-windows-11-platforms/"><u>Mastering Xbox Mic Troubleshooting in Windows 11 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-navigation-for-the-elusive-mac-on-windows-11/"><u>Navigating Network Navigation for the Elusive MAC on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-ui-fidelity-on-newest-windows-release/"><u>Perfecting UI Fidelity on Newest Windows Release</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-link-tofrom-bing-chat-in-windows-11-search-field/"><u>Quickly Link To/From Bing Chat in Windows 11 Search Field</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-hot-40-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix Hot 40 Pro)</u></a></li>
+<li><a href="https://win11.techidaily.com/time-tracker-tweaks-top-apps-to-modify-file-timestamps-on-pc/"><u>Time Tracker Tweaks: Top Apps to Modify File Timestamps on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-windows-into-a-personalized-oasis-8-winbubble-upgrades/"><u>Transform Windows Into a Personalized Oasis: 8 WinBubble Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-phones-into-windows-audio-input/"><u>Turning Phones Into Windows Audio Input</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-14-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 14</u></a></li>
+</ul></div>
+

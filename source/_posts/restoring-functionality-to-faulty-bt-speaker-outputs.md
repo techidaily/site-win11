@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Faulty BT Speaker Outputs
-date: 2024-09-26T01:15:30.682Z
-updated: 2024-09-28T16:27:28.437Z
+date: 2024-09-27T21:23:12.698Z
+updated: 2024-10-03T19:24:12.442Z
 tags:
   - windows10
   - windows11
@@ -52,29 +52,9 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![Run button of Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-button.jpg)
 5. In the**Get Help** window that crops up, click**Yes** to give your consent to run automated diagnostics to fix your Bluetooth issue.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Yes option of the Bluetooth Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option.jpg)
 
  That's it! The Bluetooth troubleshooter will detect and fix issues automatically. Once the process is complete, restart your system and check if the Bluetooth speaker volume controller is working.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Choose Your Bluetooth Speaker as Default Audio Device
 
@@ -87,20 +67,14 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![More sound settings option in the Sound setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/more-sound-settings.jpg)
 3. Select your Bluetooth speaker and click the**Set default** button. Then, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Set default option in the Sound settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-default.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update Your Bluetooth Driver
 
@@ -113,7 +87,21 @@ Follow these steps to download the latest Bluetooth driver update:
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-driver.jpg)
 3. Choose**Search automatically for driver** option.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, wait till the utility looks for and downloads any available driver update. However, if Windows fails to detect any new driver update, search on your Bluetooth adapter manufacturer's website for a new driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Bluetooth Driver
 
@@ -125,13 +113,6 @@ Follow these steps to download the latest Bluetooth driver update:
 2. Right-click on the Bluetooth adapter and choose the**Uninstall Device** option.
 3. Click**Uninstall** again to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, restart your computer and pair the Bluetooth device again. Upon pairing, Windows will auto-download the latest drivers.
 
@@ -146,6 +127,13 @@ Follow these steps to download the latest Bluetooth driver update:
 3. Select**Bluetooth** **Support Service** and click the**Restart** option in the left sidebar.  
 ![Bluetooth Support Service in the Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bluetooth-support-service.jpg)
 4. Click**Yes** to the confirmation box that crops up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off Absolute Volume
 
@@ -163,10 +151,10 @@ Follow these steps to download the latest Bluetooth driver update:
 4. Right-click the newly created value in the right pane, and choose**Rename** from the context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Name the value**DisableAbsoluteVolume** and press Enter.
@@ -175,10 +163,10 @@ Follow these steps to download the latest Bluetooth driver update:
 ![Value data of DisableAbsoluteVolume value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your system, and you'll see you are no longer facing the issue.
@@ -202,24 +190,15 @@ Follow these steps to download the latest Bluetooth driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-maximize-your-android-experience-with-these-top-5-ps2-games-apps/"><u>[New] 2024 Approved Maximize Your Android Experience with These Top 5 PS2 Games Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero4-meets-hero5-a-camera-battle/"><u>[Updated] Hero4 Meets Hero5 A Camera Battle</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-essential-video-stock-investment-guides/"><u>2024 Approved Essential Video Stock Investment Guides</u></a></li>
-<li><a href="https://win11.techidaily.com/6-disappearing-windows-traits-explained/"><u>6 Disappearing Windows Traits Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-check-which-intel-processor-generation-you-have-on-windows/"><u>8 Ways to Check Which Intel Processor Generation You Have on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-keyboard-skills-using-windows-powertoys/"><u>Accelerate Keyboard Skills Using Windows PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-dark-theme-for-windows-calc/"><u>Activate Dark Theme for Windows Calc</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-failure-in-recent-windows-discord-upgrades/"><u>Addressing Failure in Recent Windows Discord Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-windows-11-crashes-interrupt-fixation/"><u>Avoiding Windows 11 Crashes: Interrupt Fixation</u></a></li>
-<li><a href="https://win11.techidaily.com/beneath-the-surface-tools-for-win-1011s-dropdowns/"><u>Beneath-the-Surface Tools for Win 10/11'S Dropdowns</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-motorola-moto-g34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Motorola Moto G34 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/blending-elegance-with-utility-the-asus-vivobook-s-15-edition/"><u>Blending Elegance with Utility: The ASUS Vivobook S 15 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-gameplay-flush-and-optimize-steam-dns-cache/"><u>Boost Your Gameplay: Flush and Optimize Steam DNS Cache</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descarga-la-conversion-online-gratis-para-videos-de-3gp-a-mp4-con-movavi/"><u>Descarga La Conversión Online Gratis Para Videos De 3Gp a MP4 Con Movavi</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-unrooted-audio-4-easy-steps-for-android/"><u>In 2024, Capturing Unrooted Audio 4 Easy Steps for Android</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-ppt-video-flow-rates-for-2024/"><u>Optimizing PPT Video Flow Rates for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-whatsapps-vocal-messaging-secrets-for-2024/"><u>Unlocking WhatsApp's Vocal Messaging Secrets for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-apples-finest-free-apps-to-perfect-your-selfies-for-2024/"><u>[New] Apple's Finest FREE Apps to Perfect Your Selfies for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/effortless-audio-extraction-converting-youtube-videos-into-mp3-with-vidtomp3/"><u>Effortless Audio Extraction: Converting YouTube Videos Into MP3 with VidToMp3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-accurate-is-your-dolby-atmos-sound-perception/"><u>How Accurate Is Your Dolby Atmos Sound Perception?</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remaining-savings-on-apple-watch-se-gen-2-after-prime-days-exclusive-offers-unveiled-tech-analysis-at-zdnet/"><u>Remaining Savings on Apple Watch SE (Gen 2) After Prime Day's Exclusive Offers Unveiled | Tech Analysis at ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-failed-screensaver-on-windows-4-strategies/"><u>Resetting Failed Screensaver On Windows: 4 Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-tactics-for-shifting-between-windows-terminals-zones-of-attention-and-rest/"><u>Streamlined Tactics for Shifting Between Windows Terminal’s Zones of Attention and Rest</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-fallacy-of-relying-on-ai-for-safe-key-crafting/"><u>The Fallacy of Relying on AI for Safe Key Crafting</u></a></li>
+<li><a href="https://win11.techidaily.com/the-underrated-world-of-windows-11-what-youre-missing-out-on/"><u>The Underrated World of Windows 11 - What You're Missing Out On</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-locks-halted-master-autolock-settings/"><u>Windows Locks Halted: Master Autolock Settings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Internal Audio Errors in Audacity for WinUsers
-date: 2024-09-24T18:44:16.866Z
-updated: 2024-09-29T00:54:44.858Z
+date: 2024-10-01T16:50:38.436Z
+updated: 2024-10-03T16:57:14.626Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 4. Then select the properties window’s**Start** option to run the service.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
@@ -82,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select the Sound window’s**Apply** option to save settings.
@@ -108,17 +102,10 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 4. Wait for the rescan to finish, and then restart**Audacity** .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
@@ -137,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update the Realtek Audio Codec Driver
 
  Does your PC have a Realtek audio codec driver? If so, it’s recommended to update that driver for the sake of fixing the Internal PortAudio error. Update that Realtek driver as follows:
@@ -148,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
@@ -169,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
@@ -194,24 +188,24 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-bridging-the-time-gap-in-social-storytelling-on-fb-pcmobile/"><u>[New] 2024 Approved Bridging the Time Gap in Social Storytelling on FB, PC/Mobile</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[New] Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-leveraging-youtubes-features-to-improve-visuals/"><u>[New] In 2024, Leveraging YouTube's Features to Improve Visuals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-reel-into-reality-how-boomers-keep-ig-audiene-hooked/"><u>[Updated] 2024 Approved Reel Into Reality How Boomers Keep IG Audiene Hooked</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-saving-your-hangout-participation-for-2024/"><u>[Updated] Saving Your Hangout Participation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-best-windows-counterparts-to-procreate-app/"><u>5 Best Windows Counterparts to Procreate App</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-non-adjacent-partition-integration/"><u>A Comprehensive Guide to Non-Adjacent Partition Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/alleviating-excessive-cpu-usage-by-tiworkerexe-software/"><u>Alleviating Excessive CPU Usage by TiWorker.exe Software</u></a></li>
-<li><a href="https://win11.techidaily.com/balancing-the-thermal-load-of-windows-11-devices/"><u>Balancing the Thermal Load of Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-xffffeee-error-from-your-inkjet-printer/"><u>Banishing XFFFFEEE Error From Your Inkjet Printer</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-windows-productivity-the-ultimate-toolkit-of-5plus-apps/"><u>Boost Your Windows Productivity: The Ultimate Toolkit of 5+ Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-security-with-improved-graphics-on-windows-11/"><u>Boosting Security with Improved Graphics on Windows 11</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-can-i-incorporate-a-miniature-emblem-in-my-browsers-status-bar-using-flipbuilder/"><u>How Can I Incorporate a Miniature Emblem in My Browser's Status Bar Using FlipBuilder?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-breaking-down-this-years-latest-tiktok-wave/"><u>In 2024, Breaking Down This Year's Latest TikTok Wave</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-rapid-playback-in-spotify-safe-practices-revealed/"><u>Mastering Rapid Playback in Spotify Safe Practices Revealed</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-9-best-french-video-translators-online-and-download-options/"><u>New 9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://win11.techidaily.com/1719359386759-overcoming-dim-windows-11-screens-tips-inside/"><u>Overcoming Dim Windows 11 Screens - Tips Inside</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-360-degree-video-editing-workflow-in-premiere-pro-for-2024/"><u>Streamlining 360-Degree Video Editing Workflow in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719368088856-troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-method-for-changing-your-instagram-tone/"><u>[New] Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-insights-into-youtube-thumbnail-design-for-2024/"><u>[Updated] Expert Insights Into YouTube Thumbnail Design for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[Updated] High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-on-d-link-powerline-adapter-speed-test-swift-installation-and-excellent-throughput/"><u>Comprehensive Guide on D-Link Powerline Adapter Speed Test: Swift Installation & Excellent Throughput</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-11-to-filter-kids-web-activity/"><u>Configuring Windows 11 to Filter Kids' Web Activity</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-voice-command-issues-reactivation-techniques-for-win11/"><u>Cure Voice Command Issues: Reactivation Techniques for Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-tips-securing-your-best-gaming-moments-with-4-methods/"><u>Expert Tips Securing Your Best Gaming Moments with 4 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-external-monitor-not-detected-issue-in-windows/"><u>Fixing External Monitor Not Detected Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/hands-on-steps-for-buying-adobe-reader-in-microsoft-store/"><u>Hands-On Steps for Buying Adobe Reader in Microsoft Store</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-webcam-editing-emphasize-focus-not-the-fence/"><u>In 2024, Cutting Edge Webcam Editing – Emphasize Focus, Not the Fence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-6s-plus-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 6s Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-interruptions-fix-the-cannot-play-video-error-code-224003/"><u>No More Interruptions: Fix the 'Cannot Play' Video Error Code 224003</u></a></li>
+<li><a href="https://win11.techidaily.com/old-meets-new-again-seven-core-windows-characteristics-evolving/"><u>Old Meets New Again: Seven Core Windows Characteristics Evolving</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-frustrating-asana-issues-with-a-step-by-step-guide/"><u>Solving Frustrating Asana Issues with a Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-chromes-spontaneous-tab-triggers-on-windows-desktop/"><u>Stop Chrome's Spontaneous Tab Triggers on Windows Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rotating-images-on-win11/"><u>The Ultimate Guide to Rotating Images on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-power-of-efficient-directory-creation-with-newest-windows-oses/"><u>Unleash the Power of Efficient Directory Creation with Newest Windows OSes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-12-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 12</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Notetaking Techniques for Windows Users
-date: 2024-09-25T23:52:22.548Z
-updated: 2024-09-28T20:01:44.391Z
+date: 2024-09-26T16:04:26.129Z
+updated: 2024-10-04T00:32:14.920Z
 tags:
   - windows10
   - windows11
@@ -35,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
  If you use the app often, you can create a desktop shortcut for faster access. Navigate to the Start menu, hit **All Apps**, and find Notepad down the alphabetical list. Then drag the app to a space on the desktop to create a shortcut. You can also access Notepad faster by [pinning an app to the Windows 11 Taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/).
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Take Notes on WordPad
 
 ![WordPad blank document demonstrating formatting features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wordpad-blank-document-demonstrating-formatting-features.jpg)
@@ -59,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
  To access the app, go to the Start menu and search for “WordPad.” Files can be saved as a plain text file (as used in Notepad) or as a rich text document (.rtf) if you’d like to import your notes into other software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try Windows Sticky Notes
@@ -73,30 +60,37 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
  The app offers a neat and colorful way to take notes. You can hit the three dots on the top banner of a note to change its color and access your notes list. Windows Sticky Notes is one of the most flexible ways to take notes. You can have multiple notes open at once—hit **Ctrl + N** to add a new note. You can also easily resize notes and drag them anywhere on your desktop by clicking and dragging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Take Notes Online With Memo Notepad
 
 ![Memo Notepad note-taking page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memo-notepad-note-taking-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another way you can take notes without downloading software is by using an online note-taking site. [Memo Notepad](https://www.memonotepad.com/) is a simple, no-nonsense note-taking app with minimal but powerful features to aid your writing.
 
  The text interface features key formatting tools, including bold, underlining, and italics. In the "style" tab, you can change the font style and increase the overall text size. The app’s cloud-based technology offers syncing to multiple devices, so you write notes wherever you are.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use Windows Clipboard to Save Snippets of Text
 
 ![Windows clipboard history display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-clipboard-history-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether you’re multitasking or doing online research, you’ll often come across pieces of information you need to remember. The good news is, using the Windows Clipboard feature, you no longer have to rely on writing things on the back of your hand.
@@ -111,29 +105,6 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-decoding-the-art-of-time-lapses-a-comprehensible-guide-with-gopro/"><u>2024 Approved Decoding the Art of Time Lapses A Comprehensible Guide with GoPro</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-earning-through-youtube-navigating-revenue-without-ads/"><u>2024 Approved Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
-<li><a href="https://win11.techidaily.com/27-tips-for-personalizing-your-windows-11-experience/"><u>27 Tips for Personalizing Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-fix-slack-notifications-not-working-on-windows-11/"><u>8 Ways to Fix Slack Notifications Not Working on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-faulty-sound-controls-in-windows-os/"><u>Addressing Faulty Sound Controls in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/administrative-task-mastery-initiating-task-manager-in-win11/"><u>Administrative Task Mastery: Initiating Task Manager in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-your-keyboard-setup-with-windows-11/"><u>Automate Your Keyboard Setup with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-0x0-failure-in-win11-setup-procedures/"><u>Avoid 0X0 Failure in Win11 Setup Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-system-tray-displaying-cpu-and-memory-usage/"><u>Boosting System Tray: Displaying CPU & Memory Usage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/epic-episodes-gpodcs-recommended-soundscape/"><u>Epic Episodes GPodC's Recommended Soundscape</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-zooms-value-triad-of-conversion-mastery/"><u>In 2024, Maximize Zoom's Value Triad of Conversion Mastery</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-influence-amplifying-creators-reels-and-their-profits/"><u>Meta's Influence: Amplifying Creators' Reels and Their Profits</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reversing-playback-errors-in-mobile-media/"><u>Reversing Playback Errors in Mobile Media</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speaking-smarter-will-claude-conquer-chatgpts-realm/"><u>Speaking Smarter: Will Claude Conquer ChatGPT's Realm?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-potential-with-nvidias-updated-win11-driver/"><u>Unleash Potential with NVIDIA's Updated Win11 Driver</u></a></li>
-<li><a href="https://win11.techidaily.com/1719264863745-unwanted-file-explorer-activation-stopped/"><u>Unwanted File Explorer Activation Stopped!</u></a></li>
-<li><a href="https://win11.techidaily.com/1719281206376-win11-printer-woes-solutions-here/"><u>Win11 Printer Woes? Solutions Here!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/windows-movie-maker-essentials-editing-and-enhancing-your-videos-for-2024/"><u>Windows Movie Maker Essentials Editing and Enhancing Your Videos for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +112,27 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-flavorful-frames-stepwise-food-film-making/"><u>[New] Flavorful Frames Stepwise Food Film-Making</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-editors-codex-innovations-in-youtube-video-formatting/"><u>[New] The Editor's Codex Innovations in Youtube Video Formatting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[Updated] In 2024, Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029668000-5/"><u>「無料編集ソフトリスト」 - 有名人気の5つの録音編集プログラム</u></a></li>
+<li><a href="https://win11.techidaily.com/genuine-deal-alert-claim-your-50-savings-on-microsoft/"><u>Genuine Deal Alert: Claim Your 50% Savings on Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-highlighting-incorrect-values-using-circular-boundaries-in-excel-spreadsheets/"><u>Guide to Highlighting Incorrect Values Using Circular Boundaries in Excel Spreadsheets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-google-nest-wifi-ideal-for-all-home-setups/"><u>In-Depth Look at the Google Nest WIFI - Ideal for All Home Setups</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872764649-master-the-art-of-resetting-browse-data-in-top-web-browsers-today/"><u>Master the Art of Resetting Browse Data in Top Web Browsers Today</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excel-chart-visualization-by-pinpointing-absolute-value-ranges-instantly/"><u>Mastering Excel Chart Visualization by Pinpointing Absolute Value Ranges Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excel-data-visualization-with-easy-trendline-insertion-techniques/"><u>Mastering Excel Data Visualization with Easy Trendline Insertion Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-finance-with-microsoft-excel-determining-loan-amounts-and-repayment-schedules/"><u>Mastering Finance with Microsoft Excel: Determining Loan Amounts and Repayment Schedules</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-waterfall-charts-a-step-by-step-guide-on-tailoring-visuals-in-ms-excel/"><u>Mastering Waterfall Charts: A Step-by-Step Guide on Tailoring Visuals in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/protect-excel-worksheets-from-changes-master-the-art-of-cell-lockdown-techniques/"><u>Protect Excel Worksheets From Changes - Master the Art of Cell Lockdown Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-creating-visual-charts-with-microsoft-excel/"><u>Step-by-Step Guide: Creating Visual Charts with Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-designing-dynamic-table-headers-in-excel-spreadsheets/"><u>Step-by-Step Guide: Designing Dynamic Table Headers in Excel Spreadsheets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/the-lenovo-chromebook-duet-review-a-cost-efficient-alternative-to-traditional-2-in-1-pcs/"><u>The Lenovo Chromebook Duet Review: A Cost-Efficient Alternative to Traditional 2-in-1 PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-c32-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia C32 FRP Bypass</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-gt-neo-5-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme GT Neo 5? Here is How | Dr.fone</u></a></li>
+</ul></div>
+

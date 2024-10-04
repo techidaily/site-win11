@@ -1,7 +1,7 @@
 ---
 title: "The Slim Way to Win11: No Bloatware"
-date: 2024-09-22T23:50:04.686Z
-updated: 2024-09-28T21:17:59.710Z
+date: 2024-10-01T01:39:40.830Z
+updated: 2024-10-03T22:51:17.968Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
  NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can You Run It on Any Old PC?
 
  Yes. It is possible to run Tiny11 on an old PC. But remember that this is a lightweight version of Windows 11 that can run with 2 GB RAM and 8 GB storage space. Someone even managed to run Tiny11 with 256 MB RAM, but the OS was barely usable. But as your install updates and apps, you will need a little bit more hardware resources to smoothly run this version of Windows 11.
@@ -47,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
  If you have an old desktop or laptop with 2-4 GB RAM and 32-64 GB storage, you can run Tiny 11 without any issues. Moreover, you don't need to worry about using a system with TPM 2.0 and Secure Boot because Tiny11 bypasses both these stern requirements before installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Tiny11
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
  The installation method is pretty straightforward. All you need to do is to[download the Tiny11 ISO image file](https://archive.org/details/tiny-11-NTDEV/Screenshot%5F20230203-100044%5FYouTube.jpg) . It is available on the internet archive website and there isn't any official website from the makers yet. Scroll down and pick the most recent build of Tiny11 and select download.
 
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
@@ -83,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 3. Windows Installer will launch. Select the appropriate region, keyboard layout, and time and language format, and click on the**Next** button.  
 ![Select Language and Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-language-and-region.jpg)
 4. Accept the EULA by clicking on the checkbox at the bottom of the page, and then click on**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
 ![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
@@ -97,19 +91,19 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![Windows 11 by Tiny11 in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-by-tiny11-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tiny11: The Good Points
@@ -123,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
  Coming to the performance aspect, we first tested it on a virtual machine with 2 GB RAM and two processor cores. The system was usable but after launching a web browser the CPU usage and Memory usage shot to 75 percent levels. When we opened a few more tabs, the CPU and RAM usage hovered in the 90-100 percent range. So, it is best if you use a system with a processor that has four or more cores and at least 4 GB RAM to run and multitask smoothly.
 
 ![Web browsing experience in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/web-browsing-experience-in-tiny11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Some Glaring Concerns With Tiny11
 
@@ -149,18 +150,24 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[New] Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-from-novice-to-pro-a-guide-for-building-cool-metaverse-content-for-2024/"><u>[New] From Novice to Pro A Guide for Building Cool Metaverse Content for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-calculating-the-storage-space-of-24-hour-videos/"><u>[Updated] Calculating the Storage Space of 24-Hour Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-video-enhancement-from-sdr-basics-to-hdr-excellence/"><u>2024 Approved Mastering the Art of Video Enhancement From SDR Basics to HDR Excellence</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-video-flow-for-social-networks/"><u>2024 Approved Optimizing Video Flow for Social Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-you-cant-enable-the-windows-firewall/"><u>4 Fixes to Try if You Can’t Enable the Windows Firewall</u></a></li>
-<li><a href="https://win11.techidaily.com/5-best-file-sharing-apps-on-a-windows-pc/"><u>5 Best File Sharing Apps on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11s-visual-keyboard-assistant/"><u>Accessing Windows 11'S Visual Keyboard Assistant</u></a></li>
-<li><a href="https://win11.techidaily.com/ahead-of-change-enabling-tpm-secure-boot-for-windows-11/"><u>Ahead of Change: Enabling TPM, Secure Boot for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/aim-for-zero-error-windows-1011-bin-repair-guide/"><u>Aim for Zero-Error: Windows 10/11 Bin Repair Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-ordinary-displays-elevate-your-screen-with-customized-themes-on-win11/"><u>Beyond Ordinary Displays: Elevate Your Screen with Customized Themes on Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-converting-and-opening-iwork-pages-documents-on-computers/"><u>Step-by-Step Tutorial: Converting & Opening iWork Pages Documents on Computers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturewave-91-analysis-summary-for-2024/"><u>[New] CaptureWave 9.1 Analysis Summary for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unleash-the-skys-potential-with-drone-livestreaming-on-fb/"><u>[New] Unleash the Sky's Potential with Drone Livestreaming on FB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-increase-watch-time-win-viewers-on-youtube/"><u>[Updated] Increase Watch Time, Win Viewers on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discreet-detail-suppression-in-image-editing/"><u>Discreet Detail Suppression in Image Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-f5-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco F5 Pro 5G Face Lock?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-issues-with-microsoft-word-documents-not-opening/"><u>How to Fix Issues with Microsoft Word Documents Not Opening</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-f54-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy F54 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-connectivity-with-5ghz-networks/"><u>Mastering Windows 11: Connectivity with 5GHz Networks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-crafting-professional-productions-techniques-of-audio-ducking-and-fading-with-powerdirectorutility-for-2024/"><u>New Crafting Professional Productions Techniques of Audio Ducking and Fading with PowerDirectorutility for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-for-disconnected-spotify-streaming/"><u>Quick-Fix Guide for Disconnected Spotify Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-the-size-limit-hurdle-in-discord-win11/"><u>Strategies to Overcome the Size Limit Hurdle in Discord (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now</u></a></li>
+<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-os-anomalies-a-comprehensive-guide-to-finding-and-fixing-windows-errors-through-command-prompt/"><u>Tackling OS Anomalies: A Comprehensive Guide to Finding & Fixing Windows Errors Through Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/the-undisclosed-menu-maestros-guide-to-win11-concealment/"><u>The Undisclosed Menu Maestro's Guide to Win11 Concealment</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-windows-11-context-menus-move-and-copy-integration-guide/"><u>Upgrading Windows 11 Context Menus: Move and Copy Integration Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Authentication in Windows 11 OS Setup
-date: 2024-09-23T19:06:45.523Z
-updated: 2024-09-28T18:20:29.928Z
+date: 2024-09-27T23:47:31.118Z
+updated: 2024-10-04T00:50:26.392Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ To access the Authorization Manager, follow these steps:
 
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use Windows File Explorer
 
  Windows File Explorer is a handy tool to manage your files and folders, allowing you to view, create, move, rename, delete, and organize files. It is also the gateway to accessing hidden files and system settings. Here's how to open Authorization Manager:
@@ -68,26 +61,13 @@ To access the Authorization Manager, follow these steps:
 ![Open the Authorization Manager Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-command-prompt.jpg)
 3. In the Command Prompt, type**azman.msc** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will instantly open the Authorization Manager window on your computer screen. The same command will also work if you launch and execute it in Windows PowerShell.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use the Task Manager
@@ -99,6 +79,13 @@ To access the Authorization Manager, follow these steps:
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create a Desktop Shortcut
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
@@ -108,16 +95,24 @@ To access the Authorization Manager, follow these steps:
 1. Right-click on your desktop and select**New > Shortcut** from the context menu.  
 ![Open the Authorization Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-with-desktop-shortcut.jpg)
 2. In the text field, type the following and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 C:\WINDOWS\system32\azman.msc
 3. Give it a name and click**Finish** .
 
  The shortcut icon will automatically be added to your desktop. Double-click on it to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Easy and Quick Access to the Authorization Manager
@@ -139,16 +134,21 @@ C:\WINDOWS\system32\azman.msc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-peak-level-illustration-tweaks/"><u>[Updated] In 2024, Peak Level Illustration Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-error-code-0x800704b3-on-windows-pcs/"><u>Addressing Error Code 0X800704B3 on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-windows-credential-entry-attempts/"><u>Analyzing Windows Credential Entry Attempts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>Avoid the Quake Optimal Tripod Placement for Stellar Vlogs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-youtubes-legal-framework-for-video-creators-for-2024/"><u>Decoding YouTube's Legal Framework for Video Creators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-audio-excellence-with-5-free-windows-apps/"><u>Elevate Audio Excellence with 5 Free Windows Apps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 14</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y55s-5g-2023-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y55s 5G (2023) Phone FRP Lock</u></a></li>
-<li><a href="https://article-posts.techidaily.com/leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-error-x0001-with-nvidia-experience-w11/"><u>Remedying Error X0001 with Nvidia Experience, W11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-for-missing-d3dx926dll-fixes-and-tricks/"><u>The Ultimate Solution for Missing d3dx9_26.dll – Fixes and Tricks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-snapshot-excellence-the-finest-software-on-market/"><u>[New] 2024 Approved Snapshot Excellence The Finest Software on Market</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-individual-to-institutional-growth-in-youtube-space/"><u>[Updated] 2024 Approved From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y78-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y78 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-0x800f082f-in-microsofts-dism-tool/"><u>Conquering Error 0X800F082F in Microsoft's DISM Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/diving-into-character-inspector-with-win11/"><u>Diving Into Character Inspector with Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-share-functionality-in-windows-11-and-11/"><u>Enhancing Share Functionality in Windows 11 and 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>In 2024, Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
+<li><a href="https://win11.techidaily.com/making-win1011-recycle-bin-error-free-quick-solutions/"><u>Making Win10/11 Recycle Bin Error-Free: Quick Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-taskbar-modifications/"><u>Mastering Window 11 Taskbar Modifications</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscovering-the-bygone-folder-interface/"><u>Rediscovering the Bygone Folder Interface</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-windows-hp-printer-offline/"><u>Resolving Windows HP Printer Offline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-non-connecting-airpods-to-your-windows-11-system/"><u>Ultimate Fixes for Non-Connecting AirPods to Your Windows 11 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-removing-fortnites-lag-free-edits-proven-solutions/"><u>Ultimate Guide: Removing Fortnite's Lag-Free Edits – Proven Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-techniques-for-enhancing-vimeo-videos-with-subtitles-for-2024/"><u>Ultimate Techniques for Enhancing Vimeo Videos with Subtitles for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-protected-mode-what-does-it-entail/"><u>Windows 11'S Protected Mode: What Does It Entail?</u></a></li>
 </ul></div>
 

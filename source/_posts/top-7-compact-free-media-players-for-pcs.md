@@ -1,7 +1,7 @@
 ---
 title: Top 7 Compact, FREE Media Players for PCs
-date: 2024-09-22T21:14:36.498Z
-updated: 2024-09-28T22:56:46.432Z
+date: 2024-09-30T01:38:36.259Z
+updated: 2024-10-03T23:54:26.567Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 ![potplayer dark 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/potplayer-dark-2021.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PotPlayer is a media player app from South Korea. If VLC didn't have such a strong brand identity, PotPlayer would probably stand in its place as the king of the free media players.
@@ -119,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 ![acgplayer free media tool 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/acgplayer-free-media-tool-2021.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that we've got the "Big Three" out of the way, it's time to highlight this gem of a video player in the Microsoft Store. It's called ACG Player, and it's tragically underrated. If you thought Media Player Classic was lightweight, this will blow you away.
 
  The first thing you'll notice is the simplified interface and touch-based controls. Tap the top half for Play/Pause, or tap the bottom half to toggle the controls. Swipe left-right to rewind and fast-forward, swipe up-down for volume. Obviously, this app was designed for Windows 10 tablets, but keyboard shortcut alternatives exist too.
@@ -143,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 * Available on Windows only.
 
 **Download:** [ACG Player](https://www.microsoft.com/en-us/store/p/acg-player/9nblggh698c7) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. MPV
 
@@ -174,15 +160,22 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 **Download:** [MPV](https://mpv.io/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. 5KPlayer
 
 ![5kplayer media windows 10 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/5kplayer-media-windows-10-2021.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The penultimate option is 5KPlayer, a fully-featured, ad-supported media player for Windows 10 and Windows 11.
 
@@ -201,16 +194,16 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 **Download:** [5KPlayer](https://www.5kplayer.com/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. KMPlayer
 
 ![kmplayer media player app for windows 10 windows 11 almost famous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/kmplayer-media-player-app-for-windows-10-windows-11-almost-famous.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Like all the best free media players for Windows 10 and Windows 11, KMPlayer comes with support for a vast number of video formats available for playback at 4K, 8K, and more. The user interface is simple to use and reminiscent of VLC, and you can happily drag and drop media into the player and control it using your arrow keys or other keyboard shortcuts.
 
@@ -224,6 +217,13 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 * Lightweight package, support for 32-bit and 64-bit Windows
 
 **Download:** KMPlayer for[Windows](https://www.kmplayer.com/pc) |[Windows 64-bit](https://www.kmplayer.com/pc64x)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Media Player App Do You Use on Windows?
 
@@ -244,24 +244,16 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-ground-to-greatness-photos-on-a-stretch/"><u>[New] From Ground to Greatness Photos on a Stretch</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instructions-on-changing-fb-page-backdrop/"><u>[Updated] In 2024, Instructions on Changing FB Page Backdrop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-digital-chronicling-of-live-audio-content-on-the-net/"><u>2024 Approved Digital Chronicling of Live Audio Content on the Net</u></a></li>
-<li><a href="https://win11.techidaily.com/a-complete-guide-on-using-w11s-automated-hdr-feature/"><u>A Complete Guide on Using W11's Automated HDR Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-roadmap-to-your-computers-heart-mouse-prop/"><u>A Step-by-Step Roadmap to Your Computer's Heart - Mouse Prop</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-typing-mastering-windows-powertoys/"><u>Accelerate Typing: Mastering Windows PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disconnected-files-in-steam-library/"><u>Addressing Disconnected Files in Steam Library</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-error-code-30015-26-in-m365-software-for-pcs/"><u>Addressing Error Code 30015-26 in M365 Software for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/bound-windows-login-with-ms-account-essentials/"><u>Bound Windows Login with MS Account Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/break-the-code-essential-steps-to-game-folder-opening/"><u>Break the Code: Essential Steps to Game Folder Opening</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nokia-g310-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nokia G310 to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-v29-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo V29 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-free-online-video-communication-tools-rated-best/"><u>In 2024, Free Online Video Communication Tools Rated Best</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/1719224494525-revive-w11s-chrome-immediate-troubleshooting-advice/"><u>Revive W11's Chrome - Immediate Troubleshooting Advice</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-urban-armor-gear-macbook-case-a-blend-of-strength-and-utility/"><u>Unboxing and Testing the Urban Armor Gear MacBook Case: A Blend of Strength & Utility</u></a></li>
-<li><a href="https://win11.techidaily.com/1719350686194-unlock-exe-files-on-your-pc-no-more-issues/"><u>Unlock EXE Files on Your PC, No More Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-hardware-secrets-with-toms-technology-experts/"><u>Unveiling Hardware Secrets with Tom's Technology Experts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[New] In 2024, Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-technology-showcase-highlights-of-the-5-best-slow-cams/"><u>[New] In 2024, Technology Showcase Highlights of the 5 Best Slow Cams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-elevating-the-look-and-feel-of-zoom-videos/"><u>[Updated] In 2024, Elevating the Look & Feel of Zoom Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-perfect-your-tiktok-with-these-stitching-techniques/"><u>[Updated] Perfect Your TikTok With These Stitching Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>2024 Approved The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delay-windows-10-shutdown-with-running-software-applications/"><u>How to Delay Windows 10 Shutdown with Running Software Applications</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/iphonesonicstage-for-ios/"><u>IPhoneへのウォークマン音源移植：SonicStage for iOS対応手順</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-in-sharing-files-windows-finest-apps-ranked/"><u>Leading Edge in Sharing Files: Windows' Finest Apps Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-multitasking-the-art-of-shifting-windows-by-90-degrees/"><u>Simplify Multitasking: The Art of Shifting Windows by 90 Degrees</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snicker-snapshots-jokeframe-for-2024/"><u>Snicker Snapshots JokeFrame for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-complex-registry-edits-with-command-prompt-scripts/"><u>Unlocking Complex Registry Edits with Command Prompt Scripts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Slow Battle.net Downloads on Windows
-date: 2024-09-19T03:44:39.814Z
-updated: 2024-09-22T08:33:03.082Z
+date: 2024-09-28T02:41:31.833Z
+updated: 2024-10-03T19:23:12.269Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,19 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our[guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Windows' Metered Connection
 
  Windows has a metered connection feature that lets you control your bandwidth usage. This feature is mainly designed to save data, especially if you're under a data cap. It also affects how an app uses the available bandwidth.
@@ -82,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![Turn off proxy on Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Turn-off-proxy.jpg)
 5. Save the changes by clicking the**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Download the Latest Network Driver Updates
 
  The next fix to try to download the latest network driver update. As it turns out, an outdated or corrupt network driver can cause various network issues, including the slow download speed in Battle.net.
@@ -94,22 +114,16 @@ To update the network driver update, follow the below instructions:
 ![Update Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-Network-Drivers-on-Windows.jpg)
 4. Choose**Search automatically for drivers.**
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will now look for and download the latest network driver update. If it finds nothing, search for the network adapter's manufacturer's official website for drivers instead.
 
 After that, restart your computer and check for the issue again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Battle.net Cache Data
 
@@ -121,20 +135,6 @@ After that, restart your computer and check for the issue again.
 ![Blizzard Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Blizzard-Folder.jpg)
 4. Choose the**Delete** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Flush the DNS Cache
 
  Flushing the DNS cache is another effective way to improve the download speed in Battle.net. You can do this by following the below instructions:
@@ -144,6 +144,13 @@ After that, restart your computer and check for the issue again.
 `ipconfig /flushdns`
 
  After flushing the DNS cache, restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset the Network Settings
 
@@ -158,10 +165,16 @@ You can fix this by resetting the network settings. Here's how:
 4. Click**Yes** to the prompt that appears to confirm your selection.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Improve Your Battle.net Download Speed
@@ -183,5 +196,22 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-restore-windows-photo-viewer-quick-effective-ways-for-win10-for-2024/"><u>[New] Restore Windows Photo Viewer Quick, Effective Ways for Win10 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tips-for-transforming-twitter-videos-into-audio-songs-mp3-for-2024/"><u>[New] Tips for Transforming Twitter Videos Into Audio Songs (MP3) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vmixfusion-for-dual-environments-for-2024/"><u>[New] VMixFusion for Dual Environments for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twittomp4maker-social-streaming-solution/"><u>[Updated] TwitToMP4Maker Social Streaming Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-fascinating-vlog-dialogue-structure/"><u>2024 Approved Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-viewers-interaction-via-youtube-cards/"><u>Boost Viewers Interaction via YouTube Cards</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-game-optimal-adventure-play-in-full-hd-via-windows-and-scummvm/"><u>Elevate Your Gaming Game: Optimal Adventure Play in Full HD via Windows & ScummVM</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-filing-techniques-max-156/"><u>Essential Windows Filing Techniques (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/five-gone-windows-feature-retrospective/"><u>Five Gone: Windows Feature Retrospective</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-40i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 40i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-xbox-console-choices-and-installation/"><u>Navigating Xbox Console Choices and Installation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/real-time-streaming-obs-to-instagram/"><u>Real-Time Streaming OBS to Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-tweaking-proxy-settings-in-windows-11/"><u>Step-by-Step Guide to Tweaking Proxy Settings in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-guide-to-zero-cost-remote-desktop-software-for-2024/"><u>Ultimate Guide to Zero-Cost Remote Desktop Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-wsl-an-all-inclusive-guide/"><u>Uninstalling WSL: An All-Inclusive Guide</u></a></li>
+</ul></div>
 

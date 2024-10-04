@@ -1,7 +1,7 @@
 ---
 title: Recovering Disappearing Elements in Windows 11 Desktop
-date: 2024-09-24T21:24:19.154Z
-updated: 2024-09-28T18:11:32.690Z
+date: 2024-09-27T02:48:11.693Z
+updated: 2024-10-03T21:41:30.964Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a7
 6. Click**Apply** followed by**OK** to save the changes.  
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your icons should appear on the desktop.
 
 ## 3\. Restart Windows Explorer
@@ -82,16 +75,17 @@ To rebuild icon cache on Windows 11:
 `del iconcache*`  
 ![Rebuild Icon Cache Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rebuild-Icon-Cache-Windows.jpg)
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s Graphics Driver
 
@@ -105,19 +99,19 @@ To rebuild icon cache on Windows 11:
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check the Group Policy Settings
@@ -134,13 +128,6 @@ To rebuild icon cache on Windows 11:
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -155,6 +142,13 @@ Follow these steps to perform a system restore on Windows:
 6. Click on**Finish** .  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
 
 ## 8\. Manually Restore the Desktop Shortcut Icons
@@ -168,6 +162,13 @@ Follow these steps to perform a system restore on Windows:
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -188,22 +189,21 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-get-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps/"><u>[New] Get More From Tiny Screens Top 6 YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-strategies-for-capturing-lol-matches/"><u>[Updated] 2024 Approved Top Strategies for Capturing LOL Matches</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-frontiers-in-virtuality-industry-analysis-for-2024/"><u>[Updated] Frontiers in Virtuality Industry Analysis for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-logitech-cam-enhancement-techniques-for-detailed-edits/"><u>[Updated] In 2024, Logitech Cam Enhancement - Techniques for Detailed Edits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-teaming-up-for-duet-video-on-tiktok/"><u>2024 Approved Teaming Up for Duet Video on TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/actions-to-take-against-lunar-client-start-up-failure-notice/"><u>Actions to Take Against Lunar Client Start-Up Failure Notice</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-slow-icon-loading-with-cache-refresh/"><u>Avoiding Slow Icon Loading with Cache Refresh</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-video-buffer-issues-streamlined-vlc-on-pc/"><u>Fixing Video Buffer Issues: Streamlined VLC on PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-forging-bonds-strategic-partnerships-with-brands-on-youtube/"><u>In 2024, Forging Bonds Strategic Partnerships with Brands on YouTube</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/making-youtube-intros-interesting-without-costing-a-dime/"><u>Making YouTube Intros Interesting Without Costing a Dime</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-directdraw-fixes-in-windows-10-and-11/"><u>Mastering DirectDraw Fixes in Windows 10 & 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/playcapture-x-the-cost-free-videography-for-games-for-2024/"><u>PlayCapture X The Cost-Free Videography for Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-over-silent-slack-alerts-in-win-11/"><u>Regain Control Over Silent Slack Alerts in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-microsofts-speech-recognition-in-windows-11/"><u>Restoring Microsoft's Speech Recognition in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-snaps-windows-strategies-for-sticky-notes/"><u>Secure Your Snaps: Windows Strategies for Sticky Notes</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-faulty-microsoft-store-eradicate-0x80072efd/"><u>Tackling Faulty Microsoft Store: Eradicate 0X80072EFD</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-effortless-screen-recording-on-modern-pcs/"><u>[New] Effortless Screen Recording on Modern PCs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essence-of-authenticity-applying-personalized-watermarks-in-insta-for-2024/"><u>[New] The Essence of Authenticity Applying Personalized Watermarks in Insta for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-premier-edit-suites-linux-compatible-tools/"><u>[Updated] 2024 Approved Premier Edit Suites Linux-Compatible Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-to-starting-a-sports-channel-on-mac/"><u>[Updated] In 2024, The Ultimate Guide to Starting a Sports Channel on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-booting-technique-startup-windows-unveil-notebooks/"><u>Effective Booting Technique: Startup Windows, Unveil Notebooks</u></a></li>
+<li><a href="https://win11.techidaily.com/fasten-the-toggling-of-microsofts-taskbar-integrated-chat/"><u>Fasten the Toggling of Microsoft’s Taskbar-Integrated Chat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-assessment-the-dji-quadcopter-model-3/"><u>In 2024, In-Depth Assessment The DJI Quadcopter Model 3</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-guide-reviewing-and-removing-windows-history/"><u>Insight Guide: Reviewing & Removing Windows History</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-loadlibrary-error-87-in-windows/"><u>Resolving LoadLibrary Error 87 in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-making-your-samsung-tv-apps-work-again/"><u>Step-by-Step Solution: Making Your Samsung TV Apps Work Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-arranging-data-values-within-microsoft-excel/"><u>Step-by-Step Tutorial on Arranging Data Values Within Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-addressing-launch-failed-lunar-client-issues/"><u>Techniques for Addressing “Launch Failed Lunar Client” Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-running-chatgpt-on-ubuntu-via-the-terminal/"><u>The Ultimate Walkthrough for Running ChatGPT on Ubuntu via the Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/triggers-for-launching-system-restore-in-windows-11-environment/"><u>Triggers for Launching System Restore in Windows 11 Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-your-watching-youtube-performance-in-chrome/"><u>Turbocharge Your Watching: YouTube Performance in Chrome</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/when-multiple-centrifugal-pumps-operate-in-parallel-they-share-the-same-head-but-distribute-the-total-flow-rate-among-them/"><u>When Multiple Centrifugal Pumps Operate in Parallel, They Share the Same Head but Distribute the Total Flow Rate Among Them.</u></a></li>
 </ul></div>
 

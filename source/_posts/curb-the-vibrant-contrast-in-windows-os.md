@@ -1,7 +1,7 @@
 ---
 title: Curb the Vibrant Contrast in Windows OS
-date: 2024-09-14T22:55:43.287Z
-updated: 2024-09-22T08:10:15.220Z
+date: 2024-10-01T20:02:42.988Z
+updated: 2024-10-04T00:56:37.421Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
  To disable high contrast mode on Windows using keyboard shortcuts, press the**Left Alt + Left Shift + Print Screen** keys at once. You won’t see any pop-up window to confirm the action, but you will hear a “beep” sound before the system reverts to the default theme. You can use this shortcut again if you need to re-enable High Contrast mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using the Settings app
 
  To disable the high contrast mode using the Settings app on Windows 8 and above, do as follows.
@@ -61,6 +68,26 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 3. The Accessibility menu will pop up. Click on the**Contrast Theme** toggle to disable it.  
 ![Disable High Contrast Mode Using Sign In Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-sign-in-screen.jpg)
 4. Windows will revert to the default theme. Enter your PIN or password and log in.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Using the Control Panel
 
@@ -83,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 4. Windows 7 will switch from the high contrast theme to a normal theme.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Using the Run Dialog Box
@@ -97,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 2. Type “**shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}** ” in the text input area and press the Enter key.  
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click on any system theme. It will deactivate the current high-contrast theme and apply the selected theme.
 
@@ -117,27 +137,7 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 ![Disable High Contrast Mode Using A Different Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-different-theme.jpg)
 4. Windows will apply the selected theme.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to re-enable the high-contrast theme, you have to visit the "high contrast theme" section here and choose a compatible theme.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Using a Script
 
@@ -150,16 +150,16 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 ![Disable High Contrast Mode Using a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-script.jpg)
 4. Go to the desktop again and right-click on the newly created .bat file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**Run as administrator** option in the context menu.
 6. UAC will pop up. Click on the**Yes** button to grant administrator privileges to the .bat file. Otherwise, it won’t be able to make changes to the system theme.
 7. The command prompt will pop up for a few seconds, run the script, and then close automatically. Your Windows system will disable the high contrast mode and switch to the aero theme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Windows High Contrast Theme Won’t Bother You Anymore
 
@@ -178,5 +178,24 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-audacity-techniques-for-smooth-sound-blending/"><u>[New] Audacity Techniques for Smooth Sound Blending</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-fix-iphone-camera-not-focusing-problem/"><u>[Updated] 2024 Approved How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-syncing-sound-and-visuals-a-movie-maker-technique/"><u>2024 Approved Syncing Sound and Visuals A Movie Maker Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-multiple-mail-systems-merge-gmail-and-outlook-windows/"><u>Conquering Multiple Mail Systems: Merge Gmail and Outlook, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-windows-11s-system-monitor-homepage/"><u>Customizing Windows 11'S System Monitor Homepage</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-device-recognition-with-razers-software-on-windows-11/"><u>Enabling Device Recognition with Razer's Software on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-working-keys-focus-on-windows-enter/"><u>Fixing Non-Working Keys: Focus on Windows Enter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-magic-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Magic 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macmovmp4/"><u>MacからMOVファイルをMP4へ完全忠実移行:電光石火の速度で</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-package-management-via-winget-in-windows-11/"><u>Mastering Package Management via Winget in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-a-stuck-windows-update-hurdle-a-plan-b/"><u>Navigating a Stuck Windows Update Hurdle: A Plan B</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-stuck-in-resizing-error-a-step-by-step-guide-to-fixes-discord-win11/"><u>Overcoming Stuck-in-Resizing Error: A Step-by-Step Guide to Fixes (Discord, Win11)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reasons-why-your-beat-saber-game-continuously-crashes-and-how-to-fix-them/"><u>Reasons Why Your Beat Saber Game Continuously Crashes and How to Fix Them</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/recording-device-quality-analysis/"><u>Recording Device Quality Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/synchronize-chrono-errors-chrome-and-pc-tick-alignment/"><u>Synchronize Chrono-Errors: Chrome & PC Tick Alignment</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unveiling-top-8-no-cost-3d-videos-players-pcmac-for-2024/"><u>Unveiling Top 8 No-Cost 3D Videos Players PC/Mac for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-ditch-final-cut-pro-x-10-free-and-paid-alternatives-to-consider/"><u>Updated In 2024, Ditch Final Cut Pro X? 10 Free and Paid Alternatives to Consider</u></a></li>
+</ul></div>
 

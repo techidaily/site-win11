@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Bluetooth Limitation: Audio Alone, No Mute/Pause"
-date: 2024-09-24T21:38:02.841Z
-updated: 2024-09-28T17:02:20.476Z
+date: 2024-10-02T06:01:11.456Z
+updated: 2024-10-03T20:44:21.995Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
  Let the Get Help app try all available fixes until the issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Bluetooth Services in Device Properties
 
  Your headset or speaker offers distinct services which are enabled by default. However, if disabled, one or more Bluetooth functions can stop working for your audio device. To fix the issue, open the Bluetooth device properties using the Control Panel and review the services.
@@ -89,10 +82,16 @@ Remotely Controllable Device`
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Bluetooth Audio Gateway Service  
@@ -103,15 +102,22 @@ Bluetooth User Support Service`
 5. Once done, check the other two services. If not running, restart the services one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Close the Services snap-in and check for any improvements.
 
  If the issue persists, [disable any audio enhancements on Windows](https://www.makeuseof.com/disable-audio-enhancements-windows/). While intended to improve your listening experience, these enhancements can also cause audio issues. Turning off these enhancements can help you resolve the problem with your audio devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check Your Bluetooth Device Driver for Issues
 
@@ -120,13 +126,6 @@ Bluetooth User Support Service`
 * **Update the driver**: You can [find and replace outdated drivers on Windows using Device Manager](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/). In Device Manager, expand the **Bluetooth** section and locate your Bluetooth adapter. On most computers, you may find an **Intel Bluetooth Wireless Bluetooth** device. Find the device and check if a new driver update is available.
 * **Roll back a recent driver update**: New but buggy driver update can also cause the Bluetooth adapter to act up. To fix the issue, you can [perform a driver rollback for the Bluetooth adapter](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) to install the previous driver version. While a handy option, its availability can differ depending on when the driver was installed.
 * **Reinstall the Bluetooth adapter driver:** A reinstall may be necessary if a corrupt or partially installed driver causes Bluetooth-related problems. To [uninstall Bluetooth drivers in Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/), you can use the Device Manager or the Command Prompt. Restart your PC and Windows should reinstall the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update the Bluetooth Driver Manually From the Manufacturer’s Website
 
@@ -143,6 +142,14 @@ Bluetooth User Support Service`
 6. Since we have an Intel Bluetooth Wireless device, we’ll open the [Intel Wireless Bluetooth for Windows page](https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html). The page lists the latest version of the driver available for download. In case of a different Bluetooth device manufacturer, visit the manufacturer's website and locate downloads for the device.  
 ![download bluetooth driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-bluetooth-driver-manually.jpg)
 7. Compare the version with the one available on your computer. Download the newer version if available. Run the installer and complete the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. During installation, your Bluetooth devices, including the headphone, keyboard, and mouse, may stop working temporarily. Wait for a few minutes for the changes to apply. Sometimes, a restart may be necessary to finish installing the update.
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
@@ -153,23 +160,6 @@ Bluetooth User Support Service`
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly-for-2024/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-case-study-how-to-grow-on-youtube-to-have-millions-of-subs-for-2024/"><u>[Updated] Case Study How to Grow on YouTube to Have Millions of Subs for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-essential-free-resources-for-youtube-intros-for-2024/"><u>[Updated] Essential Free Resources for YouTube Intros for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-real-time-broadcast-at-your-fingertips-12-channels/"><u>[Updated] Real-Time Broadcast at Your Fingertips - 12 Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-history-streams-the-10-premier-channels-for-students-study/"><u>2024 Approved Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-inability-to-load-steamui-dll/"><u>Addressing Inability to Load SteamUI DLL</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-surge-in-cpu-usage-by-wlanext/"><u>Addressing the Surge in CPU Usage by WLANEXT</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-code-0xca00a009/"><u>Addressing Windows Error Code: 0XCA00A009</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-monitor-settings-quickly/"><u>Adjusting Monitor Settings Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/beating-back-windows-overload-7-ways-to-fix-too-many-requests-error/"><u>Beating Back Window's Overload: 7 Ways to Fix Too Many Requests Error</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-excels-speed-on-windows-pcs/"><u>Boost Your Excel's Speed on Windows PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S18 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/simplifying-subtitle-addition-in-multilingual-vimeo-video-platforms-for-2024/"><u>Simplifying Subtitle Addition in Multilingual Vimeo Video Platforms for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +167,27 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-break-free-from-the-ordinary-top-tinder-profiles-that-hook-readers/"><u>[New] 2024 Approved Break Free From the Ordinary Top Tinder Profiles that Hook Readers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-every-move-in-games-with-fbx-for-2024/"><u>[Updated] Capturing Every Move in Games with FBX for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-tools-to-master-voice-manipulation-and-sound-design/"><u>2024 Approved Free Tools to Master Voice Manipulation and Sound Design</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cross-platform-iptv-adaptability-for-2024/"><u>Cross-Platform IPTV Adaptability for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-removing-x80300024-from-pcs/"><u>Deciphering and Removing X80300024 From PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-the-best-of-win11s-feb-2023-update/"><u>Discovering the Best of Win11's Feb 2023 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-develop-with-wsl-2-core-practices-for-dev-on-windows/"><u>Efficiently Develop with WSL 2: Core Practices for Dev on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-win11-audio-problem-code-0xc00d36b4/"><u>Eliminating Win11 Audio Problem: Code 0xC00D36B4</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-reliable-video-players-top-picks-for-wmv-file-support-on-mac-and-windows-devices/"><u>Free, Reliable Video Players: Top Picks for WMV File Support on Mac and Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/from-mobile-to-stationary-setting-up-your-android-as-a-windows-webcam/"><u>From Mobile to Stationary: Setting Up Your Android as a Windows Webcam</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-passwords-in-windows-11-with-the-four-best-guardians/"><u>Master Your Passwords in Windows 11 with The Four Best Guardians</u></a></li>
+<li><a href="https://win11.techidaily.com/pace-up-decoding-your-graphics-spec-in-windows-11/"><u>Pace Up: Decoding Your Graphics Spec in Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reevaluating-linkedins-prestige-is-plus-worth-the-investment/"><u>Reevaluating LinkedIn's Prestige: Is Plus Worth the Investment?</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-adobe-photoshop-closure-issues-on-latest-oses/"><u>Resolving Adobe Photoshop Closure Issues on Latest OSes</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-nubia-z50s-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nubia Z50S Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-xbox-gameplay-on-pc-via-xemu-technology/"><u>Seamless Xbox Gameplay on PC via Xemu Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-preventing-spotify-app-from-closing-on-iphone-lock/"><u>Solving the Issue: Preventing Spotify App From Closing on iPhone Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-lock-in-experience-longer-passwords-in-win1011/"><u>Transform Your Lock-In Experience: Longer Passwords in Win10/11</u></a></li>
+</ul></div>
+

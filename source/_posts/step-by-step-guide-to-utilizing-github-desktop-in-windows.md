@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Guide to Utilizing GitHub Desktop in Windows
-date: 2024-09-26T22:06:56.250Z
-updated: 2024-09-28T18:02:18.837Z
+date: 2024-09-27T01:00:42.393Z
+updated: 2024-10-03T23:29:49.652Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  All in all, GitHub Desktop helps you adapt the best practices for git through an easy-to-use interface allowing you to take version control of your projects to the next level.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install GitHub Desktop on Windows
 
  GitHub Desktop is free to use and available on Windows, macOS, and Ubuntu. You can quickly install GitHub Desktop on Windows 10 and 11 as follows:
@@ -49,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 4. GitHub Desktop will automatically launch once it’s ready.
 
  Now that you’ve successfully installed GitHub Desktop on your Windows PC, the next step is to sign in using your GitHub account.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Sign Into GitHub Desktop on Windows
 
@@ -80,11 +80,26 @@ To add an existing GitHub account to GitHub Desktop:
 1. Launch GitHub Desktop and click on the**Current repository** button from the left pane.  
 ![clone repo using Github Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clone-repo-1.jpg)
 2. Click on the**Add** dropdown and then select**Clone repository** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. To clone a repo associated with your signed-in account, select**GitHub.com** or**GitHub Enterprise** based on your account type.
 4. Scroll to find the repo you want to clone and update the saved location if needed.
 5. Once you’re ready, select**Clone** to begin cloning the project.
 
 The project should then be accessible within the saved directory.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Create a Branch in GitHub Desktop
 
@@ -101,13 +116,6 @@ To create a branch in GitHub desktop:
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Commit Using GitHub Desktop on Windows
 
  Now that you’ve learned how to set up your project and create branches in GitHub Desktop let’s look at how you can commit code into your branch.
@@ -118,28 +126,21 @@ To create a branch in GitHub desktop:
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Push Code Using GitHub Desktop on Windows
 
  Once you’ve committed code into your branch, the next step is to push your changes onto GitHub. You can then create a pull request and merge your changes into the main or master branch.
 
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
 
@@ -160,20 +161,17 @@ To create a branch in GitHub desktop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-best-practices-the-8-truly-effective-promotion-techniques/"><u>[New] In 2024, Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>[Updated] Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-your-post-processing-with-advanced-3d-lut-techniques/"><u>2024 Approved Revolutionize Your Post-Processing with Advanced 3D LUT Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/ameliorating-non-working-cut-and-paste-in-win-11/"><u>Ameliorating Non-Working Cut and Paste in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-unsatisfied-system-demands-sign-in-win11/"><u>Avoid Unsatisfied System Demands Sign in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/begin-your-digital-discourse-with-windows-11/"><u>Begin Your Digital Discourse with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-vm-performance-with-these-six-simple-steps/"><u>Boost Your VM Performance with These Six Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-microsoft-edge-performance-in-win10win11/"><u>Boosting Microsoft Edge Performance in Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-user-interface-with-scroll-lock-icon-on-windows-11-systray/"><u>Boosting User Interface with Scroll Lock Icon on Windows 11 SysTray</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-podcast-episodes-essential-writing-techniques-and-examples/"><u>In 2024, Crafting Podcast Episodes Essential Writing Techniques & Examples</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/online-mov-vorming-voor-mxf-format-gratis-professioneel-en-gemakkelijk-met-movavi-converter/"><u>Online MOV-Vorming Voor MXF-Format - Gratis, Professioneel en Gemakkelijk Met Movavi Converter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synthesizing-clarity-a-complete-voice-note-taking-course-for-2024/"><u>Synthesizing Clarity A Complete Voice Note-Taking Course for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-phantom-v-flip-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Phantom V Flip to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719231593414-unveiling-the-impact-of-eradicating-windows-11s-taskbar-chatting-functionality/"><u>Unveiling the Impact of Eradicating Windows 11'S Taskbar Chatting Functionality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-nba-livestream-a-list-of-15-essentials-for-2024/"><u>[Updated] Mastering NBA Livestream A List of 15 Essentials for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-video-aspect-ratio-selection-for-2024/"><u>A Step-by-Step Guide to Video Aspect Ratio Selection for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-magic-of-devhome-in-win11-landscape/"><u>Deciphering the Magic of DevHome in Win11 Landscape</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-depths-of-devhome-in-win11-world/"><u>Exploring the Depths of DevHome in Win11 World</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/go-above-and-beyond-this-super-bowl-with-advanced-techniques-in-optimizing-your-viewing-area/"><u>Go Above and Beyond This Super Bowl with Advanced Techniques in Optimizing Your Viewing Area</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instantaneous-speech-to-text-using-whisper/"><u>Instantaneous Speech-to-Text Using Whisper</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinetic-illustration-101-core-skills-and-concepts/"><u>Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-and-tips-to-find-missing-game-hub/"><u>Strategies and Tips to Find Missing Game Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-collection-of-the-mafia-series-gets-official-release-date-announcement/"><u>The Definitive Collection Of The Mafia Series Gets Official Release Date Announcement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-analysis-and-comparison-of-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis and Comparison of Computer Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-win11s-network-insight-through-netstat-applications/"><u>Understanding Win11's Network Insight Through Netstat Applications</u></a></li>
 </ul></div>
 

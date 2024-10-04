@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Creative Potential with Direct Drawing in Windows 11
-date: 2024-09-21T17:07:34.571Z
-updated: 2024-09-28T23:21:33.722Z
+date: 2024-09-27T06:33:46.202Z
+updated: 2024-10-04T03:06:10.492Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 Now you can get scribbling on the Windows desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
@@ -54,13 +61,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
  Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
@@ -69,28 +69,15 @@ Now you can get scribbling on the Windows desktop.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
@@ -113,6 +100,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
  The gInk app includes five pens on its toolbar by default, but you can add four more. To do so, you’ll need to close gInk’s toolbar first by clicking its**Exit** drawing option. Then right-click the gInk system tray icon and select**Options** .
@@ -122,10 +116,10 @@ Now you can get scribbling on the Windows desktop.
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
@@ -149,15 +143,16 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boundless-creativity-celebrating-our-top-10-female-youtubers/"><u>[Updated] 2024 Approved Boundless Creativity Celebrating Our Top 10 Female YouTubers</u></a></li>
-<li><a href="https://win11.techidaily.com/5-precise-steps-to-rectify-your-screen-res-in-windows/"><u>5 Precise Steps to Rectify Your Screen Res in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tga-)-jpeg-movavi-online/"><u>有料なしで簡単! TGA -> JPEG変換ツール - Movavi Online</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreran-guide-resolving-source-disk-errors-in-microsoft-oses/"><u>A Compreran Guide: Resolving Source Disk Errors in Microsoft OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-wsl-2s-error-4294967295-on-a-win-os/"><u>Addressing WSL 2'S ERROR 4294967295 on a Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-the-looks-like-youre-stranded-error-from-xbox/"><u>Banishing the ‘Looks Like You’re Stranded’ Error From Xbox</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-vivo-y02t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y02T Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-yuva-3-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Yuva 3 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-deleting-image-albums-from-older-versions-of-iphone-including-the-latest-iphones-up-to-model-15/"><u>The Ultimate Walkthrough for Deleting Image Albums From Older Versions of iPhone, Including the Latest iPhones Up to Model 15</u></a></li>
-<li><a href="https://blog-min.techidaily.com/warum-lasst-sich-hevc-nicht-in-windows-11-8-oder-7-abspielen-erfolgversprechende-losungsmoglichkeiten-und-tricks/"><u>Warum Lässt Sich HEVC Nicht in Windows 11, 8 Oder 7 Abspielen? Erfolgversprechende Lösungsmöglichkeiten Und Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-post-tweets-on-facebook/"><u>[Updated] How to Post Tweets on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pushing-the-envelope-how-srgb-replaces-conventional-rgb/"><u>[Updated] Pushing the Envelope How Srgb Replaces Conventional Rgb</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-video-codecs-making-an-informed-decision-on-windows/"><u>Evaluating Video Codecs: Making an Informed Decision on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-iphones-mapping-with-your-windows-pc/"><u>Harmonizing iPhone's Mapping with Your Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-setup-how-to-download-and-update-epson-printer-software-on-windows/"><u>Hassle-Free Setup: How to Download & Update Epson Printer Software on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-non-functional-netflix-windows-app/"><u>Repairing Non-Functional Netflix Windows App</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-phone-integration-on-windows-11-platforms/"><u>Revolutionizing Phone Integration on Windows 11 Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-frontier-of-search-intelligent-bing-platform/"><u>The New Frontier of Search: Intelligent Bing Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1011-failure-codes/"><u>Troubleshooting Windows 10/11 Failure Codes</u></a></li>
 </ul></div>
 

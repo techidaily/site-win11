@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Reinvented: Mastering the Art of Widget Integration"
-date: 2024-09-22T17:38:36.027Z
-updated: 2024-09-28T23:52:14.104Z
+date: 2024-10-03T02:04:09.311Z
+updated: 2024-10-03T19:16:11.519Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,25 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Adding Widgets to Windows
 
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
 
 ![Add Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-widgets-edit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Follow the below steps to add widgets:
 
@@ -71,23 +85,9 @@ To change the size of widgets, follow the below steps:
 
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
@@ -96,16 +96,10 @@ To change the size of widgets, follow the below steps:
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
@@ -113,10 +107,10 @@ To change the size of widgets, follow the below steps:
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Tweak the Widget Taskbar Behaviors
@@ -124,13 +118,6 @@ To change the size of widgets, follow the below steps:
  The customizability of Widgets goes beyond the ability to change their sizes. You can also control how Widgets behave. If you do not like the opening of the Widgets panel on hovering over the button on the left of the Taskbar, you can disable it from**Widgets settings** . Widgets can also display notification badges and announcements.
 
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
@@ -155,6 +142,13 @@ To expand the widgets panel, follow the below steps:
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
  Windows 11's widgets can be useful if you know how to take advantage of its several functionalities. The above-mentioned tips and tricks are best suited for anyone looking to be a pro at using the feature. But the best experience comes at the expense of your usage data getting into the hands of Microsoft and other third-party players if you are using widgets developed by them.
@@ -174,17 +168,17 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone When You Forget the Password</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tips-for-converting-heic-images-to-jpeg-in-windows-11/"><u>Advanced Tips for Converting HEIC Images to JPEG in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/best-way-to-wrap-windows-store-games-for-yule/"><u>Best Way to Wrap Windows Store Games for Yule</u></a></li>
-<li><a href="https://win11.techidaily.com/bluetooth-woes-try-these-9-fixes-for-a-seamless-link-in-windows-11/"><u>Bluetooth Woes? Try These 9 Fixes for a Seamless Link in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-computer-insights-by-toms-lab/"><u>Comprehensive Computer Insights by Tom's Lab</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-sony-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Sony</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhance-video-reach-strategic-insights-into-youtubes-tag-system-for-2024/"><u>Enhance Video Reach Strategic Insights Into YouTube's Tag System for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-duckduckgo-trustworthy-an-in-depth-look-at-its-security-protocols/"><u>Is DuckDuckGo Trustworthy? An In-Depth Look at Its Security Protocols</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-updates-and-drivers-available-now-optimize-your-hp-laserjet-p160n6d-for-windows-systems/"><u>Latest Updates & Drivers Available Now: Optimize Your HP LaserJet P160n6d for Windows Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/premium-video-capture-devices-for-windows-os/"><u>Premium Video Capture Devices for Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/1719319756779-revive-your-frozen-shift-key-on-pc/"><u>Revive Your Frozen Shift Key on PC.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tutorial-setting-up-and-using-3-screens-with-your-pc/"><u>Tutorial: Setting Up & Using 3 Screens with Your PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ilmmakers-companion-filmora-for-youtube-trailers/"><u>[New] Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-to-maximizing-your-youtube-brands-impact/"><u>[New] In 2024, Step-by-Step Guide to Maximizing Your YouTube Brand's Impact</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[Updated] Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-practices-to-avoid-missed-frames-during-video-capture/"><u>2024 Approved Best Practices to Avoid Missed Frames During Video Capture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/blizzard-service-interruption-notified/"><u>Blizzard Service Interruption Notified</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-iphoneandroid-issues-with-wordle-streaks/"><u>Fix iPhone/Android Issues with Wordle Streaks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-common-steam-errors-blocking-game-launch-on-win-11/"><u>How To Solve Common Steam Errors Blocking Game Launch on Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-12-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 12 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-w11s-startup-process-for-csgo/"><u>Mastering W11's Startup Process for CS:GO</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-microphone-problems-for-smooth-gaming/"><u>Resolving Microphone Problems for Smooth Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-11-for-a-retro-windows-98-aesthetic/"><u>Reviving Windows 11 for a Retro Windows 98 Aesthetic</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-under-100-router-an-experts-take-on-the-tp-link-archer-c80-speeds/"><u>The Best Under $100 Router - An Expert's Take on the TP-Link Archer C80 Speeds</u></a></li>
 </ul></div>
 

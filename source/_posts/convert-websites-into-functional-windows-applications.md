@@ -1,7 +1,7 @@
 ---
 title: Convert Websites Into Functional Windows Applications
-date: 2024-09-19T08:44:45.229Z
-updated: 2024-09-22T05:21:53.968Z
+date: 2024-09-30T17:40:47.512Z
+updated: 2024-10-03T19:35:48.695Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,14 @@ To install a website and app using Microsoft Edge:
 3. Select**Apps** and select**Install this site as an App** .  
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 6. Click**Install** and wait for the app to be installed.
@@ -51,6 +59,13 @@ To install a website and app using Microsoft Edge:
  In the**Allow this app to** section, select all the options you want to activate. For example, you can pin or unpin the app to the taskbar, Start, add it as a desktop shortcut, and enable auto-start on device login. Select all the options you want and click**Allow** .
 
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Uninstall An App in Microsoft Edge
 
@@ -71,13 +86,6 @@ To add a shortcut to a website as an app in Chrome:
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
@@ -93,13 +101,6 @@ To change the app icon:
 2. In the**Properties** dialog, open the**Shortcut** tab.  
 ![website app properties shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut.jpg)
 3. Click the**Change icon** button at the bottom.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
@@ -120,16 +121,16 @@ To install a website as an app using WebCatalog:
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the**Create custom app** option.  
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
 2. Select the**Add shadows and rounded corners** option.
@@ -143,21 +144,22 @@ To install a website as an app using WebCatalog:
 
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
 
 ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
@@ -175,6 +177,13 @@ To create a desktop app using Web2Desk:
 9. Extract the downloaded package zip file and double-click on the**app.exe** file to launch the app.
 
  Apps Created using the service feature a Web2Desk splash screen. You can remove it for a premium of $45.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install Websites as Desktop Apps on Windows
 
@@ -195,5 +204,19 @@ To create a desktop app using Web2Desk:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-screen-cut-and-paste-in-winoses/"><u>[Updated] In 2024, Quick Screen Cut & Paste in WinOSes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-alternative-review-to-sharex/"><u>[Updated] The Ultimate Alternative Review to ShareX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-all-in-one-video-editing-solutions-movavis-tutti-and-unlimited-options-for-creators/"><u>Discover All-in-One Video Editing Solutions - Movavi's Tutti & Unlimited Options for Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-error-0x800700e1-in-windows-11-os/"><u>How to Overcome Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-normal-for-vr-industry-insights/"><u>In 2024, The New Normal for VR Industry Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-redmi-12-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Redmi 12 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-macos-sierra-installation-procedures/"><u>Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-the-clear-edge-tips-to-rectify-blurry-win11-displays/"><u>Reveal the Clear Edge: Tips to Rectify Blurry Win11 Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-operations-with-process-insight-and-elegant-theming-in-windows-11/"><u>Streamline Operations with Process Insight and Elegant Theming in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-group-policies-in-windows-environments/"><u>Streamlining Group Policies in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/where-windows-keeps-your-image-snaps/"><u>Where Windows Keeps Your Image Snaps</u></a></li>
+</ul></div>
 

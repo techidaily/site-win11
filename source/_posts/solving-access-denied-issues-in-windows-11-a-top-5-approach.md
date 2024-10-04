@@ -1,7 +1,7 @@
 ---
 title: "Solving Access Denied Issues in Windows 11: A Top 5 Approach"
-date: 2024-09-27T18:20:06.708Z
-updated: 2024-09-28T20:08:54.832Z
+date: 2024-09-26T16:18:11.360Z
+updated: 2024-10-03T22:51:06.108Z
 tags:
   - windows10
   - windows11
@@ -55,25 +55,25 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 ![The Security tab under Properties of a File on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-properties.png)
 3. Choose your username from the list and check the box beside **Full control** in the **Allow** column under the **Permissions for User** section. Then, click **OK**.  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot showing the settings for changing permissions for users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/user-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If your username is not on the list, you have to add it manually and then change its permissions.
 
  You can also try [restoring the default permissions using the icacls command](https://www.makeuseof.com/reset-user-permissions-default-windows/) in Command Prompt. Resetting permissions with **icacls** can help resolve access issues caused by changes to the default permissions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Set Your Account to Administrator
 
@@ -101,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 
  Switching back to your main account will cause the error to appear again. If you need to constantly access the files, use the hidden Administrator account to make the necessary changes to your system and fix the ownership or access issue. You might also consider copying the items to another location your usual account can access.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Take Ownership of the File
 
  As mentioned previously, the "Access Denied" error sometimes stems from ownership problems. If this is the cause of the error, [taking ownership of the file](https://www.makeuseof.com/windows-10-11-own-folder/) can instantly give you the access you need:
@@ -118,20 +111,28 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 3. Next, look for the **Owner** section on the top of the window and click **Change**. This will open a new dialog box.  
 ![Permissions page for a file in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/permissions-page-for-a-file-in-windows-11.png)
 4. In the **Select User or Group** window, type your username or **Administrators** in the **Enter the object name** field.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Select user or group tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab.png)
 5. Then, click the **Check Names** and **OK** buttons to save your changes.  
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Select user or group tab for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab-for-a-file.png)
@@ -154,19 +155,25 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 ![Prompt for taking ownership of a file via CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/prompt-for-taking-ownership-of-a-file-via-cmd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer once you're done with the steps above to check if the problem is resolved. But usually, after running these commands, you should regain access to the files and folders.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Your Third-Party Antivirus Software
@@ -179,24 +186,6 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 
  Resolving the "Access Denied" error is straightforward and does not require a lot of technical steps. You can regain control over your files and system by employing a few key strategies. Simply ensure your user account has the necessary permissions and, if needed, elevate your privileges to an administrator level.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/outubes-finest-unveiling-the-best-reaction-tricks/"><u>[New] YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-master-classic-ps2-games-on-android-with-our-top-picks/"><u>[Updated] In 2024, Master Classic PS2 Games on Android with Our Top Picks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-vision-companion-ranking-of-best-11-bridge-cams-for-2024/"><u>[Updated] The Ultimate Vision Companion Ranking of Best 11 Bridge Cams for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-steps-for-restoring-windows-hello-fingerprint-functionality/"><u>7 Key Steps for Restoring Windows Hello Fingerprint Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/9-proven-remedies-for-perfectly-printing-your-powerpoint-presentations-in-windows/"><u>9 Proven Remedies for Perfectly Printing Your PowerPoint Presentations in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-30005-for-unsuccessful-file-generation/"><u>Addressing Windows Error 30005 for Unsuccessful File Generation</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-dynamic-backgrounds-in-windows-11-display/"><u>Avoid Dynamic Backgrounds in Windows 11 Display</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-the-bluescreen-error-in-win11-with-these-simple-fixes/"><u>Banish the Bluescreen Error in Win11 with These Simple Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-wake-up-alerts-win-1011-full-charge-ding/"><u>Boosting Wake-Up Alerts: Win 10/11 FULL CHARGE DING</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-views-not-video-length-expert-guide-to-yt-desc-templates-for-2024/"><u>Elevate Views, Not Video Length Expert Guide to YT Desc Templates for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-engineer-ethical-emojis-on-giphy/"><u>In 2024, Engineer Ethical Emojis on Giphy</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-with-manycam-top-choice-in-virtual-camera-solutions/"><u>Live Streaming with ManyCam: Top Choice in Virtual Camera Solutions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/reviving-retro-shots-step-by-step-for-image-conversion-and-curation/"><u>Reviving Retro Shots Step-by-Step for Image Conversion & Curation</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -204,3 +193,20 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-average-gain-for-youtubers-per-ad-exposure-in-2024/"><u>[New] Average Gain for YouTubers per Ad Exposure, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-how-to-watch-facebook-live/"><u>[Updated] 2023 | How to Watch Facebook Live?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cutting-edge-approaches-share-youtube-content-on-facebook/"><u>[Updated] Cutting-Edge Approaches Share YouTube Content on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevating-your-presentation-infusing-music-into-powerpoint/"><u>[Updated] Elevating Your Presentation Infusing Music Into PowerPoint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-online-meetings-tips-for-chromebook-users/"><u>2024 Approved Mastering Online Meetings Tips for Chromebook Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-hurdles-a-guide-to-successfully-start-multiversus-when-it-stalls-on-pcs/"><u>Bypass The Hurdles: A Guide to Successfully Start MultiVersus When It Stalls on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-dysfunctional-utilities-of-windows-10-fixes/"><u>Elevating Dysfunctional Utilities of Windows 10 Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Bootloader Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-endless-enter-credential-errors-in-windows/"><u>Overcoming Endless Enter Credential Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permissions-hurdle-in-windows-application-management/"><u>Overcoming Permissions Hurdle in Windows Application Management</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/switching-on-windows-11-for-automatic-hdr-mode/"><u>Switching On Windows 11 for Automatic HDR Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/why-missing-drive-letters-happen-in-windows-solutions-explored/"><u>Why Missing Drive Letters Happen in Windows - Solutions Explored</u></a></li>
+</ul></div>
+

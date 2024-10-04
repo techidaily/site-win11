@@ -1,7 +1,7 @@
 ---
 title: Eradicate Save Location Errors in Windows Versions
-date: 2024-09-23T01:34:07.420Z
-updated: 2024-09-28T21:09:19.407Z
+date: 2024-09-27T02:12:31.475Z
+updated: 2024-10-03T23:47:12.424Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rename the WindowsApps Directory
 
  This error can arise because the WindowsApps folder where apps save is corrupted. Renaming the WindowsApps folder on the drive or partition you want to save apps can address such an issue. To do so, rename that folder as follows:
@@ -41,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 4. Then, right-click on the WindowsApps folder and select its **Rename** context menu option. You should find that directory within the drive’s root directory.  
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-button.jpg)
 5. Rename the folder to **WindowsApps.old** and press **Enter**.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Thereafter, try changing the default save location for apps again via Settings.
 
@@ -66,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
  Alternatively, delete the WpSystem folder. You can [erase a file or folder in Explorer](https://www.makeuseof.com/windows-11-delete-select-files/) by right-clicking it and selecting **Delete**. If you can’t find that folder or this potential solution doesn’t work, try the next resolution.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set Full System Permission for the System Volume Folder
 
@@ -90,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 3. Click **Security > Advanced** to bring up an Advanced Security Settings window.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click **Add** to view a Permission Entry window.
 
 1. Click the **Select a principal** option.
@@ -97,25 +92,31 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set a New Default Save Location in Windows 11/10
 
@@ -125,29 +126,6 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-digital-asset-management-implementing-watermarks-on-instagram/"><u>[New] 2024 Approved Digital Asset Management Implementing Watermarks on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flying-high-with-husqvarna-the-drone-revolution/"><u>[New] Flying High with Husqvarna The Drone Revolution</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them-for-2024/"><u>[New] GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sophisticated-style-advanced-tiktok-filters/"><u>[New] Sophisticated Style Advanced TikTok Filters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-revolutionize-your-workflow-best-free-3d-text-files-for-2024/"><u>[Updated] Revolutionize Your Workflow Best FREE 3D Text Files for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-8-most-reliable-and-free-open-source-video-chat-options/"><u>[Updated] The 8 Most Reliable and Free Open Source Video Chat Options</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-ideal-youtube-vision-top-video-suggestions-to-energize-your-channel/"><u>2024 Approved The Ideal YouTube Vision Top Video Suggestions to Energize Your Channel</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-11s-fatal-error/"><u>Deciphering and Resolving Windows 11'S Fatal Error</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-the-reasons-for-the-remarkable-achievement-of-the-wii-u/"><u>Discovering the Reasons for the Remarkable Achievement of the Wii U</u></a></li>
-<li><a href="https://win11.techidaily.com/diving-into-shortened-terms-alias-and-application-lifecycle/"><u>Diving Into Shortened Terms: Alias & Application Lifecycle</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-win1011-unraveling-error-code-0x800704b3/"><u>Fixing Win10/11: Unraveling Error Code 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/future-proof-your-pc-take-advantage-of-windows-11-h2-update-plan/"><u>Future-Proof Your PC: Take Advantage of Windows 11 H2 Update Plan</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-stop-hyber-v-with-ease-in-windows-11-pro/"><u>Guide: Stop Hyber-V with Ease in Windows 11 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/investigating-the-efficacy-of-windows-11s-feature-additions/"><u>Investigating the Efficacy of Windows 11'S Feature Additions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-streaming-guide-on-casting-disneyplus-onto-your-chromecast-device/"><u>Seamless Streaming: Guide on Casting Disney+ Onto Your Chromecast Device</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-manage-tasks-as-an-admin-in-windows-11/"><u>Securely Manage Tasks as an Admin in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-stability-solved-quick-tricks-to-prevent-unwanted-crashes/"><u>Steam Stability Solved: Quick Tricks to Prevent Unwanted Crashes!</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-effective-rgb-light-settings-in-win11/"><u>Tips for Effective RGB Light Settings in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-power-of-windows-11-quick-selective-copy-and-move/"><u>Unlock the Power of Windows 11: Quick Selective Copy & Move</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +133,27 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-social-stardom-awaits-add-1k-to-your-insta-profile-each-month-for-2024/"><u>[New] Social Stardom Awaits Add 1K to Your Insta Profile Each Month for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>[Updated] Unveiling Image Quality A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-audacity-for-professional-sound-capture/"><u>2024 Approved Mastering Audacity for Professional Sound Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-meizu-21-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Meizu 21 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-gaming-and-design-how-to-successfully-replace-a-video-card/"><u>Elevate Gaming & Design: How to Successfully Replace a Video Card</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exclusive-selections-free-vs-paid-hd-playback-software/"><u>Exclusive Selections Free vs Paid HD Playback Software</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-vac-was-unable-to-verify-your-game-session-error-on-steam-for-windows/"><u>How to Fix the “VAC Was Unable to Verify Your Game Session” Error on Steam for Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-creative-content-vimeo-vs-youtubes-approach/"><u>In 2024, Elevating Creative Content Vimeo vs YouTube's Approach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-guide-unobtrusive-android-video-capture/"><u>In 2024, Essential Guide Unobtrusive Android Video Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-without-microsofts-core-tools-for-win-11/"><u>Mastery Without Microsoft's Core Tools for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-settings-hyper-v-onoff-tutorial/"><u>Navigating Windows 11'S Settings: Hyper-V On/Off Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-your-windows-11-defender-trail-easy-steps-to-take/"><u>Revamp Your Windows 11 Defender Trail: Easy Steps to Take</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-microsoft-meeting-screen/"><u>Reviving Your Microsoft Meeting Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-win11-screensaver-exceptions-easily/"><u>Sidestep WIN11 Screensaver Exceptions Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-lost-network-access-on-windows-pc/"><u>Steps to Regain Lost Network Access on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-re-associate-file-applications-in-win108/"><u>Strategies to Re-Associate File Applications in Win10/8</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/toms-tech-hub-exploring-latest-computer-hardware-trends/"><u>Tom's Tech Hub: Exploring Latest Computer Hardware Trends</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-security-tool-canary-channel/"><u>Unveiling Windows' Security Tool: Canary Channel</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Initialization Delays in WoW Patch
-date: 2024-09-26T23:39:49.734Z
-updated: 2024-09-28T22:03:39.851Z
+date: 2024-09-30T17:15:33.803Z
+updated: 2024-10-03T22:49:29.218Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
  When the WoW update gets stuck on initializing, you must disable other apps and processes, update the Battle.net client, rule out internet problems, clean the Battle.net cache, whitelist the Battle.net desktop client from Windows Defender, update the drivers, and rebuild the corrupt and outdated game files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First, Perform the Preliminary Checks
 
  Before moving on to the major fixes, perform the following preliminary checks:
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 * Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Ensure It's Not a Visual Glitch
 
  The Battle.net desktop client can sometimes appear stuck on initializing due to a visual glitch. This means the update may still be downloading, but the client may show the update progress bar as stuck at initializing. Therefore, it's imperative to confirm that first:
@@ -51,18 +65,18 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![Checking Battle.net's Network Resource Consumption in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-checking-battle-net-s-network-resource-consumption-in-task-manager-on-windows.jpg)
 3. Then, open the folder where the game was installed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check the overall size of the WoW folder after ten minutes and note down the size of the game files.
 
  The growing folder size and consumption of network resources in Task Manager indicate the client is downloading the update. So, the update stuck on initializing in the Battle.net desktop client is just a visual glitch.
 
  However, if the progress bar is really stuck on initializing, it's time to perform some fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Delete the Battle.net Client Cache
 
@@ -78,23 +92,9 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![Deleting Battle.net Cache on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deleting-battle-net-cache-on-windows.jpg)
 5. Restart your device and try downloading the update again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rule Out Internet Issues
 
 ![The front of a Wi-Fi router, set against a blurred background](https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5ad0376d97a1f07070c0cf22e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  World of Warcraft update can get stuck in the Battle.net desktop client if your internet connection is down. Run any process that uses a network resource to determine whether the internet is connected. If the internet is not working, resolve the Wi-Fi problem, and the issue will be rectified automatically.
 
@@ -114,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
  Once you have disabled them, run the update again to see if it succeeds.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Whitelist Battle.net in Your Firewall
 
 ![disable enable defender firewall smartscreen](https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg)
@@ -121,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  Microsoft Defender and third-party antivirus programs are great at catching and removing threats. Sometimes, however, they deem even safe-to-execute processes as threats and block them. It's at that point when things start to get frustrating.
 
  To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Playing World of Warcraft Again
 
@@ -148,18 +148,17 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-free-mcb-skin-designs/"><u>[Updated] 2024 Approved Download Free MCB Skin Designs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-addressing-youtube-shorts-no-image-upload-issue-in-2024/"><u>[Updated] Addressing YouTube Shorts No Image Upload Issue, In 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-earnings-expansion-the-significance-of-500-subs-club-for-2024/"><u>[Updated] Earnings Expansion The Significance of 500 Subs Club for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-rich-archive-of-cost-effective-superior-vector-graphics-websites-for-2024/"><u>[Updated] Rich Archive of Cost-Effective, Superior Vector Graphics Websites for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-blueprint-for-an-enhanced-taskbar-in-microsofts-next-windows-release/"><u>A Blueprint for an Enhanced Taskbar in Microsoft's Next Windows Release</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-customize-your-outlook-calendar-on-windows/"><u>How to Customize Your Outlook Calendar on Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-desktop-instagram-video-upload-guide-for-2024/"><u>Mastering Desktop Instagram Video Upload Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unwanted-windows-start-up-in-bios-landing/"><u>Overcoming Unwanted Windows Start-Up in BIOS Landing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/resolving-the-issue-of-resident-evil-5-not-launching-properly-on-personal-computers/"><u>Resolving the Issue of Resident Evil 5 Not Launching Properly on Personal Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-unable-to-open-error-in-geforce-experience-windows/"><u>Resolving Unable to Open Error in GeForce Experience Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862693994-score-big-savings-on-your-next-pc-asus-rog-zephyrus-g14-rtx-deal-at-best-buy/"><u>Score Big Savings on Your Next PC - Asus ROG Zephyrus G14 RTX √ Deal at Best Buy</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-windows-error-0xfffffff-with-ease/"><u>Solving Windows' Error 0xFFFFFFF with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/the-future-is-now-microsofts-new-ai-enhanced-taskbar-for-windows-11-users/"><u>The Future Is Now: Microsoft’s New AI-Enhanced Taskbar for Windows 11 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-64-vs-128gb-video-holding-power/"><u>[New] Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/12-essential-websites-for-stunning-fb-profile-pictures-for-2024/"><u>12 Essential Websites for Stunning FB Profile Pictures for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-camon-30-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Camon 30 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/electrical-use-analysis-for-windows-computers-unveiled/"><u>Electrical Use Analysis for Windows Computers Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-the-best-linux-features-with-windows-apps/"><u>How to Get the Best Linux Features With Windows Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro+ 5G Phone that is Locked?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-challenges-a-guide-to-fixing-your-manager-tool-in-windows-11/"><u>Navigating Challenges: A Guide to Fixing Your Manager Tool in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-potential-per-viewer-youtubes-financial-dynamics-for-2024/"><u>Profit Potential Per Viewer YouTube's Financial Dynamics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-comprehensive-guide-to-disbanding-disk-divisions-in-win-os/"><u>The Comprehensive Guide to Disbanding Disk Divisions in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-audacitys-windows-compatibility-issue-9999/"><u>Unlocking Audacity's Windows Compatibility Issue #9999</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-8-powerful-photo-management-tools-to-replace-windows-10-photos/"><u>Updated In 2024, 8 Powerful Photo Management Tools to Replace Windows 10 Photos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Error 16 When Viewing Windows Files
-date: 2024-09-19T00:32:57.511Z
-updated: 2024-09-22T09:39:58.742Z
+date: 2024-09-28T22:03:46.227Z
+updated: 2024-10-04T02:55:48.197Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Take Ownership of the Folder
 
  If granting full control permissions does not work, take ownership of the folder to get more control. Taking ownership means you can manage, access, and delete files within it. Here's how to do it:
@@ -56,10 +63,25 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Yes** and wait for the process to finish.
 5. Once done, click **OK** and close the window.
 
@@ -75,25 +97,18 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, try to open photos on your external hard drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable UAC Temporarily
 
@@ -117,5 +132,19 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-game-on-video-recording-revolution/"><u>[New] Game On Video Recording Revolution</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[Updated] The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cambiar-de-manera-gratuita-archivos-arw-a-linea-sin-coste-con-movavi/"><u>Cambiar De Manera Gratuita Archivos ARW a Línea Sin Coste Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-browsing-and-plugin-versions-of-chatgpt-a-comprehensive-guide/"><u>Choosing Between Browsing and Plugin Versions of ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-uncover-and-clear-windows-usage-tracks/"><u>Efficient Methods to Uncover and Clear Windows Usage Tracks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-xs-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>In 2024, Navigating Zoom with Skype A Guide to Seamless Video Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-iomap64-freezebsod-in-windows-10-and-8-systems/"><u>Overcoming IOMap64 Freeze/BSOD in Windows 10 & 8 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/panels-in-peril-bring-them-back-with-these-hacks/"><u>Panels in Peril? Bring Them Back with These Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-your-5ghz-network-visibility-in-windows-11-top-fixes/"><u>Restore Your 5GHz Network Visibility in Windows 11 - Top Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-windows-tasks-admin-cmd-mode/"><u>Transform Windows Tasks: Admin CMD Mode</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor 90 Lite</u></a></li>
+</ul></div>
 

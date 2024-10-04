@@ -1,7 +1,7 @@
 ---
 title: "Quick Cmd Setups with Windows Shortcuts: A Practical Guide"
-date: 2024-09-22T22:45:38.124Z
-updated: 2024-09-28T19:22:09.921Z
+date: 2024-10-03T04:16:12.414Z
+updated: 2024-10-03T19:09:40.794Z
 tags:
   - windows10
   - windows11
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 3. Then select **Apply** to save your hotkey.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click **OK** to exit the shortcut’s properties window.
@@ -78,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Examples of Handy Commands You Can Create With NirCmd
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Empty the Recycle Bin
 
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 `nircmd.exe win center alltop`
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Log Out of Windows
@@ -152,38 +152,24 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
 `nircmd.exe win settopmost title "Calculator" 1`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Set the Brightness Level
 
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-tour-youtube-creator-suite/"><u>[New] In 2024, A Comprehensive Tour YouTube Creator Suite</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-navigating-obs-livestream-integration-for-maximum-facebook-reach/"><u>[Updated] 2024 Approved Navigating OBS Livestream Integration for Maximum Facebook Reach</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-complete-insight-the-full-picture-of-bublcam-360/"><u>[Updated] In 2024, Complete Insight The Full Picture of Bublcam 360</u></a></li>
-<li><a href="https://win11.techidaily.com/accessible-controls-filter-key-management-in-windows/"><u>Accessible Controls: Filter Key Management in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-voice-typing-hiccup-with-windows-error-code-x80049dd3-solution/"><u>Eliminating the Voice Typing Hiccup with Window's Error Code X80049DD3 Solution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-new-era-of-business-with-vr-integration/"><u>In 2024, A New Era of Business with VR Integration</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12t-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12T Pro Phone FRP Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-warhammer-40k-boltgun-stopping-stutter-issues-on-pc/"><u>Mastery Over Warhammer 40K Boltgun: Stopping Stutter Issues on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-legacy-computer-for-windows-11-via-to-go-and-rufus/"><u>Optimize Your Legacy Computer for Windows 11 via To Go & Rufus</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +178,21 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweaked-sound-from-video-to-mp3aac/"><u>[New] In 2024, Tweaked Sound From Video to MP3/AAC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-quick-guide-how-to-revamp-facebook-profile-imagery/"><u>[Updated] 2024 Approved Quick Guide How to Revamp Facebook Profile Imagery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-standout-thumbnails-start-here-20-top-font-picks/"><u>[Updated] In 2024, Standout Thumbnails Start Here 20 Top Font Picks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-internet-media-our-picks-for-top-browser-recording-tools-for-2024/"><u>[Updated] Mastering Internet Media Our Picks for Top Browser Recording Tools for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/descarga-gratuita-del-grabadora-de-movavi-prueba-en-linea-sin-coste/"><u>Descarga Gratuita Del Grabadora De Movavi - Prueba en Línea Sin Coste</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-hidden-results-from-your-windows-1011-search-tool/"><u>Identifying Hidden Results From Your Windows 10/11 Search Tool</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-buy-list-selecting-the-premier-video-cards-for-youtube/"><u>In 2024, Best Buy List Selecting the Premier Video Cards for YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-solutions-for-create-failed-issue-windows-error-30005/"><u>Mastering Solutions for Create Failed Issue - Windows Error 30005</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-the-start-page-for-windows-task-manager/"><u>Redefining the Start Page for Windows Task Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-for-dodging-enter-credentials-message-in-windows/"><u>Tactics for Dodging 'Enter Credentials' Message in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-oppo-f25-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo F25 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-code-4-spotify-connection-problem-in-w10w11/"><u>Unraveling the Code 4 Spotify Connection Problem in W10/W11</u></a></li>
+</ul></div>
+

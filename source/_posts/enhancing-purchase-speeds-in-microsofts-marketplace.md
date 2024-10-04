@@ -1,7 +1,7 @@
 ---
 title: Enhancing Purchase Speeds in Microsoft's Marketplace
-date: 2024-09-15T01:05:57.717Z
-updated: 2024-09-22T09:25:15.892Z
+date: 2024-09-26T17:54:55.973Z
+updated: 2024-10-03T18:19:36.661Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  If you are getting a slower download speed across all your internet-based apps, check out our guide on[how to boost your internet speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) . If this guide resolves the slow downloading issue, you're good to go. But if you're still facing the problem, contact your internet service provider (ISP).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Close Network-Consuming Applications
 
  To get the best downloading speed on the Microsoft Store, you must close all the network-consuming applications running in the background. You can do that by following the below instructions:
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 1. In the Task Manager, right-click on the Microsoft Store.
 2. Click on the**Efficiency mode** option from the context menu.  
 ![Disabling the Efficiency Mode of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-the-efficiency-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, restart your computer and check if there's any improvement in the downloading speed.
 
@@ -57,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 3. Choose**Wi-Fi** and then select your Wi-Fi connection.
 4. Disable the toggle next to the**Metered connection** option.  
 ![Disable Metered Connection in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/metered-connection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change the Background Download Bandwidth
 
@@ -86,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 3. In the elevated Command Prompt window, type**wsreset** and press**Enter** .  
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Switch to the Google Public DNS
 
  By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
@@ -104,29 +118,16 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ![Change Adapter settings option in Windows 11 Network and Sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Change-Adapter-settings.jpg)
 5. Right-click on the connected network and choose**Properties.**
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -142,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  After that, restart your computer and check if the download speed has increased. If not, then you might have to reset the network settings of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reset the Network Settings
 
  Is there still no improvement in the Microsoft Store download speed? Probably there's something wrong with your current network settings.
@@ -160,6 +154,20 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 3. Click the**Reset now** button.  
 ![Reset now button to reset the network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button.jpg)
 4. Click**Yes** to the confirmation box that appears.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Improve Your Microsoft Store Download Speed
 
@@ -178,5 +186,26 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-the-complete-checklist-for-uploading-videos-on-twitpic/"><u>[New] The Complete Checklist for Uploading Videos on Twitpic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-video-cropping-anomaly-decoding-imovies-actions/"><u>[Updated] 2024 Approved Video Cropping Anomaly Decoding iMovie's Actions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-from-pc-to-smartphone-the-essential-guide-to-hulu-recording/"><u>[Updated] In 2024, From PC to Smartphone The Essential Guide to Hulu Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>[Updated] Unique iPhone Photo Style Adding Dynamic Motion Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029057912-mov/"><u>「MOVファイルが開けないディーヴァンチ・レゾルブでのトラブルシューティング手順」</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos/"><u>A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-curing-slow-gpsvc-on-pcs/"><u>Decoding and Curing Slow GPSVC on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-for-documenting-user-account-control-messages/"><u>Easy Steps for Documenting User Account Control Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-correcting-windows-11-typing-error-code-x80049dd3/"><u>Expert Advice on Correcting Windows 11 Typing Error Code X80049DD3</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-type-faster-with-powertoys-on-windows/"><u>How to Type Faster With PowerToys on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/low-ram-and-cpu-consumption-choosing-the-best-browser-across-operating-systems/"><u>Low RAM & CPU Consumption: Choosing the Best Browser Across Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-modifying-network-address-translation-in-wins-oses/"><u>Navigating and Modifying Network Address Translation in Wins OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-black-screen-issues-in-pc-games-on-winos/"><u>Remedying Black Screen Issues in PC Games on WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-virtual-machines-ram-shortage-on-pcs/"><u>Tackling Virtual Machine's RAM Shortage on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-gear-and-software-updates-toms-tech-edge/"><u>The Ultimate Resource for Gear and Software Updates - Tom's Tech Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-over-win11-blue-screen-with-these-top-11-strategies/"><u>Triumph Over Win11 Blue Screen with These Top 11 Strategies</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-tutorial-reversing-video-clips-made-easy/"><u>Updated 2024 Approved Final Cut Pro Tutorial Reversing Video Clips Made Easy</u></a></li>
+</ul></div>
 

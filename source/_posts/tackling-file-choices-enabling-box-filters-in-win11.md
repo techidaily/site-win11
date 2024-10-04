@@ -1,7 +1,7 @@
 ---
 title: "Tackling File Choices: Enabling Box Filters in Win11"
-date: 2024-09-26T23:34:03.491Z
-updated: 2024-09-28T17:21:08.208Z
+date: 2024-10-01T04:35:35.576Z
+updated: 2024-10-03T20:04:23.493Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
  That's it. You might need to restart your computer to see the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Checkboxes Using the Folder Option
 
  The[Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to[clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
@@ -51,17 +58,23 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Click**Apply** and then**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
@@ -79,20 +92,13 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
 
@@ -113,22 +119,18 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-remove-black-bars-from-youtube-videos/"><u>[New] In 2024, How to Remove Black Bars From YouTube Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-critique-of-vivas-video-capabilities/"><u>[Updated] In 2024, A Critique of Viva's Video Capabilities</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-horizontal-or-vertical-crafting-the-best-fb-video-posts/"><u>2024 Approved Horizontal or Vertical Crafting the Best FB Video Posts</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-perfect-sizing-of-your-pics-with-these-six-windows-11-tactics/"><u>Achieve Perfect Sizing of Your Pics with These Six Windows 11 Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-the-action-center-volume-mixing-in-windows-11/"><u>Activating the Action Center Volume Mixing in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/activatingdeactivating-filter-keys-on-microsoft-os/"><u>Activating/Deactivating Filter Keys on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-runtime-exceptions-your-ultimate-guide-for-windows-users/"><u>Addressing Runtime Exceptions: Your Ultimate Guide for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/amplify-windows-steam-transfers-averting-sudden-halt/"><u>Amplify Windows Steam Transfers: Averting Sudden Halt</u></a></li>
-<li><a href="https://win11.techidaily.com/android-transition-post-subsystem-discontinuation-whats-next/"><u>Android Transition Post-Subsystem Discontinuation: What's Next?</u></a></li>
-<li><a href="https://win11.techidaily.com/awaken-clandestine-windows-11-search-sentinel/"><u>Awaken Clandestine Windows 11 Search Sentinel</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-run-handbrake-in-windows/"><u>Breaking Barriers: Run HandBrake in Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/effective-youtube-banners-pros-and-cons-to-avoid/"><u>Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-z-flip-5-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy Z Flip 5 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/resolving-common-issues-a-step-by-step-guide-to-troubleshoot-4k-video-downloader-problems/"><u>Resolving Common Issues: A Step-by-Step Guide to Troubleshoot 4K Video Downloader Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windowsmac-photo-magic-text-overlay-secrets-revealed/"><u>Windows/Mac Photo Magic Text Overlay Secrets Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-keeping-score-with-your-xbox-one-screenshots-for-2024/"><u>[New] Keeping Score with Your Xbox One Screenshots for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>[New] Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-one-channel-sound-issue-for-windows-bluetooth-device/"><u>Correcting One-Channel Sound Issue for Windows' Bluetooth Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decode-the-buzz-around-googles-imminent-event-key-announcements-ahead/"><u>Decode the Buzz Around Google’s Imminent Event – Key Announcements Ahead</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expanding-your-instagram-video-footprint-practical-tips-for-2024/"><u>Expanding Your Instagram Video Footprint Practical Tips for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-withings-move-a-perfect-marriage-between-analog-and-digital/"><u>Expert Insights on The Withings Move: A Perfect Marriage Between Analog and Digital</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-malfunctioning-windows-keyboard-buttons/"><u>Fix Malfunctioning Windows Keyboard Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-the-task-managers-real-time-update-speed-on-windows-11/"><u>How to Change the Task Manager's Real-Time Update Speed on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cc-adjustments-in-windows-11/"><u>Mastering CC Adjustments in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-application-displacement-on-pc/"><u>Resolving 'Application Displacement on PC'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-issues-with-aol-mail-discover-these-6-effective-strategies/"><u>Resolving iPhone Issues with AOL Mail: Discover These 6 Effective Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-checklist-for-successful-in-stream-fb-ads-for-2024/"><u>The Ultimate Checklist for Successful In-Stream FB Ads for 2024</u></a></li>
 </ul></div>
 

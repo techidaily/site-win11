@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Data Transfer: Mastering File Zip & Unzip Commands"
-date: 2024-09-24T01:12:00.728Z
-updated: 2024-09-28T17:31:42.130Z
+date: 2024-09-27T20:37:17.529Z
+updated: 2024-10-04T07:24:55.092Z
 tags:
   - windows10
   - windows11
@@ -56,19 +56,19 @@ Here's how to zip files using Windows PowerShell:
 `Compress-Archive -LiteralPath 'file destination\file name' -DestinationPath 'target location\destination name'`  
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
 
 `Compress-Archive -LiteralPath 'file destination\file name', 'file destination 1\file name 2 -DestinationPath 'target location\destination name'  
 `
 
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
 <a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
@@ -88,19 +88,20 @@ Here's how to zip files using Windows PowerShell:
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You've successfully unzipped the file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unzip Files Using Windows PowerShell
 
@@ -110,13 +111,6 @@ You've successfully unzipped the file.
 2. Type the following command and press**Enter** . Make sure to replace <**file** **destination** \> and <**target** **location** \> with the location of the zip file and the place where you want the file to be unzipped, respectively.  
 `Expand-Archive -LiteralPath <file destination> -DestinationPath <target location>`  
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
 
@@ -139,22 +133,18 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[New] The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-amplify-your-videos-impact-7-royalty-free-sounds-for-2024/"><u>[Updated] Amplify Your Video's Impact 7 Royalty-Free Sounds for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-focal-point-expose/"><u>[Updated] Focal Point Exposé</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>[Updated] The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-for-optimizing-task-management-in-administrative-mode-on-windows-11/"><u>A Step-by-Step Guide for Optimizing Task Management in Administrative Mode on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-flawless-youtube-viewing-on-chrome-windows/"><u>Achieving Flawless YouTube Viewing on Chrome, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-your-computers-system-recovery-options/"><u>Activating Your Computer's System Recovery Options</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disconnection-hurdles-in-nvidia-for-windows-users/"><u>Addressing Disconnection Hurdles in Nvidia for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/amplify-efficiency-set-windows-terminal-as-default/"><u>Amplify Efficiency: Set Windows Terminal as Default</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-the-pitfalls-of-error-xffffff-in-print-tasks/"><u>Avoiding the Pitfalls of Error XFFFFFF in Print Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-classic-gameplay-seamlessly-adding-achievements-using-retroarch/"><u>Boosting Classic Gameplay - Seamlessly Adding Achievements Using Retroarch</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>In 2024, Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-spark-20-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/turning-off-the-accessibility-option-sticky-keys-in-your-windows-pc/"><u>Turning Off the Accessibility Option 'Sticky Keys' In Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/1719330356134-unlocking-direct-storage-sharing-using-dropbox-googledrive-on-c/"><u>Unlocking Direct Storage Sharing: Using Dropbox, GoogleDrive on C</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-x100-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>[New] In 2024, The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-5-premier-racer-simulators-that-captivate-you/"><u>[Updated] In 2024, 5 Premier Racer Simulators That Captivate You</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-five-game-changing-updates-from-facebook/"><u>[Updated] Top Five Game-Changing Updates From Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-turn-off-chatter-secrets-for-muting-users-on-gomeet/"><u>2024 Approved Turn Off Chatter Secrets for Muting Users on GoMeet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-and-download-top-rated-films-in-hd-as-mp4-mov-or-avi-compatible-with-both-macos-and-windows/"><u>Convert & Download Top-Rated Films in HD as MP4, MOV or AVI - Compatible with Both macOS and Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-audio-issue-in-win11-error-0xc00d36b4/"><u>Correcting Audio Issue in Win11, Error 0xC00D36B4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-audio-game-with-these-methods/"><u>Elevate Your Audio Game with These Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-enhancing-gameplay-with-amd-tweaks/"><u>Mastering the Art of Enhancing Gameplay with AMD Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-direct-image-access-with-windows-11/"><u>Maximizing Direct Image Access with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-slack-notification-functionality/"><u>Restoring Lost Slack Notification Functionality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-subscriber-success-youtubes-best-practices/"><u>Unlocking Subscriber Success YouTube's Best Practices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangle-and-mend-the-code-28-complication-in-windows-device-manager-with-these-pro-tips/"><u>Untangle and Mend the 'Code 28' Complication in Windows Device Manager with These Pro Tips</u></a></li>
 </ul></div>
 

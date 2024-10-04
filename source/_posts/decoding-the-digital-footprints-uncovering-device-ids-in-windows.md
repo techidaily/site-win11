@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Digital Footprints: Uncovering Device ID's in Windows"
-date: 2024-09-23T19:24:52.820Z
-updated: 2024-09-28T23:27:25.861Z
+date: 2024-09-30T03:34:30.208Z
+updated: 2024-10-03T21:44:51.490Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
 Let’s check out the steps you need to follow:
@@ -94,17 +87,17 @@ Let’s check out the steps you need to follow:
 ![Selecting the Hardware ID option in the Command Prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-in-the-command-prompt-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use PowerShell
@@ -120,13 +113,6 @@ Let’s check out the steps you need to follow:
 `Get-PnpDevice -PresentOnly | Sort-Object -Property &ldquo;Class&rdquo; | Format-Table -AutoSize`
 
 ![PowerShell window displaying device information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-window-displaying-device-information.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, look for your target device under the "FriendlyName" category.
 
@@ -155,7 +141,27 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the hardware ID option on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-on-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this case, the hardware ID for the keyboard (which appears in the "Data" category) is**ACPI\\VEN\_IDEA&DEV\_0102** .
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use the Windows Device Console
 
@@ -178,13 +184,6 @@ Once you’re in the correct folder, follow these steps:
 
 ![Typing the CMD command in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-the-cmd-command-in-the-file-explorer-address-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, type the following command into the Command Prompt and press**Enter** :
 
 `devcon hwids *`
@@ -196,6 +195,13 @@ Once you’re in the correct folder, follow these steps:
  For example, we've highlighted the hardware ID for the**Standard PS/2 Keyboard** in the image below.
 
 ![Selecting the hardware ID for the Standard PS2 Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-for-the-standard-ps2-keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
@@ -222,20 +228,17 @@ Once you’re in the correct folder, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>[New] The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-alert-tones-superior-download-sites-list-for-2024/"><u>[New] Top Alert Tones Superior Download Sites List for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-5-easy-steps-to-record-voice-on-your-windows-11-pc/"><u>[Updated] 5 Easy Steps to Record Voice on Your Windows 11 PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-digital-cash-creation-a-closer-look-at-vids-vs-videos/"><u>[Updated] In 2024, Digital Cash Creation A Closer Look at Vids Vs. Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-local-device-name-is-already-in-use-error-on-windows/"><u>5 Ways to Fix the Local Device Name Is Already in Use Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/7-reasons-why-most-users-havent-upgraded-to-windows-11/"><u>7 Reasons Why Most Users Haven’t Upgraded to Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-linux-vms-within-windows-via-hyper-v/"><u>A Step-by-Step Guide to Linux VMs Within Windows via Hyper-V</u></a></li>
-<li><a href="https://win11.techidaily.com/ace-the-art-of-completing-a-perfect-windows-update/"><u>Ace the Art of Completing a Perfect Window's Update</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-gameplay-recording-harnessing-intel-graphics-hub/"><u>Advanced Gameplay Recording: Harnessing Intel Graphics Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/advancing-classic-games-in-hd-best-practices-with-scummvm-and-windows-os/"><u>Advancing Classic Games in HD: Best Practices with ScummVM and Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/affordable-access-securing-low-cost-windows-11-vcs/"><u>Affordable Access: Securing Low-Cost Windows 11 VCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cant-access-chatgpt-on-iphone-here-are-9-effective-fixes/"><u>Can't Access ChatGPT on iPhone? Here Are 9 Effective Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone XS Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-pathway-to-professional-fb-reel-development-for-2024/"><u>The Pathway to Professional FB Reel Development for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-through-non-displaying-thumbnails-on-your-shorts/"><u>[New] Navigating Through Non-Displaying Thumbnails on Your Shorts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-universal-iptv-access-model/"><u>[Updated] In 2024, Universal IPTV Access Model</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-capturing-your-ps4-experience/"><u>[Updated] The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-what-is-emoji/"><u>2024 Approved What Is Emoji?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-lava-blaze-2-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Lava Blaze 2.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/convert-and-download-brooks-trading-course-lectures-in-multiple-formats-mp4-mov-avi/"><u>Convert and Download Brooks Trading Course Lectures in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-essential-microsoft-excel-functions-a-comprehensive-guide/"><u>Discovering Essential Microsoft Excel Functions: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-define-excel-cell-value-constraints-min-and-max-techniques/"><u>Easy Steps to Define Excel Cell Value Constraints: Min and Max Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-removing-extra-spaces-with-excels-trim-function-essential-techniques-for-microsoft-excel-users/"><u>Efficiently Removing Extra Spaces with Excel's TRIM Function - Essential Techniques for Microsoft Excel Users</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-calculation-tricks-utilizing-the-paste-special-tool-for-summation-and-product-operations-in-ms-excel/"><u>Effortless Calculation Tricks: Utilizing the Paste Special Tool for Summation & Product Operations in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-excel-visualizations-adding-personalized-data-labels-easily/"><u>Enhance Your Excel Visualizations: Adding Personalized Data Labels Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultra-quick-vid-saver-seamlessly-score-clips-from-hundreds-of-web-portals-at-once/"><u>Ultra-Quick Vid Saver: Seamlessly Score Clips From Hundreds of Web Portals at Once</u></a></li>
 </ul></div>
 

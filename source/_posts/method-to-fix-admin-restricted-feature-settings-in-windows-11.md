@@ -1,7 +1,7 @@
 ---
 title: Method to Fix Admin-Restricted Feature Settings in Windows 11
-date: 2024-09-26T00:44:48.163Z
-updated: 2024-09-28T22:37:56.846Z
+date: 2024-10-02T08:00:33.159Z
+updated: 2024-10-04T00:10:37.653Z
 tags:
   - windows10
   - windows11
@@ -35,24 +35,31 @@ thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701
 
 Let's now see how to fix this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  The first thing to fix the "some settings are managed by your organization" error is to restart your computer. This will resolve any temporary glitches. If you need help, check out[the different ways to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
  Your computer will then start to reboot and hopefully, your Settings app will now be free from any restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Windows Updates
 
  If restarting your computer doesn't do the trick, make sure you've got the latest Windows updates installed on your computer. Microsoft routinely rolls out updates that could potentially address quite a few problems with its operating system. So, it is advised to search for any pending Windows Updates as another potential solution.
 
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Uninstall the Third-Party Application
 
@@ -74,27 +81,7 @@ Let's now see how to fix this problem.
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Edit the Local Group Policy Editor
 
@@ -112,16 +99,17 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 ![Allow Diagnostic Data Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-diagnostic-data-using-group-policy.jpg)  
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Finally, click**Apply > OK** to save the changes.
 
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
@@ -137,6 +125,14 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 4. Now go to the right side pane and look for the**Wuserver** key.  
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
 5. Then right-click on it and choose**Delete** from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
  Once you have made these changes, close the Registry editor window and restart your computer. Next time you start your PC, the error message will be gone.
@@ -160,16 +156,17 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails/"><u>[New] In 2024, The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comical-connections-top-websites-for-funny-phone-sounds/"><u>2024 Approved Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-productivity-with-essential-windows-11-methods/"><u>Accelerate Productivity with Essential Windows 11 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-3d-paint-process-with-these-tips/"><u>Accelerate Your 3D Paint Process with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-msvcr110dll-disappearance/"><u>Addressing msvcr110.dll Disappearance</u></a></li>
-<li><a href="https://win11.techidaily.com/balancing-power-and-performance-in-windows-systems/"><u>Balancing Power and Performance in Windows Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/behind-the-scenes-of-eco-friendly-visual-tricks-in-media-for-2024/"><u>Behind the Scenes of Eco-Friendly Visual Tricks in Media for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/best-vmms-aligned-with-windows-11-system-requirements/"><u>Best VMMs Aligned with Windows 11 System Requirements</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-gaming-options-asus-steam-deck-vs-rog-ally/"><u>Exploring Gaming Options: ASUS Steam Deck Vs. ROG Ally</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-winxdvd-tutorial-mastering-dvd-conversion-with-ease/"><u>Ultimate WinXDVD Tutorial: Mastering DVD Conversion with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ace-your-videos-essential-editors-for-youtube/"><u>[New] 2024 Approved Ace Your Videos Essential Editors for YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-venues-expanding-youtube-visibility/"><u>[Updated] Foremost Venues Expanding YouTube Visibility</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-imagedivide-review-summary/"><u>[Updated] ImageDivide Review Summary</u></a></li>
+<li><a href="https://techtrends.techidaily.com/express-with-keys-how-to-type-a-heart-shape-easily-and-effectively/"><u>Express with Keys: How to Type a Heart Shape Easily and Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-unprompted-gaming-suggestions-on-windows-11/"><u>Halt Unprompted Gaming Suggestions on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-new-window-11-the-best-modifications-for-an-optimized-experience/"><u>Master Your New Window 11: The Best Modifications for an Optimized Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-desk-view-including-this-pc-on-the-screen/"><u>Personalize Desk View: Including 'This PC' On the Screen</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resolve-constant-itunes-password-prompts-on-your-iphone-with-this-simple-guide/"><u>Resolve Constant ITunes Password Prompts on Your iPhone with This Simple Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-sound-system-upgrade-with-atmos-on-win-1011/"><u>Streamlined Sound System Upgrade with Atmos on Win 10/11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-c67-4g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme C67 4G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-selecthighlight-capabilities-in-windows-pdf-viewer/"><u>Unblock Select/Highlight Capabilities in Windows' PDF Viewer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-silencing-the-sharp-methods-for-banishing-excessive-hiss-in-music-production/"><u>Updated Silencing the Sharp Methods for Banishing Excessive Hiss in Music Production</u></a></li>
 </ul></div>
 
