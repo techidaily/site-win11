@@ -1,7 +1,7 @@
 ---
 title: Personalize Windows 11 Status Bar with a Weather Icon
-date: 2024-10-01T02:52:36.643Z
-updated: 2024-10-03T22:30:00.066Z
+date: 2024-10-06T21:13:40.031Z
+updated: 2024-10-09T10:39:08.666Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Weather Icon to the System Tray With Weather Bar
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
@@ -84,17 +84,17 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
@@ -103,25 +103,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  Would you prefer to have current and forecast weather details directly accessible from the system tray instead? If so, this is how you can add a weather icon to Windows 11’s system tray for quick access to forecasts with two third-party apps.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-slice-and-capture-best-cam-reevaluation/"><u>[Updated] Slice and Capture Best Cam Reevaluation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-syncsound-pro-downloads-and-analysis/"><u>2024 Approved SyncSound Pro Downloads & Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficient-aspects-transformation-system/"><u>Efficient Aspects Transformation System</u></a></li>
-<li><a href="https://win11.techidaily.com/ensure-proper-functionality-of-windows-11/"><u>Ensure Proper Functionality of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-recover-hidden-windows-nvidia-settings/"><u>How to Recover Hidden Windows Nvidia Settings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-find-the-top-10-affordable-online-image-format-switchers/"><u>In 2024, Find the Top 10 Affordable Online Image Format Switchers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-fixing-virtualboxs-windows-efail-error-0x80004005/"><u>Methods for Fixing Virtualbox's Windows E_FAIL Error (0X80004005)</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-responsive-behavior-in-ccleaner-installation-win1011/"><u>Overcoming Non-Responsive Behavior in CCleaner Installation (Win10/11)</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-media-creator-problem-0x8007043c-0x90017/"><u>Rectifying Media Creator Problem: 0X8007043C, 0X90017</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-windows-11-a-look-at-updates-xx-series-changes/"><u>Reimagining Windows 11: A Look at Updates X.x Series Changes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sleepy-screenplays-for-nights-end-for-2024/"><u>Sleepy Screenplays for Night's End for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-fbx-capture-tools-beyond-traditional-recorders/"><u>Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-pristine-prime-viewing-navigating-textual-challenges-on-windows-11/"><u>Unlock Pristine Prime Viewing: Navigating Textual Challenges on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-13t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi 13T Phone Network-Ready</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +110,22 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-jokes-that-rule-top-twenty-on-social-networks/"><u>[New] 2024 Approved Jokes that Rule Top Twenty on Social Networks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlock-your-phone-camera-free-and-easy/"><u>[New] 2024 Approved Unlock Your Phone Camera, Free & Easy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[Updated] In 2024, The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-functional-cortana-on-windows-11/"><u>Addressing Non-Functional Cortana on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-fatal-error-code-0x8007007e/"><u>Addressing Windows Fatal Error: Code 0X8007007E</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-a-secure-hardware-removal-window-tip/"><u>Designing a Secure Hardware Removal Window Tip</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-perspectives-how-10-worldwide-technology-innovators-view-ai/"><u>Expert Perspectives: How 10 Worldwide Technology Innovators View AI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-outdated-oss-to-the-latest-windows-11-unlocked-for-2024/"><u>From Outdated OSs to the Latest Windows 11 Unlocked for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-21-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to 21 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-interrupt-error-in-windows-11-screensaver/"><u>Swift Solution to INTERRUPT ERROR in Windows 11 Screensaver</u></a></li>
+<li><a href="https://location-fake.techidaily.com/troubleshooting-the-dark-display-error-on-magic-the-gathering-digital-edition/"><u>Troubleshooting the Dark Display Error on Magic: The Gathering Digital Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-zoom-features-on-windows-11-pcs-for-2024/"><u>Unlocking Zoom Features on Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/wired-for-security-swiftly-repairing-windows-features/"><u>Wired for Security: Swiftly Repairing Windows Features</u></a></li>
+</ul></div>
+

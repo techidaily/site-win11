@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide for Effortless Installation of MSixbundle & Appx Packages
-date: 2024-09-28T21:03:41.549Z
-updated: 2024-10-03T18:43:33.876Z
+date: 2024-10-04T04:15:35.343Z
+updated: 2024-10-09T13:01:11.461Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,19 @@ To download appx, appxbundle or msixbundle using Adguard:
 7. Make sure to check the architecture compatibility (**x64, x86, Arm**) for the files depending on your system architecture.
 8. Next, click on the msixbudle link to download. Microsoft Edge may sometimes block the download as not secure. You can use alternative browsers like Google Chrome and Firefox to compelete the download.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Generate Microsoft Store Apps Direct Download Links Using Fiddler
 
  Fiddler Classic is a network tracking and monitoring tool to log HTTP(s) traffic from web browsers and installed apps. You can use this app to track Microsoft Store network when downloading an app to your computer. Then use the URL as a direct download link to download appx, msixbundle, and appxbundle files using any web browser.
@@ -58,15 +71,16 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![Fiddler_WinConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler_winconfig.jpg)
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
 4. Click on**Save Changes.**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
 ![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
 
@@ -76,52 +90,33 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![fiddler find session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-find-session.jpg)
 4. If no entries are highlighted, open**Find (Ctrl+F)** and type**msixbundle, appx** or**appxbundle** in the**Find** field, and click on**Find Sessions** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Fiddler copy just url](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-copy-just-url.jpg)
 5. Right-click on any entry highlighted in yellow and select**Copy > Just URL.**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open**Google Chrome** or**Firefox** and paste the copied URL in the address bar. Press**Enter** and click**Save** to download the file. On Microsoft Edge, you may face a connection is not secure error. If so, switch to a different browser to complete the download.
 
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install Appx, Appxbundle and Msixbundle Apps
 
  In an ideal situation, you can double-click on the app file package to install it on your Windows computer. However, if that does not work, you can sideload the apps using PowerShell and the official App Installer. Here are the three ways to install the appxbundle and msixbundle file packages on Windows 10 and 11.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
@@ -170,6 +165,13 @@ To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
@@ -193,18 +195,24 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/orlds-premier-content-creators-ranked-by-subscriber-count-for-2024/"><u>[New] World's Premier Content Creators Ranked By Subscriber Count for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-activatingdeactivating-picture-in-picture-youtube-viewing-on-iphone/"><u>[Updated] Activating/Deactivating Picture In Picture YouTube Viewing on iPhone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-photoshop-for-beginners-essential-snapseed-techniques/"><u>[Updated] In 2024, Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-your-most-watched-fb-movies/"><u>2024 Approved Unlocking Your Most-Watched Fb Movies</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-window-11s-search-to-new-heights/"><u>Elevate Your Window 11'S Search to New Heights</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-seamless-operation-of-windows-gesture-functionality/"><u>Ensuring Seamless Operation of Windows Gesture Functionality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/full-featured-insight-mac-meets-screenflow-v4-for-2024/"><u>Full-Featured Insight Mac Meets ScreenFlow V4 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-optimize-your-multitasking-with-androids-picture-in-picture-mode/"><u>How to Optimize Your Multitasking with Android's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/supreme-audiovisual-hints-pack/"><u>Supreme Audiovisual Hints Pack</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-essentials-of-the-lenovo-ideapad-an-analysis-of-durable-design-and-straightforward-functionality/"><u>The Essentials of the Lenovo Ideapad: An Analysis of Durable Design & Straightforward Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/trailblazing-to-system32-on-windows-11-os/"><u>Trailblazing to System32 on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-window-images-with-high-quality-standards/"><u>Unleashing Window Images with High-Quality Standards</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-win-os-anomalies-a-guide-to-debugging-errors-via-the-power-of-command-prompt/"><u>Unraveling Win-OS Anomalies: A Guide to Debugging Errors via the Power of Command Prompt</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-misting-mistake-gopro-clarity-tips/"><u>[New] Misting Mistake? GoPro Clarity Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-space-saver-protocols-premium-storage-reviewed/"><u>[New] Space Saver Protocols Premium Storage Reviewed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-visual-impact-in-tiktoks-mastering-the-art-of-digit-alteration/"><u>[New] Visual Impact in TikToks Mastering the Art of Digit Alteration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diy-templates-for-affordable-youtube-intros/"><u>[Updated] In 2024, DIY Templates for Affordable YouTube Intros</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-performance-mobile-and-desktop-strategies-for-2024/"><u>[Updated] Instagram Video Performance Mobile & Desktop Strategies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-innovation-new-pcs-best-tools-from-msistore/"><u>Accelerated Innovation: New PC's Best Tools From MSIStore</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-to-counteract-accelerated-mice/"><u>Adjusting Windows to Counteract Accelerated Mice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-monoprice-graphics-tablet-analysis-unbeatable-quality-meets-low-cost/"><u>Affordable Monoprice Graphics Tablet Analysis: Unbeatable Quality Meets Low Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-distractions-mastering-wins-on-windows-11/"><u>Avoiding Distractions: Mastering Wins on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-pc-performance-with-vm-cache-clear/"><u>Boost PC Performance with VM Cache Clear</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-file-management-altering-timestamps-in-windows/"><u>Cutting-Edge File Management: Altering Timestamps in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-experience-new-pcs-ultimate-tools/"><u>Elevate Your Experience: New PC's Ultimate Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-persistent-boot-related-windows-audio-failures/"><u>Eliminate Persistent Boot-Related Windows Audio Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-visual-experience-with-window-resolutions/"><u>Enhancing Your Visual Experience with Window Resolutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-a-glimpse-of-tomorrow-with-samsungs-redesigned-odyssey-and-view-monitors-empowered-by-artifice-intelligence-for-optimal-performance/"><u>Get a Glimpse of Tomorrow with Samsung's Redesigned Odyssey and View Monitors - Empowered by Artifice Intelligence for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-expert-solutions-for-a-broken-mic-problem/"><u>HyperX Cloud Alpha S: Expert Solutions for a Broken Mic Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-pixel-processor-windowsmac/"><u>In 2024, Flawless Pixel Processor (Windows/Mac)</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-system-top-tips-for-black-screen-on-win11/"><u>Jumpstart Your System: Top Tips for Black Screen on Win11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rapid-email-service-restoration-exchanging-experience/"><u>Rapid Email Service Restoration: Exchanging Experience</u></a></li>
 </ul></div>
 

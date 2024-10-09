@@ -1,7 +1,7 @@
 ---
 title: "Command Your Computer: Manage Updates and Downtime in Windows 11"
-date: 2024-10-01T01:03:32.168Z
-updated: 2024-10-04T03:49:08.514Z
+date: 2024-10-05T00:02:25.586Z
+updated: 2024-10-08T18:32:06.777Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![Set Active Hours Manually via the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Set Active Hours Manually Using the Group Policy Editor
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![Set Active Hours Manually via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Set Active Hours Manually With the Registry Editor
@@ -84,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![Set Active Hours Manually via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-registry-editor.jpg)
 8. Double-click the **ActiveHoursEnd** entry to set the end time of your active hours in the 24-hour format. For instance, if you want to set the end time to **5:00 PM**, type **17** in the Value data field and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Exit the Registry Editor window.  
 ![Set Active Hours Manually via the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-registry-editor.jpg)
 
@@ -106,10 +99,23 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![Set Active Hours Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-automatically-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting Active Hours on Windows Is Easy
@@ -118,27 +124,6 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-cinematic-narratives-mastering-screenplays/"><u>[New] Cinematic Narratives Mastering Screenplays</u></a></li>
-<li><a href="https://solve-info.techidaily.com/boost-efficiency-through-customized-artificial-intelligence-frameworks/"><u>Boost Efficiency Through Customized Artificial Intelligence Frameworks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/vering-artistic-expression-top-film-tips-on-youtube/"><u>Discovering Artistic Expression Top Film Tips on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-dev-workflows-with-chatgpt-and-vs-code/"><u>Elevating Dev Workflows with ChatGPT & VS Code</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-windows-n-versions-usage-insights/"><u>Exploring Windows N Versions: Usage Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your ZTE Axon 40 Lite to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-discord-auto-launch-and-update-checks-on-windows-10/"><u>Halt Discord Auto-Launch & Update Checks on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/how-does-windows-11-secure-your-digital-assets/"><u>How Does Windows 11 Secure Your Digital Assets?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-defy-2-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Defy 2 Phone that is Locked?</u></a></li>
-<li><a href="https://win11.techidaily.com/linux-pure-drop-wsl/"><u>Linux Pure - Drop WSL</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-pagefilesys-usage-and-importance-in-winos/"><u>Navigating Through Pagefile.sys Usage & Importance in WinOS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-video-invitation-design-made-easy-top-apps-for-iphone-and-android-for-2024/"><u>New Video Invitation Design Made Easy Top Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-syncs-restored-overcome-google-drive-pc-challenges/"><u>Seamless Syncs Restored: Overcome Google Drive PC Challenges</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-data-management-in-windows-with-date-mods/"><u>Streamlining Data Management in Windows with Date Mods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-differences-between-auto-gpt-and-its-cousin-chatgpt/"><u>The Differences Between Auto-GPT and Its Cousin, ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/the-mechanism-behind-windows-reserve-memory-system/"><u>The Mechanism Behind Windows' Reserve Memory System</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-storytelling-expert-approved-1080p-video-editing-solutions/"><u>Updated In 2024, Elevate Your Storytelling Expert-Approved 1080P Video Editing Solutions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +131,24 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[New] 2024 Approved Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-9-free-online-tools-to-craft-your-logo-for-2024/"><u>[New] Discover the Top 9 Free Online Tools to Craft Your Logo for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-a-comprehensive-look-at-vr-video-recording-systems/"><u>[New] In 2024, A Comprehensive Look at VR Video Recording Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-remove-distractions-in-webcam-captures-for-2024/"><u>[New] Remove Distractions in Webcam Captures for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-boosting-your-yt-subs-a-complete-strategy-guide/"><u>[Updated] Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-navigating-social-media-success-best-and-secret-emojis-in-tiktok-world/"><u>2024 Approved Navigating Social Media Success Best & Secret Emojis in TikTok World</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-overheating-prevention-on-windows-pcs/"><u>Adjusting Overheating Prevention on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-windows-memory-management-via-pagefilesys-files/"><u>Clarifying Windows' Memory Management via Pagefile.sys Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-and-downloading-personalized-insta-ringtones/"><u>Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-stranded-status-from-xbox-console-experience-on-pc/"><u>Eradicate ‘Stranded’ Status From Xbox Console Experience on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11s-random-shutdown-phenomenon/"><u>Fix Windows 11'S Random Shutdown Phenomenon</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-motion-blur-in-ps-a-step-by-step-guide/"><u>In 2024, Mastering Motion Blur in PS A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-delete-onedrive-icon-in-windows-explore/"><u>Step-by-Step to Delete OneDrive Icon in Windows Explore</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-inverted-text-input-windows-wise/"><u>Strategies for Fixing Inverted Text Input Windows-Wise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-condensation-editing-youtube-video-durations-for-2024/"><u>The Art of Condensation Editing YouTube Video Durations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-tutorial-to-edit-windows-files-metadata-dates/"><u>The Complete Tutorial to Edit Windows Files' Metadata Dates</u></a></li>
+</ul></div>
+

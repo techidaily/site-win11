@@ -1,7 +1,7 @@
 ---
 title: Supercharge Typing with PowerToys on Windows
-date: 2024-09-20T05:23:37.647Z
-updated: 2024-09-22T08:50:06.463Z
+date: 2024-10-07T05:58:13.482Z
+updated: 2024-10-09T14:00:12.733Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
  The Keyboard Manager lets you remap keys and shortcuts on your keyboard with the keys you are most comfortable typing with.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Remap Keys to Type Faster
 
 To remap your keys with Keyboard Manager:
@@ -63,6 +70,13 @@ To remap your keys with Keyboard Manager:
 
  This way, you could remap many alphabet and number keys, and even function keys to speed up your work. Think of all the milliseconds and seconds you will save whenever you type.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Remap Shortcuts to Type Faster
 
  Below the**Remap a key** option you'll find the**Remap a shortcut** option. Click on it to open**Remap shortcuts** window. You can remap common shortcuts to other shortcuts you prefer to use.
@@ -73,16 +87,16 @@ To remap your keys with Keyboard Manager:
 
 ![Shift + Z Physical Shortcut Mapped to Ctrl + B Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-shortcuts-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, click on the blue**OK** button and click**Continue Anyway** on the prompt.
 
  Now you can bold text with your preferred shortcut and type faster on your favorite app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Type Accents in a Snap With Quick Accent
 
@@ -103,20 +117,13 @@ To remap your keys with Keyboard Manager:
 ![Toolbar of Accented Characters for the U Key on Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/munich-umlaut-quick-accent-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Move across the toolbar with the**spacebar** or the**left or right arrow keys** to highlight the**ü** accented character. Then release the**u** key on your keyboard—and**ü** will get typed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Keep Shortcuts Handy With the Shortcut Guide
 
@@ -125,6 +132,13 @@ To remap your keys with Keyboard Manager:
  First,**Enable Shortcut Guide** in PowerToys Settings. Then choose to activate Shortcut Guide by**holding the Win key down for a set time** or use a**customized shortcut** .
 
 ![Shortcut Guide Settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-guide-settings-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While typing, activate the Shortcut Guide. An overlay will appear on your screen displaying keyboard shortcuts that use the Win key. You'll also see the result of each shortcut written in the guide.
 
@@ -155,5 +169,18 @@ To remap your keys with Keyboard Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/1715860392241-new-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[New] Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[New] The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-essentials-of-efficiently-managing-your-digital-gathering-times-google/"><u>[Updated] In 2024, The Essentials of Efficiently Managing Your Digital Gathering Times (Google)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-bring-back-faded-watch-icon-artwork/"><u>2024 Approved Bring Back Faded Watch Icon Artwork</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-overcoming-the-notorious-black-screen-issue/"><u>Cyberpunk 2077: Overcoming the Notorious 'Black Screen' Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-a-disconnected-printer-on-windows-systems/"><u>Fixing a Disconnected Printer on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/gaming-without-sweating-steps-to-keep-laptop-temperatures-low/"><u>Gaming without Sweating: Steps to Keep Laptop Temperatures Low</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-discords-fatal-javascript-issue-on-windows-11-and-11-elite/"><u>How to Correct Discord's Fatal Javascript Issue on Windows 11 & 11 Elite</u></a></li>
+<li><a href="https://win11.techidaily.com/making-outdated-pcs-senior-safe-and-comfortable/"><u>Making Outdated PCs Senior-Safe and Comfortable</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-adobe-after-effects-freezing-problems-in-windows-11-and-10-environments/"><u>Solving Adobe After Effects Freezing Problems in Windows 11 & 10 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-restart-and-rejuvenate-freezing-spotify-in-windows-11/"><u>Techniques to Restart and Rejuvenate Freezing Spotify in Windows 11</u></a></li>
+</ul></div>
 

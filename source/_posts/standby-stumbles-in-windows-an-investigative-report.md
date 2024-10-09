@@ -1,7 +1,7 @@
 ---
 title: "Standby Stumbles in Windows: An Investigative Report"
-date: 2024-09-29T00:47:59.142Z
-updated: 2024-10-03T17:19:12.719Z
+date: 2024-10-02T16:11:30.402Z
+updated: 2024-10-08T17:43:25.001Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
  This differs from classic standby, which would take the state of your PC (what you were doing when you put it to sleep) and hold that in memory. Then, when you turn it back on, your PC can fetch it from storage to resume exactly what you were doing. The key difference is that, on the old standby, also known as S3 standby, only a small amount of power was put into the memory on your PC, so it could store information, whereas modern standby provides more power directly to the CPU.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Problem With Windows Modern Standby?
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 ![Windows 11 menu with various options for sleep modes and power consumption options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-system-power-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve ever left your laptop or tablet in sleep mode in your bag, then found it was horribly hot and completely dead when you tried to use it later, then you’ve experienced Windows Modern Standby. While the feature does try to bring Windows devices more in line with Smartphones, it has also led to various laptops and tablets completely draining when they’re not being used.
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
  There’s also the lifespan of your devices' batteries to consider. If your laptop or tablet is sitting on your coffee table constantly running powerful CPU processes, then you’re likely to find that the battery dies much sooner than you were expecting, and they can be expensive or difficult to replace or repair.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Windows Modern Standby
@@ -73,36 +73,15 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
  Bear in mind if you disable this feature, you might find that your laptop takes longer to wake up from sleep mode, and it also won't download any updates for you while you're not using it. If you’re not experiencing a power drain, as mentioned above, then you should leave the feature enabled. On Desktop PCs or laptops/tablets that don’t have a powerful CPU, Windows Modern Standby is a convenience that is worth having.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Modern Standby, in a Nutshell
 
  You should now have a decent understanding of what Windows Modern Standby is, why it's a problem, and how to deal with it. You should now find that you're actually able to use your device after a long journey, assuming that you've done everything you can to keep your battery healthy and alive anyway.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-steps-to-secure-clear-image-collections/"><u>[Updated] Steps to Secure, Clear Image Collections</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-blueprint-of-an-engaging-podcast-blurb/"><u>[Updated] The Blueprint of an Engaging Podcast Blurb</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-macs-premier-video-to-mp4-converters-guide/"><u>2024 Approved Mac's Premier Video to MP4 Converters Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-for-superior-traffic-analysis-and-conversion-tracking/"><u>Cookiebot Integration for Superior Traffic Analysis and Conversion Tracking</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-your-pc-cant-project-to-another-screen-error-on-windows/"><u>How to Fix the “Your PC Can’t Project to Another Screen” Error on Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-serious-sam-4-from-freezing-or-hiccupping-on-your-computer-top-tips/"><u>How to Stop Serious Sam 4 From Freezing or Hiccupping on Your Computer – Top Tips!</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-email-reachability-pin-gmail-to-taskbar-quickly/"><u>Immediate Email Reachability: Pin Gmail to Taskbar Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-quick-key-tricks-for-efficiency/"><u>Mastering Windows: Quick Key Tricks for Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-fall-guys-network-troubles-in-the-windows-landscape/"><u>Navigating Fall Guys Network Troubles in the Windows Landscape</u></a></li>
-<li><a href="https://win11.techidaily.com/reveal-plain-edges-in-windows-11/"><u>Reveal Plain Edges in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharging-older-directx-apps-via-dxvk-integration/"><u>Supercharging Older DirectX Apps via DXVK Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-overcome-black-windows-with-easy-fixes/"><u>Swiftly Overcome Black Windows with Easy Fixes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-economics-behind-youtubes-shorts-fund-for-2024/"><u>Understanding the Economics Behind YouTube's Shorts Fund for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-diskspace-mysteries-with-the-windows-diskusage-command-tool/"><u>Unveiling DiskSpace Mysteries with the Windows DiskUsage Command Tool</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ocial-blade-for-youtube-analytics-stats-and-how-to-use-them/"><u>Use Social Blade for YouTube Analytics - Stats & How to Use Them</u></a></li>
-<li><a href="https://driver-download.techidaily.com/whats-new-in-your-logitech-extreme-3d-check-our-latest-update/"><u>What’s New in Your Logitech Extreme 3D? Check Our Latest Update!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-samsung-galaxy-a75g-makes-a-perfect-alternative-to-expensive-flagship-phones-reviewed/"><u>Why the Samsung Galaxy A7^5G Makes a Perfect Alternative to Expensive Flagship Phones – Reviewed</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +90,24 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-disabling-apex-legends-cross-play-best-platform-tactics-unveiled/"><u>2024 Approved Disabling Apex Legends Cross-Play Best Platform Tactics Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/construct-a-stunning-slide-show-with-windows-11s-free-methods/"><u>Construct a Stunning Slide Show with Windows 11'S FREE Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/effortless-metaverse-creation-a-comprehensive-avatar-guide/"><u>Effortless Metaverse Creation A Comprehensive Avatar Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-cross-language-interactions-with-keyboard-shortcuts-on-windows-11/"><u>Enhance Cross-Language Interactions with Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hd-image-sanctuary-healing-digital-artifacts/"><u>HD Image Sanctuary: Healing Digital Artifacts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-convert-youtube-to-mp4-safely-in-2024/"><u>How to Convert YouTube to MP4 Safely, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-lighten-load-time-for-epic-games-on-windows/"><u>How to Lighten Load Time for Epic Games on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-y27-4g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Y27 4G.</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-up-advanced-security-features-ms-defender-aguard-for-windows-11-edge/"><u>How to Set Up Advanced Security Features: MS Defender Aguard for Windows 11 Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-hyper-v-error-0x8009030e/"><u>Overcoming Windows Hyper-V Error 0X8009030E</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-5-lite-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 5 Lite</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-normalcy-after-windows-video-failures/"><u>Restoring Normalcy After Windows Video Failures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y200-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y200</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-mfc71udll-absence-in-windows-os/"><u>Solving Mfc71u.dll Absence in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-steams-privilege-problems-a-definitive-fix-for-missing-files-and-enhanced-access/"><u>Tackling Steam's Privilege Problems: A Definitive Fix for Missing Files and Enhanced Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-backstage-tickets-to-pre-starfield-revelations/"><u>The Backstage Tickets to Pre-Starfield Revelations</u></a></li>
+</ul></div>
+

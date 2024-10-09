@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Pause Your PC's Update Cycle
-date: 2024-09-29T17:16:36.691Z
-updated: 2024-10-03T21:04:24.250Z
+date: 2024-10-06T03:12:58.153Z
+updated: 2024-10-09T10:44:10.908Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
  Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 9. Return to the folder where you extracted the files and open the**admx** folder again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Open the**en-US** folder and copy all the**adml files** within.
@@ -89,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 5. Select the**Disabled** option.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Hit**Apply** followed by**OK** .
@@ -103,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
@@ -123,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 4. Use the left pane to navigate to **Computer > HKEY\_LOCAL\_MACHINE > SOFTWARE > Policies > Microsoft** .  
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
@@ -163,20 +163,19 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nderstanding-youtube-shorts-earnings-for-maker-income/"><u>[New] Understanding YouTube Shorts Earnings for Maker Income</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expand-your-viewership-horizon-on-youtube/"><u>[Updated] In 2024, Expand Your Viewership Horizon on Youtube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[Updated] The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-shift-from-standard-definition-to-dynamic-range-brilliance/"><u>2024 Approved The Ultimate Shift From Standard Definition to Dynamic Range Brilliance</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-keep-sticky-notes-always-on-top-on-windows-11-and-11/"><u>How to Keep Sticky Notes Always on Top on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-errors-with-winservicesexe/"><u>How to Resolve Errors with Winservices.exe</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-telnet-into-win-1011-systems-tutorial/"><u>Integrating Telnet Into Win 10/11 Systems (Tutorial)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/is-virtual-reality-experience-possible-with-single-eyed-users/"><u>Is Virtual Reality Experience Possible with Single-Eyed Users?</u></a></li>
-<li><a href="https://win11.techidaily.com/master-profile-management-name-alteration-in-w11/"><u>Master Profile Management: Name Alteration in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-mechanics-scheduling-activities-to-avoid-unwanted-windows-11-updates/"><u>Mastering the Mechanics: Scheduling Activities to Avoid Unwanted Windows 11 Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-chrome-profiles-issues-in-windows-os/"><u>Streamlining Chrome Profiles Issues in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-prevent-date-modifications-on-windows/"><u>Techniques to Prevent Date Modifications on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hide-and-seek-spaces-for-game-captures/"><u>The Hide-and-Seek Spaces for Game Captures</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-secret-to-viral-lip-sync-videos-5-must-try-apps/"><u>The Secret to Viral Lip Sync Videos 5 Must-Try Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ultimate-car-charge-saver-lightweight-2024/"><u>Ultimate Car Charge Saver, Lightweight 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-deciphering-authenticity-in-your-facebook-brand-community/"><u>[New] 2024 Approved Deciphering Authenticity in Your Facebook Brand Community</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-secret-to-reversed-video-magic-in-snapchat/"><u>[New] 2024 Approved The Secret to Reversed Video Magic in Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-best-online-houses-purchasing-unique-tailored-boxed-gifts/"><u>[New] In 2024, Best Online Houses Purchasing Unique, Tailored Boxed Gifts</u></a></li>
+<li><a href="https://win11.techidaily.com/decorate-your-screen-space-saving-spotlight-images-as-walls/"><u>Decorate Your Screen Space: Saving Spotlight Images as Walls</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fanfare-gaming-patch/"><u>Fanfare Gaming Patch</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-success-elevating-winning-frames/"><u>Fast-Track to Success: Elevating Winning Frames</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-tactical-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy S23 Tactical Edition Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-start-and-sustain-an-indie-podcast-hit/"><u>How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-a-disabled-app-in-windows/"><u>How to Unblock a Disabled App in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-s23plus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-13-data-safety-securely-backing-up-your-phone-without-using-itunes-on-pc-or-mac/"><u>IPhone 13 Data Safety: Securely Backing Up Your Phone without Using iTunes on PC or Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-utorrent-download-halt-on-windows-os/"><u>Overcoming uTorrent Download Halt on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-the-antique-ribbon-interface-of-explorer/"><u>Restoring the Antique Ribbon Interface of Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-blues-troubleshooting-rare-system-crashes/"><u>Windows Blues: Troubleshooting Rare System Crashes</u></a></li>
 </ul></div>
 

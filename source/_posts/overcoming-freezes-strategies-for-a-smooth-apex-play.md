@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Freezes: Strategies for a Smooth Apex Play"
-date: 2024-09-28T02:50:56.912Z
-updated: 2024-10-03T16:19:10.157Z
+date: 2024-10-01T18:54:25.144Z
+updated: 2024-10-09T03:33:59.156Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Close Unnecessary Background Running Applications
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
@@ -65,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the EasyAntiCheat Priority
@@ -85,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
 ![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, switch to Apex Legends and check if you still experience the crash.
 
 ## 4\. Tweak the In-Game Settings
@@ -99,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
@@ -153,10 +133,10 @@ Here's how to do it in the EA app:
 5. Select**Search automatically for drivers** option.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Device Manager will search for and download any available graphics driver update on your computer.
@@ -175,7 +155,21 @@ Here's how to do it in the EA app:
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Apex Legends Crashing Issue, Fixed
 
@@ -196,17 +190,20 @@ Here's how to do it in the EA app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-guide-to-recording-tv-screens-with-ease-and-precision/"><u>[New] 2024 Approved Guide to Recording TV Screens with Ease and Precision</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-sliceshot-synopsis/"><u>[New] In 2024, SliceShot Synopsis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-amd-classic-bundle/"><u>[Updated] In 2024, AMD Classic Bundle</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-key-sites-for-enhancing-youtube-video-popularity/"><u>[Updated] Key Sites for Enhancing YouTube Video Popularity</u></a></li>
-<li><a href="https://win11.techidaily.com/defeating-read-only-mode-on-your-windows-folders/"><u>Defeating Read-Only Mode on Your Windows Folders</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevating-social-media-stardom-with-dji-drones-livestreams-for-2024/"><u>Elevating Social Media Stardom with DJI Drones' Livestreams for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-6s-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 6s Activity | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovating-windows-right-click-functionality-for-software-alerts/"><u>Innovating Windows' Right-Click Functionality for Software Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-error-0x800700e1-a-step-by-step-guide-for-windows-11/"><u>Overcoming Error 0X800700E1: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/superior-gaming-bounties-kids-favorite-consoles-and-accessories-unveiled/"><u>Superior Gaming Bounties: Kids' Favorite Consoles & Accessories Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unreliable-clipboard-functionality-win-11/"><u>Tackling Unreliable Clipboard Functionality Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-backup-possibilities-how-to-use-system-restore-on-windows-11/"><u>Unlocking Backup Possibilities: How to Use System Restore on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-end-live-recording-mode-immediately-in-qt-app/"><u>[New] End Live Recording Mode Immediately in QT App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-visual-captures-on-apple-systems-limit-156-characters/"><u>[New] In 2024, Essential Visual Captures on Apple Systems (Limit 156 Characters)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-success-starts-on-screen-10-must-see-films/"><u>[Updated] The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-best-budget-asmr-mic-stellar-sound-value/"><u>2024 Approved Best Budget ASMR Mic Stellar Sound Value</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-your-system-taming-cpu-hits-using-windows-monitor/"><u>Easing Your System: Taming CPU Hits Using Window's Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/hidden-window-hacks-restore-off-screen-on-windows-1011/"><u>Hidden Window Hacks: Restore Off-Screen on Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-wirelessly-update-your-dualsense-controller/"><u>How to Wirelessly Update Your DualSense Controller</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-12-mini-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 12 mini online without jailbreak</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-mastery-sculpting-close-up-cinematic-brilliance/"><u>In 2024, Kinemaster Mastery Sculpting Close-Up Cinematic Brilliance</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-painting-programs-beyond-the-procreate-window-experience/"><u>Leading Painting Programs Beyond the Procreate Window Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-storage-space-a-window-into-w10-and-w11-disks/"><u>Mastering Your Storage Space: A Window Into W10 & W11 Disks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quickest-way-transform-ifo-files-into-mp4-in-under-three-clicks/"><u>Quickest Way: Transform IFO Files Into MP4 in Under Three Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-installation-restrictions-in-windows-11/"><u>Resolving Installation Restrictions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-your-login-with-these-11-ultimate-tricks-to-open-windows-credentials/"><u>Speed Up Your Login with These 11 Ultimate Tricks to Open Windows Credentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-hugging-face-insights-and-applications/"><u>What Is Hugging Face? Insights and Applications</u></a></li>
 </ul></div>
 

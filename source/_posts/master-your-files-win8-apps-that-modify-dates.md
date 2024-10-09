@@ -1,7 +1,7 @@
 ---
 title: "Master Your Files: Win8 Apps That Modify Dates"
-date: 2024-09-30T23:03:45.573Z
-updated: 2024-10-04T06:06:50.506Z
+date: 2024-10-06T02:52:36.481Z
+updated: 2024-10-09T05:30:45.522Z
 tags:
   - windows10
   - windows11
@@ -66,22 +66,15 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
@@ -97,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
 ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
 
  What's interesting is that this tool has sections that[display your file extensions on Windows](https://www.makeuseof.com/ways-to-make-windows-10-show-file-extensions/) alongside its name. Having all this information at your disposal can help you ensure that you’re editing the correct file.
@@ -109,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
  To use the "Date and Time Changer" feature, open File & Folder Tools and click the**calendar icon** at the top of the screen. Next, click the**Add File(s)** button and then pick a relevant file on your PC. You can also drag and drop your files onto the tool if you want.
@@ -116,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
  Navigate to the**NEW DateTime** box and tick the relevant boxes next to**Last Created** ,**Last Modified** , and**Last Accessed** . From there, select your preferred date and time, and then click the**CHANGE DATETIME** button.
 
 **Download** : File & Folder Tools for[Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Bulk Rename Utility
 
@@ -138,15 +138,22 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
 **Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Advanced Renamer
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
@@ -156,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
  From there, tick the**Created date and time** ,**Accessed date and time** , or the**Modified date and time** box. Finally, enter your preferred date and time in the bottom-left corner of the screen and press**Enter** .
 
 **Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing Your Files' Created/Modified Dates Is Easy
 
@@ -185,17 +185,22 @@ thumbnail: https://thmb.techidaily.com/38a10dded96ded9495ccb2173f240c20a69acb6b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-digital-revolution-integrating-dslr-into-online-platforms-from-home-pcsmacs/"><u>[Updated] 2024 Approved Digital Revolution Integrating DSLR Into Online Platforms From Home PCs/Macs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[Updated] Becoming a Confident Content Creator YouTube's Top Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-guide-for-dealing-with-page-corruption-due-to-hardware-failures-on-windows-10-and-11/"><u>Fix Guide for Dealing with Page Corruption Due to Hardware Failures on Windows 10 & 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-convenient-ways-to-archive-your-insta-story/"><u>In 2024, Convenient Ways to Archive Your Insta Story</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-x7b-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor X7b Phone Screen?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-multilingual-communication-a-guide-to-our-favorite-6-offline-translation-tools/"><u>Master Multilingual Communication: A Guide to Our Favorite 6 Offline Translation Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-undetected-additional-monitor-w11/"><u>Mending Undetected Additional Monitor W11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-recycle-bin-glitch-in-win-11/"><u>Solutions to Recycle Bin Glitch in Win 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-discord-game-status-in-windows/"><u>Troubleshooting Unresponsive Discord Game Status in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-chromes-profile-glitches-on-pc/"><u>Troubleshooting: Overcoming Chrome's Profile Glitches on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-sound-transformation-ios-tools-to-convert-youtube-songs-to-mp3-files/"><u>[New] 2024 Approved Easy Sound Transformation IOS Tools to Convert YouTube Songs to MP3 Files</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-illusions-snapchat-filters-leading-the-way/"><u>[New] In 2024, Innovative Illusions Snapchat Filters Leading the Way</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inspiring-vistas-top-20-scenic-shots-for-social-media-success-for-2024/"><u>[New] Inspiring Vistas Top 20 Scenic Shots for Social Media Success for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-20plus-fresh-collages-elevate-your-environment/"><u>[Updated] 20+ Fresh Collages Elevate Your Environment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-editing-to-sharing-using-premiere-with-youtube/"><u>2024 Approved From Editing to Sharing Using Premiere with YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-swiftly-cleaning-your-youtube-buffered-queue/"><u>2024 Approved Techniques for Swiftly Cleaning Your YouTube Buffered Queue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-subtitle-tools-navigate-through-the-best-10-web-edits-for-2024/"><u>Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/big-sur-breakdown-understanding-the-latest-macos-update/"><u>Big Sur Breakdown Understanding the Latest macOS Update</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-common-onedrive-issues-on-pc/"><u>Conquering Common OneDrive Issues on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-tray-ui-show-number-keys-scroll-lock-windows-11/"><u>Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/discuss-the-limits-of-cultural-relativism-when-might-it-be-challenging-or-problematic-to-apply/"><u>Discuss the Limits of Cultural Relativism: When Might It Be Challenging or Problematic to Apply?</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-chatgpt-on-windows-systems/"><u>Executing ChatGPT on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inaccessible-remove-functionality-on-windows-11-os/"><u>Fixing Inaccessible Remove Functionality on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-removing-unexpected-dark-screens-on-windows/"><u>Methods for Removing Unexpected Dark Screens on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-win11-terminal-back-to-basics/"><u>Reverting Win11 Terminal Back to Basics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplifying-the-image-blur-process-for-iphone-enthusiasts-for-2024/"><u>Simplifying the Image Blur Process for iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-path-not-found-in-windows-os/"><u>Troubleshooting PATH Not Found in Windows OS</u></a></li>
 </ul></div>
 

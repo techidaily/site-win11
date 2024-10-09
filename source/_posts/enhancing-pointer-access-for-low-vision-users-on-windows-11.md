@@ -1,7 +1,7 @@
 ---
 title: Enhancing Pointer Access for Low-Vision Users on Windows 11
-date: 2024-09-29T04:25:49.616Z
-updated: 2024-10-04T00:57:52.434Z
+date: 2024-10-02T16:18:30.555Z
+updated: 2024-10-09T03:36:51.734Z
 tags:
   - windows10
   - windows11
@@ -35,18 +35,18 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 So, without further ado, let’s get into them.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Choosing Your Mouse Pointer Style
 
  To[change the style of your Mouse pointer](https://www.makeuseof.com/change-your-cursor-on-windows/) , head over to**Settings > Accessibility** on your computer.
 
 ![Screenshot accessibility settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-accessibility-settings-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the**Mouse pointer and touch** category. You have the options White, Black, Inverted, and Custom under**Mouse pointer style.** As such, you can choose any of them to change your pointer style.
 
@@ -55,10 +55,10 @@ So, without further ado, let’s get into them.
  Using the**Custom** item, you can choose a custom color for your pointer from the recommended ones or click**Choose another color** beneath to use a different one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Adjusting Your Mouse Cursor Size
@@ -67,11 +67,25 @@ So, without further ado, let’s get into them.
 
 ![Screenshot showing size slider on mouse pointer settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Increasing your Mouse Pointer Speed
 
  Your mouse’s pointer speed has a great impact on its performance and is often crucial to improving your efficiency. To adjust your pointer speed, go to**Settings > Bluetooth & devices** and click on the**Mouse** category.
 
 ![screenshot of mouse pointer speed settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-speed-settings-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Drag the**Mouse pointer speed** slider to adjust your pointer speed.
 
@@ -88,10 +102,17 @@ So, without further ado, let’s get into them.
 ![Screenshot of primary mouse button settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-primary-mouse-button-settings-page-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Additional Mouse Pointer Settings
@@ -104,13 +125,6 @@ So, without further ado, let’s get into them.
 
 ![how to enable ClickLock on additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the**Pointers** tab to select a mouse scheme and customize the different shapes of the mouse pointer. You can also[use a custom mouse cursor](https://www.makeuseof.com/windows-11-custom-mouse-cursor/) by clicking**Browse** to download online. Lastly, you can tick the**Enhance pointer shadow** checkbox if you’d prefer that.
 
 ![Screenshot of mouse pointer options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-options-windows-11.jpg)
@@ -120,6 +134,13 @@ So, without further ado, let’s get into them.
  Under**Visibility** , you can choose if you want your pointer to display trails, hide the pointer while typing, or show the location of the pointer when the Control key is clicked.
 
  Hit**Apply** afterward to implement your changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Customize Your Text Cursor
 
@@ -133,38 +154,11 @@ So, without further ado, let’s get into them.
 
  To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Changing the Text Cursor’s Thickness
 
  You might want your text cursor to appear bolder on the screen, so it's more visible. To do this, use the slider in the**Text Cursor Thickness** section.
 
 ![screenshot of text cursor thickness settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-text-cursor-thickness-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Configuring Your Mouse Pointer Makes Your PC More Accessible
 
@@ -187,24 +181,20 @@ So, without further ado, let’s get into them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unleashing-potential-a-guide-for-solitary-showrunners/"><u>[New] In 2024, Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-precision-audit-vll-application-review/"><u>[New] Precision Audit VLL Application Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12 Pro 5G Fingerprint Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/deactivating-grayed-out-trash-can-symbol-on-win11/"><u>Deactivating Grayed Out Trash Can Symbol on Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-sound-blaster-z-drivers-for-windows-10-with-one-click/"><u>Download the Sound Blaster Z Drivers for Windows 10 with One Click</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-space-utilization-on-your-windows-11-drive-no-file-removal-max-156-chars/"><u>Efficient Space Utilization on Your Windows 11 Drive (No File Removal, Max 156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-connectivity-android-to-windows-webcam-transition/"><u>Enhancing Windows 11 Connectivity: Android to Windows Webcam Transition</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-retrieve-hidden-display-options-in-nvidia-panel/"><u>How to Retrieve Hidden Display Options in Nvidia Panel</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-aural-alchemy-transforming-imovie-videos-with-music/"><u>In 2024, Aural Alchemy Transforming iMovie Videos with Music</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Note 30 Phone Without Password?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-xbox-live-breakdown-top-four-strategies-to-record-gameplay/"><u>In 2024, Xbox Live Breakdown Top Four Strategies to Record Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-high-contrast-mode-on-your-pc-windows/"><u>Mute High Contrast Mode on Your PC, Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/oculus-spectacular-expert-reviews-and-choices/"><u>Oculus Spectacular Expert Reviews and Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-writable-access-denial-on-win1011-systems/"><u>Overcoming Writable Access Denial on Win10/11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-for-disabling-steam-lag-in-your-windows-11-gaming-setup/"><u>Quick Guide for Disabling Steam Lag in Your Windows 11 Gaming Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-installation-embedding-google-maps-into-windows/"><u>Quick Installation: Embedding Google Maps Into Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-disappearing-windows-top-6-strategies-in-windows-11/"><u>Unlocking Disappearing Windows: Top 6 Strategies in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-enabling-autoplay-on-youtube-in-facebook/"><u>[Updated] 2024 Approved The Ultimate Guide Enabling Autoplay on Youtube in Facebook</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/gsmmp4movavi/"><u>在线无需付钱：自动转换GSM视频为MP4，使用Movavi解决方案</u></a></li>
+<li><a href="https://win11.techidaily.com/analyzing-the-electrical-footprint-of-your-personal-windows-pc/"><u>Analyzing the Electrical Footprint of Your Personal Windows PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-with-intova-edge-x/"><u>Behind the Scenes with Intova Edge X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-auto-shutdown-techniques-for-idle-windows-pcs/"><u>Easy Auto-Shutdown Techniques for Idle Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-hues-overcoming-color-issues-on-windows/"><u>Harmonizing Hues: Overcoming Color Issues on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-classic-comedy-time-machine-the-goofy-tape-journey/"><u>In 2024, Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-keep-your-viewers-hooked-6-compelling-video-types/"><u>In 2024, Keep Your Viewers Hooked 6 Compelling Video Types</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-high-res-display-settings-in-windows/"><u>Mastering High-Res Display Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-site-trust-on-windows-11/"><u>Mastering Site Trust on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-playable-media-error-xc10100bf/"><u>Overcoming Non-Playable Media Error XC10100BF</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablish-clear-view-fixing-black-screens-on-win11/"><u>Reestablish Clear View: Fixing Black Screens on Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-issues-correcting-improper-installation-of-the-radeon-software-amds-successor-to-ryzen-master/"><u>Resolving Issues: Correcting Improper Installation of the Radeon Software (AMD's Successor to Ryzen Master)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/smooth-steam-gaming-recordings-guide-for-2024/"><u>Smooth Steam Gaming Recordings Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Conquer Sluggish Download Times in Battle.net Games
-date: 2024-09-27T22:28:46.574Z
-updated: 2024-10-04T04:42:16.585Z
+date: 2024-10-07T22:16:11.382Z
+updated: 2024-10-09T01:16:28.743Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  Now that you're aware of all the common culprits let's check out what you can do to improve the connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Allocate Adequate Bandwidth to Battle.net
 
  The first thing you must do is allocate adequate bandwidth to the Battle.net app. You can do this by pausing other downloads running in the background and closing network-hogging applications. Also, ensure that streaming applications like Twitch are not running in the background.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. Look in the**Network** column, right-click on all the non-essential applications and choose**End task.**
 
  Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our[guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Turn Off Windows' Metered Connection
 
@@ -62,39 +76,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![Metered Connection option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Metered-Connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Restart Battle.net, and check if there's any improvement in the download speed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Your Connection
 
  A weak internet connection might be affecting Battle.net's download speed. You can confirm this by testing your connection speed by visiting any of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If you're getting a comparatively lower download speed, check out our guide on[how to improve your internet connection](https://www.makeuseof.com/how-to-improve-internet-speed/) . If this helps improve your internet connection, try downloading games on Battle.net. But if there's no improvement in your connection, contact your internet service provider (ISP).
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Any Proxy Server Connection
 
@@ -121,16 +115,16 @@ To update the network driver update, follow the below instructions:
 ![Update Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-Network-Drivers-on-Windows.jpg)
 4. Choose**Search automatically for drivers.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will now look for and download the latest network driver update. If it finds nothing, search for the network adapter's manufacturer's official website for drivers instead.
 
 After that, restart your computer and check for the issue again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clear the Battle.net Cache Data
 
@@ -141,13 +135,6 @@ After that, restart your computer and check for the issue again.
 3. Locate and right-click on the**Blizzard Entertainment** folder.  
 ![Blizzard Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Blizzard-Folder.jpg)
 4. Choose the**Delete** option.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Flush the DNS Cache
 
@@ -171,6 +158,13 @@ You can fix this by resetting the network settings. Here's how:
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/the-network-reset-button.jpg)
 4. Click**Yes** to the prompt that appears to confirm your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Improve Your Battle.net Download Speed
 
  Nobody loves to wait for several hours to download their favorite games on Battle.net. Fortunately, you can fix the slow download speed on Battle.net by following the above fixes.
@@ -192,15 +186,15 @@ You can fix this by resetting the network settings. Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-why-av1-improving-streams-and-videos-on-youtube/"><u>[New] Why AV1? – Improving Streams and Videos on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensively-addressing-winservicesexe-concerns/"><u>Comprehensively Addressing Winservices.exe Concerns</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722766616161-discover-the-ultimate-pc-sound-solutions-elite-card-picks-for-2eby2024/"><u>Discover the Ultimate PC Sound Solutions: Elite Card Picks for 2Eby2024!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ting-the-chilly-selecting-five-warm-video-backgrounds-for-2024/"><u>Elevating the Chilly Selecting Five Warm Video Backgrounds for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Passcode without Computer?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/make-windows-look-cooler-add-custom-image-filters/"><u>Make Windows Look Cooler: Add Custom Image Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-fixes-for-rediscovered-files-in-windows/"><u>The Ultimate Guide: Fixes for Rediscovered Files in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-non-operational-filesystem-optimizer/"><u>Unblocking Non-Operational Filesystem Optimizer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-ultimate-ergonomic-experience-with-the-microsoft-surface-keyboard-review/"><u>Unveiling the Ultimate Ergonomic Experience with the Microsoft Surface Keyboard Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/apocalypse-alert-the-ultimate-list-of-thrilling-zombie-games/"><u>Apocalypse Alert The Ultimate List of Thrilling Zombie Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-tips-for-photo-hdr-mastery-in-photoshop-for-2024/"><u>Expert Tips for Photo-HDR Mastery in Photoshop for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/from-simple-logon-to-strong-authentication-changing-your-windows-11-login-habit/"><u>From Simple Logon to Strong Authentication: Changing Your Windows 11 Login Habit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-guide-to-implementing-podcast-seo/"><u>In 2024, The Ultimate Guide to Implementing Podcast SEO</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-video-channels-face-off-the-monetization-tale-of-two-titles/"><u>In 2024, Video Channels Face-Off The Monetization Tale of Two Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-webinar-guide-host-without-spending/"><u>In 2024, YouTube Webinar Guide Host Without Spending</u></a></li>
+<li><a href="https://win11.techidaily.com/is-steam-unable-to-connect-to-the-internet-on-windows-heres-how-to-fix-it/"><u>Is Steam Unable to Connect to the Internet on Windows? Here's How to Fix It</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-top-10-green-screen-apps-for-androidios-for-2024/"><u>New FREE Top 10 Green Screen APPs for Android/iOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-into-windows-essence-crafting-and-evaluating-system-data/"><u>Peering Into Windows Essence: Crafting & Evaluating System Data</u></a></li>
+<li><a href="https://win11.techidaily.com/skilled-tactics-bypassing-windows-11s-security-measures/"><u>Skilled Tactics: Bypassing Windows 11'S Security Measures</u></a></li>
 </ul></div>
 

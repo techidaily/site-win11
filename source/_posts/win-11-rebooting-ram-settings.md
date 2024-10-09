@@ -1,7 +1,7 @@
 ---
 title: "Win 11: Rebooting RAM Settings"
-date: 2024-09-20T20:43:26.426Z
-updated: 2024-09-21T18:02:07.191Z
+date: 2024-10-03T07:09:42.188Z
+updated: 2024-10-08T16:46:08.727Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  Let's now see how to reset Virtual Memory on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use the System Properties window
 
  If you want to reset virtual memory settings on your Windows device, you can use the System Properties window. To do this, press **Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
  In the text box, type **sysdm.cpl**, and hit Enter. A system properties window will open up. Then, go to the **Advanced** tab and click the **Settings** button in the Performance section.
 
 ![How to Reset Virtual Memory on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-reset-virtual-memory-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will open up the Performance Options window, where you can manage virtual memory settings. For this, switch to the **Advanced** tab and click on **Change** in the Virtual Memory section.
 
@@ -61,18 +75,18 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ![Clear virtual memory pagefile Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-virtual-memory-pagefile-using-group-policy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then navigate to the following location:
 
 Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Option
 
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use Registry Editor
 
@@ -80,18 +94,18 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
 
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
 
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
 
  Next, double-click on the **ClearPageFileAtShutdown** key and set its value to **1**. Click on the **OK** button to save your changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Reset Virtual Memory To Get Better Performance
 
@@ -110,5 +124,22 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-channel-catalysts-affiliates-aiding-budgeted-buzzers-for-2024/"><u>[Updated] Channel Catalysts Affiliates Aiding Budgeted Buzzers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-eyewear-challenge-google-vs-samsung-virtual-reality/"><u>[Updated] In 2024, The Eyewear Challenge Google Vs. Samsung Virtual Reality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unraveling-the-mystery-of-non-uploading-video-features/"><u>[Updated] In 2024, Unraveling the Mystery of Non-Uploading Video Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-micromobility-events-news-hearsay-and-more/"><u>All You Need to Know About Micromobility: Events, News, Hearsay & More</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-zero-error-in-win11-with-easy-steps/"><u>Eliminate Zero Error in Win11 with Easy Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-no-internet-access-on-an-ethernet-connection-on-windows/"><u>How to Fix No Internet Access on an Ethernet Connection on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-5-lite-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Magic 5 Lite to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-v-purse-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor V Purse ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-depth-look-at-gaming-screen-capture-tools-for-2024/"><u>In-Depth Look at Gaming Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-where-win11-stores-window-picture-files/"><u>Pinpoint Where Win11 Stores Window Picture Files</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-access-denied-issues-in-windows-11-a-top-5-approach/"><u>Solving Access Denied Issues in Windows 11: A Top 5 Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-locating-your-gpu-model-on-windows-11/"><u>Speed Up: Locating Your GPU Model on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steadfast-safety-quick-fixed-strategies-for-family-protection/"><u>Steadfast Safety: Quick Fixed Strategies for Family Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-charge-your-pcs-readying-with-win11-speed-fixes/"><u>Turbo Charge Your PC’s Readying with Win11 Speed Fixes</u></a></li>
+</ul></div>
 

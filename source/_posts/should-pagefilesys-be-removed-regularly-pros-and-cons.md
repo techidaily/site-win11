@@ -1,7 +1,7 @@
 ---
 title: Should Pagefile.sys Be Removed Regularly? Pros & Cons
-date: 2024-09-17T05:22:26.159Z
-updated: 2024-09-22T05:41:12.352Z
+date: 2024-10-07T20:26:30.363Z
+updated: 2024-10-09T13:36:18.567Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ Here's what you need to know.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
 
 ## Should You Delete Pagefile.sys?
@@ -76,10 +83,10 @@ Here's what you need to know.
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
@@ -91,31 +98,38 @@ Here's what you need to know.
 
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
 7. You’ll get a warning from Windows. Click**Yes** to bypass it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click on**OK** to close the Virtual Memory window and apply the changes.
 9. Restart your Windows computer for the changes to take effect.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Restore Pagefile.sys
 
@@ -128,19 +142,19 @@ Now, to bring back Pagefile.sys, follow the steps below:
 ![opening the System Properties window using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-system-properties-windows-run.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .
 5. In the Virtual Memory window, make sure the**Automatically manage paging file size for all drives** checkbox at the top is checked.
 6. Click on**OK** to close the Virtual Memory window and apply the changes.
 7. Restart your Windows computer for the changes to take effect.
 
  Once your computer boots up, and you go to the folder where Pagefile.sys is located, you will see that the file has returned, along with Swapfile.sys.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Resize Pagefile.sys
 
@@ -151,6 +165,14 @@ Now, to bring back Pagefile.sys, follow the steps below:
 3. Click on the**Advanced system settings** link to open the System Properties window. On Windows 11, you will find the link on the right panel, while, on Windows 10, it will be on the left side menu.  
 ![the About page of the System window in the Settings app on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-about-windows-11.jpg)
 4. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the Performance Options window, select the**Advanced** tab and click**Change** .
 6. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 7. Click on the radio button for**Custom size** . Immediately, you’ll see that the two text boxes below it (**Initial size** and**Maximum size**) are no longer grayed out.
@@ -178,5 +200,24 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-minimal-effort-maximum-recovery-for-deleted-posts/"><u>[New] Minimal Effort, Maximum Recovery for Deleted Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ips-for-a-secure-youtube-identity-check-for-2024/"><u>[New] Tips for a Secure YouTube Identity Check for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-to-dailymotion-transferring-videos-seamlessly/"><u>[Updated] YouTube to Dailymotion Transferring Videos Seamlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>2024 Approved Capture Dynamic Artistry Top 9 Tools for Perfect Windows GIFs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sophisticated-screen-capture-3-top-tier-techniques-for-zoom-conversion/"><u>2024 Approved Sophisticated Screen Capture 3 Top-Tier Techniques for Zoom Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/display-network-metrics-as-part-of-ui-elements/"><u>Display Network Metrics as Part of UI Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wsl-performance-key-techniques-for-win-users/"><u>Enhancing WSL Performance: Key Techniques for Win Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-mysteries-of-googles-artificial-intelligence-endeavor-project-gemini/"><u>Exploring the Mysteries of Google's Artificial Intelligence Endeavor: Project Gemini</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/h264-vs-h265/"><u>H.264 Vs. H.265: ビデオファイルの違いを見極めるための基本情報</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-connection-hooking-up-playstation-vr-to-your-desktop-pc/"><u>Mastering the Connection: Hooking up PlayStation VR to Your Desktop PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windowed-gaming-top-fps-tools-list/"><u>Mastering Windowed Gaming: Top FPS Tools List</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-efficient-command-setup-with-win11s-narrator/"><u>Quick & Efficient Command Setup with Win11's Narrator</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-fast-paced-execution-of-excel-tasks-in-windows/"><u>Reactivate Fast-Paced Execution of Excel Tasks in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fix-list-for-a-dysfunctional-esc-key-on-windows/"><u>The Ultimate Fix List for a Dysfunctional Esc Key on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-lava-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Lava Device</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-strategies-turning-cr2-photos-to-windows-jpgs/"><u>Transition Strategies: Turning CR2 Photos to Windows JPGs</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-asana-issues-a-focus-on-windows-compatibility/"><u>Unraveling Asana Issues: A Focus on Windows Compatibility</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Media Maker Errors: X.8007043C, X.90017"
-date: 2024-09-20T03:17:11.205Z
-updated: 2024-09-22T06:28:24.303Z
+date: 2024-10-05T12:59:33.116Z
+updated: 2024-10-09T04:46:26.249Z
 tags:
   - windows10
   - windows11
@@ -74,20 +74,21 @@ To run the Windows Update Troubleshooter:
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
@@ -95,25 +96,11 @@ To run the Windows Update Troubleshooter:
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check for a Third-Party Antivirus Conflict
 
  Third-party antivirus can be overzealous and block genuine system modifications as malicious. You can disable the security app temporarily to determine if your third-party antivirus is triggering the error.
 
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run the DISM and System File Checker Tool
 
@@ -129,10 +116,25 @@ To run the DISM and System File Checker Tool:
 DISM.exe /Online /Cleanup-image /Restorehealth
 4. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt.jpg)  
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
 7. Type**exit** and press**Enter** to close the Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
@@ -140,18 +142,18 @@ sfc /scannow
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
  Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
 
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
@@ -170,5 +172,24 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-secrets-to-superior-streaming-of-soccer-matches/"><u>[Updated] In 2024, Secrets to Superior Streaming of Soccer Matches</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-proart-pa-329q-examining-a-premium-4k-monitor-for-professionals/"><u>2024 Approved ProArt PA 329Q Examining a Premium 4K Monitor for Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-mcuicntexe-not-found-message-in-win-1011/"><u>Correcting McUICnt.exe Not Found Message in Win 10/11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-g42-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia G42 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-track-to-time-lapse-magic-on-samsung-phones-for-2024/"><u>Fast Track to Time-Lapse Magic on Samsung Phones for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722138475909-not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-persistent-0x800f020b-error-when-updating-your-xerox-printer-on-windows/"><u>Overcome the Persistent 0X800F020B Error When Updating Your Xerox Printer on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-equipment-for-cutting-edge-livestreams/"><u>Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-the-classic-windows-photo-viewer-in-windows-1111-os/"><u>Reinstating the Classic Windows Photo Viewer in Windows 11/11 OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-spotify-listening-with-secure-speed-techniques/"><u>Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-glitch-windows-11s-error-0x80246007/"><u>Swift Solution to Upgrade Glitch: Windows 11'S Error 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-prose-best-5-desktop-writing-helpers/"><u>Transform Your Prose: Best 5 Desktop Writing Helpers</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steams-internet-connection-on-windows/"><u>Unlocking Steam's Internet Connection on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-route-purchase-adobe-reader-from-ms-store/"><u>Unveiling the Route: Purchase Adobe Reader From MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-tips-immediate-printer-disablement-techniques/"><u>Win 10/11 Tips: Immediate Printer Disablement Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/yule-joy-tech-treats-through-ms-store-purchases/"><u>Yule Joy: Tech Treats Through MS Store Purchases</u></a></li>
+</ul></div>
 

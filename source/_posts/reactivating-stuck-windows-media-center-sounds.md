@@ -1,7 +1,7 @@
 ---
 title: Reactivating Stuck Windows Media Center Sounds
-date: 2024-09-17T10:09:45.516Z
-updated: 2024-09-22T06:41:11.445Z
+date: 2024-10-08T06:02:31.791Z
+updated: 2024-10-09T09:36:30.719Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,21 @@ Here’s how to check if the required services are running.
 6. Similarly, change the startup type for**Remote Procedure Call (RPC)** and**DCOM Server Process Launcher** services as well.  
 ![Remote Procedure Call Service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remote-procedure-call-service-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your PC after this and check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Add Local and Network Services Using Command Prompt
 
@@ -68,18 +82,18 @@ Restart your PC after this and check if the issue is still there.
 
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update Audio Drivers
 
  Outdated or incompatible audio drivers on your PC can also cause the audio services to malfunction. If that's the case, updating the audio drivers on your PC should do the trick. If you need help with that, check our guide on[how to update audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) and follow the steps outlined there.
 
  If updating audio drivers manually sounds like a tedious task, you can get one of the[best driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) to ease the process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Switch to the Default Sound Drivers
 
@@ -99,19 +113,6 @@ Restart your PC after this and check if the issue is still there.
 5. Select**Uninstall** to confirm the action.
 6. In the Device Manager window, click the**Action** menu at the top and select**Scan for hardware changes** from the list.  
 ![Uninstall Sound Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-sound-driver.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run the SFC and DISM Scans
 
@@ -137,10 +138,10 @@ To perform a system restore on Windows, use these steps:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for Windows to restart and revert to the specified restore point. After that, the audio services should work fine.
@@ -164,5 +165,21 @@ To perform a system restore on Windows, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-obs-versus-wirecast-assessing-the-best-for-live-broadcasts/"><u>[New] OBS Versus Wirecast Assessing the Best for Live Broadcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enriching-videos-with-no-cost-sounds-legally/"><u>[Updated] 2024 Approved Enriching Videos with No-Cost Sounds Legally</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-coded-chronicles-top-10-roguelike-journeys-for-2024/"><u>[Updated] Coded Chronicles Top 10 Roguelike Journeys for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-palette-in-balance-implementing-theoretical-knowledge/"><u>A Palette in Balance Implementing Theoretical Knowledge</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-play-8t-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Play 8T</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-attracting-a-loyal-twitter-following-with-these-proven-strategies/"><u>Master the Art of Attracting a Loyal Twitter Following with These Proven Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-steps-for-kali-linux-on-your-windows-desktop/"><u>Navigate the Steps for Kali Linux on Your Windows Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-xps-problematic-error-x80300024/"><u>Overcoming Windows XP's Problematic Error X80300024</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-deactivated-coolant-regulation-mechanism/"><u>Overhauling Deactivated Coolant Regulation Mechanism</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-adding-captions-to-your-mp4-files/"><u>Step-by-Step Guide: Adding Captions to Your MP4 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-in-store-purchase-rates-on-microsoft-platform/"><u>Streamline Your In-Store Purchase Rates on Microsoft Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-coding-to-new-heights-maximizing-use-of-dev-drive-in-win11/"><u>Taking Coding to New Heights: Maximizing Use of Dev Drive in Win11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-perfect-method-for-saving-camera-images-on-snapchat/"><u>The Perfect Method for Saving Camera Images on Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-solutions-for-non-responsive-wireless-mice-windows/"><u>Top 10 Solutions for Non-Responsive Wireless Mice (Windows)</u></a></li>
+</ul></div>
 

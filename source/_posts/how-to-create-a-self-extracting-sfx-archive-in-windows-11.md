@@ -1,7 +1,7 @@
 ---
 title: How to Create a Self-Extracting SFX Archive in Windows 11
-date: 2024-09-20T06:17:56.974Z
-updated: 2024-09-22T07:14:36.080Z
+date: 2024-10-04T21:28:46.582Z
+updated: 2024-10-09T00:13:41.714Z
 tags:
   - windows10
   - windows11
@@ -66,7 +66,21 @@ Now we can get started using IExpress Wizard:
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
@@ -81,6 +95,20 @@ Now we can get started using IExpress Wizard:
 6. Select the**Create SFX archive** checkbox.  
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Choose a folder to save the SFX archive in and click**Open** .
 9. Input a file name within the**Archive** box.
 10. Press the**OK** button to create your new self-extracting archive.
@@ -97,14 +125,14 @@ Testing the SFX File With 7-ZIP
 
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
- You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -125,5 +153,24 @@ Testing the SFX File With 7-ZIP
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-zoom-meetings-made-simple-with-camera-snaps/"><u>[New] 2024 Approved Zoom Meetings Made Simple with Camera Snaps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dive-into-the-world-of-interactive-video-features-on-youtube-for-2024/"><u>[New] Dive Into the World of Interactive Video Features on YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-access-premium-imagery-no-copyright-restrictions/"><u>[Updated] Access Premium Imagery, No Copyright Restrictions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-new-laptop-features-with-m1-max-clips-for-2024/"><u>[Updated] Navigating New Laptop Features with M1 Max Clips for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-dividing-devices-top-cam-rating-review/"><u>2024 Approved Dividing Devices Top Cam Rating Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-reno-10-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Reno 10 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-opengl-error-3-from-nvidia/"><u>Correcting OpenGL Error 3 From NVIDIA</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-invisible-notifications-on-your-ios-device-with-these-7-tips/"><u>Fix Invisible Notifications on Your iOS Device with These 7 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xbox-play-network-errors-on-windows-1011-systems/"><u>Fixing Xbox Play Network Errors on Windows 10/11 Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveiling-profits-how-much-do-creators-earn-from-each-ad/"><u>In 2024, Unveiling Profits How Much Do Creators Earn From Each Ad?</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-computers-small-smart-and-windows/"><u>Innovative Computers: Small, Smart, and Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-a-halted-wow-installation/"><u>Reactivating a Halted WoW Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/reflect-organize-and-proliferate-using-obsidian-canvas/"><u>Reflect, Organize, and Proliferate: Using Obsidian Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-disabling-error-0xc00000f-on-pc/"><u>Solutions for Disabling Error 0Xc00000f on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-expertise-pinpointing-specific-players/"><u>Steam Expertise: Pinpointing Specific Players</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-multi-screen-setup-on-windows-11-os/"><u>Streamlining Multi-Screen Setup on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-windows-visual-aid-the-cursor/"><u>Tailoring Your Window's Visual Aid: The Cursor</u></a></li>
+</ul></div>
 

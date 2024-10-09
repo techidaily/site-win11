@@ -1,7 +1,7 @@
 ---
 title: How to Tweak Windows Settings and App Behavior With the AlomWare Toolbox
-date: 2024-09-27T01:59:55.843Z
-updated: 2024-10-04T07:26:13.474Z
+date: 2024-10-07T10:33:56.257Z
+updated: 2024-10-09T03:37:42.252Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  You can also buy the app, so you don't need to enter the code, and to get email and chat support.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Getting to Know the Basic AlomWare Tools
 
  While AlomWare is designed with Windows power users in mind, it also comes with some tools to make your life easier, even if you're an average user. Here are some of the essentials that come with AlomWare.
@@ -61,21 +68,22 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
 ![AlomWare clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clipboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The AlomWare Clipboard works just [like Windows 11's clipboard history](https://www.makeuseof.com/windows-11-turn-on-clipboard-history/). However, it separates the items that you copied into two tabs—one for text and another for images. This makes it easier to find what you copied.
 
  Furthermore, AlomWare adds more tools to its clipboard. It lets you lock or pin any item you copied and save it as a different file altogether. You can also use its built-in optical character recognition to extract text from a photo—no need to [use OCR apps to convert images to text](https://www.makeuseof.com/tag/top-5-free-ocr-software-tools-to-convert-your-images-into-text-nb/).
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Screenshots
@@ -83,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 ![AlomWare Toolbox screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-screenshots.jpg)
 
  Screenshots are traditionally saved on the clipboard or to the Pictures > Screenshots folder. But with the AlomWare Toolbar, all your screenshots are saved to the app's Screenshots tab. This makes it easy to find all the screenshots you've made and ensures that you won't miss them, even after you've restarted your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Files
 
@@ -101,22 +102,16 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  Although AlomWare has several nifty basic features, its advanced capabilities make it stand out. These features can save you a lot of time by automating your Windows PC's most mundane and repetitive tasks.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Automation
 
 ![AlomWare automation options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-automation-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can [create a Windows Batch File command to automate repetitive tasks](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/), but it could be complicated. That's why most users don't bother making one, as it could lead to more problems and would make you just want to do it yourself manually.
 
@@ -126,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  You can also create your own automation with several steps from scratch. But if you find that too complicated, you can use the **Create an action with a wizard** button to make it easier.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### States
 
 ![AlomWare states](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-states.jpg)
@@ -140,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
  States is also another feature perfect for office-based professionals. If you use the same set of apps daily and already have a fixed place for them on your screen, you can save that as a PC State on AlomWare Tools. You can then launch it from the app, and your computer will enter into your set configuration, opening all the apps you need and placing them exactly where you want them on the monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AlomWare Power Menu
@@ -151,26 +139,32 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 ![AlomWare Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-power-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Aside from the features inside the app, AlomWare also gives you extra capabilities via the AlomWare Power Menu. You can activate this feature by middle-clicking on an open app's upper-right. You'll see several features from there like **Keep locked here**, **Minimize to tray**, **Roll up to title**, and more.
 
  You can even set where an app will open on your monitor every time by choosing **Opening state > Open like this (position, size, transparency, etc)**. With this feature, AlomWare gives you many useful options to use your computer just how you like it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Reboot" Your PC Without Turning It Off
 
 ![AlomWare Clean Slate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clean-slate.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One other interesting feature that AlomWare offers is Clean Slate, located under the States tab. Clean Slate technically reboots your computer by closing all open windows and apps. It also has several options, like ending specific processes, setting all processes to normal priority, and clearing the recent documents list.
 
@@ -186,22 +180,6 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  So, let's check out this app and see what it can do to make you a Windows power user.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/deciphering-hand-tracking-methodologies/"><u>Deciphering Hand Tracking Methodologies</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-using-windows-system-restore-feature/"><u>Effective Strategies for Using Windows' System Restore Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/gameplay-efficiency-lowering-hardware-usage-without-compromise/"><u>Gameplay Efficiency: Lowering Hardware Usage without Compromise</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-gionee-f3-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Gionee F3 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-5-best-hd-hunting-cameras-reviewed/"><u>In 2024, 5 Best HD Hunting Cameras Reviewed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y56-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y56 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/is-itops-performance-worth-your-investment-in-2024/"><u>Is ITop's Performance Worth Your Investment, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-cpu-burden-of-windows-modules-installer/"><u>Reducing CPU Burden of Windows Modules Installer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/simplified-method-for-youtubers-to-dailymotion-for-2024/"><u>Simplified Method for YouTubers to Dailymotion for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-windows-search-initiation-error/"><u>Steps to Correct Windows Search Initiation Error</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-reference-to-windows-file-time-edits/"><u>The Complete Reference to Windows File Time Edits</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -209,3 +187,21 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-delving-into-the-world-of-video-grading-styles/"><u>[New] In 2024, Delving Into the World of Video Grading Styles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-wipe-out-facebook-story-desktopmobile-tips/"><u>[New] In 2024, Wipe Out Facebook Story Desktop/Mobile Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nline-viewers-count-counter/"><u>[New] Online Viewers Count Counter</u></a></li>
+<li><a href="https://win11.techidaily.com/8-microsoft-apps-you-must-install-on-android-if-you-have-a-windows-pc/"><u>8 Microsoft Apps You Must Install on Android if You Have a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-geforce-0x0001-in-windows-1011-environment/"><u>Addressing GeForce 0X0001 in Windows 10/11 Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-installed-disk-issue-on-windows-11-system/"><u>Fixing Non-Installed Disk Issue on Windows 11 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-2060-super-drivers-compatible-with-win10-and-win11/"><u>Get the Latest NVIDIA GeForce RTX 2060 Super Drivers - Compatible with Win10 & Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-num-caps-and-scroll-lock-key-indicators-to-windows-11s-system-tray/"><u>How to Add Num, Caps, and Scroll Lock Key Indicators to Windows 11’S System Tray</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-insiders-choice-the-ultimate-list-of-screen-recorders/"><u>In 2024, Insider's Choice The Ultimate List of Screen Recorders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-your-videos-online-top-10-tools-for-2024/"><u>New Rotate Your Videos Online Top 10 Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-hello-authentication-compatibility-issue/"><u>Remedying Windows Hello Authentication Compatibility Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-youtube-video-transformations-into-mpegs-for-2024/"><u>Streamlining YouTube Video Transformations Into MPEGs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-making-stagnant-batch-files-work-again/"><u>Winning Strategies: Making Stagnant Batch Files Work Again</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "SysTray Supercharge: Comprerante CPU & Memory Usage Details"
-date: 2024-10-01T21:48:44.461Z
-updated: 2024-10-03T19:26:44.847Z
+date: 2024-10-01T22:26:27.174Z
+updated: 2024-10-08T20:35:29.245Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
 
  Task Manager only adds one PC resource usage icon to the system tray, which is a little limited. You can add four separate RAM, CPU, network, and disk usage indicators to the system tray with Performance Monitor. That software also includes customization settings for each icon. Here's how you can add system resource usage information to your system tray with Performance Monitor.
@@ -61,6 +54,14 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 7. You’ll now see one CPU resource icon in the system tray area or overflow menu. To add the others, right-click the CPU icon and select the **Memory** tab.  
 ![The Show in Tray Area](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-memory-tab.jpg)
 8. Click the **Show in Tray Area** checkbox.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Select the same **Show in Tray Area** option on the **Disk** and **Network** tabs.
 
  Now you’ll see four separate system tray icons for your PC’s RAM, processor, network, and disk utilization within the system tray or overflow menu. Each icon shows a miniature usage line graph for its system resource. Hover your mouse’s cursor over the icons to view percentage usage stats for the system resource.
@@ -74,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
@@ -92,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 4. Select the **Express** radio button.  
 ![The Express Installation radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-express-installation-option.jpg)
 5. Click **Next** to install the System Explorer software. System Explorer will run automatically after installation.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ll see an icon for System Explorer in the system tray. Move the cursor over the System Explorer icon to view a panel that shows computer resource info. That panel includes resource bars for CPU Usage, Memory Usage, and Swap Usage system resource bars.
 
@@ -108,42 +116,19 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## View Your System Resource Usage Info Directly From Your System Tray
 
  It’s always a good idea to keep an eye on CPU and RAM utilization to check you’re not overloading your PC, which impacts system performance. System resource usage details will be much more visible when added to the Windows system tray with Task Manager, Performance Monitor, and System Explorer. To have such computer resource info within the system tray is undoubtedly more convenient for monitoring system resource usage.
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/rom-youtube-watch-parties-to-home-auditory-archives/"><u>[New] From YouTube Watch Parties to Home Auditory Archives</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earn-on-the-go-snapchats-money-tips/"><u>2024 Approved Earn on the Go Snapchat's Money Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-uniting-fans-anime-opening-songs-showcase/"><u>2024 Approved Uniting Fans Anime Opening Songs Showcase</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-validating-yourself-a-look-at-verified-insta-posts/"><u>2024 Approved Validating Yourself A Look at Verified Insta Posts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-poco-f5-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco F5 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedy-to-the-problematic-non-existent-printmanagement/"><u>Quick Remedy to the Problematic Non-Existent 'Printmanagement'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/uninterrupted-audio-experience-on-your-pc-with-these-solutions-for-windows-117-sound-problems/"><u>Uninterrupted Audio Experience on Your PC with These Solutions for Windows 11/7 Sound Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstuck-your-touchscreen-on-windows-10-try-these-5-troubleshooting-tactics/"><u>Unstuck Your Touchscreen on Windows 10? Try These 5 Troubleshooting Tactics!</u></a></li>
-<li><a href="https://win11.techidaily.com/what-sets-ai-technology-apart-an-analysis/"><u>What Sets AI Technology Apart: An Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-arm-easy-download-and-setup-from-iso-guide/"><u>Windows 11 ARM: Easy Download & Setup From ISO Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-search-methods-for-enhancing-performance/"><u>Windows 11 Search: Methods for Enhancing Performance</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -152,3 +137,22 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-transition-fb-video-sharing-via-whatsapp/"><u>[New] Seamless Transition FB Video Sharing via WhatsApp</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-mobile-asmr-must-have-apps/"><u>[Updated] Mastering Mobile ASMR Must-Have Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-swift-solutions-for-auditory-clarity-banishing-buildup-noise/"><u>2024 Approved Swift Solutions for Auditory Clarity Banishing Buildup Noise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/abbreviated-film-dialogue-scheme-for-2024/"><u>Abbreviated Film Dialogue Scheme for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-step-by-step-process-to-factory-reset-iphone-via-desktop-windows-and-mac-options-featuring-stellar/"><u>Complete Step-by-Step Process to Factory Reset iPhone via Desktop - Windows and Mac Options Featuring Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-a-non-operational-windows-control-panel/"><u>Curing a Non-Operational Windows Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-windows-11-weather-app-reviews/"><u>Expert Windows 11 Weather App Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-interactions-between-devices-and-windows-snooze/"><u>Fine-Tuning Interactions Between Devices and Windows Snooze</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-to-faster-usb-c-driver-intel/"><u>Navigate to Faster USB-C Driver, Intel</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-onedrive-error-adding-folder-not-possible-immediately/"><u>Resolving OneDrive Error - Adding Folder Not Possible Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-window-task-completion-via-key-combinations/"><u>Speedy Window Task Completion via Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-windows-error-0xc1900101/"><u>Strategies for Correcting Windows Error 0xC1900101</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-instagram-vids-with-advanced-editing-skills-for-2024/"><u>Transform Your Instagram Vids with Advanced Editing Skills for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turning-onoff-comments-with-ease-on-youtube-platform-for-2024/"><u>Turning On/Off Comments with Ease on YouTube Platform for 2024</u></a></li>
+</ul></div>
+

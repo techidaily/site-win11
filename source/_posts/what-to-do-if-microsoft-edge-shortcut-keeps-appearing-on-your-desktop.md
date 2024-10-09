@@ -1,7 +1,7 @@
 ---
 title: What to Do if Microsoft Edge Shortcut Keeps Appearing on Your Desktop
-date: 2024-09-27T03:49:58.317Z
-updated: 2024-10-04T00:45:31.808Z
+date: 2024-10-03T22:45:56.467Z
+updated: 2024-10-09T02:58:10.344Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 
  Additionally, you should also [access the startup folder on your Windows PC](https://www.makeuseof.com/access-startup-folder-windows/) and delete any shortcuts labeled Microsoft Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Edit Registry Files
 
  Another way to prevent the Microsoft Edge shortcut from reappearing on your desktop involves editing registry files.
@@ -69,20 +62,13 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 ![EdgeUpdate Key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edgeupdate-key-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Close the Registry Editor window and restart your PC. After that, check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Modify Group Policy Settings
 
@@ -113,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
  If you need help picking a reliable browser, you can check out [the best browsers for Windows](https://www.makeuseof.com/windows-11-best-browsers/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Restrict Other Users From Creating Desktop Shortcuts
@@ -133,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 6. Click **Apply** and then **OK**.  
 ![Using the Local Group Policy to Prevent Others From Changing Desktop Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Local-Group-Policy-to-Prevent-Others-From-Changing-Desktop-Icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that's about it. Once you make the above changes, the other users won't be able to create, modify, or delete your desktop icons.
 
 ## 6\. Review Scheduled Tasks
@@ -147,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 4. Locate and select any Edge-related tasks.
 5. Click the **Disable** option in the right pane.  
 ![An Automated task selected in the Task Scheduler window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Task-Scheduler-Window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Further, you can [restrict others from creating and running tasks in the Task Scheduler app](https://www.makeuseof.com/windows-block-task-manager/) by modifying the group policy settings or the registry files.
 
@@ -164,20 +164,6 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 
  Fortunately, there's no requirement to manually delete the Edge desktop shortcut repeatedly. Here are some helpful tips that should help resolve the issue in no time.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-advanced-techniques-for-sharper-screen-collaboration/"><u>[New] Advanced Techniques for Sharper Screen Collaboration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-complete-visualization-with-giroptic-cam/"><u>[New] Complete Visualization with Giroptic Cam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-professional-strategies-for-screen-capturing-facetime-for-2024/"><u>[New] Professional Strategies for Screen-Capturing FaceTime for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/directing-your-filter-key-preferences-in-windows/"><u>Directing Your Filter Key Preferences in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-world-fonts-for-windows-platform-users/"><u>Exploring World Fonts for Windows Platform Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram-for-2024/"><u>From Raw Footage to Social Stardom The Art of Video Cropping on Instagram for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-customize-your-screenscape-google-meets-dynamic-background-switch/"><u>In 2024, Customize Your Screenscape Google Meet's Dynamic Background Switch</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalize-your-excel-workflow-on-windows/"><u>Revitalize Your Excel Workflow on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-breakpoints-in-windows-debugging-systems/"><u>Steps to Overcome Breakpoints in Windows Debugging Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-convert-your-3gp-files-into-high-quality-avi-on-windows/"><u>Ultimate Guide: Convert Your 3GP Files Into High-Quality AVI on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +171,21 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-full-range-virtual-sphere-review/"><u>[New] Full Range Virtual Sphere Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-leading-list-for-best-vector-resources/"><u>2024 Approved The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-note-13-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi Note 13 Pro 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-dismantling-a-blocked-update/"><u>Deciphering and Dismantling a Blocked Update</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-function-key-modifications-in-windows-1011/"><u>Effortless Function Key Modifications in Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-integrate-microsoft-copilot-on-a-macbook-pro/"><u>How to Seamlessly Integrate Microsoft Copilot on a MacBook Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-glass-idleness-techniques-guide/"><u>Mastering Windows Glass Idleness Techniques Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/messenger-made-accessible-joining-conversations-even-if-you-dont-use-facebook/"><u>Messenger Made Accessible: Joining Conversations Even if You Don't Use Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-steps-restoring-your-windows-11-search-efficiency/"><u>Precision Steps: Restoring Your Window's 11 Search Efficiency</u></a></li>
+<li><a href="https://app-tips.techidaily.com/simple-methods-revive-your-lost-itunes-downloads-across-all-devices/"><u>Simple Methods: Revive Your Lost iTunes Downloads Across All Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/sony-vegas-stability-solutions-how-to-prevent-unexpected-software-shutdowns/"><u>Sony Vegas Stability Solutions: How To Prevent Unexpected Software Shutdowns</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-command-prompt-gimmicks-unleashed/"><u>Top 5 Command Prompt Gimmicks Unleashed</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Windows ALT Key Functionality
-date: 2024-09-14T19:47:02.857Z
-updated: 2024-09-22T07:10:30.828Z
+date: 2024-10-08T07:31:30.231Z
+updated: 2024-10-09T00:54:47.772Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
  After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Tweak the Registry Editor
 
  If the above solutions do not work, it seems that your registry has an entry that prevents you from adding Unicode characters. In that case, you may need to enable Unicode character input.
@@ -72,13 +79,6 @@ To get started, follow these steps:
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -86,6 +86,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 8. In the Value data field, set**1** and click**OK** to save your changes.
 
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Remove the Problematic Application
 
@@ -95,6 +102,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Look for the program that is causing the error.
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Try a Different Keyboard Layout
 
@@ -118,28 +132,15 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 4. The next step is to click on the**Services** tab.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
@@ -162,5 +163,23 @@ HKEY_CURRENT_USER\Control Panel\Input Method
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-dell-p2715qs-stunning-4k-visuals/"><u>[New] The Ultimate Guide to Dell P2715Q's Stunning 4K Visuals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-backtracking-visual-vectors-techniques-for-tracking-originals-in-instagram-posts/"><u>[Updated] 2024 Approved Backtracking Visual Vectors Techniques for Tracking Originals in Instagram Posts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-professional-choice-high-quality-laptops-for-media-workers/"><u>[Updated] 2024 Approved Professional Choice High-Quality Laptops for Media Workers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-become-a-kinemaster-virtuoso-advanced-techniques-and-excellent-alternatives-online/"><u>[Updated] Become a KineMaster Virtuoso Advanced Techniques & Excellent Alternatives Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-plain-screenshot-software-for-windows-10-for-2024/"><u>[Updated] Plain Screenshot Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/azure-speech-to-text-your-ultimate-development-toolkit/"><u>Azure Speech-to-Text Your Ultimate Development Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-unresponsive-discord-window-on-pc/"><u>Diagnosing and Repairing Unresponsive Discord Window on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-apks-on-modern-windows-oses/"><u>Fast Tracking APKs on Modern Windows OSes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-realme-note-50-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme Note 50 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-adobes-ease-purchase-via-microsoft/"><u>Mastering Adobe's Ease: Purchase via Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ocm-free-legacy-soccer-management-game/"><u>Mastering OCM: Free Legacy Soccer Management Game</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/money-saving-drones-reviewed-top-5-under-100-models/"><u>Money-Saving Drones Reviewed Top 5 Under $100 Models</u></a></li>
+<li><a href="https://solve-news.techidaily.com/processus-de-digitisation-des-ressources-financieres-partenariat-entre-abbyy-et-costain/"><u>Processus De Digitisation Des Ressources Financières: Partenariat Entre ABBYY Et Costain</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-disappearing-elements-in-windows-11-desktop/"><u>Recovering Disappearing Elements in Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-the-malfunctional-windows-diagnostic-tool/"><u>Recovering the Malfunctional Windows Diagnostic Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-entry-how-to-find-and-fix-missing-pin-on-win-11/"><u>Regain Entry: How to Find & Fix Missing PIN on Win 11</u></a></li>
+</ul></div>
 

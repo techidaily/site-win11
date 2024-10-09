@@ -1,7 +1,7 @@
 ---
 title: "Seamless Chrome File Transfers: Your Windows Fix Guide"
-date: 2024-10-01T03:59:15.222Z
-updated: 2024-10-04T08:08:24.698Z
+date: 2024-10-06T17:21:06.263Z
+updated: 2024-10-08T20:43:05.111Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 * **Restart Chrome:** Sometimes, the simplest solutions are the most effective. It is possible that a temporary browser glitch is causing file upload issues in Chrome. If that is the case, restarting Chrome should resolve the problem.
 * **Clear Cache and Cookies:** Outdated or corrupted browsing data could also cause such problems. You can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to see if that solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use an Incognito Window
 
  One of the key advantages of using Chrome is its wide range of extension support. However, not all third-party extensions are reliable. There’s a chance that one of your extensions is causing Chrome to become unresponsive or crash when you upload files from your Windows PC.
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
  After that, try uploading files and check if the issue occurs again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable Browser Extensions
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Energy Saver Mode in Chrome
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 3. Disable the toggle next to **Energy saver**.  
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After completing the above steps, see if you can upload files without any issues.
 
 ## 5\. Disable Your Antivirus
@@ -97,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  To check for this possibility, you can temporarily disable your antivirus program on Windows. To do so, simply right-click on the antivirus program's taskbar icon, and select **Disable > Disable until the next restart**.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
@@ -111,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 3. Wait for Chrome to download pending updates, and then click the **Relaunch** button to install them.  
 ![Install Chrome Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-chrome-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have updated Chrome, your file uploads should work as expected.
 
 ## 7\. Create a New Chrome Profile
@@ -123,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Reset Chrome Settings
 
@@ -147,10 +147,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  After resetting Chrome, restart it, and the issue should bother you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Experience Effortless Uploads Again With Chrome on Windows
@@ -159,26 +159,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-delving-into-vimeo-your-ultimate-video-partner/"><u>[New] Delving Into Vimeo Your Ultimate Video Partner</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweet-to-twitter-via-smartphone-no-retweeting/"><u>[Updated] Direct Video Tweet to Twitter via Smartphone No Retweeting</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamlined-recording-the-very-best-fullscreen-software/"><u>[Updated] Streamlined Recording The Very Best Fullscreen Software</u></a></li>
-<li><a href="https://win11.techidaily.com/continuous-edge-strategies-for-windows-11-users/"><u>Continuous Edge: Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/expedited-troubleshoot-utility-access-via-windows-hotkey-setups/"><u>Expedited Troubleshoot Utility Access via WIndows Hotkey Setups</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-windows-11-achieving-5ghz-connectivity/"><u>Fixes for Windows 11: Achieving 5GHz Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-quick-fix-in-windows-11/"><u>Implementing Quick Fix in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-windows-11s-phishing-protection/"><u>Implementing Windows 11’S Phishing Protection</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-perfect-loop-technique-for-all-your-youtube-favorites/"><u>In 2024, The Perfect Loop Technique for All Your YouTube Favorites</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlocking-the-potential-of-minecraft-recording-with-macos/"><u>In 2024, Unlocking the Potential of Minecraft Recording with MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-remote-desktop-connections-in-windows-11/"><u>Mastering Remote Desktop Connections in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-delays-how-guilty-gear-strives-latest-patch-improves-performance/"><u>No More Delays: How Guilty Gear Strive's Latest Patch Improves Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-path-perfection-error-0x0-cooked-in-windows-fix/"><u>Paper Path Perfection - Error 0X0 Cooked in Windows Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategy-against-xbox-game-pass-error-code-0-in-windows-11/"><u>Winning Strategy Against Xbox Game Pass Error Code 0 in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -186,3 +166,25 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-guide-to-picking-ideal-youtube-partnership-allies/"><u>[New] In 2024, The Guide to Picking Ideal YouTube Partnership Allies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-process-for-acquiring-moviemaker-6-on-pcs/"><u>[New] Step-by-Step Process for Acquiring Moviemaker 6 on PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts/"><u>[Updated] In 2024, The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-non-networked-game-haven-top-screen-free-android-titles/"><u>2024 Approved Non-Networked Game Haven Top Screen-Free Android Titles</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-driven-data-collection-optimizing-user-experience/"><u>Cookiebot-Driven Data Collection: Optimizing User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-enhancing-interface-through-ms-store-themes/"><u>Effortlessly Enhancing Interface Through MS Store Themes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuit-online-konvertereen-avi-naar-nsv-professioneel-movavi/"><u>Gratuit Online Konvertereen AVI Naar NSV - Professioneel Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-riches-guide-ranking-the-top-earner-posts/"><u>In 2024, Instagram Riches Guide Ranking the Top Earner Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-viral-visions-behind-the-meme/"><u>In 2024, Viral Visions Behind the Meme</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rescuing-flaky-windows-programs/"><u>Mastering the Art of Rescuing Flaky Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-clear-obstacles-no-access-allowed-windows-errors/"><u>Methods to Clear Obstacles: No Access Allowed Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/rebooting-strategies-your-file-explorer-fixes/"><u>Rebooting Strategies: Your File Explorer Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vanished-hardware-on-windows/"><u>Resolving Vanished Hardware on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionary-driver-solutions-at-no-cost-to-optimize-windows-cars/"><u>Revolutionary Driver Solutions at No Cost to Optimize Windows Cars</u></a></li>
+<li><a href="https://win11.techidaily.com/underrated-windows-11-themes-worth-appreciating/"><u>Underrated Windows 11 Themes Worth Appreciating</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand/"><u>Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand</u></a></li>
+<li><a href="https://win11.techidaily.com/winupgrade-hurdles-overcoming-error-code-xc004f050/"><u>WinUpgrade Hurdles: Overcoming Error Code Xc004f050</u></a></li>
+</ul></div>
+

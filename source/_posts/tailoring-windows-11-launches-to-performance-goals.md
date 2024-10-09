@@ -1,7 +1,7 @@
 ---
 title: Tailoring Windows 11 Launches to Performance Goals
-date: 2024-09-15T09:28:53.852Z
-updated: 2024-09-21T22:21:05.900Z
+date: 2024-10-05T09:48:56.139Z
+updated: 2024-10-08T20:20:31.978Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 
  Windows allows you to prevent apps from booting at startup but if you do not want to take the extreme route, you can simply delay the startup time of the targeted program. We have listed two methods of delaying the load time in Windows. Proceed with the method that suits your situation the best.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.1 Use the Task Scheduler Utility
 
  In this method, we will first disable the program from the Startup list and then use the Task Scheduler utility to delay the boot time.
@@ -55,6 +62,13 @@ Here is all that you need to do:
 5. Click on the**Disable** button as shown below.  
 ![Click on the Startup button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-manager-startup-disable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, search for**Task Scheduler** using the Windows Search utility and launch it.
 
 1. Click on the**Create Task** option in the left pane and enter a name for the task. You can enter the name of the application whose startup time you want to delay.  
@@ -62,6 +76,14 @@ Here is all that you need to do:
 2. Now, head over to the**Trigger** tab and click on the**New** button.  
 ![Click on the New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-triggers-new.jpg)
 3. Expand the dropdown for**Begin the task** and choose**At log on** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Checkmark the box associated with**Delay task for** .  
 ![Delay the task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/new-trigger-delay-task-time.jpg)
 5. Expand the dropdown and choose your preferred time.
@@ -72,16 +94,17 @@ Here is all that you need to do:
 3. In the dropdown for**Action** , choose**Start a program** \>**Browse** option.  
 ![Click on the Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-a-program-browse.jpg)
 4. Next, navigate to the EXE file of the application and click**Open** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Go to the**Conditions** tab and uncheck the box associated with**Start the task only if the computer is on AC power** .  
 ![Change the startup settings of the computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/conditions-start-the-task-only-if-the-computer-is-on-ac-power.jpg)
 6. Finally, click**OK** and close the Task Scheduler.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.2 Use a Third-Party App
 
@@ -93,10 +116,37 @@ Here is how you can proceed:
 2. Once the file is downloaded, right-click on it and choose**Extract all** .  
 ![Extract the downloaded file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-extract-all.jpg)
 3. Then, double-click on the file and follow the on-screen instructions to complete the installation process.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After the program is installed, launch it.
 5. Enter your preferred delay time under**Delay time** .  
 ![Set a delay time in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-delay-time.jpg)
 6. Now, click on the**Add New Item** button under the second step.  
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Click on the Add New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-new-item.jpg)
 7. Enter the program name, its path, and the parameters.  
@@ -106,16 +156,16 @@ Here is how you can proceed:
 ![Click on the Start button in the Startup Helper utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-start.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The targeted app will now launch after the time you selected on the app.
@@ -137,21 +187,14 @@ Follow these steps to proceed:
 4. Choose**Startup** in the following window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ccleaner-tools-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup.jpg)
 5. In the following four sections, you will be able to see all the components that run when you boot into Windows. Locate the unnecessary ones, click on them, and choose**Disable** or**Delete** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable or delete the uneeded apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup-disable-delete.jpg)
 6. Once done, restart your computer and check if you notice any difference.
@@ -163,13 +206,6 @@ Follow these steps to proceed:
  This is why we recommend taking some time to identify the programs you longer use and uninstall these apps using the Control Panel. There are also several ways of[uninstalling Windows programs in bulk](https://www.makeuseof.com/tag/install-uninstall-programs-bulk-windows/) , which might be needed if you have a bunch of unneeded apps installed.
 
  See our guide on[ways to uninstall software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more information.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Keep Your Windows Updated
 
@@ -196,5 +232,24 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-aces-cache-the-premier-choice-for-twitterscape-animation-preservation/"><u>[New] In 2024, Ace's Cache The Premier Choice for Twitterscape Animation Preservation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-conquer-the-webcam-world-with-ease/"><u>[Updated] 2024 Approved Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>2024 Approved Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comparative-techniques-in-software-remastering-insights-into-msi-and-exe-conversion-strategies/"><u>Comparative Techniques in Software Remastering: Insights Into MSI and EXE Conversion Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-affordable-houses-in-a-box-options-for-under-50k-a-guide-to-economical-prefab-housing-the-verge/"><u>Discover the Best Affordable 'Houses in a Box' Options for Under $50K: A Guide to Economical Prefab Housing | The Verge</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-not-enough-privileges-error-during-installation-on-windows/"><u>Eliminating Not Enough Privileges Error During Installation on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ethernet-efficiency-top-tips-to-test-your-networks-pace-on-windows/"><u>Ethernet Efficiency: Top Tips to Test Your Network's Pace on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s17t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S17t to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>In 2024, YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-error-0x8007251d-windows-activation-demystified/"><u>Mastery over Error 0X8007251D: Windows Activation Demystified</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-slow-shutdown-woes-on-windows-10-devices/"><u>Quick Fixes for Slow Shutdown Woes on Windows 10 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-conflict-between-apps-and-computers-default-audio/"><u>Remedying the Conflict Between Apps and Computer's Default Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-services-command-line-tool-with-these-7-steps/"><u>Restoring Window's Services Command Line Tool with These 7 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-pc-with-apples-imessage/"><u>Setting Up Your PC with Apple's iMessage</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-ongoing-amd-drivers-glitches-swiftly/"><u>Solve Ongoing AMD Drivers Glitches Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-methods-how-to-determine-hard-drivessd-status-in-windows-system/"><u>Swift Methods: How to Determine Hard Drive/SSD Status in Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-mail-issues-with-html-enhanced-emails/"><u>Troubleshooting Windows 11 Mail Issues with HTML-Enhanced Emails</u></a></li>
+</ul></div>
 

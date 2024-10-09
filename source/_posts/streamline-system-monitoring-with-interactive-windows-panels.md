@@ -1,7 +1,7 @@
 ---
 title: Streamline System Monitoring with Interactive Windows Panels
-date: 2024-09-29T04:09:32.802Z
-updated: 2024-10-03T22:14:53.695Z
+date: 2024-10-08T13:48:40.873Z
+updated: 2024-10-09T05:52:09.707Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
  These widgets serve as handy tools to closely monitor and optimize your system's performance. To access them, simply [download Dev Home from the Microsoft Store](https://apps.microsoft.com/store/detail/dev-home-preview/9N8MHTPHNGVV) and set it up.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up and Configure Windows Widgets on Dev Home
 
  After downloading Dev Home in Windows 11, it is time to set up and configure the widgets. Here is how you can do that:
@@ -50,19 +57,19 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 3. You should now see a list of the widgets available. Click on the plus icon associated with the widget you want to access.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click on the plus icon for widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plus-icon-widget.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you do this, you should be able to see the details of your selected widget. You can use it to monitor hardware usage and access other important information efficiently.
@@ -70,17 +77,10 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![New widget in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-widget.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay Informed and Optimize Your Hardware Usage With Windows Widgets
@@ -89,26 +89,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
  Below, we delve into the process of acquiring Windows Widgets offered by Dev Home and harnessing their power to effectively monitor and optimize the system's performance.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-budding-photographers-guide-to-enhanced-gopro-capabilities-for-2024/"><u>[New] Budding Photographers' Guide to Enhanced GoPro Capabilities for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722969767750-effortless-usb-camera-software-setup-get-your-download-here/"><u>Effortless USB Camera Software Setup – Get Your Download Here</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-msvcr110dll-deficit-in-windows/"><u>Eliminating the msvcr110.dll Deficit in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-fixing-bluetooth-connection-problems-in-win-11/"><u>Essential Guide: Fixing Bluetooth Connection Problems in Win 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-edit-10-best-tools-unveiled/"><u>Instagram Edit 10 Best Tools Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-limited-resources-alert-now-functionality-restored/"><u>Overcome Limited Resources Alert – Now Functionality Restored</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-lost-data-curing-transfer-failures-on-windows-usbs/"><u>Preventing Lost Data: Curing Transfer Failures on Windows USBs</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-workspace-individual-monitors-in-windows-11/"><u>Tailoring Your Workspace: Individual Monitors in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-link-av1300-extender-assessment-evaluating-effectiveness-in-boosting-home-wireless-networks/"><u>TP-Link AV1300 Extender Assessment: Evaluating Effectiveness in Boosting Home Wireless Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-oculus-quest-to-windows-pc-vr-setup/"><u>Transitioning Oculus Quest to Windows PC VR Setup</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uncovering-the-highest-performing-internal-storage-options-s-tech-enthusiasts/"><u>Uncovering the Highest-Performing Internal Storage Options 'S Tech Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-potential-of-your-pc-learning-system-restore-in-windows/"><u>Unlock the Potential of Your PC: Learning System Restore in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-secrets-integrating-zips-into-image-files-unseen/"><u>Win10/11 Secrets: Integrating ZIPs Into Image Files Unseen</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +96,22 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-clouds-to-storage-keeping-snapshots-on-your-phone/"><u>[New] From Clouds to Storage Keeping Snapshots on Your Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-zapping-to-the-top-with-fast-instagram-video-playback/"><u>[New] Zapping to the Top with Fast Instagram Video Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-live-streaming-platforms-you-should-know/"><u>2024 Approved 10 Best Live Streaming Platforms You Should Know</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-combo-devices-top-5-streamers-that-include-a-built-in-dvd-player/"><u>Best Combo Devices: Top 5 Streamers That Include a Built-In DVD Player</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-live-task-tracker-update-rate-in-windows-11/"><u>Enhancing Live Task Tracker Update Rate in Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/expert-tips-for-developing-high-quality-fb-videos-for-2024/"><u>Expert Tips for Developing High-Quality FB Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 12 Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/linksys-ae25e00-easy-and-fast-download-of-latest-firmware-driver-update/"><u>Linksys AE25e00 - Easy and Fast Download of Latest Firmware Driver Update</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-store-repair-techniques-error-0x80073d26/"><u>Mastering Microsoft Store Repair Techniques: Error 0X80073D26</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-entering-windows-11s-authentication-screen/"><u>Methods for Entering Windows 11'S Authentication Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/online-cinema-free-movies-and-tv-episodes-with-crackle-no-subscription-required/"><u>Online Cinema: Free Movies & TV Episodes with Crackle - No Subscription Required</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-global-communication-hotkeys-for-windows-language-switch/"><u>Optimizing Global Communication: Hotkeys for Windows Language SwitcH</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-top-9-changes-in-win11-february-2023/"><u>Unveiling the Top 9 Changes in Win11 February 2023</u></a></li>
+</ul></div>
+

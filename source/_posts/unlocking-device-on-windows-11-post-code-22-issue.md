@@ -1,7 +1,7 @@
 ---
 title: Unlocking Device on Windows 11 Post Code 22 Issue
-date: 2024-09-27T08:29:05.412Z
-updated: 2024-10-03T16:15:53.601Z
+date: 2024-10-02T05:47:41.719Z
+updated: 2024-10-08T19:56:13.954Z
 tags:
   - windows10
   - windows11
@@ -39,20 +39,27 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
 
 ![Enable device option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-device-option.jpg)
 
- The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
 ## 2\. Check for Physical Damage on the Device
 
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  You should also look for signs of liquid damage, such as corrosion or discoloration on your device. If you find any physical damage, it is likely the culprit behind the error message. In this case, the best thing you can do is to replace the device.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update Your Device Driver
@@ -74,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  To do this, open the **Settings app**. On the left side of the window, select **Windows Update**. Then, click the **Check for updates** button.
 
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
@@ -88,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  Then, check the **Apply repairs automatically** option and click **Next** to step through it.
 
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
@@ -123,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  To do that, start re-enabling the services you disabled for performing the clean boot until the error returns. Once you find the problematic service, consider uninstalling it or downloading its update.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Perform a System Restore
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
@@ -146,26 +140,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-action-camera-bargains-selecting-top-6-for-under-100-costs/"><u>[New] Action Camera Bargains Selecting Top 6 for Under $100 Costs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-one-connected-video-experience-joining-on-youtube-for-2024/"><u>[Updated] One Connected Video Experience Joining on YouTube for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-review-for-easy-hdr/"><u>Detailed Review for Easy HDR</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/illuminating-your-pcs-view-with-simple-fixes/"><u>Illuminating Your PC's View with Simple Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-moto-g-5g-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Moto G 5G (2023) is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-blueprint-for-on-screen-dialogues/"><u>In 2024, The Blueprint for On-Screen Dialogues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g-stylus-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G Stylus (2023) Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-win10s-secure-woes/"><u>Mastering the Art of Fixing Win10's Secure Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-ram-capacity-restrictions/"><u>Overcoming Windows' RAM Capacity Restrictions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi 12</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-win11-anydesk-services/"><u>Restoring Win11 AnyDesk Services</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-task-management-with-these-top-tier-windows-apps/"><u>Skyrocket Your Task Management with These Top-Tier Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-for-windows-marketplace-problem-error-0x80073cf3/"><u>Swift Solutions for Windows Marketplace Problem (Error 0X80073CF3)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-7-most-important-things-to-consider-before-buying-a-windows-laptop/"><u>The 7 Most Important Things to Consider Before Buying a Windows Laptop</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +147,22 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-perfect-your-story-a-roundup-of-best-editing-apps-for-2024/"><u>[New] Perfect Your Story A Roundup of Best Editing Apps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-iphoneipad-apps-to-enjoy-your-favorite-psp-games-for-2024/"><u>[Updated] Best iPhone/iPad Apps to Enjoy Your Favorite PSP Games for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-creativity-how-to-use-movie-maker-on-windows-8/"><u>2024 Approved Boost Creativity How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-workflow-microsofts-innovative-ai-integration-for-windows-11-taskbar/"><u>Accelerating Workflow: Microsoft's Innovative AI Integration for Windows 11 Taskbar</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-website-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhance Website Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-a-smooth-operational-flow-for-wsl-after-win-11s-installation/"><u>Ensuring a Smooth Operational Flow for WSL After Win 11'S Installation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-resolve-lack-of-audio-during-twitch-live-broadcasts/"><u>Fix: How to Resolve Lack of Audio During Twitch Live Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-power-spike-issues-during-multiplayer-adventures/"><u>Fixing Power Spike Issues During Multiplayer Adventures</u></a></li>
+<li><a href="https://win11.techidaily.com/from-windows-to-kali-an-installation-journey/"><u>From Windows to Kali: An Installation Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-disable-live-recording-in-quicktime-player/"><u>How to Disable Live Recording in QuickTime Player</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-15-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 15 Pro to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-your-command-prompt-experience-win11/"><u>Resetting Your Command Prompt Experience (Win11)</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-best-stop-motion-animation-programs-for-mac-and-pc-computers/"><u>Updated S Best Stop Motion Animation Programs for Mac and PC Computers</u></a></li>
+</ul></div>
+

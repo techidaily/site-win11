@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot: Excel Opening Issue with Notepad Windows"
-date: 2024-09-28T08:22:38.355Z
-updated: 2024-10-03T19:45:42.043Z
+date: 2024-10-07T16:40:24.444Z
+updated: 2024-10-09T00:46:53.316Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Default Settings for File Types
 
  When you double-click on a file in Windows, the system knows which application to use to open it. By default, Excel files are configured to be opened with Excel. In some cases where these configurations have been changed, these files might open in Notepad instead.
@@ -51,36 +58,23 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check the File Extension Type
@@ -97,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 ![Show file extensions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-name-extensions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can also [use the Command Prompt to check the file extension type](https://www.makeuseof.com/windows-11-see-file-extensions/). If the file extension type is not correct, you can rename the file to fix the problem. Here is how:
@@ -136,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-assessing-64gb-for-video-file-storing-power/"><u>[Updated] Assessing 64GB for Video File Storing Power</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-beyond-vidcon-top-50-youtube-celebrations/"><u>2024 Approved Beyond VidCon Top 50 YouTube Celebrations</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-network-on-disconnected-pc/"><u>Enabling Network on Disconnected PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-manage-app-packages-using-wingetui-on-windows-11/"><u>How to Manage App Packages Using WingetUI on Windows 11</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-nokia-c32-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Nokia C32 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-decades-most-ingenious-frames-and-organizers-24/"><u>In 2024, The Decade's Most Ingenious Frames & Organizers '24</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-scoop-on-elon-musks-brainchild-the-enigmastoic-truthgpt-initiative-explained/"><u>Inside Scoop on Elon Musk's Brainchild - The Enigmastoic TruthGPT Initiative Explained!</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-dilemma-of-a-non-responsive-windows-command-prompt/"><u>Overcoming the Dilemma of a Non-Responsive Windows Command Prompt</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-spotify-error-4-in-windows-11-systems/"><u>Troubleshooting Spotify Error 4 in Windows 11 Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +137,20 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording/"><u>[New] 2024 Approved From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>[New] In 2024, Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-record-with-your-macbooks-camera/"><u>[Updated] 2024 Approved How to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-content-transform-videos-into-playful-animation-gifs/"><u>[Updated] Streamline Your Content Transform Videos Into Playful Animation Gifs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quickened-cinema-of-corporate-presentations/"><u>2024 Approved Quickened Cinema of Corporate Presentations</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-for-secure-external-drive-handling/"><u>Configuring Windows for Secure External Drive Handling</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-the-catastrophe-recycle-bin-errors-in-win1011/"><u>Curbing the Catastrophe: Recycle Bin Errors in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-problem-to-perfection-tactics-to-install-missing-features-in-windows-11-and-11-pro/"><u>From Problem to Perfection: Tactics to Install Missing Features in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-gpt-3-in-openai-playground/"><u>How to Use GPT-3 in OpenAI Playground</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-graphics-cards-download-geforce-gt-710-drivers-compatible-with-windows-systems/"><u>NVIDIA Graphics Cards: Download GeForce GT 710 Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disconnect-fixing-gif-size-problems-in-discord-on-windows/"><u>Overcoming Disconnect: Fixing GIF Size Problems in Discord on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlock-instagram-broadcast-potential-through-obs-tutorials-for-2024/"><u>Unlock Instagram Broadcast Potential Through OBS Tutorials for 2024</u></a></li>
+</ul></div>
+

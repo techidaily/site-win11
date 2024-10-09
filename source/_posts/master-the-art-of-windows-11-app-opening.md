@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Windows 11 App Opening
-date: 2024-09-21T03:27:18.936Z
-updated: 2024-09-21T17:50:32.626Z
+date: 2024-10-05T04:58:16.041Z
+updated: 2024-10-09T04:13:33.277Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,24 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 3. Type the location of the app and then click**Next** .  
 ![Browse location of the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/app-shortcut.jpg)
 4. Type a name for the app shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Finish** .
 
  If you do not know the app's location, you can click the**Browse** button, which will let you select the target of the Shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Set a Shortcut Key for the App
 
@@ -67,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 ![Search in Windows 11 Start Menu edit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-in-windows-11-start-menu-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pinning apps on the Windows 11 Taskbar will help you launch them quickly—but what if you like keeping your taskbar clean? You can keep your most used app's shortcuts hidden away, yet still quickly accessible, in the Windows 11 Start Menu.
@@ -83,14 +98,14 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 ![Screenshot showing how to look up OneNote app from Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-look-up-onenote-app-from-taskbar-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Using Taskbar search to find the apps you want to open is similar to how you can use the Start Menu for the same purpose. To quickly launch apps on Windows 11, click on the Search icon on the Taskbar and type the name of the app you want to open. You can open it with a click, just like the Start Menu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Apps Quickly on Windows 11
 
@@ -109,5 +124,23 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-content-horizontal-or-vertical-format-debate-for-2024/"><u>[Updated] FB Content Horizontal or Vertical Format Debate for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-practical-techniques-for-downloading-youtube-srt/"><u>2024 Approved Practical Techniques for Downloading YouTube SRT</u></a></li>
+<li><a href="https://win11.techidaily.com/beginning-the-speedy-support-function-of-w11/"><u>Beginning the Speedy Support Function of W11</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-a-quick-fix-to-skip-windows-login-dialogs/"><u>Craft a Quick Fix to Skip Windows Login Dialogs</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-the-isdonedll-error-in-windows-11-and-11x/"><u>Dealing with the ISDone.dll Error in Windows 11 & 11X</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhancing-content-reach-igtv-and-facebook-synergy/"><u>Enhancing Content Reach IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-buffering-for-smooth-videos/"><u>Eradicate Buffering for Smooth Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-rectify-predominant-windows-anydesk-mishaps/"><u>Essential Steps to Rectify Predominant Windows AnyDesk Mishaps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-install-and-use-hyper-v-with-windows-11-a-comprehensive-guide/"><u>How to Install and Use Hyper-V with Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reclaim-full-hard-drive-capacity-on-a-windows-10-machine/"><u>How to Reclaim Full Hard Drive Capacity on a Windows #10 Machine</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-gt-10-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix GT 10 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mini-meets-marvel-razer-book-13-evaluation-for-ultimate-gaming-prowess/"><u>Mini Meets Marvel: Razer Book 13 Evaluation for Ultimate Gaming Prowess</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-ace-2-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Ace 2 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inoperative-windows-11-speech-recognition/"><u>Resolving Inoperative Windows 11 Speech Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-correcting-unresponsive-video-files/"><u>Tips for Correcting Unresponsive Video Files</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-voice-and-music-from-bluetooth-headset/"><u>Troubleshooting Windows: Voice & Music From Bluetooth Headset</u></a></li>
+</ul></div>
 

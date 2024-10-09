@@ -1,7 +1,7 @@
 ---
 title: Remedy for 'PowerShell Not Available' Error on PCs
-date: 2024-09-21T01:16:51.650Z
-updated: 2024-09-22T04:23:30.873Z
+date: 2024-10-04T19:21:53.081Z
+updated: 2024-10-09T08:34:44.334Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create a Desktop Shortcut for PowerShell
 
@@ -63,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
@@ -91,13 +105,6 @@ To run the SFC scan on Windows:
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Windows PowerShell
 
@@ -130,10 +137,10 @@ To create a new user account on Windows, use these steps.
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
@@ -157,5 +164,23 @@ To create a new user account on Windows, use these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>[Updated] Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-youtube-full-length-view-control/"><u>2024 Approved Mastering YouTube Full-Length View Control</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-eye-ideport0-malfunction-notice/"><u>Driver's Eye: Ideport0 Malfunction Notice</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-the-microsoft-store-with-no-hindrances-in-win11/"><u>Enabling the Microsoft Store with No Hindrances in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-a-valid-temp-directory-how-to-fix-errors-on-windows-11/"><u>Ensuring a Valid Temp Directory: How to Fix Errors on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellent-free-memes-at-your-fingertips/"><u>Excellent FREE Memes at Your Fingertips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/focusfulness-selecting-online-video-augmenters/"><u>Focusfulness Selecting Online Video Augmenters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ensuring-precision-the-art-of-skype-call-documentation/"><u>In 2024, Ensuring Precision The Art of Skype Call Documentation</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incremental-audio-fading-using-garageband/"><u>In 2024, Incremental Audio Fading Using Garageband</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-calculating-storage-space-via-windows-powershell/"><u>Mastering the Art of Calculating Storage Space via Windows Powershell</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-enhancing-win-11s-context-menu/"><u>Mastering the Art of Enhancing Win 11'S Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/narrow-focus-applying-group-policy-to-one-windows-account/"><u>Narrow Focus: Applying Group Policy to One Windows Account</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-reno-10-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Reno 10 5G unlock screen</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-winget-efficiency-on-modern-windows-pcs/"><u>Resurrecting Winget Efficiency on Modern Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-the-day-bypassing-win1011-recycle-bin-issues/"><u>Saving the Day: Bypassing WIN10/11 Recycle Bin Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Last Snapshot: Exploring Windows' Latest Files"
-date: 2024-09-17T00:26:53.755Z
-updated: 2024-09-21T22:41:04.291Z
+date: 2024-10-06T18:56:00.807Z
+updated: 2024-10-09T05:30:19.176Z
 tags:
   - windows10
   - windows11
@@ -63,9 +63,24 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 3. Click on the parameter you wish to sort the files by.  
 ![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -77,23 +92,9 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to See Recently Opened Files Removed From Quick Access
 
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Deleted From the Recent Items Folder
 
@@ -105,7 +106,21 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Access Recently Opened Files With Ease
 
@@ -126,5 +141,26 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-20-fonts-for-captivating-youtube-thumbnails/"><u>[New] In 2024, Top 20 Fonts for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-a-deep-dive-into-youtubes-latest-monetization-policy/"><u>[Updated] 2024 Approved A Deep Dive Into YouTube's Latest Monetization Policy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-funny-image-memes/"><u>2024 Approved The Ultimate Guide to Funny Image Memes</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unlock-the-power-of-spotifys-advertising-potential/"><u>2024 Approved Unlock the Power of Spotify’s Advertising Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-revealed-perfect-your-tale-telling-skills-with-advanced-techniques/"><u>ChatGPT Secrets Revealed: Perfect Your Tale-Telling Skills with Advanced Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-fixed-file-disposal-area-on-your-windows-desktop/"><u>Creating a Fixed File Disposal Area on Your Windows Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-knowledge-using-windows-canary-channels/"><u>Essential Knowledge: Using Windows Canary Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-steam-unable-to-connect-files-on-pc/"><u>Fixes for Steam Unable to Connect Files on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-14-interesting-text-animation-examples-you-can-try/"><u>In 2024, 14 Interesting Text Animation Examples You Can Try</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-vs-2-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-12-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 12 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-multilingual-keyboards-in-windows-11-os/"><u>Mastering Multilingual Keyboards in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-initialization-delays-in-wow-patch/"><u>Overcoming Initialization Delays in WoW Patch</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-selectable-components-on-win11-screen/"><u>Overcoming Non-Selectable Components on Win11 Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-microsoft-store-issue-x80073d26-in-win11/"><u>Solving Microsoft Store Issue X:80073d26 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-workflow-mending-outlook-glitches/"><u>Streamlining Your Workflow: Mending Outlook Glitches</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-screens-sole-contender-software-or-hardware-triumph-for-2024/"><u>The Screen's Sole Contender Software or Hardware Triumph for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/trick-to-avoid-pin-when-casting-screen-in-windows-11/"><u>Trick to Avoid PIN When Casting Screen in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-horizons-the-top-3-non-youtube-video-havens-for-2024/"><u>Unseen Horizons The Top 3 Non-Youtube Video Havens for 2024</u></a></li>
+</ul></div>
 

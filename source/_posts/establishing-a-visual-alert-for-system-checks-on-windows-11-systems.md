@@ -1,7 +1,7 @@
 ---
 title: Establishing a Visual Alert for System Checks on Windows 11 Systems
-date: 2024-09-20T22:16:30.493Z
-updated: 2024-09-21T20:54:37.192Z
+date: 2024-10-05T09:19:16.220Z
+updated: 2024-10-08T21:58:27.663Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
  If you ever want to remove the **Check for Updates** shortcut from the context menu, open the **Shell** key in the Registry Editor again. Then right-click the **Check for Updates** key to select **Delete**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add a Windows Update Submenu to the Context Menu With Winaero Tweaker
 
  Winaero Tweaker is a freely available customization software for Windows with which you can customize the context menu in many ways. That software has an option you can select to add a **Windows Update** submenu to the context menu, which includes a **Check for updates** shortcut. This is how you can add a **Check for updates** shortcut to the desktop’s right-click menu with Winaero Tweaker:
@@ -84,15 +91,36 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
 
 ![The Windows Update submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-windows-update-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Windows Update** submenu also has four other shortcuts to update settings. Click **Update history** to view the installed update list. Or select **Advanced options** to bring up the additional settings for updates. The **Restart options** shortcut opens the settings for scheduling update times.
 
  Winaero Tweaker also has a customization option for adding a **Windows Update** shortcut to the Control panel. To access that option, click **Settings and** **Control Panel** \> **Add Windows Update** in Winaero Tweaker’s sidebar. Click the **Add Windows Update to Control Panel\\System and Security** checkbox to select that option.
 
 ![The Add Windows Update to Control Panel option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-add-windows-update-to-control-panel-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then you’ll see a **Windows Update** shortcut within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) and click the **System and Security** category. Clicking the **Windows Update** shortcut there will open the **Settings** tab with the **Check for updates** button.
 
 ![The Windows Update Control Panel shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-update-in-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep an Eye Out For New Windows Updates
 
@@ -110,12 +138,22 @@ thumbnail: https://thmb.techidaily.com/f039a729b962f9ef9ca84af335ac6a5c033da72e1
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-titans-clash-discovering-the-ultimate-7-grand-wars-for-2024/"><u>[New] Titans Clash Discovering the Ultimate 7 Grand Wars for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigate-to-notoriety-on-facebook-with-10-effective-tactics-for-2024/"><u>[Updated] Navigate to Notoriety on Facebook with 10 Effective Tactics for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>2024 Approved How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unveiling-secrets-to-effective-snapchat-pins/"><u>2024 Approved Unveiling Secrets to Effective Snapchat Pins</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-fix-blinded-hdd-on-pcs/"><u>Guide to Fix Blinded HDD on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tweak-taskbar-width-in-windows-11-os/"><u>How to Tweak Taskbar Width in Windows 11 OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-x-fold-2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo X Fold 2 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>In 2024, Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
+<li><a href="https://win11.techidaily.com/key-steps-to-amplify-your-wsl-2-and-docker-synergy/"><u>Key Steps to Amplify Your WSL 2 & Docker Synergy</u></a></li>
+<li><a href="https://win11.techidaily.com/making-most-of-w11s-advanced-visual-features-auto-hdr/"><u>Making Most of W11's Advanced Visual Features: Auto HDR</u></a></li>
+<li><a href="https://win11.techidaily.com/navigational-wizardry-mastering-the-use-of-system-tray-keys/"><u>Navigational Wizardry: Mastering the Use of System Tray Keys</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-grammarlys-functionality-in-windows-environments/"><u>Restoring Grammarly's Functionality in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-pdf-experience-fix-selective-features-on-windows/"><u>Simplify Your PDF Experience: Fix Selective Features on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-online-platforms-navigating-facebook-twitter-instagram-and-youtube/"><u>Top Online Platforms: Navigating Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

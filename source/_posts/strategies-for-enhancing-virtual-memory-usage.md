@@ -1,7 +1,7 @@
 ---
 title: Strategies for Enhancing Virtual Memory Usage
-date: 2024-10-03T07:24:30.936Z
-updated: 2024-10-03T19:23:33.757Z
+date: 2024-10-04T23:10:18.591Z
+updated: 2024-10-08T22:33:56.079Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  Let's now see how to reset Virtual Memory on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use the System Properties window
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 ![Reset Page Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-page-size.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the next screen, uncheck the **Automatically manage paging file size for all drives** checkbox and select the drive you want to configure virtual memory. Normally, this will be the drive on which Windows is installed.
@@ -75,18 +75,18 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 
 ![Clear virtual memory pagefile Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-virtual-memory-pagefile-using-group-policy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then navigate to the following location:
 
 Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Option
 
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use Registry Editor
 
@@ -95,10 +95,10 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
@@ -126,17 +126,20 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-cutting-edge-notebooks-and-tools-to-elevate-your-editing-game/"><u>[New] 2024 Approved Cutting Edge Notebooks and Tools to Elevate Your Editing Game</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-8-youtube-ranks-expertly-navigating-with-key-tools/"><u>[New] 2024 Approved Top 8 YouTube Ranks Expertly Navigating with Key Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-securing-your-facebook-memories-top-5-downloading-methods/"><u>[New] Securing Your Facebook Memories Top 5 Downloading Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-battlefield-brilliance-unleashed-a-guide-to-top-7-total-war-triumphs-for-2024/"><u>[Updated] Battlefield Brilliance Unleashed A Guide to Top 7 Total War Triumphs for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-updating-facebook-video-coverage-with-ease-for-2024/"><u>[Updated] Updating Facebook Video Coverage with Ease for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/"><u>Boosting Horizon Zero Dawn's Speed - Tips for Higher FPS and Superior Play Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/complete-killing-of-wsl-how-to-delete-in-windows-11/"><u>Complete Killing of WSL: How to Delete in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-dullness-from-extend-volume-controls-on-win/"><u>Eliminate Dullness From Extend Volume Controls on Win</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-deleted-input-strategies-for-windows-computers/"><u>Reviving the Deleted Input: Strategies for Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/the-future-shaped-by-ai-at-microsofts-hub/"><u>The Future Shaped by AI at Microsoft's Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/times-tick-tock-a-guide-to-reviving-missing-windows-server-services/"><u>Time's Tick-Tock: A Guide to Reviving Missing Windows Server Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mp4-ou/"><u>カスタマイズMP4ビデオ: どうやって副音量を削除するか教えましou?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-windows-10s-premier-choice-of-video-grabber-software/"><u>[New] 2024 Approved Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-storytelling-on-screen-crafting-compelling-narratives-for-instareels-for-2024/"><u>[New] Storytelling on Screen Crafting Compelling Narratives for InstaReels for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-video-edits-essential-mp4-tools-for-mac-users/"><u>[Updated] In 2024, Mastering Video Edits Essential MP4 Tools for Mac Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ios-leading-edge-psp-emulators-top-5-lists/"><u>2024 Approved IOS Leading Edge PSP Emulators, Top 5 Lists</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-zipping-with-command-prompt-step-by-step/"><u>Advanced Zipping with Command Prompt, Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-use-of-windows-explorer-over-traditional-ls/"><u>Effective Use of Windows Explorer Over Traditional LS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-non-responsive-lenovo-mouse-pads-in-different-versions-of-windows-operating-system/"><u>How to Repair Non-Responsive Lenovo Mouse Pads in Different Versions of Windows Operating System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-public-ip-using-windows-command-window/"><u>Navigate to Public IP Using Windows Command Window</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-system-maintenance-tips-for-setting-active-windows-11-times/"><u>Navigating System Maintenance: Tips for Setting Active Windows 11 Times</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-tech-habits-dont-disable-win-11-alerts/"><u>Optimal Tech Habits: Don't Disable Win 11 Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-microsofts-error-code-0x8007251d-for-users/"><u>Simplifying Microsoft's Error Code 0X8007251D for Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-metas-artificial-intelligence-the-future-of-technology/"><u>Understanding Meta's Artificial Intelligence: The Future of Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-auditory-interference-mystery/"><u>Unraveling Windows' Auditory Interference Mystery</u></a></li>
 </ul></div>
 

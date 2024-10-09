@@ -1,7 +1,7 @@
 ---
 title: Fixing Google Chrome's Inability to Save Files on Windows PC
-date: 2024-09-09T17:34:12.633Z
-updated: 2024-09-17T00:21:14.676Z
+date: 2024-10-04T05:33:46.115Z
+updated: 2024-10-09T13:12:26.658Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  If Chrome is stopping your downloads, update your browser, clear its cache, disable interfering extensions, whitelist the browser on a firewall or antivirus, free up some disk space on your computer, change the DNS cache, enable or disable a VPN, reset Chrome, or change the browser profile to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## First, Apply Preliminary Checks
 
  First, try the following basic fixes, which might help you resolve the issue right away:
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  To rule out the possibility, download the same file using a different browser. If the file doesn't download on other browsers, the source is at fault, not the browser. However, if you can download files successfully from another browser but the issue persists on Chrome for this file and across other downloads from multiple sources, then continue to apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Manually Initiate the Download Process
 
  Sometimes, the embedded download button fails to redirect you to the download page, and the download process doesn't begin. For this reason, you should manually download it to ensure it isn't the case. Right-click on the file's download link and click**Copy link address** from the context menu.
@@ -69,18 +69,18 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  If the download process doesn't start this way, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Ensure There Is Enough Free Storage Space on Your Drive
 
  Chrome may also fail to initiate the download process if the drive selected as the download location runs out of storage. In most cases, Windows will notify you when you have low disk space, but there are times when it doesn't. Therefore, if your disk space is always full, it is recommended that you free up some space.
 
  Moreover,[change the download location in Chrome](https://www.makeuseof.com/tag/how-to-change-the-default-download-folder-in-google-chrome/) if your browser has trouble downloading files in Windows' default downloads folder.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check for Profile-Specific Issues
 
@@ -88,33 +88,20 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
 ![Opening New Incognito Window by Clicking on Three Vertical Dots in the Top-Right Corner of Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-opening-new-incognito-window-by-clicking-on-three-vertical-dots-in-the-top-right-corner-of-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Afterward, you can retry downloading the file. If the file is successfully downloaded in Incognito mode, switch to a new profile and try downloading it again. Downloading the file successfully on a new profile means that your browser profile has a problem. Either the extensions are interfering, or browser settings are to blame.
 
  So, either permanently switch profiles, or keep applying the remaining fixes to resolve the existing profile issue.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Clear Chrome Cache
 
  A piled-up cache may also impede your browser. Clearing the browser cache often resolves most browser issues. This may also fix problems with downloads. Need help clearing your cache? Our guide on[how to clear Chrome's cache and cookies](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) may assist. If clearing out the cache fails to help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Rule Out Extension Interference
 
@@ -128,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  You may also be prohibited from downloading files from your browser due to restrictions imposed by your ISP or public network administrator. If you're using a school network, you're more likely to experience this problem. To rule out this possibility, you should change your DNS. If you've never changed DNS before, check out our guide on[how to change DNS settings in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Reset or Reinstall Chrome
 
  When all else fails, and Chrome still fails to download files, you should reset or reinstall Chrome. Follow these steps to reset Chrome:
@@ -138,16 +132,16 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 ![Restoring the Browser Settings to their Original Defaults in the Reset and Clean Up Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-restoring-the-browser-settings-to-their-original-defaults-in-the-reset-and-clean-up-tab-of-chrome-settings.jpg)
 4. Click**Reset settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
  If that doesn't work, reinstall Chrome from scratch after deleting the current installation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download Files Once Again From Chrome
 
@@ -166,5 +160,17 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-entry-level-expenditure-cost-effective-platforms-for-youtube-purchases-for-2024/"><u>[Updated] Entry-Level Expenditure Cost-Effective Platforms for YouTube Purchases for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unraveling-the-mystery-of-disappearing-youtube-shorts-thumbnails/"><u>[Updated] In 2024, Unraveling the Mystery of Disappearing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-confusion-how-to-handle-installation-hiccups-win11/"><u>Clearing Up Confusion: How to Handle Installation Hiccups (Win11)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2022-for-windows-common-errors-and-fixes/"><u>Football Manager 2022 for Windows: Common Errors and Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-limit-windows-sonic-amplification/"><u>How To Limit Windows Sonic Amplification</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ringtone-manipulation-from-default-sounds-to-custom-beat-selections/"><u>In 2024, Ringtone Manipulation From Default Sounds to Custom Beat Selections</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-testimonial-videos-the-social-proof-powerhouse/"><u>In 2024, Testimonial Videos The Social Proof Powerhouse</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-counteract-the-black-screen-on-steam/"><u>Strategies to Counteract the Black Screen on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-flashing-screens-on-win1011-quick-fixes/"><u>Tackling Flashing Screens on WIN10/11: Quick Fixes</u></a></li>
+</ul></div>
 

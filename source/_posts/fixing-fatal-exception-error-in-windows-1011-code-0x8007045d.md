@@ -1,7 +1,7 @@
 ---
 title: "Fixing Fatal Exception Error in Windows 10/11: Code 0X8007045D"
-date: 2024-10-01T02:27:58.407Z
-updated: 2024-10-04T06:05:15.533Z
+date: 2024-10-04T13:32:10.829Z
+updated: 2024-10-09T09:50:34.080Z
 tags:
   - windows10
   - windows11
@@ -53,30 +53,31 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use an Alternate USB Slot
 
  Check your USB stick. See if it's plugged into the USB slot properly. Or take it out and insert it into an alternate slot.
 
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
 
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
@@ -94,33 +95,19 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check for Driver Errors
 
@@ -131,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 3. Select**Update driver** to begin the update of your driver.
 
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
 
@@ -155,21 +149,24 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-self-portraits-are-they-truly-accurate-in-2024/"><u>[New] Insta Self-Portraits Are They Truly Accurate, In 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-spark-creativity-with-costless-auditory-extras/"><u>[Updated] Spark Creativity with Costless Auditory Extras</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook-for-2024/"><u>[Updated] The Art of Amplification A Comprehensive Guide to Sharing Videos on Facebook for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/descubre-los-mejores-convertidores-de-video-gratuitos-para-windows-10-y-por-que-son-la-eleccion-ideal/"><u>Descubre Los Mejores Convertidores De Vídeo Gratuitos Para Windows 10 Y Por Qué Son La Elección Ideal</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-clear-unauthorized-file-access-in-windows-os/"><u>How to Clear Unauthorized File Access in Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>In 2024, High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-overcoming-obs-blank-screens-in-gaming-recording/"><u>In 2024, Overcoming OBS Blank Screens in Gaming Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/jocular-joke-crafting-a-step-by-step-guide-to-memelore-for-2024/"><u>Jocular Joke-Crafting A Step-by-Step Guide to Memelore for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-fb-reel-creation-step-by-step-guide-for-2024/"><u>Mastering FB Reel Creation Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-frozen-lock-screen-wait-time-on-pc/"><u>Overcoming Frozen Lock Screen Wait Time on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-7-notebook-apps-perfect-for-pens-on-pcs/"><u>Prime 7 Notebook Apps: Perfect for Pens on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/scribble-to-screen-top-8-notetaking-alternatives-for-windows-pcs/"><u>Scribble to Screen: Top 8 Notetaking Alternatives for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/tailored-clipboard-mastery-in-windows-1011-workflow/"><u>Tailored Clipboard Mastery in Windows 10/11 Workflow</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver-for-2024/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-3-techniques-for-directory-access/"><u>Unlocking Secrets: 3 Techniques for Directory Access</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-black-and-white-world-of-paint/"><u>Unveiling the Black & White World of Paint</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-powerful-path-to-stellar-videos-top-free-intro-makers/"><u>[New] 2024 Approved The Powerful Path to Stellar Videos Top Free Intro Makers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-opportunities-where-youtube-collaborations-thrive/"><u>[New] Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos-for-2024/"><u>[Updated] Faces in Flux Perfecting Motion Blur on Human Figures in Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-successful-youtube-collaborations-step-by-step/"><u>[Updated] In 2024, Building Successful YouTube Collaborations Step by Step</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-anon-mastery-pcandroidios-edition/"><u>2024 Approved Instagram Anon Mastery PC/Android/iOS Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-whatsapps-voice-communication-system/"><u>2024 Approved Understanding WhatsApp's Voice Communication System</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-d3d11-compatible-gpu-faults-in-w11-and-w10/"><u>Addressing D3D11-Compatible GPU Faults in W11 & W10</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-guide-downloading-various-audio-formats-from-qobuz-mp3-flac-aac-and-more/"><u>Comprehensive Guide: Downloading Various Audio Formats From Qobuz - MP3, FLAC, AAC & More</u></a></li>
+<li><a href="https://win11.techidaily.com/error-handling-strategies/"><u>Error Handling Strategies:</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-reset-account-lockout-counter-after-failed-logins-win-11-edition/"><u>Fine-Tuning Reset Account Lockout Counter After Failed Logins, Win 11 Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-communication-powerhouses-which-is-it-german-or-french/"><u>Global Communication Powerhouses: Which Is It, German or French?</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-or-showing-windows-11s-time-and-date/"><u>Hiding or Showing Windows 11'S Time and Date</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-cs-global-offensive-speed-and-precision/"><u>Improve CS Global Offensive Speed and Precision</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a24-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A24 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-zero-cost-maximum-impact-mastering-your-characters-voice-in-free-fire-gameplay/"><u>In 2024, Zero Cost, Maximum Impact Mastering Your Character's Voice in Free Fire Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/keygen-virus-threat-assessment-causes-consequences-and-system-protection/"><u>Keygen Virus Threat Assessment: Causes, Consequences, & System Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-windows-potential-with-new-widgets/"><u>Maximize Your Window's Potential with New Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-emails-adding-gmail-accounts-to-outlook-windows-style/"><u>Uniting Emails: Adding Gmail Accounts to Outlook, Windows Style</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photo-perfection-troubleshooting-made-simple/"><u>Windows Photo Perfection: Troubleshooting Made Simple</u></a></li>
 </ul></div>
 

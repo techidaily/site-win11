@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows File System with Easy Temp Deletion Tips
-date: 2024-09-30T03:30:02.627Z
-updated: 2024-10-03T21:08:25.919Z
+date: 2024-10-06T09:28:28.048Z
+updated: 2024-10-09T00:05:46.028Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Command Prompt
 
  If the Disk Cleanup utility fails to delete some or all of the temporary files on Windows, you can try using the Command Prompt instead. Don’t worry, the process isn’t as complex as it might sound.
@@ -54,26 +61,13 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*  
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the above command to run and delete the temporary files.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Empty the SoftwareDistribution Folder
@@ -109,13 +103,20 @@ C:\Windows\SoftwareDistribution\Download
 7. Click **OK**.  
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your PC after this and try to delete temporary files once again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Boot Into Safe Mode
@@ -123,13 +124,6 @@ C:\Windows\SoftwareDistribution\Download
  It's possible that a third-party program or background service is preventing Windows from erasing temporary files on your system. Booting your PC in safe mode can help you avoid any interference, as Windows will only run with essential drivers and services.
 
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
 
@@ -139,29 +133,6 @@ C:\Windows\SoftwareDistribution\Download
 
  While temporary files are typically harmless, you may have your own reasons for deleting them. Here are some useful tips that should help remove any stubborn temporary files on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://program-issues.techidaily.com/sifu-how-to-fix-fps-dip-and-smoother-gameplay-experience-for-pc-gamers/"><u>'Sifu': How to Fix FPS Dip and Smoother Gameplay Experience for PC Gamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-driving-engagement-the-art-of-building-a-buzz/"><u>[New] Driving Engagement The Art of Building a Buzz</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-ultimate-guide-to-the-best-grid-software-of-the-year/"><u>[New] In 2024, Instagram's Ultimate Guide to the Best Grid Software of the Year</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-live-broadcast-tech-for-industry-experts/"><u>[New] Top Live Broadcast Tech for Industry Experts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/be-a-part-of-the-hype-hot-10-tiktok-challenges-to-join-for-2024/"><u>Be a Part of the Hype Hot 10 TikTok Challenges to Join for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bose-quietcomfort-435-audio-restoration-effective-diagnosis-and-solutions/"><u>Bose QuietComfort 435 Audio Restoration - Effective Diagnosis & Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-disk-access-in-modern-windows-oses-win-1011/"><u>Deciphering Disk Access in Modern Windows OSes (Win 10/11)</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-sam-related-issues-on-modern-windows/"><u>Deciphering SAM-Related Issues on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-11-blue-screen-errors-with-microsoft/"><u>Decoding Windows 11 Blue Screen Errors with Microsoft</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-productivity-leveraging-the-windows-11-bar/"><u>Enhance Productivity: Leveraging the Windows 11 Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/from-basic-user-to-hyper-v-guru-setup-on-w11-homes-unlocked/"><u>From Basic User to Hyper-V Guru: Setup on W11 Homes Unlocked</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-11-pros-of-perfect-color-balancing-mastery/"><u>In 2024, 11 Pros of Perfect Color Balancing Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/master-strategies-for-handling-windows-error-0xc00000f/"><u>Master Strategies for Handling Windows Error: 0Xc00000f</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-apperror-with-text-on-w11-os/"><u>Overcoming AppError with Text on W11 OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-remedies-to-correct-ntfs-boot-files-ntldr-errors/"><u>Step-by-Step Remedies to Correct NTFS Boot Files (NTLDR) Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/stylishen-windows-mail-and-calendar-use-preferred-photographs/"><u>Stylishen Windows Mail & Calendar: Use Preferred Photographs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-evolution-of-excellence-contrasting-features-between-samsung-galaxy-s24-ultra-and-s23-ultra/"><u>The Evolution of Excellence: Contrasting Features Between Samsung Galaxy S24 Ultra and S23 Ultra</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-window-thumbnails-dimensions/"><u>Tweaking Window Thumbnails' Dimensions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-way-to-convert-4k-videos-to-mp4-fast-free-and-easy-for-2024/"><u>Updated Best Way to Convert 4K Videos to MP4 Fast, Free, and Easy for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -169,3 +140,24 @@ C:\Windows\SoftwareDistribution\Download
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-samsung-bd-j5900-review-2023-update/"><u>[New] 2024 Approved Samsung BD-J5900 Review - 2023 Update</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfecting-skype-calls-dial-down-distractions-for-2024/"><u>[New] Perfecting Skype Calls Dial Down Distractions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube-for-2024/"><u>[Updated] Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pro-video-gear-the-ultimate-stabilizers-selection/"><u>[Updated] Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-economics-of-successful-podcasting/"><u>[Updated] The Economics of Successful Podcasting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-innovative-editions-windowed-film-editing-software/"><u>2024 Approved Innovative Editions Windowed Film Editing Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-6-must-try-instagram-reel-apps/"><u>2024 Approved Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-configuration-with-microsofts-pc-manager-on-w11/"><u>Conquer Configuration with Microsoft's PC Manager on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-snap-configurations-in-win-os/"><u>Crafting Unique Snap Configurations in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/high-res-quests-ultimate-guide-to-playing-adventures-in-hd-using-scummvm/"><u>High-Res Quests: Ultimate Guide to Playing Adventures in HD Using ScummVM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-access-best-5-convertors-no-download-required/"><u>In 2024, Immediate Access Best 5 Convertors, No Download Required</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-teams-screen-share-issues-quick-fixes/"><u>Microsoft Teams Screen Share Issues: Quick Fixes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mp3-to-mp4-converter-guide-mastering-audio-file-conversions-for-2024/"><u>MP3 to MP4 Converter Guide - Mastering Audio File Conversions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-external-monitor-not-responding-in-windows-os/"><u>Resolving External Monitor Not Responding in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-to-open-source-enable-linux-subsystem-for-windows/"><u>Transition to Open Source: Enable Linux Subsystem for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/typingpros-guide-to-swift-typing-using-typingaid/"><u>TypingPros Guide to Swift Typing Using TypingAid</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Winning Method for Converting Your Mp3 Library Into Audible CDs via ImgBurn
-date: 2024-09-28T07:46:47.164Z
-updated: 2024-10-04T00:00:59.017Z
+date: 2024-10-04T16:56:02.750Z
+updated: 2024-10-09T03:03:24.799Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
  Note that if you want to perform the opposite, to bring your CDs into the modern age by converting them to MP3s, we've got you covered, too. Check our article on[how to rip a CD to MP3 (and auto-name the files correctly)](https://www.makeuseof.com/tag/how-to-rip-a-cd-automatically-correctly-name-the-files-windows/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Download and Install ImgBurn
 
  With the necessary information out of the way, it's time to write some music on your CDs. For this article, we're taking for granted that your PC is equipped with a CD writer and that you have a handful of audio files and blank CDs available.
@@ -72,14 +79,14 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![ImgBurn Main Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-main-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Place an "empty" CD in your CD writer, and prepare to burn some music.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Make a Cue File
 
@@ -91,27 +98,21 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![ImgBurn Creating the CUE list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-list.jpg)
 3. If you want to remove a file from your Audio CD, select it in the**Layout** and click on the button with the**red "X"** on the right. Audio CDs can hold up to 70 minutes of audio. If your files add up to more, you should remove some of them, or ImgBurn won't be able to write them on an Audio CD.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
 4. You can use the**arrow buttons** on the right of the window to change the placement of files in the CUE sequence.  
 ![ImgBurn Creating the CUE Changing Sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-changing-sequence.jpg)
 5. Most Audio CD Players will display information about the playing track on their screen. You can choose what they should show from the**CD-TEXT** section under the**Track Options** . If you don't want to enter information for your music manually, go for either**File Name** or**Tag** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
 6. Enable the option**Add To Write Queue When Done** on the bottom left of ImgBurn's window. Then, click on OK to save your CUE file and have it "forwarded" to the CD writing section of the app.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ImgBurn Creating the CUE Add to Write Queue When Done](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-add-to-write-queue-when-done.jpg)
 
 ## How to "Burn" Your Music Onto a CD
@@ -121,35 +122,49 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 1. With an "empty" writeable CD inside your CD writer, click on**Write image file to disc** .  
 ![ImgBurn Write Image File to Disc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-write-image-file-to-disc.jpg)
 2. If you have more than one optical disc writing device on your PC, select the correct one under**Destination** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ImgBurn Select Writing Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-select-writing-device.jpg)
 3. Turn your attention to the bottom right of ImgBurn's writing window. Change the**Write Speed** under**Settings** to 4x or even lower for optimal results.  
 ![ImgBurn Choose Writing Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-choose-writing-speed.jpg)
 4. Click on the large button on the bottom left of ImgBurn's writing window to start the burning process.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ImgBurn Burn Media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-burn-media.jpg)
 5. ImgBurn's main window will "morph" again to show you the writing process progress. Your Audio CD will be ready when the bar under**Complete** fills up. Depending on your settings and hardware, your CD tray may eject when the writing completes.  
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ImgBurn Writing Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-writing-progress.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Listen to Music the Retro Way With ImgBurn
 
@@ -172,22 +187,24 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>2024 Approved Unlocking Your Podcast Potential on iOS From Script to Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bite-sized-narrative-notation/"><u>Bite-Sized Narrative Notation</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-rectify-icons-locations/"><u>Efficiently Rectify Icons' Locations</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-mapping-w11-troubleshooter-icons-to-buttons/"><u>Essential Guide: Mapping W11 Troubleshooter Icons to Buttons</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fixing-windows-11-compatibility-glitches/"><u>Guide to Fixing Windows 11 Compatibility Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-at-snippys-errors-uncover-repair-routines-now/"><u>Halt at Snippy's Errors? Uncover Repair Routines Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-e13-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto E13 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-14-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 14 and iPad</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/iphone-document-scanning-and-conversion-mastering-pdfjpg-ocr-with-finereader-app/"><u>IPhone Document Scanning & Conversion: Mastering PDF/JPG OCR with FineReader App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users-for-2024/"><u>Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-rockalldlldll-from-pc-disappearance/"><u>Recovering Rockalldll.dll From PC Disappearance</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-audio-service-latency-issues/"><u>Resolving Windows Audio Service Latency Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-connect-using-telnet-on-windows-11/"><u>Securely Connect Using Telnet on Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/securing-your-gameplay-on-windows-10-the-5-essentials-for-2024/"><u>Securing Your Gameplay on Windows 10 The 5 Essentials for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-pc-searches-use-everythingapp/"><u>Streamline Your PC Searches, Use EverythingApp</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-top-three-privacy-threats-linked-with-using-chatbots/"><u>Understanding the Top Three Privacy Threats Linked with Using Chatbots</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-loop-your-favorite-videos-10-best-free-online-tools-for-2024/"><u>Updated Loop Your Favorite Videos 10 Best Free Online Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>[New] 2024 Approved Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-camtasia-9-unlock-the-art-of-ken-burns-easing/"><u>[Updated] In 2024, Camtasia 9 Unlock the Art of Ken Burns Easing</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-role-and-usage-of-windows-component-services/"><u>Deciphering the Role & Usage of Windows Component Services</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-tips-for-discovering-computer-gpu-make/"><u>Fast-Track Tips for Discovering Computer GPU Make</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-in-the-game-with-these-solutions-fixing-football-manager-2023s-launch-problems/"><u>Get Back in the Game with These Solutions: Fixing Football Manager 2023’S Launch Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-old-ribbon-revival-in-new-windows/"><u>Guide for Old Ribbon Revival in New Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-resolving-roblox-glitches-on-pc/"><u>Guidelines for Resolving Roblox Glitches on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-lava-blaze-2mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Lava Blaze 2Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-vmware-errors-on-windows-11/"><u>How to Reset VMware Errors on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-update-failure-0x800f0845-error/"><u>Resolving Windows Update Failure: 0X800F0845 Error</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f54-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F54 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-valley-whispers-new-gpt-speculation/"><u>Silicon Valley Whispers: New GPT Speculation</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-defenses-adding-firewall-to-the-context-menu/"><u>Streamlining Windows 11 Defenses: Adding Firewall to the Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/ten-strategies-to-keep-windows-safe-without-bitlocker-support/"><u>Ten Strategies to Keep Windows Safe without Bitlocker Support</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-insiders-guide-to-recording-on-itunes-for-2024/"><u>The Insider's Guide to Recording on iTunes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-unmatched-features-in-windows-10-why-its-superior-to-win11/"><u>The Unmatched Features in Windows 10: Why It's Superior to Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-lava-storm-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Lava Storm 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2010-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2010 File Error | Stellar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Securing Systems: Five Key Approaches to Reinstate Defender Safeguard"
-date: 2024-09-28T19:21:43.305Z
-updated: 2024-10-03T20:30:06.442Z
+date: 2024-10-05T14:24:25.144Z
+updated: 2024-10-09T14:54:12.013Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ Here is how you can restart the Security Center Service:
 
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Edit the Relevant Registry Keys
 
  You can also enable the Windows Defender services using the Registry Editor. In this method, we will disable the DisableAntiSpyware and DisableAntiVirus values. Then, we will delete any corrupt Registry entries that malware may have introduced in the system.
@@ -75,10 +82,10 @@ Once that is done, proceed with the steps below:
 2. Do the same with the**DisableAntiVirus** value in the same window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. After this, navigate to the following location in the Registry Editor:  
@@ -86,13 +93,6 @@ Once that is done, proceed with the steps below:
 4. Here, right-click on the MSASCui.exe, MpCmdRun.exe, and MsMpEng.exe values one by one and choose**Delete** .  
 ![Delete the Registry entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-key.jpg)
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
 
@@ -116,10 +116,10 @@ Here is how you can reset the Windows Security app:
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Remove Any Conflicting Software
@@ -131,10 +131,10 @@ Here is how you can reset the Windows Security app:
  If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Windows Defender Up and Running Again
@@ -156,24 +156,22 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-clandestine-snapsnapper-concealed-techniques-for-image-capturing/"><u>[New] 2024 Approved Clandestine SnapSnapper Concealed Techniques for Image Capturing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-latest-iteration-a-closer-look-at-sonys-s6500-bdp/"><u>[New] In 2024, Latest Iteration A Closer Look at Sony's S6500 BDP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-live-periscope-video-speed/"><u>[New] Optimizing Live Periscope Video Speed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-sound-ripper-collection-top-17-extractors-revealed/"><u>[Updated] 2024 Approved Free YouTube Sound Ripper Collection Top 17 Extractors Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enjoy-classic-games-anywhere-with-the-top-5-pc-based-gb-emulators/"><u>[Updated] In 2024, Enjoy Classic Games Anywhere with the Top 5 PC-Based GB Emulators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-tiktok-audio-crafting-it-as-your-perfect-ringtone/"><u>2024 Approved Mastering TikTok Audio Crafting It as Your Perfect Ringtone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/common-fixes-to-restore-functionality-of-your-gta-5-online-experience/"><u>Common Fixes to Restore Functionality of Your GTA 5 Online Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/decreasing-high-cpu-demand-from-tiworkerexe-tasks/"><u>Decreasing High CPU Demand From TiWorker.exe Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-your-windows-experience-conversion-made-simple/"><u>Enhancing Your Windows Experience: Conversion Made Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-responsive-menu-functionality-in-windows-11/"><u>Fixing Non-Responsive Menu Functionality in Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-choreographies-to-filters-a-comparison-of-content-creation-on-tiktok-and-snap-for-2024/"><u>From Choreographies to Filters A Comparison of Content Creation on TikTok & Snap for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-through-the-reinstallation-of-printmanagement-msconfig/"><u>Guiding Through the Reinstallation of 'PrintManagement' MSCONFIG</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/harmonizing-youtube-content-with-audio-files-for-2024/"><u>Harmonizing YouTube Content with Audio Files for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-visualize-and-reclaim-your-storage-on-windows-with-altwindirstat/"><u>How to Visualize and Reclaim Your Storage on Windows With altWinDirStat</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-navigating-through-and-resolving-outlooks-error-0x80040610/"><u>Masterclass: Navigating Through and Resolving Outlook's Error 0X80040610</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-bluesetbacks-windows-fixes-here/"><u>No More Bluesetbacks: Windows Fixes Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-system-snooze-for-idle-computers/"><u>Simplifying System Snooze for Idle Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-intricacies-of-error-code-0x8007045d-in-windows-11/"><u>Tackling the Intricacies of Error Code 0X8007045d in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/win10s-top-7-brushstrokes-exploring-exceptional-drawing-software/"><u>Win10's Top 7 Brushstrokes: Exploring Exceptional Drawing Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/camtasia-9-unlock-the-art-of-ken-burns-easing-for-2024/"><u>Camtasia 9 Unlock the Art of Ken Burns Easing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-a-course-for-change-windows-11-explore-evolution/"><u>Charting a Course for Change: Windows 11 Explore Evolution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-drivers-rtx-2070-super-edition-for-windows-11-latest-versions/"><u>Download & Update Drivers: RTX 2070 Super Edition for Windows 11 - Latest Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-0x80246007-from-windows-update-on-w10w11/"><u>Eliminating Error Code 0X80246007 From Windows Update on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-photo-corrections-stripping-backdrops/"><u>Expert Advice on Photo Corrections: Stripping Backdrops</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-chrome-download-errors-on-windows-systems/"><u>Fixing Chrome Download Errors on Windows Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/golden-collection-classic-ringtones-at-your-fingertips/"><u>Golden Collection Classic Ringtones at Your Fingertips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/honoring-ten-years-at-mondlyback-filter-excellence/"><u>Honoring Ten Years at MondlyBack Filter Excellence</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-1011-installer-errors/"><u>Navigating Through Windows 10/11 Installer Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly/"><u>New In 2024, FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-edge-40-neo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Edge 40 Neo on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-deactivated-menu-items-on-windows/"><u>Steps to Reactivate Deactivated Menu Items on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-finding-fixes-for-systemsettingsexe-in-win11/"><u>Tips for Finding Fixes for SystemSettings.exe in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-installation-hurdles-in-windows-1011/"><u>Understanding & Resolving Installation Hurdles in Windows 10/11</u></a></li>
 </ul></div>
 

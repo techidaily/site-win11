@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Missing Bluetooth in Windows Device Manager
-date: 2024-09-10T19:39:25.901Z
-updated: 2024-09-16T17:56:40.136Z
+date: 2024-10-02T23:22:33.772Z
+updated: 2024-10-09T07:44:44.590Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 ![Update USB driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-driver-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check Flight Mode
 
  On a Windows computer, enabling Flight Mode is a quick way to disable wireless communications such as Wi-Fi, Bluetooth, or NFC. So if there’s something wrong with Flight Mode on your computer, it could cause Bluetooth drivers to miss from Device Manager.
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
  Launch Action Center and check if Flight Mode is turned off. If it’s already turned off, enable it for a couple of minutes and turn it off again. If you can’t turn it on and off from Action center, there are more[ways to control Flight Mode on a Windows computer](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the Bluetooth Troubleshooter
@@ -70,18 +77,18 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 ![Run Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Run an SFC Scan
 
  Bluetooth could be missing from Device Manager because a system file associated with its functionality got corrupted or damaged. Running the System File Checker should fix these files.
 
  To do this, use one of the[ways to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) to bring it up. Search for**command prompt** and select**Run as administrator** . Then, type the**sfc /scannow** command line and press**Enter** . Make sure you don’t close Command Prompt until the scan is not complete, so Windows can detect and replace any corrupt or damaged files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check Bluetooth Service
 
@@ -94,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 ![Bluetooth service settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring Bluetooth Back on Windows
@@ -117,5 +124,20 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-ace-applications-transforming-videos-for-tweet/"><u>[Updated] Ace Applications Transforming Videos for Tweet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-internet-based-movie-recording-systems/"><u>[Updated] In 2024, Top 5 Internet-Based Movie Recording Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-revolutionize-your-videography-workflow-recordingediting-on-adobe-connect-for-2024/"><u>[Updated] Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tomorrows-critique-varied-solutions/"><u>[Updated] Tomorrow’s Critique Varied Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/6-cost-free-closers-for-your-youtube-video-for-2024/"><u>6 Cost-Free Closers for Your YouTube Video for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-upgrade-issue-error-xc004f050-on-windows-os/"><u>Bypassing Upgrade Issue: Error XC004f050 on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-inflexible-scrollbar-issue-in-microsoft-excel-2016/"><u>Fix Inflexible Scrollbar Issue in Microsoft Excel 2016</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inshot-vs-competitors-a-detailed-video-app-review/"><u>InShot vs Competitors A Detailed Video App Review</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-quake-mode-using-windows-terminal/"><u>Launching Quake Mode: Using Windows Terminal</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pitfalls-of-pixel-slate-an-investigative-review-of-its-chromeos-capabilities/"><u>Navigating the Pitfalls of Pixel Slate - An Investigative Review of Its ChromeOS Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-fixes-resetting-windows-setup-post-reboot/"><u>Simple Fixes: Resetting Windows Setup Post-Reboot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-eliminate-echo-problems-on-your-discord-app-for-windows/"><u>Step-by-Step Tutorial: Eliminate Echo Problems on Your Discord App for Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-convert-4k-videos-to-mp4-a-step-by-step-guide-to-easy-downloads-for-2024/"><u>Updated Convert 4K Videos to MP4 A Step-by-Step Guide to Easy Downloads for 2024</u></a></li>
+</ul></div>
 

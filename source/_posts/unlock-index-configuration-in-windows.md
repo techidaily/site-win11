@@ -1,7 +1,7 @@
 ---
 title: Unlock Index Configuration in Windows
-date: 2024-09-26T20:33:51.192Z
-updated: 2024-10-04T00:25:27.736Z
+date: 2024-10-03T18:01:28.649Z
+updated: 2024-10-09T13:06:45.881Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 ![Open Indexing Options Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-control-panel.jpg)
 4. Then click on the**Indexing Options** menu item.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Open Indexing Options From File Explorer
 
  Windows File Explorer provides a quick and easy way to access and manage your file system. Here are the steps to open Indexing Options:
@@ -61,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 This should open the Indexing Options window for you to use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Open Indexing Options Using a Run Command
 
  Windows Run Command dialog box provides quick access to most of the utilities installed on your PC, including the Indexing Options. This is how you can use it:
@@ -76,20 +76,15 @@ This should open the Indexing Options window for you to use.
 2. Next, copy and paste the following command and press**Enter** :  
 ![Open Indexing Options Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-command-prompt.jpg)  
 control.exe srchadmin.dll
-3. This will launch the Indexing Options dialog box, where you can adjust the indexing options.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. This will launch the Indexing Options dialog box, where you can adjust the indexing options.
 
 ## 6\. How to Open Indexing Options With a Desktop Shortcut
 
@@ -99,6 +94,14 @@ control.exe srchadmin.dll
 2. Then type "control.exe srchadmin.dll" and click**Next** .  
 ![Open Indexing Options With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-with-desktop-shortcut.jpg)
 3. Give your shortcut a name like Indexing Options.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Now click**Finish** to save your changes.
 
  The Indexing Options shortcut will appear on your desktop. To open it, double-click the shortcut icon.
@@ -114,17 +117,10 @@ control.exe srchadmin.dll
 4. Click**Apply > OK** . You will now have a shortcut key created.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting Easy Access to the Indexing Options
@@ -146,24 +142,24 @@ control.exe srchadmin.dll
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-enhancing-your-viewing-experience-recording-overwatch-games/"><u>[New] Enhancing Your Viewing Experience Recording Overwatch Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>[New] Legends of Arcade Combat Nintendo's Top Ten on Switch</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-become-an-expert-in-real-time-streaming-on-facebook-platform-for-2024/"><u>[Updated] Become an Expert in Real-Time Streaming on Facebook Platform for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-nine-essential-live-gaming-services/"><u>Best Nine Essential Live Gaming Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bluescreen-of-death-in-windows-solved-by-dxgkrnlsys-fix/"><u>BlueScreen of Death in Windows Solved by dxgkrnl.sys Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-quick-fixes-configuring-windows-troubleshooting-commands/"><u>Expert Guide to Quick Fixes: Configuring Windows Troubleshooting Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-mastering-windows-lav-filter-usage-and-functionality/"><u>Expert Tips for Mastering Window's LAV Filter Usage and Functionality</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-13-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 13 Pro Max or iPad?</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-windows-11-bluescreens-adopt-these-proven-tactics/"><u>Navigate Windows 11 Bluescreens: Adopt These Proven Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/novel-methods-to-execute-software-on-windows-os/"><u>Novel Methods to Execute Software on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/the-rise-of-16gb-in-win-pcs-a-ram-revolution/"><u>The Rise of 16GB in Win PCs: A RAM Revolution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-v29e-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo V29e Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-audacity-paudio-internal-issue-in-windows/"><u>Troubleshooting Audacity PAudio Internal Issue in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-limits-of-picture-in-picture-mode-on-ios-devices/"><u>Understanding the Limits of Picture-in-Picture Mode on iOS Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/win-error-0x0000007b-your-quick-solution-guide/"><u>Win Error 0X0000007B - Your Quick Solution Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-troubleshoot-tool-integration-into-right-click-options/"><u>Windows Troubleshoot Tool Integration Into Right-Click Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-10-websites-for-premium-quality-vector-stock-images/"><u>[New] Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-memes-for-iphone/"><u>[New] In 2024, Memes for iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-iphone-capturing-time-stretched-movies-for-2024/"><u>[Updated] Mastering iPhone Capturing Time-Stretched Movies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/10-essential-steps-for-accessing-windows-nettools/"><u>10 Essential Steps for Accessing Windows NetTools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-f54-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy F54 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-steam-cloud-errors-on-windows/"><u>Addressing Steam Cloud Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-output-displays-in-window-based-os/"><u>Altering Output Displays in Window-Based OS</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-command-prompt-for-ultimate-control/"><u>Configuring Command Prompt for Ultimate Control</u></a></li>
+<li><a href="https://win11.techidaily.com/experience-refined-creativity-with-microsofts-latest-paint-features/"><u>Experience Refined Creativity with Microsoft's Latest Paint Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-fall-guys-connection-errors-on-windows/"><u>How to Fix Fall Guys Connection Errors on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f14-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F14 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>In 2024, Choosing Your Soundtrack The Podcast Vs. YouTube Showdown</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nokia-g310-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nokia G310 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-digital-age-essential-keys-fan-deal-at-lowest-price-on-windows-11-612lifetime/"><u>Master the Digital Age - Essential Keys Fan Deal at Lowest Price on Windows 11, $6.12/Lifetime</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-online-marketing-for-newcomers-for-2024/"><u>Mastering the Art of Online Marketing for Newcomers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-bsod-code-0x0000003b-and-troubleshooting-guide/"><u>Navigating Windows BSOD -Code 0X0000003B & Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-pc-hardware-expert-tips-from-toms-hardware/"><u>The Complete Guide to PC Hardware - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-connect-your-device-bluetooth-error-in-windows-11/"><u>Troubleshooting Connect Your Device Bluetooth Error in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-fixing-ntldr-error-on-your-windows-pc/"><u>Troubleshooting Steps for Fixing NTLDR Error on Your Windows PC</u></a></li>
 </ul></div>
 

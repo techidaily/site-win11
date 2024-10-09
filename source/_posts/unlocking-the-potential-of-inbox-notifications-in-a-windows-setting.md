@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of Inbox Notifications in a Windows Setting
-date: 2024-10-01T18:49:45.770Z
-updated: 2024-10-03T16:18:07.195Z
+date: 2024-10-05T19:25:16.724Z
+updated: 2024-10-09T01:31:02.281Z
 tags:
   - windows10
   - windows11
@@ -53,13 +53,6 @@ To access notification settings in the Mail app:
 3. Under**Notifications from apps and other senders** , enable the switch next to**Mail** if it isn’t already.  
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check Mailbox Sync Settings
 
  You can configure the Mail app sync settings to specify how frequently the app should connect to the server to download new content. If Mail app notifications are arriving late, you can resolve the problem by modifying the mailbox sync settings. Here's what you'll need to do.
@@ -74,10 +67,17 @@ To access notification settings in the Mail app:
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Allow the Mail App to Run in the Background
@@ -94,13 +94,6 @@ To access notification settings in the Mail app:
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Windows Mail App to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Windows-Mail-App-to-Run-in-the-Background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Remove and Re-Add Your Email Account
 
  If the Mail app still fails to show notifications, you can try removing your email account from the app and adding it again. This should reconnect your account to the app and resolve any issues.
@@ -112,20 +105,13 @@ To access notification settings in the Mail app:
 ![Delete Account From the Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-Account-From-the-Windows-Mail-App.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once removed, restart the Mail app and add your account again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Focus Assist
 
@@ -142,13 +128,6 @@ Once removed, restart the Mail app and add your account again.
 
  If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable Battery Saver Mode
 
  When you enable battery saver mode, Windows limits various background app activities in order to extend battery life. This can prevent apps like Mail from syncing in the background and displaying notifications. To avoid this, you should disable battery saver mode on Windows. Here's how:
@@ -158,6 +137,13 @@ Once removed, restart the Mail app and add your account again.
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Repair or Reset the Mail App
 
@@ -170,6 +156,13 @@ Once removed, restart the Mail app and add your account again.
 5. Scroll down to the**Reset** section and click on**Repair** .  
 ![Repair or Reset Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Windows-Mail-App.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app instead. Note that this process will delete all the app data.
 
 ## 9\. Update the Mail App
@@ -177,6 +170,13 @@ Once removed, restart the Mail app and add your account again.
  If you don’t update your apps on a regular basis, they will get outdated eventually. It's possible that the Mail app notifications aren't working because of a faulty app version. If that’s the case, updating the app will help more often than not.
 
  Head over to the Microsoft Store on your PC. Search for**Mail and calendar** app and click the**Update** button. If you do not see the Update option, then the app is already up-to-date.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Mail App Notifications on Windows
 
@@ -199,16 +199,20 @@ Once removed, restart the Mail app and add your account again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-impactful-video-campaigns-for-startups/"><u>[New] 2024 Approved Crafting Impactful Video Campaigns for Startups</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-youtubes-monetization-potential/"><u>[New] 2024 Approved Unlocking YouTube's Monetization Potential</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-detailed-razer-kiyo-webcam-insights/"><u>[New] In 2024, Detailed Razer Kiyo Webcam Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-iphone-videos-size-and-length-optimization/"><u>[Updated] Streamline iPhone Videos Size & Length Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-pcs-lock-screen-with-spotlight-or-without/"><u>Customize Your PC's Lock Screen with Spotlight or Without</u></a></li>
-<li><a href="https://win11.techidaily.com/join-the-network-revolution-wp-galaxy-link-with-flow/"><u>Join the Network Revolution - WP-Galaxy Link with Flow</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-7-reliable-video-merging-tools-with-no-watermark-output/"><u>New In 2024, 7 Reliable Video Merging Tools with No Watermark Output</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-invisible-5ghz-networks-on-windows-11-guide-herein/"><u>Reclaim Invisible 5GHz Networks on Windows 11: Guide Herein</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-refresh-your-windows-computers-motherboard-software/"><u>Step-by-Step Tutorial: Refresh Your Windows Computer's Motherboard Software</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-to-correct-file-or-directory-error-x70-in-win/"><u>Tips and Tricks to Correct File or Directory Error X70 in Win</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-microsoft-family-safety-everything-you-need-to-know/"><u>What Is Microsoft Family Safety? Everything You Need to Know</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-your-guide-to-streaming-success-on-discord-platform/"><u>[Updated] In 2024, Your Guide to Streaming Success on Discord Platform</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimal-android-apps-for-clear-screen-recordings/"><u>2024 Approved Optimal Android Apps for Clear Screen Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-footage-iphones-shortening-methods/"><u>2024 Approved Streamline Your Footage IPhone's Shortening Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-your-free-geforce-rtx-3080-drivers-today-supports-windows-10-8-and-7/"><u>Download Your Free GeForce RTX 3080 Drivers Today: Supports Windows 10, 8 & 7!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-incorrectly-assigned-speaker-error-windows-style/"><u>Fixing Incorrectly Assigned Speaker Error, Windows Style</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-itel-a05s-easily-by-drfone-android/"><u>In 2024, How To Unlock a Itel A05s Easily?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-12-pro-max-5-ways-to-get-into-a-locked-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 12 Pro Max? 5 Ways to get into a Locked iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-win-11s-network-proxy-configuration/"><u>Learn Win 11'S Network Proxy Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-mic-silenced-tips-to-unmute-for-google-meet-on-pc/"><u>Microsoft Mic Silenced: Tips to Unmute for Google Meet on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-your-windows-11-re-activate-ms-store-applications/"><u>Revive Your Windows 11: Re-Activate MS Store Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-create-extract-and-manage-files-via-cli/"><u>Step-by-Step Guide to Create, Extract and Manage Files via CLI</u></a></li>
+<li><a href="https://win11.techidaily.com/step-wise-approach-to-adding-icons-to-windows-11-taskbar/"><u>Step-Wise Approach to Adding Icons to Windows 11 Taskbar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photos-shortcuts-for-the-savvy-editor/"><u>Windows Photos Shortcuts for the Savvy Editor</u></a></li>
 </ul></div>
 

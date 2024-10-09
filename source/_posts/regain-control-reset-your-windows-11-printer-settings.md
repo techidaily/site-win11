@@ -1,7 +1,7 @@
 ---
 title: "Regain Control: Reset Your Windows 11 Printer Settings"
-date: 2024-10-02T21:24:22.434Z
-updated: 2024-10-04T03:26:43.841Z
+date: 2024-10-08T03:47:33.590Z
+updated: 2024-10-08T18:38:55.571Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update the Relevant Drivers
 
  Running the troubleshooter should be your go-to step whenever an error or issue arises. However, it is highly rare for it to diagnose, let alone solve, the problem. For this reason, your next reasonable step should be to check for driver updates and ensure the drivers are up-to-date. Here's how to go about it:
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If it shows the best device driver already installed, you can still give the manual option a try. To do this:
 
@@ -89,9 +89,24 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 4. Proceed by clicking on**Stop** .  
 ![print spooler properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/print-spooler-properties.jpg)
 5. Then follow the path**C:\\Windows\\system32\\spoolsv.exe** and delete all the files present in the folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![content in spool folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/spool-folder.jpg)
 6. Now, all you have to do is go back to**Services** and manually start the print spooler service again.
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Recheck Your Default Printer
 
@@ -103,29 +118,15 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![devices and printers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/devices-and-printers.jpg)
 4. Then, head over to**Properties > Ports** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Scroll through the list and select the port type that matches your connection.
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable the Windows Defender Firewall
@@ -133,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
 
  If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Check for New Windows Updates
 
@@ -160,15 +154,28 @@ Here's how you can check that:
 
 ![two boxes highlighting Windows Update and Update history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-update-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For this, head over to**Settings > Windows Update > Update history.** Here, scroll down and go to**Uninstall updates** located under**Related settings** . This action will prompt open a list of Windows updates where you must select the latest one and click on**Uninstall** .
 
  If the latest Windows 11 update was the culprit, reversing it should do the trick and kickstart the printer once again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Run System Restore
@@ -190,10 +197,10 @@ To go back to a restore point:
  Your PC will restart while it resets your Windows 11 to its last restore point.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Printer’s Fixed and Running—What’s Next?
@@ -215,19 +222,24 @@ To go back to a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-perfect-visual-experience-on-youtube-with-professional-techniques/"><u>[New] In 2024, Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>[Updated] The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-maze-of-music-rights-on-instagram/"><u>2024 Approved Navigating the Maze of Music Rights on Instagram</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyyrpa-abbyy/"><u>ABBYYとRPAのパフォーマンス最適化: 深掘り - ABBYYブログ</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/core-asmr-platforms-explored/"><u>Core ASMR Platforms Explored</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creative-distortion-techniques-in-digital-photo-editing/"><u>Creative Distortion Techniques in Digital Photo Editing</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-nonessential-services-a-guide-to-safer-windows-11-management/"><u>Disabling Nonessential Services: A Guide to Safer Windows 11 Management</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-hover-over-experience-windows-11-settings-adjustment/"><u>Improving Hover Over Experience: Windows 11 Settings Adjustment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-3d-text-design-in-ps/"><u>In 2024, The Ultimate Guide to 3D Text Design in PS</u></a></li>
-<li><a href="https://win11.techidaily.com/last-snapshot-exploring-windows-latest-files/"><u>Last Snapshot: Exploring Windows' Latest Files</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-compliance-failures-on-windows-11/"><u>Steps to Address Compliance Failures on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-text-alteration-in-snipping-tool-windows-11/"><u>Tips for Text Alteration in Snipping Tool Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-unveiled-mastering-the-art-of-folder-tabbing/"><u>Windows 11 Unveiled: Mastering the Art of Folder Tabbing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-horizon-to-heavens-photo-taking-on-mobile/"><u>[Updated] Horizon to Heavens Photo-Taking on Mobile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-premier-10-music-clip-showcase/"><u>2024 Approved Facebook's Premier 10 Music Clip Showcase</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/conquering-zoom-meetings-a-tech-savvy-setup-strategy-for-2024/"><u>Conquering Zoom Meetings A Tech-Savvy Setup Strategy for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-parsing-hiccup-code-0xc00ce556/"><u>Correcting Windows Parsing Hiccup Code 0xC00CE556</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-no-server-errors-a-windows-guide-to-apex-success-(156-chars/"><u>Eliminating No-Server Errors: A Windows Guide to Apex Success (<156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-hidden-login-screens-in-windows-11/"><u>Eradicating Hidden Login Screens in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-the-effectiveness-of-win-based-discord-queries/"><u>Improving the Effectiveness of Win-Based Discord Queries</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-p55plus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel P55+?</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-11-settings/"><u>In-Depth Analysis of Windows 11 Settings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/inside-look-best-practices-for-splitting-audiences-with-fb-live/"><u>Inside Look Best Practices for Splitting Audiences with FB Live</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/jumpstart-your-culinary-adventure-key-strategies-from-seasoned-chefs/"><u>Jumpstart Your Culinary Adventure: Key Strategies From Seasoned Chefs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/las-top-10-apps-de-slow-motion-camera-una-guia-completa/"><u>Las Top 10 Apps De Slow Motion Camera: Una Guía Completa</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-to-fix-rpc-fails-on-your-pc/"><u>Master Plan to Fix RPC Fails on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-freezing-windows-netflix-interface/"><u>Reviving Freezing Windows Netflix Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-0x80246007-in-windows-11s-update-process/"><u>Tackling Error 0X80246007 in Windows 11'S Update Process</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-13-mini-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 13 mini on MetroPCS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/viral-visuals-high-favored-instagram-filters-for-2024/"><u>Viral Visuals High-Favored Instagram Filters for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winsecurely-solutions-for-windows-without-bitlocker/"><u>WinSecurely: Solutions for Windows Without Bitlocker</u></a></li>
 </ul></div>
 

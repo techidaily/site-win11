@@ -1,7 +1,7 @@
 ---
 title: The Developer's Guide to Mastering Windows 11 Dev Drive
-date: 2024-09-20T22:43:04.252Z
-updated: 2024-09-21T20:42:40.103Z
+date: 2024-10-07T18:06:40.122Z
+updated: 2024-10-08T23:05:37.646Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  As a developer using Dev Home, you no longer need to constantly switch between different apps, navigate to the relevant file system directories repeatedly, and juggle multiple sign-in identities to get the job done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Dev Drive on Windows 11
 
  At the time of writing, Dev Drive is in preview to Windows Insiders only. If you’re on the Dev Channel of the Windows Insider Program, you can immediately start using Dev Drive on Windows 11\. Otherwise, you’ll have to wait for Microsoft to ship Dev Drive with the next major Windows 11 update.
@@ -46,24 +53,46 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 1. Navigate to **Settings > Storage > Advanced Storage Settings > Disks & volumes**, and select **Create Dev Drive**. Alternatively, you can also launch **Dev Home** and choose **Create Dev Drive**.  
 ![create dev drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-create-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Select **Resize an existing volume** and choose the volume you want to split to make space for a new Dev Drive. You’ll need to ensure the volume you select has at least 50GB of available storage (the minimum capacity of a Dev Drive) and click on **Next**.  
 ![dev drive choose location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-choose-location-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When asked to enter the size of your new volume, enter the required size based on your project requirements and click on **Next**.  
 ![new drive drive size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-new-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Should You Use Dev Drive For?
 
  Microsoft recommends using Dev Drive to store source code repositories, project files, package caches, and the required build files. You shouldn’t use Dev Drive to install IDEs or dev tools such as Visual Studio, Windows SDKs, etc. Microsoft recommends housing these tools on your primary drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Your Dream Developer PC With Windows 11
 
@@ -79,5 +108,19 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-top-10-memetic-artistry-codes-for-2024/"><u>[Updated] Top 10 Memetic Artistry Codes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-windows-11-themes-with-registry-editing/"><u>Decoding the Mystery of Windows 11 Themes with Registry Editing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-refresh-lenovo-system-firmware-and-power-control-modules/"><u>Effortless Guide to Refresh Lenovo System Firmware & Power Control Modules</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-13-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-desktop-functionality-adding-widgets-to-win-11/"><u>Maximizing Desktop Functionality: Adding Widgets to Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-microsoft-outlook-with-windows-heres-how/"><u>Reconnect Microsoft Outlook with Windows, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-ahead-of-the-curve-vivetool-for-enhanced-windows-experience/"><u>Stay Ahead of the Curve: ViVeTool for Enhanced Windows Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-2021s-best-screen-capture-tools-roundup-for-2024/"><u>The 2021'S Best Screen Capture Tools Roundup for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-gt-10-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix GT 10 Pro without backup.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-strategy-for-professional-srt-production/"><u>Ultimate Strategy for Professional SRT Production</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-to-pinpoint-your-cpus-gen-status-8-ways/"><u>Windows Guide to Pinpoint Your CPU's Gen Status (8 Ways)</u></a></li>
+</ul></div>
 

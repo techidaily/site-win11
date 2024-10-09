@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Write Permission Issues in Windows 11
-date: 2024-09-30T00:56:58.924Z
-updated: 2024-10-04T08:06:00.356Z
+date: 2024-10-02T07:04:21.580Z
+updated: 2024-10-08T23:48:30.418Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change a Standard User Account to Admin One
@@ -51,28 +51,21 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 ![The User Accounts applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/user-accounts.jpg)
 3. Select the**Administrator** radio button.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Administrator account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/admin-account-option.jpg)
 4. Click the**Change Account Type** option to switch it to an admin account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change the Installation Drive
 
  Some users have said they resolved this installation issue by selecting an alternative installation drive beyond C. So, that might be worth a try for users who’ve partitioned drives or have alternative external storage devices available. If you can select an alternative, click**Browse** in the setup wizard for the software to change the installation drive and choose a folder location there before selecting to install.
 
 ![The Browse button on a setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/catchchar-setup-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the Compatibility Troubleshooter for the Installer File
 
@@ -86,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 5. Select**Try recommended** settings to bring up a**Test this program** option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Test this program** to bring up the setup wizard with the applied compatibility settings.  
@@ -102,6 +101,20 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
 ![The Temporary files checkbox in Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/temporary-files-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Change the Security Settings for the Installation File
 
  Sometimes an installation file’s security settings might need modifying to extend its permissions. To do that, you’ll need to add a new everyone user group and select**Full control** . You can change the security settings for the installation file with the following steps:
@@ -113,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 5. Press the**Edit** button to open a separate window.  
 ![The Edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Then click**Add** to open a Select User or Group window.
 2. Select**Advanced** to access a search tool for the window.
 3. Click the**Find now** button.
@@ -120,23 +140,16 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-user-groups-window.jpg)
 5. Press**OK** in the Select User or Group window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select the**Full Control** permission checkbox.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/full-control-checkbox.jpg)
 7. Then click**Apply** to save the new permission settings.
 8. Select**OK** twice to exit the permission and properties windows.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Turn Off User Account Control
@@ -157,13 +170,6 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controlled-folder-access-option.jpg)
 4. Click the**Controlled folder access** toggle switch to set that option to off.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Uninstall the Old Version of the Software
 
  If you’re trying to install a new version of the software already on your PC, uninstall the existing (old) program version. You can uninstall software with the Programs and Features applet as instructed within our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -171,16 +177,16 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
  However, it would be even better to uninstall the old program version with one of the[best third-party uninstaller utilities](https://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/) that thoroughly eradicate leftover files and registry entries.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
+<span id="1983553">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the Software You Need on Windows
@@ -202,14 +208,19 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-premier-moba-games-on-android-top-10-edition/"><u>[New] Premier MOBA Games on Android - TOP 10 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-why-gamers-love-windows-more/"><u>Decoding Why Gamers Love Windows More</u></a></li>
-<li><a href="https://blog-min.techidaily.com/expert-dvd-extractor-and-mobile-video-conversion-with-winxdvd-web-platform/"><u>Expert DVD Extractor and Mobile Video Conversion with WinXDVD Web Platform</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-mp4-to-midi-conversion-a-comprehensive-guide/"><u>Free MP4 to MIDI Conversion: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revamp-windows-dashboard-imagery-anytime/"><u>How to Revamp Window's Dashboard Imagery Anytime</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y27s-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y27s</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-email-formatting-excising-extraneous-html-in-windows-11/"><u>Mastering Email Formatting: Excising Extraneous HTML in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-shortcut-problems-fixing-function-keys-in-windows-11/"><u>Rectify: Shortcut Problems - Fixing Function Keys in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-games-in-plain-sight-choose-between-obs-and-shadowplay-for-2024/"><u>[Updated] Capturing Games in Plain Sight Choose Between OBS and ShadowPlay for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-proving-ground-for-a-wealthy-creator-carryminatis-story-ajey/"><u>2024 Approved Proving Ground for a Wealthy Creator CarryMinati's Story (Ajey)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/breaking-the-sound-barrier-the-astonishing-supersonic-journey-of-a-simple-canned-air-jet-as-revealed-by-an-eagle-eyed-engineer/"><u>Breaking the Sound Barrier: The Astonishing Supersonic Journey of a Simple Canned Air Jet, as Revealed by an Eagle-Eyed Engineer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-convertir-des-fichiers-video-m4v-au-format-wmv-sans-frais-a-laide-de-services-en-ligne-movavi/"><u>Comment Convertir Des Fichiers Vidéo M4V Au Format WMV Sans Frais À L'aide De Services en Ligne Movavi ?</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-5-innovative-windows-folder-strategies/"><u>Explore 5 Innovative Windows Folder Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-modules-installer-workers-high-cpu-usage/"><u>How to Fix the Windows Modules Installer Worker's High CPU Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-psd-layer-control/"><u>In 2024, Ultimate PSD Layer Control</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-archiving-concealing-data-within-images-windows-11/"><u>Invisible Archiving: Concealing Data Within Images (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-driver-loading-issues-in-the-latest-os/"><u>Overcoming Failed Driver Loading Issues in the Latest OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prodigious-8-cameras-enhancing-video-quality-in-broadcast/"><u>Prodigious 8 Cameras Enhancing Video Quality in Broadcast</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-closed-captions-issues-in-win11/"><u>Solving Common Closed Captions Issues in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-operation-failed-error-code-0x0000011b/"><u>Tackling Operation Failed Error: Code 0X0000011B</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-challenge-of-artificial-intelligence-alignment/"><u>Understanding the Challenge of Artificial Intelligence Alignment</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>Updated In 2024, How to Record and Edit an Animoji or Memoji Karaoke Music Video?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Taskbar Thumbnail Previews Not Working in Windows
-date: 2024-09-26T19:56:56.971Z
-updated: 2024-10-03T16:25:44.993Z
+date: 2024-10-06T00:12:15.909Z
+updated: 2024-10-09T14:18:56.431Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Edit the Taskband and Advanced Registry Keys
 
  Editing the Taskbar registry key is a widely confirmed solution for fixing taskbar thumbnail previews not working. This potential resolution will fix the **NumThumbnails** DWORD in that key, which might be deleted or incorrectly set. That DWORD sets the maximum number of taskbar thumbnail previews for a single minimized window. This is how you should edit the **Taskband** registry key:
@@ -55,21 +68,14 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 7. If that **DWORD** is set at **0**, erase that number and input **10** in the **Value** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-dword-window3.jpg)
 8. Click **OK** to set the new **NumThumbnails** value.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Restart Windows 11/10 (or restart File Explorer) for this registry tweak to take effect.
 
@@ -86,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-group-policy-editor.jpg)
 3. Next, double-click **Turn off taskbar thumbnails** to access configuration options for that policy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the **Disabled** or **Not Configured** option.  
 ![The Turn off taskbar thumbnail window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-taskbar-window.jpg)
 5. Select **Apply** \> **OK** to disable the **Turn off taskbar thumbnails** policy as configured.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Roll Windows Back With a System Restoration Point
 
@@ -103,38 +109,26 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can roll back Windows by following the instructions in this guide to [utilizing System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/). Applying this potential solution will remove software packages installed after the date of the selected restore point. This will mean some reinstallation of software will probably be necessary after rolling back Windows.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Your Taskbar Thumbnail Previews Fixed
 
  Taskbar thumbnail previews may not be the most essential feature, but many users will undoubtedly miss them when they’re not working. Applying the troubleshooting methods in this guide will usually get the Windows 11/10 taskbar thumbnails working again in most cases. So, give them a try if you can’t view taskbar thumbnail previews for minimized windows.
 
  This issue often arises when users have multiple windows open for apps. Consequently, users only see text labels for minimized window titles. Does a similar thing happen when you try to view taskbar previews? If so, this is how you can fix taskbar thumbnail previews not working on Windows 11/10 PCs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tiktok-legalities-ensuring-video-compliance-pre-upload/"><u>[New] In 2024, TikTok Legalities Ensuring Video Compliance Pre-Upload</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-perfect-your-social-media-presence-wirecast-streaming-tips/"><u>[New] Perfect Your Social Media Presence Wirecast Streaming Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet-for-2024/"><u>[New] Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-localizing-your-content-adding-subtitles-to-igtv/"><u>[Updated] Localizing Your Content Adding Subtitles to IGTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-up-the-fun-top-new-wins11-games-unveiled/"><u>[Updated] Step Up the Fun Top New Wins11 Games Unveiled</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-your-first-step-into-youtube-creating-an-engaging-channel/"><u>[Updated] Your First Step Into YouTube Creating an Engaging Channel</u></a></li>
-<li><a href="https://win11.techidaily.com/dual-display-delight-selective-themes-for-each-screen-win-1011-style/"><u>Dual Display Delight: Selective Themes for Each Screen, WIN 10/11 Style</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-windows-camera-software-guide-10-picks-for-2024/"><u>Essential Windows Camera Software Guide - 10 Picks for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-role-of-windows-bt-directories-in-os/"><u>Exploring the Role of Windows ~BT Directories in OS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-windows-component-services-management-console/"><u>Mastery of Windows Component Services Management Console</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnecting-with-confidence-top-7-tactics-to-address-windows-errors/"><u>Reconnecting with Confidence: Top 7 Tactics to Address Windows Errors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/video-platform-profiles-vimeo-vs-youtube-comparison-for-2024/"><u>Video Platform Profiles Vimeo vs YouTube Comparison for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/why-your-pc-needs-only-one-guardian-antivirus-software/"><u>Why Your PC Needs Only One Guardian - Antivirus Software</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +137,24 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-inventory-of-videography-items-for-exploration/"><u>[New] Inventory of Videography Items for Exploration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-do-paid-subscribers-truly-influence-content-reach-for-2024/"><u>[Updated] Do Paid Subscribers Truly Influence Content Reach for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instamosaic-syncing-videos-across-oses-for-2024/"><u>[Updated] InstaMosaic Syncing Videos Across OSes for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-intense-presentation-review-8x-version/"><u>2024 Approved Intense Presentation Review 8X Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/7-unik-metoder-att-extrager-bilder-ur-videos-guiden-fran-movavi/"><u>7 Unik Metoder Att Extrager Bilder Ur Videos - Guiden Från Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/advance-your-task-management-with-windows-flow-launcher/"><u>Advance Your Task Management with Windows' Flow Launcher</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-methods-to-determine-memory-details-ram-on-a-pc-with-windows-11/"><u>Easy Methods to Determine Memory Details (RAM) on a PC with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/extracting-tabbed-files-windows-11-quick-guide/"><u>Extracting Tabbed Files: Windows 11 Quick Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-note-50-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme Note 50 Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-screenshots-of-youtube-videos-illegal/"><u>Is Taking Screenshots of YouTube Videos Illegal?</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-bsod-data-for-system-debugging/"><u>Leveraging BSOD Data for System Debugging</u></a></li>
+<li><a href="https://win11.techidaily.com/make-your-grans-old-computer-senior-friendly-and-simple/"><u>Make Your Gran’s Old Computer Senior-Friendly & Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-your-guide-to-color-perfection-on-windows/"><u>Overcoming Obstacles: Your Guide to Color Perfection on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-copy-pasting-malfunctions-in-windows-11/"><u>Rectifying Copy-Pasting Malfunctions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-typical-windows-explore-view-configuration/"><u>Revive Typical Windows Explore View Configuration</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-free-32-bit-windows-video-editing-tools-for-2024/"><u>Unleash Your Creativity Free 32-Bit Windows Video Editing Tools for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Hyper-V Workflow: Building a Linux VM in Windows OS"
-date: 2024-10-02T23:42:27.488Z
-updated: 2024-10-04T06:17:18.006Z
+date: 2024-10-02T14:23:09.867Z
+updated: 2024-10-09T11:18:51.019Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
@@ -56,19 +56,26 @@ To enable Virtualization, do as follows:
 5. Click on the**OK** button to apply changes.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Install Hyper-V on the Windows Virtual Machine
 
@@ -101,10 +108,10 @@ To create an Ubuntu virtual machine, do as follows:
 6. Then, click on**Next** button and select the**Default switch** option in the Configure Networking section.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
@@ -114,10 +121,10 @@ To create an Ubuntu virtual machine, do as follows:
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
@@ -132,13 +139,6 @@ To create an Ubuntu virtual machine, do as follows:
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Few Things to Remember
 
@@ -167,17 +167,20 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/adjusting-mouse-pointer-style-in-winxpvista7/"><u>Adjusting Mouse Pointer Style in WinXP/Vista/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-590-graphics-card-free-drivers-and-easy-install-guide-for-windows/"><u>AMD Radeon RX 590 Graphics Card - Free Drivers & Easy Install Guide for Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-130-music-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia 130 Music Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correctly-use-win-plus-p-printer-command-in-windows/"><u>How to Correctly Use Win + P Printer Command in Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-4k-recordings-our-choice-of-the-best/"><u>In 2024, Cutting-Edge 4K Recordings Our Choice of the Best</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pioneering-tomorrow-visionary-developments-in-vr-for-2024/"><u>Pioneering Tomorrow Visionary Developments in VR for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/propel-steam-performance-circumventing-zero-speed-troubles/"><u>Propel Steam Performance: Circumventing Zero-Speed Troubles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-12-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Pro Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reviewing-magix-music-production-for-budding-musicians-for-2024/"><u>Reviewing Magix Music Production for Budding Musicians for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-alchemy-of-animation-in-snapchat-videos-for-2024/"><u>The Alchemy of Animation in Snapchat Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-help-with-cortanas-replacement/"><u>Transforming Help with Cortana's Replacement</u></a></li>
-<li><a href="https://win11.techidaily.com/triumphant-tweaks-for-trendsetting-windows-11-users/"><u>Triumphant Tweaks for Trendsetting Windows 11 Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-agile-quick-windows-picture-sorter/"><u>[New] 2024 Approved Agile Quick Windows Picture Sorter</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-lift-the-tab-listen-up-fb-music-secrets/"><u>[New] Lift the Tab, Listen Up FB Music Secrets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-metaverse-vs-multiverse-whats-the-difference/"><u>[Updated] Metaverse vs Multiverse What's the Difference?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-professional-video-editors-showdown-filmora-versus-democracy-creator/"><u>2024 Approved Professional Video Editors Showdown Filmora Versus Democracy Creator</u></a></li>
+<li><a href="https://win11.techidaily.com/a-walkthrough-for-transferring-old-games-to-windows-gallery/"><u>A Walkthrough for Transferring Old Games to Windows Gallery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-hitman-3-network-issue-a-step-by-step-guide/"><u>Fixing the Hitman 3 Network Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancing-is-bing-chat-or-chatgpt-the-better-choice-key-factors-revealed/"><u>Freelancing : Is Bing Chat or ChatGPT the Better Choice? Key Factors Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466104211-iphone-app-icon-errors-discover-reliable-fixes-for-reappearance/"><u>IPhone App Icon Errors? Discover Reliable Fixes For Reappearance</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-bluetooth-attempt-error-in-windows/"><u>Mastering the Fix: Bluetooth Attempt Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-pcs-powertoys-10-essential-tips/"><u>Mastering Windows PCs: PowerToys' 10 Essential Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/scrutinizing-password-ingress-windows-pass-and-no-pass-outcomes/"><u>Scrutinizing Password Ingress: Windows Pass & No-Pass Outcomes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-premium-optical-and-hdd-units-20214/"><u>The Ultimate Guide to Premium Optical and HDD Units, 20214</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-windows-pin-entry/"><u>Troubleshooting Non-Responsive Windows PIN Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-importance-in-preserving-win-11-notifications/"><u>Unveiling the Importance in Preserving Win 11 Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/yourdevice-link-assessing-risks-and-benefits-in-w10-systems/"><u>YourDevice Link - Assessing Risks and Benefits in W10 Systems</u></a></li>
 </ul></div>
 

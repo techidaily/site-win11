@@ -1,7 +1,7 @@
 ---
 title: Drive Performance Gains with Optimized Android Studio on Windows
-date: 2024-09-12T01:40:46.876Z
-updated: 2024-09-17T02:39:22.104Z
+date: 2024-10-04T16:04:49.460Z
+updated: 2024-10-09T00:14:46.774Z
 tags:
   - windows10
   - windows11
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Android Studio Installer Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Installing Android Studio on an SSD will provide a noticeable boost in performance, making it easier and faster to develop your apps.
 
 ## 4\. Disable Unnecessary Plugins in Android Studio
@@ -80,6 +87,14 @@ Here's how to disable unnecessary plugins in Android Studio:
 2. Select**Plugins** from the left-side navigation pane.  
 ![Plugin Menu In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-plugin-menu.jpg)
 3. Uncheck the boxes next to the plugins you wish to disable and click**Disable** and then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Installed Plugins List In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installed-plugins-list.jpg)
 4. Click**File > Restart IDE** for the changes to take effect.
 
@@ -98,28 +113,15 @@ Follow the below steps to configure Lint in Android Studio:
 ![Lint Settings In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-lint-settings.jpg)
 3. Click the**Apply** button, and then**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In addition to configuring Lint for all your projects, you can also enable or disable specific Lint checks as well as configure the severity level for each check. To view suggestions for your current project, go to the**Project** window and click**Code > Inspect Code** .
 
  You can also configure the scope of the lint checks, such as whether to check only the current file or the entire project. This can help decrease build time and generate your APK file much faster in Android Studio.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update the GPU driver
@@ -131,13 +133,6 @@ Follow the below steps to configure Lint in Android Studio:
  Now that you know the importance of the GPU, check out[how to update the GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for help.
 
  If you want to go further, check out[ways to boost Windows' performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) for more tricks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add Android Studio to the Graphics Performance Preference
 
@@ -152,10 +147,10 @@ Follow the below steps to configure Lint in Android Studio:
 4. Select**Android Studio > Options > High Performance** , and then click**Save** to add it to the Graphics Performance Preference list.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Android Studio Graphics Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-graphics-settings.jpg)
@@ -163,6 +158,13 @@ Follow the below steps to configure Lint in Android Studio:
  Additionally, you can also enable**Hardware-accelerated GPU scheduling** in order to improve the performance of Android Studio.
 
  Want to go one step higher in optimizing Android Studio? Check out the[official Android Developer optimization guide](https://developer.android.com/studio/build/optimize-your-build) for more tips on improving Android Studio's performance.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Experience Lag-Free Coding in Android Studio
 
@@ -183,5 +185,23 @@ Follow the below steps to configure Lint in Android Studio:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simple-guides-for-recording-vimeo-content/"><u>[New] 2024 Approved Simple Guides for Recording Vimeo Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-efficient-screenshot-and-video-recorder-choice-guide-for-pc/"><u>2024 Approved Efficient Screenshot & Video Recorder Choice Guide for PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unleash-your-channels-premium-cost-free-intro-makers/"><u>2024 Approved Unleash Your Channels Premium, Cost-Free Intro Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/break-down-drives-hdd-vs-ssd-explained/"><u>Break Down Drives: HDD vs SSD Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/color-confusion-correcting-windows-desktop-hues-quickly/"><u>Color Confusion? Correcting Windows Desktop Hues Quickly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/connecting-tv-audiences-to-facebook-live-shows-for-2024/"><u>Connecting TV Audiences to Facebook Live Shows for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a1-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A1 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-11-and-11/"><u>How to Fix a Blank Login Screen in Windows 11 & 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-aurora-in-the-market-is-it-a-premium-need/"><u>In 2024, Aurora in the Market Is It a Premium Need?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logilda-dll-resolved-and-restored/"><u>LogiLDA DLL Resolved & Restored</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-video-edits-with-imovie-a-step-by-step-guide-for-2024/"><u>Mastering YouTube Video Edits with iMovie A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/new-wave-windows-leap-from-the-legacy-of-11/"><u>New Wave Windows: Leap From the Legacy of 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-windows-default-settings-on-reboot/"><u>Quick Tips for Windows Default Settings on Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-rectify-windows-defenders-error-0x80004004/"><u>Step-by-Step to Rectify Windows Defender’s Error 0X80004004</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-your-windows-pc-into-a-distributed-transcoding-powerhouse-with-tdarr/"><u>Turn Your Windows PC Into a Distributed Transcoding Powerhouse With Tdarr</u></a></li>
+</ul></div>
 

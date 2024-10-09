@@ -1,7 +1,7 @@
 ---
 title: Steps to Address Missing Logins on WIN10/11 OSes
-date: 2024-09-26T19:24:32.246Z
-updated: 2024-10-04T04:13:24.882Z
+date: 2024-10-07T16:53:32.829Z
+updated: 2024-10-09T15:30:28.628Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  Alternatively, temporary glitches, system file corruption, and malfunctioning lock screen behavior can trigger this issue as well. To fix the issue, follow all the steps below in the given order.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use the Ctrl + Alt + Delete Combo
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
 
  This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Install Pending Windows Updates
 
@@ -86,26 +93,20 @@ To check and update Windows 11:
 4. Next, click on**Advanced options** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
-![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
-6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
+6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
 
 7. Follow on-screen instructions to complete the system restore process.
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run Startup Repair
 
@@ -116,30 +117,31 @@ To check and update Windows 11:
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
-5. Next, select a user account and enter the password.
-6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Next, select a user account and enter the password.
+6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
 ## 7\. Disable the Lock Screen
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
 
  Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can[disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the No Login Screen Issue on Windows 11
 
@@ -162,20 +164,21 @@ To check and update Windows 11:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-crafting-transitional-beats-with-cross-sound-blending/"><u>[Updated] Crafting Transitional Beats with Cross-Sound Blending</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[Updated] In 2024, 10 Best Screenshot Enhancers IPhone/Android Sticker Magic</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>[Updated] Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/become-a-master-at-crafting-engaging-podcast-content-techniques-and-samples-for-2024/"><u>Become a Master at Crafting Engaging Podcast Content (Techniques & Samples) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-unique-window-11-lock-patterns/"><u>Crafting Unique Window 11 Lock Patterns</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-logitech-driver-download-made-easy-for-windows-computers/"><u>Effortless Logitech Driver Download Made Easy for Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-virtual-experience-moving-to-virtualbox-v70-on-windows-11/"><u>Elevating Your Virtual Experience: Moving to VirtualBox v7.0 on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/installing-windows-compressed-archive-cab-files-simplified/"><u>Installing Windows Compressed Archive (CAB) Files Simplified</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/laughter-logic-lab/"><u>Laughter Logic Lab</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unlocking-the-power-of-language-adaptation-advanced-techniques-for-video-dubbing-via-filmora/"><u>New In 2024, Unlocking the Power of Language Adaptation Advanced Techniques for Video Dubbing via Filmora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-defenders-protection-to-use-other-avs/"><u>Overcoming Windows Defender's Protection to Use Other AVs</u></a></li>
-<li><a href="https://win11.techidaily.com/reignite-wireless-connection-usb-wi-fi-fixes-for-windows/"><u>Reignite Wireless Connection: USB Wi-Fi Fixes for Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-overcoming-stardew-valley-not-loading-issues/"><u>Solution Guide: Overcoming 'Stardew Valley Not Loading' Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-reversing-text-entry-errors-in-windows/"><u>Strategies for Reversing Text Entry Errors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-top-windows-based-ndsswitch-games/"><u>Ultimate Guide: Top Windows-Based NDS/Switch Games</u></a></li>
+<li><a href="https://win11.techidaily.com/compreehing-windows-11-printer-offline-error-causes/"><u>Compreehing Windows 11 Printer Offline Error Causes</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-tips-to-unite-folders-and-files-in-windows-11/"><u>Cutting-Edge Tips to Unite Folders & Files in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-risks-of-prompt-injection-attacks-on-ai-platforms/"><u>Exploring the Risks of Prompt Injection Attacks on AI Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-making-mp3-from-instagram-visual-content/"><u>In 2024, Making MP3 From Instagram Visual Content</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ms-store-repairs-overcoming-server-slip-ups-on-windows-os/"><u>Mastering MS Store Repairs: Overcoming Server Slip-Ups on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lan-gaming-challenges-on-pc-winsminecraft/"><u>Overcoming LAN Gaming Challenges on PC, WinsMinecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-joystick-jumble-quick-guide-to-common-fault-resolutions/"><u>Ps4 Joystick Jumble - Quick Guide to Common Fault Resolutions</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-your-pen-on-windows-os/"><u>Quick Fix: Enabling Your Pen on Windows OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/reduce-high-resolution-video-sizes-hd-4k-nk-by-an-impressive-90-with-these-simple-steps/"><u>Reduce High-Resolution Video Sizes (HD, 4K, nK) by an Impressive 90% with These Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-custom-keys-for-windows-applications/"><u>Setting Custom Keys for Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-the-non-operational-escape-button-on-your-desktop/"><u>Swiftly Solve the Non-Operational Escape Button on Your Desktop</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-90-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor 90 password or pattern lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-risks-can-your-job-be-threatened-by-chatgpt/"><u>Unveiling the Risks: Can Your Job Be Threatened by ChatGPT?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-5-popular-linux-audio-recorder-and-linux-audio-recording-tips-for-2024/"><u>Updated 5 Popular Linux Audio Recorder and Linux Audio Recording Tips for 2024</u></a></li>
 </ul></div>
 

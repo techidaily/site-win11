@@ -1,7 +1,7 @@
 ---
 title: How Extended Updates Will Influence Your Use of Windows 11
-date: 2024-09-19T18:04:18.909Z
-updated: 2024-09-22T10:14:35.300Z
+date: 2024-10-06T17:43:17.471Z
+updated: 2024-10-09T10:19:39.509Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's Happening to Windows 11 22H2's End of Support Date?
 
  As reported by [XDA Developers](https://www.xda-developers.com/windows-11-22h2-optional-update-deadline/), Microsoft announced a change to its end-of-support date for Windows 11 version 22H2\. Note that this will not affect your machine if you've updated it recently; 22H2 was released in September 2022, and some people have deliberately prevented Windows 11 from updating so they can stay on version 22H2\.
@@ -43,21 +50,35 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 
  According to Microsoft, this change occurred due to user feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Defining an "Optional Update" in Windows
 
  Windows updates aren't all equal; there's a system that differentiates them depending on how important they are. This deadline extension will allow people to receive non-critical updates on Windows 11 version 22H2 until the new date, and security updates will continue for even longer.
 
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does This Mean for Windows 11 22H2 Users?
 
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
@@ -69,13 +90,6 @@ Zarif Ali / MakeUseOf
  Still, if you can't make the jump right away, it's not the end of the world. An operating system isn't truly deemed "dead" until the company stops supplying security patches. Once this happens, any exploits hackers find won't be patched by the company, and you'll be on your own. It's one of the plenty of [reasons why you shouldn't use an old version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/).
 
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
 
@@ -95,5 +109,26 @@ Zarif Ali / MakeUseOf
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-secure-mp3-conversion-of-live-skype-talks/"><u>[New] Secure MP3 Conversion of Live Skype Talks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-dive-into-iphones-audio-memos-made-simple/"><u>[Updated] 2024 Approved Dive Into iPhone's Audio Memos Made Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-captivate-audience-attention-with-your-yt-shorts/"><u>[Updated] How to Captivate Audience Attention with Your YT Shorts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files/"><u>2024 Approved One Frame at a Time How To Extract Images From Windows 10 Movie Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-racing-game-anthology-the-top-five/"><u>2024 Approved Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-recurring-crash-code-9999-in-windows-and-audacity/"><u>Conquering Recurring Crash Code 9999 in Windows and Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-self-how-to-start-windows-personalized-introspection-engine/"><u>Delving Into Self: How to Start Windows' Personalized Introspection Engine</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-daily-efficiency-top-6-tips-for-incorporating-chatgpt-into-household-tasks/"><u>Enhance Your Daily Efficiency: Top 6 Tips for Incorporating ChatGPT Into Household Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-purpose-and-use-of-windows-batch-files/"><u>Exploring the Purpose & Use of Windows Batch Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-your-secrets-safe-bypass-these-intrusive-apps/"><u>Keep Your Secrets Safe: Bypass These Intrusive Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-solve-xp709-error/"><u>Methods to Solve XP709 Error</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/optimal-budget-friendly-digital-video-reader-for-2024/"><u>Optimal Budget-Friendly Digital Video Reader for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-internet-disconnections-keeping-lele-online/"><u>Overcoming Internet Disconnections: Keeping LeLë Online</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011-sound-flaw-code-0xd36b4/"><u>Overcoming Window's 10/11 Sound Flaw: Code 0Xd36b4</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-window-explorer-tab-disappearances/"><u>Repairing Window Explorer Tab Disappearances</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-computers-double-clicking-technique/"><u>Revolutionize Your Computer's Double-Clicking Technique</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-images-into-engaging-animation-projects/"><u>Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://win11.techidaily.com/your-gateway-to-great-creation-win-11s-best-sketchers/"><u>Your Gateway to Great Creation: Win 11'S Best Sketchers</u></a></li>
+</ul></div>
 

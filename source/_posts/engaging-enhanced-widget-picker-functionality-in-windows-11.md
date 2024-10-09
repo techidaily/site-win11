@@ -1,7 +1,7 @@
 ---
 title: Engaging Enhanced Widget Picker Functionality in Windows 11
-date: 2024-09-28T02:29:21.150Z
-updated: 2024-10-03T19:09:07.494Z
+date: 2024-10-07T15:31:38.640Z
+updated: 2024-10-09T05:04:47.501Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
@@ -79,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
@@ -99,22 +105,6 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-essential-tips-for-effective-fb-live-split-screens-for-2024/"><u>[New] Essential Tips for Effective FB Live Split Screens for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-10-secret-followers-on-stories-for-2024/"><u>[Updated] Discover 10 Secret Followers on Stories for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-smart-home-how-to-successfully-pair-devices-with-a-universal-remote/"><u>DIY Smart Home: How to Successfully Pair Devices with a Universal Remote</u></a></li>
-<li><a href="https://win11.techidaily.com/from-stationary-to-mobile-your-guide-to-win-11s-wi-fi-hotspot/"><u>From Stationary to Mobile: Your Guide to Win 11'S Wi-Fi Hotspot</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-windows-camera-app-error-code-0xa00f429f/"><u>Guide to Correcting Windows Camera App Error Code 0xA00F429F</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-gamers-eden-record-without-paying-in-24/"><u>In 2024, Gamers' Eden Record Without Paying in '24</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/masterclass-on-the-samsung-galaxy-s10-an-in-depth-look-at-its-premium-features-and-capabilities/"><u>Masterclass on the Samsung Galaxy S10: An In-Depth Look at Its Premium Features and Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-virtual-memory-in-windows-11/"><u>Optimize Virtual Memory in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-startup-guide-booting-windows-11-into-safe-mode/"><u>Secure Startup Guide: Booting Windows 11 Into Safe Mode</u></a></li>
-<li><a href="https://win-forum.techidaily.com/stop-frozen-windows-programs-in-their-tracks-the-ultimate-forced-quit-solution-using-revouninstaller/"><u>Stop Frozen Windows Programs in Their Tracks: The Ultimate Forced Quit Solution Using RevoUninstaller</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-potential-of-full-control-facebook-and-the-future-of-oculus-go-rooting/"><u>The Potential of Full Control: Facebook and the Future of Oculus Go Rooting</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,3 +112,27 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>[New] In 2024, A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-architecting-authoritative-adjuncts-for-2024/"><u>[Updated] Architecting Authoritative Adjuncts for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-crafting-the-perfect-soundtrack-for-your-vimeo-content/"><u>[Updated] In 2024, Crafting the Perfect Soundtrack for Your Vimeo Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smartphone-browser-showdown-youtube-app-analysis/"><u>[Updated] Smartphone Browser Showdown YouTube App Analysis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-black-screen-dilemma-top-solutions-revealed/"><u>Cyberpunk 2077 Black Screen Dilemma: Top Solutions Revealed!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-enable-mp4-media-player-compatibility-in-windows-881/"><u>How to Enable MP4 Media Player Compatibility in Windows 8/8.1</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-1111/"><u>How to Install Dolby Atmos in Windows 11/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-logitech-g930-sound-interruptions-and-dead-zones/"><u>How to Resolve Logitech G930 Sound Interruptions & Dead Zones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-windows-11-registry-file-layout/"><u>Mastering the Windows 11 Registry File Layout</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-savings-with-windows-11-pro-secure-top-deals/"><u>Maximize Savings with Windows 11 Pro: Secure Top Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-intelligence-of-microsofts-marketplace/"><u>Navigating the Intelligence of Microsoft's Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workflow-unlocking-the-potential-of-window-11s-search-bar/"><u>Optimize Your Workflow: Unlocking the Potential of Window 11'S Search Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-functional-shortcuts-cure-errors-in-win-11/"><u>Rectify: Functional Shortcuts - Cure Errors in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-windows-screenshot-feature-to-suit-your-preferences/"><u>Tailor Windows Screenshot Feature to Suit Your Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-savvy-collectors-dream-essential-612lifetime-windows-11-deal-awaits/"><u>Tech-Savvy Collectors' Dream: Essential $6.12/Lifetime Windows 11 Deal Awaits</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-user-experience-in-windows-11/"><u>Transforming User Experience in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-in-windows-pricing-acquiring-top-product-keys/"><u>Triumph in Windows Pricing: Acquiring Top Product Keys</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-wow-how-to-fix-the-launch-failed-error-on-windows/"><u>Troubleshooting WoW: How to Fix the 'Launch Failed' Error on Windows</u></a></li>
+</ul></div>
+

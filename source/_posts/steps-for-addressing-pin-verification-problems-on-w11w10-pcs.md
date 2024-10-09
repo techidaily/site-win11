@@ -1,7 +1,7 @@
 ---
 title: Steps for Addressing PIN Verification Problems on W11/W10 PCs
-date: 2024-09-16T19:46:26.053Z
-updated: 2024-09-22T03:56:05.372Z
+date: 2024-10-08T11:21:27.234Z
+updated: 2024-10-08T18:05:38.172Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 
 ![The Devices and Printers Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-a-device-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Utilize the Add a Device Wizard
 
  The Add a device wizard provides another way to pair Bluetooth devices with your Windows PC. Some users have said they got around the “Check the PIN” error by pairing their Bluetooth devices with that wizard. This is how you can utilize the Add a device wizard in Windows 11/10:
@@ -44,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 4. Press the **Add a device** button.  
 ![The Devices and Printers Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-a-device-option.jpg)
 5. Select your Bluetooth peripheral within the Add a device window. If you cannot see your Bluetooth device listed there, make sure it’s turned on and close enough to your PC to be discoverable.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Add a device wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-add-a-device-wizard.jpg)
 6. Click **Next** to proceed with Bluetooth device pairing.
 7. If prompted to input a WPS PIN, input the required device code in the text box.
@@ -63,13 +78,21 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 5. Then right-click a numeric subkey within the **Addrs** key and select **Delete**. That subkey’s title will include random numbers and maybe letters also.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-delete-registry-key-option.jpg)
 6. Click **Yes** when prompted to confirm the deletion.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Yes confirmation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-yes-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update the Bluetooth Driver on Your PC
@@ -79,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
  The most straightforward way to apply this resolution is to utilize a driver updater utility, such as Driver Booster 8\. That will show if the Bluetooth driver on your PC is outdated and provide you with an option to download and install a new one. We recommend utilizing one of the software packages from the [best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/).
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/driver-booster-software.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilize Your Bluetooth Peripheral With Windows PC
 
@@ -103,5 +119,22 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mp3-creation-from-instagram-vids-explained/"><u>[New] 2024 Approved MP3 Creation From Instagram Vids Explained</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[Updated] 2024 Approved How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-expert-tags-analyzer-software-fb-tweet-and-insta-edition/"><u>[Updated] In 2024, Expert Tags Analyzer Software FB, Tweet & Insta Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-full-screen-mode-enhancing-fb-videos/"><u>2024 Approved Full-Screen Mode Enhancing Fb Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>2024 Approved Maximizing Your Influence A Selection of Expert Instagram Analytics Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-third-party-tools-for-chatgpt-integration/"><u>Can You Trust Third-Party Tools for ChatGPT Integration?</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-how-to-prevent-windows-hardware-key-usage/"><u>Guide: How to Prevent Windows' Hardware Key Usage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-liberty-of-youtube-download-customizable-video-themes/"><u>In 2024, Liberty of YouTube Download Customizable Video Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-isdonedll-crashes-in-w11-and-11x-operating-systems/"><u>Overcoming ISDone.dll Crashes in W11 & 11X Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-switch-status-of-the-installer-service/"><u>Techniques to Switch Status of the Installer Service</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-walkthrough-of-windows-11s-widget-features/"><u>The Complete Walkthrough of Windows 11'S Widget Features</u></a></li>
+<li><a href="https://win11.techidaily.com/the-veiled-window-of-you-uncovering-windows-private-self-profile-access/"><u>The Veiled Window of You: Uncovering Windows’ Private Self-Profile Access</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-tips-to-revive-a-frozen-wi-fi-mouse-on-windows/"><u>Top 5 Tips to Revive a Frozen Wi-Fi Mouse on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unzip-success-troubleshoot-windows-11-failures/"><u>Unzip Success: Troubleshoot Windows 11 Failures</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726027069742-windows-11/"><u>Windows 11ビデオのコントラスト調整手順 - ユーザーフレンドリーな解説</u></a></li>
+</ul></div>
 

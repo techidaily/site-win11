@@ -1,7 +1,7 @@
 ---
 title: "Getting Online: Methods Post-Windows Setup"
-date: 2024-09-28T17:45:57.694Z
-updated: 2024-10-03T18:23:07.012Z
+date: 2024-10-03T11:21:33.429Z
+updated: 2024-10-08T22:08:29.606Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 Let's talk about how you can use these to download a browser.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -64,14 +57,14 @@ Let's talk about how you can use these to download a browser.
 
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
- Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
 
 ### Download a Browser Using the Curl Command
 
@@ -90,6 +83,19 @@ Paste the link in quotation marks like so:
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
 
@@ -115,7 +121,21 @@ Next, run the following command:
 
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the process is complete, you can start using the new browser.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
@@ -135,21 +155,7 @@ Run the following command in PowerShell:
 
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Browsing on Your Fave Browser From Day One
 
@@ -170,18 +176,24 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-easy-reduction-of-footage-for-instagram-on-a-mac-for-2024/"><u>[New] Easy Reduction of Footage for Instagram on a Mac for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>[New] In 2024, The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android/"><u>[New] The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-youtubes-adsense-for-maximum-profits/"><u>[Updated] Leveraging YouTube's AdSense for Maximum Profits</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-ais-contribution-to-windows-11-interface/"><u>Decoding AI's Contribution to Windows 11 Interface</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-idevice-collage-mastery-with-these-pro-tips/"><u>Effortless iDevice Collage Mastery with These Pro Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-display-a-comprehensive-guide-to-hdr-on-windows-11/"><u>Enhance Your Display: A Comprehensive Guide to HDR on Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-optimized-orchestration-top-5-chrome-vids-from-fb/"><u>In 2024, Optimized Orchestration Top 5 Chrome Vids From FB</u></a></li>
-<li><a href="https://win11.techidaily.com/key-to-your-digital-alter-ego-accessing-windows-clandestine-personality-editor/"><u>Key to Your Digital Alter Ego: Accessing Windows’ Clandestine Personality Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-productivity-in-windows-11-with-a-superior-run-command-setup/"><u>Maximize Productivity in Windows 11 with a Superior Run Command Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-final-season-not-launching-hurdle-a-step-by-step-2024-strategy/"><u>Overcoming the 'Final Season Not Launching' Hurdle: A Step-by-Step 2024 Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-webp-vision-on-your-pc/"><u>Perfecting WebP Vision on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-for-a-fresh-file-explorer-startup/"><u>Tips & Tricks for a Fresh File Explorer Startup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-key-techniques-for-smooth-screen-sharing-on-mobiledesktop-for-2024/"><u>[New] Key Techniques for Smooth Screen Sharing on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-impact-strategies-for-going-viral-on-instagram/"><u>[New] Maximizing Impact Strategies for Going Viral on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>[Updated] In 2024, Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-win-1011-ad-ds-printer-errors-effectively-and-efficiently/"><u>Addressing Win 10/11 AD DS Printer Errors Effectively and Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-harmony-between-android-tablets-and-windows-11-desktops/"><u>Creating Harmony Between Android Tablets and Windows 11 Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-the-absent-hypervisor-fix-for-xc0351000-error/"><u>Finding the Absent Hypervisor - Fix for XC0351000 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-and-use-windows-11s-home-space/"><u>How to Access and Use Windows 11'S Home Space</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Pova 6 Pro 5G?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 5G Phone without PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-the-primary-web-portal-on-w11/"><u>Modifying the Primary Web Portal on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-0x80860010-a-guide-to-fixes-for-windows/"><u>Navigating Through The 0X80860010: A Guide to Fixes for Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-silencing-soundscape-guiding-you-to-audio-deletion-in-mov-files-for-both-operating-systems-for-2024/"><u>New Silencing Soundscape Guiding You to Audio Deletion in MOV Files for Both Operating Systems for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-hover-over-sensitivity-and-trail-in-windows-11/"><u>Perfect Your Hover Over Sensitivity and Trail in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-non-genuine-adobe-app-warning/"><u>Prevent Non-Genuine Adobe App Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-external-access-to-insider-developer-sets/"><u>Preventing External Access to Insider Developer Sets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-astro-a10-microphone-issues-effective-repair-tips/"><u>Solving Astro A10 Microphone Issues: Effective Repair Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-display-issues-defeating-the-darkness-on-your-destiny-2-screen/"><u>Solving Display Issues: Defeating the Darkness on Your Destiny 2 Screen</u></a></li>
 </ul></div>
 

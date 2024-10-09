@@ -1,7 +1,7 @@
 ---
 title: How to Add a God Mode Option to Windows 11’S Context Menu
-date: 2024-10-03T02:38:54.851Z
-updated: 2024-10-04T07:12:19.472Z
+date: 2024-10-08T08:41:57.299Z
+updated: 2024-10-09T07:12:24.839Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-delete-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add God Mode to the Context Menu With Right-Click Extender
 
  The manual registry tweak method is straightforward, but you can add God Mode to the context menu with third-party software instead if preferred. Right-Click Extender is customization software that includes an option for adding God Mode to the context menu. This is how you can add God Mode to your context menu with Right-Click Extender:
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 4. Open the extracted Right-Click Extender directory and its Right-Click Extender v2 subfolder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Double-click the Right-Click Extender v2 application file.
@@ -77,19 +84,19 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 8. Press the green **Apply** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you’ll see a new **God Mode** option on Windows 11’s classic context menu. This option will also have an icon by it. Click on **God Mode** to view the list of Control Panel applets.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create Control Panel Shortcuts From God Mode's All Tasks Window
@@ -100,38 +107,11 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
 ![The All Tasks (God Mode) window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Make the Most of God Mode on Windows
 
  Adding God Mode to your desktop’s context menu will enable you to access a plethora of Control Panel applets and tools within a single window in a couple of clicks. That will save you from rummaging through the Control Panel to find certain applets and settings when needed. Plus, you can make more essential Control Panel applets even more accessible by creating shortcuts for them from the Task View window.
 
  Many users activate God Mode by setting up desktop shortcuts that open the All Tasks window. However, you can instead add a **God Mode** option to the desktop’s context menu in Windows 11\. Then the All Tasks window will be directly accessible on your right-click menu. This is how you can add God Mode to Windows 11’s context menu.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>[New] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-demystifying-the-symbolism-of-a-blue-marker-in-facebook-chats/"><u>[New] Demystifying the Symbolism of a Blue Marker in Facebook Chats</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-apowersoft-free-software-review-for-techies/"><u>[Updated] In 2024, Apowersoft Free Software Review for Techies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-excellent-record-maker-chromebook-edition/"><u>[Updated] In 2024, Excellent Record Maker Chromebook Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlock-retro-classics-on-android-choose-the-best-ps2-emulators-for-2024/"><u>[Updated] Unlock Retro Classics on Android – Choose the Best PS2 Emulators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-gui-add-folders-to-windows-11s-taskbar/"><u>Elevate Your GUI - Add Folders to Windows 11'S Taskbar</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-a-black-start-up-screen-in-helldivers-2-top-solutions-for-players/"><u>Fixing a Black Start-Up Screen in Helldivers 2 – Top Solutions for Players</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-realme-gt-5-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Realme GT 5 Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/hulu-or-hulu-plus-exploring-key-differences-for-a-better-streaming-experience/"><u>Hulu or Hulu Plus? Exploring Key Differences for a Better Streaming Experience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/keep-pace-with-technology-iphones-trade-up-system/"><u>Keep Pace with Technology: IPhone's Trade-Up System</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-type-fixes-for-windows-11s-x80049dd3-error/"><u>Mastering the Art of Type Fixes for Windows 11'S X80049DD3 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-windows-11s-unwanted-apps-quickly/"><u>Navigate Through Windows 11'S Unwanted Apps Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eradicate-error-80080300-in-windows-team-collaboration/"><u>Steps to Eradicate Error 80080300 in Windows Team Collaboration</u></a></li>
-<li><a href="https://win11.techidaily.com/the-best-practices-for-getting-most-from-windows-11s-launchpad/"><u>The Best Practices for Getting Most From Windows 11'S Launchpad</u></a></li>
-<li><a href="https://win11.techidaily.com/the-components-configuration-console-in-windows-explored/"><u>The Components Configuration Console in Windows Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-managing-printers-in-windows-1011/"><u>The Essentials of Managing Printers in Windows 10/11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +120,22 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-list-top-game-clones-to-gta-v/"><u>[New] 2024 Approved Ultimate List Top Game Clones to GTA V</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-resurrecting-windows-photo-viewer-via-windows-10-simple-fixes/"><u>[New] Resurrecting Windows Photo Viewer via Windows 10 - Simple Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-lockout-duration-post-failed-logon/"><u>Altering Windows Lockout Duration Post-Failed Logon</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-user-interface-incorrante-windows-with-portables/"><u>Augmenting User Interface: Incorrante Windows with Portables</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-success-on-windows-1011-top-5-productivity-boosting-tools/"><u>Drive Success on Windows 10/11: Top 5 Productivity-Boosting Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-connect-airpods-to-windows/"><u>Expert Tips to Connect AirPods to Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-c12-plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia C12 Plus Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/geavanceerd-weg-om-png-bestandjes-online-te-omzetten-movavi-als-gratuite-oplossing/"><u>Geavanceerd Weg Om PNG Bestandjes Online Te Omzetten: Movavi Als Gratuite Oplossing</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-in-plain-sight-the-4-most-influential-silicon-stories/"><u>Hidden in Plain Sight: The 4 Most Influential Silicon Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-buzz-predictions-for-release-timeline-pricing-details-features-and-rumors/"><u>OnePlus 10 Buzz: Predictions for Release Timeline, Pricing Details, Features, and Rumors</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-recognition-failure-in-windows-installation/"><u>Overcoming Device Recognition Failure in Windows Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/1719255130164-tackle-non-working-shift-with-simple-tweaks/"><u>Tackle Non-Working Shift with Simple Tweaks.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-reno-10-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo Reno 10 Pro+ 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>
+

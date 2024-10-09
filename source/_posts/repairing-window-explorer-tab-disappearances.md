@@ -1,7 +1,7 @@
 ---
 title: Repairing Window Explorer Tab Disappearances
-date: 2024-09-28T22:03:06.837Z
-updated: 2024-10-04T02:44:19.095Z
+date: 2024-10-05T14:14:27.371Z
+updated: 2024-10-09T08:42:15.664Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart File Explorer
 
  Tabs might be missing from Windows File Explorer due to a temporary glitch. If there are other File Explorer features that are acting up, you should restart it.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Remove File Explorer Cache
 
@@ -65,13 +79,6 @@ Follow these steps to clear File Explorer cache files:
 
  If you often have to go through the above process manually, you can use Storage Sense to[clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the System File Checker
 
  The System File Checker (or SFC) is one of the[built-in Windows tools you can use to fix corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/) . If this is the reason for File Explorer's missing tabs, running the tool should fix it.
@@ -79,20 +86,6 @@ Follow these steps to clear File Explorer cache files:
  In the Start menu search bar, search for**command prompt** and select**Run as administrator** . Type**sfc/ scannow** and press**Enter** to run the command.
 
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Windows Updates
 
@@ -106,19 +99,20 @@ Follow these steps to clear File Explorer cache files:
 
 ![Uninstall Windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Your File Explorer Tabs Back on Windows 11
@@ -142,24 +136,20 @@ Follow these steps to clear File Explorer cache files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-digital-pioneers-exploring-the-six-surging-in-nft-arts-for-2024/"><u>[New] Digital Pioneers Exploring the Six Surging in NFT Arts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-quality-images-at-a-glance-top-10-vector-sources-for-2024/"><u>[New] Quality Images at a Glance Top 10 Vector Sources for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-vanished-files-problem-on-windows-11/"><u>Correcting Vanished Files Problem on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-print-fixes-for-common-windows-11-printer-hiccups/"><u>Easy Print Fixes for Common Windows 11 Printer Hiccups</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-install-guide-downloading-official-microsoft-ergonomic-kb-4000-drivers/"><u>Fast Install Guide: Downloading Official Microsoft Ergonomic KB 4000 Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-saving-failures-in-windows-10-and-11/"><u>Fixing Saving Failures in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-detect-your-pcs-disk-hdd-or-ssd/"><u>How to Detect Your PC's Disk – HDD or SSD?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-disable-conversational-ai-on-win11/"><u>How to Disable Conversational AI on Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/key-factors-when-choosing-windows-video-codecs/"><u>Key Factors When Choosing Windows Video Codecs</u></a></li>
-<li><a href="https://win11.techidaily.com/open-local-group-policies-with-a-click-on-win11/"><u>Open Local Group Policies with a Click on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-outlooks-unpreviewable-files-issue-on-windows/"><u>Overcoming Outlook's Unpreviewable Files Issue on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-app-not-verified-error-on-windows-pc/"><u>Quick Fixes for App Not Verified Error on Windows PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/redefine-your-digital-world-with-latest-windows-10-gaming-and-apps-for-2024/"><u>Redefine Your Digital World with Latest Windows 10 Gaming & Apps for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-false-device-errors-tips-and-tricks-windows/"><u>Removing False Device Errors: Tips and Tricks, WIndows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-setting-up-handbrake-with-libdvdcss-on-macos-monterey-and-windows-11-plus-visual-aids/"><u>Step-by-Step Guide to Setting Up Handbrake with Libdvdcss on macOS Monterey and Windows 11 (+ Visual Aids!)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-higher-engagement-a-guide-to-youtube-success-for-2024/"><u>Unlocking Higher Engagement A Guide to YouTube Success for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-slumber-techniques-quick-tips/"><u>Windows Slumber Techniques: Quick Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exceptional-programs-for-professional-4k-video-capture/"><u>[New] Exceptional Programs for Professional 4K Video Capture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>[New] In 2024, Pathway Guide Acquiring Movie Maker 6 on Your System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sleek-design-and-stunning-video-quality-in-sony-xperia-xz/"><u>[New] Sleek Design and Stunning Video Quality in Sony Xperia XZ</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-costs-gain-space-the-best-compiled-list-of-20-free-cloud-storages-1tbplus/"><u>Cut Costs, Gain Space The Best Compiled List of 20 Free Cloud Storages (1TB+)</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-win11-lineups-finest-videomodding-software/"><u>Discover the Win11 Lineup's Finest Videomodding Software</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-replacements-for-windows-snipping-functionality-in-other-oses/"><u>Ideal Replacements for Windows' Snipping Functionality in Other OSes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-youtube-profits-strategies-for-revenue-growth/"><u>In 2024, Maximizing YouTube Profits Strategies for Revenue Growth</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-streamlining-your-instagram-archive-with-ease/"><u>In 2024, Streamlining Your Instagram Archive with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/locating-group-policies-a-users-guide-for-win-users/"><u>Locating Group Policies: A User's Guide for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-noir-world-of-microsoft-paint/"><u>Navigating the Noir World of Microsoft Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/novices-guide-to-folder-fabrication-in-win11/"><u>Novice's Guide to Folder Fabrication in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-harbor-for-windows-free-software-selections/"><u>Safe Harbor for Windows Free Software Selections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-canva-and-gpt-for-design-freedom/"><u>The Synergy of Canva and GPT for Design Freedom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/time-capsules-unlocked-exploring-7-features-from-bygone-windows/"><u>Time Capsules Unlocked: Exploring 7 Features From Bygone Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tier-video-coders-for-windows-a-comparative-review/"><u>Top-Tier Video Coders for Windows: A Comparative Review</u></a></li>
 </ul></div>
 

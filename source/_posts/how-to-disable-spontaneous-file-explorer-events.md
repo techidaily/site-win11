@@ -1,7 +1,7 @@
 ---
 title: How to Disable Spontaneous File Explorer Events
-date: 2024-09-30T21:24:41.593Z
-updated: 2024-10-04T02:34:57.907Z
+date: 2024-10-06T22:38:02.220Z
+updated: 2024-10-09T11:46:32.190Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check Your PC's AutoPlay Settings
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
 
  We have a guide on[how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Clear File Explorer History
 
@@ -66,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. Type**explorer options** in the box and select the first result that appears.
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the System Maintenance Troubleshooter
 
@@ -88,14 +74,14 @@ To run the System Maintenance troubleshooter on Windows:
 6. Click**Next** .  
 ![System and Security Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/System-and-Security-Window.jpg)
 
- Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
 ## 5\. Check for Corrupted System Files
 
@@ -125,9 +111,23 @@ To run the System Maintenance troubleshooter on Windows:
 
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prevent File Explorer From Opening Automatically on Windows
 
@@ -148,20 +148,22 @@ To run the System Maintenance troubleshooter on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/astering-hash-tactics-for-thriving-gaming-vids-for-2024/"><u>[New] Mastering Hash Tactics for Thriving Gaming Vids for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-excellent-10-drone-set-professional-filming-and-photography/"><u>[Updated] 2024 Approved Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-video-popularity-leading-trackers-for-youtube/"><u>[Updated] Unleashing Video Popularity Leading Trackers for YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-g2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo G2 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/convert-websites-to-windows-desktop-applications/"><u>Convert Websites to Windows Desktop Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-full-rotation-cam-insight/"><u>Detailed Full-Rotation Cam Insight</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/direct-to-streamer-content-twitch-versus-youtube-explored/"><u>Direct-to-Streamer Content Twitch Versus YouTube Explored</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nier-automata-replica-wont-start-troubleshooting-guide/"><u>NieR: Automata Replica Won't Start - Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-bsod-when-using-vmware-in-windows-11/"><u>Remedying BSOD when Using VMware in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-no-login-issue-on-windows-1011-screens/"><u>Resolving No-Login Issue on Windows 10/11 Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-standard-operations-in-managed-organizational-browsers-chromeedge/"><u>Restoring Standard Operations in Managed Organizational Browsers (Chrome/Edge)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reviving-your-pc-the-ultimate-guide-to-clearing-and-rebooting-bios-settings/"><u>Reviving Your PC: The Ultimate Guide to Clearing and Rebooting BIOS Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/seamlessly-merge-kali-into-your-windows/"><u>Seamlessly Merge Kali Into Your Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-work-with-a-customized-windows-sandbox-win-11/"><u>Secure Your Work with a Customized Windows Sandbox (Win 11)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elite-converter-mp4-to-instant-fb-access-2023/"><u>[Updated] 2024 Approved Elite Converter MP4 to Instant FB Access 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-choose-your-arena-top-platforms-without-cross-play-in-apex-legends-for-2024/"><u>[Updated] Choose Your Arena Top Platforms Without Cross-Play in Apex Legends for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-revision-windows-protocol-uncovered/"><u>[Updated] Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-text-glyphs-in-windows-11/"><u>Discovering Text Glyphs in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dive-deep-into-google-meet-a-free-host-and-participants-guide-for-2024/"><u>Dive Deep Into Google Meet A Free Host & Participant's Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-identifying-high-space-usage-windows/"><u>Effective Strategies for Identifying High-Space Usage Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-taskbar-clarity-with-w11-tricks/"><u>Enhancing Your Taskbar Clarity with W11 Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-non-functional-backspace-key-on-your-device/"><u>How to Resolve a Non-Functional Backspace Key on Your Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-review-best-camcorders-to-try/"><u>In 2024, Ultimate Review Best Camcorders to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/multitasking-made-simple-windows-1110-window-cascade-guide/"><u>Multitasking Made Simple: Windows 11/10 Window Cascade Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-bring-your-vision-to-life-top-free-and-paid-3d-video-creators/"><u>New In 2024, Bring Your Vision to Life Top Free and Paid 3D Video Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/premium-laptops-highlighted-at-ifa-2023/"><u>Premium Laptops Highlighted at IFA 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/reintroduce-missing-cameras-to-device-manager-display/"><u>Reintroduce Missing Cameras to Device Manager Display</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-tasks-using-supercharged-run-tool-in-windows-1011/"><u>Streamline Tasks Using Supercharged Run Tool in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-an-improved-taskbar-on-windows-11/"><u>Tips for an Improved Taskbar on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-15-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 15 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlock-premium-channel-quality-with-1byones-hdtv-amplified-indoor-antenna-smart-spend-for-crystal-clear-viewing/"><u>Unlock Premium Channel Quality with 1BYONE's HDTV Amplified Indoor Antenna – Smart Spend for Crystal Clear Viewing</u></a></li>
 </ul></div>
 

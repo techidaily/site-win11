@@ -1,7 +1,7 @@
 ---
 title: Routes to the Windows 11 Security Configuration
-date: 2024-09-14T20:26:09.829Z
-updated: 2024-09-16T23:43:28.458Z
+date: 2024-10-04T21:07:17.129Z
+updated: 2024-10-09T03:53:41.826Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ To access the Authorization Manager, follow these steps:
 
  You should now see the Authorization Manager window in the search results. Click on the result to launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Run Dialog Box
 
  Another way to open the Authorization Manager in Windows is through the Run dialog box. Here's how to do it:
@@ -51,6 +58,13 @@ To access the Authorization Manager, follow these steps:
 
 1. Right-click on**Start** and select**File Manager** . You can also press**Win + E** on your keyboard to open the tool directly.
 2. In the File Explorer address bar, type**azman.msc** and hit**Enter** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use the Command Prompt and PowerShell
 
@@ -72,20 +86,6 @@ To access the Authorization Manager, follow these steps:
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Create a Desktop Shortcut
 
  A desktop shortcut is simply an icon on your computer’s desktop that links to a program or file. With this method, you won’t have to navigate through several menus just to find the Authorization Manager program.
@@ -95,16 +95,30 @@ To access the Authorization Manager, follow these steps:
 1. Right-click on your desktop and select**New > Shortcut** from the context menu.  
 ![Open the Authorization Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-with-desktop-shortcut.jpg)
 2. In the text field, type the following and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 C:\WINDOWS\system32\azman.msc
 3. Give it a name and click**Finish** .
 
  The shortcut icon will automatically be added to your desktop. Double-click on it to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Easy and Quick Access to the Authorization Manager
@@ -124,5 +138,23 @@ C:\WINDOWS\system32\azman.msc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-fastest-path-to-amazing-iphone-time-lapses/"><u>[New] 2024 Approved The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-tech-selection-the-15-finest-cameras/"><u>[New] Elite Tech Selection – The 15 Finest Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-increasing-youtube-shorts-views-effective-tactics/"><u>[New] Increasing YouTube Shorts Views Effective Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deep-dive-into-windows-11s-8-confusing-features/"><u>A Deep Dive Into Windows 11’S 8 Confusing Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-software-setup-for-your-lenovo-legion-ebook-the-professional-guide-model-16ach6h/"><u>Easy Driver Software Setup for Your Lenovo Legion eBook: The Professional Guide [Model 16ACH6H]</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-desktop-aesthetics-with-a-custom-weather-icon-in-windows-11/"><u>Elevate Desktop Aesthetics with a Custom Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-overcoming-windows-11s-rename-limitations/"><u>Essential Fixes: Overcoming Windows 11'S Rename Limitations</u></a></li>
+<li><a href="https://win11.techidaily.com/experts-choice-10-error-finder-apps-for-pc/"><u>Expert's Choice: 10 Error Finder Apps for PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-hot-electronics-at-low-prices-pixel-phone-8-pro-super-sharp-tvs-and-compact-tablets/"><u>Get Your Hands-On Hot Electronics at Low Prices: Pixel Phone 8 Pro, Super Sharp TVs & Compact Tablets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/getting-started-with-langchain-llm-essential-first-steps-for-novices/"><u>Getting Started with LangChain LLM: Essential First Steps for Novices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a38-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A38 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-7-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 7 Plus Without Passcode Now</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-personalizing-your-desktop-with-widgets/"><u>Mastering Window 11: Personalizing Your Desktop with Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-incorporation-of-virtual-gaming-archives-into-playnite-on-pc/"><u>Seamless Incorporation of Virtual Gaming Archives Into Playnite on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-slashing-dropbox-cpu-load-on-windows-devices/"><u>Solutions for Slashing Dropbox CPU Load on Windows Devices</u></a></li>
+</ul></div>
 

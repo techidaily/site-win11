@@ -1,7 +1,7 @@
 ---
 title: Connecting to iMessage From a Windows Laptop or Desktop
-date: 2024-09-16T03:00:16.648Z
-updated: 2024-09-17T01:13:12.247Z
+date: 2024-10-08T13:10:11.640Z
+updated: 2024-10-09T00:10:35.604Z
 tags:
   - windows10
   - windows11
@@ -39,17 +39,31 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
 ![Downloading the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/open-link-to-windows-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The screen that appears when you first open the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-pair-screen-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Before continuing on the app,[connect your iPhone to the Windows PC](https://www.makeuseof.com/tag/how-to-connect-your-cell-phone-to-your-pc-through-bluetooth/) via Bluetooth since this is how Link to Windows will communicate with Phone Link.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Connect Your iPhone to Phone Link on Windows
@@ -57,6 +71,13 @@ Close
  On the PC, click the**Search** bar and type "phone link." Click the**Phone Link** app that appears in the results to launch it. Remember, if you don't see the app, you may need to update Windows to the latest version available.
 
 ![Opening the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/opening-phone-link-windows.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After launching Phone Link, choose the mobile device you want to connect to by clicking**iPhone** .
 
@@ -66,13 +87,6 @@ Close
 
 ![Scanning a QR code on an iPhone,](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/iphone-camera-pairing-qr-code.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Prompt to open the Link to Windows app after scanning the QR code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/prompt-pair-devices-link-to-windows-iphone.PNG)
 
 Close
@@ -81,20 +95,14 @@ Close
 
 ![Screen to continue pairing with a Windows PC in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/continue-bluetooth-pair-link-to-windows-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The prompt with a pairing code in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-prompt-link-to-windows-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -103,13 +111,6 @@ Close
 ![The pairing screen with code in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-screen-phone-link-windows.png)
 
  On your iPhone, tap**Done** . You’re almost done setting up iMessage for your PC; there’s just one more step.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Sync Contacts and Messages from Your iPhone
 
@@ -120,13 +121,6 @@ Close
 ![The Bluetooth settings page on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/bluetooth-settings-iphone.PNG)
 
 ![The Bluetooth settings of a Windows PC on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pc-bluetooth-settings-iphone.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -140,6 +134,13 @@ Close
 
 ![Viewing messages in the phone link app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/viewing-message-phone-link-windows.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**New Message** —the blue pencil icon button—to send a message to a contact who doesn't have an existing thread. Start typing the person's name in the text box that appears and select it from the search results.
 
 ![Searching for a contact in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/searching-contact-phone-link-windows.png)
@@ -147,6 +148,13 @@ Close
  Type your message in the chat box at the bottom and press Enter or click**Send** .
 
 ![Sending a message in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/sending-message-phone-link-windows.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As long as you have notifications enabled on the Phone Link app, you will get an alert when the other person responds.
 
@@ -171,5 +179,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-desktop-video-recorders-for-pcmacos/"><u>[New] In 2024, Superior Desktop Video Recorders for PC/macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-blink-quick-fixes-for-input-lag-on-latest-microsoft-os/"><u>Beat the Blink: Quick Fixes for Input Lag on Latest Microsoft OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/changing-the-game-in-media-players-is-it-time-to-switch-from-firetv-to-chromecast-with-google-tv/"><u>Changing the Game in Media Players: Is It Time to Switch From FireTV to Chromecast with Google TV?</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-fixing-the-frozen-resource-monitor-app-in-win11/"><u>Diagnosing and Fixing the Frozen Resource Monitor App in Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversation-the-ultimate-guide-to-simplifying-chatgpt-invitations/"><u>Effortless Conversation: The Ultimate Guide to Simplifying ChatGPT Invitations</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-microphone-and-camera-via-app-guard-in-windows-11/"><u>Enable Microphone & Camera via App Guard in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/esd-file-transformation-mastery-your-pathway-to-windows-iso-success/"><u>ESD File Transformation Mastery: Your Pathway to Windows ISO Success</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-an-application-not-installed-via-microsofts-store/"><u>Fixing an Application Not Installed via Microsoft's Store</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-8-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 8 To Phone | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-proven-pathways-for-cutting-edge-obs-studio-edits/"><u>In 2024, Proven Pathways for Cutting-Edge OBS Studio Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/terminal-insight-discover-public-ip-in-windows-1110/"><u>Terminal Insight: Discover Public IP in Windows 11/10</u></a></li>
+</ul></div>
 

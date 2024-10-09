@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Mapping W11 Troubleshooter Icons to Buttons"
-date: 2024-09-15T08:12:46.095Z
-updated: 2024-09-22T06:24:44.832Z
+date: 2024-10-02T02:52:56.554Z
+updated: 2024-10-09T05:22:28.961Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  The Troubleshooting shortcut will have the same folder library icon as Explorer’s taskbar button. If you would prefer something else, you can change the icon via the shortcut’s properties window. Check out our guide about[how to customize icons on Windows](https://www.makeuseof.com/tag/customize-icon-windows/) for details.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up Taskbar and Start Menu Troubleshooting Shortcuts
 
  You can easily convert the Troubleshooting Applet desktop shortcut into a taskbar or Start menu one. To do so in Windows 11, click the Troubleshooting Applet shortcut with the right mouse button and select**Show more options** . Select**Pin to taskbar** on the classic menu to stick the same shortcut on the taskbar. Or click**Pin to Start** to have one for opening the Troubleshooting applet from the pinned area of the Start menu.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-to-taskbar-option.jpg)
 
  Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up a Troubleshooting Hotkey
 
@@ -69,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
@@ -119,22 +133,15 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
 8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
@@ -158,5 +165,26 @@ msdt.exe /id AudioPlaybackDiagnostic`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-advanced-3d-viewing-on-your-android-device/"><u>[New] Advanced 3D Viewing on Your Android Device</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-shorts-display-enhanced-update-complete/"><u>[New] In 2024, Shorts Display Enhanced – Update Complete</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-legal-tunes-collection-top-10-free-music-for-mindfulness/"><u>[Updated] Legal Tunes Collection – Top 10 Free Music for Mindfulness</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-iphone-7-display-a-comprehensive-guide-for-2024/"><u>[Updated] Recording iPhone 7 Display A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-analysis-windows-display-restfulness/"><u>Detailed Analysis: Windows Display Restfulness</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-pioneers-bdr-xs06-portable-blu-ray-burner-a-comprehensive-review/"><u>Exploring the Features of Pioneer's BDR-XS06 Portable Blu-Ray Burner: A Comprehensive Review</u></a></li>
+<li><a href="https://win11.techidaily.com/flattening-windows-rounded-corners/"><u>Flattening Windows' Rounded Corners</u></a></li>
+<li><a href="https://win11.techidaily.com/fundamental-insights-into-windows-snoozer-functionality/"><u>Fundamental Insights Into Window's Snoozer Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-screen-recording-minecraft-with-your-macos/"><u>In 2024, The Ultimate Guide Screen Recording Minecraft with Your MacOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-of-costless-online-editors-for-professionals/"><u>In 2024, Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ram-cache-on-windows-an-overview/"><u>Mastering RAM Cache on Windows: An Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-devices-name-conflicts-with-ease-windows-guide/"><u>Navigate Through Devices Name Conflicts with Ease (Windows Guide)</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-dropbox-performance-lessening-cpu-overuse-in-windows/"><u>Optimizing Dropbox Performance: Lessening CPU Overuse in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/power-up-windows-top-5-essential-wintoys/"><u>Power Up Windows: Top 5 Essential WinToys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-frozen-windows-updates-at-100-progress/"><u>Solving the Issue of Frozen Windows Updates at 100% Progress</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-step-by-step-guide-to-resolve-error-code-31-on-your-pc/"><u>Solving the Puzzle: Step-by-Step Guide to Resolve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-windows-11-app-opening/"><u>Turbocharge Windows 11 App Opening</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-terminal-and-powershell-examining-their-unique-traits/"><u>Windows Terminal and PowerShell: Examining Their Unique Traits</u></a></li>
+</ul></div>
 

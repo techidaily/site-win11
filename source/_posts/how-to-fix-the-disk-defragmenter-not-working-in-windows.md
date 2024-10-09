@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Disk Defragmenter Not Working in Windows
-date: 2024-10-02T16:44:13.909Z
-updated: 2024-10-04T02:49:44.405Z
+date: 2024-10-03T11:56:31.812Z
+updated: 2024-10-09T14:58:06.732Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check Disk Defragmenter's Status
 
  If your computer is running slowly, one potential reason could be that the Disk Defragmenter service is not running properly. This service helps to optimize your hard drive by rearranging files so that they can be read more quickly and efficiently.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 5. Click**Apply > OK** to save it.
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker tool
 
@@ -68,25 +82,11 @@ To run the System File Checker, follow these steps:
 
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're still having trouble with your Disk Defragmenter tool after running an SFC scan, you may need to use the DISM utility. To do this, open the Command Prompt as an administrator and run the below command line:
 
 `DISM /Online /Cleanup-Image /ScanHealth\nDism.exe /online /cleanup-image /restorehealth`
 
  Once the scan is complete, restart your computer and try defragmenting again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the CHKDSK Utility
 
@@ -99,6 +99,14 @@ To run the CHKDSK utility, follow the below steps:
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
 4. When you're in Command Prompt, type the following command and press Enter:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `chkdsk C: /f`
 
  In the command above,**"C:"** represents your drive, so you should replace it with the letter that refers to your drive.
@@ -108,10 +116,10 @@ To run the CHKDSK utility, follow the below steps:
  As it turns out, it may take several minutes for the scan to complete, depending on the size of your partition and sometimes it seems to get stuck. However, you should let it complete its task uninterrupted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Close All Third-Party Applications
@@ -126,13 +134,6 @@ To run the CHKDSK utility, follow the below steps:
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
@@ -153,21 +154,18 @@ To run the CHKDSK utility, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-tricks-in-sports-video-production/"><u>[New] Top Tricks in Sports Video Production</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-blueprint-strategies-to-profit-from-youtube-adsense/"><u>[Updated] 2024 Approved The Blueprint Strategies To Profit From YouTube AdSense</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flattening-lines-easy-curve-transformation/"><u>2024 Approved Flattening Lines Easy Curve Transformation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>2024 Approved Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x50-gt-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X50 GT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/beyond-solutions-how-to-resolve-driver-issues-for-the-asus-pce-ac56-on-windows-7811/"><u>Beyond Solutions: How to Resolve Driver Issues for the ASUS PCE-AC56 on Windows 7/8/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chagpts-side-hustle-guide-profitability-in-focus/"><u>ChaGPT's Side Hustle Guide: Profitability in Focus</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehending-windows-11s-configuration-options/"><u>Comprehending Windows 11'S Configuration Options</u></a></li>
-<li><a href="https://win11.techidaily.com/custom-fn-key-roles-win-10-and-11-guide/"><u>Custom FN Key Roles: Win 10 & 11 Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-a78-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo A78 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-efficiently-control-windows-post-dim-display/"><u>Navigate Efficiently: Control Windows Post-Dim Display</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/strategies-to-leverage-youtubes-cc-licensing/"><u>Strategies to Leverage YouTube's CC Licensing</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-your-win11-connectivity-9-remarkable-tips-to-try/"><u>Supercharge Your Win11 Connectivity: 9 Remarkable Tips to Try</u></a></li>
-<li><a href="https://win11.techidaily.com/win-xp-resurrecting-missing-mmc-snap-ins/"><u>Win XP: Resurrecting Missing MMC Snap-Ins</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-excellence-key-gratuitous-software-recommendations/"><u>Win11 Excellence: Key Gratuitous Software Recommendations</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-device-mgmt-camera-not-displayed-heres-how/"><u>Windows Device Mgmt: Camera Not Displayed? Here's How</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhance-your-shots-top-paid-and-free-iphone-photography-apps/"><u>[New] Enhance Your Shots Top Paid and Free iPhone Photography Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-manga-to-screen-applying-snapchats-anime-filter/"><u>[Updated] In 2024, From Manga to Screen Applying Snapchat's Anime Filter</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-visual-perfection-in-videos-implementing-black-bar-and-box-on-fb/"><u>[Updated] Visual Perfection in Videos Implementing Black Bar & Box on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-odbc-configuration-basics/"><u>Delving Into Windows ODBC Configuration Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-window-11s-secure-browsing-graphically/"><u>Enhancing Window 11'S Secure Browsing Graphically</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gamers-unite-eliminating-the-entry-not-found-glitch-in-fortnite/"><u>Gamers Unite! Eliminating the 'Entry Not Found' Glitch in Fortnite</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-effortless-video-streams-youtube-loops-for-television-viewers/"><u>In 2024, Effortless Video Streams YouTube Loops for Television Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-gopro-hero5-sessions/"><u>In 2024, Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-restrictions-disabling-signatures-adding-unsigned-drivers/"><u>Navigating Windows' Restrictions: Disabling Signatures, Adding Unsigned Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-chrome-for-smooth-youtube-streaming/"><u>Optimizing Chrome for Smooth YouTube Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-game-hub-error-code-0x800700e9-on-microsoft-devices/"><u>Resolving Game Hub Error Code 0X800700E9 on Microsoft Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-operation-warhammer-40k-boltgun-windows-stutter-fixes/"><u>Smooth Operation Warhammer 40K Boltgun: Windows Stutter Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Techniques to Switch Status of the Installer Service
-date: 2024-09-27T01:01:55.974Z
-updated: 2024-10-03T19:47:38.098Z
+date: 2024-10-02T06:46:33.435Z
+updated: 2024-10-09T07:17:03.834Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
  If you ever need to re-enable the service, follow the same procedure and click**Start** in the Service status section.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Local Group Policy Editor
 
  You can also use the group policy editor to enable or disable the Windows Installer service on your Windows computer system. However, it is important to note that this tool only works on Windows Pro and Enterprise editions. Therefore, if you are using Windows Home Edition, you must first[activate the Local Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
@@ -57,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 4. In the window that opens, select**Enabled** in the radio box.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Under Options, click the drop-down menu and select**Always** .
@@ -75,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
  That's all there is to it. The Windows Installer service will now be disabled on your system. To re-enable it, simply follow the same steps, but set "Turn off Windows Installer" to**Not Configured** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Registry Editor
@@ -95,20 +96,13 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 ![Disable Windows Installer Service Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-installer-service-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you put the Value data, make sure the Base is set to**Hexadecimal** , then click**OK** . Now close the registry editor and restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Turning Off the Windows Installer Service Made Easy
 
@@ -129,17 +123,17 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secrets-to-seamless-overwatch-game-captures-unveiled/"><u>[New] 2024 Approved Secrets to Seamless Overwatch Game Captures Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-apples-screen-recording-tools-for-2024/"><u>[New] Navigating Apple's Screen Recording Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-navigating-through-youtube-settings-to-mute-snapshots/"><u>[New] Navigating Through YouTube Settings to Mute Snapshots</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[New] The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-color-grading-with-lut-techniques-in-ae/"><u>[Updated] Streamlining Color Grading with LUT Techniques in AE</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a34-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A34 5G?</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-wow-error-132-in-windows-1111-games/"><u>Conquering WoW Error #132 in Windows 11/11 Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-advanced-tech-and-stunning-visuals-of-the-samsung-ru800t-tv-series/"><u>Exploring the Advanced Tech & Stunning Visuals of the Samsung RU800T TV Series</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-v30t-frp-by-drfone-android/"><u>Full Guide to Bypass Realme V30T FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/non-procreate-win-tools-the-ultimate-alternative-guide/"><u>Non-Procreate Win Tools: The Ultimate Alternative Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-metric-tracking-functionality/"><u>Optimizing Windows Metric Tracking Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-windows-error-0x80070141-on-devices/"><u>Troubleshooting Guide: Windows Error 0X80070141 on Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-video-transcriber-chrome-os-companion/"><u>[New] In 2024, Best Video Transcriber Chrome OS Companion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-video-capture-on-periscope-a-comprehensive-manual/"><u>[New] Mastering Video Capture on Periscope A Comprehensive Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-for-pip-integration-in-edge-browser/"><u>[Updated] Advanced Techniques for PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-insta-video-to-mp3-audio/"><u>[Updated] In 2024, Transforming Insta Video to Mp3 Audio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-permanent-turn-off-for-youtube-shorts/"><u>[Updated] Unlocking Permanent Turn-Off for YouTube Shorts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-go-no-net-with-your-new-os-win11/"><u>How to Go No Net With Your New OS, Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-pro-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Pro Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-unresponsive-keyboard-issue-x80049dd3-in-windows-11/"><u>Overcoming the Unresponsive Keyboard Issue - X80049DD3 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-strategies-for-finding-a-misplaced-pin/"><u>Unlock Windows 11 - Strategies for Finding a Misplaced PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-crafting-a-holiday-ambiance/"><u>Windows 11: Crafting a Holiday Ambiance</u></a></li>
+<li><a href="https://win11.techidaily.com/wintime-discrepents-resolved/"><u>WinTime Discrepents Resolved</u></a></li>
 </ul></div>
 

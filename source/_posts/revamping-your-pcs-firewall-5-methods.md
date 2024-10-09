@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your PC's Firewall: 5 Methods"
-date: 2024-10-02T21:48:28.268Z
-updated: 2024-10-03T22:39:15.554Z
+date: 2024-10-06T15:20:56.652Z
+updated: 2024-10-09T05:06:37.704Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
@@ -62,21 +62,28 @@ netsh advfirewall reset
  Wait for the process to complete. From there, restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
 
@@ -104,20 +111,6 @@ netsh advfirewall reset
 
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use the "Firewall with Advanced Security" Tool
 
  Still can’t reset the firewall settings? Try one of the options in the “Windows Firewall with Advanced Security” screen.
@@ -132,6 +125,19 @@ netsh advfirewall reset
 4. Select the **Restore Default Policy** option.
 
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
 
@@ -164,20 +170,19 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-most-reliable-free-screen-capture-apps-for-mac-for-2024/"><u>[New] The Most Reliable Free Screen Capture Apps for Mac for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-final-cut-pro-mastery-secrets-revealed/"><u>[Updated] Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-the-secrets-of-funimate-download/"><u>[Updated] In 2024, Navigating the Secrets of Funimate Download</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximize-your-content-interaction-for-2024/"><u>[Updated] Maximize Your Content Interaction for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>2024 Approved Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensively-understanding-and-using-system-restore-on-windows/"><u>Comprehensively Understanding and Using System Restore on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-windows-11-virtual-artwork/"><u>Creating Windows 11 Virtual Artwork</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-13-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 13 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-desktop-connection-fails-on-win-1011/"><u>How To Fix Desktop Connection Fails on Win 10/11</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/learn-to-harness-funimates-downloading-power/"><u>Learn to Harness Funimate's Downloading Power</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cell-creation-failure-in-excel-on-pcs/"><u>Resolving Cell Creation Failure in Excel on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/seven-methods-to-resolve-absence-of-optional-windows-options/"><u>Seven Methods to Resolve Absence of Optional Windows Options</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/sharex-review-and-alternatives-for-2024/"><u>ShareX Review and Alternatives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-1011-solving-parseerror-0xc00ce556/"><u>Windows 10/11 - Solving ParseError 0xC00CE556</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-flashfreeze-video-interruption-tip/"><u>[New] 2024 Approved FlashFreeze Video Interruption Tip</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-rapid-srt-to-txt-transformation-techniques/"><u>[New] Mastering Rapid SRT to TXT Transformation Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-rise-and-fall-of-vegas-pro-a-critical-look-for-2024/"><u>[New] The Rise and Fall of Vegas Pro A Critical Look for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-switching-up-your-iphones-call-sound-effectively/"><u>2024 Approved Switching up Your iPhone's Call Sound Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/1719334729837-fix-unusable-compatibility-center-on-vista7-pcs-fast/"><u>Fix Unusable Compatibility Center on Vista/7 PCs Fast</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-modify-win11s-network-preferences/"><u>Guide to Modify Win11's Network Preferences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-reno-9a-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo Reno 9A</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-c02-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia C02 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-safe-browsing-in-microsofts-win11/"><u>Managing Safe Browsing in Microsoft’s Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-missing-action-buttons-on-windows-11-pc/"><u>Overcoming Missing Action Buttons on Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-tray-interface-with-numeric-and-caps-indicators/"><u>Personalize Tray Interface with Numeric and Caps Indicators</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-original-directory-display-preferences/"><u>Regaining Original Directory Display Preferences</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/revamp-your-footage-top-free-online-video-quality-improvement-tools-for-2024/"><u>Revamp Your Footage Top Free Online Video Quality Improvement Tools for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-audio-headphones-no-cords/"><u>Top Audio Headphones, No Cords !</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Through W11's Print Control (Max 50 Chars)
-date: 2024-09-20T05:28:38.916Z
-updated: 2024-09-21T20:29:05.965Z
+date: 2024-10-02T07:53:22.138Z
+updated: 2024-10-09T12:00:01.366Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 2. Type "printmanagement.msc" into the Open field and click the**OK** button.  
 ![Open Print Management Using Run Commnd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Run-Commnd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you open Print Management, you will be able to view all the printers you have installed. This page lets you add or remove printers, as well as manage printer drivers and preferences.
 
 ## 3\. How to Open Print Management Using the File Explorer
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 This will open the Print Management application.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Open Print Management via the Control Panel
 
  The Control Panel is a location on Windows where you can change settings for your computer. Now that the control panel has been updated and improved, you can access the Print Management tool right here.
@@ -71,6 +85,13 @@ This will open the Print Management application.
 5. Double-click**Print Management** in the list of options.  
 ![Open Print Management Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Start-Menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will now open Print Management on your computer.
 
 ## 5\. How to Open Print Management Using the Command Prompt
@@ -80,13 +101,6 @@ This will now open Print Management on your computer.
 1. Run Command Prompt as an administrator. This takes a little bit of extra effort, so check out[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you're unsure of how to do this.  
 ![Open Print Management Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Command-Prompt.jpg)
 2. In the Command Prompt window, type the following command and press Enter:  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `printmanagement.msc`
 
@@ -100,13 +114,21 @@ This will open the Print Management window.
 2. Scroll to the bottom and select “**Windows Tools** ” from the menu list.  
 ![Open Local Security Policy Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Local-Security-Policy-Using-Start-Menu.jpg)
 3. Double-click on “**Print Management** ” to open the tool.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Open Print Management Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Print Management With Task Manager
@@ -140,10 +162,10 @@ This will open the Print Management window for you.
  Now give a name to the shortcut and click**Finish** . After creating the shortcut key, double-click it to open the Print Management window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. How to Pin the Print Management Tool to the Taskbar
@@ -155,21 +177,7 @@ This will open the Print Management window for you.
 ![Pin Print Management to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Print-Management-to-taskbar.jpg)
 3. Now go to the taskbar, and click the Print Management icon.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this way, you can easily launch the Print Management application on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## All the Easy Ways to Open Print Management
 
@@ -188,5 +196,21 @@ This will open the Print Management window for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-shadowed-browsing-in-fb-stories/"><u>[New] Shadowed Browsing in Fb Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ai-powered-name-ideas-for-standout-podcast-titles/"><u>AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/creating-a-backup-securing-your-fb-messenger-records-for-2024/"><u>Creating a Backup Securing Your FB Messenger Records for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-data-dilemmas-repairing-corrupted-system-files-in-win11/"><u>Decoding Data Dilemmas: Repairing Corrupted System Files in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/discreet-transfers-the-art-of-secure-file-movement-in-windows-10/"><u>Discreet Transfers: The Art of Secure File Movement in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-desktop-updates-system-resources-on-windows-ui/"><u>Dynamic Desktop Updates: System Resources on Windows UI</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-fixing-windows-defender-error-0x80004004/"><u>Explaining & Fixing Windows Defender Error 0X80004004</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c55-lock-screen-password-by-drfone-android/"><u>How To Change Poco C55 Lock Screen Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-control-of-freeze-shift-keys/"><u>Reclaim Control of Freeze Shift Keys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-full-breakdown-of-facetunes-updated-features-for-2024/"><u>The Full Breakdown of Facetune's Updated Features for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-manual-to-earn-through-vimeos-revenue-channels/"><u>The Ultimate Manual to Earn Through Vimeo's Revenue Channels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-trick-playbook-to-resolve-lost-ark-not-launching-error-in-202n4/"><u>Ultimate Trick Playbook to Resolve Lost Ark Not Launching Error in 202N4</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-key-issues-on-win11/"><u>Understanding and Overcoming Key Issues on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-ssd-potential-fresh-methods-in-windows-environment/"><u>Unlock SSD Potential: Fresh Methods in Windows Environment</u></a></li>
+</ul></div>
 

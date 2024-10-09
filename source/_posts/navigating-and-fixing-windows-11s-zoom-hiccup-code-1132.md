@@ -1,7 +1,7 @@
 ---
 title: "Navigating and Fixing Windows 11'S Zoom Hiccup: Code 1132"
-date: 2024-09-30T04:18:00.586Z
-updated: 2024-10-04T08:30:23.907Z
+date: 2024-10-05T12:44:27.881Z
+updated: 2024-10-09T00:05:11.121Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -67,10 +67,26 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 4. Next, click**Inbound Rules** within the left sidebar.  
 ![Inbound rules in Windows Defender Firewall with Advanced Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/inbound-rules.jpg)
 5. Double-click any Zoom rule you find listed there.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
@@ -79,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
@@ -106,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
@@ -126,16 +135,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 3. When you’ve set up a new local Windows user account, log out of your current one.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Sign in to the newly created user profile.
@@ -144,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 7. Select to join a Zoom meeting again.
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Join Your Zoom Meetings Again on Windows
 
@@ -171,21 +167,24 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-discover-prime-sites-to-download-your-got-favorite-tunes/"><u>[New] In 2024, Discover Prime Sites to Download Your GoT Favorite Tunes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-add-music-to-facebook-videos-find-the-guide-here/"><u>[Updated] How to Add Music to Facebook Videos? Find The Guide Here</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-art-of-smooth-video-transitioning/"><u>2024 Approved The Art of Smooth Video Transitioning</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-moto-g04-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Moto G04 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/installation-guide-for-enhancing-security-of-edge-with-defender-aguard/"><u>Installation Guide for Enhancing Security of Edge with Defender Aguard</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-outlook-alert-mechanisms-on-pcs/"><u>Mastering Microsoft Outlook Alert Mechanisms on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-your-notepad-experience-with-windows-theme-tweaks/"><u>Maximizing Your Notepad Experience with Windows Theme Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-windows-resource-intensity-due-to-unrealcefsubprocess/"><u>Minimizing Windows' Resource Intensity Due to UnrealCEFSubprocess</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-preventing-unnecessary-storage-consumption/"><u>Strategies for Preventing Unnecessary Storage Consumption</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-store-trouble-fix-for-error-x80072f17/"><u>Tackling Windows Store Trouble: Fix for Error X80072F17</u></a></li>
-<li><a href="https://win11.techidaily.com/the-leap-from-w10-to-w11-major-os-overhauls-revealed/"><u>The Leap From W10 to W11: Major OS Overhauls Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/top-voice-changer-app-magic-call-and-its-alternatives-for-2024/"><u>Top Voice Changer App Magic Call and Its Alternatives for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-benefits-of-synology-rt2600ac-exceptional-wi-fi-range-and-robust-parental-control-mechanisms-for-secure-home-networking/"><u>Unveiling the Benefits of Synology RT2600ac – Exceptional Wi-Fi Range and Robust Parental Control Mechanisms for Secure Home Networking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/webcam-mastery-choosing-the-best-for-your-podcast/"><u>Webcam Mastery Choosing the Best for Your Podcast</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-une-solution-revolutionnaire-pour-laugmentation-et-la-restauration-des-images-en-haute-resolution-4k-8k-and-10k/"><u>WinxVideo AI : Une Solution Révolutionnaire Pour L'Augmentation Et La Restauration Des Images en Haute Résolution (4K, 8K & 10K)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-seamless-webm-creation-from-youtube-videos/"><u>[New] 2024 Approved Seamless WebM Creation From YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastery-over-windows-10s-photo-app-stability-challenges/"><u>[New] Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-ppts-potential-with-voiceover-techniques/"><u>[New] Unlocking PPT's Potential with Voiceover Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-preservation-in-audio-how-ffmpeg-handles-originality/"><u>[Updated] 2024 Approved Preservation in Audio How FFmpeg Handles Originality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ending-static-audio-in-obs-streams-for-2024/"><u>[Updated] Ending Static Audio in OBS Streams for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-bringing-beats-integrating-music-in-inshot-editor/"><u>[Updated] In 2024, Bringing Beats Integrating Music in InShot Editor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-audio-pioneers-the-power-of-crossfading/"><u>2024 Approved Audio Pioneers The Power of Crossfading</u></a></li>
+<li><a href="https://win11.techidaily.com/a-blueprint-for-an-enhanced-taskbar-in-microsofts-next-windows-release/"><u>A Blueprint for an Enhanced Taskbar in Microsoft's Next Windows Release</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-5-quick-video-capture-tools-for-2024/"><u>Best 5 Quick Video Capture Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-practices-for-risk-free-application-of-chatgpt-in-mental-health-support/"><u>Best Practices for Risk-Free Application of ChatGPT in Mental Health Support</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-customize-your-outlook-calendar-on-windows/"><u>How to Customize Your Outlook Calendar on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-common-anydesk-errors-on-windows/"><u>Mastering the Art of Resolving Common AnyDesk Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unwanted-windows-start-up-in-bios-landing/"><u>Overcoming Unwanted Windows Start-Up in BIOS Landing</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unable-to-open-error-in-geforce-experience-windows/"><u>Resolving Unable to Open Error in GeForce Experience Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/restarting-routine-efficiently-installing-windows-11/"><u>Restarting Routine: Efficiently Installing Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-error-0xfffffff-with-ease/"><u>Solving Windows' Error 0xFFFFFFF with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-is-now-microsofts-new-ai-enhanced-taskbar-for-windows-11-users/"><u>The Future Is Now: Microsoft’s New AI-Enhanced Taskbar for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-uncover-hidden-system-startups/"><u>Tips to Uncover Hidden System Startups</u></a></li>
 </ul></div>
 

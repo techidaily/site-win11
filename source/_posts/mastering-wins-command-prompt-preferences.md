@@ -1,7 +1,7 @@
 ---
 title: Mastering Win's Command Prompt Preferences
-date: 2024-09-29T17:19:07.986Z
-updated: 2024-10-03T21:21:22.486Z
+date: 2024-10-06T05:19:21.146Z
+updated: 2024-10-09T06:58:57.162Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
  Alternatively, you can also reset the Terminal app on your PC. If you are interested in doing that, check our guide on [how to reset the Windows Terminal settings to their defaults in Windows](https://www.makeuseof.com/windows-11-reset-terminal-settings/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Default Terminal App Using Windows Console Host Properties
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -78,19 +78,19 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -101,29 +101,6 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 
  Setting a terminal as the default app for Command Prompt and PowerShell is fairly straightforward. Here are some methods you can use to make the switch.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>[New] In 2024, Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-of-successful-onestream-livestreams-for-2024/"><u>Behind-the-Scenes of Successful OneStream Livestreams for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/cookiebot-enabled-enhance-your-site-with-smart-data-tracking-solutions/"><u>Cookiebot-Enabled: Enhance Your Site with Smart Data Tracking Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976948187-download-and-enhance-your-windows-experience-with-the-latest-canon-drivers/"><u>Download & Enhance Your Windows Experience with the Latest Canon Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-resolve-zerodxgerror-device-hunk-in-win11/"><u>Guide to Resolve ZeroDXGError: Device HUNK in Win11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/harmonizing-visual-narratives-with-live-sounds/"><u>Harmonizing Visual Narratives with Live Sounds</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-address-zero-x-error-with-mail-application-on-win11/"><u>How to Address Zero X Error with Mail Application on Win11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-p40plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y02t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y02T</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-improvement-speedy-troubleshooting-for-pc-print/"><u>Instant Improvement: Speedy Troubleshooting for PC Print</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-guide-to-making-amazing-gifs-for-free-top-20-platforms-explored/"><u>Quick and Easy Guide to Making Amazing GIFs for Free – Top 20 Platforms Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-windows-printer-service-fast/"><u>Reinstating Windows Printer Service Fast</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenating-legacy-directx-games-via-dxvk-technology/"><u>Rejuvenating Legacy DirectX Games via DXVK Technology</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi on Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/safekeeping-your-epic-games-save-files/"><u>Safekeeping Your Epic Games Save Files</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-restore-the-ancient-explorer-ui/"><u>Steps to Restore the Ancient Explorer UI</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y28-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y28 5G Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/top-3d-paint-shortcut-guide/"><u>Top 3D Paint Shortcut Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-missing-bluetooth-in-windows-device-manager/"><u>Troubleshoot Missing Bluetooth in Windows Device Manager</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +108,27 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-turn-your-google-meet-into-a-youtube-live-event-for-2024/"><u>[New] How To Turn Your Google Meet Into a YouTube Live Event for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-ultimate-guide-to-the-best-and-secret-tiktok-emojis-for-2024/"><u>[New] The Ultimate Guide to the Best & Secret TikTok Emojis for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crescendo-collection-leading-sites-for-skype-tone-downloads/"><u>[Updated] 2024 Approved Crescendo Collection Leading Sites for Skype Tone Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/10-solutions-for-stuck-pin-locks-on-windows/"><u>10 Solutions for Stuck PIN Locks on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transformative-guide-avian-video-avi-to-graphic-image-gif-in-filmora/"><u>2024 Approved Transformative Guide Avian Video (AVI) to Graphic Image (GIF) in Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-the-way-for-printer-use-by-one-pc-only/"><u>Clearing the Way for Printer Use by One PC Only</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convert-and-transfer-dvds-for-free-onto-ipads-premium-unmarked-video-viewing-experience-guaranteed/"><u>Convert & Transfer DVDs for Free Onto iPads: Premium, Unmarked Video Viewing Experience Guaranteed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-converter-change-snd-files-into-wav-format-with-ease-movavi/"><u>Free Online Converter: Change SND Files Into WAV Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-combat-frozen-wireless-mice-on-windows-desktops/"><u>How to Combat Frozen Wireless Mice on Windows Desktops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-find-electric-vehicle-chargers-in-your-area-with-google-maps-a-comprehensive-guide/"><u>How to Find Electric Vehicle Chargers in Your Area with Google Maps: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-tecno-camon-20-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Tecno Camon 20 online without jailbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/low-memory-high-performance-comparing-best-windows-browsers/"><u>Low-Memory, High Performance: Comparing Best Windows Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-white-screens-and-blank-logins-on-windows-1011/"><u>Navigating Through White Screens and Blank Logins on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-file-properties-and-date-adjustments/"><u>Navigating Windows File Properties and Date Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/searching-for-a-slender-browser-footprint-on-your-desktop/"><u>Searching For a Slender Browser Footprint on Your Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-organized-print-setup-in-windows-systems/"><u>The Key to Organized Print Setup in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-preventing-random-keyboard-hotkeys-at-work/"><u>Tips for Preventing Random Keyboard Hotkeys at Work</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-aiff-online/"><u>무료 동일성 및 AAC, AIFF 전환 - Online 가이드</u></a></li>
+</ul></div>
+

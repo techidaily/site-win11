@@ -1,7 +1,7 @@
 ---
 title: Enabling Write Features in Windows File Settings
-date: 2024-09-30T22:57:06.752Z
-updated: 2024-10-03T23:03:27.122Z
+date: 2024-10-04T08:39:33.798Z
+updated: 2024-10-09T02:26:10.262Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
  Note that Windows may prevent you from changing the read-only attribute of a file if you don’t have the necessary permissions to modify the folder in which the file is located. In that case, you must take ownership of the folder first. If you need help, check our guide on[how to take ownership of folders on Windows](<http://How> to Take Ownership of Folders in Windows 10 & 11) .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Change the Read-Only Attribute for Files Using the Command Prompt
 
  Command Prompt is one of two command-line tools available on Windows. You can use it to run batch files, troubleshoot errors, and perform various other tasks. It also lets you change a file's read-only attribute with a single command. Here are the steps you need to follow.
@@ -53,16 +60,10 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 ![Change Read-Only Attribute With Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:
@@ -74,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Read-Only Attribute for Files Using Windows PowerShell
@@ -98,22 +99,15 @@ To change the read-only attribute using PowerShell:
 ![Change Read-Only Attribute With PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-PowerShell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, if you want to remove the read-only attribute for a file, use this command:
 
 `Set-ItemProperty -Path "FilePath" -Name IsReadOnly -Value $False`
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modifying the Read-Only Attribute for Files on Windows
 
@@ -134,24 +128,22 @@ To change the read-only attribute using PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-generating-wealth-with-makeup-channels-for-2024/"><u>[New] Generating Wealth with Makeup Channels for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-troubleshooting-tips-fixing-srt-from-premiere-freeze/"><u>[Updated] In 2024, Troubleshooting Tips Fixing SRT From Premiere Freeze</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-productivity-in-writing-with-advanced-automation-from-hix-ai-and-gpt-4/"><u>Boost Productivity in Writing with Advanced Automation From HIX AI & GPT-4</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/crafting-your-unique-chrome-dino-adventure-with-easy-gendino-instructions/"><u>Crafting Your Unique Chrome Dino Adventure with Easy GenDino Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-steps-to-arrange-a-consultation-with-apple-genius-bar-experts/"><u>Effortless Steps to Arrange a Consultation with Apple Genius Bar Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/enlivening-the-inactive-wastebin-in-windows-11/"><u>Enlivening the Inactive Wastebin in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-15-pro-max-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 15 Pro Max Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-delete-video-posts-android-and-windows-devices/"><u>In 2024, How to Delete Video Posts Android & Windows Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-and-youtube-synergy-sharing-video-links-in-stories/"><u>In 2024, Instagram and YouTube Synergy Sharing Video Links in Stories</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-sfc-scan-steps-on-windows/"><u>Navigating Through SFC Scan Steps on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-erratic-movement-of-windows-mouse/"><u>Overcoming Erratic Movement of Windows Mouse</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-errors-in-hitman-3-for-personal-computers/"><u>Overcoming Launch Errors in Hitman 3 for Personal Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixed-tips-for-corrupted-windows-1011-bin-problems/"><u>Quick Fixed! Tips for Corrupted Windows 10/11 Bin Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-sleepy-batch-processes-in-windows-os/"><u>Revitalizing Sleepy Batch Processes in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/scaling-up-how-to-tap-into-all-available-windows-ram/"><u>Scaling Up: How to Tap Into All Available Windows RAM</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-no-sound-output-windows/"><u>Steps to Rectify No Sound Output Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unidentified-component-problem-with-lsassexe/"><u>Tackling Unidentified Component Problem with lsass.exe</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-gps-issues-solutions-for-when-location-services-fail/"><u>Troubleshooting iPhone GPS Issues: Solutions for When Location Services Fail</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secure-telnet-access-on-modern-windows/"><u>Unlocking Secure Telnet Access on Modern Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[New] 2024 Approved Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[New] Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-potential-of-photography-with-adobe-motion-blur/"><u>[New] Unlock the Potential of Photography with Adobe Motion Blur</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-resolve-hdr-video-issue-clearing-blank-display/"><u>[Updated] 2024 Approved Resolve HDR Video Issue Clearing Blank Display</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-advanced-directors-toolkit-powerdirector-24/"><u>2024 Approved Advanced Directors' Toolkit PowerDirector '24</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-the-heart-of-windows-print-controls/"><u>Accessing the Heart of Windows Print Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-error-x70-file-and-directory-recovery-on-windows-1011/"><u>Bypassing Error X70: File and Directory Recovery on Windows 10/11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-your-screen-on-pc-free-ways-to-do-it/"><u>Capturing Your Screen on PC Free Ways to Do It</u></a></li>
+<li><a href="https://win11.techidaily.com/gently-lowering-highs-a-guide-to-windowed-serenity/"><u>Gently Lowering Highs: A Guide to Windowed Serenity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-broadcast-capture-made-easy-your-comprehensive-guide/"><u>In 2024, Broadcast Capture Made Easy Your Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-charting-social-media-trends-with-data-graphics/"><u>In 2024, Charting Social Media Trends with Data Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unseen-second-monitor-problems/"><u>Solving Unseen Second Monitor Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-videos-from-mp4-to-wmv-at-no-cost-using-movavis-web-service/"><u>Transform Videos From MP4 to WMV at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-malwarebytes-cant-properly-called-proc/"><u>Troubleshooting Error: Malwarebytes Can't Properly Called Proc</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugged-access-navigating-localized-onedrive-files/"><u>Unplugged Access: Navigating Localized OneDrive Files</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-error-code-0x80073cf3-at-microsoft-store-windows-1111/"><u>Unraveling Error Code 0X80073CF3 at Microsoft Store, Windows 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-expect-from-microsofts-win11-feb-release/"><u>What to Expect From Microsoft's Win11 Feb Release</u></a></li>
 </ul></div>
 

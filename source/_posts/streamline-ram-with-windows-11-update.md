@@ -1,7 +1,7 @@
 ---
 title: Streamline RAM with Windows 11 Update
-date: 2024-09-28T19:26:27.423Z
-updated: 2024-10-04T00:12:09.371Z
+date: 2024-10-07T04:54:55.123Z
+updated: 2024-10-09T15:26:19.483Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
  Let's now see how to reset Virtual Memory on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use the System Properties window
 
  If you want to reset virtual memory settings on your Windows device, you can use the System Properties window. To do this, press **Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
@@ -52,18 +45,18 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
 ![Reset Page Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-page-size.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the next screen, uncheck the **Automatically manage paging file size for all drives** checkbox and select the drive you want to configure virtual memory. Normally, this will be the drive on which Windows is installed.
 
  Set the custom size for virtual memory. Then, check the **No paging file** radio button and click **Set**. If you see a warning message, click **Yes** to confirm.
 
  After following the above steps, click **OK** to save your changes. Now close the System Properties and Settings windows and restart your computer. The new virtual memory settings should now be in effect.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Use Group Policy Editor
 
@@ -81,6 +74,13 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
 
  Scroll down and double-click **Shutdown: Clear virtual memory pagefile** policy. In the Properties window, select Enabled and then click **Apply**. Next, click **OK** to save it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use Registry Editor
 
  If you don't have access to the Local Group Policy Editor, you can also use the Registry Editor to reset virtual memory settings on Windows. Before proceeding, you should [create a backup of the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) in case something gets wrong.
@@ -88,10 +88,10 @@ Local Computer Policy > Computer Configuration > Windows Settings > Security Set
 ![Reset Virtual Memory Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-virtual-memory-using-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To get started, search for **Registry Editor** in the Start menu and click on it. Once you open the Registry Editor, navigate to the following path:
@@ -101,10 +101,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
  Next, double-click on the **ClearPageFileAtShutdown** key and set its value to **1**. Click on the **OK** button to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reset Virtual Memory To Get Better Performance
@@ -126,24 +126,24 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-solve-video-issues-in-facebook-chat-on-iosandroid-devices/"><u>[New] Solve Video Issues in Facebook Chat on iOS/Android Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-from-vimeo-to-engaging-animated-content-for-2024/"><u>[New] Step-by-Step From Vimeo to Engaging Animated Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-potential-instagram-tiktok-sync-guidebook/"><u>[New] Unleashing Potential Instagram-TikTok Sync Guidebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bidfarewelltomycam-the-quest-for-improved-options/"><u>[Updated] In 2024, BidFarewellToMyCam The Quest for Improved Options</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-k11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo K11 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-accuracy-and-efficiency-of-windowed-discord-search/"><u>Enhancing Accuracy and Efficiency of Windowed Discord Search</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-affordable-ssl-certificate-brands/"><u>Exploring Affordable SSL Certificate Brands</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-customization-made-easy-with-chatgpt-for-professional-coaches-and-trainers/"><u>Fitness Customization Made Easy with ChatGPT for Professional Coaches and Trainers</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unblock-error-0x80070091-empty-folder-issue-on-windows-11-and-11/"><u>How to Unblock Error #0X80070091 Empty Folder Issue on Windows 11 & 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-f15-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy F15 5G Lock Screen Password?</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-microsoft-works-in-windows-11-instructions/"><u>Launching Microsoft Works in Windows 11: Instructions</u></a></li>
-<li><a href="https://win11.techidaily.com/missing-pages-masterful-methods-top-7-tricks-for-web-site-revival/"><u>Missing Pages, Masterful Methods: Top 7 Tricks for Web Site Revival</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-black-screen-woes-in-windows-11/"><u>Navigating Black Screen Woes in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-for-richness-regain-windows-11s-vanished-enhancement-options/"><u>Reboot for Richness: Regain Windows 11'S Vanished Enhancement Options</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-pc-disableremove-ms-edge-w11/"><u>Simplify Your PC: Disable/Remove MS Edge W11</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-search-game-with-these-critical-windows-11-tricks/"><u>Transform Your Search Game with These Critical Windows 11 Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unmatched-audio-changer-applications-for-smartphones-for-2024/"><u>Unmatched Audio Changer Applications for Smartphones for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-hidden-potential-of-screen-recording-on-mi-11-devices-for-2024/"><u>Unveiling the Hidden Potential of Screen Recording on Mi 11 Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wizardry-for-the-webs-storage-effortless-access-to-cloud-drives/"><u>Windows Wizardry for the Web's Storage: Effortless Access to Cloud Drives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[New] Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-decoding-the-art-of-successful-fb-cover-videos/"><u>[New] In 2024, Decoding the Art of Successful FB Cover Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ips-and-tricks-for-easily-finding-your-youtube-comments-for-2024/"><u>[New] Tips & Tricks for Easily Finding Your YouTube Comments for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chip-efficiency-exposed-unleashing-top-notch-editing-performance/"><u>[Updated] Chip Efficiency Exposed Unleashing Top-Notch Editing Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photographic-experience-with-aurora-hdr-software/"><u>[Updated] Photographic Experience with Aurora HDR Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-secure-your-favorite-youtube-images-download-without-paying/"><u>[Updated] Secure Your Favorite YouTube Images Download without Paying</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-overcoming-windows-1011s-isdonedll-errors/"><u>Deciphering and Overcoming Windows 10/11'S ISDone.dll Errors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-legal-means-to-elevate-your-youtube-popularity-by-one-million/"><u>In 2024, Legal Means to Elevate Your YouTube Popularity by One Million</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-visible-pins-on-windows-11-desktop-ui/"><u>Increase Visible Pins on Windows 11 Desktop UI</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-your-computers-msvcr110dll-void/"><u>Remedying Your Computer’s Msvcr110.dll Void</u></a></li>
+<li><a href="https://article-tips.techidaily.com/revolutionizing-photo-quality-with-auto-and-smart-hdr-features-for-2024/"><u>Revolutionizing Photo Quality with Auto and Smart HDR Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-everlasting-file-elimination-on-your-desktop-bin-with-windows-11/"><u>Simplifying Everlasting File Elimination on Your Desktop Bin with Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stable-playthrough-of-baldurs-gate-3-on-pc-tips-and-troubleshooting-steps/"><u>Stable Playthrough of Baldur's Gate 3 on PC: Tips and Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/the-13-step-blueprint-to-reactivating-your-windows/"><u>The 13-Step Blueprint to Reactivating Your Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-invisible-handshake-direct-pc-links-in-windows-11-rdp/"><u>The Invisible Handshake: Direct PC Links in Windows 11 RDP</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-classic-gaming-journey-add-trophy-features-through-retroarch/"><u>Transform Your Classic Gaming Journey - Add Trophy Features Through Retroarch</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-ccleaner-in-win11/"><u>Troubleshooting Non-Functional CCleaner in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steam-network-access-on-pc-windows/"><u>Unlocking Steam Network Access on PC Windows</u></a></li>
 </ul></div>
 

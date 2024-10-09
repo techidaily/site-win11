@@ -1,7 +1,7 @@
 ---
 title: Unlocking PowerToys' Text and Click Efficiency
-date: 2024-09-12T03:23:11.104Z
-updated: 2024-09-17T05:01:41.610Z
+date: 2024-10-02T16:58:38.334Z
+updated: 2024-10-09T05:24:47.122Z
 tags:
   - windows10
   - windows11
@@ -43,8 +43,35 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 4. Click on the**pencil** icon. Press the keys you want to set as a shortcut for Paste as Plain Text feature. Then click on the**Save** button.  
 ![Enable the Paste as Plain Text Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-the-paste-as-plain-text-feature-in-powertoys.jpg)
 5. Minimize the PowerToys window and then copy any text with some formatting associated with it.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
 ![Paste as Plain Text Feature in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-as-plain-text-feature-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is "Mouse Jump" in PowerToys?
 
@@ -53,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
  You can fix these annoyances with a[dual-monitor management app for Windows](https://www.makeuseof.com/software-manage-dual-monitors/) , but Mike Clayton already had a tool called[FancyMouse on GitHub](https://github.com/mikeclayton/FancyMouse) . But now he merged the tool with PowerToys which is great news for all power users.
 
  With the Mouse Jump feature, you can press a shortcut key to open a small replica of the complete display and then move the mouse cursor to the desired location. It saves a lot of time wasted in struggling to get from one corner to other on a wide-screen display.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable and Use "Mouse Jump" in Power Toys
 
@@ -80,10 +94,17 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 ![Mouse Jump Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-jump-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leverage These Useful PowerToys Features on Windows
@@ -103,5 +124,24 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-maximizing-color-correction-advanced-techniques-for-lut-applications/"><u>[New] Maximizing Color Correction Advanced Techniques for LUT Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-design-with-new-fonts-in-after-effects/"><u>[New] Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamitsimple-your-first-guide-to-live-podcasting/"><u>[Updated] StreamItSimple Your First Guide to Live Podcasting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/audio-technica-driver-troubleshooting-and-updates-for-optimal-performance/"><u>Audio-Technica Driver Troubleshooting & Updates for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-block-of-microsoft-store-in-windows-11/"><u>Disabling Block of Microsoft Store in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-system-reliability-automatic-updates-plus-graphics-card-swap/"><u>Enhance System Reliability: Automatic Updates + Graphics Card Swap</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-television-viewing-experience-7-cost-free-methods-for-better-image-quality/"><u>Enhance Your Television Viewing Experience: 7 Cost-Free Methods for Better Image Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-password-protectionists-for-the-modern-windows-user/"><u>Masterful Password Protectionists for the Modern Windows User</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-access-to-windows-odbc-settings/"><u>Mastering Access to Windows' ODBC Settings</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-hd-sound-driver-upgrade-for-win7/"><u>Nvidia HD Sound Driver Upgrade for Win7</u></a></li>
+<li><a href="https://win11.techidaily.com/skimming-through-complex-windows-update-issues-with-error-0x800736cc/"><u>Skimming Through Complex Windows Update Issues with Error 0X800736CC</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-compatibility-with-photoshop/"><u>Steps to Overcome Windows Compatibility with Photoshop</u></a></li>
+<li><a href="https://win11.techidaily.com/system-rescue-in-13-easy-to-follow-tips/"><u>System Rescue in 13 Easy-to-Follow Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-off-windows-mobility-settings-quick-guide-win-11/"><u>Turn Off Windows Mobility Settings Quick Guide (Win 11)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-consoles-secrets-without-a-mic/"><u>Unlock Your Console's Secrets Without a Mic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-best-free-screen-recorders-on-windows-10/"><u>Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-samsung-960-evo-storage-to-new-firmware-in-windows/"><u>Update Your Samsung 960 EVO Storage to New Firmware in Windows</u></a></li>
+</ul></div>
 

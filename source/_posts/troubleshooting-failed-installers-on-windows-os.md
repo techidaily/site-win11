@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failed Installers on Windows OS
-date: 2024-09-21T00:44:20.316Z
-updated: 2024-09-21T16:34:40.952Z
+date: 2024-10-06T01:52:33.438Z
+updated: 2024-10-09T12:47:33.543Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 ## 1\. Download the Affected Installer Package File Again
 
  The setup file you’ve downloaded could be damaged in some way. So, try downloading a fresh setup file for the software you can’t install. Select to download the installer file to a different folder on your hard drive and then have another go at installing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Set Admin Rights on Your User Account
 
@@ -66,25 +73,33 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 4. Type **runas** inside the key’s text box.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select **runas** and double-click on its **(Default)** string.  
 ![The runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-runas-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Input **Install as &administrator** inside the **Value data** box and select **OK**.  
 ![The Edit String window for the runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/an-edit-string-window.jpg)
 2. Next, click the **runas** key with the right mouse button to select **New** and **Key**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Enter **command** to be your new key’s title.
 4. Select **command** to double-click on that key’s **(Default)** string.
 5. Input **msiexec /i "%1"** within the **Value data** box and click **OK**.  
@@ -108,16 +123,16 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-users-or-groups-window.jpg)
 3. Select **OK** to exit the Users or Groups window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the **Full Control** checkbox inside the **Allow** column.  
 ![The Permissions for Temp window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-permissions-for-temp-window.jpg)
 5. Select **Apply** to set new permission settings then OK out of all windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Apple Software Update App
 
@@ -130,17 +145,10 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 4. Try installing iTunes after repairing Apple Software Update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Restart the Windows Installer Service
@@ -169,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 ![The register service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-register-windows-installer-command.jpg)
 5. Check the Windows Installer service is running and start it again if necessary, as covered in the earlier resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Perform a Windows Clean Boot
 
  Disabling all third-party software and services that start with Windows is called "clean booting". Clean booting might disable some startup items that were conflicting with the installation process. Security programs are the most likely software packages to cause installation issues.
@@ -178,6 +193,13 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab2.jpg)
 
  If this resolution solves the issue, you can install the software you currently need and restore the standard boot configuration afterward. However, the error might reoccur in the future when you try to install more software. So, it’s better to try and identify what app or service was causing the issue and keep it disabled.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install All the Windows Software Packages You Need Again
 
@@ -193,5 +215,24 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[New] In 2024, Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-seamless-sound-recording-experience-with-audacity-mac-edition-for-2024/"><u>[New] Seamless Sound Recording Experience with Audacity, Mac Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-work-after-a-video-is-uploaded/"><u>[Updated] 2024 Approved How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-how-to-import-photos-and-videos-in-windows-11-deepest-secret/"><u>[Updated] In 2024, How to Import Photos and Videos in Windows 11 (Deepest Secret)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-visual-communication-how-to-place-titles-on-videos-using-photos/"><u>[Updated] Innovative Visual Communication How to Place Titles on Videos Using Photos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-instantaneous-fortnite-tile-design-guide/"><u>[Updated] Instantaneous Fortnite Tile Design Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nce-expansion-masterclass-skyrocketing-your-youtube-numbers-for-2024/"><u>Audience Expansion Masterclass Skyrocketing Your Youtube Numbers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-familiarity-migrating-custom-powertoys-on-a-new-device/"><u>Bringing Familiarity: Migrating Custom PowerToys on a New Device</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-connectivity-windows-plus-playstation-3-pad/"><u>Effortless Connectivity: Windows + PlayStation 3 Pad</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-blocked-experience-in-roblox-addressing-account-restrictions/"><u>Fixing Blocked Experience in Roblox: Addressing Account Restrictions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-by-drfone-android/"><u>Full Guide to Unlock Your Realme</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-the-default-windows-clock-configuration/"><u>Protecting the Default Windows Clock Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-unidentified-component-in-windows-lsass/"><u>Quick Fixes for Unidentified Component in Windows Lsass</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-windows-file-explorer-efficiently/"><u>Reactivate Windows File Explorer Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-to-removing-windows-extract-error-1152/"><u>Unlocking Secrets to Removing Windows Extract Error 1152</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-the-newest-bluetooth-software-drivers-optimized-for-windows-devices-free-download/"><u>Upgrade to the Newest Bluetooth Software Drivers | Optimized for Windows Devices - Free Download</u></a></li>
+</ul></div>
 

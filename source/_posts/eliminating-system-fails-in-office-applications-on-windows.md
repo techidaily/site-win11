@@ -1,7 +1,7 @@
 ---
 title: Eliminating System Fails in Office Applications on Windows
-date: 2024-09-16T03:01:54.784Z
-updated: 2024-09-21T17:30:32.069Z
+date: 2024-10-04T11:37:43.880Z
+updated: 2024-10-09T01:29:22.415Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 
  If the error persists even after a system reboot, move on to the next solution.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Office Repair Tool
 
  Running the Office Repair tool is an effective way to fix all kinds of issues with Office apps, including the one discussed here. Here's how you can run the tool on your PC.
@@ -58,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 7. Select the **Quick Repair** option and hit the **Repair** button.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
- Wait for the process to complete and check if you can open your Office apps. If you still get the “Something went wrong” error, Microsoft recommends you perform an Online Repair. To do so, repeat the above steps and select the **Online Repair** option. This process may take longer to complete, but it’s most likely to fix the underlying issue.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait for the process to complete and check if you can open your Office apps. If you still get the “Something went wrong” error, Microsoft recommends you perform an Online Repair. To do so, repeat the above steps and select the **Online Repair** option. This process may take longer to complete, but it’s most likely to fix the underlying issue.
 
 ## 4\. Uninstall and Reinstall Microsoft Office
 
@@ -79,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 ![Uninstall Office From PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-office-from-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once removed, use these steps to download and install Office apps on your PC:
@@ -94,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 5. Click the **Install** button to download the Office setup file.
 6. Double-click the downloaded EXE file and follow the on-screen instructions to finish installing Microsoft Office on your PC.  
 ![Download Office Setup File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-office-setup-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Using Office Apps Again
 
@@ -109,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-10-leading-no-cost-webcalls-for-businesses-for-2024/"><u>[New] Discover the 10 Leading No-Cost Webcalls for Businesses for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>[New] Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uniting-viewers-facebook-live-on-the-big-screen-for-2024/"><u>[New] Uniting Viewers Facebook Live on the Big Screen for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-investigating-financial-gains-from-product-reviews/"><u>[Updated] Investigating Financial Gains From Product Reviews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-producing-quality-mobile-videos/"><u>[Updated] Step-by-Step Guide to Producing Quality Mobile Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-11s-services-a-beginners-guide/"><u>Deciphering Windows 11’S Services: A Beginner's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-0x8007045d-bsod-on-windows-11-computers/"><u>Eliminating 0X8007045D BSOD on Windows 11 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/expedite-pc-wake-up-modifying-boot-menu-delay/"><u>Expedite PC Wake-Up: Modifying Boot Menu Delay</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-harmonious-social-media-incorporating-soundtracks-into-fb-videos/"><u>In 2024, Harmonious Social Media Incorporating Soundtracks Into FB Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-gen-screen-in-depth-look-at-the-hp-envy-27-for-2024/"><u>Next Gen Screen In-Depth Look at the HP Envy 27 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-solve-windows-rdp-errors-on-1111-pro-editions/"><u>Quick Guide to Solve Windows RDP Errors on 11/11 Pro Editions</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-the-process-disabling-gpu-task-execution-windows/"><u>Revealing the Process: Disabling GPU Task Execution Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-navigation-for-windows-iscsi-initiator-mastery/"><u>Step-by-Step Navigation for Windows iSCSI Initiator Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-for-lost-ubisoft-game-launcher/"><u>Troubleshooting Guide for Lost Ubisoft Game Launcher</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Your PC Searches, Use EverythingApp
-date: 2024-09-20T09:06:21.295Z
-updated: 2024-09-22T08:37:12.814Z
+date: 2024-10-07T11:21:11.327Z
+updated: 2024-10-09T11:55:22.613Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
  What makes Everything so fast is how it indexes files and folders. Unlike the[Windows Search Indexer](https://www.makeuseof.com/windows-search-indexer-guide/) , which relies on both filenames and their content, Everything uses just file and folder names. Hence, indexing files and folders take less time, which, in turn, speeds up the entire process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install Everything on Windows
 
  Everything is available for all versions of Windows. And depending on whether you plan on using Everything on your or someone else's computer, you can either install it or run it as a portable executable from a thumb drive. We'll focus on installing Everything directly on a computer in this guide.
@@ -47,11 +54,25 @@ thumbnail: https://thmb.techidaily.com/e246634d5da34f177363476939043c1e6f3469bbe
 
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Perform Basic Everything Configuration
 
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
 
 ![Everything search options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 We recommend enabling the following options from here:
 
@@ -72,22 +93,35 @@ We recommend enabling the following options from here:
 
 ![simple search in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-file-folder-on-everything.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to limit your search to a particular drive, you can specify the drive letter in your search query. For example, using**d:\\** before your query will show you only those files and folders that are present in the**D** drive.
 
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Get More Information and Perform Operations on Search Results
 
  If you wish to find out details about a file/folder in the results, select it, and Everything will show its details in the status bar below.
 
 ![view details about a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/get-details-about-a-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, you can double-click on a file or folder to open it in File Explorer. Or right-click on it to bring up the context menu.
 
@@ -100,17 +134,10 @@ We recommend enabling the following options from here:
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Filter Results by Type
@@ -132,13 +159,6 @@ We recommend enabling the following options from here:
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
 
  Everything will then return only those files and folders that match the specified case style.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Use Advanced Search
 
@@ -166,13 +186,6 @@ We recommend enabling the following options from here:
 
 **Example:** If you want to find all the files inside the**Images** folder that are less than**15MB** , you can use the size function to get to them:**images\\ size:>15MB** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Everything Goes Beyond What We've Covered
 
  Everything is quite a powerful tool, as you've seen by now. However, we've only scratched the surface here, and there are several other advanced search options that it offers to simplify file and folder searches on your computer.
@@ -194,5 +207,24 @@ We recommend enabling the following options from here:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-twitch-time-rewind-hacks-unveiled/"><u>[New] Twitch Time Rewind Hacks Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-inexpensive-pcs-optimized-obs-configuration/"><u>[Updated] In 2024, Inexpensive PCs Optimized OBS Configuration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-tips-for-capturing-gaming-sessions-for-2024/"><u>[Updated] Quick Tips for Capturing Gaming Sessions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smoothest-android-3d-video-streaming/"><u>[Updated] Smoothest Android 3D Video Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-depth-look-at-macs-top-screen-capture-apps/"><u>In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-speeds-averting-rapid-download-declines/"><u>Mastering Steam Speeds: Averting Rapid Download Declines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-persuasion-writing-winning-proposals-with-chatgpt/"><u>Mastering the Art of Persuasion: Writing Winning Proposals with ChatGPT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-video-success-on-youtube-long-term-creativity-commons-strategy-for-2024/"><u>Maximizing Video Success on YouTube Long-Term Creativity Commons Strategy for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-media-on-alert-dissecting-new-scam-tactics-on-twitter-metas-push-for-a-secure-platform-with-the-latest-verification-measures-and-demystifying-what-ch65/"><u>Social Media on Alert: Dissecting New Scam Tactics on Twitter, Meta's Push for a Secure Platform with the Latest Verification Measures & Demystifying What ChatGPT-4 Brings to the Table</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-file-transfer-strategies-for-microsofts-marketplace/"><u>Speedy File Transfer Strategies for Microsoft's Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-0x80070194-on-windows-onedrive/"><u>Steps to Eliminate 0X80070194 on Windows OneDrive</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-stabilize-eight-essential-steps-for-obs-studio-fixes/"><u>Streamline and Stabilize: Eight Essential Steps for OBS Studio Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-impact-of-sudos-arrival/"><u>Understanding the Impact of Sudo's Arrival</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-ways-to-prevent-note-clutter-in-win-os/"><u>Unveiling Ways to Prevent Note Clutter in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win-gaming-mastering-intel-graphics-for-live-streams/"><u>Win Gaming: Mastering Intel Graphics for Live Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/win10-illustrators-guide-to-the-7-best-drawing-tools/"><u>Win10 Illustrators' Guide to the 7 Best Drawing Tools</u></a></li>
+</ul></div>
 

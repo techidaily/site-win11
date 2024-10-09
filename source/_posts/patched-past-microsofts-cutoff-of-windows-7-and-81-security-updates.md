@@ -1,7 +1,7 @@
 ---
 title: "Patched Past: Microsoft's Cutoff of Windows 7 and 8.1 Security Updates"
-date: 2024-10-01T04:01:08.034Z
-updated: 2024-10-04T05:44:19.092Z
+date: 2024-10-07T15:22:20.943Z
+updated: 2024-10-09T06:56:38.045Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,16 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
  Now that Microsoft is no longer releasing updates for both of these operating systems, it's high time that their users upgrade to Windows 10 or 11\. That way, they can ensure the security and smoothness of their computers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Should You Do If Your Computer Is Still on Windows 7 or 8.1?
 
 ![Windows 10 nag screen view with a finger on top of it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/windows-10-upgrade-nag-screen-intro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Anton Watman/[Shutterstock.com](https://www.shutterstock.com/image-photo/kazan-russia-20-june-2015-finger-293983433)
 
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
  Or, if you can afford it, why not buy a new laptop or PC instead? Several[great budget laptops you can buy](https://www.makeuseof.com/tag/best-laptops-under-500/) run Windows 11, ensuring you can get the latest security patches and cover your most basic needs.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Could Happen to Your PC If You Don't Upgrade to Windows 10 or 11?
 
  If you choose to stay with Windows 7 or 8.1, you'll likely encounter several problems. Here are a few of the possible issues you might encounter:
@@ -65,6 +78,19 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 ### 1\. Your Computer's Security Could Become Compromised
 
 ![anonymous hooded figure on laptop hidden by question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/question-mark-anon.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The biggest issue with the lack of security updates is that your data is more vulnerable. Without the security patches, anything saved on your computer—like your personal data, financial information, and files—can be stolen or leaked online.
 
@@ -82,40 +108,26 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
 ![webcam error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/webcam-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Since Microsoft is stopping support for Windows 7 and 8.1, it also no longer makes sense for hardware manufacturers to create drivers for these operating systems to support their products.
 
  While most keyboards and mice will run no matter what Windows operating system you have, more advanced hardware, like webcams and game controllers, might not work with an older operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. You Can't Run Some of the Latest Apps and Games
 
 ![Call of duty modern warfare 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Call-of-duty-modern-warfare-2--2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Call of Duty](https://www.callofduty.com/blog/2022/10/call-of-duty-modern-warfare-II-release-live-worldwide-now)
 
  While many apps and games are typically made for the lowest common hardware, you generally can't run newer, more powerful software on older operating systems. For example, you can run popular games like Counter-Strike: Global Offensive and Dota 2 on Windows 7 and 8.1.
 
  But if you want to play PUBG: BATTLEGROUNDS or Call of Duty: Modern Warfare II, you must have at least a Windows 10 PC. You also need an updated operating system to run Microsoft 365, Microsoft Office 2021, and Adobe Creative Cloud apps.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It's Time to Upgrade Your Windows 7 or 8.1 PC
 
@@ -138,16 +150,18 @@ thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-visionmeld-digital-artistry-at-your-fingertips-for-2024/"><u>[New] VisionMeld Digital Artistry at Your Fingertips for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-recording-techniques-for-stellar-voice-over-audio/"><u>[Updated] In 2024, Recording Techniques for Stellar Voice-Over Audio</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-list-of-android-mobas-for-2024/"><u>[Updated] The Ultimate List of Android MOBAs for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterclass-in-visual-storytelling-for-youtube-live-videos/"><u>2024 Approved Masterclass in Visual Storytelling for YouTube Live Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-list-compelling-complimentary-windows-11-aids/"><u>Exclusive List: Compelling, Complimentary Windows 11 Aids</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 13 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-failed-webpage-loaders-in-microsoft-stores/"><u>Overcoming Failed Webpage Loaders in Microsoft Stores</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-walkthrough-of-audio-settings-in-w11-pcs/"><u>Step-by-Step Walkthrough of Audio Settings in W11 PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-tips-unlocking-grammarlys-full-potential/"><u>Windows Tips: Unlocking Grammarly's Full Potential</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-the-nuances-of-gamers-channel-templates/"><u>[Updated] 2024 Approved Navigating the Nuances of Gamers' Channel Templates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pinnacle-business-cloud-haven/"><u>[Updated] In 2024, Pinnacle Business Cloud Haven</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tiny-tycoons-car-contests/"><u>[Updated] Tiny Tycoons' Car Contests</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-friendly-free-tools-to-create-professional-video-thumbnails-for-2024/"><u>10 User-Friendly Free Tools to Create Professional Video Thumbnails for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/activation-procedure-for-copypaste-functionality-in-w11s-security-mode-edge/"><u>Activation Procedure for Copy/Paste Functionality in W11's Security Mode, Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-tactics-for-repeated-usernamepassword-alerts/"><u>Bypass Tactics for Repeated Username/Password Alerts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/catch-your-favorite-tunes-on-a-budget-with-karaoke-usa-exceptional-entertainment-under-150/"><u>Catch Your Favorite Tunes on a Budget with Karaoke USA - Exceptional Entertainment Under $150</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-artistry-stripping-background-in-photos-simplified/"><u>Digital Artistry Stripping Background in Photos Simplified</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-io-errors-in-photo-import-from-apple-devices/"><u>Essential Fixes for I/O Errors in Photo Import From Apple Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-logging-in-run-commands-on-pcs/"><u>Fixing No Logging in Run Commands on PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-truths-and-misconceptions-a-reality-check/"><u>Metaverse Truths & Misconceptions – A Reality Check</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-non-automatic-timezone-change/"><u>Overcoming Windows' Non-Automatic Timezone Change</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-blue-screen-analysis-key-to-troubleshooting/"><u>Windows Blue Screen Analysis: Key to Troubleshooting</u></a></li>
 </ul></div>
 

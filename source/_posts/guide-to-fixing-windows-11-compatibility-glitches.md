@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing Windows 11 Compatibility Glitches
-date: 2024-09-21T02:47:43.661Z
-updated: 2024-09-21T19:44:45.325Z
+date: 2024-10-02T16:55:48.676Z
+updated: 2024-10-08T21:44:41.964Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 5. You’ll find the**Program Compatibility Troubleshooter** in the**Other** section, and to launch it, click the**Run** button next to it.  
 ![the other troubleshooters page on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/other-troubleshooters-page-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For more ways to fire up this tool, please read our guide on the[different ways to run the Program Compatibility Troubleshooter on Windows](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
 
 ## How to Pick a Program to Fix in the Program Compatibility Troubleshooter
@@ -65,6 +72,13 @@ Let’s see what each of them does.
 
 ![program-compatibility-troubleshooter-test-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-test-program.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will then be asked if you want to save the applied settings. If they worked, click**Yes, save these settings for this program** . If not, click**No, try again using different settings** – this will be like selecting**Troubleshoot program** as your troubleshooting option.
 
 ![program-compatibility-troubleshooter-save-settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-save-settings.jpg)
@@ -77,15 +91,22 @@ Let’s see what each of them does.
 
 ![selecting a problem in the program compatibility troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-choose-problem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you ticked **The program worked in earlier versions of Windows but won’t install or run now** , you’ll be required to pick an earlier version of Windows by clicking on the appropriate radio button. Then, click**Next** to apply the compatibility settings.
 
 ![picking an older version of Windows in the Program Compatibility Troubleshooter-pick-old-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-old-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you ticked,**The program opens but doesn’t display correctly** when choosing a problem, you’ll need to pick the display problems you’re experiencing. Then, click**Next** to apply the compatibility settings, and, remember, you can pick more than one problem to give the tool more information on how to best optimize it.
@@ -93,10 +114,10 @@ Let’s see what each of them does.
 ![program-compatibility-troubleshooter-pick-display-problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-display-problem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you ticked**The program requires additional permissions** , the compatibility settings will be applied immediately. And if you pick**I don’t see my problem on the list** , you’ll be taken to the screen where you have to pick an earlier version of Windows that the program last worked on.
@@ -104,13 +125,6 @@ Let’s see what each of them does.
  Then, you need to click the**Test the program** button to see if the problem is gone. Afterward, click**Next** to proceed.
 
  If the troubleshooter resolved the problem, click**Yes, save these settings for this program** on the next screen. If it didn’t, click**No, try again using different settings** to try other troubleshooting steps. If neither option applies to your situation, click **No, report the problem to Microsoft and check online for a solution** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Rid of Program Compatibility Issues on Windows 11
 
@@ -131,5 +145,23 @@ Let’s see what each of them does.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-live-play-with-professional-gear-lists/"><u>[New] 2024 Approved Elevating Live Play with Professional Gear Lists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-audio-capture-top-9-mic-recorders-showcase-for-2024/"><u>[New] Elite Audio Capture Top 9 Mic Recorders Showcase for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-upstream-store-problem-code-x800704cf/"><u>Easing Upstream Store Problem: Code X800704CF</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-6s-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-proof-your-internet-with-the-best-cable-modems-of-2024/"><u>Future-Proof Your Internet with the Best Cable Modems of 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-disabling-win11s-security-feature/"><u>Guide to Disabling Win11’s Security Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, How to Bypass FRP from Infinix Smart 8 HD?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>In 2024, Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-s23-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel S23</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-classic-icon-style-for-window-11s-search-field/"><u>Restoring Classic Icon Style for Window 11'S Search Field</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-clear-of-setup-snags-in-windows-11-and-10s-pubg/"><u>Steering Clear of Setup Snags in Windows 11 & 10'S PUBG</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-use-of-ping-command-in-pc-operations/"><u>Strategic Use of Ping Command in PC Operations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-workflow-essential-tips-to-record-on-hp-laptop-for-2024/"><u>Streamline Your Workflow Essential Tips to Record on HP Laptop for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-defense-for-homeowners-unveiling-features-and-functions-of-the-blink-outdoor-4-wi-fi-camera/"><u>The Ultimate Defense for Homeowners: Unveiling Features and Functions of the Blink Outdoor 4 Wi-Fi Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-winbubble-powered-customizations/"><u>The Ultimate Guide to WinBubble-Powered Customizations</u></a></li>
+<li><a href="https://win11.techidaily.com/thriving-without-a-direct-step-to-windows-11-heres-how/"><u>Thriving Without a Direct Step to Windows 11, Here's How</u></a></li>
+</ul></div>
 

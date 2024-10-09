@@ -1,7 +1,7 @@
 ---
 title: Cross-Platform Data Transfer Using a Python Server on Windows
-date: 2024-09-17T05:30:26.770Z
-updated: 2024-09-21T22:04:26.694Z
+date: 2024-10-08T09:22:39.935Z
+updated: 2024-10-09T07:33:28.574Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
  It is important to note that the web server we will create here can only be accessed on your local network via a private IP address, for example, 192.168.xx.xx or 10.10.xx.xx. But you can use this server to easily download files from one device to another as long as you are on the same network.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up a Python Web Server for File Transfer on Windows
 
  Setting up a Python web server is very easy. Before you start setting up, make sure you have Python installed. If you don't, you can easily[install Python on Windows](https://www.makeuseof.com/tag/install-pip-for-python/) in a few minutes.
@@ -41,6 +48,14 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 2. In the Address Bar, double-click the file path and type cmd. This would open a Command Prompt window in that location.  
 ![Opening the Command Prompt In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/file.jpg)  
  Alternatively, you can open the Command Prompt by pressing**Win + R** and typing**cmd** in the Run dialog box. Then navigate to your desired file or folder[using the cd command in Windows](https://www.makeuseof.com/how-to-change-directory-in-cmd/) .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Opening the Command Prompt via the Run window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/file2.jpg)
 3. You can get your private IP address by typing**ipconfig** in your Command Prompt window.
 4. To initiate the Python web server, execute this command:**python -m http.server**  
@@ -52,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ![Setting up a python web server on port 5678](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/fil2-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you have a simple Python web server for file transfer up and running on your Windows device. To end the server, just press**Ctrl + C** .
 
 ## How to Download the Files From the Python Server
@@ -61,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 ![Image showing the set up python server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023-04-21-19_25_20-directory-listing-for-_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Python to Make Your Tasks Easier
@@ -86,5 +108,16 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-funny-frameworks-crafting-memes-with-ease/"><u>[New] Funny Frameworks Crafting Memes with Ease</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-full-potential-the-laptop-recording-manual/"><u>[Updated] 2024 Approved Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/beating-the-curve-adapting-to-new-facebook-content-rules-for-2024/"><u>Beating the Curve Adapting to New Facebook Content Rules for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cranking-cadence-select-tools-that-elevate-pc-sound-past-limit/"><u>Cranking Cadence: Select Tools That Elevate PC Sound Past Limit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-s23-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy S23 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ed-themed-windows-11/"><u>Mastering Ed-Themed Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-systems-five-key-approaches-to-reinstate-defender-safeguard/"><u>Securing Systems: Five Key Approaches to Reinstate Defender Safeguard</u></a></li>
+<li><a href="https://win11.techidaily.com/synopsis-shortcut-strategies-for-win11-narrator/"><u>Synopsis: Shortcut Strategies for Win11 Narrator</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-laptop-picks-for-2-2024/"><u>Top-Ranked Gaming Laptop Picks for 2지날로 2024</u></a></li>
+</ul></div>
 

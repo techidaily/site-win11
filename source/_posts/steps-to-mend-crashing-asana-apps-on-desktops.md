@@ -1,7 +1,7 @@
 ---
 title: Steps to Mend Crashing Asana Apps on Desktops
-date: 2024-09-30T21:11:42.917Z
-updated: 2024-10-03T16:41:05.038Z
+date: 2024-10-08T02:07:50.411Z
+updated: 2024-10-09T09:27:12.586Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  These basic steps can often resolve common Asana issues. However, if you're still facing loading issues, keep reading to try some advanced methods.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear the Asana Cache Files
 
  Like other Windows apps, Asana creates cache files to store temporary data. Sometimes, the cache files become corrupted due to malware or unexpected system shutdowns. This ultimately causes Asana to slow down or crash on startup. But how can you fix the Asana not working issues, then? In this case, clearing the stored cache files can often solve this.
@@ -51,22 +64,23 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 3. On the File Explorer window, select the **Cache\_Data** folder.  
 ![Asana Cache Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-cache-folder.jpg)
 4. Press the **Del** key or click the **Delete** icon to remove the cache files.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After clearing the cache, re-open Asana to check the loading issue.
 
  Clearing the cache will force the app to reconnect to Asana's server. If this is not working for you, proceed to the next step.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update Asana to the Latest Version
 
@@ -78,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 2. [Open the Run app](https://www.makeuseof.com/windows-open-run-command-dialog-box/) and type **%localappdata%/asana** in the text field.  
 ![Run App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-app-on-windows.jpg)
 3. Click the **Ok** button to open Windows File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Double-click the **Update.exe** file. Wait for a few seconds, and the app will automatically close.  
 ![Asana Local AppData Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-local-appdata-folder.jpg)
@@ -100,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 ![Asana Diagnostics Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-diagnostics-overview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change Your Default DNS Server
@@ -122,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 ![ControlD Custom Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controld-custom-rules.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Allow Asana Through the Firewall
@@ -141,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 3. In the list of apps, search for **Asana**. If you can't find it, you may need to add it manually by selecting **Add an app**.
 4. Once you add Asana, ensure it has permission to pass through the firewall. Tick the **Private** and **Public** checkboxes depending on your network type.  
 ![Asana Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/asana-firewall-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Asana App
 
@@ -159,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  A fresh install will remove all the old files from your computer and replace them with new ones. Moreover, by reinstalling Asana, you can troubleshoot almost all issues related to the Asana app. So, don't fear to give it a try once!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Back Your Full Asana Experience on Windows
 
  By following the steps outlined in this guide, you should be able to resolve the loading issues and enjoy a smooth experience. However, if you're still out of luck, the main problem may be your Asana account. In this matter, we recommend reaching out to their tech support team.
@@ -174,22 +181,6 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 
  Here, we'll explore various solutions to fix the Asana not working or loading issues on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-balance-aesthetics-and-functionality-on-instagram/"><u>[New] Balance Aesthetics and Functionality on Instagram</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ideal-choices-for-comprehensive-movement-recording-for-2024/"><u>[Updated] Ideal Choices for Comprehensive Movement Recording for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-insta-audio-handbook-choosing-music-wisely/"><u>[Updated] The Insta-Audio Handbook Choosing Music Wisely</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-delete-safety-windows-options-explored/"><u>Enhancing Delete Safety: Windows Options Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/introducing-command-line-interface-to-taskmgr-windows/"><u>Introducing Command Line Interface to TaskMgr (Windows)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-startup-problems-with-red-dead-redemption-e-a-step-by-step-guide/"><u>Resolving Startup Problems with Red Dead Redemption E: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/routes-to-the-windows-11-security-configuration/"><u>Routes to the Windows 11 Security Configuration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-eliminate-screen-flickering-in-valorant/"><u>Step-by-Step Solutions to Eliminate Screen Flickering in Valorant</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-secure-transform-your-windows-pin-today/"><u>Swift and Secure: Transform Your Windows PIN Today</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-easy-path-to-professional-looking-youtube-shorts-for-2024/"><u>The Easy Path to Professional-Looking YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/zipping-and-unzipping-made-simple-with-powershell-examples/"><u>Zipping & Unzipping Made Simple with PowerShell Examples</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +188,20 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-pioneering-marketing-top-20-strategies-for-impactful-fb-video-ads/"><u>[Updated] In 2024, Pioneering Marketing Top 20 Strategies for Impactful FB Video Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-moto-g13-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Moto G13? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-vanguard-on-pc-latest-patch-eliminates-crashing-problems-year-2024/"><u>Call of Duty Vanguard on PC: Latest Patch Eliminates Crashing Problems (Year 2024)</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-ms-store-problem-fix-code-0x0-error-on-pcs/"><u>Eradicating MS Store Problem - Fix Code 0X0 Error on PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsm files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-13c-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi 13C Device</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-world-apple-maps-on-windows/"><u>Navigating the World: Apple Maps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-in-use-device-names-on-your-windows-system/"><u>Overcoming In-Use Device Names on Your Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-picturesaveerror-in-windows-11/"><u>Resolving PictureSaveError in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-and-using-the-nvidia-rtx-ai-chatbot-on-pc/"><u>Step-by-Step Guide: Setting Up and Using the Nvidia RTX AI Chatbot on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-tactics-to-master-wsl-2-in-windows-environments/"><u>Top 5 Tactics to Master WSL 2 in Windows Environments</u></a></li>
+</ul></div>
+
