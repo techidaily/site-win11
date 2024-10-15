@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Screen Saved Spots in Windows
-date: 2024-09-10T00:30:30.460Z
-updated: 2024-09-17T03:32:39.729Z
+date: 2024-10-10T18:30:03.799Z
+updated: 2024-10-15T21:43:30.463Z
 tags:
   - windows10
   - windows11
@@ -36,20 +36,27 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  You've taken a screenshot, and now you're wondering, "where do my screenshots go on Windows?" It can be hard to know where to find screenshots since it depends on the method used to take them, but there are a few common places to check.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where Do Screenshots Go on Windows 10 and 11?
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prt Sc Key
 
  Where do print screens go? The answer is simple: to the clipboard. If you want to access the screenshot, you have to save the it manually in an image editor like Paint. You can even paste the screenshots into programs that allow you to insert images, such as Microsoft Word or Google Docs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows Key + Prt Sc
 
@@ -57,7 +64,21 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Snipping Tool (Windows Key + Shift + S)
 
@@ -67,20 +88,13 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure you select a location you can easily remember so you don't forget where you placed it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Xbox Game Bar (Windows Key + G)
@@ -99,14 +113,14 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
@@ -115,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
  Apps like Snagit open a preview window instead, allowing you to choose where to save the screenshot. You can also try checking the app's menus and settings to see if you can find the location of screenshots there. For example, you can find out where Steam saves screenshots by opening the app and clicking **File > Screenshots**.
 
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
 
@@ -141,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,3 +155,25 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-maximizing-your-video-content-on-zoom-for-fb-live/"><u>[New] 2024 Approved Maximizing Your Video Content on ZOOM for FB Live</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-riddle-me-this-the-ultimate-room-conundrums-for-2024/"><u>[New] Riddle Me This The Ultimate Room Conundrums for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capture-clarity-with-leading-photo-gridding-services/"><u>2024 Approved Capture Clarity with Leading Photo Gridding Services</u></a></li>
+<li><a href="https://win11.techidaily.com/ease-upgrade-rejections-adobe-windows-tips/"><u>Ease Upgrade Rejections: Adobe Windows Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-with-file-history-on-a-windows-system/"><u>Eliminating “Error with File History” On a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visual-clarity-win11-scaling-tips/"><u>Enhancing Visual Clarity: Win11 Scaling Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-phantom-opening-of-microsoft-shop/"><u>Fixing the Phantom Opening of Microsoft Shop</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-avoiding-piracy-safe-techniques-for-youtube-to-mp4/"><u>In 2024, Avoiding Piracy Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 13 and iPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-edge-40-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 40 Users</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-the-hiring-process-securing-your-dream-job-in-microsofts-technology-department-insights-from-zdnet/"><u>Mastering the Hiring Process: Securing Your Dream Job in Microsoft's Technology Department | Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/multisystem-harmony-windows-launches-across-iphone-ipad-mac-and-windows/"><u>Multisystem Harmony: Windows Launches Across iPhone, iPad, Mac & Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-for-mac-the-ultimate-pro-video-editing-tool/"><u>New Adobe Premiere Pro for Mac The Ultimate Pro Video Editing Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/perfect-your-presentation-essential-strategies-for-video-length-reduction-in-vimeo-for-2024/"><u>Perfect Your Presentation Essential Strategies for Video Length Reduction in Vimeo for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-and-stylize-crafting-your-own-windows-calendar-vision/"><u>Simplify & Stylize: Crafting Your Own Window's Calendar Vision</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-of-cookiebot-for-advanced-seo-management/"><u>The Power of Cookiebot for Advanced SEO Management</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-tech-determining-devices-birthdate/"><u>Windows Tech: Determining Device's Birthdate</u></a></li>
+</ul></div>
+

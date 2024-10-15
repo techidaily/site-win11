@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Subtitles & Sound: Streamlined Viewing with Prime, Windows 11"
-date: 2024-10-06T13:37:53.340Z
-updated: 2024-10-08T23:18:24.571Z
+date: 2024-10-11T22:35:58.557Z
+updated: 2024-10-15T19:29:04.336Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -74,10 +81,16 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
@@ -87,20 +100,13 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -121,18 +127,17 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[New] In 2024, First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
-<li><a href="https://win11.techidaily.com/5-effective-ways-to-manipulate-image-size-on-windows-11/"><u>5 Effective Ways to Manipulate Image Size on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-utorrents-non-functionality-on-pc-systems/"><u>Addressing uTorrent's Non-Functionality on PC Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tactics-in-managing-windows-startup-procedures/"><u>Advanced Tactics in Managing Windows Startup Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/alleviating-high-cpu-demands-in-setups/"><u>Alleviating High CPU Demands in Setups</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-htc-u23-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your HTC U23 Pro? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-slowness-essential-tricks-for-windows-11s-pace/"><u>Beat the Slowness: Essential Tricks for Windows 11'S Pace</u></a></li>
-<li><a href="https://win11.techidaily.com/beware-the-traps-in-budget-friendly-windows-license-purchases/"><u>Beware the Traps in Budget-Friendly Windows License Purchases</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-facebooks-archive-of-memories/"><u>Exploring Facebook's Archive of Memories</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-14-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi 14 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-performance-optimization-for-new-worlds-current-build-to-reduce-cpu-strain/"><u>Mastering Performance Optimization for New World's Current Build to Reduce CPU Strain</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/streaming-success-live-tiktok-broadcasts-on-computers/"><u>Streaming Success Live TikTok Broadcasts on Computers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-melody-meets-discovering-crossfade-magic/"><u>The Melody Meets Discovering Crossfade Magic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-tags-the-ultimate-guide-for-video-optimization/"><u>[New] 2024 Approved Mastering Tags The Ultimate Guide for Video Optimization</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-decoding-facebook-capturing-and-keeping-status-videos/"><u>[New] In 2024, Decoding Facebook Capturing and Keeping Status Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigate-the-transfer-of-quick-images-from-popular-chat-app/"><u>[New] In 2024, Navigate the Transfer of Quick Images From Popular Chat App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-endless-eradication-guide-bypassing-youtubes-snappy-content/"><u>[Updated] In 2024, Endless Eradication Guide Bypassing YouTube's Snappy Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bilingualism-in-action-turkey-and-korea/"><u>Bilingualism in Action: Turkey & Korea</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-cracking-credential-vault-code/"><u>Expert Tips: Cracking Credential Vault Code</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-and-fix-frozen-screensaver-on-pc/"><u>How to Unlock and Fix Frozen Screensaver on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-file-merging-techniques-for-modern-windows-users/"><u>Seamless File Merging Techniques for Modern Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-reset-tutorial-for-your-pc-graphics-driver/"><u>Step-by-Step Reset Tutorial for Your PC Graphics Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-access-adobe-ps-not-opening-in-latest-windows/"><u>Unblocking Access: Adobe PS Not Opening in Latest Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-entry-level-manual-for-effective-channel-creation-for-2024/"><u>Youtube's Entry-Level Manual for Effective Channel Creation for 2024</u></a></li>
 </ul></div>
 

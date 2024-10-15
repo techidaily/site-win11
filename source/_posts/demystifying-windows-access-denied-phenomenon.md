@@ -1,7 +1,7 @@
 ---
 title: Demystifying Windows' 'Access Denied' Phenomenon
-date: 2024-10-05T09:42:08.567Z
-updated: 2024-10-09T11:12:07.262Z
+date: 2024-10-10T22:24:13.563Z
+updated: 2024-10-15T19:12:57.607Z
 tags:
   - windows10
   - windows11
@@ -33,22 +33,15 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  The above-mentioned tools are [built into Windows to help repair corrupt or damaged files](https://www.makeuseof.com/windows-built-in-repair-tools), and you should familiarize yourself with how and when to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Close All Universal Windows Platform (UWP) Apps
 
  Sometimes, UWP apps can lock resources when they're running in their sand-boxed environment. They're not supposed to, but when they do, you can get the “access control entry is corrupt” error message. To fix this, close the UWP app you suspect is the culprit and then update or reinstall it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change Ownership of the Affected File or Folder
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 1. Right-click the file or folder and select **Properties**.  
 ![the context menu in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-context-menu-in-windows-11.jpg)
 2. Select the **Security** tab and then click on **Advanced** at the bottom to open the **Advanced Securities** window for the file.  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![the Security tab of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-security-tab-of-a-file-on-windows.jpg)
 3. Next to the **Owner**, check to see if your username is listed as the owner of the file or folder. If it isn't, that may be the problem. So, click on the **Change** link next to it to open the Select User or Group window.  
@@ -76,15 +62,29 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 6. In the search results at the bottom, select your username and click **OK**.  
 ![the advanced Select User or Group window of a file on Windows with a list user on the PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-with-a-list-of-users-on-windows.jpg)
 7. Back in the **Select User or Group** window, click **OK**.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. In the **Advanced Securities** window, click **Apply** and then **OK**.
 
  Now that you've changed ownership, try accessing the file or folder again and see if the error still shows up.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Try Accessing the File or Folder From a Different User Account
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
  Sometimes, the error pops up because your user account is corrupt, meaning that all the fixes above will most likely fail. What you can do is [create another user account on Windows for troubleshooting purposes](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/).
 
  Try to access the file or folder (provided it is in a publicly available directory), and if the error doesn't pop up, you can migrate the necessary files from the old account to the new one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Restore the Access Control List
 
@@ -105,24 +112,6 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[Updated] 2024 Approved Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-stepwise-journey-through-the-world-of-professional-srt-creation-for-2024/"><u>[Updated] A Stepwise Journey Through the World of Professional SRT Creation for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sonic-sweepstakes-top-tunes-for-viral-youtube-short-videos/"><u>2024 Approved Sonic Sweepstakes Top Tunes for Viral YouTube Short Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/burying-archives-in-pixels-a-guide-to-windows-11-steganography/"><u>Burying Archives in Pixels: A Guide to Windows 11 Steganography</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-chromes-default-webp-saving-feature-windows-style/"><u>Bypass Chrome's Default WebP Saving Feature, Windows Style</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-the-surface-instructions-for-entering-windows-concealed-character-scope/"><u>Bypass the Surface: Instructions for Entering Windows’ Concealed Character Scope</u></a></li>
-<li><a href="https://win11.techidaily.com/choosing-between-googles-and-windows-nearby-file-transfers/"><u>Choosing Between Google's and Windows' Nearby File Transfers</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-confusion-on-connecting-printers-to-windows/"><u>Clearing Up Confusion on Connecting Printers to Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/click-and-go-quick-android-apk-setup-on-windows-11/"><u>Click & Go: Quick Android APK Setup on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-valorant-game-crash-problems-expert-tips-and-tricks/"><u>Fix Your Valorant Game Crash Problems: Expert Tips & Tricks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V30 Phone that is Locked?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-impact-best-practices-for-podcast-graphics/"><u>In 2024, Infusing Impact Best Practices for Podcast Graphics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pure-image-no-clutter-webcam-recording-edit-for-2024/"><u>Pure Image, No Clutter - Webcam Recording Edit for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +119,23 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beat-boulevard-optimal-dj-video-downloads-for-2024/"><u>[New] Beat Boulevard Optimal DJ Video Downloads for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-beyond-likes-and-shares-concealed-factors-that-impact-story-consumption/"><u>[New] Beyond Likes & Shares Concealed Factors That Impact Story Consumption</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mediacutmaster-review-in-depth-evaluation/"><u>[Updated] In 2024, MediaCutMaster Review – In-Depth Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-focus-furious-fighting-efficient-gameplay-fixes-for-bf2/"><u>Fast Focus, Furious Fighting: Efficient Gameplay Fixes for BF2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-reno-10-pro-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo Reno 10 Pro 5G Lock Screen Password</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-art-of-gameye-immersive-video-recording/"><u>In 2024, The Art of GamEye Immersive Video Recording</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-tecno-pop-7-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Tecno Pop 7 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-visionary-artisan-merging-sights-and-sounds/"><u>In 2024, Visionary Artisan Merging Sights and Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-or-minimize-windows-11-taskbar/"><u>Maximize or Minimize Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/old-meets-new-again-seven-core-windows-characteristics-evolving/"><u>Old Meets New Again: Seven Core Windows Characteristics Evolving</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-and-stay-connected-eight-ways-to-enhance-win11-point/"><u>Reconnect and Stay Connected: Eight Ways to Enhance Win11' Point</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-issues-how-to-enable-right-clicks-in-windows-11-efficiently/"><u>Resolving Mouse Issues: How to Enable Right Clicks in Windows 11 Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-alerts-on-desktop-applets/"><u>Restoring Alerts on Desktop Applets</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-installation-blockers-for-effective-win-11-uninstalls/"><u>Sidestep Installation Blockers for Effective Win 11 Uninstalls</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-chromes-spontaneous-tab-triggers-on-windows-desktop/"><u>Stop Chrome's Spontaneous Tab Triggers on Windows Desktop</u></a></li>
+</ul></div>
+

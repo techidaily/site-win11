@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Default App Settings on Windows 11
-date: 2024-10-03T10:53:30.716Z
-updated: 2024-10-09T02:29:46.616Z
+date: 2024-10-10T16:54:29.537Z
+updated: 2024-10-15T22:32:28.187Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Below, we have listed different ways of changing the default apps in Windows 11:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Choose the Open With Option
 
  The easiest method of changing the default apps option is by using the Open with option in the context menu for files.
@@ -44,27 +51,21 @@ Here is how you can do that:
 ![Choose another app to open the targeted file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-open-with-choose-another-app.jpg)
 3. Now, in the following dialog, choose the app you want to set as the default option. If you cannot find the targeted app in the list, choose**Look for another app on this PC** and then select the app.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click on**Always use this app to open files** and click**OK** . This should set the selected app as the default preference.  
 ![Set a default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-the-default-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Use the Settings App
@@ -80,29 +81,16 @@ Follow these steps to proceed:
 4. Next, choose the app that you want to set as default. You should now see all the file types and link types the app is registered with.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. If you want to choose a program as the default for all its registered file types and links, you'd need to click each type and choose the desired application in the following dialog.  
 ![Pick a default file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pick-a-default-file-type.jpg)
 
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Use File Properties
 
@@ -113,6 +101,14 @@ To proceed, follow these steps:
 1. Right-click on the targeted file and choose**Properties** from the context menu.  
 ![Access the properties of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties.jpg)
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
 
@@ -157,26 +153,6 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -192,6 +168,19 @@ Here is how you can proceed:
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -214,20 +203,22 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-monthly-earnings-potential-on-youtube/"><u>[Updated] In 2024, Monthly Earnings Potential on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-overview-using-nearby-share-effectively/"><u>A Comprehensive Overview: Using Nearby Share Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-premium-surround-sound-with-dolby-atmos-in-windows-11/"><u>Achieving Premium Surround Sound with Dolby Atmos in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-6s-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 6s Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/avoidance-strategies-keeping-epic-launcher-non-freezing/"><u>Avoidance Strategies: Keeping Epic Launcher Non-Freezing</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-sluggish-pace-of-win-based-outlook/"><u>Beat the Sluggish Pace of Win-Based Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-windows-monitors-brightness-with-top-software-select/"><u>Boosting Windows Monitors' Brightness with Top Software Select</u></a></li>
-<li><a href="https://win11.techidaily.com/boot-into-admin-powershell-for-system-administration-in-windows-11/"><u>Boot Into Admin PowerShell for System Administration in Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-video-transformation-switch-your-ts-files-to-mkv-online-at-no-cost-using-movavi/"><u>Effortless Video Transformation - Switch Your TS Files to MKV Online at No Cost Using Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-realme-12-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 12 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-does-google-pixel-fold-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Google Pixel Fold Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-gt-neo-5-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme GT Neo 5 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-speech-to-text-conversion-in-ms-office-suite-word/"><u>Restoring Speech to Text Conversion in MS Office Suite (Word)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/troubleshoot-tweets-on-chrome-not-loading/"><u>Troubleshoot Tweets on Chrome Not Loading</u></a></li>
-<li><a href="https://win11.techidaily.com/1719320743244-windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortless-subscriber-acquisition-for-enhanced-viewership/"><u>[Updated] 2024 Approved Effortless Subscriber Acquisition for Enhanced Viewership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-capturing-elegance-with-bokeh-effects-in-stories/"><u>[Updated] Capturing Elegance with Bokeh Effects in Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-5-remote-video-capture-gadgets/"><u>[Updated] In 2024, The Ultimate 5 Remote Video Capture Gadgets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-macs-best-picks-elite-4k-monitor-showdown/"><u>2024 Approved Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtle-sound-level-lowering-in-fl-studio/"><u>2024 Approved Subtle Sound Level Lowering in FL Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-app-reviewed-the-ultimate-photo-editor/"><u>2024 Approved Toolwiz App Reviewed The Ultimate Photo Editor?</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steams-unauthorized-files-problem-in-win11/"><u>Fixing Steam's Unauthorized Files Problem in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-around-a-non-opening-windows-command-prompt/"><u>Getting Around a Non-Opening Windows Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-broken-registry-items-in-windows-11/"><u>How to Fix Broken Registry Items in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-github-desktop-in-windows-11-and-11/"><u>How to Use GitHub Desktop in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-pc-resource-demand-fixing-wmi-usage-issues/"><u>Lowering PC Resource Demand: Fixing WMI Usage Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-smooth-gameplay-addressing-csgo-performance-hiccups/"><u>Quick Fixes for Smooth Gameplay: Addressing CS:GO Performance Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/renaming-microsoft-account-admin-for-enhanced-security/"><u>Renaming Microsoft Account Admin for Enhanced Security</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-quick-systemsettings-fix-on-windows-11/"><u>Strategies for Quick SystemSettings Fix on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-full-potential-chromium-setup-for-windows-11/"><u>Unleash Full Potential: Chromium Setup for Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-rotate-avi-videos-for-free-top-picks-for-windows-mac-mobile-and-web/"><u>Updated In 2024, Rotate AVI Videos for Free Top Picks for Windows, MAC, Mobile & Web</u></a></li>
+<li><a href="https://facebook.techidaily.com/whistle-on-the-wind-german-actions-put-a-stop-to-facebooks-whatsapp-data-collection-drive/"><u>Whistle on the Wind: German Actions Put a Stop to Facebook's WhatsApp Data Collection Drive</u></a></li>
 </ul></div>
 

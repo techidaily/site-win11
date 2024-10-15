@@ -1,7 +1,7 @@
 ---
 title: Innovative Tips for Navigating Windows 11 Widgets
-date: 2024-10-06T15:33:00.150Z
-updated: 2024-10-09T07:36:10.911Z
+date: 2024-10-13T18:45:12.358Z
+updated: 2024-10-15T20:19:57.655Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
  If you do not want to see the widgets button on the Taskbar and still want to launch it quickly, press**Win key+W** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Adding Widgets to Windows
 
  Microsoft recently added support for third-party developers to bring app widgets to Windows 11\. But even without support for third-party support, you get a decent collection of first-party app widgets, including Outlook, To Do, Weather, Game Pass, and more. And the best thing about Windows 11's widgets is that it takes little effort to add them to the panel.
@@ -57,13 +64,6 @@ Follow the below steps to add widgets:
 3. Select the widgets you want to see at the top of your widgets board.
 
  You can later unpin the widgets that you no longer need from the widget context menu. Also, you can[pin widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) by using a third-party app called Widget Launcher.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Change the Size of Widgets
 
@@ -82,6 +82,13 @@ To change the size of widgets, follow the below steps:
 
 ![My Interests page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/news-feed.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image credit:[Microsoft](https://support.microsoft.com/en-us/windows/stay-up-to-date-with-widgets-7ba79aaa-dac6-4687-b460-ad16a06be6e4)
 
  You can personalize news content in multiple ways. If you do not like what you see on the widgets board, you can hide those stories. If you do not care about something, you can also[tune the News Feed](https://www.makeuseof.com/how-to-use-microsoft-start-personalized-news-feed/) in such a way that it will show you fewer stories like that. On the contrary, you can also tweak it to show you more of what you care about.
@@ -89,10 +96,10 @@ To change the size of widgets, follow the below steps:
 ![Tweak the news feed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tuning-the-news-feed-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It is also possible to view and manage the publishers and interests. If you do not like what you see from specific publishers, you can hide them from the**My Interests** page in Microsoft Start. You can select your field of interest from a range of categories, including Politics, World, Money, Science, and more.
@@ -100,16 +107,10 @@ To change the size of widgets, follow the below steps:
  You can go to the Microsoft Start Page by clicking on the**Manage interests** link on the**Widgets settings** page, which you can bring by clicking on the**user profile logo** at the top of the widgets board. However, it is important to note that ability to follow publishers and fine-tune your news feed is currently available for English speakers in the US.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Tweak the Widget Taskbar Behaviors
@@ -124,13 +125,6 @@ To change the size of widgets, follow the below steps:
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
 To expand the widgets panel, follow the below steps:
@@ -141,10 +135,10 @@ To expand the widgets panel, follow the below steps:
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use Widgets Without a Microsoft Account
@@ -174,20 +168,24 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-guide-to-exclusive-youtube-gamers-intros-freepaid/"><u>[New] 2024 Approved Ultimate Guide to Exclusive YouTube Gamers' Intros (Free/Paid)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-conquer-the-crunch-how-to-edit-and-reduce-massive-tiktok-files/"><u>2024 Approved Conquer the Crunch How to Edit and Reduce Massive TikTok Files</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-security-patches/"><u>Demystifying Windows Security Patches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/detailed-overview-of-the-lenovo-thinkpad-x12-detachable-an-outstanding-hybrid-device-with-an-excellent-keyboard/"><u>Detailed Overview of the Lenovo ThinkPad X12 Detachable: An Outstanding Hybrid Device with an Excellent Keyboard</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-winning-video-coders-for-editing/"><u>Expert Tips: Winning Video Coders for Editing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-football-manager-2019-glitch-a-step-by-step-guide/"><u>Fixing the Football Manager 2019 Glitch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-pro-audio-software-win-edition/"><u>In 2024, Pro Audio Software Win Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/make-windows-calculator-app-less-bright/"><u>Make Windows Calculator App Less Bright</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-strategies-for-error-262-in-roblox-games/"><u>Quick-Fix Strategies for Error 262 in Roblox Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-network-broadcast-adopting-the-vlc-way/"><u>Seamless Network Broadcast Adopting the VLC Way</u></a></li>
-<li><a href="https://win11.techidaily.com/speeding-up-keys-in-windows-10-and-11-with-7-hacks/"><u>Speeding Up Keys in Windows 10 & 11 with 7 Hacks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/superior-microphones-for-livestreaming-for-2024/"><u>Superior Microphones for Livestreaming for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-rectifying-vac-refusal-on-windows/"><u>Understanding and Rectifying VAC Refusal on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-control-panel-customizing-made-simple/"><u>Win11's Control Panel: Customizing Made Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-explore-these-8-great-video-editors/"><u>Windows Users, Explore These 8 Great Video Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-breaking-boundaries-in-video-content-creation-within-limit/"><u>[New] 2024 Approved Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-leap-into-broadcasting-effortless-setup-for-your-mobile-youtube-ventures/"><u>[Updated] In 2024, Leap Into Broadcasting Effortless Setup for Your Mobile YouTube Ventures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-review-for-uncomplicated-hdr-techniques/"><u>2024 Approved Extended Review for Uncomplicated HDR Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-data-handling-enabledisable-ntfs-compression-in-win11/"><u>Efficient Data Handling: Enable/Disable NTFS Compression in Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-file-change-upload-and-convert-your-mkv-videos-to-mov-for-zero-costs-using-a-reliable-tool/"><u>Effortless File Change: Upload and Convert Your MKV Videos to MOV for Zero Costs Using a Reliable Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-restoring-lost-wifi-connections-on-windows/"><u>Guidelines for Restoring Lost WiFi Connections on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-x100-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo X100 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-x100-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo X100 Phone? Unlock It Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-procedures-windows-11-and-vmware-workstation-17/"><u>Installation Procedures: Windows 11 & VMWare Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-cant-share-desktop-across-screens/"><u>Resolving Error: Can’t Share Desktop Across Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-prime-viewing-fixing-windows-11-audio-subtitle-discrepancies/"><u>Seamless Prime Viewing: Fixing Windows 11 Audio-Subtitle Discrepancies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-into-new-dimensions-with-jaunt-vr-review/"><u>Step Into New Dimensions with Jaunt VR Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/"><u>The Future's Canvas Unveiling 6 Pioneers of NFT Artistry for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-obsidian-edge-cutting-edge-visual-notes-methodology/"><u>The Obsidian Edge: Cutting-Edge Visual Notes Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-solutions-for-overcoming-hypervisorbsod-in-windows/"><u>Top 5 Solutions for Overcoming HYPERVISOR_BSOD in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-potential-with-top-notch-fps-counters-for-windows-11-gamers/"><u>Unleashing Your Potential with Top-Notch FPS Counters for Windows 11 Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pc-potential-top-tips-to-troubleshoot-broken-keyboard-commands-in-windows/"><u>Unlocking PC Potential: Top Tips to Troubleshoot Broken Keyboard Commands in Windows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-10-funf-effektive-methoden-zur-erkennung-und-nutzung/"><u>Windows 10 - Fünf Effektive Methoden Zur Erkennung Und Nutzung</u></a></li>
 </ul></div>
 

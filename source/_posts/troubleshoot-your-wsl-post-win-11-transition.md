@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your WSL Post-Win 11 Transition
-date: 2024-10-02T08:47:21.121Z
-updated: 2024-10-08T22:46:00.990Z
+date: 2024-10-10T19:22:02.659Z
+updated: 2024-10-15T16:09:08.204Z
 tags:
   - windows10
   - windows11
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  Learn more about the[things you can do with WSL and Linux](https://www.makeuseof.com/pros-cons-windows-subsystem-for-linux/) on your Windows computer.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Hyper-V and Virtual Machine Platform
@@ -81,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
 ## 4\. Force WSL to Open Using the Microsoft Store
@@ -104,21 +85,29 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 2. On the store page for WSL, you should see an**Open** button. If the button says**Update** , click it to update the app.  
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
+<span id="1938141">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Recent Updates to Fix WSL
@@ -130,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check That Malware Isn't Blocking WSL
@@ -161,17 +150,19 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-illusion-crafting-stunning-snaps-with-filters/"><u>[New] 2024 Approved The Art of Illusion Crafting Stunning Snaps with Filters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-buzzing-beats-essential-background-scores-for-viral-video-shorts-for-2024/"><u>[New] Buzzing Beats Essential Background Scores for Viral Video Shorts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimal-audio-bridge-for-podcasters-for-2024/"><u>[New] Optimal Audio Bridge for Podcasters for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-undead-universe-discover-the-top-8-zombie-games-for-2024/"><u>[Updated] Undead Universe Discover the Top 8 Zombie Games for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/breathing-life-back-into-disconnected-adapters-a-six-step-guide-on-winos/"><u>Breathing Life Back Into Disconnected Adapters: A Six-Step Guide on WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-lockout-duration-for-unsuccessful-login-events/"><u>Changing Lockout Duration for Unsuccessful Login Events</u></a></li>
-<li><a href="https://win11.techidaily.com/cheap-bargains-come-with-hidden-risks-for-windows-users/"><u>Cheap Bargains Come with Hidden Risks for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/clearer-focus-utilizing-photos-app-background-blur-in-windows-11/"><u>Clearer Focus: Utilizing Photos App Background Blur in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-windows-0x80072af9-bug/"><u>Clearing Up Windows 0X80072AF9 Bug</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast/"><u>In 2024, Times Running Out! Learn to Add a Countdown Timer in FCPX Fast</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/personalize-sua-estrategia-de-links-fundo-com-a-experiencia-do-movavi-affiliate-program/"><u>Personalize Sua Estratégia De Links Fundo Com a Experiência Do Movavi Affiliate Program</u></a></li>
-<li><a href="https://fox-within.techidaily.com/tailored-functionality-attributes/"><u>Tailored Functionality Attributes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tech-tutorial-exporting-and-storing-your-snaps-safely/"><u>[New] In 2024, Tech Tutorial Exporting and Storing Your Snaps Safely</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-visual-markers-guide-customizing-instagram-photo-watermarks/"><u>[New] In 2024, The Visual Marker's Guide Customizing Instagram Photo Watermarks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-art-of-editing-crafting-your-youtube-story-with-precision/"><u>[Updated] In 2024, The Art of Editing Crafting Your YouTube Story with Precision</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-iphone-landscape-mastery-tips-that-work-like-magic/"><u>[Updated] IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pursuing-perfection-in-lengthy-iphone-photography-for-2024/"><u>[Updated] Pursuing Perfection in Lengthy iPhone Photography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-disk-space-on-windows-using-altwindirstat/"><u>Decluttering Disk Space on Windows Using altWinDirStat</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-win-setup-of-intels-management-engine-driver/"><u>Easy Win Setup of Intel's Management Engine Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/how-and-when-to-use-file-locksmith-in-powertoys/"><u>How and When to Use File Locksmith in PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-draw-on-the-desktop-on-windows-10-and-11/"><u>How to Draw on the Desktop on Windows 10 & 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y56 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-download-effortless-keyboard-drivers-compatible-with-windows-7/"><u>Instant Download: Effortless Keyboard Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-enlargement-win11-taskbar-icons-reimagined/"><u>The Art of Enlargement: Win11 Taskbar Icons Reimagined</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-animation-drawing-7-essential-tools/"><u>The Ultimate Guide to Animation Drawing 7 Essential Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unified-solutions-overcoming-issues-with-windows-defender-threat-engine/"><u>Unified Solutions: Overcoming Issues with Windows Defender Threat Engine</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keeping an Eye Out: Essential Windows Steps That Might Hide Viruses"
-date: 2024-10-02T22:04:17.216Z
-updated: 2024-10-09T15:07:30.646Z
+date: 2024-10-14T18:46:24.372Z
+updated: 2024-10-15T16:33:40.742Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  Several viruses can use the Explorer.exe filename to hide behind, including trojan.w32.ZAPCHAST. The legitimate file will be in**C:\\Windows** . If you find it in**System32** , you should definitely check it with your antivirus software.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Winlogon.exe
 
  The Winlogon.exe process is an essential part of the Windows OS. It handles things like loading the user profile during login and locking the computer when the screensaver runs. Unfortunately, because it handles security elements, Windows Logon and the winlogon.exe process are common targets for threats.
@@ -53,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  Several Trojan viruses, including Vundo, can be hidden within or disguised as winlogon.exe. The usual location of the Winlogon.exe file is**C:\\Windows\\System32** . If you find it in**C:\\Windows\\WinSecurity** , it could be malicious. One good indication that the process has been hijacked is unusually high memory use.
 
  Viruses and malware don't just hide behind Windows processes. Here are some[other ways malware can go undetected and hide on your computer](https://www.makeuseof.com/can-malware-go-undetected-how-viruses-hide-from-you/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Csrss.exe
 
@@ -69,18 +55,18 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  The Nimda.E virus has been known to mimic the Csrss.exe process, although that is not the only potential threat. The legitimate file should be located in the**System32** or**SysWOW64** folders. Right-click on the Csrss.exe process in Task Manager and choose**Open File Location** . If it is located anywhere else, it is likely to be a malicious file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Lsass.exe
 
  lsass.exe is an essential process responsible for the security policy on Windows. It verifies the login name and password, among other security procedures. It is unlikely that the process will be hijacked. If it isn't running correctly, you will usually be automatically logged out of your computer. But viruses are known to use the filename to hide.
 
  Look for the Lsass.exe file in**C:\\Windows\\System32** . This is the only place you should find it. If you see it in another location, such as**C:\\Windows\\system** or**C:\\Program Files** , act with suspicion and scan the file with your antivirus.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Services.exe
 
@@ -90,20 +76,27 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
  The processes mentioned here are essential to the smooth running of Windows. But not all are, and many non-essential[processes can even be closed to help with performance](https://www.makeuseof.com/windows-processes-end-safely-performance/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Spoolsv.exe
 
  The Windows Print Spooler Service, or Spoolsv.exe, is an important part of the printing interface. It runs in the background, waiting to manage things like the print queue when required. The process is not dependent on having a printer connected, so you shouldn't be surprised to see it in Task Manager.
 
 ![The spooler process in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spooler-process.jpg)
 
- Perhaps because Spoolsv.exe is easily overlooked, a virus can take the name to make itself seem legitimate. The true spools file can be found in**C:\\Windows\\System32** . The fake file will often appear in**C:\\Windows** , or in a user profile folder.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Perhaps because Spoolsv.exe is easily overlooked, a virus can take the name to make itself seem legitimate. The true spools file can be found in**C:\\Windows\\System32** . The fake file will often appear in**C:\\Windows** , or in a user profile folder.
 
 ## How Do You Check if a Process Is Legitimate?
 
@@ -116,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
  You can also[check the certificate of the EXE file](https://www.makeuseof.com/windows-tell-if-exe-file-is-safe/) . An authentic file will have a security certificate issued by Microsoft. If you see anything else, it is likely to be malicious.
 
  The final thing to do is scan suspect files with an up-to-date antivirus scanner. Quarantine and remove any files that are flagged as infected. Fortunately, modern versions of Windows come with Microsoft Defender built-in, so learn[how to scan a single file or folder with Microsoft Defender](https://www.makeuseof.com/microsoft-defender-scan-file-folder/) to check any suspicious files you find.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Windows Processes That Might Be Hiding a Virus
 
@@ -136,20 +136,18 @@ thumbnail: https://thmb.techidaily.com/19c73d13dc30898f49d32d8c5d0e6badbf2d50aea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[New] The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-free-video-credits-pro-the-best-suggestions-1-6/"><u>[Updated] Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-sharing-knowledge-via-instagrams-hyperlink-haven/"><u>[Updated] Sharing Knowledge via Instagram's Hyperlink Haven</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723001504579-age-of-empires-iv-ready-for-play-heres-how-to-get-past-the-non-launch-stage/"><u>Age of Empires IV Ready for Play? Here's How to Get Past the Non-Launch Stage!</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-fixing-the-windows-update-file-absence-issue-error-0x80070003/"><u>Decoding and Fixing the Windows Update File Absence Issue (Error 0X80070003)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/discover-the-finest-no-fee-list-of-excellent-luts-for-2024/"><u>Discover the Finest No-Fee List of Excellent LUTs for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevating-the-gaming-experience-fix-stutter-issues-and-increase-fps-on-the-ascent-platform/"><u>Elevating the Gaming Experience: Fix Stutter Issues & Increase FPS on 'The Ascent' Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-manage-virtual-machines-tpm-and-secure-boot-on-vbox-70/"><u>How to Manage Virtual Machine's TPM and Secure Boot on VBox 7.0</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-13t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi 13T Activity | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-zero-to-zoom-expert-launching-successful-webinars/"><u>In 2024, From Zero to Zoom Expert Launching Successful Webinars</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-intrusive-minimize-feature/"><u>Overcoming Windows' Intrusive Minimize Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-security-4-efficient-actions-to-banish-users-from-win11-systems/"><u>Simplified Security: 4 Efficient Actions to Banish Users From Win11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-email-alerts-in-windows/"><u>Troubleshooting Non-Responsive Email Alerts in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-dxvks-role-in-linuxwindows-gameplay/"><u>Understanding DXVK's Role in Linux/Windows Gameplay</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>[New] Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-screen-capture-manual-by-zd-software/"><u>[Updated] Comprehensive Screen Capture Manual by ZD Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-designing-your-musical-journey-youtube-playlist-construction-tips-webapp/"><u>[Updated] Designing Your Musical Journey YouTube Playlist Construction Tips Web/App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-erased-memories-how-to-revisit-them-online/"><u>[Updated] Youtube's Erased Memories How to Revisit Them Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/audiotrack-collection-pc-noises/"><u>Audiotrack Collection PC Noises</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/brent-archer-explores-innovative-solutions-with-digiarty-software/"><u>Brent Archer Explores Innovative Solutions with Digiarty Software</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-onedrives-reparse-point-tag-misstep-on-windows/"><u>Correcting OneDrive's Reparse Point Tag Misstep on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-a-windows-machine-a-comprehensive-walkthrough-of-correcting-code-28-problems/"><u>Fixing a Windows Machine: A Comprehensive Walkthrough of Correcting 'Code 28' Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-ott-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .ott file</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activate-a-black-background-in-wincalc/"><u>How To Activate a Black Background in WinCalc</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-age-chronicles-battling-perpetual-ice-in-a-reinvented-world/"><u>New Age Chronicles: Battling Perpetual Ice in a Reinvented World</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-windows-11-help-functionality/"><u>Steps for Restoring Windows 11 Help Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/unsung-storage-issues-reviving-your-c-drives-lifespan/"><u>Unsung Storage Issues: Reviving Your C: Drive's Lifespan</u></a></li>
 </ul></div>
 

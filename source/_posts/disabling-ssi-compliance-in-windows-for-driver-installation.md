@@ -1,7 +1,7 @@
 ---
 title: Disabling SSI Compliance in Windows for Driver Installation
-date: 2024-09-15T07:33:00.281Z
-updated: 2024-09-16T20:32:48.135Z
+date: 2024-10-10T19:47:29.031Z
+updated: 2024-10-15T21:26:43.191Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  Your computer will then restart, and when it reboots, you'll be able to install those unsigned drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable Driver Signature Enforcement in the Local Group Policy Editor
 
  You can also disable driver signature enforcement by tweaking the **Code signing for driver packages** policy in the Local Group Policy Editor (LGPE). Doing this will allow you to install unsigned drivers even if you restart your computer.
@@ -44,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 1. Press **Win + S** to bring up Windows Search, enter **group policy** in the Search box, and select **Edit group policy** in the Search results.  
 ![Open Group Policy Editor Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg)
 2. Once the LGPE opens up, head to **User Configuration > Administrative Templates > System > Driver Installation**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click **Code signing for driver packages** and select **Edit**.  
 ![editing the Code signing for driver packages policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-the-code-signing-for-driver-packages-policy.jpg)
 4. Click the **Enabled** radio button, and then, in the **Options** section, click on the dropdown and select **Ignore**.  
@@ -72,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 ![Secure Boot error in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/secure-boot-error-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If that is the case, you can try [turning off Secure Boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) and trying again. But if you don't want to do this, using Startup Settings and the Local Group Policy Editor is perfectly okay.
 
  You can also put Windows in test mode, which disables driver signature enforcement, allowing you to install those unsigned drivers. To enter test mode, follow the steps below (keep in mind that you may run into the Secure Boot error):
@@ -85,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
  Now restart your computer, and when it boots back up, it will be in test mode. After you're done installing those drivers, don't forget to disable test mode. The command to do that is **bcdedit /set testsigning off**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You Can Install Unsigned Drivers on Windows
@@ -97,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  In this guide, we're going to show you several ways to do it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -106,3 +126,25 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-live-stream-with-onestream-online-and-app/"><u>[New] How To Live Stream With OneStream - Online & App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-assessment-comprehensive-camstudio-review-for-2024/"><u>[New] In-Depth Assessment Comprehensive CamStudio Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[Updated] Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-teaching-trends-top-10-innovative-audio-visual-recording-tools/"><u>[Updated] In 2024, Teaching Trends Top 10 Innovative Audio-Visual Recording Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-instant-inspiration-the-easy-guide-to-building-custom-youtube-music-mixes-webapp/"><u>2024 Approved Instant Inspiration The Easy Guide to Building Custom YouTube Music Mixes (Web/App)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chatgpt-plus-review-top-5-benefits-of-membership/"><u>ChatGPT Plus Review: Top 5 Benefits of Membership</u></a></li>
+<li><a href="https://win11.techidaily.com/combining-directories-a-windows-11-technique/"><u>Combining Directories: A Windows 11 Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-context-menu-functionality-in-windows-11-add-folders/"><u>Enhance Context Menu Functionality in Windows 11 - Add Folders</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-the-art-of-toutv-content-saving-a-comprehensive-tutorial/"><u>Mastering the Art of Tou.TV Content Saving: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-hang-how-to-fix-dxgierrordevicehunk/"><u>Overcoming Device Hang: How to Fix DXGI_ERROR_DEVICE_HUNK</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-user-centric-design-windows-and-ai-revolution/"><u>Redefining User-Centric Design: Windows and AI Revolution</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-windows-11-parental-guidance-features/"><u>Setting Up Windows 11 Parental Guidance Features</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-minimized-tiworkerexe-cpu-activity/"><u>Solutions for Minimized TiWorker.exe CPU Activity</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-systems-with-microsofts-pc-manager-setup-on-win11/"><u>Streamlining Systems with Microsoft's PC Manager Setup on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-couple-in-mindfulness-cognitive-function-and-emotional-mastery/"><u>The Power Couple in Mindfulness: Cognitive Function & Emotional Mastery</u></a></li>
+</ul></div>
+

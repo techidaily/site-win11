@@ -1,7 +1,7 @@
 ---
 title: Three Steps for Disabling Windows Store on Win11
-date: 2024-10-04T13:44:52.817Z
-updated: 2024-10-09T06:20:34.209Z
+date: 2024-10-14T18:39:01.674Z
+updated: 2024-10-15T18:36:57.888Z
 tags:
   - windows10
   - windows11
@@ -32,22 +32,15 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Uninstall Microsoft Store App From Windows 11
 
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Using Winget
 
@@ -63,15 +56,22 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
 
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
 
@@ -88,16 +88,10 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
@@ -119,14 +113,20 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>2024 Approved The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/5-tactics-to-turn-windows-into-a-mac-like-interface/"><u>5 Tactics to Turn Windows Into a Mac-Like Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-era-for-deletion-on-your-pcs-photo-gallery/"><u>A New Era for Deletion on Your PC's Photo Gallery</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-support-tasks-map-windows-troubleshooting-tools/"><u>Accelerate Support Tasks: Map Windows Troubleshooting Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-enhanced-browser-protection-with-microsofts-defender-on-windows-11s-edge/"><u>Activate Enhanced Browser Protection with Microsoft's Defender on Windows 11'S Edge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peering-through-the-lens-an-in-depth-review-of-polaroid-cubeplus-for-2024/"><u>Peering Through the Lens An In-Depth Review of Polaroid Cube+ for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premium-zero-cost-live-capture-program/"><u>Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-top-asmr-for-iosandroid-devices/"><u>[New] 2024 Approved Discover Top ASMR for iOS/Android Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-flip-the-script-instagrams-video-trick-for-2024/"><u>[Updated] Flip the Script Instagram's Video Trick for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-direct-link-method-for-iphone-picture-sharing/"><u>2024 Approved Direct Link Method for iPhone Picture Sharing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-steps-to-optimize-win11-network-preferences/"><u>Detailed Steps to Optimize Win11 Network Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-effortless-gameplay-capture-using-windows-and-intel-graphics/"><u>Direct, Effortless Gameplay Capture Using Windows and Intel Graphics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-a1x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo A1x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-6-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 6 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-into-windows-aggregatorhostexe-functionalities-and-security/"><u>Insight Into Windows' AggregatorHost.exe: Functionalities and Security</u></a></li>
+<li><a href="https://extra-support.techidaily.com/oceans-bounty-best-cameras-for-anglers-for-2024/"><u>Ocean's Bounty - Best Cameras for Anglers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-memory-integrity-on-windows-11-amid-issues/"><u>Reestablishing Memory Integrity on Windows 11 Amid Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-windows-fbm-errors-seamless-chats-ahead/"><u>Resolve Windows FBM Errors, Seamless Chats Ahead</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-avoiding-password-entry-for-rdp-connections/"><u>Stealth Mode: Avoiding Password Entry for RDP Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-switching-assistants-helping-you-ditch-your-mac-os/"><u>Top 5 Switching Assistants Helping You Ditch Your Mac OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-nord-ce-3-lite-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Nord CE 3 Lite 5G Users</u></a></li>
 </ul></div>
 

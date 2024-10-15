@@ -1,7 +1,7 @@
 ---
 title: Resolving GeForce Now Error XC0F1103F on Win 10/11
-date: 2024-10-01T20:17:00.491Z
-updated: 2024-10-08T18:11:48.247Z
+date: 2024-10-09T23:02:24.168Z
+updated: 2024-10-15T16:07:59.613Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select a Power Saving GPU for the GeForce Now App
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 9. Click**Save** to apply the selected option.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Your Graphics Card’s Driver
@@ -92,14 +92,15 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 3. Then scroll to NVIDIA-related services.  
 ![NVIDIA-related-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-services-window.jpg)
 4. Right-click every NVIDIA-related service you can see and select**Restart** . If an NVIDIA service isn’t already running, select the**Start** option for it instead.  
-![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
 
 ## 6\. Turn Off Any Active Proxy Servers
 
@@ -108,16 +109,10 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable Any Active VPNs
@@ -129,16 +124,25 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 3. Click the**VPN** navigation option or tab.  
 ![The VPN navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-navigation-option.jpg)
 4. Select a listed VPN connection added.  
-![VPN settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-settings.jpg)
-5. Then select the**Disconnect** option for the VPN.
-6. Open GeForce Now and try playing some games with the VPN disconnected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![VPN settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-settings.jpg)
+5. Then select the**Disconnect** option for the VPN.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+6. Open GeForce Now and try playing some games with the VPN disconnected.
 
 ## 8\. Reinstall GeForce Now
 
@@ -150,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 3. Select**Uninstall** on the window that opens.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart Windows 11 or 10 after uninstalling GeForce Now.
@@ -161,13 +165,6 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 6. Click**Download** for the GeForce Now Windows software.  
 ![The GeForce Now download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/geforce-now-download-option.jpg)  
  Double-click the**GeForce-Now-release.exe** file to open the software’s setup wizard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Then go through the setup wizard steps to reinstall GeForce Now.
 
@@ -190,18 +187,22 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>[Updated] Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-pairing-b-clips-with-main-shots/"><u>[Updated] The Art of Pairing B-Clips with Main Shots</u></a></li>
-<li><a href="https://win11.techidaily.com/10-pro-tips-for-naming-and-organizing-files-in-windows/"><u>10 Pro Tips for Naming and Organizing Files in Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breathtaking-cinematography-with-5-best-slow-motion-cameras/"><u>2024 Approved Breathtaking Cinematography with 5 Best Slow-Motion Cameras</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-ultimate-directory-for-free-visual-treasures/"><u>2024 Approved Ultimate Directory for Free Visual Treasures</u></a></li>
-<li><a href="https://win11.techidaily.com/5-must-have-windows-software-for-mac-refugees/"><u>5 Must-Have Windows Software for Mac Refugees</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-rockalldlldll-unavailability-in-pcs/"><u>Addressing Rockalldll.dll Unavailability in PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/amplifying-steam-data-flow-combatting-sudden-drops/"><u>Amplifying Steam Data Flow: Combatting Sudden Drops</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-local-file-transmission-methods-which-fits-best/"><u>Analyzing Local File Transmission Methods: Which Fits Best?</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-license-ends-soon-issues-on-windows-1011/"><u>Avoiding “License Ends Soon” Issues on Windows 10/11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-closer-views-using-videoleap-software/"><u>In 2024, Closer Views Using Videoleap Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-key-environment-choices-for-live-sharing/"><u>In 2024, Key Environment Choices for Live Sharing</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-poco-m6-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Poco M6 Pro 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-become-an-insta-celebrity-overnight-top-15-strategies-from-social-media-experts/"><u>[New] Become an Insta Celebrity Overnight Top 15 Strategies From Social Media Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cutting-edge-approaches-merging-obs-with-facebook-live/"><u>[New] Cutting-Edge Approaches Merging OBS with Facebook Live</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eizing-youtubes-algorithm-advantage-with-smart-seo-tactics-for-2024/"><u>[New] Seizing YouTube's Algorithm Advantage with Smart SEO Tactics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-zoom-sound-tweaks-boosting-clarity-and-fidelity/"><u>[Updated] 2024 Approved Top Zoom Sound Tweaks Boosting Clarity and Fidelity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-calm-conclusions-fading-out-audio-effects-in-adobe-premiere-pro/"><u>[Updated] Crafting Calm Conclusions Fading Out Audio Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-portable-executable-pe-syntax/"><u>Decoding Windows Portable Executable (PE) Syntax</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ease-of-disk-management-access-on-win-1011/"><u>Discover the Ease of Disk Management Access on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-accelerated-gpu-task-order-in-windows/"><u>Eliminating Accelerated GPU Task Order in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adjust-administrative-controlled-options-in-windows-11-os/"><u>How to Adjust Administrative Controlled Options in Windows 11 OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Hot 40 Phone?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixed-windows-pin-issues/"><u>Mastering the Art of Fixed Windows PIN Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-morning-analysis-fresh-insights-for-2024/"><u>Next Morning Analysis Fresh Insights for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Code 4128</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-tablet-and-w11-duo-display-setup/"><u>Seamless Android Tablet & W11 Duo Display Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/simplicity-and-clarity-in-the-newest-w11-start/"><u>Simplicity & Clarity in the Newest W11 Start</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-and-the-art-of-system-recovery-unveiling-system-restore/"><u>Windows 10 and the Art of System Recovery: Unveiling System Restore</u></a></li>
 </ul></div>
 

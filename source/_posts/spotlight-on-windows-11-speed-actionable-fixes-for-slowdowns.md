@@ -1,7 +1,7 @@
 ---
 title: "Spotlight on Windows 11 Speed: Actionable Fixes for Slowdowns"
-date: 2024-10-08T12:24:37.450Z
-updated: 2024-10-09T10:22:24.897Z
+date: 2024-10-08T18:30:01.761Z
+updated: 2024-10-15T19:58:30.794Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,14 @@ To turn off these services, follow these steps:
 1. Type**"System Configuration"** into Windows Search and open the**System Configuration** window.  
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
@@ -61,29 +69,29 @@ To turn off these notifications, follow the below steps:
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
@@ -94,13 +102,6 @@ To turn off these notifications, follow the below steps:
 2. Select the**Privacy & security** tab.
 3. Go through all the settings under**Windows permissions** and disable the ones you think won't affect any Windows features you might need.  
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
 
@@ -128,10 +129,10 @@ To pause updates, follow these steps:
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Other Ways to Improve Performance
@@ -141,10 +142,10 @@ To pause updates, follow these steps:
 So, try them out to boost your system's performance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Speed Up Your Slow and Laggy Windows 11 PC
@@ -168,19 +169,20 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ps3-experience-on-pc-leading-emulators-guide/"><u>[New] 2024 Approved PS3 Experience on PC Leading Emulators Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-corporate-crown-best-cloud-keepers/"><u>[Updated] In 2024, Corporate Crown Best Cloud Keepers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-proven-techniques-for-amplifying-tiktok-unboxing-success/"><u>[Updated] Proven Techniques for Amplifying TikTok Unboxing Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-ways-to-record-audio-on-windows-11-for-2024/"><u>5 Ways to Record Audio on Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-videos-top-10-text-styling-hacks-for-2024/"><u>Crafting Videos Top 10 Text Styling Hacks for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effortless-episodes-and-anime-extraction-from-dctptv-reliable-video-downloader/"><u>Effortless Episodes and Anime Extraction From DCTP.TV - Reliable Video Downloader</u></a></li>
-<li><a href="https://win11.techidaily.com/escape-key-troubles-discover-immediate-remedies-for-your-pc/"><u>Escape Key Troubles? Discover Immediate Remedies for Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-error-code-0xc0000005-a-techs-approach/"><u>How to Overcome Error Code 0XC0000005: A Tech's Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-ms-store-themes-setup-and-utilization-guide/"><u>Mastering MS Store Themes: Setup & Utilization Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac-for-2024/"><u>New Tutorial on Audio Ducking in Adobe Premiere Pro on Mac for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-moto-g13-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Moto G13 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-integration-get-your-canon-pro-100-up-and-running-on-windows-in-just-one-step/"><u>Seamless Integration: Get Your Canon PRO 100 Up and Running on Windows in Just One Step</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reinstate-the-mia-dxgidll-in-windows-11/"><u>Steps to Reinstate the MIA Dxgi.dll in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-store-apps-in-windows-11/"><u>Troubleshooting Non-Functional Store Apps in Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-step-into-the-limelight-creating-an-authentic-self-replica-on-tiktok/"><u>[New] 2024 Approved Step Into the Limelight Creating an Authentic Self-Replica on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>[New] In 2024, Giggle Galore Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>[New] In 2024, Secure Your Files at No Cost The Best Free 1TB+ Cloud Storages</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-tips-for-using-instagrams-sound-emojis/"><u>[Updated] Essential Tips for Using Instagram's Sound Emojis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-the-art-of-youtube-posts-via-instagram-stories/"><u>[Updated] In 2024, Mastering the Art of YouTube Posts via Instagram Stories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/digital-dialogue-mastery-connecting-with-viewers-flawlessly-for-2024/"><u>Digital Dialogue Mastery Connecting with Viewers Flawlessly for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-canon-pixma-mg7620-driver-for-windows-pcs-download-here/"><u>Free Canon PIXMA MG7620 Driver for Windows PCs - Download Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-officejet-n5740-printer-up-and-running-on-windows-11108-download-drivers-here/"><u>Get Your HP OfficeJet N5740 Printer Up and Running on Windows 11/10/8 - Download Drivers Here</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hp-stream-n14-laptop-uncovered-what-you-gain-vs-what-you-sacrifice-for-affordability/"><u>HP Stream N14 Laptop Uncovered: What You Gain Vs. What You Sacrifice for Affordability</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-combining-columns-effectively-in-microsoft-excel/"><u>Step-by-Step Guide: Combining Columns Effectively in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-constructing-a-location-based-geographic-visualization-with-excel/"><u>Step-by-Step Guide: Constructing a Location-Based Geographic Visualization with Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-crafting-custom-chart-templates-in-excel/"><u>Step-by-Step Guide: Crafting Custom Chart Templates in Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-turning-off-autofill-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Turning Off AutoFill Feature in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-locate-external-workbook-links-within-microsoft-excel/"><u>Steps to Locate External Workbook Links Within Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-effective-household-budget-planning-using-microsoft-excel/"><u>Strategies for Effective Household Budget Planning Using Microsoft Excel</u></a></li>
 </ul></div>
 

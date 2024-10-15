@@ -1,7 +1,7 @@
 ---
 title: Resetting Your Preferences for Window's Explorer Layout
-date: 2024-10-07T11:43:57.570Z
-updated: 2024-10-08T22:55:16.640Z
+date: 2024-10-13T16:20:02.698Z
+updated: 2024-10-15T22:44:05.935Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 ## How to Reset Folder View Settings to Default on Windows
 
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
 
@@ -61,13 +74,6 @@ start explorer.exe`
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
 7. From the left pane, select**Desktop** as the location.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
@@ -81,22 +87,15 @@ start explorer.exe`
 3. Click**Yes** when prompted to confirm your action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
@@ -113,13 +112,20 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 5. Click**Yes** when asked to confirm your action.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Similarly, delete the**Bags** folder and close the Registry window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Reset Folder View Settings to Default
 
@@ -142,22 +148,24 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-streamline-and-shine-the-top-5-video-quality-tools-for-2024/"><u>[New] Streamline & Shine The Top 5 Video Quality Tools for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-building-bonds-youtube-and-brands-in-unity-for-2024/"><u>[Updated] Building Bonds YouTube and Brands in Unity for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-fbx-techniques-for-capturing-games/"><u>[Updated] Essential FBX Techniques for Capturing Games</u></a></li>
-<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-the-windows-snip-and-sketch-tool-wont-screenshot-the-entire-screen/"><u>4 Fixes to Try if the Windows Snip & Sketch Tool Won’t Screenshot the Entire Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-walkthrough-windows-11-calendar/"><u>A Comprehensive Walkthrough: Windows 11 Calendar</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreran-guide-to-install-and-configure-microsoft-pc-manager/"><u>A Compreran Guide to Install and Configure Microsoft PC Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-permanently-vanish-language-sign-on-win11-ui/"><u>A Guide to Permanently Vanish Language Sign on Win11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-performance-swapping-outdated-windows-drivers/"><u>Accelerating Performance: Swapping Outdated Windows Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-0x8007000f-on-task-sequences/"><u>Addressing Windows Error 0X8007000f on Task Sequences</u></a></li>
-<li><a href="https://win11.techidaily.com/auto-displaying-images-craft-your-windows-11-slide-show-7-ways/"><u>Auto-Displaying Images: Craft Your Windows 11 Slide Show (7 Ways)</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-grayed-out-delete-pin-option-in-windows-11/"><u>Breaking Grayed-Out Delete PIN Option in Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-x100-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on X100 Pro.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-nocturnal-images-on-iphones/"><u>Navigating Nocturnal Images on iPhones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-xcover-7-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy XCover 7 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-perfecting-the-science-of-instagram-highlight-recovery/"><u>[New] Perfecting the Science of Instagram Highlight Recovery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-facetune-guide-elevating-your-image-quality/"><u>[New] Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-break-down-barriers-to-sound-convert-srt-with-ease-and-precision/"><u>[Updated] Break Down Barriers to Sound Convert SRT with Ease and Precision</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>[Updated] Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-resolve-windowss-perplexing-pink-screens/"><u>Comprehensive Guide to Resolve Windows's Perplexing Pink Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-win-error-messages-your-step-by-step-solution/"><u>Decoding Win Error Messages - Your Step-by-Step Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiency-seekers-guide-to-lightweight-browsers-for-windowsmacoschromeos/"><u>Efficiency Seekers' Guide to Lightweight Browsers for Windows/macOS/ChromeOS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-11-notepad-with-digital-sage/"><u>Enhance Windows 11 Notepad with Digital Sage</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-clearing-printer-connection-errors/"><u>Expert Guide to Clearing Printer Connection Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hp-envy-27-ultra-hd-usb-c-display-analysis/"><u>HP Envy 27 Ultra HD USB-C Display Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-generating-attention-grabbing-video-teasers/"><u>In 2024, Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>In 2024, Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>In 2024, Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/leap-from-batch-processing-to-executables-in-windows/"><u>Leap From Batch Processing to Executables in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/migrating-user-defined-powertoys-settings/"><u>Migrating User-Defined PowerToys Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-the-webp-effect-modify-google-chromes-save-settings-win-wise/"><u>Reverse the WebP Effect: Modify Google Chrome's Save Settings, Win-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-service-not-responding-error-in-windows/"><u>Steps to Overcome Service Not Responding Error in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-7-exceptional-notetaking-apps-for-your-apple-tablet/"><u>The Ultimate Guide to 7 Exceptional Notetaking Apps for Your Apple Tablet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C110 | Dr.fone</u></a></li>
 </ul></div>
 

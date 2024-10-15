@@ -1,7 +1,7 @@
 ---
 title: Elegant Image Carousel in Windows – Unveiling Seven Essential Tactics
-date: 2024-09-14T06:07:02.085Z
-updated: 2024-09-17T07:00:16.598Z
+date: 2024-10-12T22:55:19.746Z
+updated: 2024-10-15T20:28:42.327Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,13 @@ his is how you can set up a screensaver slideshow in Windows 11:
 6. Click the**Slideshow** button to view your photo presentation.  
 ![The slideshow option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/slideshow-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Set Up a Slideshow With Video Editor
 
  Video Editor is an app that’s like an expansion to Photos. That app enables its users to set up photo video slideshows with different themes and background music. Here are the steps for creating a slideshow clip for your favorite snapshots in Video Editor:
@@ -82,6 +89,13 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![The New video project button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/new-video-project-button.jpg)
 5. Enter a title for your clip, and click the**OK** option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click**\+ Add** \>**From this PC** to select some images for the slideshow. Then select**Open** to add them.
 2. Drag image thumbnails from the project library onto the slides at the bottom of the**My Slideshow** tab.  
 ![The My Slideshow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/photo-slides.jpg)
@@ -89,21 +103,14 @@ his is how you can set up a screensaver slideshow in Windows 11:
 ![The Duration option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/duration-option.jpg)
 4. You can add captions to specific images by right-clicking them and selecting**Edit** \>**Text** option. Enter a caption in the text box, select a font, and click**Done** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Text caption options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/caption-text-options.jpg)
 5. To add some sound, click the**Background music** option. Then choose an audio scheme, and press the**Done** button.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the three-dot button at the top right of Video Editor to select**Themes** . Select a theme to set for the slideshow and click**Done** .  
@@ -121,6 +128,14 @@ his is how you can set up a screensaver slideshow in Windows 11:
 4. Click the**Create album** option.  
 ![The Create album option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/create-album-option.jpg)
 5. Enter an album title, and press the**Add photos** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Choose some photographs, and click the**Done** button.
 7. Select your new album in Google Photos.
 8. Click the**More options** (three-dot) button to select**Slideshow** .  
@@ -128,10 +143,17 @@ his is how you can set up a screensaver slideshow in Windows 11:
 9. Your album slideshow will now play in full-screen mode. Click the left and right arrows to flick through your images.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Set Up a Slideshow With Google Slides
@@ -145,13 +167,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. Click the small down arrow on the**New Slide** button.  
 ![The Blank slide option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/blank-slide-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Select**Blank** to add an empty slide.
 2. Repeat steps five and six to add as many slides as you need for your photo slideshow.
 3. Then select a blank slide to add an image to and click**Insert** .
@@ -162,6 +177,14 @@ his is how you can set up a screensaver slideshow in Windows 11:
 1. Drag the image’s borders with the cursor to resize it so that it fills the whole slide.  
 ![Image border resizing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/image-border-resize.jpg)
 2. Repeat steps six to nine to add photos to all blank slides within your slideshow.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. To add a slideshow transition effect, click the**Transition** button. Then choose a transition on the drop-down menu, and select the**Apply to all slides** option.  
 ![The transition effect options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/apply-to-all-slides-option.jpg)
 4. You can also add captions to slides by clicking the**Text box** option. Position your box at the bottom or top of the slide, and enter a photo description in it.  
@@ -170,13 +193,6 @@ his is how you can set up a screensaver slideshow in Windows 11:
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
  Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
@@ -200,6 +216,13 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 ![A slideshow image in Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-slideshow-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Needs Third-Party Photo Slideshow Software?
 
  So, it’s hardly essential to install third-party slideshow software in Windows 11 when you can show off your favorite pics with the methods above. Windows 11’s built-in desktop and screensaver slideshow features and Google Photos are ok for showcasing basic image collections. You can set up more advanced photography slideshows that incorporate variable transition effects, background music, audio narrative, and text captions with Video Editor and Google Sheets.
@@ -217,5 +240,20 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-hp-laptop-tips-for-perfect-screen-recordings/"><u>[New] 2024 Approved HP Laptop Tips for Perfect Screen Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tech-savvy-tips-for-recording-video-calls/"><u>[New] 2024 Approved Tech-Savvy Tips for Recording Video Calls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>[New] Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-price-programs-to-take-your-videos-from-average-to-amazing-for-2024/"><u>9 Zero Price Programs to Take Your Videos From Average to Amazing for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-90-lite-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor 90 Lite to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-c53-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme C53 FRP Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/intuitive-shorthand-for-power-buttons-on-modern-windows-11/"><u>Intuitive Shorthand for Power Buttons on Modern Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/peak-memes-ranking-the-viral-ones-on-both-platforms/"><u>Peak Memes Ranking the Viral Ones on Both Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/pivotal-factors-to-keep-in-mind-for-reinstalling-windows/"><u>Pivotal Factors to Keep in Mind for Reinstalling Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-faulty-input-devices-on-a-windows-system/"><u>Resolving Faulty Input Devices on a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/shut-off-windows-11-notifications-swiftly/"><u>Shut Off Windows 11 Notifications Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-the-error-code-0xc19001e1-on-windows-11/"><u>Troubleshooting and Fixing the 'Error Code 0xC19001E1' On Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-theme-and-font-control-in-windows-11-notepad/"><u>Unveiling the Secrets to Theme and Font Control in Windows 11 Notepad</u></a></li>
+</ul></div>
 

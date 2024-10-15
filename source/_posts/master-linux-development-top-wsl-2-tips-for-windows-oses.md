@@ -1,7 +1,7 @@
 ---
 title: "Master Linux Development: Top WSL 2 Tips for Windows OSes"
-date: 2024-10-05T08:25:51.044Z
-updated: 2024-10-08T18:43:08.137Z
+date: 2024-10-13T20:27:58.573Z
+updated: 2024-10-15T20:59:54.845Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
 
 Here are some of the other important WSL 2 benefits for developers:
@@ -58,6 +51,13 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
@@ -69,39 +69,19 @@ Here are some of the other important WSL 2 benefits for developers:
  Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the[best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Integrate Visual Studio Code
 
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set Up Multiple Profiles
 
@@ -121,9 +101,29 @@ Here are some of the other important WSL 2 benefits for developers:
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -144,21 +144,17 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-master-plan-uniting-instagram-and-tiktok-platforms/"><u>[New] 2024 Approved Master Plan Uniting Instagram & TikTok Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-graphical-forecast-the-dominant-23-social-themes/"><u>[New] In 2024, Graphical Forecast The Dominant '23 Social Themes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-samsung-ubd-k8500-2023-edition-analysis/"><u>2024 Approved Samsung UBD-K8500 2023 Edition Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-through-office-activation-blockades/"><u>Breaking Through Office Activation Blockades</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-technology-gaps-syncing-android-plus-windows/"><u>Bridging Technology Gaps: Syncing Android + Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-top-5-apps-to-make-your-laptop-os-swap-easier/"><u>Bridging the Gap: Top 5 Apps to Make Your Laptop OS Swap Easier</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-holiday-cheer-with-windows-store-gifts/"><u>Bring Holiday Cheer with Windows Store Gifts</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-frequent-file-explorer-activation/"><u>Ceasing Frequent File Explorer Activation</u></a></li>
-<li><a href="https://win11.techidaily.com/clipquick-error-nine-easy-steps-for-a-smooth-resume/"><u>ClipQuick Error? Nine Easy Steps for a Smooth Resume</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-strategy-for-fixing-update-errors-in-windows-0xc1900101/"><u>Combat Strategy for Fixing Update Errors in Windows (0xC1900101)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-8-innovative-uses-of-chatgpt-technology/"><u>Discover 8 Innovative Uses of ChatGPT Technology</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-steps-for-fixing-improper-device-configuration-overcoming-error-1-hurdle/"><u>Effective Steps for Fixing Improper Device Configuration – Overcoming Error 1 Hurdle</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-level-phone-and-camera-gimbal-tracking-systems/"><u>Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-common-ipadiphone-keyboard-problems-and-how-to-solve-them/"><u>Six Common iPad/iPhone Keyboard Problems and How to Solve Them</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/why-roborocks-s8-maxv-ultra-reigns-supreme-an-in-depth-review-of-the-elite-vacuum-robot-market/"><u>Why Roborock's S8 MaxV Ultra Reigns Supreme: An In-Depth Review of the Elite Vacuum Robot Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/common-fixes-for-amazon-echo-devices-that-arent-responding-to-voice-commands/"><u>Common Fixes for Amazon Echo Devices That Aren't Responding to Voice Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-voice-command-issues-reactivation-techniques-for-win11/"><u>Cure Voice Command Issues: Reactivation Techniques for Win11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/decoding-the-nuances-of-whatsapp-audio-messages/"><u>Decoding the Nuances of WhatsApp Audio Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-external-monitor-not-detected-issue-in-windows/"><u>Fixing External Monitor Not Detected Issue in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-xiaomi-mix-fold-3-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-t2-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo T2 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-is-investing-in-a-monthly-youtube-premium-worthwhile/"><u>In 2024, Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/luminous-android-video-editing-hacks-for-2024/"><u>Luminous Android Video Editing Hacks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-frustrating-asana-issues-with-a-step-by-step-guide/"><u>Solving Frustrating Asana Issues with a Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rotating-images-on-win11/"><u>The Ultimate Guide to Rotating Images on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-power-of-efficient-directory-creation-with-newest-windows-oses/"><u>Unleash the Power of Efficient Directory Creation with Newest Windows OSes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726026876307-youtube/"><u>YouTube上でビデオの逆再生に成功:効果的な手法とヒント</u></a></li>
 </ul></div>
 

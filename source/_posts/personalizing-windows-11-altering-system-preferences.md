@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Windows 11: Altering System Preferences"
-date: 2024-09-12T04:24:37.154Z
-updated: 2024-09-17T00:11:51.173Z
+date: 2024-10-10T16:14:11.807Z
+updated: 2024-10-15T20:45:29.045Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![Change Device Usage on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-device-usage-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the next page, look for your preferred Device Usage option and toggle it on.
 
 ## 2\. Using a REG File
@@ -71,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![Change Gaming Device Usage Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-gaming-device-usage-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To apply the settings, double-click the reg file. This will turn on the Device usage options for Gaming.
 
  If you want to turn off this option, create a new reg file and paste the following:
@@ -83,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  Now save it with the **.reg** extension as above and double-click to apply.
 
  To turn on Device usage options for other categories, create separate reg files with the corresponding code then apply them in the same way. Here's a list of each .reg file's contents:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Family Device Usage Options
 
@@ -123,19 +144,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Entertainment Device Usage Options
 
  If you want the Entertainment options:
@@ -148,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
   
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CloudExperienceHost\Intent\OffDeviceConsent]  
 "accepted"=dword:00000001`
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Business Device Usage Options
 
@@ -172,10 +173,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  Once you have created the reg file for the Device Usage Option, double-click to apply. Now when you open System **Settings** \> **Personalisation** \> **Device Usage**, you should see the option turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configure Your Device’s Usage Options in a Flash
@@ -184,8 +185,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
  Before we dig in, let's see what Device Usage Options are and how they affect your Windows experience.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -193,3 +192,23 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-your-video-sharing-with-our-youtube-upload-strategy/"><u>[Updated] Simplify Your Video Sharing with Our YouTube Upload Strategy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleashing-the-best-mobile-moba-battles/"><u>[Updated] Unleashing the Best Mobile MOBA Battles</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-sticky-note-desynchronization-in-w11/"><u>Counteracting Sticky Note Desynchronization in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-windows-ecosystem-wsl-and-win-11/"><u>Enhancing Your Windows Ecosystem: WSL & Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-invalid-path-in-windows-os/"><u>Fixing Invalid Path in Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-moto-g-stylus-5g-2023-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Moto G Stylus 5G (2023) FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-i-fix-an-unresponsive-email-on-my-iphone-device/"><u>How Can I Fix an Unresponsive Email on My iPhone Device?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-craft-engaging-macootd-tiktoks-effortlessly-for-2024/"><u>How To Craft Engaging MacOOTD TikToks Effortlessly for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/minimize-delays-win11-optimized-launches/"><u>Minimize Delays: Win11 Optimized Launches</u></a></li>
+<li><a href="https://win11.techidaily.com/overruling-google-chromes-default-webp-imaging-process-pc-based/"><u>Overruling Google Chrome's Default WebP Imaging Process, PC-Based</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pushing-the-boundaries-of-titles-in-adobe-ae-for-2024/"><u>Pushing the Boundaries of Titles in Adobe AE for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-energy-management-full-charge-alerts-on-windows-11/"><u>Streamlining Energy Management: Full Charge Alerts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-advanced-settings-for-a-secure-connection-on-win-11/"><u>Unlocking Advanced Settings for a Secure Connection on Win 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-convert-4k-videos-with-ease-top-picks/"><u>Updated Convert 4K Videos with Ease Top Picks</u></a></li>
+</ul></div>
+

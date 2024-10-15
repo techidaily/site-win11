@@ -1,7 +1,7 @@
 ---
 title: "Quick Jumps to UWP: Building Windows 11 Shortcuts"
-date: 2024-10-06T10:11:58.115Z
-updated: 2024-10-09T06:04:33.533Z
+date: 2024-10-09T17:01:56.752Z
+updated: 2024-10-15T21:22:31.890Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ![The Create shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-shortcut-option.jpg)
 5. Select**Yes** when prompted to place a shortcut on the desktop.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 4. Click**Next** to proceed to the final step of the wizard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Enter the app’s name in the text box.
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this[how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
@@ -120,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 4. Select**Apply** \>**OK** to save the hotkey for the desktop shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Shortcuts for All Your Favorite UWP Apps
@@ -145,20 +145,15 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>[New] In 2024, Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-why-are-my-videos-rotated-in-instagram-answers-needed/"><u>2024 Approved Why Are My Videos Rotated in Instagram? Answers Needed</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-windows-explorer-tab-lapses/"><u>Bridging Windows Explorer Tab Lapses</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-secure-answers-for-win-11s-default-administrator/"><u>Bypassing Secure Answers for Win 11'S Default Administrator</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-wsl-smart-choice/"><u>Bypassing WSL - Smart Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-constant-pc-startup-in-bios-mode/"><u>Circumventing Constant PC Startup in BIOS Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-obstacles-with-amd-195-setup-on-pcs/"><u>Circumventing Obstacles with AMD 195 Setup on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-path-for-startup-display-in-taskbar/"><u>Clearing the Path for Startup Display in Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-disk-needs-format-warning-on-windows/"><u>Clearing Up 'Disk Needs Format' Warning on Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-14-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 14 Safe and Legal</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/highly-reliable-and-durable-a-comprehensive-test-of-the-fugetek-ft-568-stick-for-selfies/"><u>Highly Reliable and Durable - A Comprehensive Test of the Fugetek FT-568 Stick for Selfies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-t2-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo T2 5G Phone Screen?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A54 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-12-tycoons-where-every-decision-forges-your-path-to-glory/"><u>In 2024, Top 12 Tycoons - Where Every Decision Forges Your Path to Glory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-windows-handbrake-blockage-now/"><u>Unlock Windows HandBrake Blockage Now</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-effective-email-delivery-feedback-on-windows-machines/"><u>Enabling Effective Email Delivery Feedback on Windows Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unclickable-recycling-symbol-in-windows-11/"><u>Fixing Unclickable Recycling Symbol in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-8-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 8?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-achieving-zen-in-meetings-how-to-disable-background-speech/"><u>In 2024, Achieving Zen in Meetings How to Disable Background Speech</u></a></li>
+<li><a href="https://win11.techidaily.com/smartly-sorted-7-preferred-windows-photos-apps/"><u>Smartly Sorted: 7 Preferred Windows Photos Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-frequent-file-explorer-freezes-in-windows-11/"><u>Solving Frequent File Explorer Freezes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-ux-a-blueprint-of-essential-taskbar-amendments-in-windows-11/"><u>Streamlining UX: A Blueprint of Essential Taskbar Amendments in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-msvcr100dll-not-found-tips-and-tricks-inside/"><u>The Ultimate Fix for 'MSVCR100.DLL' Not Found – Tips and Tricks Inside</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-lg-k92-assessing-whether-5g-connectivity-justifies-the-investment/"><u>Unpacking the LG K92 – Assessing Whether 5G Connectivity Justifies the Investment</u></a></li>
 </ul></div>
 

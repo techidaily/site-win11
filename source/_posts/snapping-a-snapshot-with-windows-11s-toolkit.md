@@ -1,7 +1,7 @@
 ---
 title: Snapping a Snapshot with Windows 11'S Toolkit
-date: 2024-10-08T09:42:55.300Z
-updated: 2024-10-09T06:22:39.329Z
+date: 2024-10-10T19:10:40.226Z
+updated: 2024-10-15T17:22:25.445Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  If you like using keyboard shortcuts, be sure to check out our[Windows keyboard shortcuts 101 guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Open the Snipping Tool Using the Start Menu
 
  The Start menu on Windows provides access to a wide range of applications you can directly launch. To open the Snipping tool using the Start menu, follow these steps:
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 2. Select**All apps** in the top right corner of the Start menu.
 3. Scroll down to**Snipping tool** and click on it to start using the application.  
 ![Open Snipping Tool Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Start-Menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Open the Snipping Tool via Windows Search
 
@@ -80,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![Create Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-Snipping-Tool.jpg)
 4. Type a name for your shortcut (like "Snipping tool") and click**Finish** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Shortcut-for-Snipping-Tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Upon following the above instructions, double-click on your new shortcut to open the Snipping tool!
 
@@ -104,13 +104,26 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 6. Press**Enter** on your keyboard to open the Snipping tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Open the Snipping Tool via File Explorer
 
@@ -137,13 +150,6 @@ To open the Snipping tool using Task Manager, follow these steps:
 
 The Snipping tool should now be open and ready to use!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. How to Pin the Snipping Tool to the Taskbar
 
  If you frequently use the snipping tool to take screenshots on your Windows computer, you should consider pinning it to your taskbar. This will allow you a quick and easy way to access the tool. Here's how you do it.
@@ -153,10 +159,10 @@ The Snipping tool should now be open and ready to use!
 ![Pin Snipping tool toTaskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Snipping-tool-toTaskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, whenever you need to take a screenshot, just click on the Snipping tool icon in your taskbar. You can also use the keyboard shortcut**Win + Shift + S** to open the app.
@@ -180,20 +186,16 @@ The Snipping tool should now be open and ready to use!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlock-flawless-mac-screen-record-through-keyboard-expertise/"><u>[New] 2024 Approved Unlock Flawless Mac Screen Record Through Keyboard Expertise</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-brand-visualization-inserting-watermarks-and-logos-into-youtube-media-for-2024/"><u>[New] Brand Visualization Inserting Watermarks and Logos Into YouTube Media for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/7-expert-moves-for-restoring-the-functionality-of-windows-services-control-panel/"><u>7 Expert Moves for Restoring the Functionality of Windows Services Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-shielding-game-data/"><u>A Step-by-Step Guide to Shielding Game Data</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-no-network-reachability-windows/"><u>Addressing No Network Reachability (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-win11-crashes-with-exception-handlers/"><u>Addressing WIN11 Crashes with Exception Handlers</u></a></li>
-<li><a href="https://win11.techidaily.com/ai-driven-windows-11-an-inevitable-shift/"><u>AI-Driven Windows 11: An Inevitable Shift</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-display-output-clarity-with-high-dpi-adjustments/"><u>Boost Display Output Clarity with High-DPI Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/1719313088233-break-free-from-windows-update-problems-quickly/"><u>Break Free From Windows Update Problems Quickly!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-cosmos-display-top-pick-hdr-sky-sites-list/"><u>Digital Cosmos Display Top Pick HDR Sky Sites List</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-rediscovering-retro-gaming-identifying-the-most-advanced-gb-console-emulation-programs/"><u>In 2024, Rediscovering Retro Gaming Identifying the Most Advanced GB Console Emulation Programs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-reign-supreme-with-these-11-video-seo-techniques-on-youtube/"><u>Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-free-darkroom-suite-lightzone-edition-for-windows-macos-and-linux-users/"><u>The Ultimate Guide to Free Darkroom Suite: LightZone Edition for Windows, macOS and Linux Users</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamlined-recording-experience-with-macbooks-webcam/"><u>[New] 2024 Approved Streamlined Recording Experience with MacBook's Webcam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>[Updated] In 2024, Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-solutions-for-the-windows-10-photos-app-stability-woes/"><u>[Updated] Swift Solutions for the Window's 10 Photos App Stability Woes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-investigating-changes-over-time-in-windows-movie-maker/"><u>2024 Approved Investigating Changes Over Time in Windows Movie Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-winget-hurdles-on-windows-11-systems/"><u>Overcoming Winget Hurdles on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-absent-logins-in-windows-11-os/"><u>Recovering Absent Logins in Windows 11 OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/striving-for-excellence-in-sound-jabras-steel-buds-review/"><u>Striving for Excellence in Sound - Jabra’s Steel Buds Review</u></a></li>
+<li><a href="https://win11.techidaily.com/sync-fail-resolving-outlook-app-errors-on-pcs/"><u>Sync Fail: Resolving Outlook App Errors on PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-and-tricks-for-stable-playthroughs-in-frostpunk-without-game-crashes/"><u>Tips and Tricks for Stable Playthroughs in Frostpunk Without Game Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-malfunctioning-discord-game-checker-on-windows/"><u>Tips to Rectify Malfunctioning Discord Game Checker on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-why-your-automobiles-power-source-may-keep-depleting-a-closer-look-at-6-common-factors/"><u>Understanding Why Your Automobile's Power Source May Keep Depleting: A Closer Look at 6 Common Factors</u></a></li>
 </ul></div>
 

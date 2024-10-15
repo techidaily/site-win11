@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Search Bar in the Windows 11 Settings App Not Working
-date: 2024-10-06T18:29:37.583Z
-updated: 2024-10-09T09:40:04.836Z
+date: 2024-10-14T17:37:41.330Z
+updated: 2024-10-15T21:11:30.486Z
 tags:
   - windows10
   - windows11
@@ -33,24 +33,44 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  However, if your PC frequently requires a restart to fix this issue, the underlying problem affecting the Search feature in the Settings app persists. In that case, you should look for a more robust solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Install All the Latest Windows Updates
 
 ![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides new features, software updates are meant to improve performance by fixing issues impacting your PC. While it can happen to anyone, a dysfunctional Search can be pretty common if you are running a Windows 11 Insider build. Either way, if you are seeing a software update on the**Windows Update** page in the Settings app, you should install it to see if it fixes the issue.
 
  If you're not sure how to do this, check out[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more info.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Search and Indexing Troubleshooter
 
 ![Search and indexing troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-and-indexing-troubleshoot-edit.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Search indexing is the process in which your PC looks at files, folders, and other content that are there in the system. Getting errors while searching for specific settings could be the result of the malfunctioning of the Search indexing. If the above solutions do not fix the Search issue, you should run this troubleshooter from the Settings app. You can run it by following the below steps:
 
@@ -62,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
  The troubleshooter will look for the root cause of the issue and offer you solutions. Now, follow the fixes it recommends and see if the problem is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Settings App
@@ -83,13 +103,6 @@ To reset or repair the Settings app, follow the below steps:
 
  Under the**Reset** option, you will see**Repair** and**Reset** . Try repairing the app first, as it will not delete anything. However, if repairing does not work, you should try the**Reset** option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use Commands in PowerShell to Reset Settings App
 
 ![PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-command.jpg)
@@ -101,13 +114,6 @@ To reset or repair the Settings app, follow the below steps:
 `Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage`
 
  It will reset the Settings app and take it back to its default state, which means you can find settings quickly by searching in the app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Windows Explorer Search Strip, Restored
 
@@ -128,15 +134,17 @@ To reset or repair the Settings app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-demystifying-trillers-unique-approach-to-video-content/"><u>[New] In 2024, Demystifying Triller's Unique Approach to Video Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-tips-for-successful-youtube-broadcasts/"><u>[Updated] In 2024, Essential Tips for Successful YouTube Broadcasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-cutting-edge-screencast-tech-obs-innovations-explained/"><u>2024 Approved Cutting-Edge Screencast Tech OBS Innovations Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-find-the-mac-address-on-windows-11/"><u>4 Ways to Find the MAC Address on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/6-polarizing-windows-features-that-are-gone-for-good/"><u>6 Polarizing Windows Features That Are Gone for Good</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-fix-the-black-desktop-background-display-issue-on-windows/"><u>8 Ways to Fix the Black Desktop Background Display Issue on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/automated-uninstall-process-for-printers-in-windows-11/"><u>Automated Uninstall Process for Printers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-microsoft-closed-the-backdoor-local-account-setup-flaw-patched-in-windows-11/"><u>How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/strong-authentication-protocols-for-2024/"><u>Strong Authentication Protocols for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-vision-tech-top-5-for-slow-motion/"><u>Ultimate Vision Tech Top 5 for Slow Motion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>[New] 2024 Approved Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-unrooted-android-sounds-4-techniques/"><u>[New] Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-tips-for-dealing-with-system-calls-in-windows/"><u>Comprehensive Tips for Dealing With System Calls in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effortlessly-record-high-quality-mac-audio-using-audacity/"><u>Effortlessly Record High-Quality Mac Audio Using Audacity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-6-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-achieve-optimal-clarity-by-cleaning-home-audio-speakers/"><u>Expert Advice: How to Achieve Optimal Clarity by Cleaning Home Audio Speakers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g04-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G04 Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/making-a-mark-on-instagram-strategies-for-securing-brand-funding-and-partnerships/"><u>Making a Mark on Instagram Strategies for Securing Brand Funding and Partnerships</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disk-read-error-on-windows-os/"><u>Resolving Disk Read Error on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-dns-flushing-in-modern-windows/"><u>Step-by-Step DNS Flushing in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-persistent-windows-volume-mixer/"><u>Troubleshooting Non-Persistent Windows Volume Mixer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verspraeckeen-van-aiff-naar-mp3-online-kostenloos-movavi/"><u>Verspraeckeen Van AIFF Naar MP3 Online Kostenloos - Movavi</u></a></li>
 </ul></div>
 

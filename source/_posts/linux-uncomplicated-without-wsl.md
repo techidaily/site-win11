@@ -1,7 +1,7 @@
 ---
 title: Linux Uncomplicated, Without WSL
-date: 2024-10-02T15:02:02.346Z
-updated: 2024-10-09T08:01:41.516Z
+date: 2024-10-09T17:54:59.920Z
+updated: 2024-10-15T20:30:30.966Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  WSL was mainly designed with web developers in mind. Many developers work on Linux, but they need to test their websites on Windows to make sure they look right. WSL lets them do this without needing to switch back and forth between operating systems. It also provides access to a full version of Bash (which is the default shell for many Linux distros), as well as its underlying toolset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Advantages of WSL?
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 * It's easy to get started. All you need is a Windows 10/11 machine, an internet connection, and a little bit of time.
 * It's easy to use. Once installed, it works just like any other Linux distribution would--you can run commands or scripts as if they were natively installed on your machine (which they are!). You can also install new applications through the command line using apt-get or yum commands just like any other Linux distribution would allow you to do so too! What else could be better than that?
 * It's easy to install: If installing WSL wasn't already simple enough, Microsoft has made it even easier by providing an installer that guides users through each step needed before installing WSL on their computers--and even includes troubleshooting tips if something goes wrong during the installation process!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disadvantages of WSL
 
@@ -65,22 +72,15 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  Your[system PATHs are also completely separate](https://www.makeuseof.com/how-to-use-environment-variables-in-windows-10/) when using WSL. So if you install a program like Node just on the Windows side, none of the commands will work in WSL unless you separately install Node on Linux.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Alternatives to WSL?
 
 ![Git bash move to destination directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/git-bash-move-to-directory.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're an experienced Linux user unfamiliar with the Windows command line, there are other options for running Linux/Bash on your Windows machine.
 
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 * **Linux in a VM:** There are many virtualization programs out there. You could install the[VMware Workstation Player](https://www.vmware.com/uk/products/workstation-player.html) free edition ($0) or[VirtualBox](https://www.virtualbox.org/) ($0) on your PC then download an ISO image file containing Ubuntu 18 LTS (or whatever flavor appeals most).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WSL Is a Nice Feature... but It Isn’t Essential
@@ -116,24 +116,21 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos-for-2024/"><u>[New] Mastering ScreenFlow A Guide to Enhanced Creativity on macOS for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[Updated] 2024 Approved From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-steps-to-designing-exceptional-youtube-thumbnails/"><u>[Updated] In 2024, Essential Steps to Designing Exceptional YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-film-color-correction-with-luts/"><u>2024 Approved Mastering Film Color Correction with Luts</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-gaps-in-winvpn-fixed-remote-access-errors/"><u>Bridging Gaps in WinVPN: Fixed Remote Access Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/brighten-up-the-grayed-extend-volume-buttons/"><u>Brighten Up the Grayed Extend Volume Buttons</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-life-to-monitors-with-custom-spotlight-backdrops/"><u>Bring Life to Monitors with Custom Spotlight Backdrops</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-slack-notifications-back-from-the-dead-in-windows-11/"><u>Bring Slack Notifications Back From the Dead in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-forth-hidden-windows-drive/"><u>Bringing Forth Hidden Windows Drive</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-stranded-status-a-quick-guide-for-xbox-users/"><u>Bypassing ‘Stranded’ Status: A Quick Guide for Xbox Users</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-microsofts-store-crash-code-x800704cf/"><u>Bypassing Microsoft's Store Crash Code X800704CF</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-11s-operation-failure-error-code-0x0000011b/"><u>Bypassing Windows 11'S Operation Failure (Error Code: 0X0000011B)</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-code-confusion-skyrim-sse-troubleshoot/"><u>Combat Code Confusion: Skyrim SSE Troubleshoot</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-asus-rog-phone-8-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Asus ROG Phone 8.</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-exploring-options-a-treasure-hunt-for-your-tiktok-symbol/"><u>In 2024, Exploring Options A Treasure Hunt for Your TikTok Symbol</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-blaze-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava Blaze 2 FRP Bypass</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cket-views-essential-youtube-seo-enhancements-uncovered/"><u>Skyrocket Views Essential YouTube SEO Enhancements Uncovered</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/topo-lista-dos-melhores-reproduz-leitores-de-dvds-sem-custo-para-sistemas-windows-10-e-11-os-doze-mais-populares/"><u>Topo Lista Dos Melhores Reproduz: Leitores De DVDs Sem Custo Para Sistemas Windows 10 E 11 - Os Doze Mais Populares!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-secrets-for-flawless-windows-error-handling/"><u>Unlocking Secrets for Flawless Windows Error Handling</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-audio-take-from-twitter-video-sources/"><u>[New] 2024 Approved Audio Take From Twitter Video Sources</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-grandmasters-guide-to-virtual-combat-excellence/"><u>[New] Grandmasters' Guide to Virtual Combat Excellence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716070161847-updated-2024-approved-capture-every-detail-on-mac-free/"><u>[Updated] 2024 Approved Capture Every Detail on Mac - Free!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-shotsizesavvy-fine-tuning-your-social-media-content-for-instagram/"><u>[Updated] ShotSizeSavvy Fine-Tuning Your Social Media Content for Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-workstations-your-tech-dreams-realized/"><u>[Updated] Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724765479238-dvd/"><u>完璧なDVDオーディオ抽出: 素人でも利用しやすい最新フリーソフトウェアの登場</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-removing-x80300024-from-pcs/"><u>Deciphering and Removing X80300024 From PCs</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/discover-the-best-file-transfer-tools-compatible-with-windows-10-8-and-7-as-an-airdrop-replacement/"><u>Discover the Best File Transfer Tools: Compatible with Windows 10, 8 & 7 as an AirDrop Replacement</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-the-best-of-win11s-feb-2023-update/"><u>Discovering the Best of Win11's Feb 2023 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-develop-with-wsl-2-core-practices-for-dev-on-windows/"><u>Efficiently Develop with WSL 2: Core Practices for Dev on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-win11-audio-problem-code-0xc00d36b4/"><u>Eliminating Win11 Audio Problem: Code 0xC00D36B4</u></a></li>
+<li><a href="https://win11.techidaily.com/pace-up-decoding-your-graphics-spec-in-windows-11/"><u>Pace Up: Decoding Your Graphics Spec in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-11-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme 11 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-adobe-photoshop-closure-issues-on-latest-oses/"><u>Resolving Adobe Photoshop Closure Issues on Latest OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-lock-in-experience-longer-passwords-in-win1011/"><u>Transform Your Lock-In Experience: Longer Passwords in Win10/11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-liquid-detection-warnings-on-your-iphones-charger-port/"><u>Troubleshooting Liquid Detection Warnings on Your iPhone's Charger Port</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Screen Layout: Embedding 'This PC' Icon"
-date: 2024-09-15T05:18:11.598Z
-updated: 2024-09-17T05:06:15.438Z
+date: 2024-10-09T18:19:05.879Z
+updated: 2024-10-15T19:55:19.301Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easily Add the "This PC" Icon to Your Desktop
 
  Windows 11 doesn't display the "This PC" icon on the desktop by default, so we have to add it manually. Hopefully, the above steps will help you add this icon to your desktop and make accessing your drives much more straightforward. Taking this step will significantly enhance your productivity. If you decide to clean up your desktop in the future, follow the same steps and disable it again.
@@ -64,12 +71,22 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-8-premier-mp3-downloaders-for-android-devices/"><u>[New] 2024 Approved 8 Premier MP3 Downloaders for Android Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimal-twitvid-saves-mastering-tweeted-media-downloads/"><u>[Updated] 2024 Approved Optimal TwitVid Saves Mastering Tweeted Media Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-secure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy/"><u>[Updated] 2024 Approved Secure Steps for Skyrocketing Video Engagement A Million Wins Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/de-jam-windows-and-run-handbrake-successfully/"><u>De-Jam Windows and Run HandBrake Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-strategies-for-pre-scheduling-tweets-like-a-pro/"><u>Easy Strategies for Pre-Scheduling Tweets Like a Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-thrift-shops-to-youtube-stars-crafting-hauls-with-professional-precision/"><u>From Thrift Shops to YouTube Stars Crafting Hauls with Professional Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/hacking-detection-guide-for-windows-users/"><u>Hacking Detection Guide for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-type-faster-with-powertoys-on-windows/"><u>How to Type Faster With PowerToys on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>In 2024, Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-malfunctioning-windows-charmap-errors/"><u>Mastering Fixes for Malfunctioning Windows CharMap Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-access-to-forgotten-calendars-and-emails-in-w11/"><u>Reclaiming Access to Forgotten Calendars & Emails in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-overcoming-your-windows-hello-fingerprint-failures/"><u>Solutions: Overcoming Your Windows Hello Fingerprint Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-strategies-top-9-fixes-to-avoid-wwe-freezes-in-windows-11/"><u>Swift Strategies: Top 9 Fixes to Avoid WWE Freezes in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-three-no-cost-audio-and-video-players-optimized-for-windows-7-both-32-and-64-bits/"><u>Top Three No-Cost Audio and Video Players: Optimized for Windows 7, Both 32 & 64 Bits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-mac-interface-with-speech-recognition-software-review/"><u>Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+</ul></div>
 

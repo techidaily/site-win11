@@ -1,7 +1,7 @@
 ---
 title: Reactivating the Favorite Photo Viewer Functionality in Windows 11
-date: 2024-10-05T17:10:18.603Z
-updated: 2024-10-09T01:47:02.619Z
+date: 2024-10-13T20:05:10.672Z
+updated: 2024-10-15T18:41:01.171Z
 tags:
   - windows10
   - windows11
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 * [Use One Photo Viewer](#use-one-photo-viewer)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -57,28 +57,28 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![Notepad App Showing a Save As Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-save-as-dialog-in-windows-11.png)
 5. Next, open **File Explorer**, browse to the location where you saved the file, double-click **ActivateWindowsPhotoViewer.reg**, and then click **Yes**. When a warning prompt appears, click **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. After the script is executed, you'll see a success message. Click **OK**.
 7. To apply the changes, press **Win + X** to open the **Windows Power** **menu** and choose **Task Manager**.
 8. In the **Process** tab, find and right-click on **Windows Explorer**, then click **Restart**. Your screen may flash momentarily as Windows Explorer restarts.  
 ![Windows 11 Task Manager Showing Restart Option for Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-task-manager-showing-restart-option-for-windows-explorer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Since Windows Photos Viewer doesn't have its own .EXE file, [but only a .DLL](https://www.makeuseof.com/what-are-dll-files-on-windows/), you can't open it from the search bar in Windows. Instead, to open pictures in Photo Viewer, right-click on any image in **File Explorer**, go to **Open With > Choose another app**, and then scroll down and select **Windows Photo Viewer**. Choose **Just once** to open the image. If you select **Always**, Windows will set Photo Viewer as the default app for that image format.
 
 ![File Explorer Choose Another App Menu Showing Windows Photo Viewer App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-explorer-choose-another-app-menu-showing-windows-photo-viewer-app-option.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Windows Photo Viewer in Windows 10 and 11
 
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 5. Double-click **DeactivateWindowsPhotoViewer.reg** to execute the script and follow the on-screen instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/), and the Photo Viewer app will be disabled.
@@ -116,26 +116,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
  That said, if you prefer to stick with a native option, give the built-in Windows Photos app another shot. It's not as bad as you may think upon first use.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-facetime-on-android-easily-for-2024/"><u>[New] How To Facetime on Android Easily for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-best-buy-in-4k-budget-savvy-camera-picks/"><u>[New] In 2024, Best Buy in 4K Budget-Savvy Camera Picks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-combining-youtube-and-imovie-for-professional-results/"><u>[New] In 2024, Combining YouTube and iMovie for Professional Results</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-navigating-webcam-features-on-apples-macbook/"><u>[Updated] 2024 Approved Navigating Webcam Features on Apple's MacBook</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-discovering-the-prime-6-headgear-choices-for-capturing-life-with-gopro-for-2024/"><u>[Updated] Discovering the Prime 6 Headgear Choices for Capturing Life with GoPro for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-caption-implementation-essentials/"><u>[Updated] YouTube Caption Implementation Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-you-cant-enable-the-windows-firewall/"><u>4 Fixes to Try if You Can’t Enable the Windows Firewall</u></a></li>
-<li><a href="https://win11.techidaily.com/5-best-file-sharing-apps-on-a-windows-pc/"><u>5 Best File Sharing Apps on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11s-visual-keyboard-assistant/"><u>Accessing Windows 11'S Visual Keyboard Assistant</u></a></li>
-<li><a href="https://win11.techidaily.com/ahead-of-change-enabling-tpm-secure-boot-for-windows-11/"><u>Ahead of Change: Enabling TPM, Secure Boot for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/aim-for-zero-error-windows-1011-bin-repair-guide/"><u>Aim for Zero-Error: Windows 10/11 Bin Repair Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-blankness-3-straightforward-steps-for-win1011/"><u>Banish Blankness: 3 Straightforward Steps for Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-ordinary-displays-elevate-your-screen-with-customized-themes-on-win11/"><u>Beyond Ordinary Displays: Elevate Your Screen with Customized Themes on Win11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-newly-launched-samsung-galaxy-s24-ultra-smartphone/"><u>Comprehensive Guide to the Newly Launched Samsung Galaxy S24 Ultra Smartphone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-lava-blaze-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Blaze Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-6-plus-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 6 Plus From Your Apple ID</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +123,23 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-proven-pathways-to-promoting-in-vr-lands/"><u>[New] Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-transform-slideshow-into-video/"><u>2024 Approved Transform Slideshow Into Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-c51-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme C51 Device SIM</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ideal-ringtones-picks-high-quality-destinations-for-2024/"><u>Ideal Ringtones Picks High-Quality Destinations for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-6-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 6 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>In 2024, Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-speech-to-text-the-whisper-desktop-way/"><u>Mastering Speech-to-Text: The Whisper Desktop Way</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-ai-hub-revolutionizing-retail-shopping/"><u>Microsoft AI Hub: Revolutionizing Retail Shopping</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-and-using-microsofts-code-assistant/"><u>Step-by-Step: Setting Up and Using Microsoft's Code Assistant</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-camera-non-storage-feedback/"><u>Tackling Windows Camera Non-Storage Feedback</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-0x800f082f-with-dism/"><u>Troubleshooting Windows Error 0X800F082F with DISM</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-8-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 8 HD Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

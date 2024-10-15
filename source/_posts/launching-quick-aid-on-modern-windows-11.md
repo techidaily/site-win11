@@ -1,7 +1,7 @@
 ---
 title: Launching Quick Aid on Modern Windows 11
-date: 2024-10-07T14:03:34.892Z
-updated: 2024-10-09T07:11:26.995Z
+date: 2024-10-08T16:36:04.490Z
+updated: 2024-10-15T20:25:45.987Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,16 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
  The quickest way to open Quick Assist is by using the shortcut keys**Win + Ctrl + Q** . This will launch the Quick Access tool directly on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Search Tool
@@ -48,6 +54,13 @@ To open Quick Assist through the search tool, follow these steps:
 
  This will open the Quick Assist tool where you can view and control another computer from your own.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Start Menu
 
  Next, you can use the Start menu to access Quick Assist on your computer. Here's how to do this:
@@ -58,17 +71,10 @@ To open Quick Assist through the search tool, follow these steps:
 ![Open Quick Assist Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Pin Quick Assist to the Taskbar
@@ -79,14 +85,14 @@ To open Quick Assist through the search tool, follow these steps:
 2. On the right side menu, click**Pin to taskbar** .  
 ![Pin Quick Assist to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-quick-assist-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This way, you can quickly access the tool from your taskbar.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Now Get Assistance Quickly
 
@@ -107,24 +113,20 @@ This way, you can quickly access the tool from your taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-metaverse-tech-the-ultimate-goggles-and-hmds-list/"><u>[New] Best Metaverse Tech The Ultimate Goggles and HMDs List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-aerial-editors-handbook-mastering-the-art-of-drone-video-editing/"><u>[New] The Aerial Editor's Handbook Mastering the Art of Drone Video Editing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-funding-fantasies-or-fiscal-facts/"><u>[Updated] 2024 Approved Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-make-your-discord-conversation-stand-out-with-style/"><u>[Updated] Make Your Discord Conversation Stand Out with Style</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-mastery-seizing-the-seo-opportunity/"><u>[Updated] YouTube Video Mastery Seizing the SEO Opportunity</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ades-across-platforms-for-video-creators-for-2024/"><u>Accolades Across Platforms for Video Creators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bridge-the-gap-connecting-your-computer-again/"><u>Bridge the Gap: Connecting Your Computer Again</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-quick-access-initiate-file-explorer-via-onedrive-link/"><u>Bypass Quick Access: Initiate File Explorer via OneDrive Link</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-blocked-onedrive-fixes-for-windows-users/"><u>Bypassing Blocked OneDrive: Fixes for Windows Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/changing-photo-colors-with-ease-for-2024/"><u>Changing Photo Colors with Ease for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-error-0x80242016-for-updates/"><u>Circumventing Error 0X80242016 for Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-diablo-playbook-step-by-step-guide/"><u>Classic Diablo Playbook: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-the-path-to-chatting-ease-on-your-pc/"><u>Clear the Path to Chatting Ease on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-errors-successfully-downloading-from-the-ms-store/"><u>Clearing Errors: Successfully Downloading From the MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-dark-screen-with-windows-webcam/"><u>Clearing Up Dark Screen with Windows Webcam</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-disappearing-steam-app-graphics/"><u>Combat Disappearing Steam App Graphics</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-best-of-broadcast-television-with-the-clearstream-eby-2v-hdtv-antenna-style-meets-functionality/"><u>Experience the Best of Broadcast Television with the ClearStream Eby 2V HDTV Antenna - Style Meets Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-to-avoid-automatic-sleep/"><u>Guide: Keeping Your Mac Awake – Tips and Tricks to Avoid Automatic Sleep</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ling-youtube-shorts-what-it-all-means-for-2024/"><u>Unveiling YouTube Shorts What It All Means for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-select-and-download-the-right-audio-for-your-video/"><u>[New] How to Select and Download the Right Audio for Your Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speedy-rescue-vanished-visuals/"><u>[New] Speedy Rescue Vanished Visuals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-5-ios-applications-bringing-your-podcast-to-life-for-2024/"><u>[New] Top 5 iOS Applications Bringing Your Podcast to Life for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-erasing-your-windows-11-actions-trail/"><u>Decoding and Erasing Your Windows 11 Actions Trail</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-accessibility-custom-pin-lengths-for-windows-users/"><u>Enhance Accessibility: Custom PIN Lengths for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-preparations-what-you-need-prior-to-windows-overhaul/"><u>Essential Preparations: What You Need Prior To Windows Overhaul</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-tdarr-to-multiply-windows-pc-video-conversion-efficiency/"><u>Harness Tdarr to Multiply Window's PC Video Conversion Efficiency</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-do-youtubers-get-paid-monthly/"><u>In 2024, Do YouTubers Get Paid Monthly?</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-intel-unison-app-not-working-on-windows-11-heres-how-to-fix-it/"><u>Is the Intel Unison App Not Working on Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/pros-choice-top-video-trimming-apps-for-windows-pcs/"><u>Pro's Choice: Top Video Trimming Apps for Windows PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-patient-engagement-with-creative-fb-strategies-for-2024/"><u>Revolutionizing Patient Engagement with Creative FB Strategies for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-picks-finding-the-perfect-copernic-products-as-gifts/"><u>Top Picks: Finding the Perfect Copernic Products as Gifts</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-to-nighttime-paints-dark-aesthetics/"><u>Transition to Nighttime: Paint's Dark Aesthetics</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-the-ultimate-guide-to-windows-powertoy-features/"><u>Unleash Potential: The Ultimate Guide to Windows PowerToy Features</u></a></li>
 </ul></div>
 

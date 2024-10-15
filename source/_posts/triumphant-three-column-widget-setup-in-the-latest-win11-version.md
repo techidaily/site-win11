@@ -1,7 +1,7 @@
 ---
 title: Triumphant Three-Column Widget Setup in the Latest Win11 Version
-date: 2024-10-05T21:36:14.336Z
-updated: 2024-10-08T19:26:00.714Z
+date: 2024-10-14T16:57:14.138Z
+updated: 2024-10-15T17:32:15.738Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 Simply put, they have no separation in the two-column Widgets view.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
  ViveTool is a third-party application that helps you enable features many Windows Insiders or the general public cannot use in Windows 11\. In other words, the tool allows us to enable hidden features in Windows 11\. We have a detailed guide on[downloading and using ViveTool to enable unreleased features](http://www.makeuseof.com/vivetool-windows-guide/) .
@@ -51,15 +44,22 @@ Simply put, they have no separation in the two-column Widgets view.
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
@@ -79,26 +79,32 @@ vivetool /enable /id:43028164
 
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New Widgets Board in Windows 11, Enabled
@@ -122,21 +128,20 @@ vivetool /enable /id:43028164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-background-replacement-get-cost-free-lessons-in-green-screen-effects-from-youtubes-best/"><u>[New] Mastering Background Replacement Get Cost-Free Lessons in Green Screen Effects From YouTube's Best</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-color-calibration-transitioning-from-traditional-rgb-to-srgb/"><u>[Updated] Color Calibration Transitioning From Traditional Rgb to Srgb</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-the-art-of-engaging-responding-in-discord-conversations/"><u>2024 Approved The Art of Engaging Responding in Discord Conversations</u></a></li>
-<li><a href="https://win11.techidaily.com/contrasting-local-and-remote-protocols-for-upgrading-windows-operating-system/"><u>Contrasting Local and Remote Protocols for Upgrading Windows Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-install-brother-mfc-7360n-printer-drivers-on-windows-10-8-and-7/"><u>Easy Guide: Install Brother MFC-7360N Printer Drivers on Windows 10, 8, and 7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-c33-2023-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on C33 2023</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-beats-speaker-drivers-on-the-fritz-solutions-for-windows-os-7-8-and-10/"><u>HP Beats Speaker Drivers on the Fritz? Solutions for WINDOWS OS: 7, 8 & 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-activation-failures-in-office-suite/"><u>Navigating Activation Failures in Office Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-your-preferred-file-layout-settings/"><u>Reclaiming Your Preferred File Layout Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-ui-proposing-innovations-in-windows-11-widget-design/"><u>Revolutionizing UI: Proposing Innovations in Windows 11 Widget Design</u></a></li>
-<li><a href="https://win11.techidaily.com/security-alert-hacked-fingerprint-recognition-on-windows/"><u>Security Alert: Hacked Fingerprint Recognition on Windows?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-instagram-filter-guide-keeping-up-with-2023-trends-for-2024/"><u>Step-by-Step Instagram Filter Guide - Keeping Up with 2023 Trends for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-transition-text-editor-from-light-to-dark-windows-11-style/"><u>Swiftly Transition Text Editor From Light to Dark, Windows 11 Style</u></a></li>
-<li><a href="https://win11.techidaily.com/top-windows-fixes-to-unblock-firefox-page-load-blockage/"><u>Top Windows Fixes to Unblock Firefox Page Load Blockage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-rhythmic-explorations-the-essential-15-videos-for-musicians/"><u>[New] 2024 Approved Rhythmic Explorations The Essential 15 Videos for Musicians</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-effortless-technique-mirror-video-playback-in-vlc-player/"><u>[New] In 2024, Effortless Technique Mirror Video Playback in VLC Player</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplified-techniques-for-using-the-io-screener/"><u>[Updated] Simplified Techniques for Using the IO Screener</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-do-not-have-access-error-during-uninstall-on-windows-11/"><u>How to Overcome Do Not Have Access Error During Uninstall on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-12-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi 12 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-wirelessly-connect-a-ps3-dualshock-controller-to-windows/"><u>How to Wirelessly Connect a PS3 DualShock Controller to Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-optimizing-television-access-to-facebook-events/"><u>In 2024, Optimizing Television Access to Facebook Events</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-tutorial-prevent-and-solve-unreal-engine-4-sudden-shutdown-on-pcs/"><u>In-Depth Tutorial: Prevent and Solve Unreal Engine 4 Sudden Shutdown on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-techniques-for-clearing-ms-defender-log-on-pc/"><u>Master the Techniques for Clearing MS Defender Log on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-resolving-keyboard-issues-on-windows-11/"><u>Mend: Resolving Keyboard Issues on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-w11s-chrome-immediate-troubleshooting-advice/"><u>Revive W11's Chrome - Immediate Troubleshooting Advice!</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-autonomous-opens-in-microsoft-marketplace/"><u>Stopping Autonomous Opens in Microsoft Marketplace</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-definitive-list-youtubes-premier-making-up-masters/"><u>The Definitive List YouTube's Premier Making-Up Masters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-n3-flip-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find N3 Flip Users</u></a></li>
 </ul></div>
 

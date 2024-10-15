@@ -1,7 +1,7 @@
 ---
 title: "Tackling Bad Chunks: Repairing Sector Issues"
-date: 2024-10-04T13:18:09.757Z
-updated: 2024-10-09T07:11:28.482Z
+date: 2024-10-13T20:29:07.853Z
+updated: 2024-10-15T16:45:21.541Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Now let’s look at possible troubleshooting ways to fix the repairing disk error on your Windows device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Start With These Basic Fixes
 
  When your Windows computer starts showing disk errors, there are a few initial steps you can take before moving on to more advanced solutions. Here's what we recommend doing:
@@ -60,16 +67,16 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 3. A blue-colored screen must appear now. From there, click on **Troubleshoot > Advanced options** and then **Startup Repair**.  
 ![Startup Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair tool will then scan for any corrupted files to repair. If this doesn't work, check out [what to do if Startup Repair fails to fix your PC](https://www.makeuseof.com/what-to-do-if-startup-repair-fails-to-repair-your-pc/).
 
  Once the repair process begins, avoid interrupting it or turning off your computer. Doing so could corrupt Windows even further.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the SFC and CHKDSK Tools
 
@@ -84,18 +91,18 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 3. Then, type **chkdsk %SystemDrive% /scan** and again press **Enter**.  
 ![CHKDSK SCAN Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command-preview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The above-given commands initiates a thorough scan of your system. It might take a while, and once completed, you should no longer see the black screen on startup.
 
  If you cannot access your desktop, you can also run the Command Prompt and the given commands via Windows safe mode.
 
  If these commands came in handy, be sure to check out all the [built-in Windows tools that repair corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Update the Disk Controller Driver
 
@@ -106,29 +113,32 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 1. Press **Win + X** and click on **Device Manager** from the menu.  
 ![Device Manager In Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/device-manager-in-power-menu.jpg)
 2. Expand the **IDE ATA/ATAPI controllers** category. Right-click on your disk controller driver (in our case, **Standard SATA AHCI Controller**) and select **Update driver**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 Device Manager Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-device-manager-preview.jpg)
 3. Choose **Search automatically for drivers**, then **Search for updated drivers on Windows Update**. Windows will then search for the necessary updates for your disk controller driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 11 Update Drivers Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-update-drivers-window.jpg)
 4. Once it installs the driver update, restart your computer. If the error black screen doesn't appear, it means your issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Try a Third-Party Disk Repair Tool
@@ -150,25 +160,11 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Now, Macrorit Partition Expert will analyze your selected disk to check for any bad sectors and try to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Factory Reset Windows
 
  If none of the fixes were helpful, you must reinstall Windows OS as a last resort. This will wipe all the data from your computer, so ensure to back up your important data.
 
  Once you've backed up your files, check out [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). Once the reinstallation is complete, you'll have a clean slate to work with, and you can restore all the files you've backed up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No More Disk Errors on Windows
 
@@ -178,20 +174,6 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Let's look at various methods to repair the disk issue on your Windows device.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/rom-unorganized-to-organized-music-youtubes-magic-for-2024/"><u>[New] From Unorganized to Organized Music Youtube's Magic for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-youtube-star-essential-skills-training/"><u>[Updated] 2024 Approved Become a YouTube Star Essential Skills Training</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-emotional-impact-in-personal-youtube-content/"><u>[Updated] 2024 Approved Crafting Emotional Impact in Personal YouTube Content</u></a></li>
-<li><a href="https://win11.techidaily.com/are-some-of-your-keyboard-keys-not-working-heres-how-to-fix-them-on-windows/"><u>Are Some of Your Keyboard Keys Not Working? Here's How to Fix Them on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-chatbots-maintaining-security-in-your-windows-11-access/"><u>Avoiding Chatbots: Maintaining Security in Your Windows 11 Access</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-classic-directx-titles-with-dxvk-on-windows/"><u>Boosting Classic DirectX Titles with DXVK on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/choosing-between-founders-gpu-and-asus-branded-alternatives/"><u>Choosing Between Founder's GPU & Asus-Branded Alternatives</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-continuous-application-failures-solutions-for-blender-crashes-on-windows-computers/"><u>Fixing Continuous Application Failures: Solutions for Blender Crashes on Windows Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macwinx-hd100/"><u>Mac用WinX HDビデオコンバータの正規販売ページで100%安全なショッピング経験をお楽しみください！</u></a></li>
-<li><a href="https://win11.techidaily.com/1719370951528-xbox-not-launching-fix-it-with-these-tips/"><u>Xbox Not Launching? Fix It with These Tips!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -199,3 +181,27 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] In 2024, Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-djis-sky-high-gameplay-showdown-mavic-air-clashes-with-spark/"><u>[Updated] In 2024, DJI’s Sky-High Gameplay Showdown Mavic Air Clashes with Spark</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-tiktoks-pfp-explained-a-complete-and-concise-guide/"><u>2024 Approved TikTok's PFP Explained A Complete and Concise Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-gt-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme GT 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722083084687-are-you-experiencing-issues-with-chatgpt-heres-how-to-confirm-its-status/"><u>Are You Experiencing Issues with ChatGPT? Here's How to Confirm Its Status</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-insufficient-privilege-error-during-windows-setup/"><u>Combatting Insufficient Privilege Error During Windows Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-no-available-projectors-windows-alert/"><u>Correcting the 'No Available Projectors' Windows Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/deferring-windows-edge-tabs-on-windows-11/"><u>Deferring Windows Edge Tabs on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-resolving-check-pin-error-in-windows-1110/"><u>Essential Techniques for Resolving Check Pin Error in Windows 11/10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023-best-facebook-video-downloader-and-addons-for-firefox/"><u>In 2024, 2023 | Best Facebook Video Downloader And Addons for Firefox</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-system-boot-configurations/"><u>In-Depth Analysis of Windows System Boot Configurations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-discovering-what-sets-iphone-15-pro-max-apart-from-samsung-galaxy-s2n-ultra/"><u>In-Depth Analysis: Discovering What Sets iPhone 15 Pro Max Apart From Samsung Galaxy S2n Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/monitors-unleashed-personalized-themes-for-multitaskers-on-win-1011/"><u>Monitors Unleashed: Personalized Themes for Multitaskers on Win 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/musik-auf-ihrem-iphone-speichern-ohne-itunes-eine-schritt-fur-schritt-anleitung/"><u>Musik Auf Ihrem iPhone Speichern Ohne iTunes: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-glitch-maze-fixing-microsoft-store-errors-on-1011/"><u>Navigating the Glitch Maze: Fixing Microsoft Store Errors on 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-techniques-for-effortless-docx-to-pdf-transfers-in-windows-11/"><u>Proven Techniques for Effortless Docx-to-PDF Transfers in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/yogo-profile-picture-guide-dimensions-in-mm-aspect-ratio-minutes/"><u>YoGo Profile Picture Guide Dimensions in Mm², Aspect Ratio, Minutes</u></a></li>
+<li><a href="https://win11.techidaily.com/your-pathway-to-mastering-windows-boot-selection-process/"><u>Your Pathway to Mastering Windows Boot Selection Process</u></a></li>
+</ul></div>
+

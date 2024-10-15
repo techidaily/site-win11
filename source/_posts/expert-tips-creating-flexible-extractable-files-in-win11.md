@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Creating Flexible Extractable Files in Win11"
-date: 2024-09-12T19:28:45.710Z
-updated: 2024-09-16T20:21:29.847Z
+date: 2024-10-12T17:26:33.677Z
+updated: 2024-10-15T18:11:52.314Z
 tags:
   - windows10
   - windows11
@@ -81,6 +81,14 @@ Now we can get started using IExpress Wizard:
 6. Select the**Create SFX archive** checkbox.  
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Choose a folder to save the SFX archive in and click**Open** .
 9. Input a file name within the**Archive** box.
 10. Press the**OK** button to create your new self-extracting archive.
@@ -91,19 +99,33 @@ Testing the SFX File With 7-ZIP
 
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
 
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Share Your Files Within Self-Extracting SFX Archives
@@ -125,5 +147,26 @@ Testing the SFX File With 7-ZIP
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-tangoing-turquoise-toucan/"><u>[New] Tangoing Turquoise Toucan</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-harnessing-new-filters-on-instagram-a-modern-take-2023-techniques/"><u>[Updated] In 2024, Harnessing New Filters on Instagram A Modern Take (2023 Techniques)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-unparalleled-cpu-speeds-using-our-advanced-ai-generated-liquid-nitrogen-vessel-up-to-3x-faster-than-regular-techniques/"><u>Achieve Unparalleled CPU Speeds Using Our Advanced, AI-Generated Liquid Nitrogen Vessel – Up to 3X Faster than Regular Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-problem-of-an-unsuccessful-discord-update-on-pcs/"><u>Fixing the Problem of an Unsuccessful Discord Update on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/from-zero-to-hero-drawing-mastery-in-win-1011/"><u>From Zero to Hero: Drawing Mastery in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-principles-for-sync-related-sticky-notes-problems-in-w11/"><u>Guiding Principles for Sync-Related Sticky Notes Problems in W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-moto-g34-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Moto G34 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-timeless-images-a-tech-savvy-approach/"><u>In 2024, Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-resetting-your-steam-milestones/"><u>Navigating the Maze: Resetting Your Steam Milestones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-windows-8-movie-maker-like-a-pro-for-2024/"><u>Navigating Windows 8 Movie Maker Like a Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-tablet-stylus-problems-with-windows-os/"><u>Overcoming Tablet Stylus Problems with Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/share-your-story-share-a-spark-top-20-instagram-shots/"><u>Share Your Story, Share a Spark Top 20 Instagram Shots</u></a></li>
+<li><a href="https://win11.techidaily.com/space-optimization-for-local-drives-in-windows-11-no-file-deletion-max-156-chars/"><u>Space Optimization for Local Drives in Windows 11 (No File Deletion) (Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-to-an-organized-workspace-implement-autodelete-on-winos/"><u>The Secret to an Organized Workspace: Implement AutoDelete on WINOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/k-professional-video-quality-with-top-youtube-to-webm-tools/"><u>Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-windows-iscsi-initiators-capabilities/"><u>Unveiling the Windows iSCSI Initiator's Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-without-taskbar-chat-the-consequences-for-you-as-a-user/"><u>Windows 11 Without Taskbar Chat: The Consequences for You as a User?</u></a></li>
+</ul></div>
 

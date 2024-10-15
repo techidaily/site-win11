@@ -1,7 +1,7 @@
 ---
 title: "Cutting Through the Conundrum: Fixer Blocked, Not Broken"
-date: 2024-10-01T20:45:36.737Z
-updated: 2024-10-09T15:10:56.201Z
+date: 2024-10-13T17:21:35.736Z
+updated: 2024-10-15T18:47:33.572Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -59,15 +66,22 @@ To fix this, you can try restarting Cryptographic Services.
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
-![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
-4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
+4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
@@ -84,6 +98,13 @@ To fix this, you can try restarting Cryptographic Services.
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update System Drivers
 
  Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
@@ -97,22 +118,8 @@ To fix this, you can try restarting Cryptographic Services.
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
@@ -132,10 +139,10 @@ To edit and enable the Scripted Diagnostics policy:
 3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
@@ -143,15 +150,16 @@ To edit and enable the Scripted Diagnostics policy:
 5. In the left pane, click on**Scripted Diagnostics** to open its three items.  
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
-![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
-7. Finally, tap on**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
+7. Finally, tap on**Apply** and then**OK** .
 
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
 
@@ -178,14 +186,20 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-unbeatable-range-ultimate-4k-camera-rig-selection/"><u>[New] In 2024, Unbeatable Range Ultimate 4K Camera Rig Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-enable-compact-view-in-file-explorer-on-windows-11/"><u>3 Ways to Enable Compact View in File Explorer on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/8-simple-steps-for-unlocking-your-windows-hello-device/"><u>8 Simple Steps for Unlocking Your Windows Hello Device</u></a></li>
-<li><a href="https://win11.techidaily.com/augment-windows-11-notebook-with-cognitive-companion/"><u>Augment Windows 11 Notebook with Cognitive Companion</u></a></li>
-<li><a href="https://win11.techidaily.com/beginners-tutorial-starting-windows-media-player/"><u>Beginner's Tutorial: Starting Windows Media Player</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-joining/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Joining</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-firefox-browser-crashes-a-step-by-step-guide/"><u>How to Fix Firefox Browser Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personal-vlogs-that-resonate-deeply-with-viewers/"><u>In 2024, Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-steps-when-your-igfxem-driver-isnt-responding-correctly/"><u>Solution Steps When Your igfxEM Driver Isn't Responding Correctly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-why-integrate-hdr-into-your-film-and-video-workflow/"><u>[New] In 2024, Why Integrate HDR Into Your Film and Video Workflow</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-guide-the-ultimate-list-of-video-converters/"><u>[Updated] In 2024, Guide The Ultimate List of Video Converters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-latest-trends-in-video-loop-production/"><u>[Updated] Instagram's Latest Trends in Video Loop Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-online-selections-for-glossy-typography-in-3d/"><u>2024 Approved Prime Online Selections for Glossy Typography in 3D</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-clearing-wins-cache-memory/"><u>Efficiently Clearing Win's Cache Memory</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-your-windows-11-defenses-adding-new-filter-options-to-context-menu/"><u>Fine-Tune Your Windows 11 Defenses: Adding New Filter Options to Context Menu</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guide-complet-comment-effacer-facilement-des-fichiers-volumineux-dans-windows-781011/"><u>Guide Complet : Comment Effacer Facilement Des Fichiers Volumineux Dans Windows 7/8/10/11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-20-best-practices-for-facebook-video-advertising/"><u>In 2024, 20 Best Practices for Facebook Video Advertising</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-c67-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme C67 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insider-secrets-discovering-where-your-programs-take-root/"><u>Insider Secrets: Discovering Where Your Programs Take Root</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-woes-resolve-error-x80072f30-easily/"><u>Microsoft Store Woes, Resolve Error X80072F30 Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-mute-read-out-mode-on-word-software/"><u>Remedying Mute Read-Out Mode on Word Software</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-git-workflow-github-desktop-and-windows-1011/"><u>Streamlining Your Git Workflow: GitHub Desktop & Windows 10/11</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unraveling-compliance-challenges-the-impact-of-gdpr-on-blockchain-innovations-explored-abbyy-blog/"><u>Unraveling Compliance Challenges: The Impact of GDPR on Blockchain Innovations - Explored | ABBYY Blog</u></a></li>
 </ul></div>
 

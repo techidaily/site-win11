@@ -1,7 +1,7 @@
 ---
 title: Transform Desktop Experience with Smart WMLayouts
-date: 2024-10-07T20:41:27.256Z
-updated: 2024-10-08T17:05:11.023Z
+date: 2024-10-12T20:58:17.376Z
+updated: 2024-10-15T21:24:15.099Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
  Install FancyWM from its Microsoft Store page, and then launch it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Start Moving Windows With Your Keyboard With FancyWM
@@ -62,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
  Interactions with FancyWM start with its activation hotkey, by default mapped to the **Shift** \+ **Windows key** combination, followed by another key. If you only press the initial activation hotkey, FancyWM will show you a panel with the actions you can perform at any time.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Managing Window Groups
 
  FancyWM allows you to create horizontally, vertically, and stacked groups of windows and combine them on your screen. However, you can't create horizontal and vertical "sub-groups" within a stacked group, and vice-versa.
@@ -69,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 ![FancyWM Horizontal Vertical Layout Combination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-horizontal-vertical-layout-combination.jpg)
 
  Press FancyWM's activation hotkey followed by **V**, **H**, or **S** to turn the active window into a vertical, horizontal, or stacked window group. To add more windows to a group, drag and drop them where you want them to appear.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tweaking Your Layouts
 
@@ -104,16 +110,10 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 ![FancyWM Floating Microsoft Edge Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-floating-microsoft-edge-window.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To remove a window from a tiled layout and have it freely float on your screen, use FancyWM's **activation hotkey** followed by **F**.
@@ -136,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 ![FancyWM Tray Icon Menu Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-tray-icon-menu-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you like how it upgrades window management and decide to keep using it, on the **General** page, under **Startup**, you can set FancyWM to **Run automatically at system startup**. Also, enable **Run with administrator privileges** if you want it to manage any windows with elevated privileges (otherwise, it won't "have the rights" to do so).
@@ -153,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 ![FancyWM Settings Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-startup.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make FancyWM feel zippier, especially on older or underpowered PCs, scroll down to the **Window movement** section and turn off **Animate window movement**. From the same spot, you can set FancyWM to **Automatically activate the moved window**.
@@ -167,26 +167,26 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 ![FancyWM Settings Window Gap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-window-gap.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Are you using more than one monitor? You can choose from the **Displays** page if FancyWM should tile windows on all of them.
 
 ![FancyWM Settings Displays](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-displays.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You don't like FancyWM's default shortcuts, or they clash with other software you're using? Change them on the **Keybindings** page.
 
 ![FancyWM Settings Keybinding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-keybinding.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As its name implies, from the **Rules** page, you can "tell" FancyWM to skip managing particular windows and have them always **float** (until you manually "tile them").
@@ -194,10 +194,10 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 ![FancyWM Settings Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-rules.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you check out FancyWM's **Advanced** Settings page, you'll find AutoHotkey. This lets you create complex scripts for managing your windows.
@@ -214,25 +214,6 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
  The "tiling" approach is regaining popularity in the world of Linux but, tools like FancyWM bring window tiling to Microsoft's Windows. Here's how it can help you keep your desktop clean and organized and, as a bonus, boost your productivity.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-harnessing-the-power-of-short-videos-for-maximum-income/"><u>[New] 2024 Approved Harnessing the Power of Short Videos for Maximum Income</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-firefox-screen-recorders-and-add-ons/"><u>[Updated] Firefox Screen Recorders and Add-Ons</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-cinematic-frames-a-3-way-insta-guide/"><u>[Updated] In 2024, Mastering Cinematic Frames A 3-Way Insta Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>2024 Approved Perfecting Designs A Guide to Cutting Out Background in Figma</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-new-potentials-iphone-x-secrets-unveiled/"><u>2024 Approved Unlock New Potentials IPhone X Secrets Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-unforeseen-security-issues-in-win10win11/"><u>Counteracting Unforeseen Security Issues in Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-11-the-intricacies-of-its-file-system/"><u>Demystifying Windows 11: The Intricacies of Its File System</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hero-5-in-action-an-in-depth-analysis/"><u>Hero 5 in Action An In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-videography-using-youtube-to-boost-visual-clarity/"><u>In 2024, Transform Your Videography Using YouTube to Boost Visual Clarity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/meet-the-new-wave-exciting-laptops-from-ifa-2023/"><u>Meet the New Wave - Exciting Laptops From IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-issues-of-not-allowing-file-writes-on-windows-11/"><u>Overcoming Issues of Not Allowing File Writes on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/silent-speakers-unveil-audio-steps-immediately/"><u>Silent Speakers? Unveil Audio Steps Immediately</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-document-conversion-errors-print-to-pdf-on-windows-10-and-11/"><u>Solving Document Conversion Errors: Print to PDF on Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/syncing-calendars-ifttt-meets-microsoft-to-do/"><u>Syncing Calendars: IFTTT Meets Microsoft To-Do</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -240,3 +221,27 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-boost-your-visual-impact-essential-tricks-for-pixlr-pros-for-2024/"><u>[New] Boost Your Visual Impact Essential Tricks for Pixlr Pros for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shrinking-or-enlarging-images-on-your-iphone-effortlessly/"><u>[New] Shrinking or Enlarging Images on Your iPhone Effortlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[Updated] In 2024, Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/creating-professional-gifs-with-top-photoshop-substitutes/"><u>Creating Professional GIFs with Top Photoshop Substitutes</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-conflicts-causing-print-problems/"><u>Demystifying Conflicts Causing Print Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/expert-advice-creating-and-uploading-vr-videos-to-boost-fb-visibility/"><u>Expert Advice Creating & Uploading VR Videos to Boost FB Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-microsoft-teams-video-glitch/"><u>Fix Microsoft Teams Video Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-windows-reboot-options/"><u>Guiding Through Windows Reboot Options</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-boost-your-classic-game-experience-adding-achievements-with-retroarch/"><u>How to Boost Your Classic Game Experience: Adding Achievements with Retroarch</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-smart-7-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix Smart 7 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-complexity-of-system-recovery-in-windows-11/"><u>Navigating Through the Complexity of System Recovery in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-to-disregard-the-your-license-will-end-alert/"><u>Procedures to Disregard the Your License Will End Alert</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-compreehers-guide-to-srt-file-flexibility/"><u>The Compreeher’s Guide to SRT File Flexibility</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-failed-windows-update-error-0x80242016/"><u>Troubleshoot Failed Windows Update (Error 0X80242016)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-token-misreference-issue-in-win11-and-10/"><u>Troubleshooting Token Misreference Issue in Win11 & 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-solution-for-d3dx941dll-not-found-a-comprehensive-guide/"><u>Ultimate Solution for 'd3dx9_41.dll Not Found' - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-an-applications-path-in-windows-marketplace/"><u>Unblocking an Application's Path in Windows Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/win10win11-restoring-write-access-to-corrupted-folders/"><u>Win10/Win11: Restoring Write Access to Corrupted Folders</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unplugged Windows 11: A Step-by-Step Tutorial"
-date: 2024-10-07T08:51:45.786Z
-updated: 2024-10-09T05:10:00.930Z
+date: 2024-10-10T20:22:08.688Z
+updated: 2024-10-15T22:50:41.116Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  Here are a few workarounds to install Windows 11 Home without an active Internet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Bypass Out-of-the-Box-Experience (OOBE) Internet Requirement
 
  You can bypass the Let’s connect you to a network screen using the OOBE \\BYPASSNRO command in Command Prompt.
@@ -59,34 +52,22 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 3. When the **Windows Setup** dialog appears, select your preferred language, time, and keyboard input layout and click **Next**.  
 ![Windows-11-setup-screen-install-now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-screen-install-now.jpg)
 4. Click **Install Now.**  
-![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
-5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
+5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
 
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
 3. Select **Custom: Install Windows Only (Advanced).**  
 ![Windows 11 setup select installation drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-drive.jpg)
 4. Select the installation drive and click **Next**. Wait for Windows to finish installation and restart your computer.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. In the setup screen, select your region and keyboard layout.
 
@@ -101,14 +82,14 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -122,10 +103,26 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 2. In the Command Prompt window, type **taskmgr** and hit enter to launch **Task Manager.**  
 ![open task manager command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-task-manager-command-prompt.png)
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **More Details** to open Task Manager in full view.
 5. In the **Processes** tab, locate **Network Connection Flow.** Use the search bar in Task Manager to find the Network Connection Flow process.  
 ![Windows 11 setup select installation task manager kill network connection flow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-task-manager-kill-network-connection-flow.jpg)
 6. Select the **Network Connection Flow** process and then click the **End task** button. Wait for the process to end and then close the Task Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Type **exit** in the Command Prompt and hit enter.
 
  Now you will be back in the setup wizard. It will show some loading animation and then proceed to the next step. Here enter your name and password to [create a local user account in Windows 11](http://www.makeuseof.com/ways-to-create-local-user-account-windows/) and complete the setup.
@@ -150,16 +147,10 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
  If successful, Windows 11 will skip the current screen and move to the next step. Once you're past this step, you can create a local user account and then complete the setup.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Completing the Windows 11 Setup Without Internet Access
@@ -170,27 +161,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates/"><u>[Updated] In 2024, Amplifying Your Brand The FameBit Approach to YouTube Affiliates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-study-motion-without-contact/"><u>2024 Approved In-Depth Study Motion Without Contact</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-policy-settings-with-windows-11-expertise/"><u>Accelerate Policy Settings with Windows 11 Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-virtualization-setting-up-win11-with-vmware-17-player/"><u>Accelerating Virtualization: Setting Up Win11 with VMware 17 Player</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-cannot-locate-gpeditmsc-error-in-windows/"><u>Addressing the Cannot Locate Gpedit.msc Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/amd-graphics-update-essentials-for-windows-11-users/"><u>AMD Graphics Update Essentials for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-save-location-blunders-on-windows-devices/"><u>Avoiding Save Location Blunders on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-productivity-with-widget-integration-in-windows-11/"><u>Boosting Productivity with Widget Integration in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/breached-bytebandit-ponder-the-path-for-a-possible-pivot/"><u>Breached ByteBandit: Ponder the Path for a Possible Pivot</u></a></li>
-<li><a href="https://win11.techidaily.com/1719285734353-breathe-life-back-into-your-computers-print-command-wwinplusp/"><u>Breathe Life Back Into Your Computer's Print Command (WWin+P)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-g54-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola G54 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-recover-and-fix-broken-game-installations-on-windows-machines-2aturage/"><u>How to Recover and Fix Broken Game Installations on Windows Machines - 2Aturage</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oppo-a58-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Oppo A58 4G</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-safe-and-sound-securing-your-fb-live-conversations-on-screen/"><u>In 2024, Safe & Sound Securing Your FB Live Conversations on Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/understanding-the-spectrum-expert-color-calibration-for-2024/"><u>Understanding the Spectrum Expert Color Calibration for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/windows-1011-grab-your-desk-view/"><u>Windows 10/11 Grab Your Desk View</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -198,3 +168,27 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>[New] In 2024, Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-zoom-and-cut-companion/"><u>[Updated] Expert Zoom and Cut Companion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero4-black-vs-hero4-silver/"><u>[Updated] Hero4 Black Vs Hero4 Silver</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfect-tape-mac-based-recording/"><u>2024 Approved Perfect Tape Mac-Based Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-another-users-windows-microsoft-error/"><u>Decoding Another User's Windows Microsoft Error</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-record-calls-on-windows/"><u>How to Record Calls on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-se-2022-by-drfone-ios/"><u>How To Unlock A Found iPhone SE (2022)?</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-countermeasures-to-address-winoffice-operational-failure/"><u>Immediate Countermeasures to Address WinOffice Operational Failure</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-right-to-appeal-removed-videos-from-facebooks-domain/"><u>In 2024, The Right to Appeal Removed Videos From Facebook's Domain</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/les-jours-de-la-semaine-en-francais/"><u>Les Jours De La Semaine en Français</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-remote-access-failed-in-winvpn/"><u>Resolving Remote Access Failed in WinVPN</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rtp-unable-to-run-nvidia-graphics-games-our-expertise-can-solve-it/"><u>RTP: Unable to Run Nvidia Graphics Games? Our Expertise Can Solve It</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-for-winerror-0x80072746-in-microsoft-mail/"><u>Swift Solution for WinError 0X80072746 in Microsoft Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thinkpad-enhancement-tips-utilizing-the-thunderbolt-3-external-hub-driver/"><u>ThinkPad Enhancement Tips: Utilizing the Thunderbolt 3 External Hub Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-active-directory-printer-issues-on-modern-oses/"><u>Troubleshooting Active Directory Printer Issues on Modern OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-file-share-problems-with-geforce-experience/"><u>Troubleshooting File-Share Problems with GeForce Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-with-elevated-cmd/"><u>Unlock Full Potential with Elevated CMD</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/usas-best-budget-friendly-karaoke-destinations-for-unforgettable-singing-adventures-under-150/"><u>USA's Best Budget-Friendly Karaoke Destinations for Unforgettable Singing Adventures Under $150</u></a></li>
+</ul></div>
+

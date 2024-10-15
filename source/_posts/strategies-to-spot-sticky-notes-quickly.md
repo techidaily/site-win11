@@ -1,7 +1,7 @@
 ---
 title: Strategies to Spot Sticky Notes Quickly
-date: 2024-10-05T05:56:27.077Z
-updated: 2024-10-08T21:15:53.930Z
+date: 2024-10-09T22:11:46.030Z
+updated: 2024-10-15T16:03:12.636Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -65,20 +72,20 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
@@ -86,26 +93,13 @@ To pin Sticky Notes using DeskPins:
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -126,22 +120,20 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/4-ways-to-enable-or-disable-ntfs-file-compression-in-windows-11/"><u>4 Ways to Enable or Disable NTFS File Compression in Windows 11</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/8-apps-for-changing-the-createdmodified-date-on-a-file-on-windows/"><u>8 Apps for Changing the Created/Modified Date on a File on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-mouse-dynamics-for-a-more-natural-response-in-win-1011/"><u>Adjusting Mouse Dynamics for a More Natural Response in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/administrative-task-mastery-initiating-task-manager-in-win11/"><u>Administrative Task Mastery: Initiating Task Manager in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-the-new-developer-landscape/"><u>AI and the New Developer Landscape</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-your-keyboard-setup-with-windows-11/"><u>Automate Your Keyboard Setup with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-to-overcome-steam-sync-error-on-windows/"><u>Best Practices to Overcome Steam Sync Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-human-interface-ai-in-windows-tomorrow/"><u>Beyond Human Interface: AI in Windows Tomorrow</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-productivity-customizing-hotkey-behavior/"><u>Boost Productivity: Customizing Hotkey Behavior</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-techniques-to-optimize-the-quick-menu-on-your-android-device/"><u>Essential Techniques to Optimize the Quick Menu on Your Android Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/meta-questplus-revolutionizes-vr-entertainment-serving-as-a-one-stop-game-pass-solution/"><u>Meta Quest+ Revolutionizes VR Entertainment, Serving as a One-Stop Game Pass Solution!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-cellphone-options-the-best-plans-for-older-adults/"><u>Navigating Cellphone Options: The Best Plans for Older Adults</u></a></li>
-<li><a href="https://techtrends.techidaily.com/perfect-display-setup-guide-fine-tuning-your-samsung-qleds-picture-quality/"><u>Perfect Display Setup Guide: Fine-Tuning Your Samsung QLED's Picture Quality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-huawei-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Huawei Phone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/winning-strategies-against-troublesome-code-28-errors-in-windows-systems/"><u>Winning Strategies Against Troublesome Code 28 Errors in Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-walkthrough-for-console-gaming-pc-recordings/"><u>[New] In 2024, The Complete Walkthrough for Console Gaming PC Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-creme-de-la-creme-of-fluid-interactive-games/"><u>[Updated] 2024 Approved The Crème De La Créme of Fluid Interactive Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-transforming-views-into-revenue/"><u>2024 Approved The Ultimate Guide to Transforming Views Into Revenue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-navigating-pokemon-unite-on-the-personal-computer/"><u>A Beginner’s Guide to Navigating ‘Pokémon Unite’ on the Personal Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-fixes-how-to-bypass-the-inability-to-rename-directories-in-win-11/"><u>Expert Fixes: How to Bypass the Inability to Rename Directories in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/expertise-at-your-fingertips-powerrename-capabilities/"><u>Expertise at Your Fingertips: PowerRename Capabilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/exploring-the-metaverse-and-omniverse-distinctions/"><u>Exploring the Metaverse and Omniverse Distinctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/going-unplugged-top-techniques-for-cable-free-online-surfing/"><u>Going Unplugged: Top Techniques for Cable-Free Online Surfing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/propagate-your-content-with-vimeo-links/"><u>Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-non-running-print-spooler-on-windows-devices/"><u>Resolving Non-Running Print Spooler on Windows Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-pc-instability-with-nox-player-a-guide-to-preventing-frequent-crashes/"><u>Stop PC Instability with Nox Player: A Guide to Preventing Frequent Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ins-and-outs-of-windows-11-calendar-interface/"><u>The Ins and Outs of Windows 11 Calendar Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-correctly-handle-windows-update-failure-error-0x80070003/"><u>Tips to Correctly Handle Windows Update Failure Error 0X80070003</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-stuck-exe-files-in-windows-systems/"><u>Unlocking Stuck .exe Files in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-characters-with-win11s-tool/"><u>Unraveling Characters with Win11's Tool</u></a></li>
 </ul></div>
 

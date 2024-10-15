@@ -1,7 +1,7 @@
 ---
 title: Master the Basics of PC Cleanup with These 12 Programs
-date: 2024-09-16T08:11:43.077Z
-updated: 2024-09-16T19:57:04.623Z
+date: 2024-10-13T17:00:46.003Z
+updated: 2024-10-15T16:59:07.474Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
  When[we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow[our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Crappy PC Cleaners
@@ -72,11 +72,25 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![uTorrent Download Page 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/uTorrent-Download-Page-2021.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  uTorrent was once considered the gold standard of torrenting software. However, it's had a host of issues over the years that make it untrustworthy now.
 
  Aside from having ads crammed into the interface, uTorrent also includes offers for other software tools, which is annoying. Its worst offense came in 2015, when the app was found to bundle in cryptocurrency mining software without letting users know. This wasted your system resources in the background to make money for the company, which allegedly gave some to charity.
 
  There's no reason to bother with uTorrent. We think[qBittorrent](https://www.qbittorrent.org/) is[the best torrent client](https://www.makeuseof.com/tag/best-torrent-clients/) , as it's free of all this nonsense.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Adobe Flash Player and Shockwave Player
 
@@ -92,23 +106,9 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  Modern versions of Chrome and Firefox don't support it, which means that[Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Microsoft Silverlight
 
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at[W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
@@ -120,18 +120,18 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
  Have a look in your programs list for toolbars like the Bing Bar, Google Toolbar, Ask Toolbar, Yahoo! Toolbar, or the Babylon Toolbar. If you find any of them, uninstall them. After that, review the installed add-ons or extensions in your browsers. Make sure you recognize and review everything there, as even trustworthy extensions can be sold to shady companies.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Coupon Printer for Windows
 
  The purpose of Coupon Printer for Windows is to provide access to deals from Coupons.com. However, since this software is typically found bundled in with other programs, chances are that you didn't want to install it in the first place.
 
  If you're a diehard Coupons.com user, you can leave this one installed so you can access its discounts. Everyone else should uninstall this program and use another coupon site that doesn't require installing anything.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Manufacturer Bloatware
 
@@ -147,15 +147,28 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
  Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our[Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our[overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 12\. WinRAR
@@ -183,5 +196,17 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-silent-story-consumers-leading-anonymity-apps/"><u>[New] 2024 Approved Silent Story Consumers Leading Anonymity Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-behind-the-scenes-of-carminatis-youtube-earnings/"><u>[New] In 2024, Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-power-of-persuasion-maximizing-facebook-ad-performance-through-animation-for-2024/"><u>[New] The Power of Persuasion Maximizing Facebook Ad Performance Through Animation for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools-for-2024/"><u>Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-updates-on-windows-1011-without-administrative-rights/"><u>Easing Updates on Windows 10/11 without Administrative Rights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-speed-difference-understanding-why-chatgpt-4-lags-behind-its-predecessor-chatgpt-35/"><u>Exploring the Speed Difference: Understanding Why ChatGPT-4 Lags Behind Its Predecessor, ChatGPT-3.5</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-challenge-winning-back-manager-tool-access-on-windows-11/"><u>Overcoming the Challenge: Winning Back Manager Tool Access on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/power-uninstalling-printers-on-windows-11-os/"><u>Power Uninstalling Printers on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-11s-error-0x0000011b/"><u>Remedy for Windows 11'S Error 0X0000011B</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-x-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone X</u></a></li>
+</ul></div>
 

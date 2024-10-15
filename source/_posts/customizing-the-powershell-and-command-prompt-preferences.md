@@ -1,7 +1,7 @@
 ---
 title: Customizing the PowerShell & Command Prompt Preferences
-date: 2024-10-07T00:55:14.960Z
-updated: 2024-10-09T04:06:14.022Z
+date: 2024-10-14T22:15:11.858Z
+updated: 2024-10-15T19:44:32.894Z
 tags:
   - windows10
   - windows11
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
  Alternatively, you can also reset the Terminal app on your PC. If you are interested in doing that, check our guide on [how to reset the Windows Terminal settings to their defaults in Windows](https://www.makeuseof.com/windows-11-reset-terminal-settings/).
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Default Terminal App Using Windows Console Host Properties
@@ -67,10 +61,17 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -84,20 +85,13 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
 
@@ -107,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  Setting a terminal as the default app for Command Prompt and PowerShell is fairly straightforward. Here are some methods you can use to make the switch.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-balancing-bandwidth-for-obs-streams/"><u>[New] 2024 Approved Balancing Bandwidth for OBS Streams</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-persona-5-strikers-black-screen/"><u>[Solved] Persona 5 Strikers Black Screen</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-techs-leading-edge-in-video-capturing-software/"><u>[Updated] In 2024, Tech's Leading Edge in Video Capturing Software</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-secure-windows-scripting-navigating-execution-policies/"><u>Activate Secure Windows Scripting: Navigating Execution Policies</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-windows-installation-process-via-registry/"><u>Altering Windows Installation Process via Registry</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-disk-capacity-7-affordable-tricks-for-windows-enthusiasts/"><u>Boosting Disk Capacity: 7 Affordable Tricks for Windows Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/1719336940768-cant-open-chrome-try-these-win11-solutions-now/"><u>Can't Open Chrome? Try These Win11 Solutions Now.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-flv-video-editing-software-top-picks/"><u>Updated In 2024, Free FLV Video Editing Software Top Picks</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -127,3 +108,25 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-simplify-aquatic-footage-7-key-shooting-strategies/"><u>[Updated] In 2024, Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic5-ultimate-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic5 Ultimate? Try These Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-look-at-lowest-and-highest-priced-cloud-options-2024/"><u>In-Depth Look at Lowest and Highest Priced Cloud Options, 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-oracles-jvm-in-windows-11-pro-edition/"><u>Integrating Oracle's JVM in Windows 11 Pro Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/refresh-your-screen-writers-with-a-trio-of-tricks/"><u>Refresh Your Screen' Writers with a Trio of Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-update-issues-with-error-code-0x30017-in-windows/"><u>Remedying Update Issues with Error Code 0X30017 in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-5-high-quality-audio-headphones/"><u>Select 5 High-Quality Audio Headphones</u></a></li>
+<li><a href="https://win11.techidaily.com/smoothening-windows-steam-audio-performance/"><u>Smoothening Windows Steam Audio Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-re-register-bluetooth-in-pcs-device-manager/"><u>Steps to Re-Register Bluetooth in PC's Device Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-turn-on-content-transfer-within-windows-11s-shielded-mode-microsoft-edge-app-guard/"><u>Steps to Turn On Content Transfer Within Windows 11'S Shielded Mode: Microsoft Edge App Guard</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-windows-endless-file-explorer-opens/"><u>Taming Windows' Endless File Explorer Opens</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-potential-essential-tips-for-winning-with-wsl-2/"><u>Unlock Your Potential: Essential Tips for Winning with WSL 2</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-video-watermark-remover-and-adder-software-top-5/"><u>Updated In 2024, Free Video Watermark Remover and Adder Software Top 5</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-your-login-strategy-move-from-a-pin-to-a-password-sign-in/"><u>Upgrading Your Login Strategy: Move From a PIN to a Password Sign-In</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Bulk Folder Creation on Windows 10 & 11
-date: 2024-09-09T23:08:40.428Z
-updated: 2024-09-17T01:07:15.114Z
+date: 2024-10-14T18:25:16.966Z
+updated: 2024-10-15T20:21:56.795Z
 tags:
   - windows10
   - windows11
@@ -82,8 +82,24 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 md "MUOJan"\"Windows" "MUOFeb"\"Android"`  
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
 7. Click **OK** and close the Notepad.
@@ -112,19 +128,20 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
@@ -135,8 +152,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
  There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,3 +159,27 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-behind-the-screen-essential-post-vidcon-gatherings/"><u>[New] 2024 Approved Behind the Screen Essential Post-VidCon Gatherings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-recording-for-a-greener-planet/"><u>[New] Cutting Edge Recording for a Greener Planet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fading-techniques-for-aural-balance-for-2024/"><u>[Updated] Fading Techniques for Aural Balance for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-balancing-act-a-comprehensive-guide-to-drone-gimbals/"><u>2024 Approved Balancing Act A Comprehensive Guide to Drone Gimbals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-tutorial-navigating-mobizen-recording-features/"><u>2024 Approved Essential Tutorial Navigating Mobizen Recording Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-image-capture-understanding-auto-and-smart-hdr-tech-for-2024/"><u>Cutting-Edge Image Capture Understanding Auto and Smart HDR Tech for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-gaming-how-dxvk-elevates-playback-in-windows/"><u>Decoding Gaming: How DXVK Elevates Playback in Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/economic-strategies-for-youtube-marketing-for-2024/"><u>Economic Strategies for YouTube Marketing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-dormant-usb-on-your-computer-windows-style/"><u>How to Revive Dormant USB on Your Computer, Windows Style</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-reverse-films-on-android/"><u>In 2024, The Ultimate Guide to Reverse Films on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-explores-high-dynamic-range-photography-for-2024/"><u>IPhone Explores High Dynamic Range Photography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-auto-hdr-a-practical-approach-for-w11-users/"><u>Mastering Auto HDR: A Practical Approach for W11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-non-terminated-processes-windows/"><u>Quick Guide to Fixing Non-Terminated Processes Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/snapping-a-snapshot-with-windows-11s-toolkit/"><u>Snapping a Snapshot with Windows 11'S Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-closed-nvidia-cp-window/"><u>Strategies for Addressing Closed NVidia CP Window</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-13-best-free-dvd-player-software-compatible-with-windows-11/"><u>Top 13 Best Free DVD Player Software Compatible with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-voice-chats-in-valorant-windows/"><u>Troubleshooting Unresponsive Voice Chats in Valorant (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-device-control-pre-and-post-sleep-states/"><u>Unveiling Device Control Pre and Post-Sleep States</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-top-windows-based-nintendo-switch-simulators/"><u>Winning Strategies: Top Windows-Based Nintendo Switch Simulators</u></a></li>
+</ul></div>
+

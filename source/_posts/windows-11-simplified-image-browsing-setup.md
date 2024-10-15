@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Simplified Image Browsing Setup"
-date: 2024-10-07T06:21:31.427Z
-updated: 2024-10-08T20:24:10.379Z
+date: 2024-10-12T17:04:00.481Z
+updated: 2024-10-15T20:45:44.291Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
  The Gallery section displays images from the Pictures and OneDrive folders and lists them by date. It has nice, rounded corners around each image in the Gallery section, which makes it feel like a part of the overall Windows 11 design. It appears right below the Home option in the left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Gallery in File Explorer in Windows 11
@@ -63,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 ![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
 5. Now, type the following command and press the enter key:  
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 vivetool /enable /id:41040327
 6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
 vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id:41969252 vivetool /enable /id:42922424 vivetool /enable /id:42295138
@@ -84,13 +71,20 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 8. Restart your computer for the changes made by Vivetool to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View the Gallery in File Explorer
 
@@ -98,14 +92,14 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
 
- The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
@@ -125,18 +119,18 @@ To remove a folder from Gallery, repeat the following steps:
 ![Removing a Folder from Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/removing-a-folder-from-gallery-in-windows-file-explorer.jpg)
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Problems With the Gallery Section in Windows File Explorer
 
  The current preview of the Gallery feature is far from perfect. Firstly, the section works well in finding and categorically listing all the images from the included folders. But the images, despite being big, appear hazy. What’s the point of including a section if the images aren’t visible clearly?
 
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
 
@@ -157,18 +151,22 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-consolidating-your-youtube-video-collection/"><u>[New] In 2024, Guide to Consolidating Your YouTube Video Collection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-comprehensive-approach-to-linking-your-tiktok-profile-for-2024/"><u>[New] The Comprehensive Approach to Linking Your TikTok Profile for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-fade-music-on-windowsmac/"><u>2024 Approved How to Fade Music on Windows/Mac</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone SE (2020)? How to Fix it?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/latency-less-viewing-optimizing-winx-media-with-these-fixes/"><u>Latency-Less Viewing: Optimizing WinX Media with These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-inactive-mail-signals-for-outlook-users/"><u>Mending Inactive Mail Signals for Outlook Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-your-logitech-wireless-clicker-a-comprehensive-troubleshooting-approach/"><u>Reviving Your Logitech Wireless Clicker: A Comprehensive Troubleshooting Approach</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-complete-users-manual-on-durecorder/"><u>The Complete User’s Manual on DuRecorder</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreezing-gaming-combat-0x00000001-on-pcs/"><u>Unfreezing Gaming: Combat 0X00000001 on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-windows-drives-c-and-d/"><u>Unraveling the Mystery of Windows Drives (C & D)</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-innovation-four-revolutionary-updates-for-paint/"><u>Unveiling Innovation: Four Revolutionary Updates for Paint</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-vocal-ensemble-in-the-digital-age-tiktok-edition/"><u>[New] 2024 Approved Vocal Ensemble in the Digital Age TikTok Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-secrets-to-streamlining-lone-broadcasts-a-practical-guide/"><u>[New] In 2024, Secrets to Streamlining Lone Broadcasts A Practical Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-lineup-essential-bd-software-free-to-pay-on-windows-macos/"><u>[New] Premium Lineup Essential BD Software (Free to Pay) on Windows, macOS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-s23plus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy S23+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-not-working-heres-what-you-need-to-know-and-how-to-get-it-fixed-quickly/"><u>Corsair Keyboard Not Working? Here's What You Need to Know & How to Get It Fixed Quickly!</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-video-codecs-making-an-informed-decision-on-windows/"><u>Evaluating Video Codecs: Making an Informed Decision on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-for-identifying-your-computers-disk-type-on-windows/"><u>Expert Techniques for Identifying Your Computer's Disk Type on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-hardware-review-guide/"><u>Exploring Digital Innovations with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-39-sound-driver-issue-solved/"><u>Fix Code 39 Sound Driver Issue [SOLVED]</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-iphones-mapping-with-your-windows-pc/"><u>Harmonizing iPhone's Mapping with Your Windows PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/million-visioners-dissecting-the-money-behind-the-numbers/"><u>Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-mail-missteps-solutions-for-error-x/"><u>Navigating Through Mail Missteps: Solutions for Error X</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-non-functional-netflix-windows-app/"><u>Repairing Non-Functional Netflix Windows App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionary-fixes-to-combat-low-fps-and-hitching-issues-in-the-division-2-expert-tips/"><u>Revolutionary Fixes to Combat Low FPS & Hitching Issues in The Division 2: Expert Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-unknown-hardware-in-windows-1110/"><u>Steps to Solve Unknown Hardware in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1011-failure-codes/"><u>Troubleshooting Windows 10/11 Failure Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-hardware-reserved-ram/"><u>Understanding Windows: Hardware Reserved RAM</u></a></li>
 </ul></div>
 

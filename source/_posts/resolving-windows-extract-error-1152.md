@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows' Extract Error 1152
-date: 2024-10-07T21:49:55.919Z
-updated: 2024-10-08T16:25:06.671Z
+date: 2024-10-09T22:59:13.250Z
+updated: 2024-10-15T19:19:44.346Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  This error can feasibly occur because of an issue with the downloaded installer file. Download process errors can corrupt files. So, try downloading the same setup file again, preferably from a different website source if you can. Then right-click the new installer file and select to run it with administrative rights.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set Full Control Permissions for the Temp Folder
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 1. Go to "C:\\Windows" in File Explorer, then right-click on the **temp** directory in the Windows folder and select **Properties**.
 2. ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option5.jpg)
 3. Select **Security** within the tab bar.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click on the **Edit** button to view a permission window.  
 ![The Edit button on the temp Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button.jpg)
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  If the **Security** tab says you need read permissions, click **Advanced** \> **Change**. Input **Everyone** in the group user box, as instructed above, select **System** on the Advanced Security window, and press the **Add** button. That will bring up another Select User or Group window in which you must input **Everyone** again. Then select the **Full control** checkbox from there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Clear the Temporary Files Folder
 
  Corrupted data in the Temp folder is also a known cause of error 1152\. You can address such a cause by clearing the data in that folder. There are a few ways you can do that, but erasing data in that folder with the Disk Cleanup tool is recommended.
@@ -76,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The Temporary files checkbox in the Disk Clean-up tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/temporary-files-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
@@ -91,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![The Hide all Microsoft services checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-all-microsoft-services-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the Windows Software You Need Again
@@ -103,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-live-setup-in-minutes/"><u>[New] Instagram Live Setup in Minutes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-pursuit-of-clarity-with-benq-sw320s-4k-screen/"><u>[Updated] In Pursuit of Clarity with BenQ SW320's 4K Screen</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-system32-folder-on-windows-11/"><u>Accessing System32 Folder on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-productivity-with-these-8-window-study-secrets/"><u>Boost Productivity with These 8 Window Study Secrets</u></a></li>
-<li><a href="https://win11.techidaily.com/capture-notes-effortlessly-on-windows-11/"><u>Capture Notes Effortlessly on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/code-of-shadows-mastering-invisibles-in-win11/"><u>Code of Shadows: Mastering Invisibles in Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode Screen?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>New Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -123,3 +116,25 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-setup-guide-to-capture-high-quality-video-using-logitech-camera/"><u>[New] In 2024, Expert Setup Guide to Capture High-Quality Video Using Logitech Camera</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-ensure-accurate-game-saves-with-fbx-recorder/"><u>[New] In 2024, How to Ensure Accurate Game Saves with FBX Recorder</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-optimal-choices-for-endless-data-preservation/"><u>[Updated] 2024 Approved Optimal Choices for Endless Data Preservation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-beginners-tutorial-on-nintendo-switch-screenshotting-and-sharing-techniques/"><u>A Beginner's Tutorial on Nintendo Switch Screenshotting & Sharing Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-hp-chromebook-11-blending-academics-workloads-and-leisure-seamlessly/"><u>Comprehensive Review of HP Chromebook 11: Blending Academics, Workloads, and Leisure Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-audio-error-xc00d36b4-in-win10-and-11/"><u>Eliminating Audio Error XC00D36B4 in Win10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-user-experience-optimizing-windows-pins/"><u>Enhance User Experience: Optimizing Windows PINs</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-efficiently-undoing-changes-with-system-restore/"><u>Expert Tips for Efficiently Undoing Changes with System Restore</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-google-maps-a-windows-users-manual/"><u>Integrating Google Maps: A Windows User's Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-iomap64sys-blue-screen-in-win108/"><u>Mastering Fixes for IOMap64.sys Blue Screen in Win10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-graphics-driver-updates-for-amd-windows-11/"><u>Navigating the Maze of Graphics Driver Updates for AMD, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-microsoft-teams-experience-navigating-through-windows-error-80080300/"><u>Seamless Microsoft Teams Experience: Navigating Through Windows Error 80080300</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-steam-ui-module-failure-in-steam-client/"><u>Tackling Steam UI Module Failure in Steam Client</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-web-control-panel/"><u>Unlocking Windows 11'S Web Control Panel</u></a></li>
+</ul></div>
+

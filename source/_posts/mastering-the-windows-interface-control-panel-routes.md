@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Windows Interface: Control Panel Routes"
-date: 2024-10-07T10:49:56.247Z
-updated: 2024-10-08T17:33:29.623Z
+date: 2024-10-12T17:17:50.257Z
+updated: 2024-10-15T17:43:22.600Z
 tags:
   - windows10
   - windows11
@@ -52,17 +52,17 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![Opening the Control Panel Via the Run Command Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Run-Command-Dialog-Box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Access the Control Panel via the Windows Start Menu
@@ -88,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  Finally, type **Control Panel** in the search box and press **Enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access the Control Panel via the File Explorer Address Bar
 
  File Explorer's address bar makes it easy for you to access the software programs on your device. So, let's take you through the process of using this tool to access the Control Panel:
@@ -97,14 +104,20 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 ![Opening the Control Panel Via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-File-Explorers-Address-Bar.png)
 
- Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, type **C:\\Windows\\System32** in the File Explorer address bar and click **control.exe** or **control** in the next window.
 
 ## 6\. Access the Control Panel via the Task Manager
 
@@ -116,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 ![Opening the Control Panel Via the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-Task-Manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Access the Control Panel via Windows Settings
 
  Did you know that you can also access the Control Panel via the Windows settings? Here’s how:
@@ -126,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ![Opening the Control Panel Via the System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Control-Panel-Via-the-System-Settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Access the Control Panel via the Command Prompt or PowerShell
@@ -150,13 +170,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 2. Type **powershell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **control panel** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Access the Control Panel via the System32 Directory
 
  Did you know that you can access most of your [Windows apps](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/) using the executable (.exe) files in the System32 folder?
@@ -170,13 +183,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 ![Clicking the control option in the System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-control-option-in-the-system32-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Access the Control Panel Using a Desktop Shortcut
 
  Do you have a Desktop shortcut for the Control Panel? If so, then click on it to easily access the Control Panel!
@@ -188,13 +194,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 3. Type **%windir%\\system32\\control.exe** in the **location box** and click **Next** to continue.
 
 ![Creating a Control Panel desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-a-control-panel-desktop-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the next window, type **Control Panel** in the name field and then click **Finish** to save the shortcut. Now, you can easily access the Control Panel anytime by clicking on its Desktop shortcut.
 
@@ -210,6 +209,13 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
 ![Clicking the Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-pin-to-taskbar-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that's it! You can now access the Control Panel by clicking its icon in the taskbar or Start menu, depending on where you've pinned it.
 
 ## What's Your Favorite Method for Opening the Control Panel?
@@ -220,26 +226,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  In this article, we'll look at the 11 different methods for accessing this incredible tool.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-swiftness-at-a-click-managing-youtubes-video-speed-settings/"><u>[New] 2024 Approved Swiftness at a Click Managing YouTube's Video Speed Settings</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media/"><u>[New] In 2024, A Detailed Walkthrough for Integrating Instagram Effects on Archive Media</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2024-mac-and-windows14/"><u>2024 ベストフリービデオエディター: Mac & Windows用無料アプリトップ14品紹介</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-personalized-game-recommendations-on-w11/"><u>Disabling Personalized Game Recommendations on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-commands-locating-and-correcting-windows-errors-via-the-command-line/"><u>Expert Commands: Locating & Correcting Windows Errors via the Command Line</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-swiftly-retrieve-icon-positions/"><u>How to Swiftly Retrieve Icon Positions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oneplus-nord-ce-3-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone OnePlus Nord CE 3 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-affordable-solutions-for-maximizing-windows-storage-space/"><u>The Top 7 Affordable Solutions for Maximizing Windows Storage Space</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-elite-game-consoles-emerging/"><u>The Ultimate Selection: Elite Game Consoles Emerging</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-destiny-2/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Destiny 2</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-how-runtime-broker-boosts-computing-efficiency/"><u>Understanding How Runtime Broker Boosts Computing Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-local-file-transmission-google-versus-windows-strategies/"><u>Understanding Local File Transmission: Google Versus Windows Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-a-functional-enter-key-in-windows/"><u>Unveiling the Secrets to a Functional 'Enter' Key in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -247,3 +233,20 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-digital-diary-the-art-of-screen-recording-on-macbook-air/"><u>[New] 2024 Approved Digital Diary The Art of Screen Recording on MacBook Air</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-by-step-to-excellence-the-ultimate-powerdirectors-user-manual/"><u>[Updated] 2024 Approved Step-by-Step to Excellence The Ultimate PowerDirector's User Manual</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-free-limit-breakers-for-every-story-lover/"><u>[Updated] Free Limit Breakers for Every Story Lover</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-excellent-e-recorders-for-voices/"><u>2024 Approved Excellent E-Recorders for Voices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-efficient-data-backup-handling/"><u>Effective Strategies for Efficient Data Backup Handling</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-whats-new-in-microsoft-office-2024-unveiling-key-features-and-enhancements/"><u>Explore What’s New in Microsoft Office 2024: Unveiling Key Features and Enhancements</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-concepts-for-youtube-channels-inspiration-at-its-peak-for-2024/"><u>Fresh Concepts for YouTube Channels Inspiration at Its Peak for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-steer-clear-of-key-blunders-in-microsoft-excel-insight-on-6-frequent-missteps-and-their-solutions/"><u>How to Steer Clear of Key Blunders in Microsoft Excel: Insight on 6 Frequent Missteps and Their Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-poco-x5-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Poco X5 Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-note-12-proplus-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi Note 12 Pro+ 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-tailoring-your-own-spreadsheets-in-excel-easily/"><u>Master the Art of Tailoring Your Own Spreadsheets in Excel Easily!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excel-a-step-by-step-guide-to-utilizing-the-rank-function/"><u>Mastering Excel: A Step-by-Step Guide to Utilizing the RANK Function</u></a></li>
+</ul></div>
+

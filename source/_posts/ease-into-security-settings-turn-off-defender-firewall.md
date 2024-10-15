@@ -1,7 +1,7 @@
 ---
 title: "Ease Into Security Settings: Turn Off Defender Firewall"
-date: 2024-10-05T03:11:13.961Z
-updated: 2024-10-09T03:58:30.078Z
+date: 2024-10-09T22:05:08.328Z
+updated: 2024-10-15T22:14:05.389Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
  To ensure maximum security while disabling your firewall, always make sure that other protective measures such as antivirus programs are running in the background. Once these have been taken care of, you can disable the firewall on your Windows 11 PC. Here's how to do this:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable the Firewall Using Windows Security
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 3. Once you are in Windows Security, click on the **Firewall & network protection** option.
 4. Select the **Public network** or **Private network** profile and turn off the firewall for that selection.  
 ![Disable the Firewall Using Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-firewall-using-windows-security.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The UAC prompt will require you to accept it, so make sure your computer is set up as an admin account. If UAC prompts on the screen, click **Yes** to continue.
 
@@ -67,23 +60,16 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ![Disable the Firewall Through Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-firewall-through-control-panel.jpeg)
 2. In the Control Panel, select **System and Security** and then click **Windows Defender Firewall**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. From the left pane, select **Turn Windows Defender Firewall on or off**.  
 ![Turn off the Firewall Through Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-through-control-panel.jpeg)
 4. Then select **Turn off Windows Defender Firewall (not recommended)** for each network setting.
 5. Click **OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Disable the Firewall Using Command Prompt
@@ -116,6 +102,13 @@ netsh advfirewall set allprofiles state off
 
  In this way, you can disable the firewall according to your selected network profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Turn Off the Firewall via PowerShell
 
  Windows PowerShell is an important tool that can be used to manage many aspects of the Windows operating system. You can also use it to disable the Microsoft Defender Firewall.
@@ -124,16 +117,16 @@ netsh advfirewall set allprofiles state off
 
 ![Turn Off the Firewall Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-via-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
  After running the above command, the firewall will be disabled for all network profiles simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Turn Off the Firewall Using Group Policy Editor
 
@@ -150,6 +143,13 @@ Computer Configuration > Administrative Templates > Network > Network Connection
 5. Next, choose **Disabled** from the dialog box that appears.
 6. When you're done making your changes, click **Apply** \> **OK**.
 7. For the changes to take effect, restart your computer after completing the above steps.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Turn Off the Firewall Using Registry Editor
 
@@ -187,18 +187,18 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamers-selection-most-popular-livestream-software-and-devices-for-2024/"><u>[Updated] Streamer's Selection Most Popular Livestream Software and Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-linux-vms-within-windows-via-hyper-v/"><u>A Step-by-Step Guide to Linux VMs Within Windows via Hyper-V</u></a></li>
-<li><a href="https://win11.techidaily.com/ace-the-art-of-completing-a-perfect-windows-update/"><u>Ace the Art of Completing a Perfect Window's Update</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-gameplay-recording-harnessing-intel-graphics-hub/"><u>Advanced Gameplay Recording: Harnessing Intel Graphics Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/affordable-access-securing-low-cost-windows-11-vcs/"><u>Affordable Access: Securing Low-Cost Windows 11 VCs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ppt-wondershare-virbo/"><u>Create Video with PPT | Wondershare Virbo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-diy-system-refresh-how-to-factory-reset-windows-7-without-needing-an-installation-cd/"><u>Easy DIY System Refresh: How to Factory Reset Windows 7 Without Needing an Installation CD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-and-disable-iphone-recovery-mode-easily/"><u>How to Enable and Disable iPhone Recovery Mode Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-obtain-and-install-gigaware-serial-cable-drivers-on-your-pc-running-windows/"><u>How to Obtain and Install Gigaware Serial Cable Drivers on Your PC Running Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-broken-photographs-with-no-cost-fixer-app-ultimate-guide-to-restore-corrupted-images/"><u>Revive Broken Photographs with No Cost Fixer App – Ultimate Guide to Restore Corrupted Images</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-r9-graphics-issues-for-windows-10-users/"><u>Troubleshooting R9 Graphics Issues for Windows 10 Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content-for-2024/"><u>Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-completing-the-process-of-disabling-your-linkedin-profile/"><u>[New] In 2024, Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-several-individuals-use-one-spotify-account-at-the-same-moment/"><u>Can Several Individuals Use One Spotify Account At The Same Moment?</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-booting-technique-startup-windows-unveil-notebooks/"><u>Effective Booting Technique: Startup Windows, Unveil Notebooks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-uniting-fans-anime-opening-songs-showcase/"><u>In 2024, Uniting Fans Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-guide-reviewing-and-removing-windows-history/"><u>Insight Guide: Reviewing & Removing Windows History</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/offizieller-winx-downloader-kostenloser-download-fur-fortschrittliche-programme-zur-dvd-extraktion-und-hd-videokonvertierung/"><u>Offizieller WinX Downloader - Kostenloser Download Für Fortschrittliche Programme Zur DVD-Extraktion Und HD-Videokonvertierung</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-loadlibrary-error-87-in-windows/"><u>Resolving LoadLibrary Error 87 in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stand-out-with-yt-shorts-essential-guidelines-to-follow-for-2024/"><u>Stand Out with YT Shorts Essential Guidelines to Follow for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-addressing-launch-failed-lunar-client-issues/"><u>Techniques for Addressing “Launch Failed Lunar Client” Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://win11.techidaily.com/triggers-for-launching-system-restore-in-windows-11-environment/"><u>Triggers for Launching System Restore in Windows 11 Environment</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-selection-of-top-10-heartwarming-christmas-flicks-perfect-for-dec-24-2019/"><u>Ultimate Selection of Top 10 Heartwarming Christmas Flicks Perfect for Dec. 24, 2019</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-new-contender-how-the-apple-ipad-air-4-stacks-up-to-ipad-pro-prices/"><u>Unveiling the New Contender: How the Apple iPad Air 4 Stacks Up to iPad Pro Prices!</u></a></li>
 </ul></div>
 

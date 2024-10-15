@@ -1,7 +1,7 @@
 ---
 title: Fast-Track to Windows 11 App Accessibility
-date: 2024-09-15T06:53:37.534Z
-updated: 2024-09-17T02:15:52.584Z
+date: 2024-10-08T20:56:12.666Z
+updated: 2024-10-15T18:39:04.640Z
 tags:
   - windows10
   - windows11
@@ -56,8 +56,24 @@ thumbnail: https://thmb.techidaily.com/03226297e1d4f4326afb184b72adefb3e61770579
 2. Click**Properties** .  
 ![Context menu showing app properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/properties.jpg)
 3. Click the**Shortcut** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Shortcut key for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-key.jpg)
 4. In the Shortcut key field, choose the keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Apply** , and then click**OK** .
 
  It is worth noting that when you delete the app shortcut from the desktop, you can no longer open it using the keyboard shortcut.
@@ -77,25 +93,19 @@ thumbnail: https://thmb.techidaily.com/03226297e1d4f4326afb184b72adefb3e61770579
 ![Screenshot showing how to look up OneNote app from Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-look-up-onenote-app-from-taskbar-search.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using Taskbar search to find the apps you want to open is similar to how you can use the Start Menu for the same purpose. To quickly launch apps on Windows 11, click on the Search icon on the Taskbar and type the name of the app you want to open. You can open it with a click, just like the Start Menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Apps Quickly on Windows 11
@@ -115,5 +125,22 @@ thumbnail: https://thmb.techidaily.com/03226297e1d4f4326afb184b72adefb3e61770579
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>[New] PeekSnapper A Critical Examination of Micro-Recording Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-delving-into-the-advantages-and-disadvantages-of-youtube-premium/"><u>[Updated] In 2024, Delving Into the Advantages and Disadvantages of YouTube Premium</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-instagram-reels-acoustics-with-music-voiceovers-for-2024/"><u>[Updated] Perfecting Instagram Reels Acoustics with Music, Voiceovers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beginning-your-first-community-support-blitz-on-facebook/"><u>2024 Approved Beginning Your First Community Support Blitz on Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensively-manage-app-packages-with-winget-on-win11/"><u>Comprehensively Manage App Packages with Winget on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-system-speed-through-virtual-memory-management/"><u>Elevating System Speed Through Virtual Memory Management</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-update-your-scansnap-s1100-with-the-new-driver-release/"><u>How to Effortlessly Update Your ScanSnap S1100 with the New Driver Release</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-computing-through-time-with-windows/"><u>Insight: Computing Through Time with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-auto-updates-and-change-amd-gpu-drives-in-win10/"><u>Navigate Auto-Updates & Change AMD GPU Drives in Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-clear-vac-failed-windows-error/"><u>Solutions to Clear VAC Failed Windows Error</u></a></li>
+<li><a href="https://win11.techidaily.com/stuck-xbox-on-windows-heres-how-to-unlock-it/"><u>Stuck Xbox on Windows? Here's How to Unlock It</u></a></li>
+<li><a href="https://win11.techidaily.com/unifying-computing-windows-adapts-to-iphones-ipads-macs-and-desktops/"><u>Unifying Computing: Windows Adapts to iPhones, iPads, Macs, and Desktops</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminate Unwanted Updates with 4 Tactics
-date: 2024-10-01T17:50:31.318Z
-updated: 2024-10-09T00:27:28.935Z
+date: 2024-10-10T21:05:36.853Z
+updated: 2024-10-15T18:20:39.679Z
 tags:
   - windows10
   - windows11
@@ -46,23 +46,9 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 5. Select**Yes** to confirm.  
 ![Stop Office Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-office-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your Office apps will not check for and install newer updates. Don't worry, you'll still be able to install updates manually.
 
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
@@ -73,6 +59,14 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 1. Open up your web browser and head over to Microsoft Download Center to[download the Administrative Template files (ADMX/ADML) for Office apps](https://www.microsoft.com/en-us/download/details.aspx?id=49030) .  
 ![Download Office Administrative Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-office-administrative-templates.jpg)
 2. Double-click the downloaded**EXE file** to run it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Accept the license terms and click the**Continue** button.
 4. The installer will prompt you for a location to extract the contents. Select an empty folder and hit**OK** .
 5. Go to the location where you extracted the files and open the**admx** folder.
@@ -85,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
 ![Copy Office ADML files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-adml-files-to-policydefinitions-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After completing the above steps, you’re all set to disable automatic Office updates via the Group Policy Editor. Here are the steps you can follow.
 
 1. Click the magnifying icon on the taskbar or press**Win + S** to open the search menu.
@@ -101,25 +88,19 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 ![Stop Automatic Office Updates Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-group-policy-editor.jpg)
 5. Select the**Disabled** option.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
 8. Type**cmd** in the text box and press**Ctrl + Shift + Enter** to[open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 9. Type**gpupdate /force** in the console and hit**Enter** to apply the Group Policy changes.
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
@@ -136,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
 5. Right-click the**Microsoft** key and select**New > Key** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Rename the key as**Office** .
 2. Right-click on the**Office** key and select**New > Key** .
 3. Rename the key as**16.0** .
@@ -148,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop Automatic Office Updates on Windows
 
@@ -168,22 +163,16 @@ thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a027
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-precision-in-screen-recording-a-comprehensively-reviewed-list-for-2024/"><u>[New] Precision in Screen Recording A Comprehensively Reviewed List for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-skillful-stylization-efficiently-tap-into-windows-paints-features/"><u>[New] Skillful Stylization Efficiently Tap Into Windows Paint's Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-vlc-screen-recorder-review-and-using-guide/"><u>[Updated] 2024 Approved VLC Screen Recorder Review and Using Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-musical-mosaics-15-video-tutorials-on-collaborative-projects/"><u>[Updated] Musical Mosaics 15 Video Tutorials on Collaborative Projects</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/compiling-the-finest-ios-psp-game-tools-1-5-for-2024/"><u>Compiling the Finest iOS PSP Game Tools #1-5 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-review-top-cable-modem-and-wireless-routers-for-enhanced-connectivity-best-picks-2024/"><u>Comprehensive Review: Top Cable Modem & Wireless Routers for Enhanced Connectivity (Best Picks, 2024)</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-disjointed-sticky-note-behavior-on-w11-system/"><u>Fixing Disjointed Sticky Note Behavior on W11 System</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>In 2024, Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/next-gen-health-revenue-strategies-unleashed-explore-the-power-of-abbyys-digital-transformation-techniques-in-managing-patient-payments/"><u>Next-Gen Health Revenue Strategies Unleashed - Explore the Power of ABBYY's Digital Transformation Techniques in Managing Patient Payments</u></a></li>
-<li><a href="https://win11.techidaily.com/onedrives-new-home-a-guide-for-windows-11-users/"><u>OneDrive's New Home: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-copypaste-failures-in-windows-11/"><u>Preventing Copy/Paste Failures in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-programs-with-context-menu-additions/"><u>Streamlining Programs with Context Menu Additions</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-overcoming-server-issues-hindering-win-1111-store-functionality/"><u>Swift Solutions: Overcoming Server Issues Hindering Win 11/11 Store Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-artistic-potential-of-windows-11-comics/"><u>Unlock the Artistic Potential of Windows 11 Comics</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-11s-hidden-treasures-with-our-6-secrets-to-success/"><u>Unlock Windows 11'S Hidden Treasures with Our 6 Secrets to Success</u></a></li>
-<li><a href="https://win11.techidaily.com/which-out-of-intel-unison-or-phone-link-is-superior/"><u>Which Out of Intel Unison or Phone Link Is Superior?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-compact-content-leading-5-services-to-compress-video-urls/"><u>[New] 2024 Approved Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-direct-conversion-of-spotify-music-5-tools-for-youtube-streaming/"><u>[Updated] Direct Conversion of Spotify Music 5 Tools for YouTube Streaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quick-tips-for-textual-overlay-in-vimeo-content-for-2024/"><u>[Updated] Quick Tips for Textual Overlay in Vimeo Content for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tive-approach-to-swiftly-eliminate-video-comments/"><u>Effective Approach to Swiftly Eliminate Video Comments</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/entendiendo-el-clon-de-host-en-vmware-y-pasos-para-replicarlo/"><u>Entendiendo El Clon De Host en VMware Y Pasos Para Replicarlo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-many-youtube-channels-can-i-create/"><u>How Many YouTube Channels Can I Create?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-definitive-walkthrough-on-systematically-assessing-formulas-in-ms-excel/"><u>The Definitive Walkthrough on Systematically Assessing Formulas in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/top-no-cost-substitutes-for-microsoft-excel/"><u>Top No-Cost Substitutes for Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-converting-and-importing-pdf-files-into-excel-spreadsheets/"><u>Ultimate Guide: Converting and Importing PDF Files Into Excel Spreadsheets</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-eliminating-unwanted-spaces-from-your-data-in-microsoft-excel/"><u>Ultimate Guide: Eliminating Unwanted Spaces From Your Data in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-toggling-scroll-lock-feature-onoff-within-ms-excel/"><u>Ultimate Guide: Toggling Scroll Lock Feature On/Off Within MS Excel</u></a></li>
 </ul></div>
 

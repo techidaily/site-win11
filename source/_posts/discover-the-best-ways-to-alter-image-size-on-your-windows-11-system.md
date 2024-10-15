@@ -1,7 +1,7 @@
 ---
 title: Discover the Best Ways to Alter Image Size on Your Windows 11 System
-date: 2024-10-04T03:39:29.858Z
-updated: 2024-10-09T03:36:01.164Z
+date: 2024-10-08T17:46:06.338Z
+updated: 2024-10-15T17:55:30.721Z
 tags:
   - windows10
   - windows11
@@ -45,20 +45,27 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
  The**Resize** box in Photos also includes a**Quality** bar setting. However, you can only use that setting for JPG output. Select the .**jpg** option in the**File extensio** n drop-down menu. Then drag the bar’s slider left or right to set the picture quality in the resized image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Resize Images With Paint
 
  Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our[Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
 
 ![paint's-resize-image-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-s-resize-image-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The resize image options in Paint
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Resize Images With Paint 3D
 
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 4. Click**Get** (the install option) to add Paint 3D to your app library.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select**Start** \>**All apps** to view installed software on the menu.
@@ -83,6 +90,14 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 2. Then click**Open** and**Browse** **files** .  
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
 3. Select an image to resize, and click the**Open** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
@@ -93,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
  You can also enter different values in the**Width** and**Height** boxes to resize the image. Select**Pixels** or**Percentage** on the drop-down menu to change the value type. Deselect the**Lock aspect ratio** option if you don’t want to retain the image’s proportions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Resize Images With Edge
 
  Canary and beta versions of the Edge web browser include a built-in image editor feature with which you can resize images. You can try out that feature as covered in our article about[editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/#:~:text=Right%2Dclick%20on%20an%20image,you%20can%20adjust%20the%20image.) . However, you’ll have to make do with extensions (or web apps) for resizing images in Edge stable for now. This is how you can resize your pictures in Edge with the Image Magic Extension:
@@ -109,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 3. Then press the**Extensions** (jigsaw piece) button in Edge.  
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
 4. Click**Image Magic** to bring up that extension’s window.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. You’ll need to drag and drop a picture file onto the Image Magic window to resize it. Open a folder containing some images and drag one onto the Image Magic window.
 6. Select the**Resize** checkbox.
@@ -129,16 +130,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
@@ -184,17 +179,22 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-explore-the-power-of-visuals-mastery-over-tiktok-video-backgrounds/"><u>[New] 2024 Approved Explore the Power of Visuals Mastery over TikTok Video Backgrounds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-deafen-silent-tweets-impact/"><u>[New] How to Deafen Silent Tweets' Impact</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>[Updated] In 2024, Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/compilation-of-ultimate-gratuitous-lut-downloads/"><u>Compilation of Ultimate, Gratuitous LUT Downloads</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-freeze-and-crash-in-windows-epic-launcher/"><u>Eliminating Freeze and Crash in Windows Epic Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-solutions-bringing-your-google-drive-back-online/"><u>Immediate Solutions: Bringing Your Google Drive Back Online</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s21-fe-5g-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S21 FE 5G (2023) is off? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-ninja-level-strategies-for-instagram-video-magic/"><u>In 2024, Ninja-Level Strategies for Instagram Video Magic</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-your-lost-windows-nine-essential-tricks-for-reviving-apps-in-windows-11/"><u>Reclaim Your Lost Windows: Nine Essential Tricks for Reviving Apps in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-shapley-explanations-with-openais-shape-tool/"><u>Unveiling the Power of Shapley Explanations with OpenAI's ShapE Tool</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-user-interface-an-insight/"><u>Windows 11 User Interface: An Insight</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-pro-tips-for-re-sharing-on-instagram/"><u>[New] 2024 Approved Pro Tips for Re-Sharing on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-games-effortlessly-with-nvidia/"><u>[New] Capture Games Effortlessly with NVIDIA</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-dominating-instagrams-social-scene-5-proven-tips-and-success-stories/"><u>[Updated] In 2024, Dominating Instagram's Social Scene 5 Proven Tips & Success Stories</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-explore-free-youtube-pic-themes/"><u>[Updated] In 2024, Explore Free YouTube Pic Themes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-incorporating-songs-into-your-facebook-timeline/"><u>2024 Approved Step-by-Step Incorporating Songs Into Your Facebook Timeline</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-navigating-windows-11-with-a-customizable-taskbar/"><u>Efficiently Navigating Windows 11 with a Customizable Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-task-sequence-fails-with-code-0x8007000f/"><u>Fixing Windows Task Sequence Fails with Code 0X8007000f</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-vm-setups-for-windows-11-maximizing-potential-and-efficiency/"><u>Ideal VM Setups for Windows 11: Maximizing Potential & Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-speak-with-ease-simple-pubg-sound-tweaks/"><u>In 2024, Speak with Ease Simple PUBG Sound Tweaks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-itel-p40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Itel P40 FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-chrome-on-windows-11-everything-you-need-to-know/"><u>Installing Chrome on Windows 11: Everything You Need to Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphones-made-simple-how-to-save-and-savor-animated-images/"><u>IPhones Made Simple How to Save and Savor Animated Images</u></a></li>
+<li><a href="https://win11.techidaily.com/manipulating-windows-defense-display-settings/"><u>Manipulating Windows Defense Display Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-marketplace-malfunctions-error-0x80073cf3/"><u>Navigating Through Windows' Marketplace Malfunctions (Error 0X80073CF3)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-os-anomalies-a-step-by-step-approach-to-identifying-and-fixing-error-codes-using-commands/"><u>Unveiling OS Anomalies: A Step-by-Step Approach to Identifying and Fixing Error Codes Using Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-windows-11-on-mac-with-parallels/"><u>Unveiling the Secrets: Windows 11 on Mac with Parallels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webm-and-wma/"><u>Webm & Wma 포토 갭을 해제: 가상의 공간에서 원료없이 변환 방법 - 모바비</u></a></li>
 </ul></div>
 

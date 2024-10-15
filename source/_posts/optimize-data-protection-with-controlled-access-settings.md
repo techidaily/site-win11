@@ -1,7 +1,7 @@
 ---
 title: Optimize Data Protection with Controlled Access Settings
-date: 2024-09-12T04:09:52.757Z
-updated: 2024-09-16T18:43:12.381Z
+date: 2024-10-10T17:24:44.967Z
+updated: 2024-10-15T16:34:08.300Z
 tags:
   - windows10
   - windows11
@@ -70,16 +70,32 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 2. Then double-click**Configure Controlled folder access** to view that setting’s window.  
 ![The Controlled Folder Access policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-in-group-policy-editor.jpg)
 3. Select the Configure Controlled folder access window’s**Enabled** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Block** on the drop-down menu to select the strictest CFA mode. However, you can also select alternative**Audit Mode** ,**Block disk notification only** , and**Audit disk notification only** options for enabling controlled folder access.  
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the Configure Controlled folder access window’s**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
@@ -145,10 +161,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 5. Select**Yes** to confirm you trust the script.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can enable controlled folder access from the Windows context menu.
@@ -177,16 +193,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 4. Click**Browse all** **apps** on the menu that appears.  
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
@@ -210,5 +220,19 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-deepdelete-masterful-background-erasure/"><u>[New] DeepDelete Masterful Background Erasure</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-free-anime-gifs-the-no-nitro-method-in-discord/"><u>[New] In 2024, Discovering Free Anime GIFs The No-Nitro Method in Discord</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-economical-360-cameras-for-quality-videography-for-2024/"><u>[Updated] Economical 360° Cameras for Quality Videography for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-critical-appraisal-of-sound-forge-pros-cons-and-potentials/"><u>2024 Approved Critical Appraisal of Sound Forge Pros, Cons, and Potentials</u></a></li>
+<li><a href="https://win11.techidaily.com/correct-mend-f-keys-on-windows-11-regain-control/"><u>Correct: Mend F Keys on Windows 11, Regain Control</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-broadcasting-service-review/"><u>Digital Broadcasting Service Review</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-to-mend-windows-office-errors/"><u>Immediate Actions to Mend Windows Office Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/introducing-instagrams-sponsored-reels-and-fb-story-ads/"><u>Introducing Instagram's Sponsored Reels & FB Story Ads</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-android-studio-speed-on-your-windows-machine/"><u>Skyrocketing Android Studio Speed on Your Windows Machine</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s17t-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S17t Device</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-mastery-bypassing-secure-boot-via-rufus/"><u>Win11 Mastery: Bypassing Secure Boot via Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-work-select-time-management-tools-for-enhanced-efficiency/"><u>Winning at Work: Select Time Management Tools for Enhanced Efficiency</u></a></li>
+</ul></div>
 

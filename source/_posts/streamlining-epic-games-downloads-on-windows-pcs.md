@@ -1,7 +1,7 @@
 ---
 title: Streamlining Epic Games Downloads on Windows PCs
-date: 2024-10-07T15:08:24.034Z
-updated: 2024-10-08T22:55:33.503Z
+date: 2024-10-12T18:00:29.056Z
+updated: 2024-10-15T17:24:15.314Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  After performing the above checks and fixes, move on to the main fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Downloads Throttling
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 4. If it was checked before, click the box once to uncheck it.  
 ![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Prioritize the Epic Games Launcher Over Everything Else
 
  The Windows operating system prioritizes essential system processes over third-party ones. Consequently, it allocates the most resources to prioritized processes to improve efficiency. As Epic Games processes are also third-party, they are also viewed as low priority. Hence fewer resources are allocated to them.
@@ -80,17 +87,10 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 ![Change the Priority of the Epic Games Launcher Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-change-the-priority-of-the-epic-games-launcher-process-in-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Clear Epic Games Launcher's Cache
@@ -114,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 ![Open the Engine.ini File in Notepad From the Epic Games Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-open-the-engine-ini-file-in-notepad-from-the-epic-games-installation-folder.jpg)
 4. Delete all the content in this file and add the following code instead:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `[HTTP]  
 HttpTimeout=10  
 HttpConnectionTimeout=10  
@@ -135,14 +128,14 @@ RetryTime=0.5`
 ![Save the Engine.ini File After Adding Few Commands in It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-save-the-engine-ini-file-after-adding-few-commands-in-it-1.jpg)
 6. Restart the Epic Games Launcher again.
 
- If tweaking Engine.ini starts to adversely affect download speed, as some users have reported, you should revert the changes.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If tweaking Engine.ini starts to adversely affect download speed, as some users have reported, you should revert the changes.
 
 ## 7\. Perform Some Windows-Specific Changes to Speed Up Downloads
 
@@ -150,6 +143,13 @@ RetryTime=0.5`
 
 * Changing your DNS settings to Google's public DNS is well-known for boosting download speeds for most apps and clients. So, [switch your DNS server](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) and see whether the download speed improves.
 * [Whitelist the Epic Games Launcher from Microsoft Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and any third-party antivirus you use. This will prevent security suites from restricting or limiting download activity in any way.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Speed Up the Epic Games Launcher Downloads
 
@@ -161,25 +161,6 @@ RetryTime=0.5`
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-aural-clarity-unleashed-secrets-to-high-quality-audio/"><u>[Updated] 2024 Approved Aural Clarity Unleashed Secrets to High-Quality Audio</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>[Updated] 2024 Approved Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-seamless-clip-recording-solutions/"><u>[Updated] Seamless Clip Recording Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/30-days-in-football-fantasy-how-to-play-ocm-for-no-charge/"><u>30 Days in Football Fantasy: How to Play OCM for No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/access-banishment-4-streamlined-steps-for-stripping-win11-of-users/"><u>Access Banishment: 4 Streamlined Steps for Stripping Win11 of Users</u></a></li>
-<li><a href="https://win11.techidaily.com/automatic-empty-recycle-bin-in-windows-step-by-step/"><u>Automatic Empty Recycle Bin in Windows Step by Step</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-update-failure-code-0x800f0845/"><u>Avoiding Update Failure - Code 0X800F0845</u></a></li>
-<li><a href="https://win11.techidaily.com/bargain-bonanza-black-friday-612-for-lifelong-win10-life/"><u>Bargain Bonanza: Black Friday - $6.12 for Lifelong Win10 Life</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-error-x80072f30-in-microsoft-store-on-windows/"><u>Breaking Down Error X80072F30 in Microsoft Store on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-recording-tools-for-gamers-for-2024/"><u>Elite Recording Tools for Gamers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-unresponsive-tracking-on-the-magic-mouse-with-minimal-hassle/"><u>How to Repair Unresponsive Tracking on the Magic Mouse with Minimal Hassle</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-f25-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo F25 Pro 5G FRP Locks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-hub-for-apple-devices/"><u>In 2024, Humor Hub for Apple Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369059725-streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-differences-a-close-look-at-avif-and-heic-for-image-compression/"><u>Unveiling the Differences: A Close Look at AVIF and HEIC for Image Compression</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +168,25 @@ RetryTime=0.5`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-get-more-views-with-the-best-youtube-thumbnail-ideas/"><u>[Updated] In 2024, Get More Views with the Best YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-smart-way-to-enhance-your-youtube-presence-legally/"><u>[Updated] In 2024, The Smart Way to Enhance Your YouTube Presence Legally</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-efficient-techniques-to-record-and-edit-videos-using-adobe-connect/"><u>2024 Approved Efficient Techniques to Record & Edit Videos Using Adobe Connect</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-22-free-video-compression-tools-for-pc-and-mac-top-picks/"><u>Best 22 Free Video Compression Tools for PC & Mac - Top Picks!</u></a></li>
+<li><a href="https://win11.techidaily.com/dialogue-deployment-on-windows-11-systems/"><u>Dialogue Deployment on Windows 11 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a34-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A34 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y78t Phone Without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/masking-wi-fi-presence-on-windows-systems/"><u>Masking Wi-Fi Presence on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-wobbly-snipshot-commands-in-windows/"><u>Mending Wobbly Snipshot Commands in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-uninstalling-epic-launcher-woes-on-w11-systems/"><u>Sidestep Uninstalling Epic Launcher Woes on W11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-get-the-latest-version-of-your-epson-et-3760-driver-for-windows-computers/"><u>Step-by-Step Tutorial: How to Get the Latest Version of Your Epson ET-3760 Driver for Windows Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-selection-best-photo-frame-software-for-2024/"><u>The Artisan's Selection Best Photo Frame Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-for-stealthy-login-silencing-security-prompts-in-windows-11/"><u>Tricks for Stealthy Login: Silencing Security Prompts in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-cpu-temperature-spikes-and-effective-cooling-solutions/"><u>Understanding CPU Temperature Spikes and Effective Cooling Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-gpresult-for-in-depth-gpo-evaluation/"><u>Utilizing GPResult for In-Depth GPO Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-and-office-updates-a-quick-cessation-guide/"><u>Windows & Office Updates: A Quick Cessation Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photos-the-art-of-key-management/"><u>Windows Photos: The Art of Key Management</u></a></li>
+</ul></div>
+

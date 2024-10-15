@@ -1,7 +1,7 @@
 ---
 title: Enlarge Pin Gallery in Windows 11 UI
-date: 2024-09-13T16:58:00.148Z
-updated: 2024-09-17T03:20:39.491Z
+date: 2024-10-08T18:43:34.508Z
+updated: 2024-10-15T20:25:19.100Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
  Before you proceed, make sure you’ve updated Windows 11 to the latest version. Then, you can use the Settings apps or the Registry Editor to show more apps and programs in the Windows 11 Start Menu
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using the Settings App
 
  Displaying more items on the Start Menu in the settings is the easiest way of doing it. To do that, follow the steps below:
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 ![the layout section of the windows 11 personalization settings with the more pins option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/layout-section-start-settings-windows-11.jpg)
 
  If you want to return the number of pinned items on the Start Menu to the default setting, follow steps**1** and**2** and tick the**Default** radio button instead.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using the Registry Editor
 
@@ -56,13 +70,20 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 ![editing the start value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/start-layout-value-regedit.jpg)
 5. Restart your Windows 11 PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you ever want to return the default layout for the pinned items on the Start Menu, just change**Value data** of the**Start\_Layout** value back to**0** in the Registry Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expand Your Taskbar by Displaying More Items
@@ -84,5 +105,19 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ioneering-the-pathway-personal-youtube-videos-in-google-accounts-for-2024/"><u>[New] Pioneering the Pathway Personal YouTube Videos in Google Accounts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-facile-e-gratuita-da-mxf-a-avi-con-lassistente-on-line-di-movavi/"><u>Conversione Facile E Gratuita: Da MXF a AVI Con L'assistente On-Line Di Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/customized-user-journeys-powered-by-the-innovative-cookiebot-platform/"><u>Customized User Journeys Powered by the Innovative Cookiebot Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-vlc-experience-fixing-lag-and-buffering-issues/"><u>Enhancing VLC Experience: Fixing Lag and Buffering Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-windows-11-screensaver-quickly/"><u>How to Sidestep Windows 11 Screensaver Quickly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/learn-photo-edits-like-a-pro-lunapic-for-starters/"><u>Learn Photo Edits Like a Pro LunaPic for Starters</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebook-photo-update-a-step-by-step-guide/"><u>Mastering Facebook Photo Update: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-high-load-on-cpu-by-wlanextexe/"><u>Mitigating High Load on CPU by Wlanext.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-windows-os-not-found-issue/"><u>Quick Guide to Resolve Windows OS Not Found Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card-immediate-actions/"><u>Top 6 Solutions When Apple Rejects Your Card - Immediate Actions</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-resolving-unreachable-network-issues/"><u>Troubleshooting Windows 11: Resolving Unreachable Network Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatbot-potential-step-by-step-tips-for-utilizing-microsofts-chatgpt/"><u>Unlocking Chatbot Potential: Step-by-Step Tips for Utilizing Microsoft's ChatGPT</u></a></li>
+</ul></div>
 

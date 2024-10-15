@@ -1,7 +1,7 @@
 ---
 title: "The Art of Starting Windows 11: Service Configuration Explained"
-date: 2024-10-02T21:12:43.455Z
-updated: 2024-10-09T08:17:50.228Z
+date: 2024-10-11T17:34:47.898Z
+updated: 2024-10-15T19:40:03.546Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,29 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
 ![The Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-run-dialog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, type in**services.msc** into the box and press**Enter** . When you do so the Windows Service Manager will immediately be pulled up. This will open a new window with every currently registered service on your computer listed.
 
  Alternatively, if you aren’t able to access the run dialog, you can also use the search bar in the taskbar to locate the Service Manager. Type the word**Services** into the search bar. The top result will say**Services** with an icon next to it of a pair of gears, which will open the Windows Service Manager.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Identifying the Current Startup Services
 
@@ -51,21 +71,7 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
 ![Windows Service Manager's main screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-service-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The list of startup services is composed of five separate columns, the service name, a description of the service, its current status, the startup type, and the user it acts as. The fourth column is the most important one for our purposes as it lists how and when the service starts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing the Status of Services
 
@@ -94,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
  Once you have selected the proper startup type, click on the**Apply** button at the bottom of the screen. This saves the current setting for the service. The next time you start up your computer, the setting you have selected will be used.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stopping Running Services
@@ -108,20 +114,14 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
 ![The service status section of the properties window for a service.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/service-properties-status-section.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the button has been pressed, Windows will attempt to gracefully shut the service down. Once terminated, it will remain deactivated until another program triggers it to run again. This is just one of the possible ways to[start or stop a service in Windows](https://www.makeuseof.com/how-to-start-stop-service-windows/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Configure Your Startup Services in Windows
 
@@ -142,22 +142,22 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-silence-unwanted-post-suggestions-on-insta/"><u>[Updated] 2024 Approved Silence Unwanted Post Suggestions on Insta</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevating-your-look-expert-tutorials-for-everyone/"><u>[Updated] Elevating Your Look Expert Tutorials for Everyone</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-order-to-your-notetaking-chaos-using-obsidian-palette/"><u>Bring Order to Your Notetaking Chaos Using Obsidian Palette</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-back-typical-window-explorer-options/"><u>Bringing Back Typical Window Explorer Options</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-winget-back-online-window-11-edition/"><u>Bringing Winget Back Online: Window 11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-fixing-outdated-windows-user-password-issue/"><u>Bypassing: Fixing Outdated Window's User Password Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-unsolicited-search-menu-activation-win11-style/"><u>Cease Unsolicited Search Menu Activation, Win11 Style</u></a></li>
-<li><a href="https://win11.techidaily.com/chatgpt-deployment-for-windows-computers/"><u>ChatGPT Deployment for Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-the-path-nine-tricks-to-dodge-steady-windows-update-stalls/"><u>Clear the Path: Nine Tricks to Dodge Steady Windows Update Stalls</u></a></li>
-<li><a href="https://win11.techidaily.com/cleverly-camouflaged-these-programs-slow-down-windows-users/"><u>Cleverly Camouflaged, These Programs Slow Down Windows Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/detecting-unregistered-friends-list-for-2024/"><u>Detecting Unregistered Friends List for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lgorithm-changes-shape-your-youtube-visibility/"><u>How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-ace-2v-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus Ace 2V Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-playful-teasing-on-social-media-wisely/"><u>Navigating Playful Teasing on Social Media Wisely</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone XS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/total-solution-for-your-iphone-needs-swiftly-tackle-all-ios-problems/"><u>Total Solution for Your iPhone Needs: Swiftly Tackle All iOS Problems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/zoom-into-your-workspace-learn-screen-casting-via-ezvide-for-2024/"><u>Zoom Into Your Workspace Learn Screen Casting via EZvide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-direct-call-setup-using-whatsapp-browser-on-your-notebook-for-2024/"><u>[New] Direct Call Setup Using WhatsApp Browser on Your Notebook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-aesthetic-enhancement-font-integration-for-ae/"><u>[New] In 2024, Aesthetic Enhancement Font Integration for AE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-econo-audio-amps-for-youtubers-with-limited-dough/"><u>[Updated] In 2024, Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-periscope-detailed-instruction-manual/"><u>[Updated] In 2024, Navigating Periscope Detailed Instruction Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-6-secure-mc-domains/"><u>[Updated] Top 6 Secure MC Domains</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-webcam-written-as-how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>Correcting Windows Webcam' Written as How to FIX Your WebCam Showing a BLACK SCREEN on WINDOWS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-find-x7-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Find X7 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-step-by-step-guide-to-crafting-facebook-visual-stories/"><u>In 2024, A Step-by-Step Guide to Crafting Facebook Visual Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-printer-support-into-application-guard/"><u>Integrating Printer Support Into Application Guard</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-design-cartoon-images-with-the-best-tools/"><u>New In 2024, Design Cartoon Images With the Best Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disk-errors-in-windows/"><u>Resolving Disk Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/snooze-button-secrets-for-window-computers/"><u>Snooze Button Secrets for Window Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-windows-update-eliminating-error-0x800736cc/"><u>Swift Solutions for Windows Update: Eliminating Error 0X800736CC</u></a></li>
+<li><a href="https://win11.techidaily.com/synapse-troubleshoot-restore-functionality-on-windows-devices/"><u>Synapse Troubleshoot: Restore Functionality on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-explained-and-guide-to-clear-it-out/"><u>Windows ARP Cache Explained & Guide to Clear It Out</u></a></li>
+<li><a href="https://win11.techidaily.com/winrush-securing-past-command-actions/"><u>WinRush: Securing Past Command Actions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Basic User to Hyper-V Guru: Setup on W11 Homes Unlocked"
-date: 2024-09-11T04:26:17.489Z
-updated: 2024-09-16T21:52:46.801Z
+date: 2024-10-14T22:49:27.784Z
+updated: 2024-10-15T22:06:33.251Z
 tags:
   - windows10
   - windows11
@@ -70,11 +70,31 @@ pause`
 
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
 
  6\. Click the **Save** button to save the file.
 
 ![run hyperv bat script administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/run-hyperv-bat-script-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7\. Next, right-click on the **hyperv.bat** file and select **Run as administrator**. Click **Yes** if prompted by User Account Control.
 
@@ -98,6 +118,13 @@ pause`
 `<code>DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable Hyper-V on Windows 11 Home
 
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
@@ -117,16 +144,10 @@ pause`
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Run Hyper-V on Windows 11 Home
@@ -137,8 +158,6 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +165,17 @@ pause`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-copyright-compliance-and-photovideo-sharing/"><u>[New] 2024 Approved Copyright Compliance & Photo/Video Sharing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-breakdown-of-steps-perfecting-idevice-video-features-on-youtube-for-2024/"><u>[New] Breakdown of Steps Perfecting iDevice Video Features on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>[Updated] In 2024, Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-conquering-windows-11-display-preferences/"><u>Expert Guide: Conquering Windows 11 Display Preferences</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-be-amongst-the-few-essential-metaverse-technology/"><u>In 2024, Be Amongst the Few Essential Metaverse Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-concept-art-to-cinematic-masterpiece-utilizing-luts-from-cg-central/"><u>In 2024, From Concept Art to Cinematic Masterpiece Utilizing Luts From CG Central</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-proficiency-with-these-6-expertly-designed-trackers/"><u>Increase Proficiency with These 6 Expertly Designed Trackers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-illusion-of-choice-confronting-microphone-and-camera-shackles/"><u>The Illusion of Choice: Confronting Microphone and Camera Shackles</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-cure-for-hyper-v-error-code-0x8009030e/"><u>Unlocking Windows: Cure for Hyper-V Error Code 0X8009030E</u></a></li>
+</ul></div>
+

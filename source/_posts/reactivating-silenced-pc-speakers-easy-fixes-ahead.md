@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced PC Speakers – Easy Fixes Ahead
-date: 2024-09-14T07:01:40.574Z
-updated: 2024-09-16T22:43:28.298Z
+date: 2024-10-09T19:30:49.589Z
+updated: 2024-10-15T20:24:38.907Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  To unmute your audio, start by playing an audio or video file. This will help you see if the audio is working again. Next, identify the mute button on your keyboard, and tap it. On a multimedia-style keyboard, this will usually be along the top, alongside other playback controls.
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check the Speaker Jack
 
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 Audio should now play on your HDMI TV.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -86,13 +100,20 @@ Audio should now play on your HDMI TV.
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
@@ -108,19 +129,6 @@ Audio should now play on your HDMI TV.
 
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -131,13 +139,6 @@ Audio should now play on your HDMI TV.
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Check for Corruption of Windows System Files
 
  At times, corrupt Windows system files can also lead to speaker driver issues. To check and see if this is the case, run an SFC scan. This will scan and repair the corrupt system files on your PC.
@@ -146,6 +147,13 @@ Audio should now play on your HDMI TV.
 2. Now, type**sfc/ scannow** and hit**Enter** .
 
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
@@ -162,14 +170,14 @@ Audio should now play on your HDMI TV.
 
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will turn off all enhancements that could be the cause of your speakers not working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Your Computer Speakers Just Aren't Working
 
@@ -178,13 +186,6 @@ Audio should now play on your HDMI TV.
  You've made it this far, but there's still no audio. Well, it looks like it's time to find some new speakers for your PC.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected[the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are Your Speakers Working Again?
 
@@ -203,5 +204,24 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-the-pinning-process-for-a-personal-touch-in-snapchat/"><u>[New] 2024 Approved Master the Pinning Process for a Personal Touch in Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premier-screenshots-software-for-linux-users/"><u>[New] Premier Screenshots Software for Linux Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-obs-and-shadowplay-which-streams-better-in-2024/"><u>[Updated] Obs and ShadowPlay - Which Streams Better, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-n-options-performance-metrics/"><u>Deciphering Windows N Options: Performance Metrics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drafting-a-powerful-post-for-online-fundraising/"><u>Drafting a Powerful Post for Online Fundraising</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/effective-strategies-for-successful-ssd-partition-restoration/"><u>Effective Strategies for Successful SSD Partition Restoration</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-various-templates-and-styles-the-ultimate-guide-to-theme-pages/"><u>Exploring Various Templates and Styles: The Ultimate Guide to Theme Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-stuck-photoshop-launch-on-latest-ws11-and-11-update/"><u>Fixes for Stuck Photoshop Launch on Latest WS11 & 11 Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-with-projections-for-new-apple-watch-ultra-specs-launch-timeline-and-potential-pricing-details-inside/"><u>Get Ahead of the Curve with Projections for New Apple Watch Ultra – Specs, Launch Timeline & Potential Pricing Details Inside!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-approach-to-solving-your-ps4-controllers-disconnection-woes/"><u>Methodical Approach to Solving Your PS4 Controller's Disconnection Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-graphics-errors-the-d3d11-guide-for-windows-1110/"><u>Overcoming Graphics Errors: The D3D11 Guide for Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-admin-unblocking-disabled-apps/"><u>Solving Windows Admin: Unblocking Disabled Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-utorrent-installation-blocks-on-windows/"><u>Strategies to Overcome uTorrent Installation Blocks on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-your-wsl-post-win-11-transition/"><u>Troubleshoot Your WSL Post-Win 11 Transition</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-server-stumbled-error-in-microsofts-windows-store/"><u>Unraveling Server Stumbled Error in Microsoft's Windows Store</u></a></li>
+</ul></div>
 

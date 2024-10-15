@@ -1,7 +1,7 @@
 ---
 title: Create Your Signature Sound Control with Win11 Hotkeys
-date: 2024-10-01T18:46:13.348Z
-updated: 2024-10-09T12:47:18.810Z
+date: 2024-10-14T22:59:11.563Z
+updated: 2024-10-15T17:08:55.624Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 7. Click **Next** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Enter **Mute** in the shortcut name box, and select the **Finish** option.
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-key-box3.png)
 4. Select **Apply** to save.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
 
  Don’t delete the Mute desktop shortcut. Deleting that shortcut will also erase the hotkey added to it. So, you’ll need to keep all audio control shortcuts on the desktop for their hotkeys to work.
@@ -81,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Hotkey for Maximizing Volume
@@ -106,15 +113,22 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![The changesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/changesysvolume-command.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
  When you’ve set up some desktop shortcuts for increasing and reducing volume, right-click them and select **Properties**. You can add new hotkeys to them with their **Shortcut key** boxes as outlined for the mute command. Then press the NirCmd volume up and down hotkeys to your heart’s content to increase and lower the decibel level.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Custom Volume Control Hotkeys for a Specific App
 
@@ -148,42 +162,11 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
 
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-beating-the-heat-substitutes-for-xsplit/"><u>[New] Beating the Heat Substitutes for XSplit</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-extend-your-snapstreak-success-with-these-ideas/"><u>[New] Extend Your Snapstreak Success with These Ideas</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-all-inclusive-giroptic-panoramic-study/"><u>[Updated] All-Inclusive Giroptic Panoramic Study</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-compendium-selecting-the-best-free-srt-translation-tools/"><u>2024 Approved The Ultimate Compendium Selecting the Best Free SRT Translation Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-laptop-driver-updates-how-to-download-and-install-easily/"><u>ASUS Laptop Driver Updates: How to Download and Install Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-gaps-combining-folders-and-files-win-1011-style/"><u>Bridging Gaps: Combining Folders & Files, Win 10/11 Style</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-elevation-requirement-hurdle-on-winos/"><u>Bypassing Elevation Requirement Hurdle on WINOS</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-geforce-experiences-error-on-windows-pcs/"><u>Bypassing GeForce Experience's Error on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-file-dates-in-windows-a-practical-overview/"><u>Changing File Dates in Windows: A Practical Overview</u></a></li>
-<li><a href="https://win11.techidaily.com/chatgpt-lite-free-self-hosted-windows-edition-with-gpt4all/"><u>ChatGPT Lite: Free Self-Hosted Windows Edition with GPT4All.</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-plan-against-dual-programming-issues/"><u>Combat Plan Against Dual Programming Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-11r-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus 11R Device</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +175,20 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-optimally-utilize-a-creative-commons-license-for-2024/"><u>[New] How to Optimally Utilize a Creative Commons License for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-interactive-av-media-collective/"><u>[New] In 2024, Interactive AV Media Collective</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-initiate-your-facebook-analysis-journey/"><u>[Updated] In 2024, Initiate Your Facebook Analysis Journey</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-winning-windows-wisdom-quick-photo-mastery/"><u>[Updated] Winning Window's Wisdom Quick Photo Mastery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-x50iplus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor X50i+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-individualize-windows-11s-screensaver/"><u>How to Individualize Windows 11'S Screensaver</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-monitors-wallpaper-variety/"><u>Mastering Windows 11: Monitors' Wallpaper Variety</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-level-mp4-experience-integrating-advanced-srt-audio-for-2024/"><u>Next-Level MP4 Experience Integrating Advanced SRT Audio for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-icons-from-scaling-down/"><u>Stop Windows 11 Icons From Scaling Down</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-dealing-with-unverified-application-warnings-on-pc/"><u>Tips: Dealing with 'Unverified Application' Warnings on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zen-5-ai-ryzen-hx-370-outperforms-competitors-with-unmatched-single-core-speed-intel-core-ultra-7-268v-and-ryzen-9-7945hx3d-fall-behind/"><u>Zen 5 AI Ryzen HX 370 Outperforms Competitors with Unmatched Single-Core Speed: Intel, Core Ultra 7 268V and Ryzen 9 7945HX3D Fall Behind</u></a></li>
+</ul></div>
+

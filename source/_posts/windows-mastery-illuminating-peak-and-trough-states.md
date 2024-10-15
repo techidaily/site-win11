@@ -1,7 +1,7 @@
 ---
 title: "Windows Mastery: Illuminating Peak & Trough States"
-date: 2024-10-06T16:14:18.854Z
-updated: 2024-10-09T08:37:48.208Z
+date: 2024-10-13T20:42:21.470Z
+updated: 2024-10-15T17:54:51.947Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,6 @@ To hide the maximum processor state, enter the below command:
 
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
 
  You can also show or hide these options using the Registry Editor. However, before you do so, create a restore point as a backup in case you make a mistake and need to return your Windows computer to a previously-working state. Check out[how to create a restore point in Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) for more information.
@@ -63,6 +56,13 @@ To hide the maximum processor state, enter the below command:
  After creating the system restore point, press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and hit the**Enter** key to open the Registry Editor.
 
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
 
@@ -75,10 +75,10 @@ To hide the maximum processor state, enter the below command:
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
@@ -86,10 +86,10 @@ To hide the maximum processor state, enter the below command:
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
@@ -99,10 +99,10 @@ To hide the maximum processor state, enter the below command:
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
@@ -124,14 +124,18 @@ To hide the maximum processor state, enter the below command:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/bring-back-windows-11s-bluetooth-9-effective-fixes-at-hand/"><u>Bring Back Windows 11'S Bluetooth: 9 Effective Fixes at Hand</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-chrome-blackout-a-step-by-step-guide/"><u>Bypassing Chrome Blackout: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/charting-a-new-journey-away-from-lost-at-sea-xbox-errors/"><u>Charting a New Journey Away From Lost at Sea Xbox Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/clean-slate-on-windows-11-a-synopsis-of-app-removal-techniques-107-chars/"><u>Clean Slate on Windows 11: A Synopsis of App Removal Techniques (107 Chars)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-razr-40-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Razr 40 Ultra</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-surge-in-subscribers-effective-youtube-campaigns/"><u>In 2024, Surge in Subscribers Effective YouTube Campaigns</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-dragon-ball-series-sequentially/"><u>Step-by-Step Guide: Viewing Dragon Ball Series Sequentially</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-top-four-reasons-im-not-upgrading-to-an-iphone-16-pro-from-my-iphone-14-explained-by-zdnet/"><u>The Top Four Reasons I'm Not Upgrading to an iPhone 16 Pro From My iPhone 14, Explained by ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-premier-4k-laptop-choices-for-gamers/"><u>[New] 2024 Approved Premier 4K Laptop Choices for Gamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-navigating-posting-on-altered-instagram-landscape-for-2024/"><u>[New] A Guide to Navigating Posting on Altered Instagram Landscape for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-halt-autoplay-youtube-recommendations-for-2024/"><u>[Updated] Halt Autoplay YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/5-fast-methods-monitoring-your-pc-games-fps-in-under-a-minute/"><u>5 Fast Methods: Monitoring Your PC Game's FPS in Under a Minute!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bezplatny-prevoze-wmv-v-soucasti-mov-onlineskypni-a-nesmirny-latky-konverter/"><u>Bezplatný Prevoze Wmv V Součásti MOV - Onlineskypní A Nesmírný Látky Konverter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-address-minecraft-error-with-the-crossbow-feature/"><u>Effective Techniques to Address Minecraft Error with the Crossbow Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-make-reels-on-instagram/"><u>How to Make Reels on Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-c12-plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia C12 Plus Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-windows-ui-with-supernatural-shortcuts/"><u>Infuse Windows UI with Supernatural Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-approaches-to-attach-reminders-in-win11win10/"><u>Innovative Approaches to Attach Reminders in Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-forcibly-disable-windows-11-print-devices/"><u>Instant Guide: Forcibly Disable Windows 11 Print Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-conversions-using-cookiebot-seo-solutions/"><u>Maximize Conversions Using Cookiebot SEO Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-a-computer-name-mistake-on-windows-11/"><u>Reversing a Computer Name Mistake on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correct Token Access Failure in Windows 11/10
-date: 2024-10-07T01:35:27.242Z
-updated: 2024-10-09T00:05:40.496Z
+date: 2024-10-08T21:36:09.764Z
+updated: 2024-10-15T22:13:15.648Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reregister Windows DLL Files
 
  Users who’ve needed to fix the “reference a token” error have confirmed reregistering the Windows DLL (Dynamic Link Library) files works. That highlights the token reference error can occur because some Windows DLL files aren’t correctly registered. This is how you can reregister Windows DLL files:
@@ -53,18 +60,18 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
 
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Scan and Repair System Files With SFC
 
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
 ### Go Back to a Previous Restore Point
@@ -97,16 +97,10 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-restore-point.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
@@ -116,16 +110,10 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
@@ -134,21 +122,6 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 
  Does the same error message pop up when you try to access Explorer, Device Manager, or another native Windows tool? If yes, try applying these potential remedies for the “reference a token” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>[New] Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-constructing-an-affordable-google-vr-helmet-at-home/"><u>[Updated] Constructing an Affordable Google VR Helmet at Home</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>[Updated] From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/a-detailed-walkthrough-to-activate-notepad-dark-mode-on-windows-11/"><u>A Detailed Walkthrough to Activate Notepad Dark Mode on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-multi-archive-handling-in-windows-os/"><u>Advanced Multi-Archive Handling in Windows OS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/android-developers-choice-premier-tools-for-extracting-fb-videos-for-2024/"><u>Android Developer's Choice Premier Tools for Extracting FB Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/beating-back-blue-screens-in-your-daily-computing-life/"><u>Beating Back Blue Screens in Your Daily Computing Life</u></a></li>
-<li><a href="https://win11.techidaily.com/blending-worlds-kali-installation-guide-for-windows-users/"><u>Blending Worlds: Kali Installation Guide for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016906776-fix-phasmophobias-voice-chat-gone-silent-heres-what-works/"><u>Fix Phasmophobia's Voice Chat Gone Silent? Here’s What Works!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-watermark-free-video-merging-top-7-tools-compared/"><u>New In 2024, Watermark-Free Video Merging Top 7 Tools Compared</u></a></li>
-<li><a href="https://win11.techidaily.com/1719352483219-resurrect-computer-sounds-immediate-action-steps/"><u>Resurrect Computer Sounds – Immediate Action Steps!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +129,25 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-allure-comprehensive-beauty-how-tos-on-youtube/"><u>[New] 2024 Approved Unveiling Allure Comprehensive Beauty How-Tos on Youtube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-reddit-archives-retrieval-with-ease/"><u>[New] Instant Reddit Archives Retrieval with Ease</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-deciphering-the-latest-instagram-posting-rules-for-2024/"><u>[Updated] Deciphering the Latest Instagram Posting Rules for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-incrementally-lower-decibels-in-logic-pro/"><u>[Updated] How to Incrementally Lower Decibels in Logic Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-pixma-mx490-driver-installation-guide-and-updates-for-windows-users/"><u>Canon PIXMA MX490 Driver Installation Guide and Updates for Windows Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-a-channel-focused-on-reviewing-marketplace-items/"><u>Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-absence-of-monitor-post-bootup/"><u>Eliminating Absence of Monitor Post-Bootup</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-interrupted-by-breakpoint-error-in-windows/"><u>Eliminating Interrupted by Breakpoint Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-techniques-to-launch-windows-11s-restore-mode/"><u>Exploring Techniques to Launch Windows 11'S Restore Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unclog-the-secondary-user-writes-access-issue/"><u>How to Unclog the Secondary User' Writes Access Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-construct-a-homemade-google-vr-helmet-for-cost-effective-fun/"><u>In 2024, Construct a Homemade Google VR Helmet for Cost-Effective Fun</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-options-in-the-win-11-context-list/"><u>Minimizing Options in the Win 11 Context List</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-based-inaccessibility-to-roblox-experience/"><u>Resolving Windows-Based Inaccessibility to Roblox Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-doom-eternal-crashes-effective-troubleshooting-steps/"><u>Solving DOOM Eternal Crashes: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
+<li><a href="https://win11.techidaily.com/winway-login-tips-removing-personal-emails/"><u>Winway Login Tips: Removing Personal Emails</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Winfix: Methods to Overcome Missing Msvcrt120dll Errors"
-date: 2024-10-07T15:07:38.920Z
-updated: 2024-10-09T03:57:20.275Z
+date: 2024-10-13T18:14:18.194Z
+updated: 2024-10-15T17:16:04.866Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  If you are using 64-bit Windows, you can install both vcredist\_x64.exe and vcredist\_x86.exe. However, if you have a 32-bit version of Windows, you should only install vcredist\_x86.exe. You can [tell if the Windows version you are using is 32-bit or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) by checking the system information.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Copy the Msvcr120.dll From Another Computer
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![MSVCR120 in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/msvcr120-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update or Reinstall the Problematic Program
 
  If you encounter the msvcr120.dll missing error only when launching a specific app or program, it is likely that the program is unable to access the DLL file. You can try updating the problematic program to its most recent version to see if that helps.
@@ -82,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  If the error persists even after that, you can consider removing the program completely and installing it again. We have a detailed guide on [different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). You can follow any one of the methods outlined there to uninstall the problematic program. Make sure you [eradicate leftovers from the uninstalled program](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) before reinstalling it on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Re-Register the Msvcr120.dll File
@@ -102,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 `regsvr32 MSVCR120.dll`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Try Some Generic Fixes to Resolve the Msvcr120.dll Missing Error
@@ -118,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 * **Install Windows Updates:** It’s possible that the error in question is occurring due to a bug within Windows. If that’s the case, [installing pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) should help fix it.
 * **Perform a System Restore:** If the msvcr120.dll missing error has only started appearing recently, you can [use system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state. This will allow you to undo any recent system changes that may have caused the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restore the Missing the Msvcr120.dll File on Windows
 
  The msvcr120.dll missing error can prevent you from using your favorite apps and programs and waste your time. Fortunately, as with most DLL errors, “The program can’t start because MSVCR120.dll is missing from your computer” can be easily resolved if you apply the above-mentioned fixes.
@@ -126,29 +126,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
  Whatever the cause, fixing the msvcr120.dll missing error on Windows isn’t too difficult. Here are the solutions you need to try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easeus-tech-diverse-viewpoints-for-2024/"><u>[New] EaseUS Tech, Diverse Viewpoints for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero4-vs-gopro-hero5-showdown/"><u>[New] GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-beginners-guide-start-filming-with-ease-using-logitech-camera-for-2024/"><u>[Updated] Beginner's Guide Start Filming with Ease Using Logitech Camera for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-comprehensively-guide-to-transferring-videos-onto-facebook-from-pc-and-android-for-2024/"><u>[Updated] Comprehensively Guide to Transferring Videos Onto Facebook From PC & Android for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-the-secrets-to-verified-instagram-images/"><u>[Updated] In 2024, Unveiling the Secrets to Verified Instagram Images</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-maximizing-video-impact-selecting-the-best-rank-trackers-for-youtubers/"><u>2024 Approved Maximizing Video Impact Selecting the Best Rank Trackers for YouTubers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-thx-audio-malfunction-in-windows/"><u>Correcting THX Audio Malfunction in Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-non-loading-pages-in-google-chrome-browser/"><u>Fixing Non-Loading Pages in Google Chrome Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-windows-application-tracking-feature/"><u>Halt Windows Application Tracking Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/illuminating-creativity-with-dark-themes-in-paint/"><u>Illuminating Creativity with Dark Themes in Paint</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-xs-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone XS? Find the Best Solution Here</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-savings-tap-into-w11-pro-offers/"><u>Optimize Savings: Tap Into W11 Pro Offers</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-pc-with-windows-visual-treasures-in-backgrounds/"><u>Personalizing Your PC with Windows' Visual Treasures in Backgrounds</u></a></li>
-<li><a href="https://games-able.techidaily.com/rapid-response-elevating-counter-strike-fps-quickly/"><u>Rapid Response: Elevating Counter-Strike FPS Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-network-not-available-in-windows-os/"><u>Resolving Network Not Available in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/shadows-no-more-restore-your-lost-windows-on-win10win11/"><u>Shadows No More: Restore Your Lost Windows on Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-steps-to-revise-your-windows-account-pin/"><u>Streamlined Steps to Revise Your Windows Account Pin</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +133,25 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebooks-recent-views-uncovered-for-you/"><u>[New] 2024 Approved Facebook’s Recent Views Uncovered for You</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-vlog-anxieties-unmasked-how-to-combat-them/"><u>[New] 2024 Approved Vlog Anxieties Unmasked How to Combat Them</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-christian-melodies-download-and-personalize-guide/"><u>[New] Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-demystified-guiding-you-through-win11-upgrades/"><u>DevHome Demystified: Guiding You Through Win11 Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-unsupported-windows-hello-scanner-mismatch/"><u>Eliminating the Unsupported Windows Hello Scanner Mismatch</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-11s-isdonedll-problem-steps/"><u>Eliminating Windows 11'S ISDone.dll Problem Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-fixing-failed-windows-mmc-creations/"><u>Expert Guide to Fixing Failed Windows MMC Creations</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-iphoneipad-photo-import-error-a-compreayers-approach-on-w11/"><u>Fixing iPhone/iPad Photo Import Error: A Compreayer’s Approach on W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-error-on-your-ps4-a-complete-guide/"><u>How to Fix the CE-34878-0 Error on Your PS4: A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-visual-identification-displaying-this-pc-icon/"><u>Improve Visual Identification: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>In 2024, Prime Picks The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-viral-visibility-vault-our-compreeher-guide-of-15-proven-methods-to-amass-attention-on-instagram/"><u>In 2024, Viral Visibility Vault Our Compreeher Guide of 15 Proven Methods to Amass Attention on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-write-rights-to-steam-directories-with-windows-11/"><u>Securing Write Rights to Steam Directories with Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-leveraging-google-home-on-your-computer/"><u>Step-by-Step Instructions for Leveraging Google Home on Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>Streamlined Social Integration Linktree and TikTok Profiles United</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y100i-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y100i FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-whiz-11-common-problems-solutions-revealed/"><u>The Windows 11 Whiz: 11 Common Problems, Solutions Revealed</u></a></li>
+</ul></div>
+

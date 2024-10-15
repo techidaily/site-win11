@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Responsive Windows PC Keyboard Keys
-date: 2024-09-09T21:48:55.729Z
-updated: 2024-09-16T17:47:33.573Z
+date: 2024-10-11T22:00:39.277Z
+updated: 2024-10-15T16:33:06.164Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 After logging into your computer, start applying the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure the Keys Aren’t Damaged
 
  It's almost impossible for several keys on your keyboard to malfunction simultaneously. However, if you have dropped your keyboard recently, hit it with something, or spilled a liquid on it, some keys may have been damaged.
@@ -45,6 +52,13 @@ After logging into your computer, start applying the following fixes.
 ![Testing Keyboard Keys on the Keyboard Test Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/testing-keyboard-keys-on-the-keyboard-test-website.jpg)
 
  However, if the keys register successfully during the test, either software interference or Windows settings are preventing the keys from working correctly. In that case, start applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Apply Some Preliminary Checks
 
@@ -79,14 +93,14 @@ If the above fixes do not work, start applying the remaining fixes.
 4. Click on the**Run** button next to the**Keyboard** troubleshooter.  
 ![Click on the Run Button Next to the Keyboard Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-run-button-next-to-the-keyboard-troubleshooter-in-windows-settings-app.jpg)
 
- Then, follow the on-screen instructions if you are prompted to follow them. Most likely, the troubleshooter will make the changes automatically. If not, the troubleshooter will suggest you a few changes.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then, follow the on-screen instructions if you are prompted to follow them. Most likely, the troubleshooter will make the changes automatically. If not, the troubleshooter will suggest you a few changes.
 
 ## 5\. Update or Reinstall the Keyboard Drivers
 
@@ -97,27 +111,7 @@ If the above fixes do not work, start applying the remaining fixes.
 3. Right-click on the keyboard driver you want to update and click**Update** .  
 ![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If updating the keyboard driver does not make any difference, reinstall it. To uninstall a keyboard driver, right-click it and select**Uninstall device** . Then, click**OK** in the confirmation popup. After that, restart your device, and Windows will hopefully reinstall the drivers.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Change the Keyboard Settings
 
@@ -128,27 +122,29 @@ If the above fixes do not work, start applying the remaining fixes.
 3. Click on**Keyboard** on the right side of the screen.  
 ![Open the Keyboard Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-open-the-keyboard-settings-in-windows-settings-app.jpg)
 4. Disable the toggles next to**Sticky keys** ,**Filter keys** , and**Toggle keys** .
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Disable the toggle next to**Underline access keys** .  
 ![Disable Certain Keyboard Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-disable-certain-keyboard-settings-in-the-windows-settings-app.jpg)
 6. Then, go to**Typing** under**Related settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Go to Typing Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-typing-settings-under-related-settings-in-windows-settings-app.jpg)
 7. Turn off the toggles next to **Show text suggestions when typing on the physical keyboard** and**Multilingual text suggestions** .  
 ![Turn Off the Toggles Next to Show Text Suggestions When Typing on the Physical Keyboard and Multilingual Text Suggestions in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-turn-off-the-toggles-next-to-show-text-suggestions-when-typing-on-the-physical-keyboard-and-multilingual-text-suggestions-in-windows-settings-app.jpg)
 8. After that, click on**Advanced keyboard settings** and make sure the correct language option is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix the Problematic Keys on Your Keyboard
 
@@ -167,5 +163,26 @@ If the above fixes do not work, start applying the remaining fixes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-skyrocket-traffic-and-views-discover-the-best-5-video-marketing-techniques/"><u>[New] 2024 Approved Skyrocket Traffic and Views – Discover the Best 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-step-by-step-tutorial-to-monetize-product-videography-for-2024/"><u>[New] A Step-by-Step Tutorial to Monetize Product Videography for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-asmr-viewers-essentials-explained-for-2024/"><u>[New] ASMR Viewers' Essentials Explained for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mini-youtube-content-explained/"><u>2024 Approved Mini YouTube Content Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-windows-error-elusive-startup-items/"><u>Curing Windows Error: Elusive Startup Items</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-discarding-your-windows-11-trail/"><u>Deciphering and Discarding Your Windows 11 Trail</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-airflow-for-windows-11-gadgets/"><u>Enhancing Airflow for Windows 11 Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/formulating-enduring-file-disposal-strategies-on-windows-systems/"><u>Formulating Enduring File Disposal Strategies on Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/future-proof-video-coding-av1-or-hevc-analyzing-superiority-for-next-gen-media/"><u>Future-Proof Video Coding: AV1 or HEVC – Analyzing Superiority for Next-Gen Media</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-video-driver-crashed-and-was-reset-error-in-windows-1110/"><u>How to Fix the “Video Driver Crashed and Was Reset” Error in Windows 11/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-hp-monitor-drivers-in-windows-10-8-and-7/"><u>How to Repair HP Monitor Drivers in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sierras-best-top-5-mac-videography-software-insights/"><u>In 2024, Sierra's Best Top 5 Mac Videography Software Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-color-from-chrome-on-pcs/"><u>Recovering Color From Chrome on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-low-memory-indicators-in-windows-based-vmware/"><u>Remedies for Low Memory Indicators in Windows-Based VmWare</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-power-management-hitch-with-third-party-software/"><u>Steps to Overcome Windows Power Management Hitch with Third-Party Software</u></a></li>
+<li><a href="https://win11.techidaily.com/unite-pilot-and-ai-on-windows-11-after-disconnection/"><u>Unite Pilot & AI on Windows 11 After Disconnection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>Unmatched Upticks Celebrating Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-future-of-immersion-sony-vr-gadget-details-and-anticipated-launch-info/"><u>Unveiling the Future of Immersion: Sony VR Gadget Details and Anticipated Launch Info</u></a></li>
+</ul></div>
 

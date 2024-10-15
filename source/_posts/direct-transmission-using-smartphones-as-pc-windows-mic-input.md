@@ -1,7 +1,7 @@
 ---
 title: "Direct Transmission: Using Smartphones as PC Windows Mic Input"
-date: 2024-10-04T14:23:22.408Z
-updated: 2024-10-08T16:54:35.759Z
+date: 2024-10-13T19:47:34.631Z
+updated: 2024-10-15T17:21:14.056Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
  We'll detail the steps for all the different options below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Connect via Bluetooth
 
  First, enable Bluetooth on your computer:
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 3. Slide **Bluetooth** to **On**. Your computer will now be discoverable to other devices.
 
 ![windows 11 bluetooth and devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-bluetooth-and-devices.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, enable Bluetooth on your phone. This option's exact location will vary per device, but it'll be somewhere in **Settings** (then perhaps within a **Connections** menu).
 
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 1. Tap the **settings cog**.
 2. Tap **Transport** and select **Bluetooth**.
 3. Go back to the previous screen and tap the **play icon** to begin transmitting your voice.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Connect via USB
 
@@ -95,15 +102,22 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
 ![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Connect via Wi-Fi
@@ -119,13 +133,6 @@ Close
 
 ![windows 11 available wifi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-available-wifi-networks.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the mobile WO Mic app:
 
 1. Tap the **settings cog**.
@@ -137,13 +144,6 @@ Close
 1. As your **Transport type**, select **Wi-Fi**.
 2. In the **Phone IP address** field, input the IP address from the app.
 3. Click **Connect** to begin using the microphone.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Connect via Wi-Fi Direct
 
@@ -188,10 +188,10 @@ Close
 ![windows 11 microphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-microphone-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternative Methods to WO Mic
@@ -214,29 +214,6 @@ Close
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-streaming-success-live-tiktok-broadcasts-on-computers/"><u>[New] Streaming Success Live TikTok Broadcasts on Computers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-picks-for-efficient-youtube-video-url-condensers/"><u>[Updated] 2024 Approved Top Picks for Efficient YouTube Video URL Condensers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/benq-bl2711u-the-artisans-choice-for-high-end-4k-display-enthusiasts/"><u>BenQ BL2711U - The Artisan's Choice for High-End 4K Display Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/breathe-life-into-slow-windows-excel-with-easy-fixes/"><u>Breathe Life Into Slow Windows-Excel with Easy Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-back-missing-icons-on-windows-11-easily/"><u>Bring Back Missing Icons on Windows 11 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-back-the-dormant-wastebin-icon-in-windows/"><u>Bring Back the Dormant Wastebin Icon in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-your-messaging-up-to-date-with-win11s-new-emojis/"><u>Bring Your Messaging Up-to-Date with Win11's New Emojis</u></a></li>
-<li><a href="https://win11.techidaily.com/building-python-applications-to-handle-file-operations-in-networks/"><u>Building Python Applications to Handle File Operations in Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-non-genuine-adobe-pop-up-on-pcs/"><u>Bypass Non-Genuine Adobe Pop-Up on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-mandatory-component-fault-windows-1011/"><u>Bypassing the Mandatory Component Fault Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/can-pressing-prtscr-open-snipping-tool-how-to-block-it-on-windows-11/"><u>Can Pressing PrtScr Open Snipping Tool? How to Block It on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/chronicles-unveiled-diving-into-windows-11-history/"><u>Chronicles Unveiled: Diving Into Windows 11 History</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-note-12t-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi Note 12T Pro Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-8t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 8T to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-venture-beyond-final-cut-pro-x-10-impressive-video-editing-software-alternatives/"><u>New Venture Beyond Final Cut Pro X 10 Impressive Video Editing Software Alternatives</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2023-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2023 Causes & Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-artificial-intelligence-applications-for-efficiently-tackling-mathematical-challenges/"><u>Top 7 Artificial Intelligence Applications for Efficiently Tackling Mathematical Challenges</u></a></li>
-<li><a href="https://facebook.techidaily.com/unseen-tech-marvels-discover-the-leading-4-stories-you-missed/"><u>Unseen Tech Marvels: Discover the Leading 4 Stories You Missed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -244,3 +221,20 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-harmonizing-highlights-how-to-embed-songs-on-instagram-stories/"><u>[New] Harmonizing Highlights How to Embed Songs on Instagram Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-unseen-virtues-of-vector-graphics-mastery-for-2024/"><u>[Updated] The Unseen Virtues of Vector Graphics Mastery for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-quick-scrolling-savvy-the-complete-guide-to-skip-videos-on-tiktok/"><u>2024 Approved Quick Scrolling Savvy The Complete Guide to Skip Videos on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-understanding-igtv-from-basics-to-boosting-your-presence/"><u>2024 Approved Understanding IGTV From Basics, to Boosting Your Presence</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-user-biometrics-in-windows-11-for-domains/"><u>Configuring User Biometrics in Windows 11 for Domains</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-a-pristine-windows-11-reboot/"><u>Executing a Pristine Windows 11 Reboot</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incremental-volume-easing-in-logic-pro-audio-workflows-for-2024/"><u>Incremental Volume Easing in Logic Pro Audio Workflows for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/insights-into-youtubes-visionary-studio-platform-for-2024/"><u>Insights Into YouTube's Visionary Studio Platform for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-auto-color-management-in-win11/"><u>Navigating Through Auto Color Management in Win11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-samsung-galaxy-note20-ultra-5g-a-detailed-user-experience-assessment/"><u>The Samsung Galaxy Note20 Ultra (5G) – A Detailed User Experience Assessment</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-automating-the-openness-of-emails-in-words-reading-area/"><u>Tutorial: Automating the Openness of Emails in Word's Reading Area</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-exploring-functionality-and-troubleshooting/"><u>Understanding Vulkan Runtime Libraries – Exploring Functionality & Troubleshooting</u></a></li>
+</ul></div>
+

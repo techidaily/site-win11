@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Windows' Code 0X80780119
-date: 2024-10-07T17:53:09.111Z
-updated: 2024-10-08T22:25:23.043Z
+date: 2024-10-08T19:08:04.713Z
+updated: 2024-10-15T16:16:19.628Z
 tags:
   - windows10
   - windows11
@@ -67,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 4. Click on the **Check** button here and wait for the system to complete the scan. This may take some time, depending upon the size of your disk.  
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
 
@@ -87,33 +87,41 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 3. Head over to the **Device specifications** section and click on the **System protection** option.  
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete USN Journal
 
@@ -136,35 +144,11 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  After the commands are executed, you can close Command Prompt and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Create a Backup Without Any More Errors on Windows
 
  Ensuring the protection of your data should be your foremost priority, and a system image backup plays a vital role in safeguarding against unforeseen data loss. With the solutions above, you should be able to get the System Restore utility up and running in no time. However, if the problem persists, you can consider reporting the issue to Microsoft and try the specific solutions they suggest. Till then, you can switch to a third-party backup tool to safeguard your data.
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-optimal-strategy-for-broadcasting-via-obs-on-fb-live-for-2024/"><u>[New] Optimal Strategy for Broadcasting via OBS on FB Live for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-playcapture-x-the-cost-free-videography-for-games/"><u>[Updated] In 2024, PlayCapture X The Cost-Free Videography for Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027355816-pc/"><u>音の謎解き：PCに保存されたビデオから再生不能のサウンドを取り戻せ!</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-through-torrent-lag-on-your-pc-with-qbittorrent/"><u>Breaking Through Torrent Lag on Your PC with qBittorrent</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-chromes-glitch-enabling-flawless-filesync-on-windows/"><u>Bypass Chrome’s Glitch: Enabling Flawless Filesync on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-blurriness-9-ways-to-fine-tune-your-windows-display/"><u>Bypassing Blurriness: 9 Ways to Fine-Tune Your Windows Display</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-the-question-of-openais-continued-oversight/"><u>ChatGPT and the Question of OpenAI's Continued Oversight</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-obstacles-to-the-microsoft-store-on-windows-11/"><u>Clearing Obstacles to the Microsoft Store on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-windows-bluetooth-connectivity-issues/"><u>Clearing Up Windows Bluetooth Connectivity Issues</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-8-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 8 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-key-to-a-profitable-yt-channel-accurate-monetization-verification/"><u>In 2024, The Key to a Profitable YT Channel Accurate Monetization Verification</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-reimagines-buttons-with-pearsons-expertise/"><u>Mondly Reimagines Buttons with Pearson's Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/au-wmvmovavi/"><u>あなたのAU WMVを自由に変換：Movavi 無料オンラインツール</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,3 +157,22 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-evaluating-the-financial-giants-mr-beast/"><u>[New] 2024 Approved Evaluating the Financial Giants Mr. Beast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/veryday-epics-in-a-lens-tips-to-avoid-common-mistakes/"><u>[New] Everyday Epics in a Lens Tips to Avoid Common Mistakes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-frames-innovative-techniques-for-backward-viewing-on-yt-for-2024/"><u>[Updated] Flipping Frames Innovative Techniques for Backward Viewing on YT for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-bring-back-your-preferred-photo-viewer-in-win-11-for-2024/"><u>[Updated] How to Bring Back Your Preferred Photo Viewer in Win 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-essential-process-for-saving-social-media-video-content/"><u>[Updated] The Essential Process for Saving Social Media Video Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-scrutinizing-the-specifications-of-djis-flight-model-3/"><u>2024 Approved Scrutinizing the Specifications of DJI's Flight Model 3</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypt-windows-passwords-the-ultimate-guide-to-opening-credential-manager/"><u>Decrypt Windows Passwords: The Ultimate Guide to Opening Credential Manager</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-12-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 12 Apple ID on MacBook</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-of-your-operating-systems-after-win-11-installation/"><u>Maximizing Efficiency of Your Operating Systems After Win 11 Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-endless-enter-credential-errors-in-windows/"><u>Overcoming Endless Enter Credential Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-application-launch-problems-in-windows-11/"><u>Strategies to Overcome Application Launch Problems in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-complete-itunes-radio-downloading-blueprint-for-2024/"><u>The Complete iTunes Radio Downloading Blueprint for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quick-fix-handbook-unraveling-11-windows-quirks/"><u>The Quick-Fix Handbook: Unraveling 11 Windows Quirks</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-auto-detection-failure-for-windows-network-proxies/"><u>Troubleshooting Auto Detection Failure for Windows Network Proxies</u></a></li>
+</ul></div>
+

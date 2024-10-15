@@ -1,7 +1,7 @@
 ---
 title: "Embracing Sleep: PCs on a Virtual Nap"
-date: 2024-09-11T20:01:38.082Z
-updated: 2024-09-17T07:11:31.929Z
+date: 2024-10-08T16:31:13.630Z
+updated: 2024-10-15T18:04:54.607Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 2. Select**Shut down or sign out > Sleep** .  
 ![Put Windows Computer to Sleep From Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-power-user-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Using the Sleep Key on Your Keyboard
 
  Many Windows laptops and computers come with a dedicated sleep key that allows you to enter sleep mode quickly. The exact location of this key can vary depending on the make and model of your computer.
@@ -72,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 2. Click the**Power icon** in the bottom right corner and select**Sleep** from the list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Use the Alt + F4 Keyboard Shortcut
@@ -103,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/3fdaca488d74735acc0a94b8e5d7a94444c107a2d
 ![Put Windows Computer to Sleep Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As soon as you run the above command, your PC will enter sleep mode.
@@ -122,16 +129,10 @@ As soon as you run the above command, your PC will enter sleep mode.
 ![Power and Battery Settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-and-battery-settings-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Create a Desktop Shortcut to Put Windows to Sleep
@@ -146,16 +147,22 @@ As soon as you run the above command, your PC will enter sleep mode.
 3. Enter a suitable name for your shortcut and click on**Finish** .  
 ![Create Sleep Shortcut in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-sleep-shortcut-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now when you double-click on that shortcut, your computer will enter sleep mode.
 
  Conveniently, you can also put your computer to sleep with a keyboard shortcut. If you're interested in doing that, check our guide on[how to shut down or sleep Windows with a keyboard shortcut](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Many Ways to Put a Windows Computer to Sleep
 
@@ -176,5 +183,23 @@ As soon as you run the above command, your PC will enter sleep mode.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unmatched-warfare-discovering-the-prime-7-total-war-battles/"><u>[New] 2024 Approved Unmatched Warfare Discovering the Prime 7 Total War Battles</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-unlocking-growth-potential-with-top-7-tiktok-tools/"><u>[New] In 2024, Unlocking Growth Potential with Top 7 TikTok Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-choosing-vocal-change-software/"><u>[New] The Ultimate Guide to Choosing Vocal Change Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-proven-iphone-tips-effortless-video-length-and-size-control/"><u>[Updated] In 2024, Proven iPhone Tips Effortless Video Length & Size Control</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-capturing-attention-striking-shots-for-youtube-success/"><u>2024 Approved Capturing Attention Striking Shots for YouTube Success</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-steps-creating-gifs-from-beginner-videos/"><u>5 Easy Steps: Creating GIFs From Beginner Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-mute-status-in-windows-audiosystem/"><u>Correcting Mute Status in Windows Audiosystem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-correcting-tremors-and-erratic-display-behavior-in-your-surface-pro/"><u>Expert Advice: Correcting Tremors and Erratic Display Behavior in Your Surface Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exploring-the-nocturnal-world-through-your-iphone-lens-for-2024/"><u>Exploring the Nocturnal World Through Your iPhone Lens for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsupported-fingerprint-detector-issue-on-pc/"><u>Fixing Unsupported Fingerprint Detector Issue on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-expose-trust-in-your-biometric-windows-lock/"><u>Hacks Expose: Trust in Your Biometric Windows Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-tech-performance-efficiency-with-windows-widgets/"><u>Maximizing Tech Performance: Efficiency with Window's Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-practices-reactivating-explore-in-11os/"><u>Powerful Practices: Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-11s-soon-to-expire-licensing-message/"><u>Remedying Windows 11'S 'Soon-to-Expire' Licensing Message</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-resolving-error-code-0xc0000005-in-windows/"><u>Step-by-Step Guide: Resolving Error Code 0XC0000005 in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unleash-your-media-library-effortlessly-rip-dvds-using-the-gratis-winx-dvd-ripper-for-iphone-android-and-avi-playback/"><u>Unleash Your Media Library: Effortlessly Rip DVDs Using the Gratis WinX DVD Ripper for iPhone, Android, and AVI Playback</u></a></li>
+</ul></div>
 

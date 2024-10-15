@@ -1,7 +1,7 @@
 ---
 title: Cutting Rounded Corners in Windows Desktop
-date: 2024-10-07T14:34:56.039Z
-updated: 2024-10-09T12:20:19.437Z
+date: 2024-10-11T18:29:34.690Z
+updated: 2024-10-15T18:16:49.072Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
  Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable Rounded Corners in Windows 11 Using the Registry Editor
@@ -64,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 ![Disable Rounded Corners in Windows 11 via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-rounded-corners-in-windows-11-via-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to reverse the above change later, repeat the same steps mentioned earlier and change the value data for the **UseWindowFrameStagingBuffer** to **1**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Disable Rounded Corners in Windows 11 via Device Manager
@@ -91,14 +91,14 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 4. Right-click on your display driver and select **Disable device**.  
 ![Disable Graphics Driver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-graphics-driver-on-windows-11.jpg)
 
- Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
 
 ## Disabling Rounded Corners in Windows 11 Is Easy
 
@@ -108,26 +108,6 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
  The good news is that it is possible to disable rounded corners in Windows 11, and this guide will walk you through three easy methods for the same.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>[New] Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-maximizing-your-gaming-with-xbox-screenshots/"><u>[New] Maximizing Your Gaming with Xbox Screenshots</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-youtube-to-webm-tools-a-compreenasive-review-and-ranking/"><u>[Updated] Best YouTube-to-WebM Tools A Compreenasive Review & Ranking</u></a></li>
-<li><a href="https://win11.techidaily.com/7-pivotal-points-for-reconnecting-your-obs-studio-link-win-compatible/"><u>7 Pivotal Points for Reconnecting Your OBS Studio Link (Win-Compatible)</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-keeping-your-tasks-visible-and-high-priority/"><u>A Guide to Keeping Your Tasks Visible and High-Priority</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-emoji-15-support-in-windows-11/"><u>Activating Emoji 15 Support in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-lockout-interval-after-multiple-login-failures/"><u>Adjusting Lockout Interval After Multiple Login Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/aesthetic-alchemy-how-to-seamlessly-change-windows-11-themes-and-enrich-your-workspace/"><u>Aesthetic Alchemy: How to Seamlessly Change Windows 11 Themes and Enrich Your Workspace</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-folder-empty-warning-on-windows-pcs/"><u>Avoiding Folder Empty Warning on Windows PCs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/avoiding-motion-illusions-tips-for-vr-users-for-2024/"><u>Avoiding Motion Illusions Tips for VR Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-productivity-with-multiple-zip-archives-in-one-go/"><u>Boosting Productivity with Multiple ZIP Archives in One Go</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/elevate-storytelling-free-soundtrack-options-available-in-2024/"><u>Elevate Storytelling - Free Soundtrack Options Available, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 13 mini Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-list-where-to-pull-off-ringtone-files/"><u>Ultimate List Where To Pull Off Ringtone Files</u></a></li>
-<li><a href="https://facebook.techidaily.com/when-does-a-new-fb-icon-signify-change/"><u>When Does a New Fb Icon Signify Change?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,3 +115,23 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-assessing-ffmpegs-prowess-in-original-audio-extraction/"><u>[New] Assessing FFmpeg’s Prowess in Original Audio Extraction</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-viewer-response-crafting-engaging-ig-story-qandas-for-2024/"><u>[New] Elevate Viewer Response Crafting Engaging IG Story Q&As for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ios-snapshot-spectrum-your-quick-reference/"><u>[New] In 2024, IO's Snapshot Spectrum Your Quick Reference</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-premiere-pro-template-hacks/"><u>[Updated] The Ultimate Guide to Free Premiere Pro Template Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-how-to-make-uwp-app-shortcuts/"><u>Enhancing Windows 11: How to Make UWP App Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-check-for-updates-context-menu-option-in-windows-10-and-11/"><u>How to Add a Check for Updates Context Menu Option in Windows 10 and 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-grant-read-permission-on-hidden-outlook-directories-and-files/"><u>How to Grant Read Permission on Hidden Outlook Directories & Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hands-on-guide-flipping-film-with-vlc-software/"><u>In 2024, Hands-On Guide Flipping Film with VLC Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pioneering-adventures-the-ultimate-gaming-list-top-10/"><u>In 2024, Pioneering Adventures The Ultimate Gaming List (Top 10)</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-cleanup-generative-erase-revolutionizes-windows/"><u>Innovating Cleanup: Generative Erase Revolutionizes Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-imessage-for-windows-a-step-by-step-guide/"><u>Mastering iMessage for Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-file-system-failures-a-guide-to-fixes-in-win11/"><u>Navigating File System Failures: A Guide to Fixes in Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance-for-2024/"><u>Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How-To: Effortlessly Configuring Data Sources in Windows"
-date: 2024-09-11T05:53:49.803Z
-updated: 2024-09-16T22:10:59.861Z
+date: 2024-10-09T22:42:07.259Z
+updated: 2024-10-15T18:56:29.340Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 ![Windows computer next to a book and a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Windows-computer-next-to-a-book-and-a-cup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of the easiest ways to access the ODBC Data Sources tool (or any other app) is by using the Start menu search bar.
 
  Here are the steps you need to apply:
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 1. Press **Win + S** to access the Start menu search bar. Alternatively, Press the **Windows search bar icon** on the taskbar.
 2. Type **ODBC Data Sources** and select the **Best match**.  
 ![Accessing the ODBC Data Sources app using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Access the ODBC Data Sources App Using the Start Menu
 
@@ -67,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 2. Select the **Windows Administrative Tools** folder from the menu items.
 3. Locate and select one of the **ODBC Data Sources** options.  
 ![Accessing the ODBC Data Sources app using the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-start-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Access the ODBC Data Sources App Using the Control Panel
 
@@ -89,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ![Accessing the ODBC Data Sources app using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Access the ODBC Data Sources App Using the File Explorer Address Bar
@@ -117,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 4. Type **odbcad32.exe** in the search box and press **OK** to open the ODBC Data Sources app.  
 ![Accessing the ODBC Data Sources app using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-using-the-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Access the ODBC Data Sources App From the Windows System32 Directory
 
  You can also open the ODBC Data Sources app by clicking the relevant file in the Windows System32 folder.
@@ -129,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 4. Open the **Windows** folder, scroll down, and open the **System32** folder.
 5. Double-click on the **odbcad32** option to open the ODBC Data Sources app.  
 ![Accessing the ODBC Data Sources app from the System32 directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessing-the-odbc-data-sources-app-from-the-system32-directory.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Access the ODBC Data Sources App Using the Command Prompt or PowerShell
 
@@ -157,22 +170,16 @@ odbcad32.exe
 
 odbcad32.exe
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Access the ODBC Data Sources App Using a Desktop Shortcut
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Using desktop shortcuts is one of the best ways to access your apps. So, let's explore how you can create an ODBC Data Sources desktop shortcut:
 
@@ -181,20 +188,14 @@ odbcad32.exe
 3. Type **%windir%\\system32\\odbcad32.exe** in the location box and press **Next** to continue.  
 ![Creating the ODBC Data Sources desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-odbc-data-sources-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **ODBC Data Sources App** in the "name" box and then click the **Finish** button. Now, you can easily access the ODBC Data Sources app using the desktop shortcut you've just created.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Accessing the Windows ODBC Data Sources App Is Quite Easy
 
@@ -215,5 +216,26 @@ odbcad32.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unraveling-the-mysteries-of-instagrams-video-timeframe/"><u>[New] 2024 Approved Unraveling the Mysteries of Instagram's Video Timeframe</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfecting-your-virtual-sessions-with-best-screen-recorders-freepaid/"><u>[Updated] Perfecting Your Virtual Sessions with Best Screen Recorders (Free/Paid)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-countdown-of-content-youtubes-1-videos-by-minutes-for-2024/"><u>[Updated] The Countdown of Content YouTube's #1 Videos by Minutes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-qanda-on-quantum-hdr-technology/"><u>[Updated] The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-charting-a-course-for-youtube-success-viewer-numbers-and-income/"><u>2024 Approved Charting a Course for YouTube Success Viewer Numbers and Income</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-magic-6-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor Magic 6 without App | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-pathway-photos-transformed-into-videos-via-pixiz-for-2024/"><u>Beginner's Pathway Photos Transformed Into Videos via Pixiz for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-unwanted-edge-shortcut-popups/"><u>Conquering Unwanted Edge Shortcut Popups</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-connection-integrate-your-pc-and-phone-through-flow/"><u>Effortless Connection - Integrate Your PC & Phone Through Flow</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-fixing-two-users-ms-login-conflicts/"><u>Expert Tips: Fixing Two Users' MS Login Conflicts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-official-method-to-unlock-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Pro Official Method to Unlock Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-email-management-9-key-upgrades-in-windows-outlook/"><u>Mastering Email Management: 9 Key Upgrades in Windows' Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/savings-saved-the-hidden-dangers-in-cheap-windows-activation-codes/"><u>Savings, Saved? The Hidden Dangers in Cheap Windows Activation Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-clear-of-fatigue-post-winning-life-with-windows/"><u>Steering Clear of Fatigue Post Winning Life with Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-guide-5-efficient-windows-11-audio-recording-tips-for-2024/"><u>Streamlined Guide 5 Efficient Windows 11 Audio Recording Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insider-guide-to-win11-accessibility-keys/"><u>The Insider Guide to Win11 Accessibility Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/triumphant-three-column-widget-setup-in-the-latest-win11-version/"><u>Triumphant Three-Column Widget Setup in the Latest Win11 Version</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-animation-drawing-top-software-picks-for-2024/"><u>Updated The Ultimate Guide to Animation Drawing Top Software Picks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-print-admin-a-user-friendly-approach/"><u>Windows Print Admin: A User-Friendly Approach</u></a></li>
+</ul></div>
 

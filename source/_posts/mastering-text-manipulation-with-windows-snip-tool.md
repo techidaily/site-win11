@@ -1,7 +1,7 @@
 ---
 title: Mastering Text Manipulation with Window's Snip Tool
-date: 2024-10-07T06:32:11.742Z
-updated: 2024-10-09T10:53:58.345Z
+date: 2024-10-10T20:18:57.882Z
+updated: 2024-10-15T19:20:10.174Z
 tags:
   - windows10
   - windows11
@@ -47,17 +47,17 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 7. Paste all the copied text in the Notepad and save it for later.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
 
@@ -68,25 +68,19 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
@@ -96,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
@@ -110,27 +104,6 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-reimagining-home-setups-with-a-webcam/"><u>[New] 2024 Approved Reimagining Home Setups with a Webcam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-effortlessly-create-and-manage-cross-platform-communication-channels-with-skype-groups-for-2024/"><u>[New] Effortlessly Create and Manage Cross-Platform Communication Channels with Skype Groups for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-content-with-advanced-tiktok-symbol-knowledge/"><u>[Updated] Elevate Your Content with Advanced TikTok Symbol Knowledge</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-through-boot-blockers-top-windows-troubleshooting-steps/"><u>Breaking Through Boot Blockers: Top Windows Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-windows-up-to-date-key-differences-from-w10-to-w11/"><u>Bringing Windows Up to Date: Key Differences From W10 to W11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-credential-manager-lockup-in-windows/"><u>Bypass Credential Manager Lockup in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-error-while-opening-sound-device-in-audacity-for-windows/"><u>Bypassing Error While Opening Sound Device in Audacity for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-printer-busy-on-windows-11-systems/"><u>Bypassing Printer Busy on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/canon-mf4770n-driver-update-in-windows-1187/"><u>Canon MF4770n Driver Update in Windows 11/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-conundrum-playing-vintage-games-with-dosbox-x/"><u>Classic Conundrum: Playing Vintage Games with DOSBox-X</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-the-clutter-experience-unadorned-windows-11/"><u>Clear the Clutter: Experience Unadorned Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-non-mic-working-on-windows-headsets/"><u>Combat Non-Mic Working on Windows Headsets</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-nubia-red-magic-8s-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Nubia Red Magic 8S Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/metaquest-3-the-ultimate-virtual-adventure/"><u>MetaQuest 3: The Ultimate Virtual Adventure</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-secret-to-retrieving-lost-contacts-from-your-iphone/"><u>The Secret to Retrieving Lost Contacts From Your iPhone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-silent-interludes-harmonious-sounds-expert-techniques-for-audio-ducking-in-adobe-premiere-pro-on-a-mac-computer-for-2024/"><u>Updated Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +111,25 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitters-video-content-aspect-ratios-included-for-2024/"><u>[Updated] Navigating Twitter’s Video Content Aspect Ratios Included for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-personalized-video-setups-a-beginners-guide-to-selfies-on-youtube/"><u>[Updated] Personalized Video Setups A Beginner's Guide to Selfies on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-for-windows-pcs/"><u>Download & Update Sapphire Graphics Drivers for Windows PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-c33-2023-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme C33 2023 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-use-of-ram-in-cross-device-service-platforms-windows-tips/"><u>Efficient Use of RAM in Cross-Device Service Platforms: Windows Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-unveiling-and-managing-windows-10-actions/"><u>Guide to Unveiling & Managing Windows 10 Actions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-in-depth-explanation-implementing-cc-license-types/"><u>In 2024, In-Depth Explanation Implementing CC License Types</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-most-improved-10-elements-of-terraria/"><u>In 2024, Most Improved 10 Elements of Terraria</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-security-restrictions-with-rufus-expertise/"><u>Navigating Windows 11'S Security Restrictions with Rufus Expertise</u></a></li>
+<li><a href="https://common-error.techidaily.com/technical-guide-to-optimal-playability-why-your-pc-must-have-a-d3d11-graphics-card-compatibility-to-run-the-engine-flawlessly/"><u>Technical Guide to Optimal Playability: Why Your PC Must Have a D3D11 Graphics Card Compatibility to Run the Engine Flawlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-discretion-in-windows-11-functionality/"><u>The Art of Discretion in Windows 11 Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/the-basics-how-to-use-microsofts-phone-link-app/"><u>The Basics: How to Use Microsoft's ‘Phone Link’ App</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-tutorial-on-producing-quality-sound-effects-for-viral-tiktok-videos/"><u>The Ultimate Tutorial on Producing Quality Sound Effects for Viral TikTok Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-window-glow-on-windows-11-computers/"><u>Transforming Window Glow on Windows 11 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/unclutter-your-taskbar-separate-groups/"><u>Unclutter Your Taskbar: Separate Groups</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-computer-with-microsoft-works-for-windows/"><u>Unlocking Your Computer with Microsoft Works for WIndows</u></a></li>
+</ul></div>
+

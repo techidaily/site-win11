@@ -1,7 +1,7 @@
 ---
 title: Is the Task Scheduler Not Working on Windows? Try These Fixes
-date: 2024-10-05T16:37:21.336Z
-updated: 2024-10-09T08:58:24.822Z
+date: 2024-10-10T19:27:51.254Z
+updated: 2024-10-15T18:05:49.665Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,14 @@ To run an SFC scan, follow these steps:
 3. When UAC prompts on the screen, click**Yes** to grant privileges.  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. In the elevated Command Prompt window, type the following command:  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. Press Enter to execute the command. This will scan your computer for corrupted system files and replace them with the correct ones if any are found.
 
@@ -62,10 +70,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
  This will scan your computer for any corrupted Windows images on your computer and try to fix them. The process may take a while to complete. Once it's done, restart your computer and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Restart the Task Scheduler Service
@@ -80,10 +88,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
  Once restarted, try to run your scheduled tasks again and see if you can now schedule them properly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Windows Updates
@@ -95,25 +109,18 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 3. Then click on**Check for updates** to see if there are any updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If updates are available, Windows will automatically download and install them. After installing the updates, restart your computer to see if that fixes the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Perform a Clean Boot
 
  If all else fails, you can try[performing a clean boot on your computer](https://www.makeuseof.com/clean-boot-windows-11/) . This is an effective way to identify and resolve any potential conflicts with Task Scheduler that may be causing issues.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Run Task Scheduler With No More Problems
 
@@ -134,17 +141,19 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-video-acquisition-top-10-vimeo-downloader-software/"><u>[New] In 2024, Mastering Video Acquisition Top 10 Vimeo Downloader Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfecting-audio-capture-on-skype-with-obs-tools/"><u>[New] In 2024, Perfecting Audio Capture on Skype With OBS Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/5-top-win-drawing-apps-that-challenge-procreates-edge/"><u>5 Top Win Drawing Apps That Challenge Procreate's Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-reasons-users-prefer-older-windows-versions/"><u>7 Key Reasons Users Prefer Older Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-system-awakening-tweak-windows-11-boot-timeout/"><u>Accelerating System Awakening: Tweak Windows 11 Boot Timeout</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/boost-your-instagram-with-easily-shareable-gifs-step-by-step-for-2024/"><u>Boost Your Instagram with Easily Shareable GIFs (Step-by-Step) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-swapping-old-to-new-window-drivers/"><u>Breaking Barriers: Swapping Old to New Window Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-free-from-code-breakdowns-quick-windows-fixes/"><u>Breaking Free From Code Breakdowns: Quick Windows Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-peak-performance-updating-intel-82579lm-for-windows-users/"><u>Ensuring Peak Performance: Updating Intel 82579LM for Windows Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/flip-and-spin-your-videos-effortlessly-mastering-video-orientation-with-5kplayer/"><u>Flip and Spin Your Videos Effortlessly: Mastering Video Orientation with 5KPlayer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-exquisite-samsung-galaxy-s10-the-epitome-of-luxury-phones/"><u>In-Depth Evaluation of the Exquisite Samsung Galaxy S10: The Epitome of Luxury Phones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-recording-on-itunes-for-2024/"><u>Step-by-Step Guide Recording on iTunes for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-djd-snaps-adding-tracks-to-enhance-videos-for-2024/"><u>[New] DJ'd Snaps Adding Tracks to Enhance Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-skills-for-youtube-gamers/"><u>[Updated] In 2024, Essential Skills for YouTube Gamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-restrictions-for-larger-posts/"><u>[Updated] Navigating Instagram's Restrictions for Larger Posts</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonic-heralds-discovering-the-finest-music-for-podcast-beginnings/"><u>Harmonic Heralds Discovering the Finest Music for Podcast Beginnings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g23-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G23 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-80-pro-straight-screen-edition-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor 80 Pro Straight Screen Edition FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-web-visiting-tools-a-compreran-test-of-lightweight-browsers/"><u>Optimal Web Visiting Tools: A Compreran Test of Lightweight Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-palette-for-windows-users-our-top-7-drawing-apps/"><u>Perfect Palette for Windows Users: Our Top 7 Drawing Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-disable-the-win11-firewall/"><u>Strategies to Disable the Win11 Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-review-comparing-screen-recorders-for-professionals/"><u>The Ultimate Review Comparing Screen Recorders for Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
 </ul></div>
 

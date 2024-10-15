@@ -1,7 +1,7 @@
 ---
 title: Strategies for Overcoming Windows Memory Errors
-date: 2024-10-04T10:41:19.952Z
-updated: 2024-10-09T13:58:43.056Z
+date: 2024-10-10T21:56:37.634Z
+updated: 2024-10-15T20:06:19.066Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
  This error is often triggered after a blue screen of death (BSOD) or the system freezing issues. The reason for the error can vary and include faulty memory slots and memory sticks. It can also be a false positive due to a Windows OS glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check for Overclocking Issues
 
  Incorrect overclocking can cause hardware issues. While faster RAM can help you achieve good performance, it is important to consider the hardware limitations before applying the tweaks.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
  If you are unsure about the default memory frequencies, try to perform a BIOS reset. Load the BIOS default, which should reset the RAM frequencies to its factory default. Refer to your motherboard manufacturer manual for specific instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the Hardware Troubleshooter
@@ -64,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 ![run windows hardware troubleshooter command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-windows-hardware-troubleshooter-command-prompt.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `msdt.exe -id DeviceDiagnostic`
 4. In the **Hardware and Devices** dialog, click **Next**. By default, the troubleshooter is set to apply any repairs available. To disable automatic repair, click **Advanced** and uncheck the **Apply repairs automatically** option.  
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Remove and Reinsert Your Memory Sticks
 
@@ -90,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
  If repairing the slots is not possible, your only option is a motherboard replacement. Depending on your system configuration, this can be an expensive solution. Or you can continue to use the system without utilizing the faulty memory slot, albeit with reduced performance.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Test Your RAM with MemTest86+
@@ -111,6 +104,14 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 3. Run the installer and select your USB drive. Make sure to select the format option.  
 ![memtest86 plus create bootable usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-create-bootable-usb-drive.jpg)
 4. Click **Next** and wait for the installer to create a bootable drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
 6. Next, power off your computer. You may also need to clear your motherboard CMOS to reset your BIOS to factory default settings. You can also [reset BIOS to its default configuration](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) from the BIOS menu.  
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
@@ -136,21 +137,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
  This error can be a false positive. You can also confirm the same by using a third-party memory diagnostic tool. In case of a hardware issue, you may need to replace the memory stick or repair the memory slot, if possible.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-media-spotlight-top-twitters/"><u>2024 Approved Social Media Spotlight Top Twitters</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A79 5G FRP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-vivo-y27-4g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Vivo Y27 4G.</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-the-window-taskbar-lockup-a-guide/"><u>Breaking the Window Taskbar Lockup: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-unresponsive-programs-in-windows-systems/"><u>Bypassing Unresponsive Programs in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-voice-activated-ai-on-windows-11/"><u>Ceasing Voice-Activated AI on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-path-for-team-success-resolving-80080300-errors-on-w11/"><u>Clearing the Path for Team Success: Resolving 80080300 Errors on W11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/explore-creativity-the-top-8-iphone-drawing-apps-uncovered-for-2024/"><u>Explore Creativity The Top 8 iPhone Drawing Apps Uncovered for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978550614-positive-externalities-occur-when-a-transaction-has-beneficial-effects-on-uninvolved-third-parties-such-as-education/"><u>Positive Externalities Occur when a Transaction Has Beneficial Effects on Uninvolved Third Parties, Such as Education.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-decrypting-and-extracting-dvd-content-using-handbrake/"><u>Step-by-Step Guide: Decrypting and Extracting DVD Content Using HandBrake</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-cinematic-trailer-collection/"><u>Ultimate Cinematic Trailer Collection</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +144,21 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-master-your-youtube-identity-with-cool-titles/"><u>[New] In 2024, Master Your YouTube Identity with Cool Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-4-proven-methods-for-perfect-instagram-video-loops/"><u>[Updated] 4 Proven Methods for Perfect Instagram Video Loops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unlock-your-youtube-potential-expert-tips-on-writing-video-outlines-for-2024/"><u>[Updated] Unlock Your YouTube Potential Expert Tips on Writing Video Outlines for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/compatibility-crusade-four-key-windows-troubleshooters/"><u>Compatibility Crusade: Four Key Windows Troubleshooters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficient-ways-to-utilize-split-screen-feature-on-your-macbook-air/"><u>Efficient Ways to Utilize Split Screen Feature on Your MacBook Air</u></a></li>
+<li><a href="https://games-able.techidaily.com/forget-the-fancy-why-standard-display-is-best-for-pc-gaming/"><u>Forget the Fancy: Why Standard Display Is Best for PC Gaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-5ghz-connection-not-appearing-in-windows-11-try-these-7-fixes/"><u>Is Your 5GHz Connection Not Appearing in Windows 11? Try These 7 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/is-yourphoneexe-a-threat-tips-for-windows-108-users/"><u>Is YourPhone.exe a Threat? Tips for Windows 10/8 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-missing-links-to-shared-windows-sites/"><u>Resurrect Missing Links to Shared Windows Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reveal-hidden-taskbar-icons/"><u>Strategies to Reveal Hidden Taskbar Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/superior-tools-replacing-windows-snipping-feature-in-various-oses/"><u>Superior Tools Replacing Windows' Snipping Feature in Various OSes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-declining-standard-of-promotions-on-amazons-fire-tv-platform/"><u>The Declining Standard of Promotions on Amazon's Fire TV Platform</u></a></li>
+</ul></div>
+

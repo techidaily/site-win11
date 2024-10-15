@@ -1,7 +1,7 @@
 ---
 title: Customize Idle Window Time Before Logout
-date: 2024-10-04T01:23:53.157Z
-updated: 2024-10-09T02:06:52.914Z
+date: 2024-10-14T21:15:55.298Z
+updated: 2024-10-15T21:30:57.026Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
  Instead, check out these methods to configure your Windows PC to lock automatically when there is no activity after a specific amount of time.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. How to Lock Your Windows PC After a Set Time via the Local Security Policy
 
  Using the Local Security Policy, you can set the exact time in seconds after which your PC will lock itself automatically. Make sure you're signed in as an administrator to automatically lock your PC.
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 2. Click the down arrow next to**Local Policies** in the left pane to expand it.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**Security Options** to open it.
@@ -57,25 +64,11 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 ![Machine Inactivity Limit Selected in Security Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-machine-inactivity-limit-in-security-options.jpg)
 5. Under the section**Machine will be locked after** , enter the time in seconds after which you want your PC to get locked automatically. This time is the time of machine inactivity or the time when your PC is idle. You can enter the time between**0** to**599940** seconds. For this tutorial, we'll enter**300 seconds** which is five minutes. Now click on**Apply** and then**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Finally, close the Local Security Policy window and restart your computer for the change to take effect.
 
  Now, when you use your PC, you will experience that your PC will lock itself after your custom timer expires. And if someone tries to unlock your PC while you're gone, it'll ask them for your password, which should keep them at bay until you get back.
 
  If you ever want to reverse this action and not have your PC lock automatically, just open the**Interactive logon: Machine inactivity limit** policy in**Local Security Policy** . Then just change the time or seconds to**0** —this is the default setting and will not lock your PC automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How to Lock Your Windows PC After a Specific Amount of Inactivity via the Registry Editor
 
@@ -94,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 5. Double-click on the**InactivityTimeoutSecs** DWORD to modify its value. Select**Decimal** under**Base** , and under**Value data** , enter a number between**0** to**599940** —this is the time in seconds after which your PC will get locked automatically. Like in the Local Security Policy method, we'll give it a time of**300 seconds** or five minutes. Now tap on**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. In case you do not find the**InactivityTimeoutSecs** DWORD in your registry, you can create it. Right-click on the**System** key folder in the left pane or right-click on a space in the right pane of the**System** key. Select**New** , then select**DWORD (32-bit) Value** .  
@@ -109,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
  Now your PC will get locked if you're not using it or are away from it after the time you have set in the Registry Editor. If you're on a Windows 11 machine, you can also[explore a few other ways to lock your PC](https://www.makeuseof.com/windows-11-ways-to-lock/) .
 
  To stop your PC from getting locked automatically, modify the**InactivityTimeoutSecs** DWORD value in the Registry Editor by changing the time to**0** seconds.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Work Worry-Free on Your Windows PC With a Custom Time-Out Lock
 
@@ -131,22 +131,24 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-az-record-pro-detailed-app-analyses-and-backup-choices/"><u>[Updated] In 2024, AZ Record Pro Detailed App Analyses & Backup Choices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage/"><u>Archive All Your Images Flawlessly Infinite, No-Charge & Elite Paid Storage</u></a></li>
-<li><a href="https://win11.techidaily.com/breathing-life-into-hidden-panes-6-strategies-in-win11/"><u>Breathing Life Into Hidden Panes: 6 Strategies in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-for-a-non-opening-command-prompt-window/"><u>Bridging the Gap for a Non-Opening Command Prompt Window</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-forlorn-windows-apps-back-into-use/"><u>Bringing Forlorn Windows Apps Back Into Use</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-screen-locks-for-uninterrupted-presentations/"><u>Bypass Screen Locks for Uninterrupted Presentations</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-webp-conversion-modifying-images-settings-in-chrome-windows/"><u>Bypass WebP Conversion: Modifying Images Settings in Chrome, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-limited-wi-fi-in-windows-11-a-guide-of-8-methods/"><u>Bypassing Limited Wi-Fi in Windows 11: A Guide of 8 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/clean-slate-for-steam-game-accomplishments/"><u>Clean Slate for Steam Game Accomplishments</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-app-not-uploading-issue-a-guide-to-microsofts-store/"><u>Combating App Not Uploading Issue: A Guide to Microsoft's Store</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-cmusbdacsys-related-bsod-errors-on-your-pc-running-windows/"><u>Effective Solutions for Fixing 'CMUSBDAC.sys' Related BSoD Errors on Your PC Running Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-freshly-released-killer-wireless-driver-version-1535-download/"><u>Ensure Optimal Performance with Freshly Released Killer Wireless Driver Version 1535 Download</u></a></li>
-<li><a href="https://howto.techidaily.com/gionee-f3-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gionee F3 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-tecno-camon-30-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Tecno Camon 30 Pro 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-troubles-master-these-easy-fixes-for-a-seamless-gaming-experience/"><u>League of Legends Troubles? Master These Easy Fixes for a Seamless Gaming Experience!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pinnacle-extensions-combining-chatgpt-with-vs-code/"><u>Pinnacle Extensions: Combining ChatGPT with VS Code</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-verdict-on-samsungs-un65nu8000fza-expensive-yet-underperforming-an-expert-guide-to-the-latest-smart-tv-model/"><u>The Verdict on Samsung's UN65NU8000FZA: Expensive Yet Underperforming - An Expert Guide to the Latest Smart TV Model</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-craft-your-online-identity-with-customized-youtube-urls/"><u>[New] Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-pioneering-the-path-to-instagram-reel-mastery/"><u>[New] In 2024, Pioneering the Path to Instagram Reel Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimize-zoom-performance-top-three-tactical-approaches/"><u>2024 Approved Optimize Zoom Performance Top Three Tactical Approaches</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-fresh-start-with-the-win11-control-panel/"><u>Crafting a Fresh Start with the Win11 Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-cortana-in-windows-with-vivetool/"><u>Empowering Cortana in Windows with ViveTool</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-navigating-folder-tabs-with-windows-11/"><u>Expert Advice on Navigating Folder Tabs with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-boundaries-of-ai-with-openai/"><u>Exploring the Boundaries of AI with OpenAI</u></a></li>
+<li><a href="https://win11.techidaily.com/get-inside-windows-credentials-manager-with-win11s-11-strategies/"><u>Get Inside Windows Credentials Manager with Win11's 11 Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-performance-gpus-for-4k-vision-for-2024/"><u>High-Performance GPUs for 4K Vision for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kootek-notebook-thermoregulator-examination-an-impressive-whole-spectrum-gadget/"><u>Kootek Notebook Thermoregulator Examination - An Impressive Whole-Spectrum Gadget</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-windows-11-video-creation-and-editing-techniques/"><u>Mastering Windows 11 Video Creation & Editing Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtubes-short-form-content-key-tips-revealed/"><u>Mastering YouTube's Short-Form Content Key Tips Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-windows-10-activity-log-with-ease/"><u>Navigate Windows 10 Activity Log with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-keyboard-errors-windows-11s-function-keys/"><u>Rectify: Keyboard Errors - Windows 11'S Function Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-perfect-performance-to-microsoft-outlook/"><u>Restoring Perfect Performance to Microsoft Outlook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-story-behind-yahoo-messenger-why-did-this-iconic-service-discontinue/"><u>The Story Behind Yahoo! Messenger: Why Did This Iconic Service Discontinue?</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-common-22h2-windows-errors/"><u>Troubleshooting Common 22H2 Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-def5-effective-methods-to-solve-onedrive-error-on-windows-11/"><u>Unlocking DEF5: Effective Methods to Solve OneDrive Error on Windows 11</u></a></li>
 </ul></div>
 

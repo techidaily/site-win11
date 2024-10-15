@@ -1,7 +1,7 @@
 ---
 title: Secrets to a Smooth Switch From Focused to Relaxed States on Terminal
-date: 2024-10-05T15:20:12.765Z
-updated: 2024-10-09T08:21:10.172Z
+date: 2024-10-08T20:45:57.376Z
+updated: 2024-10-15T17:58:10.234Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Command Palette
@@ -62,15 +62,23 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 2. In the Terminal window, press**Ctrl + Shift + P** to open the Command Palette.  
 ![Use the Command Palette to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-the-command-palette-to-enable-focus-mode.jpg)
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
@@ -87,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use Windows File Explorer
@@ -102,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 wt.exe /focus
 
  This will open the Windows Terminal in Focus Mode, with all tabs and title bars hidden. To switch back to normal mode, press**Ctrl + Shift + P** and select Toggle focus mode from the Command Palette.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Switch to the Windows Terminal Focus Mode Quickly on Windows
 
@@ -129,24 +130,21 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-no-cost-game-recorders-the-essential-selection-list-for-2024/"><u>[New] No-Cost Game Recorders The Essential Selection List for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-selfies-in-focus-iphones-8-innovative-tools-for-2024/"><u>[New] Selfies in Focus IPhone's #8 Innovative Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unite-your-photos-cross-platform-instagram-collage/"><u>[New] Unite Your Photos Cross-Platform Instagram Collage</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-video-hacks-instant-mp4-downloads/"><u>[Updated] 2024 Approved FB Video Hacks Instant MP4 Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pioneers-designing-the-online-avengers-landscape/"><u>[Updated] Pioneers Designing the Online Avengers Landscape</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-slash-energy-drain-by-default-desktop-window-manager/"><u>7 Ways to Slash Energy Drain by Default Desktop Window Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deeper-look-at-windows-11-efficiency-mastering-processes-and-customizing-themes/"><u>A Deeper Look at Windows 11 Efficiency: Mastering Processes and Customizing Themes</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-layer-of-simplicity-in-windows-photos-app-deletion/"><u>A New Layer of Simplicity in Windows Photos App Deletion</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-for-winning-website-conversion/"><u>A Step-by-Step for Winning Website Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-windows-based-excel-tasks-a-guide/"><u>Accelerating Windows-Based Excel Tasks: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11-volume-mixer-shortcut/"><u>Accessing Windows 11 Volume Mixer Shortcut</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-dxgi-error-after-device-removal/"><u>Addressing DXGI Error After Device Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/boltgun-performance-tips-to-resolve-on-pc-interruptions/"><u>Boltgun Performance Tips to Resolve On-PC Interruptions</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-the-functions-of-winservicesexe/"><u>Breaking Down the Functions of Winservices.exe</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-wav-a-ogg-gratuita-en-linea-con-movavicom/"><u>Conversión WAV a OGG Gratuita en Línea Con movavi.com</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fixing-zoos-audio-quick-fixes-for-sound-issues-for-2024/"><u>Fixing Zoo's Audio Quick Fixes for Sound Issues for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>In 2024, Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-dead-keys-on-your-hp-laptop-effective-solutions-inside/"><u>Revive Dead Keys on Your HP Laptop: Effective Solutions Inside!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sparring-spirits-versus-social-media-savvy-for-2024/"><u>Sparring Spirits Versus Social Media Savvy for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-tailoring-your-youtube-video-introduction-perfectly/"><u>[New] 2024 Approved Tailoring Your YouTube Video Introduction Perfectly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-5-ways-to-download-facebook-story-on-desktop-and-mobile-for-2024/"><u>[New] 5 Ways to Download Facebook Story on Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-improve-your-videography-the-itunes-way/"><u>[New] Improve Your Videography The iTunes Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-explore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>2024 Approved Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decode-german-eloquence-top-16-thank-you-expressions/"><u>Decode German Eloquence: Top 16 'Thank You' Expressions</u></a></li>
+<li><a href="https://win11.techidaily.com/disassembling-and-reassembling-windows-app-settings-for-success/"><u>Disassembling and Reassembling Windows App Settings for Success</u></a></li>
+<li><a href="https://win11.techidaily.com/establish-prerequisites-before-vbox-installation/"><u>Establish Prerequisites Before VBox Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-driver-verifier-manager-in-windows-11/"><u>How to Open the Driver Verifier Manager in Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevating-your-content-becoming-a-staff-pick-favorite-on-vimeo/"><u>In 2024, Elevating Your Content Becoming a Staff Pick Favorite on Vimeo</u></a></li>
+<li><a href="https://win11.techidaily.com/isolating-and-remedying-solo-sideheadphone-glitches-in-win/"><u>Isolating and Remedying Solo Sideheadphone Glitches in WIN</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-subsystem-for-linux-solving-error-4294967295/"><u>Navigating Through Windows Subsystem for Linux: Solving Error 4294967295</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/problemlos-verarbeiten-einer-samsung-ssd-kopie-3-erfolgreiche-methoden-zum-ausfuhren-der-bootenutzung/"><u>Problemlos Verarbeiten Einer Samsung SSD-Kopie - 3 Erfolgreiche Methoden Zum Ausführen Der Bootenutzung</u></a></li>
+<li><a href="https://win11.techidaily.com/temporary-user-profiles-avoiding-login-interruptions/"><u>Temporary User Profiles: Avoiding Login Interruptions</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-headshot-generator-for-2024/"><u>Updated What Is an AI Headshot Generator for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-component-tools-accessing-and-operating-guide/"><u>Windows Component Tools: Accessing & Operating Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revert Windows Configs Post-Reboot: Effective Solutions"
-date: 2024-09-16T02:05:06.956Z
-updated: 2024-09-17T06:59:21.484Z
+date: 2024-10-08T16:13:46.855Z
+updated: 2024-10-15T18:51:51.917Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  The Windows settings reset on reboot for several reasons. The most common cause is a user profile change, either due to a system update or a user’s action. In other cases, a running background application can corrupt user profiles. This can happen if an application crashes or is not updated. It’s also possible that malware is responsible for the issue.
 
  Sometimes, if there is a system error or a hardware issue like a faulty hard drive, Windows settings may reset when the computer restarts. This could happen due to an unforeseen power outage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fix Windows Settings Resetting Upon Reboot
 
@@ -64,13 +71,6 @@ To run Automatic Startup Repair, follow these steps:
 
  Follow the on-screen instructions to run the automatic repair tool. After you complete the above process, restart your computer and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Check Your User Profile
 
  If the issue persists, check your user profile and make sure it’s not corrupt. If your user profile is corrupted, Windows will reset the settings when you restart. Here’s how to check it:
@@ -88,10 +88,10 @@ On the next screen, navigate to the following path:
 ![Modify Registry to repair user profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-registry-to-repair-user-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you find the correct profile, double-click on the**State** field and change the value from**1 to 0** . Similarly, change the**RefCount** field from**1 to 0** .
@@ -105,10 +105,10 @@ On the next screen, navigate to the following path:
  If you weren’t able to repair the corrupt profile in the Registry Editor, you may have to[create a new user profile on Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) . Creating a new user profile does not delete the old one, so all your data will remain intact, but you will have to reconfigure your settings. After creating it, log out of your current user account and switch to the newly created one. Check if this fixes the settings reset issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Uninstall Recent Updates
@@ -118,6 +118,13 @@ On the next screen, navigate to the following path:
  You can also try rolling back any drivers that might be causing the issue. To do this, right-click on Start and select**Device Manager** . In the Device Manager window, find the device you want to roll back and right-click on it. Select**Properties** from the context menu and then click on the**Driver** tab.
 
  Click**Roll Back Driver** and then follow the instructions on-screen to complete the process. After rolling back the driver, restart your computer to apply the changes and check if it solves the settings reset issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Perform Some Generic Windows Fixes
 
@@ -146,5 +153,21 @@ On the next screen, navigate to the following path:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-a-pro-sports-youtube-feed-on-macos/"><u>[New] Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-insights-pro-tips-for-downloading-igtv-videos-on-computers-for-2024/"><u>[New] Instagram Insights Pro Tips for Downloading IGTV Videos on Computers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-aerial-titans-clash-dji-and-gopros-quest/"><u>[Updated] In 2024, Aerial Titans Clash DJI and GoPro's Quest</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-undetected-windows-malware-risks/"><u>Discovering Undetected Windows Malware Risks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-online-jpggif-converters-the-best-10-list/"><u>Free Online JPG/GIF Converters The Best 10 List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-powerdirector-full-review-and-instructions/"><u>Mastering PowerDirector - Full Review & Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-resolving-minecrafts-lan-network-issues/"><u>Navigating and Resolving Minecraft's LAN Network Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-admin-policies-that-hinder-setup/"><u>Overcoming Windows Admin Policies That Hinder Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-aid-to-recover-googles-nonresponsive-windows-share-app/"><u>Quick Aid to Recover Google's Nonresponsive Windows Share App</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/solution-guide-how-to-stop-gears-5-from-crashing-and-improve-gameplay/"><u>Solution Guide: How to Stop Gears 5 From Crashing and Improve Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-overheating-in-pcs-os-w11/"><u>Techniques to Prevent Overheating in PCs OS: W11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-for-increasing-frames-per-second-fps-in-new-world-mmo/"><u>Top Tips for Increasing Frames per Second (FPS) in New World MMO</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-motorola-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Motorola password or pattern lock</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11-login-secrets-fixing-blank-pages/"><u>Unveiling Windows 11 Login Secrets: Fixing Blank Pages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixes for Stuck Photoshop Launch on Latest WS11 & 11 Update
-date: 2024-10-08T14:45:13.567Z
-updated: 2024-10-08T19:06:04.906Z
+date: 2024-10-11T22:48:39.224Z
+updated: 2024-10-15T16:00:22.793Z
 tags:
   - windows10
   - windows11
@@ -33,23 +33,9 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Terminate Background Adobe Processes
 
@@ -61,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Controlled Folder Access
 
@@ -76,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
@@ -94,22 +87,15 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 5. Select **Yes** to disable the device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clear Photoshop’s Font Cache
 
@@ -124,10 +110,23 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall Photoshop
@@ -135,6 +134,19 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
  Uninstalling and reinstalling Photoshop will replace that software’s files with fresh ones. So, this resolution could be the one you need if others here don’t work for you. You can remove Adobe Photoshop via Settings or the Control Panel, as covered within our guide for [uninstalling software packages on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
@@ -144,25 +156,6 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-delete-or-deactivate-an-instagram-account-permanently/"><u>[New] How to Delete or Deactivate An Instagram Account Permanently</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-revolutionizing-content-creation-the-insight-into-vimeos-capabilities/"><u>[New] In 2024, Revolutionizing Content Creation The Insight Into Vimeo's Capabilities</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages/"><u>[New] The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-window-capture-suite-pro-xp/"><u>[New] Window Capture Suite Pro XP</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-apple-and-windows-calendars-a-comprehensive-guide/"><u>Bridging Apple and Windows Calendars: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-frozen-startup-screen-in-win-lol/"><u>Bypassing Frozen Startup Screen in Win: LOL</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-the-time-before-next-login-attempt-on-failure/"><u>Changing the Time Before Next Login Attempt on Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/chromium-and-windows-11-the-ultimate-synchronization-guide/"><u>Chromium & Windows 11: The Ultimate Synchronization Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/chromium-setup-for-windows-11-essential-guide/"><u>Chromium Setup for Windows 11: Essential Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-forbidden-errors-in-windows-os/"><u>Clearing Forbidden Errors in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-insufficient-usb-controller-support/"><u>Combating Insufficient USB Controller Support</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-enterprise-solutions-through-gpt-chat-whisper-access/"><u>Innovative Enterprise Solutions Through GPT-Chat, Whisper Access</u></a></li>
-<li><a href="https://article-helps.techidaily.com/techniques-for-transforming-twitter-vids-to-mp3-audios-for-2024/"><u>Techniques for Transforming Twitter Vids to MP3 Audios for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -170,3 +163,27 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-bring-your-message-alive-how-to-send-gifs-via-snapchat/"><u>[New] In 2024, Bring Your Message Alive How to Send Gifs via Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-superior-lineup-elite-webcam-holders/"><u>[Updated] In 2024, Superior Lineup Elite Webcam Holders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-thorough-insight-into-obs-recording-technology/"><u>A Thorough Insight Into OBS Recording Technology</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/accelerate-your-editing-process-with-these-5-tips-for-obs-for-2024/"><u>Accelerate Your Editing Process with These 5 Tips for OBS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-the-perplexing-windows-net-error-0x800704b3/"><u>Deciphering and Fixing the Perplexing Windows Net Error 0X800704B3</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-samsung-cf591-gaming-monitor-tested-and-reviewed-for-serious-players/"><u>Evaluating Samsung CF591 - Gaming Monitor Tested and Reviewed for Serious Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-exclusive-lifetime-access-to-macxdvd-suite-today-act-fast-on-limited-time-promo-for-an-entirely-free-upgrade/"><u>Get Your Exclusive, Lifetime Access to MacXDVD Suite Today! Act Fast on Limited-Time Promo for an Entirely Free Upgrade!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-windows-11s-sticky-notes-on-all-your-devices/"><u>How to Use Windows 11'S Sticky Notes on All Your Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pro-gif-makers-roundup-online-vs-desktop-platforms-for-2024/"><u>Pro-Gif Makers Roundup Online vs Desktop Platforms for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-port-scanning-for-network-windows-safety/"><u>Secure Port Scanning for Network Windows Safety</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-rectify-voice-narration-error-in-ms-word/"><u>Solutions to Rectify Voice Narration Error in MS Word</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v11-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.1 File | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-fixing-frozen-itunes-on-your-pc/"><u>Step-by-Step Guide: Fixing Frozen iTunes on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-system-win11-lightweight-edition/"><u>Streamline Your System: Win11 Lightweight Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-navigation-the-essential-guide-to-win11-shortcuts/"><u>Streamlining Navigation: The Essential Guide to Win11 Shortcuts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-iphone-x-compatible-backdrop-change-tools-for-2024/"><u>Top 5 iPhone X-Compatible Backdrop Change Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uninvited-rav-security-on-pc-origins-and-deletion-steps/"><u>Uninvited Rav Security on PC - Origins and Deletion Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-artistry-bring-your-desktop-imagery-to-life/"><u>Windows 11 Artistry: Bring Your Desktop Imagery to Life</u></a></li>
+</ul></div>
+

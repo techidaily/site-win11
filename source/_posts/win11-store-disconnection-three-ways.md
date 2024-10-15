@@ -1,7 +1,7 @@
 ---
 title: "Win11 Store Disconnection: Three Ways"
-date: 2024-10-04T12:44:40.365Z
-updated: 2024-10-08T17:42:36.263Z
+date: 2024-10-14T20:56:08.301Z
+updated: 2024-10-15T20:46:23.007Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,22 @@ thumbnail: https://thmb.techidaily.com/c48fccee15d64e7778fd76c19af1e8a44abed6b45
 
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Uninstall Microsoft Store App From Windows 11
 
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Using Winget
@@ -55,15 +62,28 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 ![Uninstall Microsoft Store App using winget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-winget.jpg)
 6. Type**exit** in the command prompt window and press enter to close it.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using PowerShell
 
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
@@ -77,23 +97,9 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 ![Uninstall Microsoft Store App using batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-batch-file.jpg)
 4. Click on the**Save** button. Close the Notepad window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
 
@@ -114,20 +120,18 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-fine-tune-music-for-stunning-canva-clips/"><u>[Updated] 2024 Approved How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-scrutinizing-video-edits-is-inshot-the-champion/"><u>[Updated] In 2024, Scrutinizing Video Edits Is InShot The Champion?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-mastering-virtual-sessions-a-compreayer-to-using-zoom-in-windows-10/"><u>[Updated] Mastering Virtual Sessions A Compreayer to Using Zoom in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-finding-documents-with-windows-11-taskbar-search-feature/"><u>Accelerate Finding Documents with Windows 11 Taskbar Search Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/access-gpos-securely-a-guide-to-win11s-tools/"><u>Access GPOs Securely: A Guide to Win11's Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-microsoft-paint-in-windows-11/"><u>Accessing Microsoft Paint in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-full-control-with-admin-cmd-role/"><u>Achieve Full Control with Admin CMD Role</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-profile-not-valid-issue-for-users-in-windows/"><u>Addressing Profile Not Valid Issue for Users in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-windows-management-application-hiccups/"><u>Avoid Windows Management Application Hiccups</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-canon-inkjet-mx340-drivers-for-smooth-operation-on-windows-1187-pcs/"><u>Download Updated Canon Inkjet MX340 Drivers for Smooth Operation on Windows 11/8/7 PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-the-chatgpt-copilot-extension-enhance-productivity/"><u>How Does the ChatGPT Copilot Extension Enhance Productivity?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-the-art-of-audio-volume-transition-for-2024/"><u>Mastering the Art of Audio Volume Transition for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/the-ultimate-guide-to-choosing-the-best-sd-card-for-4k-videos/"><u>The Ultimate Guide to Choosing the Best SD Card for 4K Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/2-video-grabber-online-to-download-any-video-you-like-for-2024/"><u>Top 12 Video Grabber Online to Download Any Video You Like for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-speed-up-instagram-videos-on-desktop-effective-techniques-for-2024/"><u>[New] Speed Up Instagram Videos on Desktop Effective Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastering-google-meets-grid-view-functionality/"><u>[Updated] In 2024, Mastering Google Meet's Grid View Functionality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-beyond-inshot-top-pc-editing-solutions/"><u>2024 Approved Beyond Inshot Top PC Editing Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/five-key-strategies-for-effective-script-narration/"><u>Five Key Strategies for Effective Script Narration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unsavable-screen-display-preferences-in-win-710-completed/"><u>Fix Unsavable Screen Display Preferences in WIN 7/10 [Completed]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-update-available-hp-officejet-4655-driver-software-downloading-guide/"><u>Latest Update Available: HP OfficeJet 지판 4655 Driver Software Downloading Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-functional-adjustments-windows-1011-edition/"><u>Navigating Functional Adjustments: Windows 10/11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/purple-pandemonium-a-guide-to-regaining-your-pcs-true-colors/"><u>Purple Pandemonium? A Guide to Regaining Your PC's True Colors</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-visual-placement-on-windows-devices/"><u>Reversing Visual Placement on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-your-game-with-expert-multitasking-techniques-for-windows-11/"><u>Step Up Your Game with Expert Multitasking Techniques for Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-thumbnails-on-your-pc-a-guide/"><u>Tailoring Thumbnails on Your PC: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-technique-to-design-personalized-lock-patterns-on-windows-11/"><u>The Complete Technique to Design Personalized Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-torrent-clients-the-best-of-windows-list/"><u>Winning Torrent Clients: The Best of Windows List</u></a></li>
 </ul></div>
 

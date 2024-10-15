@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Discord's JavaScript Crash on Win 11: A Step-by-Step Guide"
-date: 2024-09-15T08:14:02.688Z
-updated: 2024-09-17T06:11:19.697Z
+date: 2024-10-13T22:30:20.102Z
+updated: 2024-10-15T17:32:26.308Z
 tags:
   - windows10
   - windows11
@@ -57,11 +57,34 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
 
@@ -77,7 +100,28 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Go through Discord’s installation wizard to reinstall the software.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Any Third-Party Antivirus Tools
 
@@ -94,21 +138,14 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -127,24 +164,10 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
 
@@ -163,5 +186,26 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-creators-guide-to-mastering-youtube-aspect-ratios/"><u>[New] 2024 Approved The Creator's Guide to Mastering YOUTUBE Aspect Ratios</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-upload-video-to-facebook-from-pc-and-android/"><u>[New] How to Upload Video to Facebook From PC and Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[Updated] 2024 Approved Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comparing-the-best-of-both-worlds-obs-vs-bandicam/"><u>Comparing the Best of Both Worlds OBS vs Bandicam</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-zoom-setbacks-fixing-error-code-1132-on-windows/"><u>Conquer Zoom Setbacks: Fixing Error Code 1132 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-pc-discussions-embracing-freedomgpt/"><u>Elevate PC Discussions: Embracing FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-store-failures-fast-tackling-0x80072f30-errors/"><u>Fix Windows Store Failures Fast: Tackling 0X80072F30 Errors</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-12-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 12 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-make-gmail-meetings-work-zipping-up-zoom-integrations/"><u>How to Make Gmail Meetings Work Zipping Up Zoom Integrations</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-camera-not-found-in-windows-11/"><u>How to Rectify Camera Not Found in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-70-lite-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor 70 Lite 5G online without jailbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/interactive-device-management-via-windows-interface-elements/"><u>Interactive Device Management via Windows Interface Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-an-eye-out-essential-windows-steps-that-might-hide-viruses/"><u>Keeping an Eye Out: Essential Windows Steps That Might Hide Viruses</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-windows-11-shutdown-duration-during-execution/"><u>Modifying Windows 11 Shutdown Duration During Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/moving-onedrive-to-a-new-directory-in-windows-10/"><u>Moving OneDrive to a New Directory in Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-authority/"><u>Navigating the World of Computer Hardware with Tom's Authority</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-wacom-device-drivers-missing-error-in-windows-11/"><u>Troubleshooting Steps for Wacom Device Drivers Missing Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-simplified-image-browsing-setup/"><u>Windows 11: Simplified Image Browsing Setup</u></a></li>
+</ul></div>
 

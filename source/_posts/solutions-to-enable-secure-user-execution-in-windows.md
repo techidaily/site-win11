@@ -1,7 +1,7 @@
 ---
 title: Solutions to Enable Secure User Execution in Windows
-date: 2024-10-05T03:39:48.426Z
-updated: 2024-10-08T20:04:55.687Z
+date: 2024-10-14T21:01:18.455Z
+updated: 2024-10-15T17:37:22.461Z
 tags:
   - windows10
   - windows11
@@ -36,15 +36,22 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check Your Account Type
@@ -67,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Now, close the window and restart your PC. After that, try running the application with the Run as administrator feature and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change Group Policy Settings
 
  Is the Run as administrator function not working despite trying the suggestions above? It's likely that group policy settings block the feature. To fix this, head to the Local Group Policy Editor and check the settings.
@@ -87,17 +87,25 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 4. In the right pane, you'll see a list of different security options. Scroll to the bottom and double-click on the **User Account Control: Run all administrators in Admin Approval Mode** policy.  
 ![Run all administrators in admin approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-all-administrators-in-admin-approved.jpg)
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clean up the Context Menu
 
@@ -115,13 +123,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 5. Next, expand the **ContextMenuHandlers** folder and look for any suspicious entries. If you find any, delete them.  
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
 
@@ -141,23 +142,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-screen-recording-with-zdsoft/"><u>[New] Exploring Screen Recording with ZDSoft</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-post-production-colors/"><u>[Updated] Harnessing the Power of Post-Production Colors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-dominating-the-youtube-sphere-key-strategies-for-top-tier-presence/"><u>[Updated] In 2024, Dominating the YouTube Sphere Key Strategies for Top-Tier Presence</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free/"><u>2024 Approved The Easiest Way to Convert Your YouTube Videos Into Texts for FREE</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerated-recovery-tactics-for-unavailable-defender-security-features/"><u>Accelerated Recovery Tactics for Unavailable Defender Security Features</u></a></li>
-<li><a href="https://win11.techidaily.com/automating-success-windows-audio-at-system-startup/"><u>Automating Success: Windows Audio at System Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-roadblocks-reinstating-access-on-windows-11-system/"><u>Avoiding Roadblocks: Reinstating Access on Windows 11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-why-windows-dominates-in-gaming-landscape/"><u>Breaking Down Why Windows Dominates in Gaming Landscape</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-windows-11s-access-denied-5-effective-remedies/"><u>Breaking Down Windows 11'S 'Access Denied': 5 Effective Remedies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-beats-and-bars-mastering-video-sounds-on-instagram/"><u>In 2024, Beats & Bars Mastering Video Sounds on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/1719313398544-maximize-full-screen-capture-efficiency-with-these-fixes-in-windows/"><u>Maximize Full-Screen Capture Efficiency with These Fixes in Windows.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-repair-mfplatdll-not-detected-issues-with-ease/"><u>Troubleshoot and Repair 'mfplat.dll' Not Detected Issues with Ease</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ling-the-mechanisms-that-govern-youtube-after-a-video-is-live/"><u>Unveiling the Mechanisms That Govern YouTube After a Video Is Live</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -165,3 +149,23 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features-for-2024/"><u>[Updated] Photo Perfection in Pixels A Compreran Guide to Polarr’s Features for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-secure-file-restoration-techniques-from-a-raw-external-hdd/"><u>1. Secure File Restoration Techniques From a Raw External HDD</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pause-non-selected-youtube-video-suggestions/"><u>2024 Approved Pause Non-Selected YouTube Video Suggestions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/boost-your-site-visibility-using-the-advanced-cookiebot-analytics-platform/"><u>Boost Your Site Visibility Using the Advanced Cookiebot Analytics Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-walkthrough-for-integrating-virtual-games-in-playnite/"><u>Comprehensive Walkthrough for Integrating Virtual Games in Playnite</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/esperto-guida-tutorial-per-riparare-un-hd-esterno-non-allocato-e-proteggere-i-tuoi-dati/"><u>Esperto Guida: Tutorial per Riparare Un HD Esterno Non Allocato E Proteggere I Tuoi Dati</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-exceptions-fixing-memory-could-not-be-written-error-due-to-improper-references/"><u>Handling Exceptions: Fixing 'Memory Could Not Be Written' Error Due to Improper References</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-mac-screenshots-and-screen-recording/"><u>Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-printer-hurdles-on-the-latest-windows-version/"><u>Overcoming Printer Hurdles on the Latest Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-common-steam-freeze-during-gaming/"><u>Overcoming Windows 11: Common Steam Freeze During Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reestablish-wi-fi-on-surface-pro-a-comprehensive-guide-for-seamless-internet-access/"><u>Reestablish Wi-Fi on Surface Pro: A Comprehensive Guide for Seamless Internet Access</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-virtualbox-error-code-0x80004005-in-windows/"><u>Remedying Virtualbox Error Code: 0X80004005 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-and-smooth-keyboard-shortcuts-for-3d-artists/"><u>Swift and Smooth: Keyboard Shortcuts for 3D Artists</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-microsoft-copilot-how-to-use-copilot-in-windows/"><u>What Is Microsoft Copilot? How to Use Copilot in Windows</u></a></li>
+</ul></div>
+

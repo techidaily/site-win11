@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Personalization: A Step-by-Step to Changing UserName on Windows 11"
-date: 2024-10-04T18:40:41.139Z
-updated: 2024-10-09T06:56:48.895Z
+date: 2024-10-08T22:11:00.002Z
+updated: 2024-10-15T22:02:41.833Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
  So, if you want to change your Microsoft account username, we recommend directly using the last method—changing your username from Microsoft's website. However, if you want to change the username of a local user account, you can use one of the first four methods mentioned below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. How to Change Your Username Using the Control Panel
@@ -55,10 +55,10 @@ To change your username using the Control Panel, follow these steps:
 8. For this change to take effect, you need to sign out of your account and sign back in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change Your Username Using the Run Command
@@ -73,28 +73,22 @@ To change your username using the Run command, follow these steps:
 2. Enter**"netplwiz"** in the**Run command** field and press**Enter** .  
 ![Run Netplwiz Command in the Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-netplwiz-command-in-the-windows-run-command.jpg)
 3. Click**Yes** in the**User Account Control (UAC)** window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the**User Accounts** window, select the user account for which the username needs to be changed.
 5. Click on**Properties** .  
 ![Go to Properties in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-go-to-properties-in-the-user-accounts-window.jpg)
 6. In the**General** tab, you'll see your existing username. Rename it to your liking after removing it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Once the new username has been added, click the**Apply** button and**OK** .  
 ![Click OK After Adding the New Name in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-adding-the-new-name-in-the-user-accounts-window.jpg)
 8. Then, log out of your account, and you'll be greeted with your new username on the sign-in screen when you sign in.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Change Your Username From Local User and Group Management Tool
 
@@ -111,13 +105,6 @@ To change your username using the Run command, follow these steps:
 6. Right-click the username and click**Rename** .  
 ![Click Rename by Right-clicking on the Account Name in the Local User and Group Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-rename-by-right-clicking-on-the-account-name-in-the-local-user-and-group-management-tool.jpg)
 7. Enter the new username you want to use.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
 
@@ -138,6 +125,13 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Changing Username in Windows Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/changing-username-in-windows-powershell.jpg)
 5. Then, log back into your account after logging out.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. How to Change Your Profile Username From the Microsoft Website
 
  If you use a Microsoft account on your computer, change your username on the Microsoft website. To update your profile username on the Microsoft website, follow these steps:
@@ -150,14 +144,21 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 5. Remove your current username and add the one you wish to switch to.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
@@ -182,22 +183,17 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-professional-streaming-best-devices-to-record-live-sessions/"><u>[New] 2024 Approved Professional Streaming Best Devices to Record Live Sessions</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-transformative-tiktok-editing-three-ways-to-alter-video-borders/"><u>[New] 2024 Approved Transformative TikTok Editing Three Ways to Alter Video Borders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-choice-top-mp4-players-unveiled/"><u>[Updated] Ultimate Choice Top MP4 Players Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/corrective-measures-for-disk-read-failure-windows/"><u>Corrective Measures for Disk Read Failure Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gimp-multimedia-editor-free-edition-evaluated-across-various-platforms/"><u>GIMP Multimedia Editor Free Edition Evaluated Across Various Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-yellowed-lcd-on-computer-screens/"><u>How to Fix Yellowed LCD on Computer Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-safely-and-quickly-upgrade-your-surface-computers-software/"><u>How to Safely and Quickly Upgrade Your Surface Computers' Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>In 2024, 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>Mastering Insta Lives Guide to Downloads & Creative Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11-issues-with-5ghz-wireless-networks/"><u>Navigating Windows 11 Issues with 5GHz Wireless Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-solutions-for-common-cc-problems-on-win11/"><u>Quick Solutions for Common CC Problems on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-the-basics-of-windows-backup-configurations/"><u>Regaining the Basics of Windows Backup Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenating-windows-1011s-faulty-recycle-bin-error/"><u>Rejuvenating Windows 10/11'S Faulty Recycle Bin Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-error-0x800f081f-during-net-framework-35-setup/"><u>Troubleshooting Guide: Resolving Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/value-capture-affordable-cam-options/"><u>Value Capture Affordable Cam Options</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-cpu-state-showcase-at-peak-levels/"><u>Windows Guide: CPU State Showcase at Peak Levels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-bloodthirsty-horror-your-ultimate-8-zombie-game-compilation/"><u>[New] 2024 Approved Bloodthirsty Horror Your Ultimate 8 Zombie Game Compilation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms/"><u>[New] In 2024, From Front to Back A Step-by-Step Guide to Angled Photography on Social Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-guide-to-filming-live-scenes/"><u>[New] Ultimate Guide to Filming Live Scenes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-mobile-video-capture/"><u>[Updated] In 2024, The Ultimate Guide to Mobile Video Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-path-of-global-storytelling-through-film/"><u>[Updated] Navigating the Path of Global Storytelling Through Film</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-oppo-a38-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A38 Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-applying-if-and-or-xor-not-functions-in-microsoft-excel/"><u>Comprehensive Guide to Applying IF, AND, OR, XOR, Not Functions in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-tutorial-on-implementing-the-countif-feature-in-ms-excel-for-data-analysis/"><u>Comprehensive Tutorial on Implementing the COUNTIF Feature in MS Excel for Data Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/concealing-tabs-and-full-workbook-data-a-guide-to-privacy-in-microsoft-excel/"><u>Concealing Tabs and Full Workbook Data: A Guide to Privacy in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-essential-microsoft-excel-functions-a-comprehensive-guide/"><u>Discovering Essential Microsoft Excel Functions: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/first-time-streamers-unite-learn-obs-and-broadcast-to-youtube/"><u>First-Time Streamers Unite Learn OBS & Broadcast to Youtube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-100-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor 100 Pro Phone Password Using Emergency Call</u></a></li>
 </ul></div>
 

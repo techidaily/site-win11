@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive Voice Chats in Valorant (Windows)
-date: 2024-10-02T04:30:17.750Z
-updated: 2024-10-09T00:26:29.725Z
+date: 2024-10-12T22:18:34.887Z
+updated: 2024-10-15T20:32:55.140Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  If none of the above preliminary checks and fixes resolve the issue, move on to the main troubleshooting steps.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure Your Microphone Isn't Faulty
 
  Next, make sure your microphone isn't faulty. You can try other games or voice recording apps and see if they can detect your voice.
@@ -56,21 +63,7 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 ![Select the Primary Microphone in the Input Device Field of Audio Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-select-the-primary-microphone-in-the-input-device-field-of-audio-tab-in-valorant.jpg)
 5. Make sure that the **Mic Volume** isn't too low as well. If it is, move the slider to the extreme right**.**  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Set the Mic Volume to High in the Voice Chat Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-mic-volume-to-high-in-the-voice-chat-tab-in-valorant.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can't hear other gamers' voice chat, ensure the proper audio output device is selected and its incoming volume isn't too low.
 
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 2. Navigate to **System > Sound**.  
 ![Go to Sound Settings From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-sound-settings-from-windows-settings-app.jpg)
 3. Under **Input** settings, select the microphone you wish to use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Choose your desired microphone and make sure the **Input Volume** isn't too low.  
 ![Select the Correct Microphone Device in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/5-select-the-correct-microphone-device-in-the-sound-settings-of-the-windows-settings-app.jpg)
@@ -106,22 +92,15 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 ![Go to More Sound Settings Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-go-to-more-sound-settings-option-in-windows-settings-app.jpg)
 3. Navigate to the **Recording** tab, right-click on your desired device, and select **Set as Default Device**.  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
 4. Afterward, go to the **Playback** device, right-click on your desired audio output device, and select **Set as Default Device**.  
 ![Set Your Main Audio Output Device As Default in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-set-your-main-audio-output-device-as-default-in-the-playback-tab-of-more-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check Valorant's Microphone Permissions
@@ -137,13 +116,20 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 4. Make sure the toggle next to **Microphone access** is turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After that, find **Valorant** in the list of apps and turn on the toggle next to it.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off Apps' Exclusive Control Over Your Microphone and Speaker
 
@@ -157,15 +143,22 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
 ![Disable Exclusive Control of Device and Audio Enhancements in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/14-disable-exclusive-control-of-device-and-audio-enhancements-in-the-recording-tab-of-more-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Afterward, go to the **Playback** tab, right-click your primary audio output device, and select **Properties**. Then, go to the **Advanced** tab, uncheck the exclusive control box, and turn off audio enhancements.
 
 ![Disable Exclusive Control and Audio Enhancements in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/15-disable-exclusive-control-and-audio-enhancements-in-the-playback-tab-of-more-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Change the Voice Activation Mode
@@ -180,31 +173,18 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 4. Select the **Push to Talk** option next to **Party Voice Activation Mode**.  
 ![Select the Push to Talk Option Next to Party Voice Activation Mode in Voice Chat Tab of Valorants Audio Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/12-select-the-push-to-talk-option-next-to-party-voice-activation-mode-in-voice-chat-tab-of-valorants-audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Make Voice Communication Super Smooth on Valorant
 
  Using the voice chat feature in Valorant makes communication easier. Hopefully, you now know what causes the voice chat feature to stop working in Valorant and how to restore voice communication. If voice chat remains unresponsive despite applying all the fixes, reinstall Valorant.
 
  If you want to make voice chat work again and communicate with your friends, here are the fixes you should try.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-design-dynamics-top-20-font-choices-for-youtube-success/"><u>[New] 2024 Approved Design Dynamics Top 20 Font Choices for YouTube Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[New] 2024 Approved Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-pinnacle-pathfinders-the-ultimate-10-game-guide/"><u>[New] Pinnacle Pathfinders The Ultimate 10 Game Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-tips-for-naming-your-podcast-right-plus-inspiring-title-ideas-countdown/"><u>[Updated] Top-Tier Tips for Naming Your Podcast Right + Inspiring Title Ideas Countdown</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-school-based-videography-crafting-quality-content/"><u>2024 Approved School-Based Videography Crafting Quality Content</u></a></li>
-<li><a href="https://win11.techidaily.com/22h2-windows-fixes-for-recurring-issues/"><u>22H2 Windows Fixes for Recurring Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-stop-automatic-office-updates-on-windows/"><u>4 Ways to Stop Automatic Office Updates on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/a-photographers-companion-fixing-your-windows-camera/"><u>A Photographer’s Companion: Fixing Your Window's Camera</u></a></li>
-<li><a href="https://win11.techidaily.com/access-from-afar-zero-password-connectivity-on-win-11/"><u>Access From Afar: Zero-Password Connectivity on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-and-fixing-the-call-not-invoked-issue-in-malwarebytes/"><u>Addressing and Fixing the Call Not Invoked Issue in Malwarebytes</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-12-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 12 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/bluescreenview-explained-with-ease-and-clarity/"><u>BlueScreenView Explained with Ease and Clarity</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-and-repairing-windows-charmap-issues/"><u>Breaking Down and Repairing Windows' CharMap Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-ai-for-seamless-web-app-creation-with-chatgpt/"><u>Harness the Power of AI for Seamless Web App Creation with ChatGPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-gopro-and-time-lapse-shooting/"><u>In 2024, Navigating the World of GoPro and Time-Lapse Shooting</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -213,3 +193,22 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/fixed-minecraft-launcher-error-0x803f8001-in-windows-1110/"><u>[Fixed] Minecraft Launcher Error 0X803f8001 in Windows 11/10</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-understanding-the-impact-of-circular-videography/"><u>[New] In 2024, Understanding the Impact of Circular Videography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-zero-tolerance-for-background-distractions-editing-tutorial-on-photopea-for-2024/"><u>[New] Zero Tolerance for Background Distractions Editing Tutorial on Photopea for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-intricacies-of-enhanced-digital-worlds/"><u>2024 Approved The Intricacies of Enhanced Digital Worlds</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-utilize-keyboard-shortcuts-for-window-control/"><u>Efficient Management: Utilize Keyboard Shortcuts for Window Control</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-personal-files-while-extending-windows-storage/"><u>Preserve Personal Files While Extending Windows Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/priorities-in-purchasing-your-first-windows-notebook/"><u>Priorities in Purchasing Your First Windows Notebook</u></a></li>
+<li><a href="https://discover-data.techidaily.com/resolving-the-0x80070001-error-in-windows-updates-3-effective-methods/"><u>Resolving the 0X80070001 Error in Windows Updates: 3 Effective Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-vintage-windows-file-layouts/"><u>Resurrecting Vintage Windows File Layouts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamlining-audio-integration-in-youtube-videos-for-professionals-for-2024/"><u>Streamlining Audio Integration in YouTube Videos for Professionals for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-40c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 40C Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unexplored-windows-11-treasures-to-enhance-your-experience/"><u>Unexplored Windows 11 Treasures to Enhance Your Experience</u></a></li>
+</ul></div>
+

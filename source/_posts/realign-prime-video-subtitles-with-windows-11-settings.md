@@ -1,7 +1,7 @@
 ---
 title: Realign Prime Video Subtitles with Windows 11 Settings
-date: 2024-10-08T04:54:43.774Z
-updated: 2024-10-08T19:32:58.151Z
+date: 2024-10-11T17:57:57.275Z
+updated: 2024-10-15T18:09:44.685Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Eliminate Browser Issues
 
  If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually[clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -69,15 +76,22 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
@@ -86,21 +100,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -121,18 +121,22 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-picsart-remove-bg-comprehensive-tutorial/"><u>[New] 2024 Approved Picsart Remove Bg Comprehensive Tutorial</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-upload-imovie-video-to-vimeo/"><u>[Updated] In 2024, How to Upload iMovie Video to Vimeo</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learn-to-flip-film-sequences-on-iphone/"><u>[Updated] Learn to Flip Film Sequences on iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/choosing-the-best-4k-visual-experience-a-comparison-of-projectors-and-televisions-for-enhanced-gaming-and-playback/"><u>Choosing the Best 4K Visual Experience: A Comparison of Projectors and Televisions for Enhanced Gaming and Playback</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-accelerated-inputs-for-a-smooth-click-journey/"><u>Eliminating Accelerated Inputs for a Smooth Click Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-does-trimming-videos-impact-their-filesize-tips-for-keeping-it-small/"><u>How Does Trimming Videos Impact Their Filesize? Tips for Keeping It Small</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-start-windows-media-player-in-windows/"><u>How to Start Windows Media Player in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-cannot-create-errors-for-files-in-windows/"><u>Remedying 'Cannot Create' Errors for Files in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-viewing-the-ultimate-guide-to-watching-superman-films/"><u>Sequential Viewing: The Ultimate Guide to Watching Superman Films</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Huawei Nova Y91 FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-first-browser-view-in-windows-11/"><u>Tailoring Your First Browser View in Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-facebooks-hidden-vault-of-high-def-media-for-2024/"><u>Unlocking Facebook's Hidden Vault of High-Def Media for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[New] 2024 Approved Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>[New] Speeding Up Your Streams The Netflix Efficiency Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-techniques-for-removing-audio-disturbances/"><u>[Updated] In 2024, Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-leveraging-tiktok-videos-for-twitter-audiences/"><u>2024 Approved Leveraging TikTok Videos for Twitter Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-zoom-strategies-engaging-small-groups-efficiently/"><u>2024 Approved Zoom Strategies Engaging Small Groups Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-resolving-looping-errors-a-guide-to-detecting-circular-references-in-excel/"><u>Identifying and Resolving Looping Errors: A Guide to Detecting Circular References in Excel</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a38-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A38 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-securing-continuous-frame-playback-in-live-broadcasts/"><u>In 2024, Securing Continuous Frame Playback in Live Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/long-overdue-but-finally-here-the-latest-upgrade-for-microsoft-excels-cloud-version-unveiled/"><u>Long Overdue, but Finally Here: The Latest Upgrade for Microsoft Excel's Cloud Version Unveiled!</u></a></li>
+<li><a href="https://discover-help.techidaily.com/lost-data-found-solutions-effortless-restoration-using-no-cost-programs/"><u>Lost Data, Found Solutions: Effortless Restoration Using No-Cost Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-management-in-excel-a-guide-to-advanced-sorting-and-filter-options/"><u>Mastering Data Management in Excel: A Guide to Advanced Sorting and Filter Options</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-date-calculations-adding-and-subtracting-days-with-excel/"><u>Mastering Date Calculations: Adding and Subtracting Days with Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excel-201/"><u>Mastering Excel 201</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excel-a-step-by-step-guide-on-adding-and-calculating-percentages/"><u>Mastering Excel: A Step-by-Step Guide on Adding and Calculating Percentages</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-time-calculation-turning-minutes-and-seconds-into-decimals-with-excel-tutorials/"><u>Mastering Time Calculation: Turning Minutes and Seconds Into Decimals with Excel Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-duplicate-and-share-spreadsheet-tables-in-excel-with-ease/"><u>Quick Guide: Duplicate and Share Spreadsheet Tables in Excel with Ease</u></a></li>
 </ul></div>
 

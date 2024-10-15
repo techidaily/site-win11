@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Media Player App When It Stops Working on Windows 11
-date: 2024-10-05T15:28:02.098Z
-updated: 2024-10-09T00:29:10.244Z
+date: 2024-10-10T19:14:15.883Z
+updated: 2024-10-15T17:39:52.011Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c834e1885a4b3f3f1ee7dd2c9fc2dd5ec6f5c9eae
 
  If you find that your file is unsupported, use a[free online converter](https://www.makeuseof.com/tag/free-online-file-converters/) to change its format to a compatible one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Video Library Access for the App
 
  The Media Player app may fail to show videos stored on your PC if you have inadvertently disabled video library access for the app. Here’s how you can enable it.
@@ -63,19 +56,19 @@ To refresh libraries in the Media Player app, follow these steps:
 ![Refresh Libraries in the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/refresh-libraries-in-the-media-player-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Switch to the**Library** tab and check if your media files appear now.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Video Enhancements
@@ -89,13 +82,6 @@ To disable video enhancements in Windows, use these steps:
 3. Click on**Video playback** .
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the Relevant Windows Troubleshooters
 
@@ -116,6 +102,13 @@ To disable video enhancements in Windows, use these steps:
 
  Alternatively, you can also consider resetting the app. Since this process allows Windows to erase all the app data and reset app configurations, it’s more likely to fix any issues. We have a guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) . Follow the instructions outlined there to reset the Media Player app on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Re-Register the Relevant DLL Files
 
  Dynamic Link Libraries (DLLs) files on your PC contain functions and data that programs use to perform specific tasks. If some of the DLL files linked with the Media Player app are missing or damaged, the app may fail to open or work. Here’s what you can do to fix them.
@@ -129,6 +122,13 @@ regsvr32 jscript.dll
 regsvr32 wmp.dll`
 
  Restart your PC after this and then check if the Media Player app works as before.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update the Media Player App
 
@@ -157,21 +157,22 @@ regsvr32 wmp.dll`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-superior-platforms-10-android-gba-simulator-picks/"><u>[New] In 2024, Superior Platforms 10 Android GBA Simulator Picks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-complete-breakdown-enhancing-your-experience-with-advanced-mobizen-techniques/"><u>[Updated] Complete Breakdown Enhancing Your Experience with Advanced Mobizen Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-game-on-gopro-top-tips-for-high-quality-gameplay-videoing/"><u>[Updated] Game on, GoPro! Top Tips for High-Quality Gameplay Videoing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cerebral-channels-top-educational-yt-networks/"><u>[Updated] In 2024, Cerebral Channels Top Educational YT Networks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-lenovos-screen-recording-an-in-depth-user-manual-for-2024/"><u>[Updated] Lenovo’s Screen Recording – An In-Depth User Manual for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/breathe-new-life-into-windows-11s-diagnostic-features/"><u>Breathe New Life Into Windows 11'S Diagnostic Features</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-technical-gaps-fixing-faulty-win11-ccleaner/"><u>Bridging Technical Gaps: Fixing Faulty Win11 CCleaner</u></a></li>
-<li><a href="https://win11.techidaily.com/browser-ram-test-showdown-top-7-lightweight-contenders/"><u>Browser RAM Test Showdown: Top 7 Lightweight Contenders</u></a></li>
-<li><a href="https://win11.techidaily.com/building-a-safe-web-environment-with-trustable-sites-in-windows-11/"><u>Building a Safe Web Environment with Trustable Sites in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-audible-hurdle-code-0xc00d36b4/"><u>Bypassing Windows' Audible Hurdle: Code 0Xc00d36b4</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-explorer-features-revival-guide/"><u>Classic Explorer Features Revival Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-path-fixing-office-activation-errors/"><u>Clearing the Path: Fixing Office Activation Errors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix GT 10 Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-in-depth-look-at-facetune-a-photographers-best-friend/"><u>In 2024, In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-integration-of-google-photos-in-daily-use/"><u>In 2024, Seamless Integration of Google Photos in Daily Use</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/palette-perfection-in-11-step-by-step-lessons-for-2024/"><u>Palette Perfection in 11 Step-by-Step Lessons for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming-for-2024/"><u>[New] Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-immediate-insta-friendship-status-check/"><u>[New] In 2024, Immediate Insta Friendship Status Check</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-recorder-at-zero-free-capture-of-your-android-content-for-2024/"><u>[New] Recorder at Zero Free Capture of Your Android Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-efficient-entry-powerpoint-recordings/"><u>[Updated] In 2024, Efficient Entry PowerPoint Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-proscreencapture-ultimate-edition-for-2024/"><u>[Updated] ProScreenCapture Ultimate Edition for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728510119367-dropbox/"><u>「スマーティーなファイル同期: Dropboxで選べる最適なバックアップ方法」</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discord-server-deletion-desktopmobile/"><u>2024 Approved Navigating Discord Server Deletion (Desktop/Mobile)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-stills-extraction-procedure-windows-11-photos-guide/"><u>2024 Approved Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-vcplusplus-distribution-essence/"><u>Decoding VC++ Distribution Essence</u></a></li>
+<li><a href="https://win11.techidaily.com/empowered-windows-operations-advanced-run-enhancements-guide/"><u>Empowered Windows Operations: Advanced Run Enhancements Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-for-simultaneous-wi-fi-and-ethernet-use-in-windows/"><u>Expert Advice for Simultaneous Wi-Fi & Ethernet Use in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-error-code-0x80004004-in-defender/"><u>How to Address Error Code 0X80004004 in Defender</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-post-update-printer-glitches/"><u>Overcoming Post-Update Printer Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-taskbar-concealment-when-maximizing-browser/"><u>Overcoming Taskbar Concealment When Maximizing Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-mcuicnt-execution-error-on-modern-windows-pcs/"><u>Overhauling McUICnt Execution Error on Modern Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/staying-ahead-insights-into-windows-11s-enhanced-security-updates/"><u>Staying Ahead: Insights Into Windows 11'S Enhanced Security Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-bulk-directory-formation-on-windows-10-and-11-systems/"><u>Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems</u></a></li>
 </ul></div>
 

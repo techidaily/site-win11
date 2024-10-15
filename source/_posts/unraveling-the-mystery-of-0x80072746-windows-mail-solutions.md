@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery of 0X80072746: Windows Mail Solutions"
-date: 2024-10-06T14:22:17.923Z
-updated: 2024-10-08T18:16:14.496Z
+date: 2024-10-13T16:05:53.123Z
+updated: 2024-10-15T22:51:19.791Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
  It's worth noting that the exact steps of performing this action can vary depending on the specific program you are using. Typically, this information is available in the application settings of the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Modify VPN Settings
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
  You can now close the Settings app and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set Up Your Account Manually
@@ -92,21 +92,14 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Once the email account is removed, launch the official website of your email provider and copy the manual settings for IMAP. If these settings are not available, choose POP3\.
 
@@ -118,6 +111,19 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
 ![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
 5. Finally, click on **Sign in** and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update the Mail App
 
@@ -134,16 +140,10 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
 4. Wait for the updates to download and check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
@@ -162,24 +162,6 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-visual-ventures-exploring-affordable-tiktok-beauty-behind-bars/"><u>[Updated] In 2024, Visual Ventures Exploring Affordable TikTok Beauty Behind Bars</u></a></li>
-<li><a href="https://win11.techidaily.com/7-annoying-wins-windows-11s-design-dissonance/"><u>7 Annoying Wins: Windows 11'S Design Dissonance</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-the-frustration-of-disconnected-discord-setup/"><u>Avoiding the Frustration of Disconnected Discord Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/blackview-minipc-ample-storage-average-speed/"><u>Blackview MiniPC: Ample Storage, Average Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-pc-life-after-declining-windows-11-upgrade/"><u>Boost Your PC Life After Declining Windows 11 Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-vram-maximizing-graphics-power-on-windows-os/"><u>Boosting VRAM: Maximizing Graphics Power on Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Galaxy A25 5G?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-might-conversational-agents-impact-traditional-web-searches/"><u>How Might Conversational Agents Impact Traditional Web Searches?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-multimedia-in-school-curricula/"><u>In 2024, Incorporating Multimedia in School Curricula</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mac-screen-alignment-rapid-video-format-changes/"><u>Mac Screen Alignment Rapid Video Format Changes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/markets-tiny-helicopters-a-ranked-list/"><u>Market's Tiny Helicopters A Ranked List</u></a></li>
-<li><a href="https://win11.techidaily.com/1719367006018-need-windows-help-find-support-tips-and-solutions/"><u>Need Windows Help? Find Support Tips & Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-explanations-understanding-your-iphones-auto-dimming-display/"><u>Top 10 Explanations: Understanding Your iPhone's Auto-Dimming Display</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +169,25 @@ thumbnail: https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[New] Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-leveraging-tv-platforms-for-facebook-live-viewership/"><u>[Updated] In 2024, Leveraging TV Platforms for Facebook Live Viewership</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722984963235-borderlands-vegan-but-i-want-to-try-it-out/"><u>Borderlands Vegan, but I Want to Try It Out!</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-os-maintenance-the-unique-traits-of-chkdsk-scan-disk-vs-dissect/"><u>Explaining OS Maintenance: The Unique Traits of Chkdsk, Scan Disk Vs. Dissect</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-session-invalid-error-in-steam-gaming/"><u>How To Prevent “Session Invalid” Error in Steam Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-shutdown-hindered-error-from-peculiar-windows-programs/"><u>How to Resolve Shutdown Hindered Error From Peculiar Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-an-automatic-update-reminder-toolbar-on-windows-11/"><u>Implementing an Automatic Update Reminder Toolbar on Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-public-assessment-of-vllo-functionality/"><u>In 2024, Public Assessment of VLLO Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-user-preferences-with-powertoys-across-devices/"><u>Keeping User Preferences with PowerToys Across Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solution-to-timely-control-request-non-response-in-service-management-error-code-1053/"><u>Quick Solution to Timely Control Request Non-Response in Service Management (Error Code 1053)</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-access-denial-during-os-installer-processes/"><u>Resolving Access Denial During OS Installer Processes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-9000-dl-catastrophe-exposed-zen-5-manufacturing-defects-with-damaged-wafers-and-solder-leftovers/"><u>Ryzen 9000 DL Catastrophe: Exposed Zen 5 Manufacturing Defects with Damaged Wafers and Solder Leftovers</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-context-menu-on-windows-11-to-show-only-essentials/"><u>Tailor Context Menu on Windows 11 to Show Only Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-discord-resolving-unresizeable-gif-issues-in-win11/"><u>Troubleshooting Discord: Resolving Unresizeable GIF Issues in Win11</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S24 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

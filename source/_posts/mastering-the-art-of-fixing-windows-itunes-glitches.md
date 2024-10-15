@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Windows iTunes Glitches
-date: 2024-10-06T05:24:44.941Z
-updated: 2024-10-08T17:10:25.442Z
+date: 2024-10-09T17:39:07.828Z
+updated: 2024-10-15T20:12:24.736Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,17 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-store-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set iTunes to Run With Administrator Rights
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
  However, you can’t set the iTunes UWP app to always run with elevated rights because its installation folder is not accessible.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run iTunes in Safe Mode
 
  If you’ve installed the iTunes desktop software, try fixing its startup error by running the app in safe mode. Doing so will launch iTunes with plugins disabled. You can activate safe mode by pressing and holding the **Ctrl** \+ **Shift** keys when you click to launch iTunes. Then click **Continue** on the safe mode dialog box that appears.
@@ -73,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 Note that this potential resolution doesn’t apply to the iTunes UWP app downloaded from Microsoft Store. Holding the **Ctrl** \+ **Shift** keys when clicking the iTunes UWP app will bring up a Restrictions window.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run iTunes in Compatibility Mode
@@ -91,19 +105,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 ![The Compatibility mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/compatibility-mode-settings.jpg)
 6. Click on the **Apply** button to set your selected options.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select **OK** to leave the iTunes Properties window.
 
 ## 6\. Use Windows' Repair Feature to Fix iTunes
@@ -111,6 +112,13 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
  Repair options are worth trying when iTunes isn’t working. You can select to repair iTunes via Settings or the Programs and Features Control Panel applet, depending on whether you’re utilizing the UWP app or desktop software.
 
  Our guide to [repairing apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) tells you how to repair iTunes using either way.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset the iTunes App
 
@@ -128,13 +136,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall iTunes
 
  Reinstalling iTunes is a final troubleshooting method to try if nothing else works. This troubleshooting method will refresh the app’s files and likely resolve installation issues causing iTunes startup errors.
@@ -143,49 +144,26 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
 ![The Uninstall option for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve uninstalled iTunes, you can either install the UWP app or older Windows desktop software. To do so, click **Download iTunes for Windows 10 from the Microsoft Store** or **Download iTunes 12.10.11** on the [Apple page](https://support.apple.com/en-gb/HT210384). If you select the 12.10.11 option, you’ll need to open the installation file for iTunes in the folder it downloaded and install the software with that.
 
 ![The download links for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/itunes-download-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Installing iTunes from the Microsoft Store is recommended because you can be sure that it's the Windows-supported app and the latest version. 12.10.11 is the last version of the desktop software Apple hasn’t updated since 2020\.
 
  However, users have confirmed uninstalling iTunes and installing an older version of that software can resolve certain issues. To be more specific, the “iTunes cannot run” error message is one such issue users confirm installing older versions fixes. You can install an older version of iTunes by downloading its installation file from the [Apple Support page](https://support.apple.com/downloads/itunes).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get iTunes Fixed on Your Windows PC
 
  Some users may be tempted to try other alternative multimedia software like PodTrans or doubleTwist when iTunes won’t open. However, the troubleshooting methods above will likely fix most iTunes launch errors that arise on Windows PCs. So, give them a try before ditching iTunes.
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-mac-and-pc-screen-capture-experts-for-2024/"><u>[New] Pro Mac & PC Screen Capture Experts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-lg-bp550s-evolution-a-2023-perspective/"><u>[Updated] In 2024, LG BP550's Evolution - A 2023 Perspective</u></a></li>
-<li><a href="https://win11.techidaily.com/5-superior-bittorrent-tools-for-windows-users/"><u>5 Superior BitTorrent Tools for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-dysfunctional-automation-settings-in-office-365outlook/"><u>Addressing Dysfunctional Automation Settings in Office 365/Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/are-excel-files-opening-in-windows-notepad-try-these-solutions/"><u>Are Excel Files Opening in Windows Notepad? Try These Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/arrow-anomalies-heres-how-to-tackle-them/"><u>Arrow Anomalies? Here’s How to Tackle Them</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-royale-retrogaming-on-rpi-with-batocera-and-retropie/"><u>Battle Royale: RetroGaming on RPi with Batocera and RetroPie</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-blues-effective-methods-for-hybrid-os-errors-in-winxose/"><u>Beat the Blues: Effective Methods for Hybrid OS Errors in WINXOSE</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-detailed-tutorial-on-how-to-use-green-screen-in-kinemaster/"><u>In 2024, A Detailed Tutorial On How To Use Green Screen In Kinemaster</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 How to Unlock a Disabled iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-memories-maker-efficiently-download-tweeted-media-content/"><u>In 2024, Memories Maker Efficiently Download Tweeted Media Content</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +172,20 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-demystifying-instagrams-videography-restrictions/"><u>[Updated] 2024 Approved Demystifying Instagram's Videography Restrictions</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/business-oriented-motion-picture-magic-with-kop-nus-movavi-video-suite/"><u>Business-Oriented Motion Picture Magic with Köp Nu's Movavi Video Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-leading-10-4k-dslr-shoulder-rigs/"><u>Cutting Edge Leading 10 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://win11.techidaily.com/find-my-missing-f-16-copilot-in-windows-11-steps/"><u>Find My Missing F-16 Copilot In Windows 11 Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-living-room-to-video-call-how-to-project-zoom-sessions-onto-your-tv-display/"><u>From Living Room to Video Call: How to Project Zoom Sessions Onto Your TV Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-pcs-automatic-shutdown-at-idle-w11-style/"><u>Secure Your PCs: Automatic Shutdown at Idle, W11 Style</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-chorus-of-content-perfecting-music-placement-on-ig/"><u>The Chorus of Content Perfecting Music Placement on IG</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-win11s-capabilities-new-folder-fundamentals/"><u>Unlock Win11's Capabilities: New Folder Fundamentals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-despite-operational-error-740/"><u>Unlocking Windows 11'S Potential Despite Operational Error #740</u></a></li>
+</ul></div>
+

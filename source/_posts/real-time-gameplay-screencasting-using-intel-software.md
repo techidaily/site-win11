@@ -1,7 +1,7 @@
 ---
 title: Real-Time Gameplay Screencasting Using Intel Software
-date: 2024-10-02T04:03:20.006Z
-updated: 2024-10-08T21:14:46.733Z
+date: 2024-10-13T16:49:56.403Z
+updated: 2024-10-15T21:51:38.301Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
  Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the[best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create a Custom Capture Profile in Intel Graphics Command Center
@@ -61,29 +61,35 @@ To create a custom profile, follow the steps below:
 3. You can rename the custom profile by clicking the**three horizontal dots** in the top right corner of the card and selecting**Rename** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![renaming a custom profile in the intel graphics command center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-rename-custom-profile.jpg)
 4. Tweak the**Resolution** ,**Save to Location** ,**Output File Name** , and**File Format** options to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now your custom profile is ready to go.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It’s All About Capturing Awesome Gaming Moments on Windows
@@ -105,16 +111,22 @@ Now your custom profile is ready to go.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-your-path-to-success-steps-for-staff-picked-status-at-vimeo-for-2024/"><u>[Updated] Your Path to Success Steps for Staff-Picked Status at Vimeo for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/electric-vehicle-battery-replacement-prices-what-can-you-expect-to-pay/"><u>Electric Vehicle Battery Replacement Prices: What Can You Expect to Pay?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-20-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark 20 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-guide-achieving-excellent-underwater-cinematography/"><u>In 2024, GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-xr21-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia XR21 Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstate-lost-widgets-and-symbols-on-win-11-system/"><u>Reinstate Lost Widgets and Symbols on Win 11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-windows-update-a-comprehensive-guide/"><u>Reviving Windows Update: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-windows-error-steams-verified-games-issue/"><u>Strategies to Address Windows Error: Steam’s Verified Games Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/uncomplicate-your-computing-win11s-directories-guide/"><u>Uncomplicate Your Computing: Win11's Directories Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/what-is-the-difference-between-youtube-and-dailymotion-for-2024/"><u>What Is the Difference Between YouTube and Dailymotion for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-and-simple-facial-masking-in-photos/"><u>[Updated] Quick & Simple Facial Masking in Photos</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-surface-hidden-post-factors-on-fb/"><u>Beyond the Surface: Hidden Post Factors on FB</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-custom-mcb-banner-packs-for-2024/"><u>Download Custom MCB Banner Packs for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ferramentas-poderosas-para-gerar-intros-online-gratuitos-em-youtube/"><u>Ferramentas Poderosas Para Gerar Intros Online Gratuitos Em YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earn-on-youtube-beginners-path-to-profitability/"><u>In 2024, Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excel-functionality-how-to-insert-text-data-into-a-cell-via-formula/"><u>Mastering Excel Functionality: How To Insert Text Data Into A Cell Via Formula</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-excels-in-app-stock-tracking-a-comprehensive-guide/"><u>Mastering Excel's In-App Stock Tracking: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-excel-a-complete-guide-to-utilizing-the-fv-formula/"><u>Mastering Microsoft Excel: A Complete Guide to Utilizing the FV Formula</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-office-unlocking-the-power-of-ink-functionality/"><u>Mastering Microsoft Office: Unlocking the Power of Ink Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-open365-your-step-by-step-manual-on-leveraging-an-open-source-replacement-for-office-365-services/"><u>Mastering Open365 - Your Step-by-Step Manual on Leveraging an Open Source Replacement for Office 365 Services</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-bar-graphs-in-ms-excel-a-comprehensive-tutorial/"><u>Mastering the Art of Bar Graphs in MS Excel: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-checkbox-counting-in-ms-excel-worksheets/"><u>Mastering the Art of Checkbox Counting in MS Excel Worksheets</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-variance-computation-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Variance Computation: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/powerful-films-for-purpose-and-positivity-for-2024/"><u>Powerful Films for Purpose and Positivity for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seamless-video-to-photo-conversion-for-windows-users/"><u>Seamless Video-to-Photo Conversion for Windows Users</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-your-personal-data-using-windows-7s-reliable-backup-and-restore-features/"><u>Secure Your Personal Data Using Windows 7’S Reliable Backup and Restore Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crippled CoreCrypt: Still Stand, Not Suddenly Shift"
-date: 2024-10-05T13:35:48.844Z
-updated: 2024-10-08T16:29:32.602Z
+date: 2024-10-08T22:20:22.980Z
+updated: 2024-10-15T19:38:43.046Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Was BitLocker's Encryption Broken?
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is It Time to Ditch BitLocker?
@@ -79,29 +79,6 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
  It's also worth noting that despite this exploit, BitLocker remains secure, and the actual encryption underpinning it, AES-128 or AES-256, is still secure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-live-streams-rokus-path-to-fb-live/"><u>[New] Unlocking Live Streams Roku's Path to FB LIVE</u></a></li>
-<li><a href="https://win11.techidaily.com/10-early-symptoms-of-windows-needing-a-fresh-start/"><u>10 Early Symptoms of Windows Needing a Fresh Start</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-recording-into-stunning-podcast-edits/"><u>2024 Approved Transforming Recording Into Stunning Podcast Edits</u></a></li>
-<li><a href="https://win11.techidaily.com/art-software-showdown-windows-programs-vs-procreate/"><u>Art Software Showdown: Windows Programs Vs. Procreate</u></a></li>
-<li><a href="https://win11.techidaily.com/atlasos-reboot-transform-your-old-game-machine/"><u>AtlasOS Reboot: Transform Your Old Game Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-glitches-enabling-latest-emojis-on-windows-11/"><u>Avoiding Glitches: Enabling Latest Emojis on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/beating-back-corrupt-files-error-code-0x80070570-solutions-for-windows-11/"><u>Beating Back Corrupt Files Error Code 0X80070570: Solutions for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-limits-why-16gb-ram-is-key-for-modern-pcs/"><u>Beyond Limits: Why 16GB RAM Is Key for Modern PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-media-stream-efficiency-taming-vlc-lags/"><u>Boosting Media Stream Efficiency: Taming VLC Lags</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-windows-11-security-upgrading-pin-length/"><u>Boosting Windows 11 Security: Upgrading PIN Length</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-free-from-the-forgotten-island-xbox-hiccup/"><u>Breaking Free From the Forgotten Island Xbox Hiccup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/futures-palette-the-best-sci-fi-films-crafting-virtual-worlds-for-2024/"><u>Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic 5</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-asus-rog-phone-8-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Asus ROG Phone 8 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-5-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 5 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-the-high-definition-world-of-nikon-j5-for-2024/"><u>Inside the High-Definition World of Nikon J5 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-p55-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel P55 5G Phone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-pacificadrive-issues-steps-to-restore-functionality/"><u>Troubleshooting PacificaDrive Issues: Steps to Restore Functionality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/videocutter-expertise-full-evaluation/"><u>VideoCutter Expertise – Full Evaluation</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -109,3 +86,24 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelpilot-studio-direct-access-screen-recorder/"><u>[New] PixelPilot Studio Direct-Access Screen Recorder</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-vids-summary-uncovered/"><u>[Updated] Essential Vids Summary Uncovered</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploring-stardews-peak-mods-list-of-the-best/"><u>[Updated] Exploring Stardew's Peak Mods - List of the Best</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>[Updated] In 2024, The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-instagrams-video-limit-regulations/"><u>2024 Approved Navigating Instagram's Video Limit Regulations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/87/"><u>87</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-modifying-windows-file-attributes/"><u>A Step-by-Step Guide to Modifying Windows File Attributes</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-to-show-disk-space/"><u>Enhancing Windows Explorer to Show Disk Space</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-ios-18-unpack-the-release-moment-zero-expense-feature-rich-experience-and-newest-developments/"><u>Get Ready for iOS 18: Unpack the Release Moment, Zero Expense, Feature-Rich Experience & Newest Developments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-artifical-intelligence-in-apple-devices-comprehensive-insight-on-upcoming-ai-features-for-iphones-macs-and-ipads-zdnet-exclusive/"><u>Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive</u></a></li>
+<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/subtle-system-tweaks-windows-toolbars-unseen/"><u>Subtle System Tweaks: Windows Toolbars Unseen</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quest-to-resolve-skies-sse-woes/"><u>The Quest to Resolve Skies' SSE Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-error-31-in-network-connections/"><u>Troubleshooting WIN Error 31 in Network Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pc-strategies-to-exit-s-mode/"><u>Unlocking Your PC: Strategies to Exit S Mode</u></a></li>
+</ul></div>
+

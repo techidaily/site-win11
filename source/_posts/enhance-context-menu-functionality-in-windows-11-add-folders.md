@@ -1,7 +1,7 @@
 ---
 title: Enhance Context Menu Functionality in Windows 11 - Add Folders
-date: 2024-10-08T09:38:52.138Z
-updated: 2024-10-09T12:55:33.537Z
+date: 2024-10-08T22:15:49.922Z
+updated: 2024-10-15T16:50:26.432Z
 tags:
   - windows10
   - windows11
@@ -47,18 +47,24 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 5. Click**Done** to exit the MyFolders window.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
@@ -67,13 +73,20 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -104,13 +117,6 @@ Once your PC has restarted:
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -118,6 +124,13 @@ Once your PC has restarted:
  Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
 
@@ -132,13 +145,6 @@ Once your PC has restarted:
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -159,14 +165,24 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/our-quick-guide-to-securing-a-youtube-revenue-stream/"><u>[New] Your Quick Guide to Securing a Youtube Revenue Stream</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-get-your-grip-on-video-transferring-how-to-download-igtv-easily/"><u>[Updated] 2024 Approved Get Your Grip on Video Transferring How to Download IGTV Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-digital-riches-unleashed-measuring-your-success-on-youtubes-platform/"><u>2024 Approved Digital Riches Unleashed Measuring Your Success on YouTube's Platform</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhance-viewing-experience-by-adjusting-snapchats-frame-rate/"><u>2024 Approved Enhance Viewing Experience by Adjusting Snapchat's Frame Rate</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-the-flow-of-tasks-with-fast-outlook/"><u>Accelerate the Flow of Tasks with Fast Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-geforce-notaxc0f1103f-windows-errors/"><u>Addressing GeForce NotaXC0F1103F Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/augment-context-menu-with-higher-powers/"><u>Augment Context Menu with Higher Powers</u></a></li>
-<li><a href="https://win11.techidaily.com/1719348593153-conquer-non-compatibilities-easy-steps-for-windows-xp-users/"><u>Conquer Non-Compatibilities: Easy Steps for Windows XP Users.</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/timeless-triumphs-screen-captures-of-samsungs/"><u>Timeless Triumphs Screen Captures of Samsungs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-tutorial-for-enabling-automatic-voice-conversion-in-slides/"><u>[Updated] Cutting Edge Tutorial for Enabling Automatic Voice Conversion in Slides</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-decoding-fbs-interface-how-to-find-just-watched-content/"><u>[Updated] Decoding FB's Interface How To Find Just-Watched Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-peripheral-vision-audit/"><u>[Updated] Peripheral Vision Audit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-exploring-eight-premium-tablets-revolutionizing-photography-editing/"><u>2024 Approved Exploring Eight Premium Tablets Revolutionizing Photography Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-network-protocols-in-windows/"><u>Demystifying Network Protocols in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-gone-unveiling-win11-remedy-steps/"><u>Dxgi.dll Gone? Unveiling Win11 Remedy Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-pixel-trembling-now-a-step-by-step-guide-to-fix-screeflickering-issue/"><u>Eliminate Pixel Trembling Now: A Step-by-Step Guide to Fix ScreeFlickering Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-for-windows-11-dolby-atmos-setup/"><u>Essential Guide for Windows 11 Dolby Atmos Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-enhanced-performance-discover-key-benefits-of-the-new-macos-15-update-for-your-macbook/"><u>Experience Enhanced Performance: Discover Key Benefits of the New MacOS 15 Update for Your MacBook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-error-cannot-find-d3dx928dll-component-on-your-system/"><u>Fixing Error: Cannot Find d3dx9_28.dll Component on Your System</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-taskbar-features-in-windows-11/"><u>Mastering Taskbar Features in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/nativity-scene-delivering-apps-via-microsofts-hub/"><u>Nativity Scene: Delivering Apps via Microsoft's Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pictures-at-a-click-the-10-best-grids-for-2024/"><u>Perfect Pictures at a Click - The 10 Best Grids for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-windows-11-taskbar-sizing-techniques/"><u>Perfect Windows 11 Taskbar Sizing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-local-device-naming-clashes-with-5-steps-for-windows/"><u>Sidestep Local Device Naming Clashes with 5 Steps for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unidentified-status-messages-in-windows-applications/"><u>Tackling 'Unidentified' Status Messages in Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-select-and-modify-your-screensaver/"><u>Windows 11: Select and Modify Your Screensaver</u></a></li>
 </ul></div>
 

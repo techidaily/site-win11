@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Installing Office on Modern Windows OS"
-date: 2024-10-02T23:44:56.523Z
-updated: 2024-10-08T18:03:56.149Z
+date: 2024-10-11T18:50:39.084Z
+updated: 2024-10-15T20:43:20.158Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Works 9
@@ -64,67 +64,53 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
 ![The Microsoft Works suite window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll also notice that the window includes a calendar on which you can view appointments. To do so, you’ll need to add appointments inside the Works Calendar app. You can launch that software by clicking the **Open Calendar** button. To add an event, select a day within the Calendar app and then input a note for it at a time on the **My Calendar** tab.
 
 ![The Microsoft Works Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-calendar.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the **Templates** tab at the top of Microsoft Works to access the pre-made templates. There you can select template categories for creating newsletters, flyers, cards, home budgeting, travel, and sports documents in Works. Then choose a template to open within the MS Works word processor, spreadsheet, or database software.
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
 
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Discover Microsoft Works 9 in the Modern Era
 
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-drone-wizardry-and-the-mavic-pro-breakdown/"><u>[Updated] 2024 Approved Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>[Updated] In 2024, A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-best-screen-capture-tools-for-creative-professionals/"><u>2024 Approved The Best Screen Capture Tools for Creative Professionals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-visualcapture-reviewer-tool/"><u>2024 Approved VisualCapture Reviewer Tool</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-full-compatibility-with-ios-events-in-windows/"><u>Achieving Full Compatibility with iOS Events in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-and-utilizing-end-task-option-in-windows-11-interface/"><u>Activating and Utilizing End Task Option in Windows 11 Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-stubborn-epic-launcher-guide-for-win-11-users/"><u>Banish Stubborn Epic Launcher: Guide for Win 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/blueprint-for-dominance-in-windows-appbrowser-arena/"><u>Blueprint for Dominance in Windows' App/Browser Arena</u></a></li>
-<li><a href="https://win11.techidaily.com/bootable-backup-a-self-reliant-approach/"><u>Bootable Backup: A Self-Reliant Approach</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y02t-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y02T FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 15 Pro to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unveiling-the-features-and-performance-of-western-digitals-latest-mainstream-4tb-wd-blue-sn5000-ssd/"><u>In-Depth Review: Unveiling the Features and Performance of Western Digital’s Latest Mainstream 4TB WD Blue SN5000 SSD</u></a></li>
-<li><a href="https://win11.techidaily.com/1719360178726-navigate-and-rectify-common-errors-using-snip-and-sketch-on-windows/"><u>Navigate and Rectify Common Errors Using Snip & Sketch on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/1719288445449-overcoming-wwin-plus-printer-not-responding-issue-in-windows/"><u>Overcoming WWin + Printer Not Responding Issue in Windows.</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/why-is-ctrlplustab-responsive-in-emeditor-text-editor-and-how-can-you-speed-it-up/"><u>Why Is Ctrl+Tab Responsive in EmEditor Text Editor, and How Can You Speed It Up?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +119,25 @@ thumbnail: https://thmb.techidaily.com/5b911fc4e119075c845447b8b1130601d398b21b1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discover-the-best-6-apps-to-supercharge-your-instagram-reels/"><u>[Updated] 2024 Approved Discover the Best 6 Apps to Supercharge Your Instagram Reels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>2024 Approved Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-list-of-ad-free-android-capturing-apps/"><u>2024 Approved Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-6-lite-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Magic 6 Lite by Name | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dazzling-display-holiday-themed-window-wonders/"><u>Dazzling Display: Holiday Themed Window Wonders</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-keybindings-for-windows-applications/"><u>Designing Keybindings for Windows Applications</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eliminating-noise-methods-for-soundless-recording/"><u>Eliminating Noise Methods for Soundless Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/frame-it-up-right-insta-ready-video-edits-for-final-cut-pro-x/"><u>Frame It Up Right Insta-Ready Video Edits for Final Cut Pro X</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-temporarily-stop-automatic-windows-updates/"><u>How to Temporarily Stop Automatic Windows Updates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-tagging-towards-triumph-the-best-instagram-hashtags/"><u>In 2024, Tagging Towards Triumph The Best Instagram Hashtags</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-connections-with-spotify/"><u>Mastering Windows 11 Connections with Spotify</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-resolution-0x80072f8f/"><u>Mastering Windows Error Resolution: 0X80072f8f</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-essential-tips-for-new-windows-11-users-avoid-these-errors/"><u>Nine Essential Tips for New Windows 11 Users - Avoid These Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-signature-compliant-update-files-on-windows/"><u>Tackling Non-Signature Compliant Update Files on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-to-fix-windows-error-message-0x8007007e/"><u>Tips and Tricks to Fix Windows Error Message 0X8007007E</u></a></li>
+</ul></div>
+

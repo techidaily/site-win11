@@ -1,7 +1,7 @@
 ---
 title: "Solving Win11's Empty Directory Alert (Error Code: 0X80070091)"
-date: 2024-09-13T23:45:07.852Z
-updated: 2024-09-17T06:09:37.990Z
+date: 2024-10-08T19:43:50.696Z
+updated: 2024-10-15T22:55:09.779Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
@@ -47,6 +54,20 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 2. Select File Explorer on the**Processes** tab.  
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Scan System Files With an SFC Scan
 
@@ -80,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
 7. Click**Replace owner on subcontainers and objects** to select that setting.
@@ -102,37 +116,24 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Delete Your Folders in File Explorer Again With These Fixes
 
@@ -151,5 +152,26 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-20-gratis-plus-purchasable-luts-enhance-canon-cams/"><u>[New] 2024 Approved 20 Gratis + Purchasable LUTs Enhance Canon Cams</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/roubleshooting-techniques-for-optimized-video-shorts-for-2024/"><u>[New] Troubleshooting Techniques for Optimized Video Shorts for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>2024 Approved Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-zte-nubia-flip-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your ZTE Nubia Flip 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/breaking-down-solution-strategies-for-troubleshooting-error-0xc19001e1-on-windows-10-machines/"><u>Breaking Down Solution Strategies for Troubleshooting Error 0Xc19001e1 on Windows 10 Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-operational-failures-in-windows-os/"><u>Correcting Operational Failures in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-resolving-d3d11-issues-for-w11w10-systems/"><u>Decoding and Resolving D3D11 Issues for W11/W10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-differences-exe-vs-msi-installation/"><u>Decoding the Differences: Exe vs Msi Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-best-free-desktop-password-makers-on-windows/"><u>Discover Best Free Desktop Password Makers on Windows</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/free-online-conversion-changing-wav-files-into-swf-format-with-movavi/"><u>Free Online Conversion: Changing WAV Files Into SWF Format with Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-a2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Redmi A2 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-11-mastering-the-taskbars-quick-search/"><u>Launching Windows 11: Mastering the Taskbar's Quick Search</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-troubleshooting-for-windows-msc-not-found-error/"><u>Mastering Troubleshooting for Windows MSC Not Found Error</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/int-pioneering-podium-places/"><u>Pinpoint Pioneering Podium Places</u></a></li>
+<li><a href="https://win11.techidaily.com/realign-prime-video-subtitles-with-windows-11-settings/"><u>Realign Prime Video Subtitles with Windows 11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11s-5ghz-wi-fi-connection-problems/"><u>Resolving Windows 11'S 5GHz Wi-Fi Connection Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-cybersecurity-why-more-than-one-antivirus-is-unnecessary-for-windows-pcs/"><u>Simplify Cybersecurity: Why More Than One Antivirus Is Unnecessary for Windows PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-google-pixel-8-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Google Pixel 8? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenges of a Non-Working Windows Notepad
-date: 2024-10-02T12:57:57.634Z
-updated: 2024-10-08T20:35:39.931Z
+date: 2024-10-09T20:19:53.478Z
+updated: 2024-10-15T17:27:26.552Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
  Note that this is just a temporary fix that you can use if you don’t have time to figure out what’s causing the problem. To resolve the underlying issue for good, it's time to dive into the potential root causes of this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair the Notepad App
@@ -55,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 ![Repair the Notepad App on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-notepad-app-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have repaired the Notepad app, try using it again. If Notepad continues to close automatically, you can consider resetting it on your PC. Check out [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) and follow the steps outlined there.
@@ -75,14 +81,14 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 4. Select **Uninstall** to confirm.  
 ![Uninstall Notepad App From Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-notepad-app-from-windows-11.jpg)
 
- Once the app is removed, head over to [the Notepad app on the Microsoft Store](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) to download and install Notepad again. Following this, the app should work smoothly.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once the app is removed, head over to [the Notepad app on the Microsoft Store](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) to download and install Notepad again. Following this, the app should work smoothly.
 
 ## 4\. Try Generic Fixes
 
@@ -94,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 * **Create another user account:** If nothing else works, your current user account may be at fault. In that case, you will have to [create a new user account on Windows](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to get Notepad working again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Using Notepad Again on Windows
@@ -106,29 +112,6 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
  If the Notepad app is constantly closing or crashing on your Windows 10 or 11 PC, don’t fret. Here are some tips that should help fix the problem.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapshotwiz-10-pro-windows-screen-master/"><u>[New] SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-6-types-of-videos-that-will-hook-your-viewers/"><u>[Updated] 2024 Approved 6 Types of Videos That Will Hook Your Viewers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-insights-best-instagram-editors-for-mobile-and-pc-for-2024/"><u>[Updated] Essential Insights Best Instagram Editors for Mobile and PC for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-easy-ways-to-merge-igtv-and-instagram-stories/"><u>[Updated] In 2024, Easy Ways to Merge IGTV & Instagram Stories</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elite-10-royal-warfare-games/"><u>[Updated] In 2024, Elite 10 Royal Warfare Games</u></a></li>
-<li><a href="https://win11.techidaily.com/breath-of-life-for-outdated-bios-features/"><u>Breath of Life for Outdated BIOS Features</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-technology-divide-with-winpc-galaxy-flow-link/"><u>Bridging Technology Divide with WinPC-Galaxy Flow Link</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-connection-issues-0x00000001-resolution-guide/"><u>Bypassing Connection Issues - 0X00000001 Resolution Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/camouflaging-keyboard-actions-on-windows-platforms/"><u>Camouflaging Keyboard Actions on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/can-pressing-print-screen-start-snip-in-windows-11-block-it/"><u>Can Pressing Print Screen Start Snip in Windows 11? Block It</u></a></li>
-<li><a href="https://win11.techidaily.com/chronos-remedy-restoring-lost-windows-server-time-functionality/"><u>Chronos' Remedy: Restoring Lost Windows Server Time Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-your-script-crisis-essential-solutions-for-windows-errors/"><u>Clear Your Script Crisis: Essential Solutions for Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-not-written-memory-problems-on-windows/"><u>Clearing Up Not Written Memory Problems on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-the-conflicting-audio-application-problem-in-windows/"><u>Clearing Up the Conflicting Audio Application Problem in Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-s23-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/gionee-f3-pro-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Gionee F3 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Motorola Moto G 5G (2023).</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-address-failed-downloads-in-windows-1011/"><u>Strategies to Address Failed Downloads in Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-might-you-experience-issues-with-your-automobiles-speakers-exploring-the-reasons/"><u>Why Might You Experience Issues with Your Automobile's Speakers? Exploring the Reasons</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +119,24 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets/"><u>[Updated] 2024 Approved From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-take-screenshots-on-xbox-one-for-2024/"><u>[Updated] How to Take Screenshots on Xbox One for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-audfreemasterclass-deciphering-extraction-features/"><u>2024 Approved AudFreeMasterclass Deciphering Extraction Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-tips-for-producing-engaging-educational-content-for-youtube/"><u>Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/from-mobile-to-stationary-setting-up-your-android-as-a-windows-webcam/"><u>From Mobile to Stationary: Setting Up Your Android as a Windows Webcam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-5-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic 5 Pro Phone Screen?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-realme-v30-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme V30 FRP?</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-windows-volume-control-configuration/"><u>Maintaining Windows Volume Control Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-passwords-in-windows-11-with-the-four-best-guardians/"><u>Master Your Passwords in Windows 11 with The Four Best Guardians</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-naming-schemes-for-windows-files-max-156/"><u>Pro Naming Schemes for Windows Files (Max 156)</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/reiniciar-tu-pc-con-windows-10-a-su-configuracion-original-desde-el-inicio-tres-vias-para-resetear/"><u>Reiniciar Tu PC Con Windows 10 a Su Configuración Original Desde El Inicio: Tres Vías Para Resetear</u></a></li>
+<li><a href="https://win11.techidaily.com/the-conquerors-guide-taking-back-control-over-windows-11-themes/"><u>The Conquerors Guide: Taking Back Control over Windows 11 Themes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-new-release-amds-latest-video-card-drivers-version-241/"><u>The New Release: AMD's Latest Video Card Drivers, Version 24.1</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-rise-and-fall-a-comparative-study-on-tiktok-and-snaps-popularity/"><u>The Rise and Fall A Comparative Study on TikTok and Snap’s Popularity</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-virtualbox-usb-attachment-failures/"><u>Understanding and Solving VirtualBox USB Attachment Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-11-a-comprehensive-directdraw-troubleshooting-manual/"><u>Win11 & 11: A Comprehensive DirectDraw Troubleshooting Manual</u></a></li>
+</ul></div>
+

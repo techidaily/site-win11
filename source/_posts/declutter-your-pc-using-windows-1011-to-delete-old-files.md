@@ -1,7 +1,7 @@
 ---
 title: "Declutter Your PC: Using Windows 10/11 to Delete Old Files"
-date: 2024-09-15T16:57:01.409Z
-updated: 2024-09-17T05:37:21.490Z
+date: 2024-10-14T20:54:05.653Z
+updated: 2024-10-15T17:01:00.123Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your files will be removed as quickly as soon as you hit the above commands.
 
 ## 3\. Use Task Scheduler on Windows
@@ -69,6 +76,14 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 4. Right-click on the recently created folder and select the **Create Task** option.  
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
@@ -83,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -103,16 +125,10 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
@@ -123,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +146,27 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-timely-team-setups-adjusting-backdrop-beforeafter-calls/"><u>[Updated] 2024 Approved Timely Team Setups Adjusting Backdrop Before/After Calls</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-photo-editing-canvas-backdrop-eradication/"><u>Advanced Photo Editing Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>Capturing Stardust The Premier 10 Sites for HDR Skyscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/consumer-groups-sue-t-mobile-for-misleading-price-protection-promise-a-closer-look-at-the-allegations/"><u>Consumer Groups Sue T-Mobile for Misleading Price Protection Promise: A Closer Look at the Allegations</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-unique-keys-for-winapps-and-tools/"><u>Creating Unique Keys for WinApps and Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enabling-auto-play-feature-for-your-image-flipbooks-with-flipbuilder-easy-integration/"><u>Enabling Auto-Play Feature for Your Image FlipBooks with FlipBuilder - Easy Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-code-0x0000004e-breakdown/"><u>Fixing Windows Error Code: 0X0000004E Breakdown</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-xcover-7-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy XCover 7? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-secure-passcodes-longer-windows-11-and-11-pins/"><u>Mastering Secure Passcodes: Longer Windows 11 and 11 PINs</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-pace-boosting-windows-download-efficiency/"><u>Mastering Steam Pace: Boosting Windows Download Efficiency</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/melhores-softwares-e-aplicativos-para-modificar-vocalizacao-em-filmes-guia-detalhado-com-nota-classificada/"><u>Melhores Softwares E Aplicativos Para Modificar Vocalização Em Filmes - Guia Detalhado Com Nota Classificada</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-enhancing-listening-experience-steps-for-standardizing-audio-amplitude-in-vlc/"><u>New Enhancing Listening Experience Steps for Standardizing Audio Amplitude in VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-challenge-of-invalid-onedrive-tags/"><u>Overcoming the Challenge of Invalid OneDrive Tags</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-still-requires-password-faults/"><u>Quick Fixes for “Windows Still Requires Password” Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-regular-launch-procedure-in-outlook-despite-safe-mode-lockdown/"><u>Reactivating Regular Launch Procedure in Outlook Despite Safe Mode Lockdown</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-for-adjacent-and-non-adjacent-windows-partition-merging/"><u>Step-by-Step Guide for Adjacent and Non-Adjacent Windows Partition Merging</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/syma-x5c-rc-quadcopter-evaluation-exceptional-entry-level-performance-at-a-reasonable-price-point/"><u>SYMA X5C R/C Quadcopter Evaluation - Exceptional Entry-Level Performance at a Reasonable Price Point</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-combining-folders-and-files-in-win-11/"><u>The Essential Guide to Combining Folders & Files in Win 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A24 | Dr.fone</u></a></li>
+</ul></div>
+

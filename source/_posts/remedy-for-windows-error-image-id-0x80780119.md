@@ -1,7 +1,7 @@
 ---
 title: "Remedy for Windows Error: Image ID 0X80780119"
-date: 2024-10-07T15:50:26.814Z
-updated: 2024-10-08T21:19:50.794Z
+date: 2024-10-11T19:29:46.368Z
+updated: 2024-10-15T19:35:13.817Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 * **Uninstall unused programs**: If there are apps that you do not use anymore, head over to the Control Panel to uninstall them from the system. This will free up a great amount of space that can be used by the System Restore utility.
 
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check and Repair Disk Errors
 
@@ -75,20 +75,13 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
 
@@ -101,19 +94,27 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 3. Head over to the **Device specifications** section and click on the **System protection** option.  
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
- You can now close the System Protection dialog and check if the issue is resolved.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can now close the System Protection dialog and check if the issue is resolved.
 
 ## 4\. Delete USN Journal
 
@@ -142,27 +143,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-webinar-recording-on-a-budget/"><u>[New] In 2024, Mastering Webinar Recording on a Budget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-fastest-route-for-srt-to-text-file-conversion/"><u>[New] The Fastest Route for SRT to Text File Conversion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-step-by-step-obs-studio-setup-for-android-users/"><u>[Updated] In 2024, Step-by-Step OBS Studio Setup for Android Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-whip-up-your-own-web-humor-snippet/"><u>[Updated] Whip Up Your Own Web Humor Snippet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-panache-creating-perfect-crossfades/"><u>2024 Approved Precision and Panache Creating Perfect Crossfades</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-edge-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola Edge 2023 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-inability-to-reach-mb-services-in-windows-11-devices/"><u>Fixing the Inability to Reach MB Services in Windows 11 Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fps-fanatics-resource-for-fast-controls-and-extensions-for-2024/"><u>FPS Fanatics' Resource for Fast Controls and Extensions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-biometric-authentication-in-11th-gen-windows/"><u>How to Enable Biometric Authentication in 11Th Gen Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-network-nooks-for-your-windows-11s-mac/"><u>Navigating the Network Nooks for Your WIndows 11'S MAC</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-stuck-on-size-errors-with-easy-solutions-for-windows-discousers/"><u>Overcoming Stuck-On-Size Errors with Easy Solutions for Windows DiscoUsers</u></a></li>
-<li><a href="https://win11.techidaily.com/privacy-measures-eliminate-email-from-logon-window/"><u>Privacy Measures: Eliminate Email From Logon Window</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-latest-corsair-k55-keyboardmouse-drivers/"><u>Step-by-Step Guide to Installing Latest Corsair K55 Keyboard/Mouse Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/surgical-tweaks-to-the-android-resource-management-system/"><u>Surgical Tweaks to the Android Resource Management System</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-beginners-guide-to-microsoft-copilot/"><u>The Ultimate Beginner's Guide to Microsoft Copilot</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-explorer-excellence-the-ultimate-six-strategies-for-copying-filefolder-paths/"><u>Windows Explorer Excellence: The Ultimate Six Strategies for Copying File/Folder Paths</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -170,3 +150,27 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>[Updated] Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>2024 Approved Lunar Luster Online A Curated List of HDR Sky Images</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsupported-devices-in-windows-installation/"><u>Fixing Unsupported Devices in Windows Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/from-batch-to-exe-windows-file-conversion/"><u>From Batch to EXE: Windows File Conversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-efficient-is-recuva-for-file-restoration-a-thorough-examination-and-user-ratings/"><u>How Efficient Is Recuva for File Restoration? - A Thorough Examination and User Ratings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-xr-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone XR in the Best Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lenovo-thinkphone-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lenovo ThinkPhone Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-exquisite-samsung-galaxy-s10-the-epitome-of-luxury-phones/"><u>In-Depth Evaluation of the Exquisite Samsung Galaxy S10: The Epitome of Luxury Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-subscription-details-explored-anticipating-account-expiration-dates/"><u>Mail.com Subscription Details Explored: Anticipating Account Expiration Dates</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-onedrive-obstacles-a-comprehensive-approach/"><u>Overcoming OneDrive Obstacles: A Comprehensive Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/rebuild-windows-11-second-screen-fixes/"><u>Rebuild Windows 11 Second Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-repairing-windows-file-systems/"><u>Step-By-Step Guide to Repairing Windows File Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/synching-your-way-to-digital-unity-android-plus-windows/"><u>Synching Your Way to Digital Unity: Android + Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unpairing-devices-from-a-windows-10-pc-tips/"><u>Troubleshooting Steps for Unpairing Devices From a Windows 10 PC (Tips )</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-the-vds-startup-sequence-in-windows/"><u>Unfreezing the VDS Startup Sequence in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-shadowed-interface-opening-windows-private-individuality-analyzer/"><u>Unveiling the Shadowed Interface: Opening Windows' Private Individuality Analyzer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y78-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y78 5G Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/winupdates-troubleshooting-guide-for-error-x80246007/"><u>WinUpdates Troubleshooting Guide for Error X80246007</u></a></li>
+</ul></div>
+

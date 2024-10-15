@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Access: Making Shortcuts on UWP Windows Apps"
-date: 2024-10-03T21:07:49.157Z
-updated: 2024-10-09T13:28:08.862Z
+date: 2024-10-11T22:04:52.112Z
+updated: 2024-10-15T17:25:16.120Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,21 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 ![The Create shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-shortcut-option.jpg)
 5. Select **Yes** when prompted to place a shortcut on the desktop.  
 
+![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![The Shortcut dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-yes-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create Desktop Shortcuts for Pre-Installed UWP Apps With the Create Shortcut Wizard
 
@@ -61,22 +68,15 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 ![The ms-clock: URI in the Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/create-shortcut-window.jpg)
 4. Click **Next** to proceed to the final step of the wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Enter the app’s name in the text box.
 6. Press **Finish** to create your UWP app shortcut.  
 ![The Alarms and Clocks desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/alarms-and-clocks-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This method will add a URL (web document) shortcut for opening the app to the desktop. These are some of the URIs with which you can create UWP desktop shortcuts:
@@ -101,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  Incidentally, you can also create shortcuts with URIs for Settings pages much the same. Check out this [how to set up Settings page shortcuts](https://www.makeuseof.com/windows-11-shortcuts-for-settings-pages/) guide for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Pin UWP Desktop Shortcuts to the Taskbar
 
  You can select to pin UWP apps to the taskbar with their desktop shortcuts. To do so, right-click the UWP app’s desktop shortcut and select **Show more options** \> **Pin to taskbar**. Then you can open the app from the taskbar instead.
@@ -115,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-to-taskbar.jpg)
 
  Note that you can’t pin web document desktop shortcuts to the taskbar. The context menus for desktop shortcuts created with URI commands don’t include the **Pin to taskbar** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Assign Hotkeys to UWP App Desktop Shortcuts
 
@@ -132,25 +132,6 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  The usual way to create shortcuts for desktop apps is to right-click their EXE files within installation directories and select **Send to Desktop**. So, some users may wonder how they can create desktop shortcuts for UWP apps that are in an inaccessible WindowsApps folder. You can still create shortcuts for UWP apps with the methods below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-guide-to-non-udemy-online-education-sites/"><u>[New] 2024 Approved Ultimate Guide to Non-Udemy Online Education Sites</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-high-engagement-stories-filters-list/"><u>[New] In 2024, High-Engagement Stories Filters List</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-avoid-blandness-optimize-your-thumbnail-with-20-fonts/"><u>[Updated] In 2024, Avoid Blandness - Optimize Your Thumbnail with 20 Fonts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-hub-for-newbies-in-cinematic-craftsmanship/"><u>[Updated] YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-microsoft-family-safety-tools/"><u>A Deep Dive Into Microsoft Family Safety Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-downloads-utorrents-secrets-to-speedier-win-os-files/"><u>Accelerating Downloads: UTorrent's Secrets to Speedier WIN OS Files</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-phone-dialer-in-windows-11/"><u>Accessing Phone Dialer in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-nvidia-software-connection-failure-in-os-x/"><u>Addressing NVIDIA Software Connection Failure in OS X</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-desktop-date-and-time-a-win-1011-guide/"><u>Adjusting Desktop Date & Time: A Win 10/11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/battle-the-bake-off-effective-tactics-to-reduce-gaming-laptops-temperature/"><u>Battle the Bake-Off: Effective Tactics to Reduce Gaming Laptop’s Temperature</u></a></li>
-<li><a href="https://win11.techidaily.com/1719362389609-determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-boot-manager-missing-errors-on-windows-pc/"><u>How to Repair 'Boot Manager Missing' Errors on Windows PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-missing-links-to-proper-window-11-mastery-revealed-here/"><u>In 2024, The Missing Links to Proper WINDOW 11 Mastery Revealed Here</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimize-your-gopro-shoot-for-2024/"><u>Optimize Your GoPro Shoot for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/techniques-for-broadcasting-purpose-driven-lifestyle-plays-for-2024/"><u>Techniques for Broadcasting Purpose-Driven Lifestyle Plays for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +139,19 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-content-propagation-on-vimeo/"><u>[New] In 2024, Mastering Content Propagation on Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-authenticity-checks-on-instagram/"><u>[Updated] In 2024, Mastering Authenticity Checks on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-guide-inverting-your-media-files/"><u>2024 Approved IPhone Guide Inverting Your Media Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-acquiring-insta-ringtunes-the-ultimate-checklist/"><u>2024 Approved Mastering the Art of Acquiring Insta-Ringtunes The Ultimate Checklist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comeback-alert-for-total-wireless-unveiling-cost-effective-5g-solutions/"><u>Comeback Alert for Total Wireless - Unveiling Cost-Effective 5G Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-microsoft-store-error-code-0x80073d26/"><u>Deciphering and Fixing Microsoft Store Error Code 0X80073D26</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-printer-use-in-defender-smartscreen-on-edge-browser/"><u>Enabling Printer Use in Defender SmartScreen on Edge Browser</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-s24-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy S24 Unlock Without Password</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/revolutionize-your-experience-with-latest-windows-10-apps-and-gaming/"><u>Revolutionize Your Experience with Latest Windows 10 Apps & Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-pc-name-error-in-win11/"><u>Steps to Resolve PC Name Error in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-correctly-printing-from-microsoft-powerpoint-in-windows/"><u>The Ultimate Guide to Correctly Printing From Microsoft PowerPoint in Windows</u></a></li>
+</ul></div>
+

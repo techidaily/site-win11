@@ -1,7 +1,7 @@
 ---
 title: "The Evolution Continues: Beyond Windows 11"
-date: 2024-09-11T06:24:05.124Z
-updated: 2024-09-16T17:04:10.072Z
+date: 2024-10-11T17:51:02.551Z
+updated: 2024-10-15T22:34:00.607Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 
  It would also be great to see the phone's storage put in the File Explorer too. You should be able to add, edit, and delete files on the phone storage like you would on a cloud-based platform like OneDrive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. A Dedicated Touch UI for Touch Devices
 
  Windows 11's user interface is top-notch for keyword and mouse users, but there's room for improvement in the UI that you see on touch devices. Sure, the UI decision needs to be taken in the context of a device's hardware, but Microsoft can always use a dynamic and adaptive UI that runs based on the available resources.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
  Windows 11 has a touch-specific UI, but it's essentially the desktop UI with a few changes to make it easier to work with on a touch device. However, we'd love to see a complete redesign of the Windows 12 desktop UI for touch-only devices, just like Windows 8\. While Windows 8 isn't the best of Microsoft operating systems, its fluid UI was excellent.
 
 ![Windows 8.1 Start Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/windows-8.1-start-screen-application-tiles.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The chances of Microsoft radically changing the design are slim. However, the Windows 12 UI might have a few major design changes as revealed in the Microsoft Ignite Keynote. Here's a tweet showing a preview of the possible design changes:
 
@@ -55,24 +69,18 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 
  Microsoft could even apply the same principle to apps. Depending on the hardware, users should be able to scale between full support for all apps and being able to run just a handful of essential apps. While this might sound a little far-fetched in the context of Windows, Chrome OS has already proved that a feature-light and web-based operating system can be an excellent choice for low-end PCs.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Animated Wallpapers
 
  Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can[set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
 
  Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for[adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Else Do We Expect from Windows 12?
 
@@ -87,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
  Windows 12 will likely be available as a free upgrade once it releases, just like Windows 11, as long as you meet the minimum system requirements.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Windows 12 Meet Our Expectations?
@@ -112,5 +120,20 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elite-selection-top-downloader-apps-for-vimeo-videos/"><u>[New] 2024 Approved Elite Selection Top Downloader Apps for Vimeo Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlinedprocess-for-youcamwebrecord/"><u>[New] In 2024, StreamlinedProcess for YouCamWebRecord</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-zen-masters-guide-to-zooming-your-youtube-livestreams/"><u>[Updated] In 2024, The Zen Master’s Guide to Zooming Your YouTube Livestreams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ever-film-dialogues-showcase-for-2024/"><u>Best-Ever Film Dialogues Showcase for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-ai-driven-tools-on-microsofts-platform/"><u>Discovering AI-Driven Tools on Microsoft's Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-methods-for-incorporating-links-into-tiktok-bios-for-2024/"><u>Expert Methods for Incorporating Links Into TikTok Bios for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-audio-recording-solutions-for-educators-using-apple-products/"><u>In 2024, Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>In 2024, Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-adjusting-admin-settings-on-windows-11/"><u>Master the Art of Adjusting Admin Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablish-uninterrupted-gameplay-in-gaming-environment/"><u>Reestablish Uninterrupted Gameplay in Gaming Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-hidden-net-identity-errors-windows/"><u>Tackling Hidden Net Identity Errors Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-shield-of-anonymity-network-file-security-on-windows/"><u>The Shield of Anonymity: Network File Security on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-advanced-features-integrating-chatgpt-into-google-spreadsheets-and-office-suite/"><u>Unlocking Advanced Features: Integrating ChatGPT Into Google Spreadsheets & Office Suite</u></a></li>
+</ul></div>
 

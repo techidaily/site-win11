@@ -1,7 +1,7 @@
 ---
 title: "Windows & Sudo: A Powerful Combination"
-date: 2024-09-13T18:50:21.187Z
-updated: 2024-09-16T18:36:52.809Z
+date: 2024-10-13T17:41:18.443Z
+updated: 2024-10-15T16:35:42.774Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,25 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Windows Versions Can Run the sudo Command?
 
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
 
@@ -56,16 +70,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -90,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
@@ -102,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -111,3 +117,23 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-art-of-uploading-youtube-shorts-on-devices/"><u>[New] 2024 Approved Mastering the Art of Uploading YouTube Shorts on Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unleash-stunning-visuals-top-10-high-resolution-displays-for-mac-for-2024/"><u>[New] Unleash Stunning Visuals - Top 10 High-Resolution Displays for Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quickly-uncover-lately-watched-facebook-videos/"><u>[Updated] In 2024, Quickly Uncover Lately Watched Facebook Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/curbing-the-ban-facebook-board-assessment-of-executive-decision/"><u>Curbing the Ban: Facebook Board Assessment of Executive Decision.</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-conversion-tutorial-turn-your-mov-file-into-an-mp4-with-solutions-for-pc-and-mac-users/"><u>Easy Conversion Tutorial: Turn Your MOV File Into an MP4 with Solutions for PC and Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-for-removing-windows-defender-history-logs/"><u>Efficient Methods for Removing Windows' Defender History Logs</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-writing-skills-on-a-windows-machine/"><u>Elevate Your Writing Skills on a Windows Machine</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solidify-remote-access-with-stable-vpn-connection/"><u>How to Solidify Remote Access with Stable VPN Connection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-reach-chatgpt-through-a-virtual-private-network-vpn/"><u>Is It Possible to Reach ChatGPT Through a Virtual Private Network (VPN)?</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-gameplay-essential-upgrades-for-win-11-gamers/"><u>Maximizing Gameplay: Essential Upgrades for Win 11 Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/probing-into-the-integration-of-real-and-digital-in-mixed-reality/"><u>Probing Into the Integration of Real and Digital in Mixed Reality</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-mcuicntexe-execution-issue-on-pcs/"><u>Resolving McUICnt.exe Execution Issue on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-rectifying-rdp-errors-in-windows-11/"><u>Strategies for Rectifying RDP Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-alternatives-to-directly-renaming-folders-in-win-11/"><u>The Ultimate List of Alternatives to Directly Renaming Folders in Win 11</u></a></li>
+</ul></div>
+

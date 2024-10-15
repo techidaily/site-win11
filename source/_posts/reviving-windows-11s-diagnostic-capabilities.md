@@ -1,7 +1,7 @@
 ---
 title: Reviving Windows 11'S Diagnostic Capabilities
-date: 2024-10-04T08:41:52.260Z
-updated: 2024-10-09T05:43:02.197Z
+date: 2024-10-11T21:22:37.464Z
+updated: 2024-10-15T20:34:38.979Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,14 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 2. Double-click **Cryptographic Services** to bring up a settings window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cryptographic-services.jpg)
 3. Click on the **Startup type** drop-down menu and choose the **Automatic** setting if a different option is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, select the **Start** option for the service to run.  
 ![The Cryptographic Services Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cryptographic-services-window.jpg)
 5. Click on the **Apply** and **OK** options to set your selected settings.
@@ -59,22 +67,15 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![The netsch winsock reset command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netsch-winsock-reset-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Security Software and Firewalls
 
  Many security software packages incorporate firewalls that can sometimes block Windows troubleshooters from connecting with Microsoft servers. If a third-party security app is on your PC, disable that software’s firewall component to ensure it can’t interfere with Windows troubleshooters. Then try running the troubleshooter with the firewall component disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Rename the Catroot2 and SoftwareDistribution Folders
 
@@ -97,13 +98,6 @@ net stop msiserver`
 ![The rename catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rename-catroot2-folder.jpg)
 5. Restart services by entering and executing these commands:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `net start cryptsvc  
   
 net start wuauserv  
@@ -113,10 +107,10 @@ net start bits
 net start msiserver`
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Modify TEMP and TMP Environment Variables
@@ -131,26 +125,20 @@ net start msiserver`
 5. Check the **TEMP** and **TMP** values in the System variables box. If they’re not set to **C:\\Windows\\Temp**, proceed with the next few steps to edit their values.  
 ![The Environment Variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/environment-variables-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Double-click **TEMP** in the System variables box.
 2. Erase the text in the **Variable** **value** box. Then input **%SystemRoot%\\TEMP** inside the **Variable** **value** box.  
 ![The Edit System Variable window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-system-variable-window.jpg)
 3. Click **OK** on the Edit System Variable window.
-4. Repeat the previous three steps for the TMP variable.
-5. Select **OK** on the Environment Variables window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Repeat the previous three steps for the TMP variable.
+5. Select **OK** on the Environment Variables window.
 
 ## 7\. Enable Troubleshooters in Group Policy Editor
 
@@ -160,18 +148,33 @@ net start msiserver`
 2. Then double-click **Administrative Templates** \> **System** \> **Troubleshooting and Diagnostics** \> **Scripted Diagnostics** to view policy settings for troubleshooting.  
 ![The Scripted Diagnostic policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scripted-diagnostic-policies.jpg)
 3. Double-click the **Troubleshooting: Allow users to access and run Troubleshooting Wizards** policy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Enabled** to re-enable troubleshooters if the policy is disabled.  
 ![The Troubleshooting: Allow users to access and run Troubleshooting Wizards policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-allow-users-to-access-and-run-troubleshooters.jpg)
 5. Press the **Apply** \> **OK** buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Repeat the previous three steps for the **Troubleshooting: Allow users to access online troubleshooting content** and **Configure Security Policy for Scripted Diagnostics** policies.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Utilize the System Restore Tool
 
@@ -181,14 +184,14 @@ net start msiserver`
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-system-restore-window.jpg)
 
- Utilizing System Restore comes with this caveat: software installed after a restoration date gets removed. This means you may need to reinstall some lost software after performing a restore. Clicking **Scan for affected programs** in System Restore shows you what software a restore point deleted.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Utilizing System Restore comes with this caveat: software installed after a restoration date gets removed. This means you may need to reinstall some lost software after performing a restore. Clicking **Scan for affected programs** in System Restore shows you what software a restore point deleted.
 
 ## 9\. Factory Reset Your Windows PC
 
@@ -204,27 +207,6 @@ net start msiserver`
 
  The full error messages and codes can vary slightly and appear after users select to run the troubleshooters. Consequently, the affected Windows troubleshooters don’t work. This is how you can fix troubleshooters not working on Windows 11/10 PCs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essence-of-insta-bokeh-a-step-by-step-guide/"><u>[New] 2024 Approved The Essence of Insta Bokeh - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/20886183-new-2024-approved-top-bargain-video-snippets-grab-youtube-images-without-cost/"><u>[New] 2024 Approved Top Bargain Video Snippets - Grab YouTube Images Without Cost!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-minute-by-minute-fortnite-tile-methods/"><u>[Updated] Minute-by-Minute Fortnite Tile Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unshakeable-video-quality-best-stabilizers/"><u>[Updated] Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/battle-for-yggdrasil-ragnarok-begins/"><u>Battle for Yggdrasil Ragnarok Begins</u></a></li>
-<li><a href="https://win11.techidaily.com/building-a-win-11-usb-fastest-and-simplest-methods-for-3-ways/"><u>Building a Win 11 USB: Fastest and Simplest Methods for 3 Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-power-management-avoid-hibernation-of-usb-devices/"><u>Bypass Power Management: Avoid Hibernation of USB Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-windows-auto-lock-feature/"><u>Bypass Windows Auto-Lock Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-11-shop-error-code-x800704cf/"><u>Bypassing Windows 11 Shop Error: Code X800704CF</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-windows-11-registry-access-settings/"><u>Changing Windows 11 Registry Access Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-access-denied-errors-fixing-outlook-issues-in-windows-os/"><u>Clearing 'Access Denied' Errors: Fixing Outlook Issues in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-corruption-fix-your-win1011-recycle-error/"><u>Clearing up CORRUPTION! Fix Your WIN10/11 Recycle Error</u></a></li>
-<li><a href="https://win11.techidaily.com/coherent-windows-icons-for-productivity-boost/"><u>Coherent Windows Icons for Productivity Boost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-making-your-razer-blackshark-v2-microphone-function-properly/"><u>DIY Repair: Making Your Razer Blackshark V2 Microphone Function Properly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-realtek-chip-fe-driver-for-windows-11-systems-at-no-cost/"><u>Download the Latest Realtek Chip FE Driver for Windows 11 Systems at No Cost</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-11-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 11 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-media-making-filmoras-edge-over-democreator/"><u>Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -232,3 +214,25 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-enhancing-productivity-with-azure-voice-recognition/"><u>[New] 2024 Approved Enhancing Productivity with Azure Voice Recognition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-audiotrack-evaluation-for-2024/"><u>[New] AudioTrack Evaluation for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hrifty-filmmaker-best-economical-camera-lineup-for-2024/"><u>[New] Thrifty Filmmaker Best Economical Camera Lineup for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transforming-frost-into-warmth-video-backdrops-guide/"><u>[Updated] In 2024, Transforming Frost Into Warmth Video Backdrops Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-revenue-techniques-for-gamers-2024/"><u>[Updated] Revenue Techniques for Gamers 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y17s-frp-bypass-by-drfone-android/"><u>About Vivo Y17s FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-razer-device-compatibility-in-windows-1011/"><u>Enhancing Razer Device Compatibility in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-seamless-spotify-links-on-windows-11-pc/"><u>Ensuring Seamless Spotify Links on Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/full-fledged-quest-mastery-classics-full-hd-and-the-power-of-scummvm-windows/"><u>Full-Fledged Quest Mastery: Classics, Full HD, and the Power of ScummVM Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-common-steam-errors-blocking-game-launch-on-win-11/"><u>How To Solve Common Steam Errors Blocking Game Launch on Win 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-windows-11-safe-mode-in-6-steps/"><u>Navigate to Windows 11 Safe Mode in 6 Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-snaps-a-guide-to-optimal-video-and-image-zoom-for-2024/"><u>Perfecting Snaps A Guide to Optimal Video and Image Zoom for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/premium-windows-emulators-for-nintendos-switch-library/"><u>Premium Windows Emulators for Nintendo's Switch Library</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-tasks-using-ifttt-for-microsoft-to-do/"><u>Simplifying Tasks: Using IFTTT for Microsoft To-Do</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unleashing-the-power-of-online-cricket-broadcasts/"><u>Unleashing the Power of Online Cricket Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-bsod-log-files-in-microsoft-os/"><u>Unveiling BSOD Log Files in Microsoft OS</u></a></li>
+</ul></div>
+

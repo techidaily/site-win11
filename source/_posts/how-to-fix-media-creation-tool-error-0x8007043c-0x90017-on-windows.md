@@ -1,7 +1,7 @@
 ---
 title: How to Fix Media Creation Tool Error 0X8007043C - 0X90017 on Windows
-date: 2024-09-16T00:22:36.655Z
-updated: 2024-09-16T17:20:45.900Z
+date: 2024-10-08T18:10:58.499Z
+updated: 2024-10-15T21:21:42.168Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ To run Media Creation Tool as administrator:
 2. Right-click on the**Mediacreationtool.exe** file and select**Run as administrator.**  
 ![run media creation tool as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-media-creation-tool-as-administrator.jpg)
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Unblock the Media Creation Tool
 
@@ -75,15 +82,16 @@ To run the Windows Update Troubleshooter:
 3. Next, click on**Other troubleshooters.**  
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
-![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
-5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
+5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
 
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
@@ -110,10 +118,10 @@ DISM.exe /Online /Cleanup-image /Restorehealth
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Type the following command and press**Enter** to run the System File Checker utility:  
@@ -121,18 +129,18 @@ sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
 7. Type**exit** and press**Enter** to close the Command Prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
  While Media Creation Tools lets you create a bootable drive, it is not your only option. You can use a popular third-party app, Rufus, to[create a bootable Windows USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . You can[download a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft servers and then use it to create an installation media using Rufus.
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
@@ -141,10 +149,10 @@ sfc /scannow
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
@@ -164,5 +172,24 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-firefox-x-pie-mode-decoded-for-everyday-users/"><u>[New] In 2024, Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>[New] Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989275597-centipede-issue-in-destiny-2-resolved-learn-how-it-got-fixed/"><u>Centipede Issue in Destiny 2 Resolved – Learn How It Got Fixed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/diving-into-instagrams-visual-story-segments-for-2024/"><u>Diving Into Instagram's Visual Story Segments for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-hot-40-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-the-noise-adjustment-glitch-in-windows/"><u>How to Overcome the Noise Adjustment Glitch in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-to-address-windows-camera-hiccups/"><u>Immediate Actions to Address Windows Camera Hiccups</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a15-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A15 4G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-code-0x80780119/"><u>Steps to Overcome Windows' Code 0X80780119</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-device-naming-processes-and-eliminate-windows-errors/"><u>Streamline Device Naming Processes and Eliminate Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-mouse-double-click-pace-top-3-adjustment-techniques/"><u>Tailor Your Mouse Double-Click Pace: Top 3 Adjustment Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-keychron-q1eron-max-perfectly-balanced-for-every-user/"><u>The Ultimate Guide to the Keychron Q1eron Max - Perfectly Balanced for Every User!</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-over-chrome-upload-failures-a-windows-users-fix-list/"><u>Triumph Over Chrome Upload Failures: A Windows User’s Fix List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-tech-trends-with-toms-hardware-insights/"><u>Unveiling the Latest Tech Trends with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-w11s-print-management-secrets-max-56-chars/"><u>Unveiling W11’s Print Management Secrets (Max 56 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mastery-illuminating-peak-and-trough-states/"><u>Windows Mastery: Illuminating Peak & Trough States</u></a></li>
+</ul></div>
 

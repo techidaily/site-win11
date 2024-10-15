@@ -1,7 +1,7 @@
 ---
 title: Optimal PS1 Gaming on PC via Duckstation's Tips
-date: 2024-10-07T16:54:18.288Z
-updated: 2024-10-08T21:35:38.863Z
+date: 2024-10-12T19:20:28.815Z
+updated: 2024-10-15T16:14:55.254Z
 tags:
   - windows10
   - windows11
@@ -54,13 +54,6 @@ Duckstation's installation differs depending on the platform:
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
 2. Navigate to the**BIOS Directory** and select**Browse** . Point Duckstation to the folder containing your BIOS files.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Duckstation Settings BIOS Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-bios-directory.jpg)
 
  After that, you're set and ready to begin gaming. Still, that also implies you have some games.
@@ -70,6 +63,14 @@ Duckstation's installation differs depending on the platform:
 1. Go to the**Settings** menu and select**Game List** .  
 ![Duckstation Menu Game List Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-game-list-entry.jpg)
 2. On the top right, click the "plus" button. Select the folder containing your PlayStation games. In the bottom right corner of the window, click**Scan For New Games** . If you keep your games in folders within folders, answer positively when asked if you want to scan the selected folder recursively.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Duckstation Scan Recursively For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-scan-recursively-for-games.jpg)
 
 ## Getting Duckstation Set Up for PS1 Games
@@ -86,6 +87,19 @@ Duckstation's installation differs depending on the platform:
 * **Start Fullscreen** : Have your games launch in fullscreen mode, similar to most "normal" Windows games, rather than as a floating window.
 * **Pause On Focus Loss** : will auto-pause a game when Duckstation's window "loses its focus". This way, enemies won't keep shooting at you while you're checking an incoming email.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Console
 
  It's best to leave those settings alone "globally" and only change them per game. They can improve some games while breaking others. Fortunately, Duckstation allows you to save different game configurations.
@@ -98,10 +112,10 @@ Duckstation's installation differs depending on the platform:
 * **Async Readahead** ,**Read Speedup** , and**Seek Speedup** : boost the emulated PlayStation CD drive speed to make your games load faster.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Emulation
@@ -110,23 +124,9 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Settings Emulation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-emulation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. **Emulation Speed** : Choose the "normal" NTSC/PAL setting with**100%** speed, or a different percentage to slow down or speed up Duckstation. Leave it at 100% for maximum compatibility.
 2. **Fast Forward Speed** and**Turbo Speed** : Using these features may cause some games to run too fast for you. That is why you can control from here how fast those alternative speed modes go.
 3. **Enable Rewinding** : By borrowing the core mechanic of the Prince of Persia games, "time rewinding," Duckstation can help you "undo" missteps in difficult-to-beat games. This is accomplished by continuously saving the emulator's state as you play, every Xth frame and for Y frames - the values you can tweak for that option. It is up to you to decide how Rewind should work by striking a balance between granularity and RAM requirements.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Display
 
@@ -135,15 +135,22 @@ Duckstation's installation differs depending on the platform:
 ![Duckstation Settings Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. **Renderer** : For most games and modern GPUs, leave it at**Hardware (Vulkan)** . If a game glitches or you have an older GPU, try**Hardware (OpenGL)** or**Hardware (D3D12)** . Try the**Hardware (D3D11)** option for even older GPUs. If you still face issues with them, fall back to the most compatible but slowest option,**Software** .
 2. **Aspect Ratio** : For purists,**Auto (Game Native)** is the best option because it does not introduce distortion. Other options allow you to have a game's graphics "cover" your entire monitor, but this usually results in "stretched" and more pixelated or blurry visuals.
 3. **On-Screen Display** : When troubleshooting a game or optimizing its settings, enable the options here to see how the emulator performs in real-time while running a title.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Enhancements
 
@@ -156,13 +163,6 @@ Duckstation's installation differs depending on the platform:
 3. If you enable the**Widescreen Hack** option for 3D games where it doesn't introduce glitches, you may also want to enable **Force 4:3 for 24-Bit Displays (disable widescreen for FMVs)** .
 4. **PGXP** : All PGXP-related options can vastly improve a game's visuals by removing the "wobbly geometry" effect that is common in all PlayStation titles. It's worth trying them out, but they can and will break some games. And that's why you should configure them for each game separately.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Post-Processing
 
  The second spot where you can improve the visuals of your games, Post-Processing, allows you to use "shaders" to give Duckstation's visual output a more authentic, "retro" look.
@@ -170,13 +170,20 @@ Duckstation's installation differs depending on the platform:
 ![Duckstation Settings Post Processing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-post-processing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We'll skip this section because it's a matter of personal preference. Feel free to experiment with all the available shaders by clicking the plus button and trying them out one by one. Or you could skip them entirely.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Controller Setup
 
@@ -209,22 +216,18 @@ Duckstation's installation differs depending on the platform:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-castrecorder-analysis/"><u>[Updated] 2024 Approved CastRecorder Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-onestream-integration-tips-for-seamless-livestreaming/"><u>[Updated] 2024 Approved OneStream Integration Tips for Seamless Livestreaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-delving-into-historical-masterpieces-without-copyrights-for-2024/"><u>[Updated] Delving Into Historical Masterpieces without Copyrights for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unusual-sideway-photos-in-instagram-storytelling/"><u>2024 Approved Unusual Sideway Photos in Instagram Storytelling</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-tasks-high-speed-windows-autoclickers/"><u>Accelerate Tasks: High-Speed Windows Autoclickers</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-gaming-setup-with-fast-valorant-loading/"><u>Accelerate Your Gaming Setup with Fast Valorant Loading</u></a></li>
-<li><a href="https://win11.techidaily.com/accurate-printouts-from-powerpoint-in-windows-9-top-fixes-unveiled/"><u>Accurate Printouts From PowerPoint in Windows: 9 Top Fixes Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-essential-items-not-met-error-in-windows-11/"><u>Addressing the 'Essential Items Not Met' Error in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/alternative-approaches-for-integrating-additional-av-software/"><u>Alternative Approaches for Integrating Additional AV Software</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-common-setbacks-when-launching-csgo-on-w11/"><u>Avoiding Common Setbacks When Launching CS:GO on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-archive-game-creating-win11-sefx-packages-now/"><u>Boost Your Archive Game: Creating Win11 SEFx Packages Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-fuzzy-frames-to-sharpness-the-v22-journey-for-2024/"><u>From Fuzzy Frames to Sharpness - The V2.2 Journey for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A05</u></a></li>
-<li><a href="https://win11.techidaily.com/1719364636660-self-hosted-windows-gptclone-via-gpt4all/"><u>Self-Hosted Windows GPTClone via GPT4All</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-g310-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia G310</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlock-your-youtube-shorts-earnings-potential-for-2024/"><u>Unlock Your YouTube Shorts Earnings Potential for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-wealth-dissection-of-the-elusive-mr-beast/"><u>[New] Wealth Dissection of the Elusive Mr. Beast</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-the-task-managers-real-time-update-speed-on-windows-11/"><u>How to Change the Task Manager's Real-Time Update Speed on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-error-0x80041015-in-microsoft-office/"><u>How to Reset Error 0X80041015 in Microsoft Office</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-your-touch-keys-initial-setup-in-win-11/"><u>How to Reset Your Touch Keys' Initial Setup in Win 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-10-proplus-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 10 Pro+ 5G Lock Screen Password?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instant-file-accessibility-syncing-from-pc-to-iphone/"><u>Instant File Accessibility Syncing From PC to iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-time-management-with-windows-11-calendar/"><u>Leverage Time Management with Windows 11 Calendar</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-command-line-for-wordpad-activation/"><u>Mastering Command Line for WordPad Activation</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-username-changes-in-windows-11/"><u>Navigating UserName Changes in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restart-capturing-with-these-fixes-resolving-print-screen-woes-in-windows-environments/"><u>Restart Capturing with These Fixes: Resolving Print Screen Woes in Windows Environments</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-download-and-convert-dailymotion-videos-for-free-online/"><u>Updated 2024 Approved Download and Convert Dailymotion Videos for Free Online</u></a></li>
 </ul></div>
 

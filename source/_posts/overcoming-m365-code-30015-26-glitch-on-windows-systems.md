@@ -1,7 +1,7 @@
 ---
 title: Overcoming M365 Code 30015-26 Glitch on Windows Systems
-date: 2024-10-08T00:01:49.108Z
-updated: 2024-10-09T05:27:41.699Z
+date: 2024-10-13T16:11:33.156Z
+updated: 2024-10-15T20:49:36.452Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 
  If you want to access it faster, you can [add a Disk Cleanup option to the context menu](https://www.makeuseof.com/how-to-add-a-disk-clean-up-option-to-the-local-disk-icons-context-menu-in-windows-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Restart BITS Services
 
  If Microsoft 365 isn’t the only app that can’t automatically update, there might be a problem with the Background Intelligent Transfer Service. This Windows service is responsible for automatically downloading programs and other information.
@@ -60,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
  Now, reboot your computer and check if Microsoft 365 is still showing the 30015-26 error code.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Windows Fixes
 
  There are some general tricks you can use on the Office app which help fix app-based errors in general.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Repair the Office App
 
@@ -91,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortunately, there’s an easy fix for you to try. Log into your administrator account and [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to automatically detect and replace any corrupted system files.
 
  If you get the **Windows Resource Protection did not find any integrity violations** message after running the scan, there’s nothing wrong with your system files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reinstall Office
 
@@ -110,6 +96,19 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 
 ![Uninstall Microsoft 365 in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-microsoft365-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the process is complete, go to the [Microsoft 365 website](https://www.microsoft.com/microsoft-365) and download the app. Alternatively, you could download Microsoft 365 through the Microsoft Store.
 
 ### Turn Off the Antivirus
@@ -117,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
  When updating, Microsoft 365 is establishing a connection with Microsoft’s servers. However, a third-party antivirus software, or even a VPN, might wrongly identify this connection as dangerous and block it.
 
  In this case, try to temporarily turn off the antivirus or disconnect your VPN to see if Microsoft 365 can now update.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix Unreadable Content in Word
 
@@ -126,26 +132,6 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 
  Now, let’s take a look at how you can get rid of the 30015-26 error code.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/rafting-stellar-video-beginnings-with-free-tools/"><u>[New] Crafting Stellar Video Beginnings with Free Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dos-and-donts-the-essential-night-photography-checklist/"><u>[Updated] 2024 Approved Do's & Don'ts The Essential Night Photography Checklist</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-for-optimizing-task-management-in-administrative-mode-on-windows-11/"><u>A Step-by-Step Guide for Optimizing Task Management in Administrative Mode on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-flawless-youtube-viewing-on-chrome-windows/"><u>Achieving Flawless YouTube Viewing on Chrome, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disconnection-hurdles-in-nvidia-for-windows-users/"><u>Addressing Disconnection Hurdles in Nvidia for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-the-hot-zone-tips-to-prevent-pc-overheating-during-games/"><u>Avoiding the Hot Zone: Tips to Prevent PC Overheating During Games</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-classic-gameplay-seamlessly-adding-achievements-using-retroarch/"><u>Boosting Classic Gameplay - Seamlessly Adding Achievements Using Retroarch</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-visual-quality-enable-win11s-color-adjustment/"><u>Boosting Visual Quality: Enable Win11's Color Adjustment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-unleashing-the-potential-of-maxoaks-high-capacity-battery-pack-with-185-wh-and-50000-mah-your-go-to-power-bank/"><u>Comprehensive Review: Unleashing the Potential of MaxOak's High Capacity Battery Pack with 185 Wh and 50,000 mAh – Your Go-To Power Bank!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-days-gone-down-a-comprehensive-solution-for-gamers-in-2024/"><u>Fixing 'Days Gone Down': A Comprehensive Solution for Gamers in 202#4</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/focusing-gpo-application-one-user-approach-for-windows-1111/"><u>Focusing GPO Application: One-User Approach for Windows 11/11</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006404737-troubleshoot-control-crashes-effortlessly-with-these-tips-and-tricks/"><u>Troubleshoot Control Crashes Effortlessly with These Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/1719330356134-unlocking-direct-storage-sharing-using-dropbox-googledrive-on-c/"><u>Unlocking Direct Storage Sharing: Using Dropbox, GoogleDrive on C</u></a></li>
-<li><a href="https://techidaily.com/vivo-s17-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo S17 Pro support - Forgotten screen lock.</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +139,23 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhance-motion-capture-choose-wisely-among-gear/"><u>[Updated] 2024 Approved Enhance Motion Capture - Choose Wisely Among Gear</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning-for-2024/"><u>[Updated] Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlimited-visual-potential-free-themes-for-channels/"><u>[Updated] In 2024, Unlimited Visual Potential – Free Themes for Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-camtasia-ken-burns-technique-unveiled/"><u>2024 Approved Mastering Camtasia Ken Burns Technique Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/commanding-victory-a-quick-guide-to-voice-commands-on-windows-11/"><u>Commanding Victory: A Quick Guide to Voice Commands on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-get-help-app-not-working-on-windows-11/"><u>How to Fix the Get Help App Not Working on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pushing-videography-to-new-heights-with-the-1j5-camera/"><u>In 2024, Pushing Videography to New Heights with the 1J5 Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-to-launch-google-play-on-w11/"><u>Instructions to Launch Google Play on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-a-linux-vm-via-hyper-v-in-windows-environment/"><u>Launching a Linux VM via Hyper-V in Windows Environment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/six-steps-to-a-color-rich-photographic-world-for-2024/"><u>Six Steps to a Color-Rich Photographic World for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/skagen-falster-2-assessment-the-sophisticated-alternative-to-apple-devices/"><u>Skagen Falster 2 Assessment: The Sophisticated Alternative To Apple Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-eradicating-breakpoint-exception-error-on-pc/"><u>Tips for Eradicating Breakpoint Exception Error on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-f25-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo F25 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-icon-alignment-guide-unite-not-bind/"><u>Win 11 Icon Alignment Guide - Unite Not Bind</u></a></li>
+</ul></div>
+

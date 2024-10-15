@@ -1,7 +1,7 @@
 ---
 title: "Stylishen Windows Mail & Calendar: Use Preferred Photographs"
-date: 2024-09-10T09:17:50.548Z
-updated: 2024-09-16T19:34:39.043Z
+date: 2024-10-08T20:11:10.180Z
+updated: 2024-10-15T21:11:43.094Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 5. The next 12 thumbnails are of background themes that come with the color of the left pane matched to the image. Select the one you like and you will see the theme appear on the right pane change along with its matching color on the left pane.  
 ![Background Theme Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-theme-mail-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set a Favorite Picture as Your Mail Background
 
  You can add easily add a favorite picture to the Mail app on your Windows PC. You could choose a heartwarming photo of a memorable family holiday, an exciting moment from a music concert you went to, or even a pic to reflect your signature style or passion. Let's see how.
@@ -58,10 +65,34 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 2. In the**Background** section, scroll down and hit the**Browse** button to select a picture from your Windows PC or picture gallery.  
 ![Browse Option to Choose Picture for Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browse-to-choose-picture-mail-app.jpg)
 3. Click on**Open,** and the**Mail** app will open again with your picture on the right pane. The picture's thumbnail will be at the bottom of the**Background** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Chosen Picture On Right Pane in the Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chosen-picture-on-right-pane-mail-app.jpg)
 4. Your favorite picture will appear on the right pane when no email is selected and you can choose to match the color of the left pane with this picture. So scroll up to the**Colors** sections in the**Personalization** flyout, where you can choose from one of the 10 colors for the left pane. You'll find the option to choose your Windows accent color too.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Left Pane Color Matching With Picture in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-left-pane-color-to-match-picture.jpg)  
  Remember, if you choose Dark Mode for the Mail or Calendar apps, the left pane will not show the selected color as its solid color background. Instead, it will use the color black.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. You can also have a background theme or your favorite picture spread across the Mail app screen and also appear on the left pane instead of a color. In the**Background** section, turn on the toggle to**Fill entire window** with your background picture, as you can see in the screenshot below.  
 ![Picture Extending to Left Pane in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extend-picture-to-left-pane-mail-app.jpg)  
  Your chosen background picture will appear with a blurred effect on the left pane so that the text is legible on it. With the Dark Mode on, the picture will appear behind a dark blurred background on the left pane.
@@ -69,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
 ![Enjoy a Bigger Picture on Your Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enjoy-bigger-picture-on-mail-app-1.jpg)
 
  Now your chosen picture will appear bigger, in a wider area on the Mail app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a New Background or Picture to the Calendar App
 
@@ -90,19 +114,6 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
  So to make it appear on the left pane toggle on the**Fill entire window** option. Or hit**Browse** again to choose a new picture.
 
  If you're on Windows 11, there may be times when the Mail and Calendar apps are inaccessible. If this happens, check out[what to do if Mail and Calendar won't open on Windows 11](https://www.makeuseof.com/windows-11-mail-calendar-wont-open/) .
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Windows With a Personal Touch
 
@@ -125,5 +136,22 @@ thumbnail: https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-building-a-professional-online-network-hub/"><u>[New] 2024 Approved Building a Professional Online Network Hub</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-income-from-youtube-as-a-newbie/"><u>[Updated] Unlocking Income From YouTube as a Newbie</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-with-ease/"><u>Disabling Windows 11 Firewall with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-hidden-windows-programs/"><u>Enabling Hidden Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-three-column-widgets-on-windows-11-os/"><u>Enabling Three-Column Widgets on Windows 11 OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-interactive-boundaries-the-vision-of-mixed-reality-for-2024/"><u>Exploring Interactive Boundaries The Vision of Mixed Reality for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guia-paso-a-paso-construir-tu-propio-respaldo-usb-windows-veces-recuperacion-7/"><u>Guía Paso a Paso: Construir Tu Propio Respaldo USB Windows Veces Recuperación 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-m14-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy M14 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-salutations-guide/"><u>International Salutations Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-options-top-live-streaming-platforms-according-to-types/"><u>New 2024 Approved Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-vanished-windows-steam-games/"><u>Reactivating Vanished Windows Steam Games</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-1011-store-error-code-0x800704cf/"><u>Rectifying Windows 10/11 Store Error: Code 0X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-installer-rights-troubles-on-modern-oses/"><u>Remedying Installer Rights Troubles on Modern OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-missing-presets-for-win-11-system-use/"><u>Reviving Missing Presets for Win 11 System Use</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728490601169-windows-update/"><u>Windows Update完了後のリブート処理状況について:</u></a></li>
+</ul></div>
 

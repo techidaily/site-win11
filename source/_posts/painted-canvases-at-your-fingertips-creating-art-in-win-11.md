@@ -1,7 +1,7 @@
 ---
 title: "Painted Canvases at Your Fingertips: Creating Art in Win 11"
-date: 2024-10-04T21:15:28.460Z
-updated: 2024-10-09T14:41:46.287Z
+date: 2024-10-13T18:53:44.697Z
+updated: 2024-10-15T21:49:00.264Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 Now you can get scribbling on the Windows desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Use Epic Pen to Draw on Your Desktop
@@ -58,10 +58,10 @@ Now you can get scribbling on the Windows desktop.
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
@@ -80,13 +80,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -96,6 +89,13 @@ Now you can get scribbling on the Windows desktop.
 3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
@@ -116,10 +116,10 @@ Now you can get scribbling on the Windows desktop.
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
@@ -143,15 +143,20 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>[New] Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-hassle-free-techniques-for-igtv-on-stories-for-2024/"><u>[New] Hassle-Free Techniques for IGTV on Stories for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-key-strategies-for-overcoming-onedrive-errors/"><u>5 Key Strategies for Overcoming OneDrive Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-discreprancies-in-power-usage-display-for-win-11-systems/"><u>Addressing Discreprancies in Power Usage Display for Win 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-empty-directory-issue-in-windows-11-error-0x80070091/"><u>Addressing Non-Empty Directory Issue in Windows 11: Error #0X80070091</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-11-ms-store-error-x7326/"><u>Addressing Windows 11 MS Store Error X7326</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-non-responsive-laptop-mousepad-under-windows-10-8-or-7-ultimate-guide/"><u>How To Fix Non-Responsive Laptop Mousepad Under Windows 10, 8 or 7 – Ultimate Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-creative-cinema-for-kids-bring-your-imagination-to-life/"><u>Updated In 2024, Creative Cinema for Kids Bring Your Imagination to Life</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y200-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y200</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mix-mastery-syncing-audio-to-windows-11-videos/"><u>[New] Mix Mastery Syncing Audio to Windows 11 Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-customizing-your-channel-icon-banner-and-thumbnail-ideas-for-2024/"><u>[Updated] Customizing Your Channel Icon, Banner & Thumbnail Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocketing-traffic-with-these-top-12-youtube-optimization-techniques/"><u>[Updated] Skyrocketing Traffic with These Top 12 YouTube Optimization Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-spark-go-2023-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Spark Go (2023) to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-non-response-issues-in-windows-service-explorer-with-7-methods/"><u>Confronting Non-Response Issues in Windows Service Explorer with 7 Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/dominate-digital-dialogue-the-top-10-masterful-igtv-practices-for-branding-success/"><u>Dominate Digital Dialogue The Top 10 Masterful IGTV Practices for Branding Success</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-graphics-glitches-on-windows-11-now/"><u>Fix Graphics Glitches on Windows 11 Now</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-excel-latency-actions-for-windows-enthusiasts/"><u>Improve Excel Latency: Actions for Windows Enthusiasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-look-whatsapps-voice-message-technology/"><u>In 2024, Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-love-in-motion-how-to-craft-a-romantic-valentines-day-video/"><u>New 2024 Approved Love in Motion How to Craft a Romantic Valentines Day Video</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-proxies-for-windows-11-users/"><u>Optimizing Proxies for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-common-photo-errors-with-windows-1011-tips/"><u>Resolving Common Photo Errors with Windows 10/11 Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/g-control-of-quality-edit-your-published-videos-on-youtube/"><u>Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-achieving-a-trio-of-widget-grids-on-windows-11/"><u>Tutorial: Achieving a Trio of Widget Grids on Windows 11</u></a></li>
 </ul></div>
 
