@@ -27,21 +27,21 @@
 <meta property="og:description" content="This Article Describes Resolving &#39;Failed System Call&#39; In Windows Devices">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg">
+<meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg">
 <meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2111964">
 <meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2111964/7443">
-<meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-scan-option.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2105876">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2105876/7443">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/19272-2135415">
-<meta property="og:image" content="https://aligracehair.sjv.io/i/5597632/2135415/19272">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/16836-2148648">
+<meta property="og:image" content="https://25home.pxf.io/i/5597632/2148648/16836">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab5.jpg">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2100530">
+<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2100530/7443">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-this-pc-tool4.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2043617">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2043617/7443">
-<meta property="article:published_time" content="2024-10-10T14:30:51.270Z">
-<meta property="article:modified_time" content="2024-10-15T09:53:05.324Z">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2105877">
+<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2105877/7443">
+<meta property="article:published_time" content="2024-10-13T11:02:37.952Z">
+<meta property="article:modified_time" content="2024-10-20T11:27:37.152Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -673,7 +673,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">14692</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15114</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -724,15 +724,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-10-10 22:30:51</span>
-        <span class="mobile">2024-10-10 22:30:51</span>
+        <span class="desktop">2024-10-13 19:02:37</span>
+        <span class="mobile">2024-10-13 19:02:37</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-10-15 17:53:05</span>
-            <span class="mobile">2024-10-15 17:53:05</span>
+            <span class="desktop">2024-10-20 19:27:37</span>
+            <span class="mobile">2024-10-20 19:27:37</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -810,6 +810,17 @@
                 ></p>
 <p> Restarting the explorer.exe process can fix the “System call failed” error. It’s a really easy and quick fix, so it’s a good starting point for troubleshooting the “system call failed” error.</p>
 <p> You can restart the explorer.exe process with Task Manager, as covered in this guide on <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/" >how to restart File Explorer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="2-Run-the-SFC-and-DISM-Tools-in-Command-Prompt"><a href="#2-Run-the-SFC-and-DISM-Tools-in-Command-Prompt" class="headerlink" title="2. Run the SFC and DISM Tools in Command Prompt"></a>2. Run the SFC and DISM Tools in Command Prompt</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg"
+                      alt="Windows System File Checker tool"
+                ></p>
+<p> Corrupted system files could be causing File Explorer to crash. As such, it’s worth running the System File Checker (SFC). This tool is a Windows Command-Prompt utility that checks for and repairs system files.</p>
+<p> On top of that, the Deployment Image Serving and Management (DISM) tool can fix errors within the Windows system image. It’s worth running the DISM tool before the SFC scan to check for any errors that may affect the SFC scan’s efficiency.</p>
+<p> You can learn how to run both the SFC and DISM commands in our guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-built-in-repair-tools/" >repairing system files with Windows’ built-in tools <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="3-Check-For-Disk-Errors-With-CHKDSK"><a href="#3-Check-For-Disk-Errors-With-CHKDSK" class="headerlink" title="3. Check For Disk Errors With CHKDSK"></a>3. Check For Disk Errors With CHKDSK</h2><p> A failing hard drive is another potential cause of the “system call failed” error. You can check for and repair disk errors with the Check Disk (CHKDSK) tool on Windows.</p>
+<p> Our <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work." >how to run CHKDSK <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> guide explains how you can utilize the Check Disk tool.</p>
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
   <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -822,17 +833,6 @@
                 >
 <!-- affiliate ads end -->
 
-<h2 id="2-Run-the-SFC-and-DISM-Tools-in-Command-Prompt"><a href="#2-Run-the-SFC-and-DISM-Tools-in-Command-Prompt" class="headerlink" title="2. Run the SFC and DISM Tools in Command Prompt"></a>2. Run the SFC and DISM Tools in Command Prompt</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow.jpg"
-                      alt="Windows System File Checker tool"
-                ></p>
-<p> Corrupted system files could be causing File Explorer to crash. As such, it’s worth running the System File Checker (SFC). This tool is a Windows Command-Prompt utility that checks for and repairs system files.</p>
-<p> On top of that, the Deployment Image Serving and Management (DISM) tool can fix errors within the Windows system image. It’s worth running the DISM tool before the SFC scan to check for any errors that may affect the SFC scan’s efficiency.</p>
-<p> You can learn how to run both the SFC and DISM commands in our guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-built-in-repair-tools/" >repairing system files with Windows’ built-in tools <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="3-Check-For-Disk-Errors-With-CHKDSK"><a href="#3-Check-For-Disk-Errors-With-CHKDSK" class="headerlink" title="3. Check For Disk Errors With CHKDSK"></a>3. Check For Disk Errors With CHKDSK</h2><p> A failing hard drive is another potential cause of the “system call failed” error. You can check for and repair disk errors with the Check Disk (CHKDSK) tool on Windows.</p>
-<p> Our <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work." >how to run CHKDSK <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> guide explains how you can utilize the Check Disk tool.</p>
 <h2 id="4-Initiate-a-Malwarebytes-Scan"><a href="#4-Initiate-a-Malwarebytes-Scan" class="headerlink" title="4. Initiate a Malwarebytes Scan"></a>4. Initiate a Malwarebytes Scan</h2><p> Malware can cause many kinds of crashes to occur on Windows. The “system call failed” error could be occurring because of malware on your PC.</p>
 <p> You can scan for malware with many antivirus apps, including Windows Security. However, Malwarebytes is one of the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/ten-best-antivirus-programs/" >best free antivirus software for Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. So, try running a Malwarebytes scan like this:</p>
 <ol>
@@ -849,25 +849,13 @@
 <li>Select <strong>Quarantine</strong> and <strong>Yes</strong> if Malwarebytes detects malware.</li>
 </ol>
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
 <img  height="0" width="0" 
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2105876/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://aligracehair.sjv.io/i/5597632/2135415/19272"
+                     data-src="https://25home.pxf.io/i/5597632/2148648/16836"
                       style="position:absolute;visibility:hidden;" border="0" 
                 >
 <!-- affiliate ads end -->
@@ -882,6 +870,18 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab5.jpg"
                       alt="Services tab on Windows Configuration menu"
                 ></p>
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img  height="0" width="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://appsumo.8odi.net/i/5597632/2100530/7443"
+                      style="position:absolute;visibility:hidden;" border="0" 
+                >
+<!-- affiliate ads end -->
+
 <h2 id="6-Restore-Windows-11-10-to-an-Earlier-Time"><a href="#6-Restore-Windows-11-10-to-an-Earlier-Time" class="headerlink" title="6. Restore Windows 11&#x2F;10 to an Earlier Time"></a>6. Restore Windows 11&#x2F;10 to an Earlier Time</h2><p> System Restore is a tool that rolls Windows 11&#x2F;10 back to a backup image, otherwise called a restore point. Restoring Windows to a date that predated the “System call failed” error on your PC might fix system file issues. Doing so will also remove third-party software installed on your PC after the restoration date that could be causing the issue.</p>
 <p> However, this potential resolution will only be effective if you can select a restoration point that predates the issue. If you don’t have System Restore enabled, you may as well skip to the next possible solution. If you do keep restoration points, try rolling back Windows 11&#x2F;10 to an earlier time as covered within our <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/use-system-restore-windows/" >guide to utilizing System Restore <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p><img  
@@ -899,13 +899,13 @@
                       alt="The Keep my files option"
                 ></p>
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img  height="0" width="0" 
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2043617/7443"
+                     data-src="https://appsumo.8odi.net/i/5597632/2105877/7443"
                       style="position:absolute;visibility:hidden;" border="0" 
                 >
 <!-- affiliate ads end -->
@@ -913,32 +913,29 @@
 <h2 id="Get-the-“System-Call-Failed”-Error-Fixed"><a href="#Get-the-“System-Call-Failed”-Error-Fixed" class="headerlink" title="Get the “System Call Failed” Error Fixed"></a>Get the “System Call Failed” Error Fixed</h2><p> Those “System call failed” error solutions are confirmed to work by many users who have needed to resolve that File Explorer issue.</p>
 <p> So, it’s very likely one will solve that issue, so you can fully utilize File Explorer again. If none of those resolutions are enough, consider contacting the Microsoft Windows support service for further guidance.</p>
 <p> The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11&#x2F;10 error.</p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos-for-2024/"><u>[New] From Ideas to Influence An Insider Look at Strategic Instagram Videos for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/new-top-secure-cost-free-androidios-apps-for-private-video-conferencing/"><u>[New] Top Secure, Cost-Free Android/iOS Apps for Private Video Conferencing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/updated-in-2024-quintessential-radio-narrative-craftsmanship/"><u>[Updated] In 2024, Quintessential Radio Narrative Craftsmanship</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-lopsided-windows-headphones-output/"><u>Correcting Lopsided Windows Headphones Output</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/crafting-gopro-professionals-a-filmmaking-guide-for-2024/"><u>Crafting GoPro Professionals A Filmmaking Guide for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-you-past-the-locked-content-steam-error/"><u>Guiding You Past the Locked Content Steam Error</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-review-of-avs-video-editor-a-beginners-guide/"><u>New The Ultimate Review of AVS Video Editor A Beginners Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/new-ways-with-windows-11-post-update-upgrade-details/"><u>New Ways with Windows 11 Post-Update Upgrade Details</u></a></li>
-<li><a href="https://win11.techidaily.com/routine-procedure-to-purge-steam-dns-data-in-windows/"><u>Routine Procedure to Purge Steam DNS Data in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/setup-guide-integrating-rgb-into-windows-11/"><u>Setup Guide: Integrating RGB Into Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-journey-of-virtualization-building-linux-vm-within-hyper-v-os/"><u>The Journey of Virtualization: Building Linux VM Within Hyper-V OS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-video-files.techidaily.com/transforming-counseling-chatgpts-role-in-cbt/"><u>Transforming Counseling: ChatGPT's Role in CBT</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-zero-battery-duration-on-windows-11-pcs/"><u>Troubleshooting Zero Battery Duration on Windows 11 PCs</u></a></li>
-</ul></div>
-
 <p><ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    </p>
+      data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/ed-digital-detox-ignoring-negativity-on-youtube-for-2024/"><u>[Updated] Digital Detox Ignoring Negativity on YouTube for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/updated-the-complete-gopro-comparison-guide/"><u>[Updated] The Complete Gopro Comparison Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/claude-ai-vs-chatgpt-spotlight-on-four-game-changing-differences/"><u>Claude AI vs ChatGPT: Spotlight on Four Game-Changing Differences</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-synchronization-for-ios-and-windows-calendars/"><u>Cross-Platform Synchronization for iOS & Windows Calendars</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-brightness-function-key-not-working-in-windows-11/"><u>How to Fix the Brightness Function Key Not Working in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-power-plans-to-default-in-windows/"><u>How to Reset Power Plans to Default in Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-moto-g34-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Moto G34 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/integrating-dropbox-into-your-kindle-fire-experience-essential-steps-and-tips/"><u>Integrating Dropbox Into Your Kindle Fire Experience: Essential Steps and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-winerror-740-resolving-operation-needs-promotion-in-windows-os/"><u>Overcoming WinError 740: Resolving 'Operation Needs Promotion' In Windows OS</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/peer-reviews-unpacking-vllo-experience-for-2024/"><u>Peer Reviews Unpacking VLLO Experience for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook.techidaily.com/reels-and-rooms-potential-additions-to-facebook-stories-panels/"><u>Reels & Rooms: Potential Additions to Facebook Stories Panels</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-marvelous.techidaily.com/the-most-advanced-asus-wifi-routers-of-2024-a-comprehensive-guide/"><u>The Most Advanced Asus WiFi Routers of 2024: A Comprehensive Guide</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -949,11 +946,11 @@
         <li><strong>Title:</strong> Resolving &#39;Failed System Call&#39; In Windows Devices</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2024-10-10 22:30:51</li>
+                :</strong> 2024-10-13 19:02:37</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-10-15 17:53:05
+                    :</strong> 2024-10-20 19:27:37
             </li>
         
         <li>
@@ -997,13 +994,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/how-to-fix-the-your-rendering-device-has-been-lost-error-in-overwatch-2-for-windows/"
+                        href="/enhance-learning-with-windows-edition-themes/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">How to Fix the Your Rendering Device Has Been Lost Error in Overwatch 2 for Windows</span>
+                                <span class="post-nav-title-item">Enhance Learning with Windows Edition Themes</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1013,10 +1010,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/windows-11-enhancements-a-leap-forward-in-the-22h2-moment/"
+                        href="/fixing-empty-directory-error-in-windows-11-and-11-error-code-0x80070091/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Windows 11 Enhancements: A Leap Forward in the 22H2 Moment</span>
+                                <span class="post-nav-title-item">Fixing Empty Directory Error in Windows 11 &amp; 11: Error Code 0X80070091</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
