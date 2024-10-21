@@ -1,7 +1,7 @@
 ---
 title: Mastering Keyboard Configuration on Windows 11
-date: 2024-10-12T21:24:33.167Z
-updated: 2024-10-15T18:31:39.690Z
+date: 2024-10-13T23:50:43.861Z
+updated: 2024-10-21T02:21:58.962Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Keyboard Layout in Windows 11
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 3. In the **Keyboards** section, click **Add a Keyboard**, and select a different keyboard key layout from the available options.  
 ![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can get more keyboard layouts by adding a new language. However, this requires the internet to download the new language. So, [make sure you're connected to the internet](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/), and follow the steps below:
 
 1. On the **Language & Region** page in Settings (step #1 above), click **Add a Language**.
@@ -53,28 +66,15 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![Selecting a language to install on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/choose-language-install-windows.jpg)
 3. Click **Install** for Windows 11 to download and install the new language.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Follow steps #2 and #3 above to add a new keyboard layout to the language you just installed.
 
  If you still can't find a keyboard layout you like, you should consider [creating a custom keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/).
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change a Keyboard Layout in Windows 11
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![Removing a keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-keyboard-layout-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also remove a language if you no longer need it. To do that, follow the steps below:
@@ -113,27 +113,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-epic-expeditions-terrarias-richest-map-finds/"><u>[New] Epic Expeditions Terraria's Richest Map Finds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-shift-twitter-video-preview-panel/"><u>[Updated] 2024 Approved Shift Twitter Video Preview Panel</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-essential-10-boosters-for-multi-device-use/"><u>[Updated] In 2024, Essential 10 Boosters for Multi-Device Use</u></a></li>
-<li><a href="https://win-trending.techidaily.com/iphone-saving-your-outdated-iphone-backups-a-comprehensive-solution/"><u>重置危机：拯救过时iPhone备存的秘诀 - Saving Your Outdated iPhone Backups: A Comprehensive Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-successful-run-as-user-permissions/"><u>Essential Tips for Successful Run As User Permissions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-insights-efficiently-adding-subtitles-to-vimeo-videos/"><u>Expert Insights Efficiently Adding Subtitles to Vimeo Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-proofing-siri-how-apples-latest-ai-advancements-will-enhance-the-assistant-by-2025-insights/"><u>Future-Proofing Siri: How Apple's Latest AI Advancements Will Enhance the Assistant by 2025 - Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-retrieving-disappeared-data-on-pcs/"><u>Guide to Retrieving Disappeared Data on PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>In 2024, Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instant-gratification-boosting-fb-video-times/"><u>Instant Gratification Boosting FB Video Times</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-past-steam-file-restrictions-errors/"><u>Navigating Past Steam File Restrictions Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-greyed-out-delete-pin-feature-in-windows-11/"><u>Resolving Greyed Out Delete PIN Feature in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-into-vlogging-fundamental-gear-and-applications-for-2024/"><u>Step Into Vlogging Fundamental Gear and Applications for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-locating-disappeared-ubisoft-launcher/"><u>Strategies for Locating Disappeared Ubisoft Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-system-with-these-best-replacement-apps/"><u>Transform Your System with These Best Replacement Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-additional-space-on-your-windows-system-for-free/"><u>Unlock Additional Space on Your Windows System, For Free</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-secrets-integrating-zips-into-image-files-unseen/"><u>Win10/11 Secrets: Integrating ZIPs Into Image Files Unseen</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +120,18 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-on-air-in-minutes-easy-steps-to-start-a-live-stream-for-2024/"><u>[New] On Air in Minutes Easy Steps to Start a Live Stream for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-achieving-peak-performance-in-video-submissions-on-youtube/"><u>[Updated] In 2024, Achieving Peak Performance in Video Submissions on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-workings-of-drones-an-introduction-for-beginners/"><u>2024 Approved The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-for-window-bar-transparency-in-win11/"><u>A Step-by-Step for Window Bar Transparency in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-0x80070194-a-guide-to-onedrive-in-ws/"><u>Counteracting 0X80070194: A Guide to OneDrive in WS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-and-productivity-discover-powertoys-top-usage-tips/"><u>Enhance Efficiency & Productivity: Discover PowerToys' Top Usage Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ience-the-power-of-visuals-discover-all-50-banners-in-our-digital-collection/"><u>Experience the Power of Visuals Discover All 50 Banners in Our Digital Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-smoothly-integrate-icloud-with-your-windows-machine/"><u>How to Smoothly Integrate iCloud with Your Windows Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 11 Pro+ without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
+

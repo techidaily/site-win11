@@ -1,7 +1,7 @@
 ---
 title: Revitalize Icon Size in Your Window 11 Environment
-date: 2024-10-09T17:22:23.034Z
-updated: 2024-10-15T23:03:25.925Z
+date: 2024-10-19T16:05:22.061Z
+updated: 2024-10-20T16:35:12.651Z
 tags:
   - windows10
   - windows11
@@ -32,15 +32,28 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Restore Icon Size by Deleting Icon Cache
 
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
 
@@ -48,65 +61,37 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
 ![screenshot of the icon cache files in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_icon_cache_windows_11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click into the **Microsoft** folder, then **Windows,** and finally **Explorer**. There will be a large number of files with the extension **.db**. Delete all of these files.
 
 [Make sure you have file extensions turned on](https://www.makeuseof.com/windows-11-see-file-extensions/), so you know which files to delete, as you don't want to delete anything but the .db files.
 
  Now restart your computer. Your icon cache will rebuild itself and your icons should be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stop Icons From Shrinking
 
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
 
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-secrets-for-transcribing-and-converting-video-tweets-into-audio-files-mp3/"><u>[New] 2024 Approved Secrets for Transcribing & Converting Video Tweets Into Audio Files (MP3)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/resh-vlog-discussion-ideas-each-day/"><u>[New] Fresh Vlog Discussion Ideas Each Day</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-essential-list-of-premium-free-srt-translators-for-2024/"><u>[Updated] The Essential List of Premium FREE SRT Translators for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-covert-concepts-in-composing-captivating-images/"><u>2024 Approved Covert Concepts in Composing Captivating Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-out-unnecessary-data-a-users-manual-for-android-cache-management/"><u>Clearing Out Unnecessary Data: A User’s Manual for Android Cache Management</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-cpu-crunches-how-to-manage-windows-resource-monitor/"><u>Confronting CPU Crunches: How to Manage Windows Resource Monitor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversion-de-musica-mp3-a-wav-sin-costo-ni-disminucion-de-la-calidad-metodo-seguro-y-directo-para-usuarios-finales/"><u>Conversión De Música MP3 a WAV Sin Costo Ni Disminución De La Calidad: Método Seguro Y Directo Para Usuarios Finales</u></a></li>
-<li><a href="https://windows11.techidaily.com/delaying-windows-11-shutdown-managing-ongoing-processes/"><u>Delaying Windows 11 Shutdown: Managing Ongoing Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-dxvk-enhancements-for-windows-gamers/"><u>Dive Into DXVK: Enhancements for Windows Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-invalid-onedrive-blob-tags-windows-fix-guide/"><u>Eliminating Invalid OneDrive Blob Tags: Windows Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-a-non-operational-netflix-on-windows/"><u>Guidelines for a Non-Operational Netflix on Windows</u></a></li>
-<li><a href="https://media-tips.techidaily.com/resolving-online-streaming-radios-fixes-for-playback-problems/"><u>Resolving Online Streaming Radios: Fixes for Playback Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-your-w11-app-management-a-complete-wingetuser-journey/"><u>Revolutionize Your W11 App Management: A Complete WingetUser Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-unsuccessful-installation-of-v22h2-win11-update/"><u>Solutions to Unsuccessful Installation of V22H2 Win11 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-creativity-on-windows-11-desktops-with-drawing-tools/"><u>Unleash Creativity on Windows 11 Desktops with Drawing Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/video-capture-clash-go-obs-against-shadowgl-for-2024/"><u>Video Capture Clash Go OBS! Against ShadowGL for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-subnet-mastery-a-guide-to-changing-mask/"><u>Win11’s Subnet Mastery: A Guide to Changing MASK</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,3 +100,27 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-add-narration-and-voiceovers-to-your-video/"><u>[New] How to Add Narration and Voiceovers to Your Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-choosing-your-soundtrack-the-podcast-vs-youtube-showdown/"><u>[New] In 2024, Choosing Your Soundtrack The Podcast Vs. YouTube Showdown</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-record-to-win-optimizing-your-twitch-broadcasting-skills/"><u>[Updated] In 2024, Record to Win Optimizing Your Twitch Broadcasting Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-autonomous-windows-speech-transcription-app-with-whisper-aid/"><u>Crafting an Autonomous Windows Speech Transcription App with Whisper Aid</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-address-winget-malfunctioning-in-windows-11/"><u>Easy Steps to Address Winget Malfunctioning in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-distinctions-windows-10-vs-windows-11-features/"><u>Exploring the Distinctions: Windows 10 Vs. Windows 11 Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-x8b-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor X8b Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-system-call-failed-error-on-windows-10-and-11/"><u>How to Fix the “System Call Failed” Error on Windows 10 & 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>In 2024, Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g24-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G24 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-out-of-memory-alerts-in-fantasy-school-of-wizardry-game/"><u>Managing Out-of-Memory Alerts in Fantasy School of Wizardry Game</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-online-identity-through-yt-profile-refinement-for-2024/"><u>Optimizing Online Identity Through YT Profile Refinement for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-bluetooth-pairing-fail-in-windows-devices/"><u>Steps to Tackle Bluetooth Pairing Fail in Windows Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-photographs-into-stunning-collaborative-art-for-2024/"><u>Transforming Photographs Into Stunning Collaborative Art for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-tablet-navigation-in-windows/"><u>Troubleshooting Non-Responsive Tablet Navigation in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-best-tablets-of-2024-in-depth-analysis-and-ratings-by-industry-leaders/"><u>Ultimate Guide to the Best Tablets of 2024 - In-Depth Analysis and Ratings by Industry Leaders</u></a></li>
+<li><a href="https://win11.techidaily.com/unmasking-the-undisclosed-instructions-for-accessing-windows-personal-character-console/"><u>Unmasking the Undisclosed: Instructions for Accessing Windows’ Personal Character Console</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-translate-any-hindi-video-into-english-with-ai/"><u>Updated Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-pythons-socket-module-for-windows-network-files/"><u>Utilizing Python's Socket Module for Windows Network Files</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows Error 403 in Roblox
-date: 2024-09-10T02:12:30.949Z
-updated: 2024-09-16T17:51:25.505Z
+date: 2024-10-19T16:31:17.046Z
+updated: 2024-10-21T07:51:33.731Z
 tags:
   - windows10
   - windows11
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
  If you use a third-party VPN application, the steps will vary depending on which app you're using. However, they usually have a visible button or option you can click in the main window that turns the VPN off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run an SFC and DISM Scan
 
  The error can also occur due to corruption in Windows' files. In this situation, you can run an SFC (System File Checker) scan, a Windows inbuilt tool that scans your system for missing or corrupted files and replace them if necessary.
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 4. Type **sfc /scannow** in the elevated Command Prompt window and press Enter.  
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 5. Wait until the scan is complete. This may take a while, so be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and then check for the problem. If the issue persists, you will have to run the Deployment Image Servicing and Management command line tool to restore the system files and repair any corrupted system images. Here's how:
 
@@ -104,10 +118,10 @@ Dism.exe /online /cleanup-image /restorehealth`
  After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Switch to Google DNS
@@ -125,29 +139,9 @@ Dism.exe /online /cleanup-image /restorehealth`
 ![Switching to the Google Public DNS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Public-DNS.jpg)
 7. Click **OK** to save the settings.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Highlight the **Internet Protocol Version 6 (TCP/IPv6)** and select **Properties.**
 9. Type **2001:4860:4860::8888** in the **Preferred DNS server** box and **2001:4860:4860::8844** in the **Alternate DNS server** box.
 10. Click **OK** to save the IPv6 DNS settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Make the Registry Edit
 
@@ -159,22 +153,24 @@ Dism.exe /online /cleanup-image /restorehealth`
 2. In the Registry Editor, right click on the **HKEY\_CURRENT\_USER** folder in the left pane, and choose **Permissions** from the context menu.  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-option.jpg)
 3. Check the **Full Control** box and then click **Apply** \> **OK**.  
-![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
+
  Similary, give full control to **HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Play Roblox Without Any Issues
 
@@ -192,5 +188,18 @@ Dism.exe /online /cleanup-image /restorehealth`
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-best-mac-methods-for-recording-roblox-games/"><u>[New] Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-guide-best-free-video-effect-websites-reviewed-and-rated-by-experts/"><u>[Updated] Essential Guide Best Free Video Effect Websites Reviewed & Rated by Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-your-notetaking-on-all-windows-11-devices/"><u>Empowering Your Notetaking on All Windows 11 Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-mobile-and-pc-pictures-with-focused-image-soften/"><u>Enhance Your Mobile & PC Pictures with Focused Image Soften</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-conducting-obs-meetings-via-zoom/"><u>Expert Tips for Conducting OBS Meetings via Zoom</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>In 2024, Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-guidance-and-reviews-by-toms-hardware-experts/"><u>Mastering Tech Choices: Guidance and Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-obscured-features-of-window-11/"><u>Mastering the Obscured Features of Window 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-key-prices-wisely/"><u>Navigating Windows 11 Key Prices Wisely</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-your-virtual-disk-services-from-failures-in-windows/"><u>Saving Your Virtual Disk Services From Failures in Windows</u></a></li>
+<li><a href="https://win-studio.techidaily.com/understanding-your-needs-the-essential-guide-to-picking-docker-over-vms-or-vice-versa/"><u>Understanding Your Needs: The Essential Guide to Picking Docker over VMs or Vice Versa</u></a></li>
+</ul></div>
 

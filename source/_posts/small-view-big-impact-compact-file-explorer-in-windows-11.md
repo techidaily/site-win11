@@ -1,7 +1,7 @@
 ---
 title: "Small View, Big Impact: Compact File Explorer in Windows 11"
-date: 2024-10-10T17:46:04.438Z
-updated: 2024-10-15T16:10:58.374Z
+date: 2024-10-14T19:25:43.895Z
+updated: 2024-10-21T04:29:35.628Z
 tags:
   - windows10
   - windows11
@@ -49,36 +49,36 @@ thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -93,10 +93,10 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -120,20 +120,14 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-complete-breakdown-inside-google-podcasts-application/"><u>[New] Complete Breakdown Inside Google Podcasts Application</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-look-at-high-quality-minecraft-recordings/"><u>[Updated] 2024 Approved In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/cure-windows-geforce-experience-failures-swiftly/"><u>Cure Windows GeForce Experience Failures Swiftly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/examining-performance-of-dji-raptor-eyewear/"><u>Examining Performance of DJI Raptor Eyewear</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-original-diablo-basic-combat-strategies/"><u>Exploring Original Diablo: Basic Combat Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-restricted-outlook-startup-glitches/"><u>Fixing Windows-Restricted Outlook Startup Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-amplify-safety-extending-pin-length-on-win11-devices/"><u>How to Amplify Safety: Extending Pin Length on Win11 Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-8-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 8 Plus Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-opening-hesitant-exe-files/"><u>Mastering the Art of Opening Hesitant Exe Files</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-online-obstacles-mastering-windows-browser-fixes-for-sites/"><u>Overcoming Online Obstacles: Mastering Windows Browser Fixes for Sites</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-pre-operation-disk-formatting-error/"><u>Remedy for Pre-Operation Disk Formatting Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-lost-pci-controller-in-windows/"><u>Restoring Lost PCI Controller in Windows</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/simple-guide-editing-videos-on-your-android-device-with-just-6-steps-using-movavi-clips/"><u>Simple Guide: Editing Videos on Your Android Device with Just 6 Steps Using Movavi Clips</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-app-launch-dilemma-0xc000003e-error-in-win11-demystified/"><u>Solving App Launch Dilemma: 0XC000003E Error in Win11 Demystified</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/vidheal-pro-correcting-hd-distortions/"><u>VidHeal Pro: Correcting HD Distortions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-complete-reference-for-navigating-telegram-web-applications/"><u>[New] In 2024, Complete Reference for Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cut-to-the-chase-quick-background-blur-tricks-for-everyday-meets-for-2024/"><u>Cut to the Chase Quick Background Blur Tricks for Everyday Meets for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726029973699-dvdwindows-10/"><u>DVDの著作権保護を解除してバックアップするフリーソフトで、Windows 10サポート強化</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Properly | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-strategies-for-background-blur-perfection-using-windows-11-photos-app/"><u>In-Depth Strategies for Background Blur Perfection Using Windows 11 Photos App</u></a></li>
+<li><a href="https://win11.techidaily.com/neutralizing-windows-update-triggers/"><u>Neutralizing Windows Update Triggers</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-how-to-view-excel-files-in-notepad/"><u>Tips: How to View Excel Files in Notepad</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-desktop-menus-in-win-1011/"><u>Troubleshooting Non-Responsive Desktop Menus in Win 10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-copyrights-demystified-understanding-and-managing-strikes-for-2024/"><u>YouTube Copyrights Demystified Understanding and Managing Strikes for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expertise in Escaping Frozen Update Troubleshooter
-date: 2024-10-14T19:34:52.491Z
-updated: 2024-10-15T20:33:26.385Z
+date: 2024-10-20T08:46:34.340Z
+updated: 2024-10-20T20:45:29.731Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -67,19 +60,19 @@ To fix this, you can try restarting Cryptographic Services.
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
 
  Now close Services and try running the Windows Update Troubleshooter again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run System File Checker and DISM Command
 
@@ -103,16 +96,24 @@ To fix this, you can try restarting Cryptographic Services.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
@@ -136,20 +137,26 @@ To edit and enable the Scripted Diagnostics policy:
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
 7. Finally, tap on**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
@@ -177,24 +184,21 @@ To edit and enable the Scripted Diagnostics policy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-your-personalized-blueprint-to-livestreaming-on-tiktok-via-desktop/"><u>[Updated] 2024 Approved Your Personalized Blueprint to Livestreaming on TikTok via Desktop</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-titles-that-shine-how-to-innovate-for-2024/"><u>[Updated] Channel Titles That Shine How to Innovate for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastermind-best-gk-quiz-video-sources-2024/"><u>[Updated] Mastermind Best GK Quiz Video Sources 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/continuous-edge-strategies-for-windows-11-users/"><u>Continuous Edge: Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/customize-your-videos-closing-music-without-costs/"><u>Customize Your Video's Closing Music Without Costs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-easy-aquatic-movie-making-quick-methods-revealed/"><u>Dive Into Easy Aquatic Movie-Making Quick Methods Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-tutorial-for-transforming-dvd-content-into-digitals-files-across-windows-macos-and-mobile-devices/"><u>Easy Tutorial for Transforming DVD Content Into Digitals Files Across Windows, macOS and Mobile Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-apps-for-effective-mac-sniping-for-2024/"><u>Essential Apps for Effective Mac Sniping for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/expedited-troubleshoot-utility-access-via-windows-hotkey-setups/"><u>Expedited Troubleshoot Utility Access via WIndows Hotkey Setups</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fact-checking-health-advice-navigating-chatgpt-and-ai-sources-for-truthful-information/"><u>Fact-Checking Health Advice: Navigating ChatGPT and AI Sources for Truthful Information</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-windows-11-achieving-5ghz-connectivity/"><u>Fixes for Windows 11: Achieving 5GHz Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-3gp-naar-mp4-professioneel-online-toolkit-movavi/"><u>Gratuit Konverteren Van 3GP Naar MP4: Professioneel Online-Toolkit Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-quick-fix-in-windows-11/"><u>Implementing Quick Fix in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-windows-11s-phishing-protection/"><u>Implementing Windows 11’S Phishing Protection</u></a></li>
-<li><a href="https://win11.techidaily.com/master-swift-keystrokes-through-powertoys-use/"><u>Master Swift Keystrokes Through PowerToys Use</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-remote-desktop-connections-in-windows-11/"><u>Mastering Remote Desktop Connections in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-how-to-rectify-zero-x-eight-oh-three-one-f-errors/"><u>Quick Guide: How To Rectify Zero X Eight Oh Three One F Errors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-audio-gradients-in-ableton-for-2024/"><u>Streamlining Audio Gradients in Ableton for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategy-against-xbox-game-pass-error-code-0-in-windows-11/"><u>Winning Strategy Against Xbox Game Pass Error Code 0 in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-free-youtube-downloads-without-programs-for-2024/"><u>[Updated] Guide Free YouTube Downloads Without Programs for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>2024 Approved DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-free-pc-sound-capturing-software-x-recorder-version/"><u>2024 Approved Free Pc Sound Capturing Software - X-Recorder Version</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-techniques-for-saving-roblox-playback-on-mac/"><u>Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-the-magic-of-free-voice-change-for-valorant-gaming-for-2024/"><u>Experience the Magic of Free Voice Change for Valorant Gaming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-scaling-issues-for-high-dpi-screens/"><u>How to Fix Windows Scaling Issues for High DPI Screens</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-13c-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi 13C To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-x100-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo X100 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/nokia-partners-with-google-for-groundbreaking-50-gigabit-per-second-broadband-trials/"><u>Nokia Partners with Google for Groundbreaking 50 Gigabit-per-Second Broadband Trials</u></a></li>
+<li><a href="https://win11.techidaily.com/rekindle-your-computers-potential-with-windows-11-via-to-go-and-rufus-path/"><u>Rekindle Your Computer's Potential with Windows 11, Via To Go & Rufus Path</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-and-restoring-faulty-media-playback/"><u>Resetting and Restoring Faulty Media Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-speakers-not-detected-issue/"><u>Resolving Windows: Speakers Not Detected Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-disassembling-dism-for-image-recovery/"><u>The Art of Disassembling Dism for Image Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-installation-sites-for-pc-apps-on-windows/"><u>Tracing Installation Sites for PC Apps on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformez-votre-ficmkv-en-format-mov-sans-cout-mooviez/"><u>Transformez Votre FICMKV en Format MOV Sans Coût - Mooviez</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-eternal-delete-with-a-customized-windows-trash-bin-setup-11/"><u>Unleash Eternal Delete with a Customized Windows Trash Bin Setup (11)</u></a></li>
 </ul></div>
 

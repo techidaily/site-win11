@@ -1,7 +1,7 @@
 ---
 title: Unblock Windows Shared Drive with Ease
-date: 2024-10-13T16:15:40.550Z
-updated: 2024-10-15T20:23:25.130Z
+date: 2024-10-13T19:16:46.970Z
+updated: 2024-10-21T06:35:24.739Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
 
  If all your devices are on the same network, check if your Wi-Fi router is functioning properly or experiencing issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ask the Owner to Change the Permissions
 
  While setting up a shared folder, Windows allows you to set custom permissions, such as allowing or denying full control, read and write permissions, etc.
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/5b80927e68923eec1d1361008f6bde3827f135dcc
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
@@ -81,6 +67,14 @@ Follow this step-by-step guide to restart the networking services:
 1. Press**Win + Q** and type**Services** . Alternatively, there are many other[ways to open the Services app](http://www.makeuseof.com/windows-11-open-services-app/) on Windows.  
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
@@ -100,15 +94,22 @@ To turn on Network discovery, follow these steps:
 3. On the left-hand pane, click**Change advanced sharing settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
@@ -132,6 +133,13 @@ Here's how you can fix all the firewall issues on your computer:
 
  This will allow all incoming connections, or, in other words, solve your sharing folder issue on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset the Network Settings
 
  If none of the above solutions work, you may need to reset your network settings. Resetting the network settings will restore all the network-related settings to their factory defaults, which should allow you to connect to your network again.
@@ -146,23 +154,16 @@ Here's how to reset the network settings on Windows:
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Troubleshooting Shared Folders on Windows
 
@@ -183,20 +184,24 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-step-by-step-framework-for-engaging-fb-giving-campaigns-for-2024/"><u>[New] A Step-by-Step Framework for Engaging FB Giving Campaigns for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-story-viewer-view-facebook-stories-anonymously/"><u>[New] Facebook Story Viewer View Facebook Stories Anonymously</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>[New] Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-swift-google-collage-compilation/"><u>[Updated] The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-voice-logging-devices-scrutiny/"><u>[Updated] Voice Logging Devices Scrutiny</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-redefined-artistry-with-new-microsoft-paint-tools/"><u>Discover Redefined Artistry with New Microsoft Paint Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-the-ultimate-free-zune-video-transformer-seamless-conversion-of-videos-for-your-zune/"><u>Download the Ultimate Free Zune Video Transformer - Seamless Conversion of Videos for Your Zune</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-google-chrome-profiles-glitches-efficiently-on-desktop/"><u>Fixing Google Chrome Profiles Glitches Efficiently on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/from-gaming-laptop-to-kali-focused-workstation/"><u>From Gaming Laptop to Kali-Focused Workstation</u></a></li>
-<li><a href="https://discover-data.techidaily.com/guide-convert-and-save-kst-videos-as-mp4movavi-for-free/"><u>Guide: Convert and Save KST Videos as MP4/MOV/AVI for Free</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-disk-manage-access-methods-for-win-1011/"><u>Mastering Disk Manage: Access Methods for Win 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204655221-monitors-unseen-solutions-abound/"><u>Monitors Unseen, Solutions Abound!</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-and-rectify-common-errors-using-snip-and-sketch-on-windows/"><u>Navigate and Rectify Common Errors Using Snip & Sketch on Windows.</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-10-2d-animation-tools-for-artists-for-2024/"><u>New Unleash Your Creativity Top 10 2D Animation Tools for Artists for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-disk-failures-on-pc/"><u>Troubleshooting Disk Failures on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-ps4-games-for-live-capture-in-obs/"><u>[New] Optimizing PS4 Games for Live Capture in OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photographic-journey-to-cinematic-expression-using-pixizs-tools/"><u>[New] Photographic Journey to Cinematic Expression Using Pixiz's Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-your-ultimate-manual-for-opting-into-youtube-premium/"><u>[Updated] In 2024, Your Ultimate Manual for Opting Into YouTube Premium</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>[Updated] IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-acquiring-vivid-clipart-without-investment/"><u>2024 Approved Acquiring Vivid Clipart Without Investment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-learning-to-let-go-of-hurtful-comments/"><u>2024 Approved Learning to Let Go of Hurtful Comments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/asure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11-writable-html-in-email-settings/"><u>Addressing Windows 11' Writable HTML in Email Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-hibernate-depression-in-windows/"><u>Combatting Hibernate Depression in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-corrupted-filesystems-in-windows-11/"><u>Correcting Corrupted Filesystems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-file-access-failures-in-windows/"><u>Correcting File Access Failures in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/digging-into-drive-labels-c-and-d-unpacked/"><u>Digging Into Drive Labels: C & D Unpacked</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-restrictive-settings-from-steam-libraries-win-11/"><u>Eradicating Restrictive Settings From Steam Libraries Win 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-macos-11-big-sur-system-and-hardware-requirements/"><u>In 2024, MacOS 11 Big Sur System and Hardware Requirements</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-use-of-snipping-tool-on-modern-windows-os/"><u>Instant Use of Snipping Tool on Modern Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-the-load-on-your-pc-with-efficient-wlanextexe/"><u>Lowering the Load on Your PC with Efficient Wlanext.exe</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-pro-keyboard-problem-heres-how-you-can-repair-it/"><u>MacBook Pro Keyboard Problem? Here's How You Can Repair It</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-onedrive-lockout-windows-user-guide-needed/"><u>Reverse OneDrive Lockout: Windows User Guide Needed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-titans-of-digital-communication-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse Titans of Digital Communication: Facebook, Twitter, Instagram & Youtube</u></a></li>
 </ul></div>
 

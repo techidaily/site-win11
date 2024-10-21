@@ -1,7 +1,7 @@
 ---
 title: Swift Passage for Windows WoW Freezes
-date: 2024-10-11T19:00:54.294Z
-updated: 2024-10-15T18:15:07.432Z
+date: 2024-10-15T09:49:37.312Z
+updated: 2024-10-20T21:53:28.695Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 * Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Ensure It's Not a Visual Glitch
 
  The Battle.net desktop client can sometimes appear stuck on initializing due to a visual glitch. This means the update may still be downloading, but the client may show the update progress bar as stuck at initializing. Therefore, it's imperative to confirm that first:
@@ -51,31 +58,11 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![Checking Battle.net's Network Resource Consumption in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-checking-battle-net-s-network-resource-consumption-in-task-manager-on-windows.jpg)
 3. Then, open the folder where the game was installed.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check the overall size of the WoW folder after ten minutes and note down the size of the game files.
 
  The growing folder size and consumption of network resources in Task Manager indicate the client is downloading the update. So, the update stuck on initializing in the Battle.net desktop client is just a visual glitch.
 
  However, if the progress bar is really stuck on initializing, it's time to perform some fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Delete the Battle.net Client Cache
 
@@ -90,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. Delete the**Cache** folder.  
 ![Deleting Battle.net Cache on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deleting-battle-net-cache-on-windows.jpg)
 5. Restart your device and try downloading the update again.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rule Out Internet Issues
 
@@ -120,20 +100,34 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  Once you have disabled them, run the update again to see if it succeeds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Whitelist Battle.net in Your Firewall
 
 ![disable enable defender firewall smartscreen](https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft Defender and third-party antivirus programs are great at catching and removing threats. Sometimes, however, they deem even safe-to-execute processes as threats and block them. It's at that point when things start to get frustrating.
 
  To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Playing World of Warcraft Again
 
@@ -154,20 +148,18 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-tunefabs-cutting-edge-approach-to-live-streaming-for-2024/"><u>[New] Tunefab's Cutting-Edge Approach to Live Streaming for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-flat-screens-to-spatial-storytelling-understanding-vr/"><u>[Updated] From Flat Screens to Spatial Storytelling Understanding VR</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choosing-hdr-over-sdr-elevating-your-video-creation-process-for-2024/"><u>Choosing HDR over SDR Elevating Your Video Creation Process for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertir-ficheros-movavi-m1v-sin-coste-por-internet-gratuito-tutorial-paso-a-paso/"><u>Convertir Ficheros Movavi M1V Sin Coste Por Internet Gratuito: Tutorial Paso a Paso</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-the-create-failed-problem-windows-error-30005/"><u>Demystifying the Create Failed Problem - Windows Error 30005</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-a-non-responsive-windows-service/"><u>How to Reactivate a Non-Responsive Windows Service</u></a></li>
-<li><a href="https://win11.techidaily.com/ifa-2023s-top-laptops-showcase/"><u>IFA 2023'S Top Laptops Showcase</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-leverage-timestamps-tactics-to-skyrocket-video-views/"><u>In 2024, Leverage Timestamps Tactics to Skyrocket Video Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lush-backdrops-a-treasure-chest-of-free-templates-for-cinematographers-for-2024/"><u>Lush Backdrops A Treasure Chest of Free Templates for Cinematographers for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/strategies-for-reducing-and-fixing-stringing-problems-in-your-3d-printing-endeavors/"><u>Strategies for Reducing and Fixing Stringing Problems in Your 3D Printing Endeavors</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-verification-failures-for-windows-installs/"><u>Troubleshooting Verification Failures for Windows Installs</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-e84-errors-in-windows-based-steam-clients/"><u>Unraveling E84 Errors in Windows-Based Steam Clients</u></a></li>
-<li><a href="https://win11.techidaily.com/wsls-contribution-to-desktop-linux-ecosystem/"><u>WSL's Contribution to Desktop Linux Ecosystem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gameplay-gimmicks-voice-variations-in-free-fire/"><u>[New] Gameplay Gimmicks Voice Variations in Free Fire</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screenshot-synopsis-study/"><u>[Updated] ScreenShot Synopsis Study</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamental-tale-structuring/"><u>2024 Approved Fundamental Tale Structuring</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-installation-obstacles-for-app-removal-in-windows-11/"><u>Bypassing Installation Obstacles for App Removal in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-yellow-tint-on-a-windows-laptop-screen/"><u>How to Fix a Yellow Tint on a Windows Laptop Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/light-up-the-screen-tips-and-steps-for-adding-gifs-to-snapchats-for-2024/"><u>Light Up the Screen Tips and Steps for Adding GIFs to Snapchats for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/parable-pedagogues-group-ultimate-eight/"><u>Parable Pedagogues Group - Ultimate Eight</u></a></li>
+<li><a href="https://win11.techidaily.com/rebuilding-with-purpose-windows-11-from-scratch/"><u>Rebuilding with Purpose: Windows 11 From Scratch</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-non-functional-xbox-controller/"><u>Reviving Your Non-Functional Xbox Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-vmstart-fixes-to-avoid-errors-in-windows-11/"><u>Unlocking Your VMstart: Fixes to Avoid Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-reset-limit-after-unsuccessful-authentication-in-windows-1011/"><u>Updating Reset Limit After Unsuccessful Authentication in Windows 10/11</u></a></li>
 </ul></div>
 

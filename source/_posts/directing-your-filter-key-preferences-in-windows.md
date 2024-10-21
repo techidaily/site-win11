@@ -1,7 +1,7 @@
 ---
 title: Directing Your Filter Key Preferences in Windows
-date: 2024-09-14T09:35:41.488Z
-updated: 2024-09-17T06:09:08.672Z
+date: 2024-10-18T03:13:17.062Z
+updated: 2024-10-21T06:21:05.547Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 4. Use the toggle next to the**Filter keys** to enable or disable it. You can click on Filter keys to further customize the feature to your liking.  
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
  Although Microsoft plans to retire Control Panel at some point in the future, you can use it to configure most of the settings on your Windows computer for now.
@@ -66,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
@@ -81,13 +88,20 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
@@ -108,5 +122,21 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-castcritique-report/"><u>[New] CastCritique Report</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-subtitle-making-from-compressed-file-extraction/"><u>[New] Subtitle Making From Compressed File Extraction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-four-straightforward-methods-for-lenovo-screenshots/"><u>[Updated] In 2024, Four Straightforward Methods for Lenovo Screenshots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-add-music-to-ig-story-an-ultimate-guide/"><u>[Updated] In 2024, How to Add Music to IG Story – an Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-polarrs-complete-guide-mastering-image-editing/"><u>[Updated] In 2024, Polarr's Complete Guide Mastering Image Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-battlenet-functionality-in-windows-os-after-logout/"><u>Enabling Battle.net Functionality in Windows OS After Logout</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze 2FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-hard-drive-capacities-leveraging-windows-diskusage-command-skills/"><u>Navigating Hard Drive Capacities: Leveraging Windows' DiskUsage Command Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/paving-the-path-to-seamless-device-symbiosis/"><u>Paving the Path to Seamless Device Symbiosis</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguarding-saved-gaming-milestones-with-epic-support/"><u>Safeguarding Saved Gaming Milestones with Epic Support</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-creating-system-images-via-usb-drive-with-windows-11-utilities/"><u>Step-by-Step Guide: Creating System Images via USB Drive with Windows 11 Utilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-removing-protection-from-your-ms-excel-file/"><u>Step-by-Step Guide: Removing Protection From Your MS Excel File</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-shutters-and-hangouts/"><u>The Ultimate Guide to Windows Shutters and Hangouts</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-reclaiming-your-sound-settings/"><u>Win10/11: Reclaiming Your Sound Settings</u></a></li>
+</ul></div>
 

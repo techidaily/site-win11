@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions to Prevent Unintended Scrolling
-date: 2024-09-15T08:15:47.949Z
-updated: 2024-09-17T09:40:31.303Z
+date: 2024-10-19T16:34:10.291Z
+updated: 2024-10-21T11:29:43.164Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ Here are the steps you need to follow:
 
 ![On-screen keyboard with a highlighted Ctrl key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/on-screen-keyboard-with-a-highlighted-ctrl-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To resolve the issue, try lifting or clicking both**Ctrl keys** repeatedly. If the keys are still blue on the on-screen keyboard, then maybe you need to repair your PC. Alternatively, you could consider replacing your keyboard.
 
  Now, what if the keys aren’t stuck, but you’re still running into issues? In this case, the other solutions in this article should help.
@@ -77,10 +84,10 @@ Let’s start by exploring how you can update the mouse drivers:
 ![Scanning for hardware changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Scanning-for-hardware-changes-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair the Keyboard Drivers
@@ -96,6 +103,13 @@ Let’s start by exploring how you can update the mouse drivers:
 3. Right-click on the relevant keyboard driver and select**Update driver** . Next, select**Search automatically for updated driver software** .
 
 ![Updating the keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/updating-the-keyboard-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Still running into issues? If so, then try reinstalling the keyboard drivers through these steps:
 
@@ -124,21 +138,28 @@ Let’s start by exploring how you can update the mouse drivers:
 1. Navigate to the**Troubleshoot** screen by following the previous steps.
 2. Select the**Keyboard troubleshooter** and then press the**Run the troubleshooter** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reinstall or Repair the Microsoft Visual C++ Programs
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Did you know that your PC depends on various Microsoft Visual C++ runtime library packages to function properly? If some of these programs are corrupted, then you’ll likely run into various system issues.
@@ -162,13 +183,6 @@ Let’s start by exploring how you can update the mouse drivers:
 2. Right-click on each**Microsoft Visual C++ program** (one at a time) and select**Uninstall** .
 3. Install the[Microsoft Visual C++ programs](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) from the Microsoft Website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Restore Windows to a Previous State
 
  If all else fails, then try resolving the issue using the Windows System Restore feature. This tool gets rid of recent system changes by restoring your device to its previous state.
@@ -184,10 +198,10 @@ Let’s start by exploring how you can update the mouse drivers:
 ![Using a Restore Point on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Using-a-Restore-Point-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You’ve Finally Conquered Your Annoying Mouse Wheel Problem
@@ -209,5 +223,21 @@ Let’s start by exploring how you can update the mouse drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-essential-tips-for-audio-crossfades-in-premiere-pro-for-2024/"><u>[New] Essential Tips for Audio Crossfades in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-prime-steadicam-devices-for-drones-in-filmmaking/"><u>[New] In 2024, Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-melodic-mute-mode-operating-system-steps/"><u>[New] Melodic Mute Mode Operating System Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaversal-journey-versus-omniverse-quest/"><u>[Updated] Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-your-blogging-bravery-following-youtuber-leaders/"><u>Boost Your Blogging Bravery Following YouTuber Leaders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-boost-your-seo-success/"><u>Cookiebot-Driven Site Optimization: Boost Your SEO Success</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-play-40c-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Play 40C in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-printer-problems-fast-win11-fixed/"><u>Eliminate Printer Problems Fast: Win11 Fixed</u></a></li>
+<li><a href="https://win11.techidaily.com/hyper-v-integration-establishing-a-linux-environment-on-windows-host/"><u>Hyper-V Integration: Establishing a Linux Environment on Windows Host</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-assessment-comprehensive-camstudio-review/"><u>In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-background-deletion-in-paint-3d/"><u>Pro Tips for Background Deletion in Paint 3D</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-immediate-edge-tabs-in-win11/"><u>Sidestep Immediate Edge Tabs in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-review-of-linksys-wrt3200acm-router-unleashing-the-potential-of-open-source-wifi-solutions/"><u>The Ultimate Review of Linksys WRT3200ACM Router: Unleashing the Potential of Open Source WiFi Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/usbmp4-mts-2/"><u>USBを使わずにMP4ファイル変換が簡単! MTS からのアップグレード - 最適なサイト2選</u></a></li>
+</ul></div>
 

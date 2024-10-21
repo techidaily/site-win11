@@ -1,7 +1,7 @@
 ---
 title: "Quick Portal: Elevated Terminal at Your Fingertips"
-date: 2024-09-11T17:19:21.581Z
-updated: 2024-09-16T16:33:27.734Z
+date: 2024-10-17T10:36:30.968Z
+updated: 2024-10-20T23:26:48.715Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![Always Open the Windows Terminal as Administrator Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/always-open-the-windows-terminal-as-administrator-using-settings.jpeg)
 5. Then click**Save** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the terminal will open automatically in the admin terminal the next time you open it.
 
 ## 2\. How to Always Open the Windows Terminal as Administrator With Desktop Shortcut
@@ -54,9 +61,23 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![Create Desktop Shortcut For Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-desktop-shortcut-for-windows-terminal.jpg)  
 `%LocalAppData%\Microsoft\WindowsApps\wt.exe`
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Give the shortcut a name, such as Windows Terminal.  
 ![Give the Desktop Shortcut Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/give-the-desktop-shortcut-name.jpg)
 5. Finally, click**Finish** to create the shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After creating the shortcut, you can find it on your desktop.
 
@@ -68,14 +89,14 @@ After creating the shortcut, you can find it on your desktop.
 ![Set to run Windows Terminal as an administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-to-run-windows-terminal-as-an-administrator.jpg)
 4. On the Properties window, click**Apply** \>**OK** to save your changes.
 
- Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
 
 ## Windows Terminal Now Opens With Admin Rights
 
@@ -94,5 +115,22 @@ After creating the shortcut, you can find it on your desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-complete-review-of-camstudio-screencap-tech/"><u>[New] 2024 Approved The Complete Review of CamStudio Screencap Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-boost-your-snaps-to-new-heights-with-expert-snapchat-tips/"><u>[New] Boost Your Snaps to New Heights with Expert Snapchat Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-top-8-cost-free-videography-suites-for-digital-filmmakers/"><u>[New] In 2024, Discover the Top 8 Cost-Free Videography Suites for Digital Filmmakers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-vidcache-101-step-by-step-on-saving-tweets-videos/"><u>[Updated] In 2024, VidCache 101 Step-by-Step on Saving Tweets' Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-must-know-facts-for-asmr-content-lovers/"><u>2024 Approved Must-Know Facts for ASMR Content Lovers</u></a></li>
+<li><a href="https://win11.techidaily.com/correct-the-dimmed-extend-option-on-windows-explorer/"><u>Correct the Dimmed Extend Option on Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-connection-to-unreachable-windows-11-printer/"><u>Enabling Connection to Unreachable Windows 11 Printer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a58-4g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A58 4G FRP Locks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/innovative-solutions-for-turning-on-broken-iphones-expert-tips-and-tricks/"><u>Innovative Solutions for Turning On Broken iPhones: Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reviving-windows-photo-viewer-two-approaches-in-windows-10-for-2024/"><u>Reviving Windows Photo Viewer Two Approaches in Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/revolutionize-your-webcam-experience-now-for-2024/"><u>Revolutionize Your Webcam Experience Now for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-windows-with-a-side-of-kali-linux/"><u>Securing Windows with a Side of Kali Linux</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-blend-excelling-at-classic-games-in-hd-clarity-through-scummvm-on-windows/"><u>The Perfect Blend: Excelling at Classic Games in HD Clarity Through ScummVM on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pc-from-the-windows-11-compatibility-shackles/"><u>Unlocking Your PC From the Windows 11 Compatibility Shackles</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackling-your-powershell-scripts-top-4-strategies-for-execution-lift/"><u>Unshackling Your PowerShell Scripts: Top 4 Strategies for Execution Lift</u></a></li>
+</ul></div>
 

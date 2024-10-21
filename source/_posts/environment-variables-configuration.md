@@ -1,7 +1,7 @@
 ---
 title: Environment Variables Configuration
-date: 2024-10-11T16:52:17.169Z
-updated: 2024-10-15T18:14:49.812Z
+date: 2024-10-19T09:22:03.396Z
+updated: 2024-10-21T04:43:34.642Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
  Similarly, the Settings app also gives you the option to change your account password on Windows. If you’re interested in doing that, check our guide on[how to change an account password in Windows](https://www.makeuseof.com/change-account-password-windows-11/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the Account PIN From the Sign-In Screen
@@ -67,16 +67,17 @@ If you're using a Microsoft account:
 ![Change PIN on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-pin-on-windows-11.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Change PIN From the Sign-In Screen If Using a Local Account
@@ -93,22 +94,15 @@ If you're using a local account instead:
 8. Set up the new PIN by entering it twice. Then, click**OK** .  
 ![Forgot PIN in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/forgot-pin-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your account PIN on Windows will be changed. Note that some of your apps might require you to sign in after you reset your account PIN.
 
  Don’t want to enter a PIN every time you access your computer? Check our guide on[how to set up automatic sign-in on Windows](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) to avoid the login screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Effortlessly Change Your Windows Account PIN
@@ -132,21 +126,24 @@ If you're using a local account instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exploring-skypes-best-recording-options-of-2023/"><u>[New] 2024 Approved Exploring Skype's Best Recording Options of 2023</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-activate-a-virtual-grid-display-for-meet-users/"><u>[Updated] 2024 Approved How to Activate a Virtual Grid Display for Meet Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-engagement-the-best-12-ways-to-increase-video-popularity/"><u>[Updated] Accelerate Engagement - The Best 12 Ways to Increase Video Popularity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-external-to-inshot-your-tunes-transformation-guide/"><u>[Updated] From External to InShot Your Tunes Transformation Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beyond-adjustments-the-influence-of-luts-on-art/"><u>Beyond Adjustments The Influence of LUTs on Art</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-drive-space-a-comprehensible-guide-to-using-diskusage-commands/"><u>Decoding Drive Space: A Comprehensible Guide to Using DiskUsage Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-rectify-server-stumbled-issues-on-windows/"><u>Efficient Methods to Rectify Server Stumbled Issues on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-online-avi-vormaak-naar-wav-professioneel-videoverwerking-met-movavi/"><u>Gratuit Online AVI-Vormaak Naar Wav: Professioneel Videoverwerking Met Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-bypassing-missing-windows-logins-on-pcs/"><u>Guide to Bypassing Missing Windows Logins on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-definitive-searches-in-windows-11/"><u>Instant Definitive Searches in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-eradicating-directdraw-failures-on-win1011-systems/"><u>Quick Guide: Eradicating DirectDraw Failures on WIN10/11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-resuming-lost-remote-access-in-windows/"><u>Strategies for Resuming Lost Remote Access in Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-unanticipated-voyage-within-yokus-expansive-archipelago-adventure/"><u>The Unanticipated Voyage Within Yoku's Expansive Archipelago Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-helldivers-second-act-bsod-nightmare/"><u>Ultimate Guide: Resolving the Helldiver's Second Act - BSOD Nightmare</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-the-acer-bios-steps-to-access-and-customize-your-system-settings/"><u>Understanding the Acer BIOS: Steps to Access and Customize Your System Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-anomaly-correction-controlling-a-roaming-pointer/"><u>Win11 Anomaly Correction: Controlling a Roaming Pointer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-12-steps-fixing-hidden-fb-video-issues/"><u>[New] 2024 Approved Unlocking 12 Steps Fixing Hidden FB Video Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oosting-audience-size-a-comprehensive-guide-to-youtube-shorts-success/"><u>[New] Boosting Audience Size A Comprehensive Guide to YouTube Shorts Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-open-library-legal-gaming-tracks-downloadable-for-2024/"><u>[Updated] Open Library Legal Gaming Tracks Downloadable for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-connectivity-the-moto-z2-reviewed/"><u>2024 Approved Innovating Connectivity The Moto Z2 Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/best-practices-for-github-desktop-adoption-in-windows-11/"><u>Best Practices for GitHub Desktop Adoption in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/critics-common-grumbles-windows-11-unveiled/"><u>Critics' Common Grumbles: Windows 11 Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-functional-state-in-dead-usb-ports-win-edition/"><u>Enabling Functional State in Dead USB Ports, Win Edition</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fitbit-inspire-hr-the-ultimate-247-fitness-and-lifestyle-monitoring-wearable-device-reviewed-stay-on-top-of-your-wellbeing/"><u>Fitbit Inspire HR - The Ultimate 24/7 Fitness & Lifestyle Monitoring Wearable Device Reviewed: Stay on Top of Your Wellbeing!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-frozen-grammarly-app-a-windows-users-guide/"><u>Fixing Frozen Grammarly App: A Windows User's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-rectify-erroneous-device-listings-in-windows/"><u>Guidelines to Rectify Erroneous Device Listings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-windows-11-search-icon-from-a-text-bar/"><u>How to Change Windows 11 Search Icon From a Text Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-start-the-quick-assist-tool-in-windows-11/"><u>How to Start the Quick Assist Tool in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve/"><u>In 2024, Game Changers Gear Essentials Every Business Needs to Stay Ahead of the Curve</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-itel-p55-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Itel P55 5G Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-look-making-most-of-firefox-picture-in-picture/"><u>Inside Look Making Most of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/jumpstarting-video-communication-a-3-step-guide-for-snapchat-users-for-2024/"><u>Jumpstarting Video Communication A 3-Step Guide for Snapchat Users for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-battery-life-esr-unveils-its-latest-qi2-magsafe-series-offering-rapid-charge-for-iphones-x-with-cool-technology-zdnet/"><u>Maximize Battery Life: ESR Unveils Its Latest Qi2 MagSafe Series, Offering Rapid Charge for iPhones X with Cool Technology - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-efficient-downloads-tips-from-microsofts-store/"><u>Quick and Efficient Downloads: Tips From Microsoft’s Store</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-potential-of-pcs-integrating-enhanced-run-utility-for-windows/"><u>Unleash Potential of PCs: Integrating Enhanced Run Utility for Windows</u></a></li>
 </ul></div>
 

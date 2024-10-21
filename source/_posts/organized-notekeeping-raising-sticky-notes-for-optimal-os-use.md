@@ -1,7 +1,7 @@
 ---
 title: "Organized Notekeeping: Raising Sticky Notes for Optimal OS Use"
-date: 2024-10-09T16:06:20.857Z
-updated: 2024-10-15T20:28:09.496Z
+date: 2024-10-16T04:04:20.142Z
+updated: 2024-10-20T17:00:42.215Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
@@ -70,40 +70,35 @@ To pin Sticky Notes using DeskPins:
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -125,21 +120,21 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-pathway-from-srt-to-subc-3-actionable-methods-for-2024/"><u>[New] Pathway From SRT to SUBC 3 Actionable Methods for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[Updated] 2024 Approved The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere-for-2024/"><u>[Updated] Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transformative-tech-review-magix-vpx-redefines-editing/"><u>2024 Approved Transformative Tech Review Magix VPX Redefines Editing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-biometric-systems-an-in-depth-look/"><u>Demystifying Biometric Systems: An In-Depth Look</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-ft232r-usb-to-uart-bridge-driver-fast-and-simplified/"><u>Download the FT232R USB-to-UART Bridge Driver Fast and Simplified</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-edgeplus-2023-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Edge+ (2023) Without PUK Codes</u></a></li>
-<li><a href="https://win11.techidaily.com/is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/say-goodbye-to-wasted-space-clear-windows-temp-files/"><u>Say Goodbye to Wasted Space: Clear Windows Temp Files</u></a></li>
-<li><a href="https://techidaily.com/sign-jpg-documents-online-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign JPG Documents Online for Free</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/superior-picks-top-9-chat-and-call-apps-for-smartphones-iosandroid-for-2024/"><u>Superior Picks Top 9 Chat & Call Apps for Smartphones iOS/Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-re-capturing-run-timeline/"><u>Tips for Re-Capturing Run Timeline</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-on-windows-file-compression/"><u>Turning On Windows File Compression</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-runtime-error-0x800700c6/"><u>Understanding and Correcting Windows Runtime Error 0X800700C6</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-without-wi-fi-a-complete-guidebook/"><u>Windows 11 Without Wi-Fi: A Complete Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-turmoil-steady-the-systems-hour/"><u>Windows Time Turmoil: Steady the System's Hour</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[New] Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unlocking-the-potential-of-your-mobile-content-for-youtube-wealth/"><u>[New] In 2024, Unlocking the Potential of Your Mobile Content for YouTube Wealth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-examining-youtubes-highlighted-comment-mechanics/"><u>[Updated] In 2024, Examining YouTube's Highlighted Comment Mechanics</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-crashes-sonic-frontiers-full-screen-fixes/"><u>Conquering Crashes: Sonic Frontiers Full-Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/directly-to-dialer-windows-11-tutorial/"><u>Directly to Dialer: Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-into-os-upgrade-schedules-and-methods/"><u>Essential Insights Into OS Upgrade Schedules & Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-essential-data-win-pc-ip-and-mac-via-powershell/"><u>Finding Essential Data: Win PC IP & MAC via PowerShell</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-e13-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto E13 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>In 2024, Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-public-domain-game-music-downloads/"><u>In 2024, Public Domain Game Music Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-screen-capture-tool-in-windows-11-swiftly/"><u>Navigate to Screen Capture Tool in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-exe-file-opener-failures-in-windows/"><u>Overcoming .exe File Opener Failures in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-dormant-pane-windows-6-tips-for-win11-users/"><u>Triggering Dormant Pane Windows: 6 Tips for Win11 Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mp4-to-mp3-converter-apps-top-picks-for-ios-and-android/"><u>Updated In 2024, MP4 to MP3 Converter Apps Top Picks for iOS and Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

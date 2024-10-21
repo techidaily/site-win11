@@ -1,7 +1,7 @@
 ---
 title: Mastering Dependencies & Updates with Windows Package Manager
-date: 2024-10-10T20:01:40.711Z
-updated: 2024-10-15T17:50:54.414Z
+date: 2024-10-20T05:15:00.947Z
+updated: 2024-10-20T18:53:40.617Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ Some examples of popular package managers include:
 * Yarn.
 * Advanced Packaging Tool (APT).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Windows Package Manager?
 
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
@@ -65,13 +58,6 @@ Some examples of popular package managers include:
  Winget utilizes a YAML package manifest format that makes it easy to understand and configure. Developers typically use the YAML manifest format to bundle their applications to be compatible with the Windows Package Manager.
 
  Previously, Windows users had to rely on Chocolatey—a third-party package manager specialized for Windows OS. Chocolatey is quite powerful and widely adopted by the larger Windows fraternity. On the other hand, most Windows users are not familiar or comfortable with the Windows Package Manager yet; we hope this guide will help change that.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Windows Package Manager on Windows 11
 
@@ -90,6 +76,20 @@ Some examples of popular package managers include:
 ![app installer win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-installer.jpg)
 3. Click on the**Install** button if you see it. Otherwise,**App Installer** already exists on your PC, and you will just have to make sure it’s updated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Install Winget Through PowerShell
 
  If you’re having issues in the Microsoft Store, you should consider installing winget using Windows PowerShell. Once you’ve connected to the internet, follow the below steps:
@@ -102,6 +102,13 @@ Some examples of popular package managers include:
 ## How to Use Winget on Windows 11
 
  Now that you’ve set up winget, you’ll have to learn how to use commands associated with the winget tool, including downloading, config configuring, and viewing installed applications.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to Download New Applications
 
@@ -123,13 +130,6 @@ For example, to search for zipping programs, you can type:
 
  Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How to View Installed Applications
 
  You can view applications that have been installed on your PC through:
@@ -137,10 +137,10 @@ For example, to search for zipping programs, you can type:
 `winget list`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. How to View Application Details
@@ -148,10 +148,10 @@ For example, to search for zipping programs, you can type:
 ![winget show](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-show.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To look into the installation details and software version of a specific app, you can use the following command:
@@ -177,24 +177,18 @@ For example, to search for zipping programs, you can type:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-integrating-color-grading-techniques-with-luts-for-2024/"><u>[Updated] Integrating Color Grading Techniques with Luts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-personal-growth-reflections-for-digital-platforms/"><u>[Updated] Personal Growth Reflections for Digital Platforms</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-5-creative-tiktok-caption-ideas-for-maximum-impact/"><u>2024 Approved 5 Creative TikTok Caption Ideas for Maximum Impact</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-gpos-on-single-user-accounts-using-the-latest-windows-oses/"><u>Configuring GPOs on Single-User Accounts Using the Latest Windows OSes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/delving-into-digital-overlay-technologies/"><u>Delving Into Digital Overlay Technologies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiartys-final-user-license-agreement-for-winxdvd-secure-your-legal-rights/"><u>Digiarty's Final User License Agreement for WinXDVD - Secure Your Legal Rights</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-icon-clarity-fix-window-11-diminution/"><u>Enhance Icon Clarity: Fix Window 11 Diminution</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-started-comprehensive-linksys-wusb6300-drivers-setup-and-downloads/"><u>How to Get Started: Comprehensive Linksys WUSB6300 Drivers Setup and Downloads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-saving-your-focus-a-guide-to-quieting-naysayers-on-google-video-calls/"><u>In 2024, Saving Your Focus A Guide to Quieting Naysayers on Google Video Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-ps2-simulators-to-transform-your-ios-gaming/"><u>In 2024, Top 5 PS2 Simulators to Transform Your iOS Gaming</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/jalan-diapedakan-untuk-mungkin-kembali-dataset-apapun-di-android-atau-ios-setelah-reset-pabrik/"><u>Jalan Diapedakan Untuk Mungkin Kembali Dataset Apapun Di Android Atau iOS Setelah Reset Pabrik</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-disguising-taskbar-search-in-windows-11/"><u>Mastery: Disguising Taskbar Search in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-update-anomalies-steps-for-success/"><u>Overcoming Windows Update Anomalies: Steps for Success</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-not-valid-warning-in-win11/"><u>Resolving the ‘Not Valid’ Warning in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-update-failure-winerror-x8019/"><u>Resolving Update Failure - WinError X8019</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-restore-disrupted-remote-play-service/"><u>Steps to Restore Disrupted Remote Play Service</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-minimize-cpu-load-from-tiworkerexe-applications/"><u>Techniques to Minimize CPU Load From TiWorker.exe Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-selection-for-top-tier-hdr-cameras/"><u>Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-a-compreenas-complete-guide-for-leveraging-hdr-capabilities/"><u>Windows 11: A Compreenas Complete Guide for Leveraging HDR Capabilities</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ptimal-yt-video-cover-images/"><u>[New] Optimal YT Video Cover Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-turbocharge-your-instagram-videos-online-tactics/"><u>[Updated] In 2024, Turbocharge Your Instagram Videos Online Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-windows/"><u>使用 Movavi Windows 版影片轉換器的全面引導 - 教程</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/a-comprehensive-tutorial-changing-gender-in-social-media-images-for-2024/"><u>A Comprehensive Tutorial Changing Gender in Social Media Images for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-variability-between-offline-and-online-windows-installation-processes/"><u>Delving Into Variability Between Offline and Online Windows Installation Processes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-poco-c50-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Poco C50 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/huge-discount-buy-the-macbook-air-m3-at-its-all-time-lowest-price/"><u>Huge Discount: Buy the MacBook Air M3 at Its All-Time Lowest Price!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itelwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itelwith/without a PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>In 2024, Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-error-code-0x8000fffd-on-pcs/"><u>Mastering Fixes for Error Code 0X8000FFFD on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-more-space-files-issue/"><u>Overcoming 'No More Space' Files Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pulse-of-the-population-vllo-analysis-for-2024/"><u>The Pulse of the Population VLLO Analysis for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-distinctions-of-windows-terminal-vs-powershell/"><u>Unraveling The Distinctions of Windows Terminal Vs. PowerShell</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Windows Shutters and Hangouts
-date: 2024-10-12T16:27:05.211Z
-updated: 2024-10-15T18:36:18.155Z
+date: 2024-10-16T05:53:42.387Z
+updated: 2024-10-21T12:19:40.089Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Screen savers came to the rescue by displaying moving elements on the screen whenever the system was left idle for a specific duration. But it was all back in the day and now, [most of us don't even need screen savers](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) to save the day, due to the fast boot times and technological advancements in the display industry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Screen Saver on Windows 11
@@ -59,10 +59,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
@@ -76,10 +76,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize Screen Savers on Windows 11
@@ -98,13 +98,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Have Screen Savers Changed?
 
  The first ever screen saver was developed by a programmer named John Socha-Leialoha and it was a simple program that displayed a blank screen whenever a computer was left idle for three minutes.
@@ -114,6 +107,13 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  After the 90s, LCDs rendered screen savers obsolete, but computer users still found them exciting, even though they were of no practical use.
 
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bringing Back the Old Days With Windows Screen Savers
 
@@ -127,27 +127,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discover-10-spectacular-reactions-on-creative-youtube-videos/"><u>[New] In 2024, Discover 10 Spectacular Reactions on Creative YouTube Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-newest-qanda-arsenal-for-captivating-listeners-for-2024/"><u>[New] Newest Q&A Arsenal for Captivating Listeners for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[Updated] In 2024, The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bringing-gpt-conversations-to-android-widgets/"><u>Bringing GPT Conversations to Android Widgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-geforce-rtx-3060-ti-driver-set-for-optimal-performance-on-windows-11/"><u>Download Official GeForce RTX 3060 Ti Driver Set for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-display-using-windows-steps/"><u>Fine-Tune Your Display Using Windows Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-fatal-exception-error-in-windows-1011-code-0x8007045d/"><u>Fixing Fatal Exception Error in Windows 10/11: Code 0X8007045D</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-online-methods-post-windows-setup/"><u>Getting Online: Methods Post-Windows Setup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-confirm-monetization-accuracy-essential-steps-for-your-yt-channels/"><u>In 2024, Confirm Monetization Accuracy Essential Steps for Your YT Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-windows-the-ultimate-5-optimization-aids/"><u>Maximize Windows: The Ultimate 5 Optimization Aids</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-win-11-sound-experience-with-dolby-atmos/"><u>Streamline Your Win 11 Sound Experience with Dolby Atmos</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-photos-keybindings/"><u>The Ultimate Guide to Windows Photos Keybindings</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-potential-top-5-tools-for-optimized-wins/"><u>Unlocking Potential: Top 5 Tools for Optimized Wins</u></a></li>
-<li><a href="https://win11.techidaily.com/unwanted-rav-antivirus-installation-identify-and-unhook/"><u>Unwanted Rav Antivirus Installation - Identify & Unhook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-3d-video-production-made-easy-free-and-paid-software-options/"><u>Updated 3D Video Production Made Easy Free and Paid Software Options</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-vs-vimeo-exploring-user-experience-variance/"><u>YouTube vs Vimeo Exploring User Experience Variance</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +134,21 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-most-advanced-video-grabbers-for-windows-enthusiasts-for-2024/"><u>[New] The Most Advanced Video Grabbers for Windows Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>[Updated] In 2024, Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quickening-vimeo-content-streams/"><u>[Updated] Quickening Vimeo Content Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/animating-faces-the-guide-to-motion-blur-in-picsart/"><u>Animating Faces The Guide to Motion Blur in Picsart</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-performance-trimming-high-memorycpu-usage-by-news-and-interests-apps-on-windows/"><u>Boosting Performance: Trimming High Memory/CPU Usage by News & Interests Apps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-enable-data-transfer-operations-in-edges-protective-mode-win-11/"><u>Guide: Enable Data Transfer Operations in Edge's Protective Mode, Win 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-snapchat-for-business-success/"><u>In 2024, Mastering Snapchat for Business Success</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-western-digitals-ses-usb-hardware-driver-in-modern-windows-systems-from-v2011/"><u>Installing Western Digital's SES USB Hardware Driver in Modern Windows Systems (From V2011)</u></a></li>
+<li><a href="https://win11.techidaily.com/master-autominimize-windows-woes-no-more/"><u>Master AutoMinimize: Windows Woes No More</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-xbox-stranded-glitch-on-win11/"><u>Overcoming the Xbox Stranded Glitch on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-starting-windows-search-service-problems/"><u>Solutions for Starting Windows Search Service Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-meizu-21-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Meizu 21 Pro Device</u></a></li>
+</ul></div>
+

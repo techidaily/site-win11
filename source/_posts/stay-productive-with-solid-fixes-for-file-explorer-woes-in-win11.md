@@ -1,7 +1,7 @@
 ---
 title: Stay Productive With Solid Fixes For File Explorer Woes in Win11
-date: 2024-09-15T17:22:38.644Z
-updated: 2024-09-16T16:54:35.068Z
+date: 2024-10-20T08:06:02.027Z
+updated: 2024-10-20T23:47:30.468Z
 tags:
   - windows10
   - windows11
@@ -53,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 4. Hit**Apply** followed by**OK** .  
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Your Antivirus Program
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Launch Folder Windows in a Separate Process
 
@@ -76,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run the Windows Memory Diagnostic Tool
@@ -90,14 +90,14 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
- Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
 ## 7\. Troubleshoot in Clean Boot Mode
 
@@ -113,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 * **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can[use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
 * **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 * **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use File Explorer Again Without Any Interruptions
 
@@ -133,5 +140,24 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-how-to-sell-your-brand-through-innovative-youtuber-collaborations-for-2024/"><u>[New] How To Sell Your Brand Through Innovative YouTuber Collaborations for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-detailed-breakdown-visioncraft-editions-capabilities/"><u>[Updated] 2024 Approved Detailed Breakdown VisionCraft Edition's Capabilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-why-does-your-fb-message-feed-show-a-blue-image-decoding-its-purpose/"><u>[Updated] 2024 Approved Why Does Your FB Message Feed Show a Blue Image? Decoding Its Purpose</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-action-screen-recorder-review-for-2024/"><u>[Updated] Action Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixelplayground-comprehensive-review-and-educational-guide-2024/"><u>[Updated] PixelPlayground Comprehensive Review & Educational Guide 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apexs-speedier-setup-game-saved-and-solved/"><u>Apex's Speedier Setup: Game Saved & Solved</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-secrets-of-clearing-blocked-files-using-powershell/"><u>Decoding the Secrets of Clearing Blocked Files Using PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-resolve-commonly-encountered-rainmeter-snags/"><u>Effective Strategies to Resolve Commonly Encountered Rainmeter Snags</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/fixes-and-solutions-how-to-repair-lenovo-novo-keyboard-buttons-on-windows-1187/"><u>Fixes & Solutions: How To Repair Lenovo NOVO Keyboard Buttons on Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-canon-dr-c225-drivers-for-your-windows-operating-system-windows-11108/"><u>Getting Canon DR-C225 Drivers for Your Windows Operating System (Windows 11/10/8)</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-clicks-calm-disabling-mouse-boost-in-win-11/"><u>Keeping Clicks Calm: Disabling Mouse Boost in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-sidestepping-common-file-explorer-blunders/"><u>Pro Tips: Sidestepping Common File Explorer Blunders</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-bypassing-the-pin-lock-on-windows-11/"><u>Quick Guide to Bypassing the PIN Lock on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-broken-outlook-rules-on-windows-machines/"><u>Reviving Broken Outlook Rules on Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-non-operational-google-nearby-sharing-service/"><u>Solutions for Non-Operational Google Nearby Sharing Service</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-4k-video-editing-software-for-2024/"><u>Top 4K Video Editing Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winuac-reinvented-empowering-admins-with-innovative-protocols/"><u>WinUAC Reinvented: Empowering Admins with Innovative Protocols</u></a></li>
+</ul></div>
 

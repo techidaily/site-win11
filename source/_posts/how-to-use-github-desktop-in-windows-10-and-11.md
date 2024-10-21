@@ -1,7 +1,7 @@
 ---
 title: How to Use GitHub Desktop in Windows 10 and 11
-date: 2024-10-13T21:07:51.906Z
-updated: 2024-10-15T18:39:34.444Z
+date: 2024-10-16T11:14:05.960Z
+updated: 2024-10-21T08:03:01.493Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
  All in all, GitHub Desktop helps you adapt the best practices for git through an easy-to-use interface allowing you to take version control of your projects to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install GitHub Desktop on Windows
 
  GitHub Desktop is free to use and available on Windows, macOS, and Ubuntu. You can quickly install GitHub Desktop on Windows 10 and 11 as follows:
@@ -57,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
  Now that you’ve successfully installed GitHub Desktop on your Windows PC, the next step is to sign in using your GitHub account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Sign Into GitHub Desktop on Windows
 
  To start using GitHub Desktop within your projects, you will first have to authenticate and sign in with your GitHub account. If you don’t have a GitHub account,[sign up](https://github.com/join) to get started.
@@ -67,6 +67,14 @@ To add an existing GitHub account to GitHub Desktop:
 2. Within GitHub Desktop, navigate to**File > Options > Accounts** .  
 ![github desktop signin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-desktop-signin-1.jpg)
 3. Select the**Sign in** button based on your account type (GitHub.com for regular users and GitHub Enterprise for enterprise/work accounts).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
 
 ## How to Use GitHub Desktop Like a Pro
@@ -86,13 +94,6 @@ To add an existing GitHub account to GitHub Desktop:
 
 The project should then be accessible within the saved directory.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Create a Branch in GitHub Desktop
 
  Branches are essential in the git workflow and allow you to work on a copy of the main codebase. It ensures experimental and unreliable code does not affect the production version of the codebase. Developers can freely play around in their isolated branch and push code once it’s tested.
@@ -108,13 +109,6 @@ To create a branch in GitHub desktop:
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Commit Using GitHub Desktop on Windows
 
  Now that you’ve learned how to set up your project and create branches in GitHub Desktop let’s look at how you can commit code into your branch.
@@ -124,6 +118,14 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
@@ -134,10 +136,10 @@ To create a branch in GitHub desktop:
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
@@ -159,24 +161,22 @@ To create a branch in GitHub desktop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-larger-visuals-elevating-your-youtube-footage/"><u>[Updated] Larger Visuals Elevating Your YouTube Footage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-flash-freeze-focus-leading-cameras-for-slow-speed-recording/"><u>2024 Approved Flash Freeze Focus Leading Cameras for Slow Speed Recording</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-7-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ancient-aesthetics-public-domain-pieces/"><u>Ancient Aesthetics Public Domain Pieces</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-on-clearing-windows-arp-caches/"><u>Comprehensive Guide on Clearing Windows ARP Caches</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-mechanics-of-mouseclicklock-in-windows-systems/"><u>Deciphering the Mechanics of MouseClickLock in Windows Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/easy-and-free-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc-for-2024/"><u>Easy and Free Ways to Transfer Photos and Videos From an iPhone to a PC for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-visual-issues-windows-11-drivers-guide/"><u>Fix Visual Issues: Windows 11 Drivers Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/free-windows-game-successful-ocm-team-management/"><u>Free Windows Game: Successful OCM Team Management</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-sony-xperia-10-v-frp-by-drfone-android/"><u>Full Guide to Bypass Sony Xperia 10 V FRP</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/get-the-last-epoch-running-on-your-pc-solutions-to-the-2024-bugs-and-glitches/"><u>Get The Last Epoch Running on Your PC: Solutions to the 2024 Bugs and Glitches</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/meeting-mastery-how-to-ensure-your-techs-performance-windows/"><u>Meeting Mastery: How to Ensure Your Tech's Performance (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/notifypcswitchtonightshiftmodewin/"><u>NotifyPC:SwitchToNightShiftModeWin</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-windows-11-ways-to-boost-workflow-and-productivity/"><u>Proven Windows 11 Ways to Boost Workflow and Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-default-functionality-to-windows-11-search/"><u>Restoring Default Functionality to Windows 11 Search</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-solve-palworlds-eos-login-issues/"><u>Troubleshooting Steps: How to Solve Palworld's EOS Login Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-indexing-preferences-in-windows/"><u>Tweaking Indexing Preferences in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-graphic-integration-for-acer-pcs-in-windows-10/"><u>Update Graphic Integration for Acer PCs in Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerated-sound-adjustment-apps-overview/"><u>Accelerated Sound Adjustment Apps Overview</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easing-pro-7s-shimmering-issue/"><u>Easing Pro 7'S Shimmering Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-transform-mp4-files-into-m4a-format-discover-three-simple-methods/"><u>Effortlessly Transform MP4 Files Into M4A Format: Discover Three Simple Methods!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-extensive-insights-deconstructing-the-dji-inspire-1/"><u>In 2024, Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-fixes-for-stuck-game-resolutions-in-windows/"><u>Insightful Fixes for Stuck Game Resolutions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-update-schedules-setting-active-periods-windows-11/"><u>Mastering Update Schedules: Setting Active Periods Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-keys-to-release-verification-holds-during-windows-update/"><u>Nine Keys to Release Verification Holds During Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-stuck-swift-solutions-for-a-smooth-windows-patch/"><u>Opera Stuck? Swift Solutions for a Smooth Windows Patch</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/perfecting-color-the-top-15-gopro-luts-for-filmmaking-for-2024/"><u>Perfecting Color The Top 15 GoPro LUTs for Filmmaking for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-virtual-environment-with-virtualbox-70-win11-procedures/"><u>Secure Your Virtual Environment with VirtualBox 7.0 – Win11 Procedures</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sich-zu-verantworten-deutsche-ausdrucksweisen-erlernen/"><u>Sich Zu Verantworten – Deutsche Ausdrucksweisen Erlernen</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-an-idle-windows-control-panel/"><u>Solutions for an Idle Windows Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-update-issue-0x800f0845/"><u>Steps to Overcome Update Issue - 0X800F0845</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-code-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Tackling Error Code 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-the-tech-race-apples-potential-edge-over-giants-at-wwdc-2024-revealed/"><u>Winning the Tech Race: Apple's Potential Edge Over Giants at WWDC 2024 Revealed</u></a></li>
 </ul></div>
 

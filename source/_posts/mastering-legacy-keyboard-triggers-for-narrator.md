@@ -1,7 +1,7 @@
 ---
 title: Mastering Legacy Keyboard Triggers for Narrator
-date: 2024-09-15T18:16:49.115Z
-updated: 2024-09-16T20:43:18.154Z
+date: 2024-10-18T10:37:05.817Z
+updated: 2024-10-21T11:48:35.030Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
 
@@ -163,6 +170,13 @@ This way, you can switch between the Legacy and Standard layouts.
 | Ctrl + Narrator + Down arrow                | Navigate to first child (when structural navigation is provided)      |
 | Narrator + Q                                | Move to last item in containing area                                  |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
@@ -180,12 +194,22 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-best-face-pixeling-tools-for-privacy/"><u>[Updated] Exploring the Best Face-Pixeling Tools for Privacy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hide-and-seek-photoshop-tips-for-background-blending/"><u>2024 Approved Hide & Seek Photoshop Tips for Background Blending</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-fixes-for-non-responsive-print-screen-on-pcs-running-windows-11-or-10/"><u>Definitive Fixes for Non-Responsive Print Screen on PCs Running Windows 11 or 10</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-the-missing-picture-in-teams/"><u>Fix the Missing Picture in Teams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlimited-outro-options-at-no-expense-online/"><u>In 2024, Unlimited Outro Options at No Expense Online</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-oppo-a18-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A18 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-transformative-soundscape-design-proven-strategies-for-smooth-volume-fading-and-elevating-with-adobe-after-effects-for-2024/"><u>New Transformative Soundscape Design Proven Strategies for Smooth Volume Fading and Elevating with Adobe After Effects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pinnacle-task-organizers-winning-windows-to-dos/"><u>Pinnacle Task Organizers: Winning Windows To-Dos</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-stalled-windows-event-log-service/"><u>Reviving Stalled Windows Event Log Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-gameplay-nintendo-switch-and-mac/"><u>Streamlined Gameplay: Nintendo Switch & Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-pathway-to-premium-pristine-pictures-for-2024/"><u>The Secret Pathway to Premium, Pristine Pictures for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-the-visual-appearance-of-winterm/"><u>Tweaking the Visual Appearance of WinTerm</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unpacking-the-importance-of-routine-security-updates-in-it-infrastructure/"><u>Unpacking the Importance of Routine Security Updates in IT Infrastructure</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-time-service-reset-a-comprehensive-guide/"><u>Windows Time Service Reset: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-gameplay-reasons-to-prefer-windows-over-linux/"><u>Winning Gameplay: Reasons to Prefer Windows Over Linux</u></a></li>
+</ul></div>
 

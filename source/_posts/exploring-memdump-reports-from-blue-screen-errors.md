@@ -1,7 +1,7 @@
 ---
 title: Exploring Memdump Reports From Blue Screen Errors
-date: 2024-10-08T17:00:30.492Z
-updated: 2024-10-15T22:22:09.375Z
+date: 2024-10-19T00:15:14.623Z
+updated: 2024-10-21T11:22:35.208Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  In simple terms, a BSoD memory dump is a file created by Windows whenever a BSoD error occurs, containing logs of what exactly happened. By [locating the dump files](https://www.makeuseof.com/windows-bsod-log-file-location/) and using a kernel debugger, users may debug the memory dump file to determine the true cause of the stop error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Can BSoD Memory Dumps Help You?
 
  BSoD dump files contain information about the memory address, driver, or software module involved in the crash. This in turn can help the user identify the [specific error code of their BSoD](https://www.makeuseof.com/find-stop-codes-and-fix-windows-errors/).
@@ -68,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  One disadvantage of Complete Memory Dumps is that all subsequent Complete Memory Dumps will overwrite the previous ones. This feature was most likely implemented to help prevent filling your computer's memory with too many dump files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Kernel Memory Dump
 
  Unlike Complete Memory Dumps, Kernel Memory Dumps contain all the memory used by the kernel during the time of the crash. Like with the previous type of memory dump, the file size is directly correlated with the system's physical memory. However, it's usually just one-third of the size.
@@ -86,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 `%SystemRoot%\Memory.dmp`
 
  Like with the previous dump file, whenever new Kernel Memory Dumps are generated, the previous ones will be overwritten.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Automatic Memory Dump
 
@@ -101,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Just like Kernel Memory Dumps, newly generated Automatic Memory Dumps will overwrite the previous ones.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Small Memory Dump
 
  The smallest of the kernel-mode dump files, Small Memory Dumps are always limited to exactly 64 KB and require just 64 KB of pagefile.
@@ -120,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  In the event of a new Small Memory Dump being generated, the previous file will not be overwritten. Instead, each Small Memory Dump will be given a different name that will make it easier to distinguish from one another.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Active Memory Dump
 
  Very similar to Complete Memory Dumps, Active Memory Dumps are much smaller since they don't refer to pages that may not be the cause of the BSoD error.
@@ -130,15 +123,22 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 `%SystemRoot%\Memory.dmp`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Choosing the Right Memory Dump for You
 
 ![Lightbulb Idea Making a Choice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/making-a-choice.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There is no one-size-fits-all type of kernel-mode memory dump, as each has its own advantages and disadvantages. Basically, it's all about balancing out file size versus the usefulness of the information on that file.
@@ -157,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Active Memory Dump files are only available on Windows 10 and later, while Automatic Memory Dump files are available on Windows 8 and later.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for Reading and Analyzing BSoD Memory Dumps
 
  Kernel-mode dump files exist so that users may analyze them and find out the root cause of occurring BSoD errors. Fortunately enough, there are several tools that can help with analyzing BSoD Memory Dumps:
@@ -175,6 +168,13 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  WinDbg is a debugging tool developed by Microsoft and designed for the Microsoft Windows operating system. Admittedly, [WinDbg can help troubleshoot many Windows issues](https://www.makeuseof.com/troubleshoot-common-windows-10-issues-windbg/), but most users will generally analyze memory dump files with it.
 
  While it can seem overwhelming at first, with a bit of time and patience, you too can [get started with WinDbg](http://www.makeuseof.com/windbg-windows-10-guide/) and use it to solve most of your computer's issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### BlueScreenView
 
@@ -188,18 +188,18 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 ![WhoCrashed Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/whocrashed-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If user-friendliness is what you're looking for, then you can't get any simpler than WhoCrashed. While the interface may look dated, the information that this tool provides is more than enough to help you find the cause of BSoD errors.
 
  The great thing about WhoCrashed is that it can even find the cause of kernel errors, which are errors that don't usually come accompanied by actual blue screens. Besides, WhoCrashed is great at finding system issues fast, especially if they happen to be driver-related.
 
  Lastly, [analyzing BSoD errors with WhoCrashed](https://www.makeuseof.com/tag/whocrashed-sheds-some-light-on-bsod-errors-windows/) is extremely easy due to how the final analysis results are presented. In fact, in some cases WhoCrashed may even give you suggestions as to what course of action you should take.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## BSoD Memory Dumps Are Great at Helping You Solve BSoD Errors
 
@@ -211,26 +211,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-gif-mastery-10-key-elements-to-perfect-creation/"><u>[New] 2024 Approved GIF Mastery 10 Key Elements to Perfect Creation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>[New] 2024 Approved Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-capture-clarity-strip-away-background-noise/"><u>[New] Capture Clarity Strip Away Background Noise</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-dota-2s-latest-vac-error-effective-strategies-for-account-revival/"><u>Addressing Dota 2'S Latest VAC Error: Effective Strategies for Account Revival</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-digital-engagement-through-tighter-zoomed-scenes/"><u>Enhancing Digital Engagement Through Tighter Zoomed Scenes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-2-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze 2 5Gwith/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-discords-fatal-javascript-issue-on-windows-11-and-11-elite/"><u>How to Correct Discord's Fatal Javascript Issue on Windows 11 & 11 Elite</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-xbox-game-pass-0x00000001-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X00000001 Error in Windows 11 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-fodt-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .fodt file by digital signature</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/making-outdated-pcs-senior-safe-and-comfortable/"><u>Making Outdated PCs Senior-Safe and Comfortable</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-microphone-feedback-in-windows/"><u>Optimizing Microphone Feedback in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-switching-setup-arranging-windows-in-cascade-mode-win1110/"><u>Swift Switching Setup: Arranging Windows in Cascade Mode (Win11/10)</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-restart-and-rejuvenate-freezing-spotify-in-windows-11/"><u>Techniques to Restart and Rejuvenate Freezing Spotify in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-your-steam-experience-halting-abrupt-downloads/"><u>Turbocharge Your Steam Experience: Halting Abrupt Downloads</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -238,3 +218,27 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlined-upload-procedures-for-media-center-videos-to-vimeo-for-2024/"><u>[New] Streamlined Upload Procedures for Media Center Videos to Vimeo for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turn-the-last-scenes-first-with-android/"><u>[New] Turn the Last Scenes First with Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>[Updated] 2024 Approved Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-android-lightroom-app-breakdown-a-complete-review/"><u>2024 Approved Android Lightroom App Breakdown A Complete Review</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-pathway-errors-with-windows-devices/"><u>Addressing Pathway Errors with Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-remedies-to-address-instantaneous-failure-when-adding-a-folder-in-the-windows-onedrive-environment/"><u>Efficient Remedies to Address Instantaneous Failure when Adding a Folder in the Windows OneDrive Environment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f15-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-link-your-windows-product-key-to-a-microsoft-account/"><u>How to Link Your Windows Product Key to a Microsoft Account</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-map-a-network-drive-in-windows-11/"><u>How to Map a Network Drive in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-popularity-stock-images-meme-journey/"><u>In 2024, Exploring Popularity Stock Images' Meme Journey</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-dont-make-these-top-8-mistakes/"><u>Mastering Windows 11: Don't Make These Top 8 Mistakes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-erroneous-non-existing-device-alert-on-win-11/"><u>Overcoming Erroneous Non-Existing Device Alert on Win 11</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor X50 GT</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintessential-4-password-sentinels-of-windows-11-era/"><u>The Quintessential 4 Password Sentinels of Windows 11 Era</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-your-printer-fast-windows-fixes/"><u>Turbocharge Your Printer: Fast Windows Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-key-differences-between-windows-terminal-and-powershell/"><u>Understanding Key Differences Between Windows Terminal and PowerShell</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uniting-cloud-storage-seamless-onedrive-plus-microsoft-login/"><u>Uniting Cloud Storage: Seamless OneDrive + Microsoft Login</u></a></li>
+</ul></div>
+

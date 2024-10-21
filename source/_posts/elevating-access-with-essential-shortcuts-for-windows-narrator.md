@@ -1,7 +1,7 @@
 ---
 title: Elevating Access with Essential Shortcuts for Windows Narrator
-date: 2024-10-08T22:54:03.179Z
-updated: 2024-10-15T21:31:58.048Z
+date: 2024-10-13T23:16:40.136Z
+updated: 2024-10-20T20:08:23.262Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -171,10 +171,10 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -196,24 +196,16 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-monetizing-video-how-much-does-a-single-streamer-earn/"><u>[New] Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-add-captions-to-instagram-videos/"><u>[Updated] 2024 Approved How to Add Captions to Instagram Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-leveraging-social-media-insights-in-market-research/"><u>[Updated] In 2024, Leveraging Social Media Insights in Market Research</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximizing-yt-videos-for-igtv-presence-for-2024/"><u>[Updated] Maximizing YT Videos for IGTV Presence for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ath-m50x-review-top-choice-for-studios/"><u>ATH-M50x Review: Top Choice for Studios</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-seamless-dolby-atmos-setup-in-your-pc/"><u>Expert Tips for Seamless Dolby Atmos Setup in Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-wallpaper-image-storage-on-windows-11/"><u>Exploring Wallpaper Image Storage on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-address-error-code-0x80073cf3-at-microsoft-store-windows-1111/"><u>How to Address Error Code 0X80073CF3 at Microsoft Store, Windows 11/11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-regular-are-youtube-monetization-payments/"><u>In 2024, How Regular Are YouTube Monetization Payments?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>In 2024, Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/increase-productivity-hotkey-hacks-on-your-mouse/"><u>Increase Productivity: Hotkey Hacks on Your Mouse</u></a></li>
-<li><a href="https://win11.techidaily.com/master-github-desktop-usage-for-effective-windows-devops/"><u>Master GitHub Desktop Usage for Effective Windows DevOps</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-use-of-microsofts-security-tool-canary/"><u>Mastering the Use of Microsoft's Security Tool Canary</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-11-clipchamp-setup-tips-and-tricks/"><u>Seamless Windows 11 ClipChamp Setup Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reinstate-working-state-of-amd-graphics-suite/"><u>Steps to Reinstate Working State of AMD Graphics Suite</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-of-15-viral-youtube-opener-templates-for-2024/"><u>The Ultimate List of 15 Viral YouTube Opener Templates for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-excel-opening-issue-with-notepad-windows/"><u>Troubleshoot: Excel Opening Issue with Notepad Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-mastering-the-removal-of-error-3-from-nvidia-opengl/"><u>Win10/11: Mastering the Removal of Error 3 From Nvidia OpenGL</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>[New] 2024 Approved Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-winning-with-windows-videos-tips-for-enhancing-vimeo-feeds-for-2024/"><u>[New] Winning with Windows Videos Tips for Enhancing Vimeo Feeds for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-3d-viewing-on-your-android-device/"><u>Advanced 3D Viewing on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-blank-login-screen-in-windows-11-and-11/"><u>How to Fix a Blank Login Screen in Windows 11 & 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-windows-default-settings-on-reboot/"><u>Quick Tips for Windows Default Settings on Reboot</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-absence-of-printmanagement-on-your-system/"><u>Remedying the Absence of 'Printmanagement' On Your System</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-drivers-enhance-gaming-experience-in-windows-71011/"><u>RX 570 Drivers: Enhance Gaming Experience in Windows 7/10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dreaded-code-39-error-in-your-windows-device/"><u>Solving the Dreaded Code 39 Error in Your Windows Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-anttech-at-127-review-elevating-your-tv-experience-with-free-broadcast-channels-and-a-touch-of-style/"><u>The AntTech AT-127 Review: Elevating Your TV Experience with FREE Broadcast Channels and a Touch of Style</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-your-windows-pc-into-a-distributed-transcoding-powerhouse-with-tdarr/"><u>Turn Your Windows PC Into a Distributed Transcoding Powerhouse With Tdarr</u></a></li>
 </ul></div>
 

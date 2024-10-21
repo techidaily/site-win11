@@ -1,7 +1,7 @@
 ---
 title: Winning Against Apex Legends Crashes in Windows 11
-date: 2024-09-11T20:14:17.092Z
-updated: 2024-09-17T07:04:18.072Z
+date: 2024-10-17T12:17:25.215Z
+updated: 2024-10-21T02:23:06.736Z
 tags:
   - windows10
   - windows11
@@ -39,31 +39,16 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Close Unnecessary Background Running Applications
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
-
- Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
-
- If there are plenty of such applications running in the background, then your system becomes prone to connectivity and crashing issues. The solution here is simple -- close as many background apps as possible before launching Apex Legends.
-
- To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
-
-## 2\. Is Your CPU Overclocked?
-
- Overclocking your CPU is one of the many things you can do to get a better gaming performance on your computer.[CPU overclocking](https://www.makeuseof.com/tag/cpu-overclocking/) can do wonders, provided you offer good ventilation and cooling.
-
- However, overclocking doesn't have the same impact on all the games. In some, it can reap great results, but in others, it can be the main culprit behind serious issues like constant crashing.
-
- So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
-
-## 3\. Change the EasyAntiCheat Priority
-
- EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
-
- The solution, in this case, is to lower the priority of EasyAntiCheat while Apex Legends is running in the background. To do that, open the Task Manager and choose the**Details** option from the left sidebar. Then, locate and right-click on the EasyAntiCheat service. Click on**Set Priority** and then choose**Low** from the context menu.
-
-![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
 <!-- affiliate ads begin -->
 <span id="1983573">
@@ -77,6 +62,42 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Looking at the taskbar, you might feel that your computer has no applications open, but there may be plenty running in the background. Google Chrome, Microsoft Teams, and your graphics card software are some of the many programs that start running as soon as you boot your computer.
+
+ If there are plenty of such applications running in the background, then your system becomes prone to connectivity and crashing issues. The solution here is simple -- close as many background apps as possible before launching Apex Legends.
+
+ To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Is Your CPU Overclocked?
+
+ Overclocking your CPU is one of the many things you can do to get a better gaming performance on your computer.[CPU overclocking](https://www.makeuseof.com/tag/cpu-overclocking/) can do wonders, provided you offer good ventilation and cooling.
+
+ However, overclocking doesn't have the same impact on all the games. In some, it can reap great results, but in others, it can be the main culprit behind serious issues like constant crashing.
+
+ So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 3\. Change the EasyAntiCheat Priority
+
+ EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
+
+ The solution, in this case, is to lower the priority of EasyAntiCheat while Apex Legends is running in the background. To do that, open the Task Manager and choose the**Details** option from the left sidebar. Then, locate and right-click on the EasyAntiCheat service. Click on**Set Priority** and then choose**Low** from the context menu.
+
+![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
  Next, switch to Apex Legends and check if you still experience the crash.
 
@@ -106,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check the Apex Legends Files for Corruption
 
  Apex Legends will likely crash on your computer if its files are corrupted. To detect and remove corruption, you'll have to verify the integrity of game files.
@@ -122,13 +136,6 @@ Here's how to do it in the EA app:
 1. Launch the EA app and choose**My Collection** from the left sidebar.
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
@@ -149,6 +156,13 @@ Here's how to do it in the EA app:
 
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
  Windows Defender Firewall might interfere with the Apex Legends launcher and cause it to crash. To stop this from happening, you'll have to allow the launcher to run through the Windows Defender Firewall. Here's how:
@@ -161,13 +175,6 @@ Here's how to do it in the EA app:
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
 
@@ -188,5 +195,20 @@ Here's how to do it in the EA app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematicwave-win8-software/"><u>2024 Approved CinematicWave Win8 Software</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-doodles-your-desktop-art-journey-in-windows-11/"><u>Digital Doodles: Your Desktop Art Journey in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-gateway-to-managing-printers-in-windows/"><u>Exploring the Gateway to Managing Printers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-customize-win11-connection-protocols/"><u>How to Customize Win11 Connection Protocols</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-100-killer-facebook-bios-to-make-profile-attractive2/"><u>In 2024, 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284964994-iphoneandroiddvd/"><u>IPhone/AndroidにジャニーズDVDをインポートする究極ガイド - パソコンなしでも実行可能</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/music-box/"><u>Music Box」の確実なダウンロード手順について学ぶ：詳細マニュアルとエラー対策</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-taskbar-time-displays-in-win-11/"><u>Personalizing Taskbar Time Displays in Win 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/redbox-files-for-bankruptcy-ending-its-streaming-service-dream/"><u>Redbox Files for Bankruptcy, Ending Its Streaming Service Dream</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-failed-system-call-in-windows-devices/"><u>Resolving 'Failed System Call' In Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-the-comprehensive-tools-of-microsoft-store-themes/"><u>Utilizing the Comprehensive Tools of Microsoft Store Themes</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-mastodon-really/"><u>What Is Mastodon Really?</u></a></li>
+</ul></div>
 

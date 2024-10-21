@@ -1,7 +1,7 @@
 ---
 title: Overhauling Deactivated Thermal Control on WinPC
-date: 2024-10-14T20:22:31.844Z
-updated: 2024-10-15T16:02:35.861Z
+date: 2024-10-18T00:36:32.094Z
+updated: 2024-10-21T00:50:50.628Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,10 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +74,16 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,10 +95,10 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -114,19 +120,21 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quick-steps-to-proficient-gif-design/"><u>[New] Quick Steps to Proficient GIF Design</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-maximize-reach-essential-youtube-seo-tools-unlocked/"><u>[Updated] 2024 Approved Maximize Reach Essential YouTube SEO Tools Unlocked</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-embark-on-a-google-meet-journey/"><u>[Updated] Embark on a Google Meet Journey</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-harnessing-lut-power-for-free-high-quality-colorization-for-2024/"><u>[Updated] Harnessing LUT Power for Free, High-Quality Colorization for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-quick-content-in-a-facebook-frame/"><u>[Updated] In 2024, Quick Content in a Facebook Frame</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-demystifying-screen-recording-insights-from-showmore-experts/"><u>2024 Approved Demystifying Screen Recording Insights From ShowMore Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android-users-learn-how-to-enable-voice-control-with-chatgpts-alternate-voicegpt/"><u>Android Users, Learn How to Enable Voice Control with ChatGPT's Alternate - VoiceGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/fundamental-insights-into-windows-snoozer-functionality/"><u>Fundamental Insights Into Window's Snoozer Functionality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-devices-name-conflicts-with-ease-windows-guide/"><u>Navigate Through Devices Name Conflicts with Ease (Windows Guide)</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-dropbox-performance-lessening-cpu-overuse-in-windows/"><u>Optimizing Dropbox Performance: Lessening CPU Overuse in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-windows-11-app-opening/"><u>Turbocharge Windows 11 App Opening</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-reversal-made-simple-a-beginners-guide-to-final-cut-pro/"><u>Updated In 2024, Video Reversal Made Simple A Beginners Guide to Final Cut Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-terminal-and-powershell-examining-their-unique-traits/"><u>Windows Terminal and PowerShell: Examining Their Unique Traits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-magnifying-youtube-visual-experience/"><u>[New] Magnifying YouTube Visual Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-steps-to-engage-with-youtubes-comment-section-for-2024/"><u>[Updated] Essential Steps to Engage with YouTube's Comment Section for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>[Updated] In 2024, Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-the-world-of-hulu-recordings-windowsmaciosandroid/"><u>[Updated] In 2024, Navigating the World of Hulu Recordings Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-nubia-frp-bypass-by-drfone-android/"><u>About Nubia FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unresponsive-task-issues-in-windows-os/"><u>Addressing 'Unresponsive Task' Issues in Windows OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypass-typical-slip-ups-in-your-chatgpt-prompts-learn-what-to-avoid/"><u>Bypass Typical Slip-Ups in Your ChatGPT Prompts – Learn What to Avoid</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-windows-defender-error-0x80004004/"><u>Deciphering & Correcting Windows Defender Error 0X80004004</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-hot-40i-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Hot 40i Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-how-to-fix-wsl-error-code-4294967295-on-your-pc/"><u>Mastering How to Fix WSL Error Code: 4294967295 on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-pc-performance-installing-easy-to-use-enhancement-tool-for-windows/"><u>Maximizing PC Performance: Installing Easy-to-Use Enhancement Tool for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-synapse-control-on-1011-windows-os/"><u>Reinstating Synapse Control on 10/11 Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-disconnect-in-windows-remote-play-feature/"><u>Solving Disconnect in Windows Remote Play Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-drawing-apps-for-windows-10/"><u>The 7 Best Drawing Apps for Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-social-media-sensations-most-liked-and-watched-amazon-originals-for-2024/"><u>The Social Media Sensations Most Liked & Watched Amazon Originals for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/king-the-secrets-of-your-personalized-youtube-playlists-for-2024/"><u>Unlocking the Secrets of Your Personalized Youtube Playlists for 2024</u></a></li>
 </ul></div>
 

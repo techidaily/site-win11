@@ -1,7 +1,7 @@
 ---
 title: Steps to Correct Temp Directory Errors in Win11
-date: 2024-10-09T16:12:09.737Z
-updated: 2024-10-15T17:18:54.600Z
+date: 2024-10-15T20:10:33.333Z
+updated: 2024-10-21T09:04:42.672Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Read-Only Access
 
  Windows usually creates temporary files for programs, including the one that you're trying to install. If the temp folder is set to read-only, Windows can't save files in it and will throw an error.
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 ![Temp folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/temp-properties-1.jpg)
 7. Click**Apply > OK** .
 8. Restart your computer and check if the problem is now solved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Compress the EXE File You're Trying to Run
 
@@ -84,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
  If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
@@ -103,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
@@ -130,17 +124,24 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-cultivating-a-thoughtful-approach-to-youtube-feedback-for-2024/"><u>[New] Cultivating a Thoughtful Approach to YouTube Feedback for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-potential-of-quantum-hdr-imaging/"><u>[Updated] Harnessing the Potential of Quantum HDR Imaging</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-webcam-mastery-unique-ideas-explored/"><u>2024 Approved Webcam Mastery Unique Ideas Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgptplus-your-guide-to-language-proficiency-journey/"><u>ChatGPT+: Your Guide to Language Proficiency Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-adjusting-smartfilter-on-modern-windows-version/"><u>Easy Guide: Adjusting SmartFilter on Modern Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/end-the-struggle-winning-over-chrome-file-upload-snags/"><u>End the Struggle: Winning Over Chrome File Upload Snags</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-your-grandparents-existing-windows-pc-more-accessible/"><u>How to Make Your Grandparents' Existing Windows PC More Accessible</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-universal-strategies-for-screen-capturing-on-diverse-devices/"><u>In 2024, Universal Strategies for Screen Capturing on Diverse Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnect-microsoft-outlook-with-windows-heres-how/"><u>Reconnect Microsoft Outlook with Windows, Here's How</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/reconstruir-archivos-dll-desaparecidos-en-tu-sistema-de-windows-11-una-guia-completa-sobre-13-estrategias-distintas/"><u>Reconstruir Archivos DLL Desaparecidos en Tu Sistema De Windows 11: Una Guía Completa Sobre 13 Estrategias Distintas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-global-language-diversity/"><u>Tailoring ChatGPT for Global Language Diversity</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-are-ray-ban-stories-facebook-explains-and-pricing-details/"><u>What Are Ray-Ban Stories? Facebook Explains & Pricing Details</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-unexpectedstoreexception-windows-11-error/"><u>[Fixed] UNEXPECTED_STORE_EXCEPTION Windows 11 Error</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-best-tools-ranked-editors-to-elevate-reels-for-2024/"><u>[Updated] Instagram's Best Tools Ranked Editors to Elevate Reels for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-30-inspirational-ideas-fusing-animated-themes-and-social-media-for-2024/"><u>[Updated] Top 30 Inspirational Ideas Fusing Animated Themes and Social Media for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-revenue-breakdown-how-much-money-stem-from-each-watcher/"><u>2024 Approved Revenue Breakdown How Much Money Stem From Each Watcher</u></a></li>
+<li><a href="https://win11.techidaily.com/5-hacks-for-accessing-windows-repair-options/"><u>5 Hacks for Accessing Windows Repair Options</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-video-driver-crash-on-win1110/"><u>Addressing Video Driver Crash on Win11/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-and-speedy-download-for-pioneer-dj-ddjsx2-interface-software/"><u>Easy and Speedy Download for Pioneer DJ DDJSX2 Interface Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formatos-gratuitos-para-la-conversion-de-archivos-mjpeg-en-linea-por-movavi/"><u>Formatos Gratuitos Para La Conversión De Archivos Mjpeg en Línea Por Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-recognize-and-stop-facebook-fraudsters/"><u>How to Recognize and Stop Facebook Fraudsters</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oneplus-11r-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from OnePlus 11R to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-pin-update-guide/"><u>Mastering Windows PIN Update Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-graphics-restoration-on-latest-windows-oses/"><u>Simplifying Graphics Restoration on Latest Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-mkv-conversion-to-mp4-in-windows-systems/"><u>Simplifying MKV Conversion to MP4 in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-issues-with-ccleaner-not-working-on-windows-1011/"><u>Solving Issues with CCleaner Not Working on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-prepare-win11-in-vmware-17-player/"><u>Step-by-Step Guide to Prepare Win11 in VMware 17 Player</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-unseen-power-in-photo-erasing-on-windows/"><u>The Unseen Power in Photo Erasing on Windows</u></a></li>
 </ul></div>
 

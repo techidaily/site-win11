@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Filer: Strive for a Streamlined Experience"
-date: 2024-10-09T18:21:41.171Z
-updated: 2024-10-15T18:38:21.881Z
+date: 2024-10-13T17:15:30.101Z
+updated: 2024-10-21T12:12:01.692Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 
  That's it. You might need to restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
  If the compact view option is missing in the command bar, you can use Folder options to get the work done. There are [multiple ways to open the Folder option](https://www.makeuseof.com/windows-10-open-folder-options/), but the quickest is to use the Run dialog box.
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
@@ -61,31 +68,24 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -120,22 +120,21 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-guide-to-using-telegram-web-effectively/"><u>[New] 2024 Approved The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-supercharged-communication-advanced-features-in-whatsapp/"><u>[New] In 2024, Supercharged Communication Advanced Features in WhatsApp</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reel-in-quality-essential-audio-devices-for-podcast-producers/"><u>[New] Reel in Quality Essential Audio Devices for Podcast Producers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-walkers-wonderland-curating-the-top-8-zombie-video-experiences/"><u>[Updated] In 2024, Walkers' Wonderland Curating the Top 8 Zombie Video Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enhancing-engagement-on-video-calls-using-snap-features/"><u>2024 Approved Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-hues-unleashed-mastery-over-video-editing-colors/"><u>2024 Approved Hues Unleashed Mastery over Video Editing Colors</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-fix-for-microsoft-store-error-on-win1111/"><u>Guiding Fix for Microsoft Store Error on Win11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-realign-windows-task-managers-cpu-utilization-figures/"><u>How to Realign Windows Task Manager's CPU Utilization Figures</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-directory-for-free-visual-treasures/"><u>In 2024, Ultimate Directory for Free Visual Treasures</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-a-new-era-of-usability-top-6-recommendations-for-the-windows-11-taskbar/"><u>Initiating a New Era of Usability: Top 6 Recommendations for the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-missing-files-issue-on-windows-11/"><u>Overcoming Missing Files Issue on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-image-snapshots-in-win11-ui/"><u>Personalize Image Snapshots in Win11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-windows-interaction-the-rise-of-ai/"><u>Redefining Windows Interaction: The Rise of AI</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reactivate-a-stuck-download-section-on-windows/"><u>Strategies to Reactivate a Stuck Download Section on Windows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-insiders-guide-to-tiktok-on-apple-and-windows-systems-for-2024/"><u>The Insider's Guide to TikTok on Apple and Windows Systems for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-potential-increasing-pin-size-safely-on-windows/"><u>Unlock Potential: Increasing Pin Size Safely on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-honing-the-craft-of-question-design-in-interviews/"><u>[New] Honing the Craft of Question Design in Interviews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixlr-editor-tutorial-deep-dive/"><u>[New] Pixlr Editor Tutorial Deep Dive</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-application-failures-due-to-net-not-installed/"><u>Addressing Application Failures Due to .NET Not Installed</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-excessive-cpu-load-by-dropbox-app-on-windows-devices/"><u>Addressing Excessive CPU Load by Dropbox App on Windows Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/blending-past-memories-with-instagrams-vivid-filters/"><u>Blending Past Memories with Instagram's Vivid Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pc-with-w11-taskbar-adjustments/"><u>Elevate Your PC with W11 Taskbar Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11-drag-and-drop-failures-now/"><u>Fix Windows 11 Drag-and-Drop Failures Now</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-15-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 15 Safe and Legal</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-record-gameplay-using-fbx-game-recorder/"><u>In 2024, How To Record Gameplay Using FBX Game Recorder</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-for-canon-mx-series-printing-obtain-your-mx492-drivers-here/"><u>Latest Updates for Canon MX Series Printing - Obtain Your MX492 Drivers Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-9-methods-for-accessing-windows-11s-audio-control-panel/"><u>Navigate 9 Methods for Accessing Windows 11'S Audio Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-in-gameplay-implementing-retroarchs-shader-effects/"><u>Time Travel in Gameplay: Implementing RetroArch's Shader Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overwatch-2-renderer-issues-on-windows/"><u>Troubleshooting Overwatch 2 Renderer Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-persistent-windows-boot-issue-to-bios-mode/"><u>Troubleshooting Persistent Windows Boot Issue to BIOS Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-to-windows-11-success/"><u>Unlocking the Secrets to Windows 11 Success</u></a></li>
 </ul></div>
 

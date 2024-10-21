@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Pixels on Windows 10/11 Screens
-date: 2024-09-11T17:57:02.312Z
-updated: 2024-09-16T16:11:20.725Z
+date: 2024-10-14T23:11:42.178Z
+updated: 2024-10-20T16:05:24.139Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,25 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 
 Now you can get scribbling on the Windows desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
@@ -61,6 +75,19 @@ Now you can get scribbling on the Windows desktop.
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
@@ -94,14 +121,14 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
- You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -120,5 +147,24 @@ Now you can get scribbling on the Windows desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-the-essence-of-your-youtube-community/"><u>[New] In 2024, Grasping the Essence of Your YouTube Community</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[New] Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-all-inclusive-iptv-delivery-systems/"><u>[Updated] All-Inclusive IPTV Delivery Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlining-the-process-keeping-track-of-your-fb-communication/"><u>2024 Approved Streamlining the Process Keeping Track of Your FB Communication</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-12-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 12 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-nvidia-opengl-driver-error-code-3-in-windows-10-and-11/"><u>How to Fix the NVIDIA OpenGL Driver Error Code 3 in Windows 10 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-8-plus-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 8 Plus Easily?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-silent-to-clear-the-ultimate-guide-to-professional-audio-recording/"><u>In 2024, Silent to Clear The Ultimate Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-ram-failure-signals-in-windows-crashes/"><u>Interpreting RAM Failure Signals in Windows Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/organized-notekeeping-raising-sticky-notes-for-optimal-os-use/"><u>Organized Notekeeping: Raising Sticky Notes for Optimal OS Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iples-of-filming-inspirational-daily-living-documentaries-for-2024/"><u>Principles of Filming Inspirational Daily Living Documentaries for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-infuse-your-desktop-menu-with-portables/"><u>Quickly Infuse Your Desktop Menu with Portables</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-default-battery-usage-protocol/"><u>Restoring Window's Default Battery Usage Protocol</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-heic-to-jpeg-conversion-for-windows-users/"><u>Simplified Heic to JPEG Conversion for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ethical-boundaries-chatgpt-and-harmful-programming/"><u>The Ethical Boundaries: ChatGPT and Harmful Programming</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-windows-photo-vault-spot/"><u>Uncover Window's Photo Vault Spot</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-iscsi-the-basics-explained/"><u>Understanding Windows iSCSI: The Basics Explained</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying and Correcting Windows Alt Defects (53 Characters)
-date: 2024-10-10T16:00:10.387Z
-updated: 2024-10-15T22:38:46.512Z
+date: 2024-10-17T18:31:36.484Z
+updated: 2024-10-21T02:18:28.502Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
  After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Tweak the Registry Editor
 
  If the above solutions do not work, it seems that your registry has an entry that prevents you from adding Unicode characters. In that case, you may need to enable Unicode character input.
@@ -72,13 +79,6 @@ To get started, follow these steps:
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -88,10 +88,10 @@ HKEY_CURRENT_USER\Control Panel\Input Method
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Remove the Problematic Application
@@ -103,13 +103,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Try a Different Keyboard Layout
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
@@ -118,6 +111,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
@@ -130,9 +130,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
-5. Click**Hide all Microsoft services** , then click**Disable all** .  
-![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
-6. Click the**Apply** button to save the changes.
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
@@ -140,6 +137,10 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Click**Hide all Microsoft services** , then click**Disable all** .  
+![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
+6. Click the**Apply** button to save the changes.
 
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
@@ -164,16 +165,19 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-a-personalized-auditory-experience-on-ios/"><u>[New] In 2024, Crafting a Personalized Auditory Experience on iOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-sonicarchive-pro-downloads-and-analysis/"><u>2024 Approved SonicArchive Pro Downloads & Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/defeating-read-only-mode-on-your-windows-folders/"><u>Defeating Read-Only Mode on Your Windows Folders</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-sound-premium-headphone-promotions-for-march-2024-by-cnet/"><u>Discover the Ultimate Sound: Premium Headphone Promotions for March 2024 by CNET</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-errors-with-winservicesexe/"><u>How to Resolve Errors with Winservices.exe</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-profile-management-name-alteration-in-w11/"><u>Master Profile Management: Name Alteration in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-error-0x800700e1-a-step-by-step-guide-for-windows-11/"><u>Overcoming Error 0X800700E1: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unreliable-clipboard-functionality-win-11/"><u>Tackling Unreliable Clipboard Functionality Win 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-voice-modification-tools-for-youtube-creators-for-2024/"><u>Top Voice Modification Tools for YouTube Creators for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-to-rectify-cygwin1dll-errors-on-your-computer/"><u>Troubleshooting Steps to Rectify Cygwin1.dll Errors on Your Computer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-vanquish-virtual-spectators-boosting-youtube-traffic/"><u>[New] In 2024, Vanquish Virtual Spectators Boosting YouTube Traffic</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-making-text-pop-in-instagram-stories-with-simple-animations-for-2024/"><u>[New] Making Text Pop in Instagram Stories with Simple Animations for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channeling-wealth-through-beauty-online-platforms/"><u>[Updated] Channeling Wealth Through Beauty Online Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>2024 Approved For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-100-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor 100</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-procedure-for-total-disabling-of-windows-subsystem/"><u>Detailed Procedure for Total Disabling of Windows Subsystem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unstoppable-blinking-of-your-computers-pointer/"><u>How to Resolve Unstoppable Blinking of Your Computer's Pointer?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>In 2024, Capturing Every Angle Top Choice Pro 360°Cameras of 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-level-powershell-setup-with-admin-privileges-in-windows-11/"><u>Mastery Level: PowerShell Setup with Admin Privileges in Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigate-through-the-best-and-brightest-of-netgear-routers/"><u>Navigate Through The Best and Brightest of Netgear Routers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-hyper-v-setup-for-modern-windows-11/"><u>Navigating Hyper-V Setup for Modern Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-transition-dance-mastering-enterexit-rituals-of-terminals-focused-state/"><u>Navigating the Transition Dance: Mastering Enter/Exit Rituals of Terminal's Focused State</u></a></li>
+<li><a href="https://win11.techidaily.com/the-most-impressive-windows-10-sketch-software-lineup/"><u>The Most Impressive Windows 10 Sketch Software Lineup</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-spiritual-command-center-of-windows-11-os/"><u>Unlocking The Spiritual Command Center of Windows 11 OS</u></a></li>
 </ul></div>
 

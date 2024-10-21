@@ -1,7 +1,7 @@
 ---
 title: The Future Shaped by AI at Microsoft's Hub
-date: 2024-09-15T05:26:08.986Z
-updated: 2024-09-16T18:01:17.162Z
+date: 2024-10-19T10:56:17.393Z
+updated: 2024-10-20T19:05:09.820Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
  The Microsoft Store hosts apps like Luminar Neo and Lensa, allowing [AI-based creative photo editing](https://www.makeuseof.com/best-free-ai-online-photo-editors/). Similarly, you can even build resumes with AI tools such as Kickresume.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Microsoft Integrating AI Into the Microsoft Store?
 
  Artificial Intelligence (AI) is changing our daily lives as we know it. Powerful AI models such as OpenAI’s GPT4 have evolved several tasks already, such as text generation, translation, web searching, and more.
@@ -43,13 +50,18 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
  According to [Windows Blogs](https://blogs.windows.com/windowsdeveloper/2023/05/23/welcoming-ai-to-the-microsoft-store-on-windows/), the Microsoft Store will no longer be just a place to download apps, but instead, it will aim to guide users on becoming more productive and achieving their tasks in a better way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Microsoft Store Gets An AI Upgrade
 
  We’re excited to see how the Microsoft Store experience will change for Windows users now that Microsoft is integrating new AI features. To make things even better, Windows 11 is also getting a centralized AI assistant called Windows Copilot.
 
  Read on as we discuss why Microsoft is adapting AI and what the all-new AI Hub is all about.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -59,16 +71,26 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
       data-full-width-responsive="true"></ins>
     
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-smooth-operations-leading-windows-phones-videos/"><u>[Updated] 2024 Approved Smooth Operations Leading Windows Phones Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>[Updated] From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-simplifying-igtv-access-on-computers-top-download-methods-unveiled-for-2024/"><u>[Updated] Simplifying IGTV Access on Computers Top Download Methods Unveiled for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-to-streamer-effortlessly-reviewed/"><u>2024 Approved Screen to Streamer, Effortlessly Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-virtual-camera-alternatives-discover-manycam-and-competing-live-streaming-tools/"><u>Best Virtual Camera Alternatives: Discover ManyCam and Competing Live Streaming Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-win11-bluescreen-with-these-effective-11-tactics/"><u>Eliminate Win11 Bluescreen with These Effective 11 Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-prompts-unveiling-in-the-crypto-sphere/"><u>Essential Prompts Unveiling in the Crypto Sphere</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-handle-the-rare-pink-screen-of-death-on-pcs/"><u>How to Correctly Handle the Rare Pink Screen of Death on PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>In 2024, The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-sense-of-device-interconnectivity-with-nearby/"><u>Making Sense of Device Interconnectivity with Nearby</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-web-interface-of-windows-11/"><u>Mastering the Web Interface of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-data-preservation-in-the-realm-of-epic-games/"><u>Navigating Data Preservation in the Realm of Epic Games</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-strategies-for-documenting-uac-prompts-in-windows/"><u>Proven Strategies for Documenting UAC Prompts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-non-active-system-temp-directive/"><u>Reinstating Non-Active System Temp Directive</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-zerox-issue-0x80049dd3-in-windows-11-writting/"><u>Resolving Zerox Issue 0X80049DD3 in Windows 11' Writting</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-render-error-initialization-failure-patch-of-2021/"><u>Solutions for 'Render Error - Initialization Failure' Patch of 2021</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essential-guide-to-a-bespoke-youtube-channel-url-for-2024/"><u>The Essential Guide to a Bespoke YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-reactivating-windows-firewall/"><u>Troubleshooting Guide: Reactivating Windows Firewall</u></a></li>
+</ul></div>
 

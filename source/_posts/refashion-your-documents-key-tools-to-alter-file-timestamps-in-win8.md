@@ -1,7 +1,7 @@
 ---
 title: "Refashion Your Documents: Key Tools to Alter File Timestamps in Win8"
-date: 2024-09-14T20:01:52.343Z
-updated: 2024-09-16T18:53:01.826Z
+date: 2024-10-15T16:49:17.515Z
+updated: 2024-10-21T06:01:25.868Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 **Download** : TimeStamp Changer for[Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. BulkFileChanger
 
 ![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Attribute Changer is a bit different from the other tools, but it’s a bit convenient. It allows you to change the date and time of your files through File Explorer’s context menu.
 
  To get started, download and install Attribute Changer. From there, right-click on the relevant file or folder and select**Change Attributes** (this option has an “AC” symbol next to it).
@@ -69,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
  Before you edit your files with this tool, you’ll have to configure a few settings first. To get started, open the NewFile Time app and click the**Add the files via drag & drop** drop-down menu. By default, the "Add Files" and "Add Folders" options will be selected. If you want to include subfolders, tick the**Include Subfolder** option.
@@ -86,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 **Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. AttributeMagic
 
 ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
 
@@ -109,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
  To use the "Date and Time Changer" feature, open File & Folder Tools and click the**calendar icon** at the top of the screen. Next, click the**Add File(s)** button and then pick a relevant file on your PC. You can also drag and drop your files onto the tool if you want.
@@ -127,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 ## 7\. Bulk Rename Utility
 
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
@@ -149,6 +142,19 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
  To use this tool, drag and drop a file onto the middle pane of Advanced Renamer. Next, click the**Add method** button in the top-left corner of the screen and select the**Timestamp** option.
@@ -156,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
  From there, tick the**Created date and time** ,**Accessed date and time** , or the**Modified date and time** box. Finally, enter your preferred date and time in the bottom-left corner of the screen and press**Enter** .
 
 **Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changing Your Files' Created/Modified Dates Is Easy
 
@@ -176,5 +189,26 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>[New] 2024 Approved Effortless Integration Posting Twitter Vids on Instagram Profile</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-best-top-5-zero-cost-windows-screen-recorder-tools/"><u>[New] Best Top 5 Zero-Cost Windows Screen Recorder Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-hottest-25-minds-in-the-digital-age/"><u>[New] Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-4-windows-webp-viewers/"><u>Discover the Ultimate 4 Windows WebP Viewers</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-performance-the-power-of-dxvk-for-windows-games/"><u>Dive Into Performance: The Power of DXVK for Windows Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/does-image-smoothing-streamline-the-creative-process-for-2024/"><u>Does Image Smoothing Streamline the Creative Process for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-tackling-chrome-profile-troubles-on-pcs/"><u>Expert Advice: Tackling Chrome Profile Troubles on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-stuck-arrows-on-pc-solutions-beyond-repair/"><u>Fix Stuck Arrows on PC: Solutions Beyond Repair</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fix-your-quicktime-recordings-fast-solving-the-silent-audio-issue/"><u>Fix Your QuickTime Recordings Fast: Solving the Silent Audio Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-started-bluetooth-on-ios-explained-for-first-time-iphone-owners/"><u>Getting Started: Bluetooth on iOS Explained for First-Time iPhone Owners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-resolution-drone-flights-a-mi-examination/"><u>High-Resolution Drone Flights A MI Examination</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-some-update-files-arent-signed-error-in-windows-1110/"><u>How to Fix the “Some Update Files Aren’t Signed” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-the-touch-keyboard-default-open-position-in-windows-11/"><u>How to Reset the Touch Keyboard Default Open Position in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-modern-workflow-with-the-asus-vivobook-s-15/"><u>Mastering Modern Workflow with the ASUS Vivobook S 15</u></a></li>
+<li><a href="https://blog-min.techidaily.com/now-with-direct-access-av1-codec-for-both-hardware-and-software-encoding-options/"><u>Now with Direct Access: AV1 Codec for Both Hardware and Software Encoding Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-uses-top-6-ways-to-empower-your-tech-with-code-conductor/"><u>Revolutionary Uses - Top 6 Ways to Empower Your Tech with Code Conductor</u></a></li>
+<li><a href="https://win11.techidaily.com/steady-streams-verifying-stable-windows-connectivity/"><u>Steady Streams: Verifying Stable Windows Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-passage-for-windows-wow-freezes/"><u>Swift Passage for Windows WoW Freezes</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/tutoriel-pratique-sur-comment-acheter-et-installer-une-cle-usb-de-sauvegarde/"><u>Tutoriel Pratique Sur Comment Acheter Et Installer Une Clé USB De Sauvegarde</u></a></li>
+</ul></div>
 

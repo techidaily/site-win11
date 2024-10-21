@@ -1,7 +1,7 @@
 ---
 title: Streamline Microsoft's Companion Functionality in Windows via ViveTool
-date: 2024-10-10T21:29:53.173Z
-updated: 2024-10-15T21:39:19.750Z
+date: 2024-10-20T02:57:53.953Z
+updated: 2024-10-21T12:17:41.417Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
  To enable Windows Copilot using ViveTool, you'll need to install Windows 11 Dev build 23493 or later.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Windows Copilot Using ViveTool
@@ -55,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 ![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you've successfully installed ViveTool, you're halfway through enabling the Windows Copilot on your PC. All you have to do now is enable some IDs using Command Prompt and update the Microsoft Edge browser. Below is the step-by-step guide on enabling those feature IDs and updating the browser.
@@ -80,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
  When Windows Copilot becomes available for everyone, you will no longer need ViveTool to enable it. You'll be able to enable it from the Taskbar page in the Settings app. You'll find the **Copilot** toggle in the Taskbar items on the Taskbar page.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Copilot Makes Things Easier... but It's Not Nearly as Powerful as Bing Chat
@@ -94,25 +88,6 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-youtube-thumbnails-capture-your-top-views/"><u>[Updated] 2024 Approved Essential YouTube Thumbnails Capture Your Top Views</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-make-money-fast-on-reddit-top-13-easy-strategies-for-beginners/"><u>[Updated] 2024 Approved Make Money Fast on Reddit Top 13 Easy Strategies for Beginners</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-pictureperfect-tips-for-instagrams-image-sizing/"><u>2024 Approved PicturePerfect Tips for Instagram's Image Sizing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/craft-the-perfect-visual-appeal-switching-themes-in-windows-11-unveiled/"><u>Craft the Perfect Visual Appeal: Switching Themes in Windows 11 Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-taskbar-with-numeric-keys-icons-on-win11s-tray/"><u>Enhancing Taskbar with Numeric Keys Icons on Win11's Tray</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-through-xbox-mic-recognition-issues-on-windows-11/"><u>Guiding Through Xbox Mic Recognition Issues on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-slow-microsoft-edge-on-windows-10-and-windows-11/"><u>How to Fix a Slow Microsoft Edge on Win­dows 10 and Win­dows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-13-mini-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 13 mini and iPad</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-customization-changing-your-phones-tune/"><u>IPhone Customization Changing Your Phone's Tune</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-equilibrium-reversing-the-windows-peak-energy-spike/"><u>Restoring Equilibrium: Reversing the Windows Peak Energy Spike</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-multi-device-note-management-in-win11/"><u>Streamlining Multi-Device Note Management in Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/symphonic-syncopation-merging-melodies-and-movements-in-windows/"><u>Symphonic Syncopation Merging Melodies and Movements in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-recommended-tools-for-downloading-content-from-myvidster-a-comprehensive-guide/"><u>Top Recommended Tools for Downloading Content From MyVidster: A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -120,3 +95,21 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-video-game-youtube-production-mastery/"><u>[New] 2024 Approved Elevate Your Video Game YouTube Production Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capturing-snapchat-on-screen-a-step-by-step-guide/"><u>[New] In 2024, Capturing Snapchat on Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-supreme-selection-ideal-sierra-dvd-and-video-apps/"><u>[New] In 2024, Supreme Selection Ideal Sierra Dvd & Video Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transitioning-from-standard-to-custom-thumbnails-in-twitter-videos/"><u>[Updated] 2024 Approved Transitioning From Standard to Custom Thumbnails in Twitter Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-7-free-screen-recorders-for-old-computers/"><u>[Updated] In 2024, Prime 7 Free Screen Recorders for Old Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-your-digital-talk-leading-web-based-text-to-speech-apps-for-chrome/"><u>[Updated] Mastering Your Digital Talk Leading Web-Based Text-to-Speech Apps for Chrome</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>[Updated] Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-m14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy M14 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-crash-error-0x800704cf-in-windows/"><u>Quick Fix for Microsoft Store Crash: Error 0X800704CF in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-tips-for-access-denied-on-nvidia-panel/"><u>Quick-Fix Tips for Access Denied on NVIDIA Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-repairing-code-0x0000004e-on-pcs/"><u>Step-by-Step: Repairing Code 0X0000004E on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-savers-a-guide-to-win11/"><u>Tailoring Screen Savers: A Guide to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-rectifying-the-network-not-reachable-error-in-windows-11/"><u>Winfixer: Rectifying the 'Network Not Reachable' Error in Windows 11</u></a></li>
+</ul></div>
+

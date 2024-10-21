@@ -1,7 +1,7 @@
 ---
 title: "Triggering SFC Scan on Windows: A Step-by-Step Guide"
-date: 2024-10-12T21:07:28.375Z
-updated: 2024-10-15T16:24:10.971Z
+date: 2024-10-17T21:41:23.171Z
+updated: 2024-10-21T06:26:16.528Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Happens After I Run the System File Checker?
 
  After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.
@@ -48,21 +55,7 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -88,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -105,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -114,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll see that the log file contains entries from the System File Checker only.
@@ -129,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -151,21 +151,21 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-home-cinematic-wonders-fastest-tips-and-tricks/"><u>[New] 2024 Approved Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ree-and-easy-building-attractive-youtube-intros-without-expense-for-2024/"><u>[New] Free & Easy Building Attractive YouTube Intros without Expense for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-robloxs-error-code-262/"><u>Demystifying Roblox's Error Code 262</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-method-for-windows-11-dialer-activation/"><u>Fast-Track Method for Windows 11 Dialer Activation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-unavailable-sleep-feature-on-windows-11/"><u>Fixing the Unavailable 'Sleep' Feature on Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-xs-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone XS Without Apple ID Password?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unlock-your-pc-without-a-screensaver/"><u>How to Unlock Your PC Without a Screensaver</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>In 2024, Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-harnessing-your-creative-power-with-ipad-for-time-lapses/"><u>In 2024, Harnessing Your Creative Power with iPad for Time-Lapses</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-google-pixel-8-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Google Pixel 8 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-music-service-streaming-channels/"><u>Leading Music Service Streaming Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnect-your-co-pilot-in-ws11s-journey-through-sky/"><u>Reconnect Your Co-Pilot In WS11's Journey Through Sky</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-black-screen-in-windows-10-and-11-swiftly/"><u>Resolve Black Screen in Windows 10 & 11 Swiftly</u></a></li>
-<li><a href="https://win11.techidaily.com/steering-through-failed-connections-to-nvidia-software/"><u>Steering Through Failed Connections to Nvidia Software</u></a></li>
-<li><a href="https://win11.techidaily.com/the-efficiency-of-visual-notes-strategies-from-the-obsidian-toolkit/"><u>The Efficiency of Visual Notes: Strategies From the Obsidian Toolkit</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/unlocking-the-power-of-gpt-4-making-cutting-edge-ai-accessible-to-all/"><u>Unlocking the Power of GPT-4: Making Cutting-Edge AI Accessible to All</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/"><u>[New] In 2024, A Comprehensive Guide to Implementing & Evaluating FB In-Stream Ads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-iphone-vr-videos-unveiled-a-quick-how-to/"><u>[New] In 2024, IPhone VR Videos Unveiled A Quick How-To</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>[Updated] A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-standard-studio-or-beta-progress/"><u>[Updated] Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-your-ip-command-prompt-guide-for-pcs/"><u>Discover Your IP: Command Prompt Guide for PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/erasing-a-profile-a-guide-to-page-blocking-on-facebook/"><u>Erasing a Profile: A Guide to Page Blocking on Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/evaluating-spend-on-youtube-campaigns/"><u>Evaluating Spend on YouTube Campaigns</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-window-11-apps-essential-tips/"><u>Fast-Track Window 11 Apps: Essential Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-reno-9a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Reno 9A Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/no-drive-letters-investigating-the-causes-and-remedies-for-windows-users/"><u>No Drive Letters: Investigating the Causes & Remedies for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-0x800704cf-error-from-microsoft-store/"><u>Overcoming the 0X800704CF Error From Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenating-computers-without-the-windows-lockdown/"><u>Rejuvenating Computers Without the Windows Lockdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-androidios-weddings-ultimate-countdown-timer-apps-for-2024/"><u>Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-gratis-otimizadores-de-video-com-ia-melhores-escolhas-para-pc-e-mac/"><u>Top 10 Gratis Otimizadores De Vídeo Com IA: Melhores Escolhas Para PC E Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-full-spatial-capability-with-windows-11-settings/"><u>Unleash Full Spatial Capability with Windows 11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-power-management-tools-for-windows-devices/"><u>Unlocking Power Management Tools for Windows Devices</u></a></li>
 </ul></div>
 

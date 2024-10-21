@@ -1,7 +1,7 @@
 ---
 title: How to Rectify LoadLibrary Failure Code 87
-date: 2024-10-10T16:16:41.862Z
-updated: 2024-10-15T22:19:42.899Z
+date: 2024-10-15T04:22:19.117Z
+updated: 2024-10-21T00:32:58.677Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
  If the error persists, disconnect your external displays connected to your system via HDMI or DisplayPort. Then, perform a restart and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update the Graphics Device Driver
@@ -49,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
  To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Driver Roll Back
@@ -77,6 +83,13 @@ To uninstall a display adapter driver:
 6. Once done, restart your PC.
 
  You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Rename the atig6pxx.dll File
 
@@ -109,22 +122,15 @@ attrib -r -s atig6pxx.dll`
 7. If all the commands are successfully executed, you can rename the atig6pxx.dll file without the permission error.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair Windows Image with DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Corrupt system files are another cause that can trigger the LoadLibrary failed error. Fortunately, Windows comes with a built-in system image repair tool to repair the system image.
 
@@ -171,20 +177,24 @@ To uninstall the app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-images-with-snapchat/"><u>[New] 2024 Approved Unleash the Full Potential of Your Images with Snapchat</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-tips-for-effective-chroma-keying-in-kinemaster-for-2024/"><u>Advanced Tips for Effective Chroma Keying in KineMaster for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-steps-for-removing-pre-set-subtitles-in-video-formats-like-mp4-mkv-and-avi/"><u>Easy Steps for Removing Pre-Set Subtitles in Video Formats Like MP4, MKV & AVI</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unearth-hidden-keys-for-old-and-new-windows-editions/"><u>How to Unearth Hidden Keys for Old and New Windows Editions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-compreehsive-review-of-the-ultra-hd-actioncamera/"><u>In 2024, A Compreehsive Review of the Ultra-HD ActionCamera</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-m365-code-30015-26-glitch-on-windows-systems/"><u>Overcoming M365 Code 30015-26 Glitch on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-how-to-boot-your-windows-11-pc-into-safe-mode/"><u>Quick Fixes: How to Boot Your Windows 11 PC Into Safe Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-issues-with-default-app-settings-on-windows-11/"><u>Resolving Issues with Default App Settings on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-your-device-connection-problems-fixing-unresponsive-keyboards-and-mice-on-windows-7/"><u>Resolving Your Device Connection Problems: Fixing Unresponsive Keyboards & Mice on Windows 7</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-conquering-unidentified-obs-studio-errors/"><u>Swift Solution: Conquering Unidentified OBS Studio Errors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-p40plus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel P40+ for Parents | Dr.fone</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-rated-windows-10-analysis-essential-video-guides-you-cant-miss/"><u>Top Rated Windows 10 Analysis: Essential Video Guides You Can't Miss</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-racing-game-anthology-the-top-five/"><u>Ultimate Racing Game Anthology The Top Five</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-silent-windows-irq-noise/"><u>Unveiling the Secrets to Silent Windows' IRQ Noise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-odins-vengeance-the-ragnarok-trilogy/"><u>[Updated] 2024 Approved Odin's Vengeance The Ragnarok Trilogy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigating-the-best-html5-video-player-landscape/"><u>[Updated] In 2024, Navigating the Best HTML5 Video Player Landscape</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-dashlane-premium-at-half-price-exclusive-sale-alert-from-zdnet/"><u>Buy Dashlane Premium at Half Price! Exclusive Sale Alert From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-microsoft-family-safetys-core-functions/"><u>Decoding Microsoft Family Safety's Core Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-why-your-windows-11-icons-are-diminishing/"><u>Discover Why Your Windows 11 Icons Are Diminishing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-sound-blaster-z-drivers-for-your-windows-10-pc/"><u>Easy Installation of Sound Blaster Z Drivers for Your Windows 10 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-alternatives-how-to-access-imessage-on-windows/"><u>Exploring Alternatives: How to Access iMessage on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-voice-typing-failure-in-windows-11-error-code-0x80049dd3/"><u>Fixing Voice Typing Failure in Windows 11 (Error Code: 0X80049DD3)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-i-enable-adobe-flash-player-on-chrome-firefox-opera-and-edge/"><u>How Do I Enable Adobe Flash Player on Chrome, Firefox, Opera and Edge?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-14-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi 14 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/make-ms-word-defaultly-use-reading-pane-for-email-attachments-no-editing/"><u>Make MS Word Defaultly Use Reading Pane for Email Attachments, No Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/1719293621682-mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC.</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-windows-11-efficiency-with-these-5-reliability-checks/"><u>Maximize Your Windows 11 Efficiency with These 5 Reliability Checks</u></a></li>
+<li><a href="https://win11.techidaily.com/non-light-no-problem-master-five-cures-for-backlit-keyboard-failure/"><u>Non-Light, No Problem: Master Five Cures for Backlit Keyboard Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-launch-failures-fixing-windows-speech-recognition/"><u>Overcoming Launch Failures: Fixing Windows Speech Recognition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pros-and-cons-of-amazon-fire-vs-samsung-which-one-fits-your-needs/"><u>Pros & Cons of Amazon Fire Vs. Samsung - Which One Fits Your Needs?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackle-faulty-drivers-for-game-stability/"><u>Tackle Faulty Drivers for Game Stability</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-top-15-best-free-tools-to-convert-dvds-on-a-mac-expert-picks/"><u>The Top 15 Best Free Tools to Convert DVDs on a Mac - Expert Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-the-leading-smart-glasses-innovations-unveiled/"><u>Ultimate Selection: The Leading Smart Glasses Innovations Unveiled</u></a></li>
 </ul></div>
 
