@@ -1,7 +1,7 @@
 ---
 title: Efficient Multilingual Translation with Windows Shortcut Hotkeys
-date: 2024-10-17T05:28:00.852Z
-updated: 2024-10-21T11:45:49.117Z
+date: 2024-10-24T20:34:48.446Z
+updated: 2024-10-26T18:49:24.944Z
 tags:
   - windows10
   - windows11
@@ -48,18 +48,18 @@ thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
 
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
 
@@ -67,26 +67,13 @@ thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With DeepL
@@ -104,22 +91,35 @@ thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85
 
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
@@ -146,20 +146,16 @@ thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-process-for-final-deactivation-of-an-account-on-instagram/"><u>[Updated] 2024 Approved Unlocking the Process for Final Deactivation of an Account on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-dive-into-dollars-15-online-stock-market-experts/"><u>[Updated] In 2024, Dive Into Dollars 15 Online Stock Market Experts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-spectral-skillset-professionals-pathway-to-change/"><u>[Updated] In 2024, Spectral Skillset Professionals' Pathway to Change</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/anticipating-apples-revolutionary-vision-pro-release-in-feb-a-new-era-of-smart-shopping-experience/"><u>Anticipating Apple's Revolutionary Vision Pro Release in Feb: A New Era of Smart Shopping Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/booting-into-safety-6-ways-to-enter-windows-11s-safe-mode/"><u>Booting Into Safety: 6 Ways to Enter Windows 11'S Safe Mode</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-clear-view-features-of-the-xgps-battlecruiser-ii-mid-tower-computer-case/"><u>Exploring the Clear View Features of the XGP's Battlecruiser II Mid-Tower Computer Case</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-driver-installation-guide-for-brother-mfc-380dw-on-pcs-with-windows-os/"><u>Latest Driver Installation Guide for Brother MFC-#380DW on PCs with Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-xpatch-fixes-for-error-0x80073712/"><u>Mastering Windows XPatch Fixes for Error 0X80073712</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-performance-and-functionality-with-alomwares-tools/"><u>Optimize Performance & Functionality with AlomWare's Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-missing-windows-storage-access/"><u>Regain Missing Windows Storage Access</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/simplifying-spanish-verb-forms-and-tenses/"><u>Simplifying Spanish Verb Forms & Tenses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/solution-guide-overcoming-problems-with-game-initialization-and-ensuring-data-integrity/"><u>Solution Guide: Overcoming Problems with Game Initialization and Ensuring Data Integrity</u></a></li>
-<li><a href="https://win11.techidaily.com/traversing-through-system-failsafe-files-after-blue-screen/"><u>Traversing Through System Failsafe Files After Blue Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-esd-and-its-transformation-into-iso-format-for-pcs/"><u>Understanding ESD and Its Transformation Into ISO Format for PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-writers-of-aural-narratives/"><u>[New] In 2024, Elite Writers of Aural Narratives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-iphone-video-production-secrets-for-high-quality-shoots/"><u>[New] Top 8 iPhone Video Production Secrets for High-Quality Shoots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-echoes-in-280-characters-viral-video-stories/"><u>[Updated] In 2024, Echoes in 280 Characters Viral Video Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artistic-excellence-foremost-ios-art-tools/"><u>Artistic Excellence Foremost iOS Art Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensible-guide-to-clear-unlisted-hardware-errors-windows/"><u>Comprehensible Guide to Clear Unlisted Hardware Errors, WIndows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-popular-tv-episodes-legally-onto-your-iphone-at-no-cost/"><u>Download Popular TV Episodes Legally Onto Your iPhone at No Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-low-light-windows-11-issues-with-these-tricks/"><u>Fix Low-Light Windows 11 Issues with These Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-swapping-screen-order-in-os/"><u>Guide to Swapping Screen Order in OS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-24-hour-heavyweights-top-10-most-watched-on-yt/"><u>In 2024, 24 Hour Heavyweights Top 10 Most Watched on YT</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-productivity-the-leading-task-managers-for-windows-11-and-11/"><u>Streamline Productivity: The Leading Task Managers for Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-savings-612-annual-windows-10-lifetime/"><u>Ultimate Savings: $6.12 Annual Windows 10 Lifetime</u></a></li>
 </ul></div>
 

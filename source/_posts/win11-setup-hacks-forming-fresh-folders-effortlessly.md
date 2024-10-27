@@ -1,7 +1,7 @@
 ---
 title: "Win11 Setup Hacks: Forming Fresh Folders Effortlessly"
-date: 2024-10-18T07:00:34.300Z
-updated: 2024-10-21T01:22:07.073Z
+date: 2024-10-23T21:38:47.524Z
+updated: 2024-10-27T07:30:58.022Z
 tags:
   - windows10
   - windows11
@@ -48,16 +48,10 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a New Folder With a Keyboard Shortcut
@@ -69,13 +63,6 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
@@ -94,20 +81,27 @@ To create a new folder using File Explorer's menu:
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Folders in Windows 11 Quickly
@@ -129,22 +123,20 @@ To create a new folder using File Explorer's menu:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-7-affordable-tiktok-video-editing-software-mac/"><u>[New] Top 7 Affordable TikTok Video Editing Software (Mac)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>[Updated] 2024 Approved Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-multi-channel-mastery-coordinated-content-consumption/"><u>[Updated] Multi-Channel Mastery Coordinated Content Consumption</u></a></li>
-<li><a href="https://win11.techidaily.com/11-different-ways-to-uninstall-software-in-windows-11/"><u>11 Different Ways to Uninstall Software in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-enable-telnet-in-windows-11-and-11/"><u>3 Ways to Enable Telnet in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-prints-with-microsofts-shielded-browsing/"><u>Activating Prints with Microsoft's Shielded Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-strategies-for-extending-shutdown-duration-in-windows-10/"><u>Advanced Strategies for Extending Shutdown Duration in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/automating-printer-removal-on-win11-devices/"><u>Automating Printer Removal on Win11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-remote-procedure-call-mishaps-in-windows/"><u>Avoiding Remote Procedure Call Mishaps in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-already-in-use-errors-and-unique-device-naming/"><u>Banish 'Already in Use' Errors and Unique Device Naming</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-into-windows-passwords-the-11-easiest-ways-to-open-credential-manager/"><u>Breaking Into Windows Passwords: The 11 Easiest Ways to Open Credential Manager</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eliminate-distracting-amber-alerts-on-your-android-phone-with-these-simple-steps/"><u>Eliminate Distracting Amber Alerts on Your Android Phone with These Simple Steps</u></a></li>
-<li><a href="https://solve-info.techidaily.com/expert-tips-for-successfully-cloning-a-dual-boot-configuration-onto-an-ssd/"><u>Expert Tips for Successfully Cloning a Dual Boot Configuration Onto an SSD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-stop-windows-10-update-completely/"><u>How to Stop Windows 10 Update Completely</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-privacy-filter-concealing-visual-details-in-media/"><u>In 2024, The Privacy Filter Concealing Visual Details in Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-tips-on-producing-high-quality-facebook-video-for-2024/"><u>[New] Expert Tips on Producing High-Quality Facebook Video for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-prime-collection-of-pc-screen-capture-tools-win11-for-2024/"><u>[New] The Prime Collection of PC Screen Capture Tools (Win11) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-try-these-free-online-tempo-trackers-today/"><u>[New] Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pixel-perfection-portfolio-best-animation-transformation-tools/"><u>[Updated] In 2024, Pixel Perfection Portfolio Best Animation Transformation Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehending-pagefilesys-its-role-and-impact-on-performance/"><u>Comprehending Pagefile.sys: Its Role and Impact on Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/merging-windows-and-linux-features/"><u>Merging Windows and Linux Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-13t-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi 13T Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-robotic-silence-spacebar-sound-saviors-in-windows/"><u>Reverse Robotic Silence: Spacebar Sound Saviors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-money-with-smart-purchases-of-windows-11-deals/"><u>Saving Money with Smart Purchases of Windows 11 Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-mkv-to-mp4-format-change-on-pcs/"><u>Streamline: MKV to MP4 Format Change on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-overcoming-server-issues-hindering-win-1111-store-functionality/"><u>Swift Solutions: Overcoming Server Issues Hindering Win 11/11 Store Functionality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-significant-effect-of-focusing-on-miles-morales-in-the-latest-spider-man-game/"><u>The Significant Effect of Focusing on Miles Morales in the Latest Spider-Man Game</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-capture-pro-for-windows-10-ultimate-quality/"><u>Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-storage-strategies-from-chaos-to-clarity/"><u>Windows Storage Strategies: From Chaos to Clarity</u></a></li>
 </ul></div>
 

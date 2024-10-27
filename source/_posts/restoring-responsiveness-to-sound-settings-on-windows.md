@@ -1,0 +1,217 @@
+---
+title: Restoring Responsiveness to Sound Settings on Windows
+date: 2024-10-21T07:55:09.398Z
+updated: 2024-10-27T02:15:31.925Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Restoring Responsiveness to Sound Settings on Windows
+excerpt: This Article Describes Restoring Responsiveness to Sound Settings on Windows
+keywords: Set Windows Sounds,Adjust System Volume,Restore Sound Control,Revive Audio Responsiveness,Fix Volume Settings,Tweak Sound Preferences,Regain Windows Sound Response
+thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c64c0456c40360dd20bfbffb.jpeg
+---
+
+## Restoring Responsiveness to Sound Settings on Windows
+
+ Sometimes, your audio level won't change when you drag the volume bar’s slider. Sometimes, you'll notice that the volume gets stuck at a 100 percent level. Consequently, you can only adjust the volume with the sound controls in media players or browsers.
+
+ Is the volume control slider not working on your Windows PC? If so, this is how you can fix the volume control slider not working in Windows.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Run the Playing Audio Troubleshooter
+
+ Windows has a Playing Audio troubleshooter that’s there to help you resolve sound-related issues. So, try running that troubleshooter first to see if it offers any potential fixes for the volume control slider not working. You can open and run the Playing Audio troubleshooter like this:
+
+1. To open Settings, simultaneously press the**Win + I** keys.
+2. Select**System** \>**Troubleshoot** to access troubleshooting navigation options.
+3. Click**Other trouble-shooters** to reach a list of troubleshooting utilities.
+4. Select**Run** for the Playing Audio troubleshooter shown there.  
+![The Run option for the Playing Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playing-audio-troubleshooter.jpg)
+5. Then select to apply all fixes offered within the Playing Audio troubleshooter.  
+![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Scan and Repair System Files
+
+ The volume control slider might not work on your PC because of system file corruption. So, run a System File Checker scan to check for and repair corrupted files. This guide to[running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to repair corrupted system files.
+
+![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-file-checker.jpg)
+
+## 3\. Restart the Windows Explorer Process
+
+ Sometimes the volume control freezes because of File Explorer issues. So, restarting the Explorer process might fix the volume control not working for some users. Restart Explorer as follows:
+
+1. Open Task Manager, which you can access with the**Ctrl** +**Shift** +**Esc** keyboard shortcut.
+2. Scroll down the**Processes** tab to find Windows Explorer.
+3. Select the Windows Explorer process.  
+![The Windows Explorer process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-option.jpg)
+4. Click**Restart** in the bottom right corner of the**Processes** tab.
+
+## 4\. Start or Restart Windows Audio Service
+
+ Restarting the Windows Audio service is a potential resolution that users confirm can fix the volume control slider. Some users may need to start that service if it’s not already running. This is how you can start or restart the Windows Audio Service:
+
+1. Press**Win + S** to open Windows Search.
+2. Type**services** into Windows Search and click on the**Services** result shown in the search tool.
+3. Double-click**Windows Audio** to open the settings for that service.  
+![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-audio.jpg)
+4. Open the**Startup type** menu to select an**Automatic** option for the service.
+5. Select Windows Audio’s**Start** button if the service isn’t running. If Windows Audio is running, restart that service instead by clicking**Stop** and**Start** in the properties window.  
+![The Automatic option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/automatic-option.jpg)
+6. Press**Apply** and**OK** to set the new Windows Audio service options.
+
+## 5\. Change the Scale Setting
+
+ Changing the scale is a slightly curious potential fix for the volume control slider not working. However, some users have said that setting the display scale to 125 percent fixed volume control not working for them. So, try changing the**Scale** setting like this:
+
+1. [Open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and select the**System** category or tab in that app.
+2. Click**Display** to access the**Scale** option.
+3. Select the**125%** option on the**Scale** drop-down menu. Or change the**Scale** setting to a different**100%** or**150** value if 125% is already selected.  
+![The Scale option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-scale-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Update the Audio Device Driver
+
+ A faulty or outmoded audio device driver on your PC could be causing the volume control issue. To remedy that, try updating your PC’s audio device driver.
+
+ The most straightforward way to do that is to utilize the best driver updater software like Driver Booster. Such software will detect an antiquated or faulty sound driver on your PC and enable you to update it. Check out[how to update Windows, apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) for more information.
+
+ However, some users have said they’ve fixed the volume control with Device Manager’s Update Driver tool. Those users selected an existing high-definition audio driver already on their PCs. This is how you can update the sound driver like that:
+
+1. First, press**Win + X** to open the Power User menu.
+2. Select the menu’s**Device Manager** shortcut.
+3. Click the arrow for extending the**Sound, video and game controllers** category.
+4. Right-click High Definition Audio to select its**Update driver** option.
+5. Select**Browse** **my computer for drivers** option.  
+![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
+6. Click the**Let me** **pick** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The Let me pick option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/let-me-pick-option.jpg)
+7. Select High Definition Audio and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The sound driver selection box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/driver-selection.jpg)
+8. Click**Yes** to install the selected audio driver.
+9. Exit Device Manager and restart your desktop/laptop.
+
+## 7\. Reinstall Your PC’s Audio Device Driver
+
+ Reinstall the audio device driver if there isn’t a newer one available. You can reinstall that device driver as follows:
+
+1. Start Device Manager as outlined in the previous resolution.
+2. Then double-click the**Sound** category inside the Device Manager window.
+3. Click**High Definition Audio** with the right mouse button and select**Uninstall device** .  
+![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-device-option2.jpg)
+4. Select**Uninstall** to confirm that action. Also, click the**Delete the driver for this device** checkbox if that option is available.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button.jpg)
+5. Bring up the Windows Start menu and select to restart the PC from there. Windows will reinstall a sound driver after the restart.
+6. Or you can reinstall device drivers by clicking the**Scan for hardware changes** option in Device Manager without restarting.
+
+## 8\. Disable Absolute Volume Control by Editing the Registry
+
+ This potential resolution is specifically for fixing the volume control slider not working with Bluetooth speakers. The Absolute Volume feature can cause the volume control to stop working with incompatible Bluetooth devices. Users with Bluetooth speakers have confirmed disabling Absolute Volume by editing a CT registry key resolves that issue.
+
+ Our guide about[disabling Absolute Volume on Windows](https://www.makeuseof.com/windows-10-absolute-volume-enable-disable/#:~:text=Go%20to%20HKEY%5FLOCAL%5FMACHINE%20%3E%20SYSTEM%20%3E%20ControlSet001,Restart%20your%20computer.) includes full instructions for how to apply this potential fix.
+
+## 9\. Reinstall Windows With an In-Place Upgrade
+
+ If the volume control slider still isn’t working after going through the fixes above, there could be a deeper issue that only reinstalling (or resetting) Windows will resolve. You can reinstall the OS and preserve apps and user files by performing an in-place upgrade. So, try reinstalling Windows as covered in our guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) .
+
+![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-setup.jpg)
+
+ Resetting Windows is a similar troubleshooting method to an in-place upgrade that will restore the platform to default settings. However, you can’t select to preserve all the apps you’ve installed within the "Reset this PC" tool. This article about[factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) tells you how to utilize the "Reset this PC" utility.
+
+![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Adjust the Audio Level With the Volume Control Slider Again on Windows
+
+ It’s undoubtedly an annoyance when the Windows volume control slider stops working even though you can still change sound levels within third-party software. Applying the potential solutions covered here will almost certainly fix that volume control slider for most users. With that issue resolved, you can adjust the volume with the control slider in the Windows 11/10 system tray again.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-easy-change-overs-at-your-fingertips-the-best-10-websites/"><u>[New] 2024 Approved Easy Change-Overs at Your Fingertips The Best 10 Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-free-melodies-a-guide-for-youtube-producers/"><u>[New] 2024 Approved Mastering Free Melodies A Guide for YouTube Producers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlock-youtube-ad-revenue-recent-policy-insights/"><u>[Updated] 2024 Approved Unlock YouTube Ad Revenue Recent Policy Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-ai-technology-differentiating-factors/"><u>Dissecting AI Technology: Differentiating Factors</u></a></li>
+<li><a href="https://win11.techidaily.com/highlighting-the-unique-aspects-of-ai-machines/"><u>Highlighting the Unique Aspects of AI Machines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-switch-making-your-graphic-style-a-sticker-on-every-platform-for-2024/"><u>Master the Switch Making Your Graphic Style a Sticker on Every Platform for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/prepare-to-be-wowed-ifa-2023-laptop-roundup/"><u>Prepare to Be Wowed: IFA 2023 Laptop Roundup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-steps-overcoming-the-playback-failed-dilemma/"><u>Quick Troubleshooting Steps: Overcoming the 'Playback Failed' Dilemma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recharge-aging-computers-without-windows-os/"><u>Recharge Aging Computers without Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-addressing-pin-verification-problems-on-w11w10-pcs/"><u>Steps for Addressing PIN Verification Problems on W11/W10 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-simplify-excessive-tasks-on-windows/"><u>Strategies to Simplify Excessive Tasks on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-key-to-microsoft-user-registration/"><u>Streamlining Windows Key to Microsoft User Registration</u></a></li>
+<li><a href="https://win11.techidaily.com/the-cure-for-the-unstable-cursor-on-windows-10-pcs/"><u>The Cure for the Unstable Cursor on Windows 10 PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-manor-lords-pc-stability-problems-a-guide/"><u>Troubleshooting Manor Lords PC Stability Problems: A Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleash-your-devices-full-potential-with-the-superior-kootek-cooler-pad/"><u>Unleash Your Device's Full Potential with the Superior Kootek Cooler Pad!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-create-split-screen-videos-for-free-online-and-offline-editors/"><u>Updated Create Split-Screen Videos for Free Online and Offline Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-simplified-from-virtualbox-v6x-to-version-70-on-w11-pcs/"><u>Upgrading Simplified: From VirtualBox v6.x to Version 7.0 on W11 PCs</u></a></li>
+</ul></div>
+

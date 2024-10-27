@@ -1,7 +1,7 @@
 ---
 title: "Window Essentials: Incorporating 'This PC' On Your Screen"
-date: 2024-09-09T23:14:43.136Z
-updated: 2024-09-17T08:59:07.994Z
+date: 2024-10-21T01:41:37.299Z
+updated: 2024-10-26T18:34:23.672Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easily Add the "This PC" Icon to Your Desktop
 
  Windows 11 doesn't display the "This PC" icon on the desktop by default, so we have to add it manually. Hopefully, the above steps will help you add this icon to your desktop and make accessing your drives much more straightforward. Taking this step will significantly enhance your productivity. If you decide to clean up your desktop in the future, follow the same steps and disable it again.
@@ -66,12 +73,26 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dive-into-time-lapse-shooting-gopro-unveiled/"><u>[Updated] In 2024, Dive Into Time-Lapse Shooting GoPro Unveiled</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726026699812-dvd/"><u>「DVD情報をパソコンに転送するための４つの最新技術解説」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-play-anywhere-anytime-the-ultimate-collection-of-the-best-gb-advance-emulators-on-pcs/"><u>2024 Approved Play Anywhere, Anytime The Ultimate Collection of the Best GB Advance Emulators on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-offline-tools-for-windows-updates/"><u>Essential Offline Tools for Windows Updates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-by-tom-your-ultimate-hardware-guide/"><u>Expert Insights on Gadgets by Tom - Your Ultimate Hardware Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/explore-the-world-of-video-calls-hangouts-for-android-for-2024/"><u>Explore the World of Video Calls Hangouts for Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fond-memories-fresh-look-windows-1198-makeover/"><u>Fond Memories, Fresh Look: Windows 11/98 Makeover</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-14-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 14 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-frame-it-right-essential-composition-rules-for-youtube-filmmaking/"><u>In 2024, Frame It Right Essential Composition Rules for YouTube Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-magix-image-handling-insights-reviewed/"><u>In 2024, MAGIX Image Handling Insights Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-bluetooth-device-only-outputting-sound/"><u>Overcoming Windows Bluetooth Device - Only Outputting Sound</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y100a-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y100A? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/power-up-your-pc-elevate-performance-with-the-taskbar/"><u>Power-Up Your PC: Elevate Performance with the Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-renaming-the-powerrename-experience/"><u>Reimagine Renaming: The PowerRename Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-current-login-failed-window-error/"><u>Troubleshooting Current Login Failed Window Error</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-roblox-error-262-quickly/"><u>Troubleshooting Roblox Error 262 Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-mouse-gesture-controls-in-microsofts-edge-browser/"><u>Unlocking Mouse Gesture Controls in Microsoft's Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/winshift-stuck-heres-how-to-tackle-it/"><u>WinShift Stuck? Here's How to Tackle It.</u></a></li>
+</ul></div>
 

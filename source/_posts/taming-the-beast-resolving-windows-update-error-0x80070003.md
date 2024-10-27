@@ -1,7 +1,7 @@
 ---
 title: "Taming the Beast: Resolving Windows Update Error 0X80070003"
-date: 2024-09-12T05:37:46.705Z
-updated: 2024-09-17T09:50:35.145Z
+date: 2024-10-22T01:33:15.510Z
+updated: 2024-10-27T04:49:35.555Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Delete the Contents of the DataStore Folder
 
  The DataStore folder in Windows is a log file that stores information about all the updates installed in the system. This folder is located in the SoftwareDistribution folder, which is a directory of update-related information in Windows.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  Once the folder is deleted, open the Settings app and try installing the updates again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run System Scans
 
  The next thing you can do is scan the system for potential issues. The best way to do this is by using built-in system utilities like the System File Checker and DISM.
@@ -72,6 +86,13 @@ Here is all that you need to do:
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Dism /Online /Cleanup-Image /ScanHealth`  
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
@@ -81,19 +102,6 @@ Here is all that you need to do:
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Repair the Update Components
 
@@ -126,10 +134,10 @@ net start appidsvc`
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Missing Update Files Back on Windows
@@ -149,5 +157,20 @@ net start appidsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-adding-borders-to-videos/"><u>[Updated] 2024 Approved Mastering Instagram Adding Borders to Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-proiphone-photo-techniques-for-beginners/"><u>2024 Approved Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ryzen-graphics-and-processor-drivers-for-pcs-begin-your-free-installation/"><u>AMD Ryzen Graphics & Processor Drivers for PCs - Begin Your Free Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-gpu-load-effective-wm-tweaks-for-win11/"><u>Cutting Down GPU Load: Effective WM Tweaks for Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturecrafter-chronicles-your-2023-software-digest/"><u>In 2024, CaptureCrafter Chronicles Your 2023 Software Digest</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/dible-mobile-photography-and-videography-apps-for-iosandroid-for-2024/"><u>Incredible Mobile Photography & Videography Apps for iOS/Android for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a78-5g-messages-recovery-recover-deleted-messages-from-oppo-a78-5g-by-fonelab-android-recover-messages/"><u>Oppo A78 5G Messages Recovery - Recover Deleted Messages from Oppo A78 5G</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/polling-puzzle-platforms-leading-politic-simulations-for-2024/"><u>Polling Puzzle Platforms Leading Politic Simulations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-setup-initiate-ms-paint-in-windows-11/"><u>Quick Setup: Initiate MS Paint in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-installation-issues-older-software-and-new-os-compatibility/"><u>Tackling Installation Issues: Older Software and New OS Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-avoid-usb-sleep-during-energy-saver/"><u>Techniques to Avoid USB Sleep During Energy Saver</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-best-free-email-services-our-favorite-picks-revealed/"><u>Unveiling the Best Free Email Services – Our Favorite Picks Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-microsoft-store-ai-hub/"><u>What Is the Microsoft Store AI Hub?</u></a></li>
+</ul></div>
 

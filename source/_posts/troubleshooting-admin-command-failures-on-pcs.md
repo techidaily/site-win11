@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Admin Command Failures on PCs
-date: 2024-09-13T19:18:15.923Z
-updated: 2024-09-17T01:44:35.742Z
+date: 2024-10-23T21:06:05.522Z
+updated: 2024-10-26T16:05:34.510Z
 tags:
   - windows10
   - windows11
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check User Account Control Settings
 
@@ -67,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  Now, close the window and restart your PC. After that, try running the application with the Run as administrator feature and see if it works.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change Group Policy Settings
 
  Is the Run as administrator function not working despite trying the suggestions above? It's likely that group policy settings block the feature. To fix this, head to the Local Group Policy Editor and check the settings.
@@ -93,17 +80,25 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 4. In the right pane, you'll see a list of different security options. Scroll to the bottom and double-click on the **User Account Control: Run all administrators in Admin Approval Mode** policy.  
 ![Run all administrators in admin approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-all-administrators-in-admin-approved.jpg)
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clean up the Context Menu
 
@@ -121,6 +116,13 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 5. Next, expand the **ContextMenuHandlers** folder and look for any suspicious entries. If you find any, delete them.  
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
 
@@ -148,5 +150,19 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[New] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-flamegrab-ff-extras/"><u>[Updated] 2024 Approved Flamegrab FF Extras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-hacking-the-art-of-high-quality-twitch-video-captures/"><u>2024 Approved Hacking the Art of High-Quality Twitch Video Captures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-social-narrative-this-years-twittale-highlights/"><u>2024 Approved The Social Narrative This Year's TwitTale Highlights</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windows-serverbkup/"><u>详解如何在Windows Server上设置增强型BKUP，包括网络磁盘配置</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-the-not-found-mss32dll-error-quickly-with-proven-techniques/"><u>Fix the Not Found MsS32.Dll Error Quickly with Proven Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-controls-overcoming-mouse-sluggishness-in-bf2/"><u>Swift Controls: Overcoming Mouse Sluggishness in BF2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-quiet-quality-of-comfort-asmr-expert-choices-for-2024/"><u>The Quiet Quality of Comfort ASMR Expert Choices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-file-is-corrupt-error-code-0x80070570-in-windows-1011/"><u>Troubleshooting 'File Is Corrupt' Error Code: 0X80070570 in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-secrets-using-or-stopping-windows-spotlight-feature/"><u>Unlock Secrets: Using or Stopping Windows Spotlight Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-bluescreenview-application/"><u>Unraveling the Mysteries of BlueScreenView Application</u></a></li>
+</ul></div>
 

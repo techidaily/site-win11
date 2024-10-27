@@ -1,7 +1,7 @@
 ---
 title: How to Drag Tabs Out From File Explorer in Windows 11
-date: 2024-10-15T23:23:47.893Z
-updated: 2024-10-20T21:40:59.762Z
+date: 2024-10-24T07:38:23.532Z
+updated: 2024-10-27T01:15:38.739Z
 tags:
   - windows10
   - windows11
@@ -35,29 +35,22 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
 
  To update to the latest insider build, head over to the Settings page and[check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
 
@@ -76,16 +69,23 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
@@ -120,15 +120,22 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-infuse-ingenuity-and-fun-make-memes-with-kapwing/"><u>[New] Infuse Ingenuity & Fun – Make Memes with Kapwing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-crafting-connections-posting-vids-between-tweets-and-tumbles/"><u>[Updated] 2024 Approved Crafting Connections Posting Vids Between Tweets & Tumbles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-securing-your-speech-on-the-ipad-for-2024/"><u>[Updated] Securing Your Speech on the iPad for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/blue-screen-demystified-how-to-resolve-windows-crashes-quickly/"><u>Blue Screen Demystified: How To Resolve Windows Crashes Quickly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/confronting-googles-bard-and-microsofts-chatgpt-an-in-depth-comparison-to-find-the-leading-language-model/"><u>Confronting Google's BARD and Microsoft's ChatGPT: An In-Depth Comparison to Find The Leading Language Model</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-sphere-unveiled-in-film-tech/"><u>In 2024, The Complete Sphere Unveiled in Film Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/intro-to-windows-canary-your-security-ally/"><u>Intro to Windows Canary: Your Security Ally</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-pc-power-for-distributed-video-conversion-by-tdarr/"><u>Optimize PC Power for Distributed Video Conversion by Tdarr</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-magic-v2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor Magic V2 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-11-writable-error-fix-it-now/"><u>Unraveling Windows 11' Writable Error: Fix It Now</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-video-length-measurement-20-megabit-case/"><u>[New] 2024 Approved Video Length Measurement - 20 Megabit Case</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-visual-journey-discover-filmoras-favorite-features/"><u>[New] A Visual Journey Discover Filmora's Favorite Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ions-pro-3-unveiled-a-camera-ready-to-conquer-action-scenes/"><u>[New] ION's Pro 3 Unveiled - A Camera Ready to Conquer Action Scenes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-change-default-image-savings-in-os-x/"><u>[Updated] Change Default Image Savings in OS X</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-tutorial-engaging-in-a-call-on-snapchat/"><u>[Updated] Step-By-Step Tutorial Engaging in a Call on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-vrs-best-immersion-top-ten-titles-for-2024/"><u>[Updated] VR's Best Immersion Top Ten Titles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-playstation-4-guide-to-perfect-gameplay-recording/"><u>2024 Approved The Ultimate PlayStation 4 Guide to Perfect Gameplay Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-not-met-requirements-in-win11-os/"><u>Deciphering and Fixing ‘Not Met Requirements’ in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-audacitys-error-9999-on-win1011-systems/"><u>Decoding Audacity's Error 9999 on WIN10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-your-hardware-meets-new-windows-requirements/"><u>Ensure Your Hardware Meets New Windows Requirements</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-error-msresouce-and-apptext-on-w11-os/"><u>How to Fix Error: MsResouce and AppText on W11 OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nubia-red-magic-8s-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/infinite-visual-vaults-blend-zero-cost-sky-spaces-with-premium-packages-for-2024/"><u>Infinite Visual Vaults Blend Zero-Cost Sky Spaces With Premium Packages for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/redesigning-windows-removed-characteristics/"><u>Redesigning Windows: Removed Characteristics</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-quest-secrets-to-mac-address-on-windows-11/"><u>Streamlining Your Quest: Secrets to Mac Address on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-full-capability-of-windows-11s-problem-solvers/"><u>Unlocking Full Capability of Windows 11'S Problem Solvers</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-powershell-tactics-to-reverse-error-message-about-disabled-scripts/"><u>Unlocking PowerShell: Tactics to Reverse Error Message About Disabled Scripts</u></a></li>
 </ul></div>
 

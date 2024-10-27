@@ -1,7 +1,7 @@
 ---
 title: Unlocking Mouse Gesture Controls in Microsoft's Edge Browser
-date: 2024-10-16T03:32:50.644Z
-updated: 2024-10-20T21:14:04.778Z
+date: 2024-10-25T04:39:54.194Z
+updated: 2024-10-27T05:22:27.243Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  You can also use the **Reset all gestures** option to restore all the gestures to their default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Quickly Navigate Between Pages Using Mouse Gestures on Edge for Windows 11
@@ -62,27 +62,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-diving-into-video-quality-dslr-vs-mirrorless-cameras/"><u>[New] Diving Into Video Quality DSLR vs Mirrorless Cameras</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discreetly-streaming-top-8-video-tools-of-the-year-2023/"><u>[Updated] Discreetly Streaming Top 8 Video Tools of the Year, 2023</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-easy-way-to-mix-and-match-youtube-playlist-order/"><u>[Updated] The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1728496449209-windows-10/"><u>如何修正 Windows 10 存儲器不足問題的全面方法</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/alight-motion-comprehensive-review-for-2024/"><u>Alight Motion Comprehensive Review for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-pc-repair-access-with-windows-troubleshooting-hotkeys/"><u>Enhancing PC Repair Access with Windows Troubleshooting Hotkeys</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-file-properties-a-windowayers-manual/"><u>Fine-Tuning File Properties: A Window'ayer's Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-chromes-erroneous-virus-protection-alerts/"><u>How to Reset Chrome's Erroneous Virus Protection Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-email-alert-issues-in-windows-desktop-environment/"><u>Resolving Email Alert Issues in Windows Desktop Environment</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-to-enhance-the-download-velocity-on-ubisoft-connect-platform/"><u>Solutions to Enhance the Download Velocity on Ubisoft Connect Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209196513-step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved!</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reinstate-lunar-client-after-launch-failed/"><u>Strategies to Reinstate Lunar Client After Launch Failed</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-linux-vm-setup-with-windows-and-hyper-v-integration/"><u>Streamlining Linux VM Setup with Windows and Hyper-V Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hackers-guide-to-swiftly-executing-windows-actions/"><u>The Hacker's Guide to Swiftly Executing Windows Actions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-your-videos-expert-techniques-for-achieving-a-professional-look/"><u>Updated In 2024, Transform Your Videos Expert Techniques for Achieving a Professional Look</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/whats-new-in-nvidia-graphics-driver-software-for-geforce-210-on-windows-10/"><u>What's New in NVIDIA Graphics Driver Software for GeForce 210 on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-widget-guide-top-7-methods/"><u>Windows 11 Widget Guide: Top 7 Methods</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -90,3 +69,25 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>[New] Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-appreciation-showcase-outro-themes-for-all-budgets/"><u>2024 Approved Appreciation Showcase Outro Themes for All Budgets</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-entry-made-simple/"><u>Command Center Entry Made Simple</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/effortless-streams-screening-netflix-on-mac-professionally-for-2024/"><u>Effortless Streams Screening Netflix on Mac Professionally for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-timecodes-and-text-in-srt-with-macos/"><u>In 2024, Navigating Timecodes and Text in SRT with macOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a15-4g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A15 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>In 2024, Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/meet-vivetool-a-windows-users-guide-to-future-functionality/"><u>Meet ViVeTool: A Windows User's Guide to Future Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-pc-information-gathering-with-everythingapp/"><u>Speedy PC Information Gathering with EverythingApp</u></a></li>
+<li><a href="https://win11.techidaily.com/the-guide-to-pairing-classic-gaming-and-windows-memories/"><u>The Guide to Pairing Classic Gaming and Windows Memories</u></a></li>
+<li><a href="https://win11.techidaily.com/the-monetary-flow-how-does-windows-11-work/"><u>The Monetary Flow: How Does Windows 11 Work?</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-clearing-frozen-windows-application-lockdown/"><u>Tips for Clearing Frozen Windows Application Lockdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncompromised-creativity-best-macos-big-sur-editing-tools-ranked-for-2024/"><u>Uncompromised Creativity Best macOS Big Sur Editing Tools Ranked for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-the-application-failed-to-launch-error-code-xc000003e-in-windows-11/"><u>Understanding and Solving the Application Failed To Launch Error: Code Xc000003E in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-customization-unleash-your-creative-touch/"><u>Windows 11 Customization: Unleash Your Creative Touch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/yielding-income-a-streamers-guide-to-earning-for-2024/"><u>Yielding Income A Streamer's Guide to Earning for 2024</u></a></li>
+</ul></div>
+

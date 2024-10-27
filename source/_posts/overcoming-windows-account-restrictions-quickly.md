@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Account Restrictions Quickly
-date: 2024-09-10T07:01:41.427Z
-updated: 2024-09-17T07:23:36.703Z
+date: 2024-10-21T05:51:23.556Z
+updated: 2024-10-27T09:11:59.504Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
  Once done, close the Command Prompt and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Activate the Built-In Administrator Account
 
@@ -81,10 +88,10 @@ net user administrator /active:yes
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
@@ -93,21 +100,7 @@ net user administrator /active:yes
 
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Create a New Administrator Account
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
@@ -120,6 +113,14 @@ net user administrator /active:yes
 3. Hit the **Add account** button for **Add other users** in the following window.  
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the next dialog, enter details like the username and password for the new account.
 6. Click **Next**.
 7. Once the account is created, click on the **Change account type** button associated with the newly created account.  
@@ -128,6 +129,13 @@ net user administrator /active:yes
 9. Click **OK** to save the changes.
 
  You can now log into the new administrator account and begin using it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Administrative Access to Your Windows System
 
@@ -143,5 +151,26 @@ net user administrator /active:yes
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-accessing-and-archiving-your-facebook-status-vids/"><u>[New] In 2024, Accessing and Archiving Your Facebook Status Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-nature-on-android-best-animal-simulation-games/"><u>[New] In 2024, Explore Nature on Android Best Animal Simulation Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-sub4sub-like-a-pro-begin-here-for-expert-tips/"><u>[New] Navigating Sub4sub Like a Pro? Begin Here for Expert Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-futuristic-feature-unveiling-mac-via-applewatch/"><u>[Updated] Futuristic Feature Unveiling Mac via AppleWatch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>2024 Approved Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cameras-that-complement-best-hats-for-capturing-motorcycle-adventures-for-2024/"><u>Cameras That Complement Best Hats for Capturing Motorcycle Adventures for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comparative-analysis-of-windows-video-encoders/"><u>Comparative Analysis of Windows Video Encoders</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-restarts-for-distro-and-catroot2-in-latest-ws11-os/"><u>Efficient Restarts for Distro & Catroot2 in Latest WS11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-chrome-profiles-errors-in-windows-environment/"><u>Navigating Chrome Profiles Errors in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/nostalgic-gaming-revived-techniques-for-using-retroarchs-shaders/"><u>Nostalgic Gaming Revived: Techniques for Using RetroArch’s Shaders</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-pubgs-save-functionality-windows/"><u>Regaining Control Over PUBG's Save Functionality (Windows)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-frame-rate-issues-in-fallout-76/"><u>Resolving Frame Rate Issues in Fallout 76</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207263150-solving-the-problem-of-a-non-charging-laptop-in-no-time/"><u>Solving the Problem of a Non-Charging Laptop in No Time!</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-method-to-activate-dark-mode-in-notepad-on-windows-11-pcs/"><u>Stepwise Method to Activate Dark Mode in Notepad on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-application-of-powertoys-for-file-protection/"><u>Strategic Application of PowerToys for File Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-overheating-pcs-with-windows-resource-monitor-insights/"><u>Tackling Overheating PCs with Windows Resource Monitor Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-device-writers-crafting-unique-lock-patterns-for-windows-11/"><u>Tailoring Your Device' Writers: Crafting Unique Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-creation-simplified-boosting-windows-11-setup-in-just-three-ways/"><u>USB Creation Simplified – Boosting Windows 11 Setup in Just Three Ways</u></a></li>
+</ul></div>
 

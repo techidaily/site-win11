@@ -1,7 +1,7 @@
 ---
 title: Realigning Dysfunctional Windows Keyboard Keys
-date: 2024-10-19T01:13:56.258Z
-updated: 2024-10-21T13:29:32.916Z
+date: 2024-10-24T21:04:07.905Z
+updated: 2024-10-26T20:47:13.848Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
 After logging into your computer, start applying the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Make Sure the Keys Aren’t Damaged
 
  It's almost impossible for several keys on your keyboard to malfunction simultaneously. However, if you have dropped your keyboard recently, hit it with something, or spilled a liquid on it, some keys may have been damaged.
@@ -51,14 +44,14 @@ After logging into your computer, start applying the following fixes.
 
 ![Testing Keyboard Keys on the Keyboard Test Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/testing-keyboard-keys-on-the-keyboard-test-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, if the keys register successfully during the test, either software interference or Windows settings are preventing the keys from working correctly. In that case, start applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Apply Some Preliminary Checks
 
@@ -82,19 +75,6 @@ If the above fixes do not work, start applying the remaining fixes.
  In our guides on[how to fix function keys](https://www.makeuseof.com/function-keys-not-working-windows-10/) ,[media keys](https://www.makeuseof.com/windows-10-media-keys-not-working/) , and[Numpad keys](https://www.makeuseof.com/windows-11-numpad-not-working/) , we have covered solutions to fix these specific sets of keys. Therefore, apply the relevant solutions to fix the set of keys not working on your keyboard.
 
  However, if some of the keys in one or more of these sets are no longer working (randomly), keep applying the remaining fixes.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -133,28 +113,43 @@ If the above fixes do not work, start applying the remaining fixes.
 6. Then, go to**Typing** under**Related settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Go to Typing Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-typing-settings-under-related-settings-in-windows-settings-app.jpg)
 7. Turn off the toggles next to **Show text suggestions when typing on the physical keyboard** and**Multilingual text suggestions** .  
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn Off the Toggles Next to Show Text Suggestions When Typing on the Physical Keyboard and Multilingual Text Suggestions in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-turn-off-the-toggles-next-to-show-text-suggestions-when-typing-on-the-physical-keyboard-and-multilingual-text-suggestions-in-windows-settings-app.jpg)
 8. After that, click on**Advanced keyboard settings** and make sure the correct language option is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the Problematic Keys on Your Keyboard
@@ -176,24 +171,20 @@ If the above fixes do not work, start applying the remaining fixes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-online-presence-with-this-all-inclusive-youtube-upload-manual/"><u>[New] In 2024, Elevate Your Online Presence with This All-Inclusive YouTube Upload Manual</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-the-art-of-sniping-on-mac-with-these-tools-for-2024/"><u>[New] Mastering the Art of Sniping on Mac with These Tools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-revolutionary-gaming-documentation-beyond-fbx-norms-for-2024/"><u>[New] Revolutionary Gaming Documentation Beyond FBX Norms for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-frame-by-frame-focus-high-quality-video-devices/"><u>[Updated] Frame by Frame Focus High-Quality Video Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-does-imovie-set-dimensions/"><u>[Updated] How Does iMovie Set Dimensions?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-peer-reviewed-best-action-replay-tech/"><u>[Updated] Peer-Reviewed Best Action Replay Tech</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlock-hd-potential-for-your-social-media-platform-fb-for-2024/"><u>[Updated] Unlock HD Potential for Your Social Media Platform (FB) for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-building-a-brand-on-instagram-establishing-a-business-entity/"><u>2024 Approved Building a Brand on Instagram Establishing a Business Entity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-leveraging-adobe-connect-for-exceptional-video-capture-and-editing/"><u>2024 Approved Leveraging Adobe Connect for Exceptional Video Capture & Editing</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-open-the-startup-repair-tool-on-windows/"><u>5 Ways to Open the Startup Repair Tool on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/9-ways-to-fix-keyboard-shortcuts-not-working-in-windows/"><u>9 Ways to Fix Keyboard Shortcuts Not Working in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-11-spatial-audio-setup-guide/"><u>Activating Windows 11: Spatial Audio Setup Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-not-sufficient-usb-issue-in-windows/"><u>Addressing “Not Sufficient USB” Issue in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-system-index-for-optimization/"><u>Altering System Index for Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-mismatch-of-speaker-assignment-due-to-another-app/"><u>Avoiding Mismatch of Speaker Assignment Due to Another App</u></a></li>
-<li><a href="https://win11.techidaily.com/bitlocker-less-protection-4-effective-methods-for-win-users/"><u>BitLocker-Less Protection: 4 Effective Methods for Win Users</u></a></li>
-<li><a href="https://win11.techidaily.com/1719254323833-overcome-shift-key-stickiness-in-windows-os/"><u>Overcome Shift Key Stickiness in Windows OS.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/saving-strategies-securing-your-mov-on-windows-pcs-for-2024/"><u>Saving Strategies Securing Your .mov On Windows PCs for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-record-audio-from-youtube/"><u>[New] How to Record Audio From YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-captureelite-series-best-windowsmac-imaging-apps/"><u>[Updated] In 2024, CaptureElite Series Best Windows/Mac Imaging Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-loop-engineers-assembly/"><u>[Updated] Loop Engineer's Assembly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-joyful-moments-within-the-world-of-pokemon-shining-pearl/"><u>Discovering Joyful Moments Within the World of Pokemon Shining Pearl</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/empowerment-on-screen-11-must-watch-motivational-movies/"><u>Empowerment on Screen: 11 Must-Watch Motivational Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disjointed-sticky-note-behavior-on-w11-system/"><u>Fixing Disjointed Sticky Note Behavior on W11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-and-manipulate-cover-page-editor-in-win11/"><u>How to Access and Manipulate Cover Page Editor in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effectively-implement-windows-rollback-mechanism-via-system-restore/"><u>How to Effectively Implement Windows' Rollback Mechanism via System Restore</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-analysis-unveiling-the-cutting-edge-features-in-winxvideo-ai-technology/"><u>In-Depth Analysis: Unveiling the Cutting-Edge Features in WinXVideo AI Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mighty-performance-of-the-beatit-bt-d11-portable-power-station/"><u>Mighty Performance of the Beatit BT-D11 Portable Power Station</u></a></li>
+<li><a href="https://win11.techidaily.com/onedrives-new-home-a-guide-for-windows-11-users/"><u>OneDrive's New Home: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-healing-defective-windows-registry-entries/"><u>Step-by-Step: Healing Defective Windows Registry Entries</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas!</u></a></li>
+<li><a href="https://win11.techidaily.com/which-out-of-intel-unison-or-phone-link-is-superior/"><u>Which Out of Intel Unison or Phone Link Is Superior?</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-warhammer-40k-boltgun-fix-pc-stutter-issues/"><u>Winning at Warhammer 40K Boltgun: Fix PC Stutter Issues</u></a></li>
 </ul></div>
 

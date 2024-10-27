@@ -1,7 +1,7 @@
 ---
 title: Introducing Smart Color Controls to Windows 11 Apps
-date: 2024-09-10T08:12:09.106Z
-updated: 2024-09-17T07:37:40.883Z
+date: 2024-10-21T23:09:17.329Z
+updated: 2024-10-27T04:21:21.918Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,13 @@ vivetool /enable /id:36371531
 ![Advanced display settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-display-settings-1.jpg)
 4. Next, turn on the toggle for **Automatically manage color for apps**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows Settings Now Includes Auto Color Management
 
  With the release of Windows Insider builds 25309, you will get a new feature called Auto Color Management feature in your Windows settings. You can use it for multiple activities such as photo editing and graphic design.
@@ -68,18 +75,22 @@ vivetool /enable /id:36371531
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>2024 Approved Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-streamlining-your-archive-converting-snapchats-ephemeral-snaps/"><u>2024 Approved Streamlining Your Archive Converting Snapchat's Ephemeral Snaps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-k11x-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c12-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C12 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-driver-compatible-with-windows-7/"><u>Download AMD Radeon Driver: Compatible with Windows 7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-10-fcp-plugin-tools/"><u>Essential 10 FCP Plugin Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-mend-disk-errors-on-modern-windows-systems/"><u>Essential Tips to Mend Disk Errors on Modern Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-retrace-your-steps-on-windows-11s-search-settings/"><u>How to Retrace Your Steps on Windows 11'S Search Settings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-leading-image-to-video-conversion-software-online/"><u>In 2024, 10 Leading Image to Video Conversion Software Online</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-malware-defense-restoring-windows-defender-engine-capability/"><u>Mastering Malware Defense: Restoring Windows Defender Engine Capability</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-ownership-related-settings-glitches-in-windows-11/"><u>Resolving Ownership-Related Settings Glitches in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-uninterrupted-steam-download-sessions-no-more-stops/"><u>Solutions for Uninterrupted Steam Download Sessions - No More Stops</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-other-users-windows-microsoft-login-issue/"><u>Solving the Other User's Windows Microsoft Login Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-for-purging-history-from-ms-defender/"><u>Unveiling the Process for Purging History From MS Defender</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/watch-share-repeat-the-best-movie-trailer-apps-for-iphone-and-ipad-for-2024/"><u>Watch, Share, Repeat The Best Movie Trailer Apps for iPhone and iPad for 2024</u></a></li>
+</ul></div>
 

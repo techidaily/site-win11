@@ -1,0 +1,150 @@
+---
+title: "Win11 Permissions Guide: Returning to Basics"
+date: 2024-10-23T08:18:16.071Z
+updated: 2024-10-27T03:17:08.042Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Win11 Permissions Guide: Returning to Basics"
+excerpt: "This Article Describes Win11 Permissions Guide: Returning to Basics"
+keywords: Win11 Guide,Windows Permissions,Basic Win11 Access,Windows Security Controls,Enterprise User Policy,Regular Admin Rights,PC Permission Basics
+thumbnail: https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69cf5a5eaeee681f0ad029756.jpg
+---
+
+## Win11 Permissions Guide: Returning to Basics
+
+ Having issues with apps or programs not running properly on your Windows computer? Resetting Windows Update permissions could be the solution you need. Similarly, if you're troubleshooting user profile problems, you can restore user permissions.
+
+ This article covers three different methods to reset all user permissions – using the Icacls command, the Secedit command, and the Subinacl tool.
+
+Let's now explore them in detail.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Run the Icacls Command
+
+ The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to[take ownership of the folders on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) . Then[open an elevated Command Prompt on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type in the following command:
+
+`icacls * /t /q /c /reset`
+
+ Now press Enter on your keyboard to execute the command. This will reset all user permissions to default for every folder, subfolder, and file within the current working directory.
+
+In the above command, here are the parameters explained:
+
+* \* – This is a wildcard character that includes all folders within the current directory.
+* /t – It targets all the subfolders and files within the current folder.
+* /q – Run command without displaying success messages.
+* /c – Continues the operation even if errors occur.
+* /reset – This parameter resets the permission options to their default values.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Run the Secedit command
+
+ Windows provides the Secedit command to configure and analyze system security. To reset all user permissions using this command, run the command prompt with admin access, then type in the following command:
+
+![Run the Secedit command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-secedit-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+`secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose`
+
+ Now press Enter to execute the command. Wait for the process to finish and restart your computer. This will reset the user permissions to the default system settings.
+
+## 3\. Run the Subinacl Tool
+
+ If you're not comfortable using the command prompt, you may use the Subinacl tool. This is a command-line utility from Microsoft that can be used to reset user permissions. Here's how to do it:
+
+1. [Download the Subinacl tool from Microsoft's webpage](https://web.archive.org/web/20190830103837/http://www.microsoft.com/en-us/download/confirmation.aspx?id=23510) . When you open the page, the download starts automatically. If not, wait 30 seconds and click the link.
+2. Once downloaded, double-click on the installer package. This will open the installation wizard.  
+![Open the installation wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg)
+3. Click on**Next** and then accept the license agreement terms.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Install the Subinacl tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg)
+4. Next, copy and paste the following path into the Destination folder:  
+`C:\Windows\System32`  
+ Note: If you have installed Windows on a different drive, use that path instead.
+5. Now click on**Install now** and wait for the Subinacl tool to be installed. This may take several minutes, so be patient.
+
+1. When the installation is complete,[open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) and type in the following commands:  
+`subinacl /subkeyreg HKEY_LOCAL_MACHINE /grant=administrators=f  
+subinacl /subkeyreg HKEY_CURRENT_USER /grant=administrators=f  
+subinacl /subkeyreg HKEY_CLASSES_ROOT /grant=administrators=f  
+subinacl /subdirectories %SystemDrive% /grant=administrators=f  
+subinacl /subkeyreg HKEY_LOCAL_MACHINE /grant=system=f  
+subinacl /subkeyreg HKEY_CURRENT_USER /grant=system=f  
+subinacl /subkeyreg HKEY_CLASSES_ROOT /grant=system=f  
+subinacl /subdirectories %SystemDrive% /grant=system=f`
+2. On the Save As window, set the File name to**Reset.cmd** and then select**All Files** from the drop-down menu next to it.  
+![Reset Windows Update permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-update-permissions.jpg)
+3. Next, select**Desktop** from the left pane and click on**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Now double-click on it to reset the user permissions to default.
+5. This may take a while to complete the procedure, so wait for it to finish.
+
+ Once done, close any running program, and then restart your computer. Your Windows Update permissions will be reset to their default settings. These are three different methods you can use to reset the user permission settings on Windows.
+
+## Restore User Permissions to Default on Windows
+
+ User permissions play a crucial role in computer security. If you're experiencing user permission issues, you must reset them to their default settings. This guide helps you reset all user permissions on Windows using three different methods. You can use the ICACLS command, Secedit command, or Subinacl tool, depending on your preference.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-guide-to-record-games-on-windows-10-pc/"><u>[Updated] 2024 Approved Ultimate Guide to Record Games on Windows 10 PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-does-m1-make-a-difference-for-film-and-media-editors-in-2024/"><u>[Updated] Does M1 Make a Difference for Film and Media Editors, In 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/defend-your-desktops-expert-strategies-for-windows-pc-safety-in-homes-and-startups-digitalguardian/"><u>Defend Your Desktops: Expert Strategies for Windows PC Safety in Homes and Startups | DigitalGuardian</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/delving-deeply-into-obs-studios-capture-capabilities/"><u>Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-the-ascent-adventure-proven-strategies-to-reduce-stuttering-and-increase-fps-performance/"><u>Elevate Your The Ascent Adventure: Proven Strategies to Reduce Stuttering & Increase FPS Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-connectivity-mastering-the-use-of-winnettools/"><u>Enhance Connectivity: Mastering the Use of WinNetTools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-x-flip-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo X Flip Without PUK Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-performance-issues-with-netflix-on-windows/"><u>Improving Performance Issues with Netflix on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mkv-playback-top-macos-apps-reviewed-for-2024/"><u>MKV Playback Top macOS Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-crashes-and-freezes-with-vmware-in-windows-11/"><u>Overcoming Crashes & Freezes with VMware in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-trailer-audio-a-step-by-step-approach-for-2024/"><u>Perfecting Trailer Audio A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-missing-windows-6-essential-tactics-in-win11/"><u>Reactivating Missing Windows: 6 Essential Tactics in Win11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/weggeheugen-voor-apple-telefoons-een-leeswijs-weg-wechat-geschiedenis-terug-te-behoren/"><u>Weggeheugen Voor Apple Telefoons: Een Leeswijs Weg WeChat Geschiedenis Terug Te Behoren</u></a></li>
+</ul></div>
+

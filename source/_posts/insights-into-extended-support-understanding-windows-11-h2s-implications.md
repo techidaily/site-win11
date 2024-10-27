@@ -1,7 +1,7 @@
 ---
 title: "Insights Into Extended Support: Understanding Windows 11 H2’s Implications"
-date: 2024-10-15T16:56:55.018Z
-updated: 2024-10-21T11:01:43.246Z
+date: 2024-10-24T17:14:43.741Z
+updated: 2024-10-27T02:27:26.624Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's Happening to Windows 11 22H2's End of Support Date?
@@ -50,34 +50,28 @@ thumbnail: https://thmb.techidaily.com/a577227bca81f1377b01a00eba21acdee9d8dfcda
 
  According to Microsoft, this change occurred due to user feedback.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Defining an "Optional Update" in Windows
 
  Windows updates aren't all equal; there's a system that differentiates them depending on how important they are. This deadline extension will allow people to receive non-critical updates on Windows 11 version 22H2 until the new date, and security updates will continue for even longer.
 
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does This Mean for Windows 11 22H2 Users?
 
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
@@ -91,10 +85,10 @@ Zarif Ali / MakeUseOf
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
@@ -107,25 +101,6 @@ Zarif Ali / MakeUseOf
 
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-guide-to-enable-dynamic-hdr-in-windows-11/"><u>[New] Guide to Enable Dynamic HDR in Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-simplified-webinar-recording-methods-for-windows-and-mac-users-for-2024/"><u>[New] Simplified Webinar Recording Methods for Windows & Mac Users for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-assemble-a-personalized-youtube-music-list-for-2024/"><u>[Updated] How to Assemble a Personalized YouTube Music List for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/claim-your-edge-with-claude-top-tier-ai-for-competitive-advantage/"><u>Claim Your Edge with Claude: Top-Tier AI for Competitive Advantage</u></a></li>
-<li><a href="https://os-tips.techidaily.com/double-tap-feature-added-to-apple-watch-series/"><u>Double Tap Feature Added to Apple Watch Series</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-unexpected-token-call-issues-on-windows-devices/"><u>How To Resolve “Unexpected Token Call” Issues on Windows Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-the-gamer-xtreme-by-cyberpowerpc-the-smart-choice-for-cost-conscious-gamers-seeking-flexibility/"><u>In-Depth Look at the Gamer Xtreme by CyberPowerPC: The Smart Choice for Cost-Conscious Gamers Seeking Flexibility</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-black-screens-and-blank-cursors-on-win11/"><u>Master the Art of Fixing Black Screens & Blank Cursors on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-app-management-with-winget-on-w11/"><u>Mastering App Management with Winget on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-failed-office-activation-setbacks/"><u>Navigating Through Failed Office Activation Setbacks</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11s-camera-app-glitch-afc-error/"><u>Resolving Windows 11'S Camera App Glitch: AFC Error</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-rise-of-personalized-ai-a-game-changer-for-tech-enthusiasts/"><u>The Rise of Personalized AI : A Game-Changer for Tech Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-filesystem-woes-a-win10win11-fixers-manual/"><u>Unpacking Filesystem Woes: A Win10/Win11 Fixer's Manual</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726026595472-pc/"><u>テレビ朝日が提供するライブコンテンツのPC向け画面録画手法</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +108,23 @@ Zarif Ali / MakeUseOf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-setting-up-pip-mode-on-ios-youtubes-picture-in-picture/"><u>[New] Setting up PIP Mode on iOS YouTube's Picture-in-Picture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] 2024 Approved Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-efficient-video-sharing-on-twitter-from-smartphones/"><u>[Updated] Efficient Video Sharing on Twitter From Smartphones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-slow-motion-photography-techniques-for-instagram-posts/"><u>[Updated] In 2024, Mastering Slow Motion Photography Techniques for Instagram Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-creme-de-la-fluid-simulation-games/"><u>[Updated] The Crème De La Fluid Simulation Games</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-a00f4289-webcam-issues-in-win1011/"><u>Fixing Error A00F4289: Webcam Issues in Win10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-display-fingerprint-screens-an-idea-that-failed/"><u>In-Display Fingerprint Screens: An Idea That Failed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-system-recovery-in-windows-10-and-11/"><u>Mastering File System Recovery in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-screen-limitations-with-effective-strategies/"><u>Overcome Screen Limitations with Effective Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-uncommon-youtube-channel-labels-filmmaker-edition-for-2024/"><u>The Art of Uncommon YouTube Channel Labels Filmmaker Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-your-resource-monitor-app-in-windows-11/"><u>Unfreezing Your Resource Monitor App in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-store-issue-code-0x80073cf3/"><u>Unlocking Windows Store Issue (Code 0X80073CF3)</u></a></li>
+<li><a href="https://win11.techidaily.com/win-strategies-eradicating-disk-read-failures/"><u>Win Strategies: Eradicating Disk Read Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-a-study-on-cloud-vs-physical-installation-methods/"><u>Windows Update: A Study on Cloud Vs. Physical Installation Methods</u></a></li>
+</ul></div>
+

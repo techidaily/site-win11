@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Frozen IntelliJ Unison App on Your Win11 PC
-date: 2024-09-15T07:56:17.189Z
-updated: 2024-09-17T07:45:32.758Z
+date: 2024-10-24T19:38:02.807Z
+updated: 2024-10-26T21:51:51.757Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,26 @@ To run the Windows Store Apps troubleshooter:
 4. Click the drop-down menu under**Background apps permissions** and select**Always** .  
 ![Allow Intel Unison to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-intel-unison-to-run-in-the-background.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Allow Intel Unison App Access to Your Phone Calls and Notifications
 
  The Intel Unison app on Windows requires permission to access phone calls and notifications. You need to ensure that these permissions are enabled. Here’s how to check.
@@ -63,6 +83,13 @@ To run the Windows Store Apps troubleshooter:
 5. Further, scroll down to**App notifications** , and use the toggles to enable notification permission for individual apps.
 6. Next, switch to the**Calls** tab and enable the toggle for**Allow phone calls** .  
 ![Intel Unison App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/intel-unison-app-notification-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Battery Saver Mode
 
@@ -76,10 +103,10 @@ To run the Windows Store Apps troubleshooter:
 ![Turn Off Battery Saver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-off-battery-saver-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Third-Party Antivirus Programs
@@ -89,13 +116,6 @@ To run the Windows Store Apps troubleshooter:
  You can typically do this by right-clicking the antivirus program’s icon in the system tray and selecting**Disable until next restart** . However, the instructions will differ between antivirus programs, so if you're stuck, check your antivirus' official help documentation for instructions.
 
  Once disabled, try using the Intel Unison app again. If this solves your problem, you can go through your antivirus program’s settings and whitelist the Intel Unison app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disconnect and Reconnect Your Phone
 
@@ -111,13 +131,6 @@ To run the Windows Store Apps troubleshooter:
 4. Next, open the Intel Unison app on your Android or iPhone and scan the QR code on your PC.
 5. Follow the on-screen instructions to pair your phone.  
 ![Disconnect Phone From Intel Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disconnect-phone-from-intel-unison-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Repair or Reset the Intel Unison App
 
@@ -150,5 +163,21 @@ To run the Windows Store Apps troubleshooter:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-all-app-analysis-comprehensible-by-az-capture-for-2024/"><u>[New] All-App Analysis Comprehensible by AZ Capture for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-transparent-video-on-youtube/"><u>[Updated] In 2024, Unveiling Transparent Video on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-essential-remedies-for-constant-crashes-in-your-iphones-favorite-apps/"><u>10 Essential Remedies for Constant Crashes in Your iPhone's Favorite Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-playbox-app-user-testimonials/"><u>2024 Approved PlayBox App User Testimonials</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/building-personalized-instagram-feed-outlines/"><u>Building Personalized Instagram Feed Outlines</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/easy-iphone-contact-backup-with-itunes-a-quick-and-simple-guide/"><u>Easy iPhone Contact Backup with iTunes: A Quick and Simple Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-program-use-via-right-click-menu-upgrade/"><u>Efficient Program Use via Right-Click Menu Upgrade</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-techniques-for-username-customization-in-windows/"><u>Innovative Techniques for UserName Customization in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-icon-size-from-falling-short/"><u>Stop Windows 11 Icon Size From Falling Short</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-windows-with-a-mac-os-layout-heres-how/"><u>Streamline Your Windows With A Mac OS Layout: Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-lags-achieve-android-like-speed-on-pc/"><u>Windows Lags? Achieve Android-Like Speed on PC</u></a></li>
+</ul></div>
 

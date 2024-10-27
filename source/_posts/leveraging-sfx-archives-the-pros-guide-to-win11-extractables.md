@@ -1,7 +1,7 @@
 ---
 title: "Leveraging SFX Archives: The Pro's Guide to Win11 Extractables"
-date: 2024-09-13T19:36:37.481Z
-updated: 2024-09-17T01:15:10.628Z
+date: 2024-10-24T23:26:05.502Z
+updated: 2024-10-27T05:30:56.286Z
 tags:
   - windows10
   - windows11
@@ -67,7 +67,21 @@ Now we can get started using IExpress Wizard:
 
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up an SFX Archive With 7-ZIP
 
@@ -80,6 +94,13 @@ Now we can get started using IExpress Wizard:
 5. Click the**Add** button.  
 ![The Add button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-file-manager-window.jpg)
 6. Select the**Create SFX archive** checkbox.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
@@ -99,14 +120,14 @@ Testing the SFX File With 7-ZIP
 
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
- You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -127,5 +148,26 @@ Testing the SFX File With 7-ZIP
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-broadcasting-made-simple-3-secrets-to-great-lol-streams/"><u>[New] Broadcasting Made Simple 3 Secrets to Great LOL Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-estimate-income-from-youtube-video-snippets/"><u>[New] In 2024, How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-iphones-pathway-through-virtual-video-landscapes/"><u>[Updated] 2024 Approved IPhone's Pathway Through Virtual Video Landscapes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-upside-and-downside-of-virtual-reality-experience/"><u>[Updated] 2024 Approved The Upside and Downside of Virtual Reality Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-high-definition-with-dell-p2715q-reviewed/"><u>[Updated] Exploring High-Definition with Dell P2715Q Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-video-content-defeating-10-vlogging-hurdles-for-2024/"><u>[Updated] Mastering Video Content Defeating 10 Vlogging Hurdles for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-soft-amplitude-in-fl-studio-tracks/"><u>[Updated] Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-track-your-public-ip-in-windows/"><u>Command Center: Track Your Public IP in Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-analysis-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Analysis - The Ultimate Family Entertainment Device</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-your-photos-with-ease-win11s-guide-to-captivating-slideshows-and-image-perfection/"><u>Conquer Your Photos with Ease: Win11's Guide to Captivating Slideshows & Image Perfection</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-not-enough-usb-space-in-windows/"><u>Correcting Not Enough USB Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-vcplusplus-package-significance/"><u>Deciphering VC++ Package Significance</u></a></li>
+<li><a href="https://win11.techidaily.com/expedite-outlook-on-windows-time-saving-fixes/"><u>Expedite Outlook on Windows: Time-Saving Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-inaccessible-display-configurations/"><u>Guide to Correcting Inaccessible Display Configurations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leading-six-innovative-full-frame-cinematographers/"><u>In 2024, Leading Six Innovative Full Frame Cinematographers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/master-video-editing-on-mac-seamless-transfer-of-youtube-footage-into-final-cut-pro-using-apples-prores-codec/"><u>Master Video Editing on Mac: Seamless Transfer of YouTube Footage Into Final Cut Pro Using Apple's ProRes Codec</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-uwp-app-shortcut-creation-on-windows-11/"><u>Mastering UWP App Shortcut Creation on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-stop-accidental-window-key-presses/"><u>Techniques to Stop Accidental Window Key Presses</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-for-a-superior-windows-experience/"><u>The Blueprint for a Superior Windows Experience</u></a></li>
+</ul></div>
 

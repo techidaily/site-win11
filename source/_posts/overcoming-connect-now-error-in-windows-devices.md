@@ -1,7 +1,7 @@
 ---
 title: Overcoming Connect Now Error in Windows Devices
-date: 2024-10-17T09:55:30.214Z
-updated: 2024-10-20T21:06:15.999Z
+date: 2024-10-22T22:17:12.957Z
+updated: 2024-10-26T17:35:41.562Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  To run the Bluetooth troubleshooter in Windows 10, click**Update & Security** within that platform’s Settings app. Click the**Troubleshoot** tab and select**Additional troubleshooters** from there; select**Bluetooth** to access the**Run the troubleshooter** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Start or Restart the Bluetooth Services
 
  The Bluetooth Support Service needs to be enabled and running for Bluetooth to work. Users have said on Microsoft’s support forum they were able to resolve the “Try connecting your device again” error by starting that service. So, try starting or restarting the Bluetooth Support Service as follows:
@@ -50,27 +57,20 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-services-window.jpg)
 5. Choose**Automatic** within the**Startup type** menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-startup-type-drop-down-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Select the properties window’s**Start** option to run Bluetooth Support Service. If the service is already running, click**Stop** and**Start** to restart it.
 2. Click**Apply** to save the new Bluetooth Support Service settings.
 3. Select the Bluetooth Support Service Properties window’s**OK** option.
 4. Repeat the above steps for all other Bluetooth-related services.
 5. Restart your PC after adjusting the Bluetooth services.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reconfigure the Log On Settings for the Bluetooth Support Service
 
@@ -83,20 +83,28 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![The Select User window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enter-the-object-name-box.jpg)
 5. Click the**Find Now** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Select**Local Services** in the search results.  
 ![The Find Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/user-search-results.jpg)
 2. Click the Select User window’s**OK** button a couple of times.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Erase the text in the**Password** and**Confirm password** boxes to clear them.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-log-on-tab.jpg)
 4. Select**Apply** \>**OK** to set the new logon settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click the Bluetooth Support Service and select**Stop** if running. Then restart that same service by right-clicking and selecting**Start** .
 6. Right-click the**Bluetooth Handsfree Service** and select**Start** if that service is stopped.
 
@@ -107,6 +115,13 @@ Now we need to access the Bluetooth settings:
 2. Toggle off the**Bluetooth** setting (assuming it’s on) for a minute.
 3. Click the**Bluetooth** option again to turn it back on.
 4. Open the Start menu and restart your Windows laptop or desktop from there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Your Bluetooth Drivers
 
@@ -120,26 +135,12 @@ Now we need to access the Bluetooth settings:
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-device-option.jpg)
 6. Select**Uninstall** when prompted to confirm the chosen option.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button3.jpg)
 7. Restart the PC for Windows to reinstall a generic Bluetooth driver.
 
  Alternatively, you can download the latest Bluetooth adapter device driver from the manufacturer’s website for manual installation. Uninstall the Bluetooth driver as outlined in the steps above. Then double-click the downloaded Bluetooth driver setup package to install the latest driver.
 
  Some users have also said they needed to delete and reinstall all Bluetooth drivers listed in Device Manager to get the issue fixed. First, try reinstalling one as covered above. If that’s not enough, you can try a more drastic approach like reinstalling all Bluetooth drivers.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Try Some Windows-Based Fixes
 
@@ -153,13 +154,6 @@ Now we need to access the Bluetooth settings:
 
  Note that you’ll need to reinstall software packages installed after a restore point’s date after applying this potential resolution. Our guide to[setting up and utilizing restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows to an earlier time. Choose the oldest restore point you can if you’re not sure what to select.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reinstall Windows 11
 
  Reinstalling Windows might sound a bit drastic, but some users confirm that to be a potential fix for the “Try connecting your device” error that works. Furthermore, you can reinstall the platform without losing software or user files with the in-place upgrade method.
@@ -167,6 +161,13 @@ Now we need to access the Bluetooth settings:
  Follow the instructions in this article about[performing an in-place Windows 11 upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) to reinstall the platform without deleting software.
 
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-windows-11-setup-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilize Your Connected Bluetooth Devices Again on Windows
 
@@ -187,15 +188,18 @@ Now we need to access the Bluetooth settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-picks-best-free-cross-platform-video-communication-tools/"><u>[New] In 2024, Top Picks Best Free Cross-Platform Video Communication Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-motorola-g24-power-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Motorola G24 Power to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-access-denied-error-on-windows-11/"><u>5 Ways to Fix the “Access Denied” Error on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s23-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy S23</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-toggle-to-safe-mode-and-delete-graphics-drivers-on-windows-8/"><u>How to Toggle to Safe Mode & Delete Graphics Drivers on Windows 8</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6s-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6s When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a15-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-asana-glitches-on-pc/"><u>Troubleshooting Asana Glitches on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-properties-puzzles-in-windows-os/"><u>Unveiling Properties Puzzles in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-s-mode-understanding-its-role-in-security/"><u>Windows 11'S 'S Mode': Understanding Its Role in Security</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-game-mastering-the-art-of-instagram-video-uploads-on-desktop-for-2024/"><u>[Updated] Elevate Your Content Game Mastering the Art of Instagram Video Uploads on Desktop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-adobes-cloud-and-comparable-services/"><u>2024 Approved In-Depth Look at Adobe's Cloud & Comparable Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-excellence-with-mi-drone-a-high-quality-look-for-2024/"><u>Aerial Excellence with MI Drone - A High-Quality Look for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://win11.techidaily.com/elongating-pin-lengths-without-compromising-security/"><u>Elongating Pin Lengths without Compromising Security</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workspace-with-these-easy-themes-changes-on-win11/"><u>Enhance Your Workspace with These Easy Themes Changes on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-from-the-endless-loop-of-a-100-windows-update/"><u>Escape From the Endless Loop of a 100% Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/expanding-windows-11s-folder-menu-options-with-new-commands/"><u>Expanding Windows 11'S Folder Menu Options with New Commands</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-premium-platforms-for-virtual-shows/"><u>In 2024, Premium Platforms for Virtual Shows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-how-the-stylish-withings-move-fuses-traditional-aesthetics-with-smart-capabilities/"><u>In-Depth Analysis: How the Stylish Withings Move Fuses Traditional Aesthetics with Smart Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-access-to-pc-backups-on-mobile/"><u>Seamless Access to PC Backups on Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-package-deployment-barriers-in-windows/"><u>Strategies for Overcoming Package Deployment Barriers in Windows</u></a></li>
 </ul></div>
 

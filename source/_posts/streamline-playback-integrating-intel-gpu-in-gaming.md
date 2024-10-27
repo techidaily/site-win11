@@ -1,7 +1,7 @@
 ---
 title: "Streamline Playback: Integrating Intel GPU in Gaming"
-date: 2024-09-13T06:47:35.236Z
-updated: 2024-09-17T02:07:05.802Z
+date: 2024-10-25T05:55:56.739Z
+updated: 2024-10-27T03:13:59.230Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 
  Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the[best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Custom Capture Profile in Intel Graphics Command Center
 
  You’re not stuck with the default profile when capturing gameplay on Intel Graphics Command Center. You can create a custom profile to, for example, use one for saving your captures to your computer and another for streaming to Twitch.
@@ -54,10 +61,31 @@ To create a custom profile, follow the steps below:
 ![An intel graphics command center custom profile card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-custom-profile.jpg)
 3. You can rename the custom profile by clicking the**three horizontal dots** in the top right corner of the card and selecting**Rename** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![renaming a custom profile in the intel graphics command center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-rename-custom-profile.jpg)
 4. Tweak the**Resolution** ,**Save to Location** ,**Output File Name** , and**File Format** options to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now your custom profile is ready to go.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It’s All About Capturing Awesome Gaming Moments on Windows
 
@@ -76,12 +104,20 @@ Now your custom profile is ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-practices-for-high-quality-streaming-of-sporting-games-for-2024/"><u>[New] Best Practices for High-Quality Streaming of Sporting Games for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-youtubes-seo-keywords/"><u>[New] In 2024, Harnessing the Power of YouTube's SEO Keywords</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/kyrocket-your-rankings-top-youtube-seo-gadgets-for-2024/"><u>[New] Skyrocket Your Rankings Top YouTube SEO Gadgets for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-real-time-webcast-applications/"><u>[New] Top Real-Time Webcast Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/a-deeper-look-at-windows-11-efficiency-mastering-processes-and-customizing-themes/"><u>A Deeper Look at Windows 11 Efficiency: Mastering Processes and Customizing Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-personalized-typing-mastering-keybinding-w11/"><u>A Window Into Personalized Typing: Mastering Keybinding W11</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-windows-11-volume-mixer-shortcut/"><u>Accessing Windows 11 Volume Mixer Shortcut</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-system-settings-for-outdated-app-packages/"><u>Adjusting System Settings for Outdated App Packages</u></a></li>
+<li><a href="https://win11.techidaily.com/banishing-blank-screens-windows-10-and-11-troubleshooting/"><u>Banishing Blank Screens: Windows 10 & 11 Troubleshooting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/conquering-the-world-of-instagram-reels-tips-inside/"><u>Conquering the World of Instagram Reels – Tips Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-electronics-hub-the-authority-on-modern-devices/"><u>Expert Insights From Tom's Electronics Hub: The Authority on Modern Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/facebook-twitter-instagram-and-youtube-a-guide-to-major-online-communities/"><u>Facebook, Twitter, Instagram, and YouTube: A Guide to Major Online Communities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-t2-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo T2 5G Pattern Lock Screen</u></a></li>
+</ul></div>
 

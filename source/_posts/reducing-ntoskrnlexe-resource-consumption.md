@@ -1,7 +1,7 @@
 ---
 title: Reducing Ntoskrnl.exe Resource Consumption
-date: 2024-09-13T20:32:52.498Z
-updated: 2024-09-17T01:55:54.070Z
+date: 2024-10-25T04:24:59.345Z
+updated: 2024-10-27T06:02:11.335Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
  Now that we know what Ntoskrnl.exe is and why it uses so much of your CPU's resources, let's discuss fixing the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your PC
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
  The first and foremost solution you should try is to restart your computer. It may seem simple, but it can often solve high CPU usage issues.
 
  When your computer restarts, it clears out system memory and refreshes its processes. The system stops running unnecessary programs and reboots the operating system. As a result, Ntoskrnl.exe's high CPU usage may subside and return to normal levels after restart.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Disable the Windows Search Service
 
@@ -71,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 3. In the Services window, scroll down and find **Windows Search** in the list.  
 ![Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-search-service.jpg)
 4. Right-click on it and select **Properties**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. In the **General** tab, click on the drop-down menu next to **Startup type** and select **Disabled**.  
 ![Disable Windows Search Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-search-service.jpg)
@@ -99,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 
  After updating your device drivers, restart your computer and see if it changes Ntoskrnl.exe's CPU usage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Scan for Malicious Program
 
  As stated earlier, malware or viruses can mask themselves as system files and use high CPU resources. To rule out this possibility:
@@ -108,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 3. After the scan, restart your computer and check if Ntoskrnl.exe's high CPU usage persists.
 
  If you prefer command-line tools, you can also perform a system scan and [remove malware or viruses using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). However, it requires some technical knowledge to use PowerShell effectively. Therefore, sticking to a [reputable antivirus program](https://www.makeuseof.com/windows-11-antivirus-apps/) is recommended for most users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use Windows Performance Toolkit
 
@@ -130,6 +130,13 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
 4. Wait for the process to complete. It may take some time.
 
  After the process ends, restart your computer and [open the System32 Folder in File Explorer](https://www.makeuseof.com/windows-11-open-system32/). Look for a file named **cpuusage.etl**. This is the report generated by the Windows Performance Toolkit. Double-click on it to open and analyze the report. It may provide insight into what's causing Ntoskrnl.exe to use high CPU resources.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Ntoskrnl.Exe's High CPU Usage on Windows
 
@@ -147,5 +154,22 @@ xperf -on latency -stackwalk profile -buffersize 1024 -MaxFile 256 -FileMode Cir
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harmony-and-hype-perfecting-film-teaser-tunes/"><u>[New] In 2024, Harmony and Hype Perfecting Film Teaser Tunes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-vids-to-mp3s-a-noobs-guide-revealed-for-2024/"><u>[New] Instagram Vids to MP3s - A Noob's Guide Revealed for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-hot-takes-dailys-most-popular-video-tracks/"><u>[Updated] Hot Takes Daily's Most Popular Video Tracks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplified-approaches-to-recording-your-iptv-viewing/"><u>[Updated] Simplified Approaches to Recording Your IPTV Viewing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tracing-the-exits-who-left-my-insta-feed/"><u>[Updated] Tracing the Exits Who Left My Insta Feed?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-zero-to-trendsetter-solo-podcast-success-story/"><u>2024 Approved From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
+<li><a href="https://win11.techidaily.com/essentials-for-viewing-and-removing-windows-history-data/"><u>Essentials for Viewing & Removing Windows History Data</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-lag-spike-and-fps-drop-issues-in-call-of-duty-black-ops-4/"><u>How to Fix Lag Spike & FPS Drop Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-drivers-down-discover-device-manager-anomalies/"><u>NVIDIA Drivers Down? Discover Device Manager Anomalies</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-integrating-airpods-with-windows-computers/"><u>Quick Start: Integrating AirPods With Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-resolving-windows-error-1053-unresponsive-service/"><u>Quick Tips: Resolving Windows Error 1053 - Unresponsive Service</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-resourceerror-appnametext-in-w11/"><u>Remedying ResourceError: AppName/Text in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-invisible-windows-your-guide-to-regaining-lost-panes-in-windows/"><u>Revitalize Invisible Windows: Your Guide to Regaining Lost Panes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-integration-of-microsofts-powertoys-on-win11/"><u>Seamless Integration of Microsoft's PowerToys on Win11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-showdown-how-samsungs-latest-s23-phones-stack-up-against-s21/"><u>Ultimate Showdown: How Samsung's Latest S23 Phones Stack Up Against S21</u></a></li>
+</ul></div>
 

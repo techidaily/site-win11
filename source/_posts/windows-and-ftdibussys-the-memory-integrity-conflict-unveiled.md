@@ -1,7 +1,7 @@
 ---
 title: "Windows and ftdibus.sys: The Memory Integrity Conflict Unveiled"
-date: 2024-09-10T23:51:25.201Z
-updated: 2024-09-17T08:58:24.432Z
+date: 2024-10-23T18:45:34.278Z
+updated: 2024-10-26T21:17:39.349Z
 tags:
   - windows10
   - windows11
@@ -47,11 +47,32 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 4. Choose **Update driver** from the context menu.  
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 5. Now, select **Search automatically for drivers** and let the utility scan for any updated driver versions on the system. If it finds any, you can proceed with the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. If the latest available version is already installed, you can click on the **Search for updated drivers on Windows Update** and see if that helps. You can also head over to the Settings app to install the latest driver updates.
 
  Another way to get the latest available drivers on the system is by heading over to the manufacturer’s website (Future Technology Devices International, in this case) and searching for the latest driver versions there.
 
  If you find a suitable version, click on it to download it on the system. Then, follow the steps 1-4 we have listed above again, and this time, choose **Browse my computer for drivers**. You can now head over to the download location of the new driver and install it manually by following the instructions on your screen.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Disable the Driver
 
@@ -70,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  In case you do not need the driver on your system at all, it is best to uninstall it. For that, right-click on the driver in the Device Manager and choose **Uninstall device**. Follow the on-screen prompts to complete the process and perform a system restart to complete the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restore Your System
 
 ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
@@ -91,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  If you decide to proceed with this method, we highly recommend [creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/), just to be safe. Once that is done, head over to our guide on [the different ways to enable memory integrity in Windows](https://www.makeuseof.com/windows-11-memory-integrity-disabled/) and follow the step-by-step instructions carefully.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Contact FTDI Support
 
  Finally, if none of the solutions help, we recommend reaching out to the [official FTDI support](https://ftdichip.com/technical-support/) and reporting the problem to them. Hopefully, they will be able to suggest you a fix.
@@ -98,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
  You can also seek assistance from the Microsoft Support team by utilizing the "Get Help" app included with Windows or accessing Bing Chat for AI-guided support.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows' Hidden Processes: Stay Informed for a Smooth Experience
@@ -118,5 +139,26 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content-for-2024/"><u>[New] Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-top-methods-for-remotely-podcasting-success-for-2024/"><u>[New] The Top Methods for Remotely Podcasting Success for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-snap-and-share-the-brief-vlog-age-for-2024/"><u>[Updated] Snap & Share The Brief Vlog Age for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-adobe-storage-alternatives-explained/"><u>[Updated] Understanding Adobe Storage, Alternatives Explained</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-obs-potential-strategies-involving-lut-filters/"><u>[Updated] Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/7-innovative-uses-for-windows-11-god-mode/"><u>7 Innovative Uses for Windows 11 God Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-windows-odbc-connectivity/"><u>A Comprehensive Guide to Windows' ODBC Connectivity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accueils-charmants-en-langue-francaise/"><u>Accueils Charmants en Langue Française</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-audacitys-portaudio-hiccup-on-windows-11-and-11/"><u>Addressing Audacity’s PortAudio Hiccup on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-configuration-for-optimal-android-resource-use/"><u>Advanced Configuration for Optimal Android Resource Use</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/awareness-on-7-key-windows-events-that-signal-infection/"><u>Awareness on 7 Key Windows Events That Signal Infection</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-windowsstore-app-folder-secrets/"><u>Breaking Into WindowsStore App Folder Secrets</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-find-n3-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo Find N3 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719346431441-navigate-through-common-snip-and-sketch-screen-capture-issues/"><u>Navigate Through Common Snip & Sketch Screen Capture Issues.</u></a></li>
+<li><a href="https://facebook.techidaily.com/revamping-social-media-groups-with-updated-guidelines/"><u>Revamping Social Media Groups with Updated Guidelines</u></a></li>
+<li><a href="https://win11.techidaily.com/1719349600813-troubleshoot-unlock-handbrake-on-widows/"><u>Troubleshoot: Unlock HandBrake on Widows!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-guide-resolving-non-functional-vcenter-domain-login-issues/"><u>Troubleshooting Guide: Resolving Non-Functional vCenter Domain Login Issues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unbeatable-durability-expert-picks-for-flawless-iphone-ebyte-14-plus-phone-coverings/"><u>Unbeatable Durability: Expert Picks for Flawless iPhone Ebyte 14 Plus Phone Coverings</u></a></li>
+</ul></div>
 

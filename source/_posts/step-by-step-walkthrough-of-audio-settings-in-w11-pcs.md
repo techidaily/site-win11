@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Walkthrough of Audio Settings in W11 PCs
-date: 2024-09-14T00:02:13.280Z
-updated: 2024-09-16T21:38:21.765Z
+date: 2024-10-19T19:13:12.923Z
+updated: 2024-10-27T08:11:28.500Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,29 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ![Sound Recorder App Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can open the Settings menu in the Sound Recorder app to change the recording format or set your preferred audio quality.
 
 ![Sound Recorder App Settings on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Record Your Audio Using the Audacity App
 
@@ -49,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ![Use the Audacity App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-the-audacity-app-on-windows.jpg)
 
- In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
 
 ## How to Record the Sound Coming From Your Windows 11 PC
 
@@ -75,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  After completing the above steps, open the Sound Recorder or Audacity app and set Stereo Mix as the default audio input device. Then, play a song, podcast, or lecture on your PC and record it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Record Your Audio on Windows
@@ -95,5 +115,19 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-meme-makers-dream-toolkit/"><u>[Updated] FREE Meme Makers' Dream Toolkit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-ranking-top-6-apps-for-fb-lite-video-downloads-for-2024/"><u>2023 Ranking Top 6 Apps for FB Lite Video Downloads for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>2024 Approved Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/1723262393318-asus-unveils-revolutionary-rog-nuc-with-advanced-core-ultra-9-processors-and-impressive-rtx-nvidia-graphics-starting-at-just-1629/"><u>Asus Unveils Revolutionary ROG NUC with Advanced Core Ultra 9 Processors and Impressive RTX nVidia Graphics Starting at Just $1,629</u></a></li>
+<li><a href="https://win11.techidaily.com/driving-earnings-with-windows-11-a-microsoft-perspective/"><u>Driving Earnings with Windows 11: A Microsoft Perspective</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi K70</u></a></li>
+<li><a href="https://driver-install.techidaily.com/from-box-to-controller-installing-3dconnexion-drivers/"><u>From Box to Controller: Installing 3Dconnexion Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-facile-conversion-du-flv-en-mp4-strategies-pour-eviter-la-reencodage/"><u>Guide Facile : Conversion Du FLV en MP4 - Stratégies Pour Éviter La Réencodage</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ping-for-peak-performance-on-your-windows-devices/"><u>Leveraging Ping for Peak Performance on Your Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-highlighted-text-windows-pdf-correction-methods/"><u>Mastery Over Highlighted Text: Windows PDF Correction Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-display-of-windows-amdnvidia-boost/"><u>Prevent Display of Windows' AMD/Nvidia Boost</u></a></li>
+<li><a href="https://facebook.techidaily.com/stay-safe-in-a-digital-world-reasons-not-to-accept-all-friend-requests/"><u>Stay Safe in a Digital World: Reasons Not to Accept All Friend Requests</u></a></li>
+</ul></div>
 

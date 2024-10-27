@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Workspace: Notetaking on W11/W10"
-date: 2024-09-10T04:18:40.884Z
-updated: 2024-09-16T17:50:13.485Z
+date: 2024-10-23T22:10:03.587Z
+updated: 2024-10-26T19:18:48.334Z
 tags:
   - windows10
   - windows11
@@ -88,8 +88,30 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
 5. Click**OK** to stick the note to the selected window.
@@ -102,11 +124,25 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
@@ -125,12 +161,26 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhance-online-presence-master-facebook-video-autoplay/"><u>[New] 2024 Approved Enhance Online Presence Master Facebook Video Autoplay</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-emerging-youtube-channels-to-spark-motivation/"><u>[New] In 2024, Top 10 Emerging YouTube Channels to Spark Motivation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-surgical-switch-mastering-the-process-of-changing-your-tiktok-username-for-2024/"><u>[Updated] Surgical Switch Mastering the Process of Changing Your TikTok Username for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unleash-the-power-of-expression-emojis-in-your-discord-statues/"><u>[Updated] Unleash the Power of Expression Emojis in Your Discord Statues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-unlimited-data-for-nothing-a-compreran-guide-to-30-best-cloud-storages/"><u>2024 Approved Get Unlimited Data for Nothing! A Compreran Guide to 30 Best Cloud Storages</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-0xc000003e-exception-in-pc-startup-procedure/"><u>Decoding the 0XC000003E Exception in PC Startup Procedure</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-already-in-use-error-streamline-windows-devices-names/"><u>Eliminating 'Already in Use' Error: Streamline Windows Devices Names</u></a></li>
+<li><a href="https://fox-where.techidaily.com/getting-started-with-dependency-management-in-the-setup-files-pane/"><u>Getting Started with Dependency Management in the Setup Files Pane</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-character-count-ceiling-and-workarounds/"><u>Navigating Through ChatGPT's Character Count Ceiling and Workarounds</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-c0000022-error-a-step-by-step-approach/"><u>Overcoming the C0000022 Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-microsoft-store-applications-with-ease/"><u>Resurrect Microsoft Store Applications with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-rectifying-windows-camera-save-malfunction/"><u>Steps for Rectifying Windows Camera Save Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-webpage-loading-with-these-7-windows-fixes/"><u>Streamline Webpage Loading with These 7 Windows Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-mac-compatible-animators-toolkit-free-trials-available/"><u>Top Rated Mac-Compatible Animator's Toolkit: FREE Trials Available</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-pcs-issue-with-non-opening-battlenet/"><u>Troubleshooting: Win PC's Issue with Non-Opening Battle.net</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-hazards-of-keygen-virus-and-how-to-protect-your-systems/"><u>Unveiling the Hazards of Keygen Virus & How to Protect Your Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-tips-revisiting-retro-gaming-via-my-pictures-haven/"><u>Win11 Tips: Revisiting Retro Gaming via My Pictures Haven</u></a></li>
+</ul></div>
 

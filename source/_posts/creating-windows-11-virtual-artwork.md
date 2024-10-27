@@ -1,7 +1,7 @@
 ---
 title: Creating Windows 11 Virtual Artwork
-date: 2024-09-13T22:12:51.333Z
-updated: 2024-09-16T18:10:35.709Z
+date: 2024-10-21T06:28:01.447Z
+updated: 2024-10-27T05:22:15.436Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
  Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
@@ -67,6 +74,13 @@ Now you can get scribbling on the Windows desktop.
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
 
@@ -88,6 +102,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
  The gInk app includes five pens on its toolbar by default, but you can add four more. To do so, you’ll need to close gInk’s toolbar first by clicking its**Exit** drawing option. Then right-click the gInk system tray icon and select**Options** .
@@ -99,10 +120,16 @@ Now you can get scribbling on the Windows desktop.
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Scribbling on Your Windows Desktop With These Apps
@@ -122,5 +149,19 @@ Now you can get scribbling on the Windows desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-achieving-stunning-light-conditions-with-an-iphone/"><u>[New] 2024 Approved Achieving Stunning Light Conditions with an iPhone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-avoid-facebooks-targeted-video-promotions-for-2024/"><u>[New] Avoid Facebook's Targeted Video Promotions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-shots-a-windows-11-guide/"><u>[Updated] Streamline Your Shots A Windows 11 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-toast-to-trending-celebrating-reddit-writings-top-10/"><u>A Toast to Trending Celebrating Reddit’ Writings (Top 10)</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-installation-and-maintenance-with-windows-package-manager/"><u>Comprehensive Installation & Maintenance with Windows Package Manager</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-comprehensive-insights-on-simplified-hdr-processing/"><u>In 2024, Comprehensive Insights on Simplified HDR Processing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 7 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/interacting-with-a-blended-world-the-essence-of-mixed-reality-for-2024/"><u>Interacting with a Blended World The Essence of Mixed Reality for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-dysfunctional-windows-keyboard-keys/"><u>Realigning Dysfunctional Windows Keyboard Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-your-progress-how-to-avoid-forced-closure-by-roblox/"><u>Saving Your Progress: How to Avoid Forced Closure by Roblox</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-revive-failing-voice-access-features-in-windows-11/"><u>Steps to Revive Failing Voice Access Features in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-setup-hacks-forming-fresh-folders-effortlessly/"><u>Win11 Setup Hacks: Forming Fresh Folders Effortlessly</u></a></li>
+</ul></div>
 

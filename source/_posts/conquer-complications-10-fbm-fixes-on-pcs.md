@@ -1,7 +1,7 @@
 ---
 title: "Conquer Complications: 10 FBM Fixes on PCs"
-date: 2024-10-20T03:27:52.377Z
-updated: 2024-10-21T03:29:07.206Z
+date: 2024-10-22T06:04:40.461Z
+updated: 2024-10-27T06:04:34.470Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the effective fixes you can try if Messenger is not working on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Completely Close Facebook Messenger Using the Task Manager
 
  Messenger services running in the background of your Windows PC might interfere when you try to open the application from scratch. To avoid that, consider using the Task Manager to close Messenger completely. Here are the steps to do it.
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 ![Closing all the Messenger-related service in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/End-Task.jpg)
 
 Now, check if Messenger is working or not.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Download All Pending Windows Updates
 
@@ -59,19 +59,6 @@ You download the latest Windows update by following the below steps:
 3. Click the**Check for updates** button.
 
 Windows will now look for and install all the available updates.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Windows Store Apps Troubleshooter
 
@@ -86,10 +73,10 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Running Windows Store Apps Troubleshooter in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Image-16-Running-Windows-Store-Apps-Troubleshooter-in-Windows-11-Settings-App.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A troubleshooter window will open and start detecting problems. The process is not going to take more than a minute.
@@ -109,13 +96,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Choosing Date & Time in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Date--Time.jpg)
 3. Disable the toggle next to**Set time zone automatically** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disabling Automatic Set Time Zone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Time-Zone.jpg)
 4. Make sure your**Time zone** is correct and change it if not.
 5. Enable the toggle next to**Set time zone automatically** .
@@ -132,13 +112,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Choosing Advanced Option of Messenger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Advanced-Option.jpg)
 5. Click on the**Repair** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Repairing Messenger in the Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Repair-Messenger-1.jpg)
 
  Next, launch the Messenger app and check whether it is working. If not, you will have to reset the application.
@@ -149,18 +122,18 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 2. Click on the three dots next to Messenger and choose Advanced options.
 3. Click the**Reset** button.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Clear the Microsoft Store Cache
 
  Clearing the Windows Store cache is another effective solution you can try if Facebook Messenger is not working on Windows PC. In fact, removing the Store cache can eliminate many other Windows issues as well. It's very simple to clear the Store cache and will take less than a minute.
 
 [Open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) , type**wsreset.exe** and press Enter. A black Command Prompt window will pop up, indicating that the cache is being cleared. After a few seconds, the window will close, and Microsoft Store will open automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Temporarily Disable the Security App
 
@@ -181,15 +154,30 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 4. Right-click on the**Profiles** folder in the left sidebar and choose**Permissions.**  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/permission.jpg)
 5. Click on the**Advanced** button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check the **Replace all child object permission entries with inheritable permissions entries from this object** option.  
 ![Replace all child object permission entries with inheritable permissions entries from this object option in the Permission window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/replace-all-child-object-permission-entries-with-inheritable-permissions-entries-from-this-object.jpg)
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Reset the Windows Update Components
@@ -203,6 +191,13 @@ Here's how to use the tool:
 3. Type**Y** and press Enter.
 4. Type**2** and press Enter to reset the Windows Update components.  
 ![Resetting the Windows Component using the Update Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Reset-Windows-Component.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to complete. Once done, reboot the system and check whether Messenger is working or not.
 
@@ -218,10 +213,10 @@ Here's how to use the tool:
 4. Click on**Install** to begin the installation process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect With Friends Again on Messenger
@@ -243,15 +238,16 @@ Here's how to use the tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-titles-essential-hd-video-playback-tools-freepaid/"><u>[New] 2024 Approved Top Titles Essential HD Video Playback Tools (Free/Paid)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-best-3d-entrance-makers-for-youtube-creators/"><u>[New] Best 3D Entrance Makers for YouTube Creators</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-list-of-top-quality-cost-free-luts/"><u>[New] In 2024, Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategies-for-adding-value-youtubes-card-system/"><u>[New] Strategies for Adding Value YouTube's Card System</u></a></li>
-<li><a href="https://win11.techidaily.com/deciding-between-upgrades-here-are-7-reasons-for-win10/"><u>Deciding Between Upgrades? Here Are 7 Reasons for Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-memory-write-failure-in-windows/"><u>Overcoming Memory Write Failure in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-get-text-win-a-comprehensible-guide-to-windows-whisper/"><u>Speak, Get Text, Win: A Comprehensible Guide to Windows Whisper</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s18-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S18 Pro Device</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-xbox-mic-use-with-windows-11-app/"><u>Unblocking Xbox Mic Use with Windows 11 App</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-5-free-online-tone-generators/"><u>Updated The Ultimate List 5 Free Online Tone Generators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-on-demand-video-preservation/"><u>[New] In 2024, On-Demand Video Preservation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unseen-but-not-untouched-instagram-guide-for-2024/"><u>[New] Unseen but Not Untouched Instagram Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfecting-instagram-stories-adding-and-sharing-custom-emojis/"><u>[Updated] Perfecting Instagram Stories Adding & Sharing Custom Emojis</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-your-consoles-crashing-wow-problems-quickly/"><u>Cure Your Console's Crashing WoW Problems Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-tap-your-way-through-win11s-print-settings-max-48-chars/"><u>Quick Guide: Tap Your Way Through Win11's Print Settings (Max 48 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-non-selectable-text-within-windows-pdf-files/"><u>Rectify Non-Selectable Text Within Windows PDF Files</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-for-batch-installing-windows-11-apps-via-winstall/"><u>Simplified Techniques for Batch Installing Windows 11 Apps via Winstall</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A34 5G FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/toppen-8-satser-for-att-omvandla-mts-till-mp4-pa-windows-och-mac/"><u>Toppen 8-Satser För Att Omvandla MTS Till MP4 På Windows Och Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-steps-to-purge-unnecessary-steam-dns-data/"><u>Windows Steps to Purge Unnecessary Steam DNS Data</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtubes-landscape-decoded-creating-your-signature-style-and-voice/"><u>YouTube's Landscape Decoded Creating Your Signature Style and Voice</u></a></li>
 </ul></div>
 

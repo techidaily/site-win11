@@ -1,7 +1,7 @@
 ---
 title: "Refining VLC Performance: Lowering Playback Latency"
-date: 2024-10-20T05:50:10.008Z
-updated: 2024-10-21T08:34:19.068Z
+date: 2024-10-21T18:32:19.809Z
+updated: 2024-10-27T08:03:26.771Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,26 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
 ![Disable Hardware Acceleration in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-hardware-acceleration-in-vlc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart the VLC app after this and see if the video plays smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Change Power Plan to High Performance
 
@@ -75,13 +88,6 @@ Restart the VLC app after this and see if the video plays smoothly.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the Caching Value
 
  When you use VLC to stream a video from the web, it caches some of the content for faster playback. If you're experiencing video lag while streaming, you can try increasing the network and file cache sizes to fix the issue.
@@ -98,16 +104,10 @@ Restart the VLC app after this and see if the video plays smoothly.
 ![Increase File Caching in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/increase-file-caching-in-vlc.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reset the VLC Preferences
@@ -124,6 +124,13 @@ To reset your VLC media player preferences, use these steps:
 
 Restart the VLC media player and check if the videos still lag.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Update or Reinstall VLC Media Player
 
  App updates are critical for any app, and VLC is no exception. If the video playback issues in the VLC media player are caused by a bug, installing newer updates should help.
@@ -135,10 +142,10 @@ To check for pending updates in the VLC media player:
 ![Check for Updates in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-for-updates-in-vlc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If an update is available, follow the on-screen prompts to install it. After that, videos should play smoothly on Windows.
@@ -153,19 +160,6 @@ To check for pending updates in the VLC media player:
 ![Uninstall VLC Media Player on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-vlc-media-player-on-windows.jpg)
 
  Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Smooth Video Playback in VLC for Windows Again
 
@@ -188,21 +182,20 @@ To check for pending updates in the VLC media player:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-ensuring-smooth-streaming-how-to-avoid-fb-live-glitches-for-2024/"><u>[New] Ensuring Smooth Streaming How to Avoid Fb Live Glitches for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[New] The Ultimate Cut for Quality Offline iPad Gaming</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-avoid-monetization-mishaps-essential-youtube-checks/"><u>[Updated] In 2024, Avoid Monetization Mishaps Essential YouTube Checks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/androids-best-in-sky-file-sanctuaries-for-2024/"><u>Android's Best In-Sky File Sanctuaries for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-flickering-screens-windows-11-edition/"><u>Banishing Flickering Screens: Windows 11 Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-retrofit-modernizing-windows-11-with-a-98-twist/"><u>Digital Retrofit: Modernizing Windows 11 with a '98 Twist</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-the-power-of-multiple-directories-windows-11-edition/"><u>Harnessing the Power of Multiple Directories: Windows 11 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-craft-magical-time-lapse-video-using-a-gopro/"><u>In 2024, Craft Magical Time Lapse Video Using a GoPro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-visual-glitches-in-windows-10-and-11-handling-bad-images-smartly/"><u>Overcoming Visual Glitches in Windows 10 & 11: Handling Bad Images Smartly</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-the-ink-flow-pc-pen-and-touch-adjustments/"><u>Perfecting the Ink Flow: PC Pen and Touch Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-store-color-glitches/"><u>Resolving Microsoft Store Color Glitches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-interfacing-with-ai-via-quoras-poe-feature/"><u>Step-by-Step Guide: Interfacing With AI via Quora's Poe Feature</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-with-pacific-drive-crashes-on-your-computer/"><u>Troubleshooting Steps: Resolving Issues with Pacific Drive Crashes on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-cars-mouse-keys-and-acceleration-mastery/"><u>Winning Cars: Mouse, Keys, and Acceleration Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/winshift-troubles-how-to-resolve-them/"><u>WinShift Troubles: How to Resolve Them.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-analyzing-social-media-reach-for-igtv-videos/"><u>[New] Analyzing Social Media Reach for IGTV Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-10-online-collaboration-tools-ensuring-privacy/"><u>2024 Approved Essential 10 Online Collaboration Tools Ensuring Privacy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-innovation-the-surprising-usability-of-aliexpresss-77-3d-printer-revealed-by-reviewer/"><u>Affordable Innovation: The Surprising Usability of AliExpress's $77 3D Printer Revealed by Reviewer</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-display-not-responding-on-windows-11/"><u>Correcting 'Display Not Responding' On Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-sleep-on-win11/"><u>How to Reactivate Sleep on Win11?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-10t-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 10T 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-windows-component-services-manager/"><u>How to Use Windows Component Services Manager</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-13c-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi 13C 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-epson-wf-7710-drivers-on-various-windows-versions-download-guide-and-links/"><u>Install Epson WF-7710 Drivers on Various Windows Versions: Download Guide & Links</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-editing-for-mac-avs-editor-solution/"><u>New 2024 Approved Video Editing for Mac AVS Editor Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-off-switch-on-network-sight-windows/"><u>Overhauling Off Switch on Network Sight Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/start-with-windows-basic-tools-for-new-users/"><u>Start with Windows: Basic Tools for New Users</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-file-integrity-6-strategies-for-checksum-precision/"><u>WinRAR File Integrity: 6 Strategies for Checksum Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/worldwide-unity-windows-encompasses-iphoneipad-macpc-communities/"><u>Worldwide Unity: Windows Encompasses iPhone/iPad, Mac/PC Communities</u></a></li>
 </ul></div>
 

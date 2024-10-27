@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Basics: First Steps in Enhancing Access"
-date: 2024-09-11T05:32:07.627Z
-updated: 2024-09-16T17:07:56.105Z
+date: 2024-10-24T03:27:02.206Z
+updated: 2024-10-26T20:39:50.481Z
 tags:
   - windows10
   - windows11
@@ -51,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  After you've made the changes, make sure you click on **Apply** to save them.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Visual Effects
 
  It's sometimes quipped that visual effects are not just eye candy; they are, in fact, an integral part of the user interface, giving you critical context and clarity.
@@ -94,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  Every notification on your Windows stays for a specific amount of time. With **Dismiss notification after this time**, you can tweak the time to increase or decrease it with ease, anywhere from 5 seconds up to 5 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Mouse Pointer and Touch
 
  This tool lets you easily change your mouse cursor's size and style. For instance, you can tweak the pointer character from four different shapes. Alternatively, you can increase or decrease its size as well.
@@ -108,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 **Touch Indicator**
 
  You can toggle on the switch for the Touch indicator, and wherever you touch the screen, you will see an enlarged circle. You can also check the **Make the circle darker and larger** radio box to get things set up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Text Cursor
 
@@ -146,7 +133,21 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
 ![color filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/color-filters-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can use simple shortcuts like **Windows key logo + Ctrl + C** to turn color filters on or off.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Contrast Themes
 
@@ -165,19 +166,6 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  In brief, the Narrator helps you navigate web pages and documents by reading your screen text on your screen aloud. We have a [detailed guide that covers everything about Narrator on your PC](http://https://www.makeuseof.com/beginners-guide-windows-narrator/). You can learn all things about Narrator from the linked guide.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Guide to Windows' Audio-Based Tools
 
  The second section of Accessibility tools, Hearing, helps you use your device easily even if you face hearing impairments. First, let's look at the first tool, that covers audio of your PC.
@@ -190,6 +178,13 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
 ![audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the other hand, if you turn on the switch for **Flash my screen during audio notifications**, you will get an option to pick from various settings like:
 
 1. Flash the title bar of the active windows
@@ -197,10 +192,10 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 3. Flash the entire screen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Captions
@@ -211,13 +206,34 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  You will also get to choose how your caption style looks. Simply select the caption style from White on black, Small caps, Large text, Yellow on blue. If you'd like to add more variation, click on **Edit** to choose the new settings for Text, Background, or Window.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Interaction
 
  The last feature of Accessibility tools on Windows, unsurprisingly as its name suggests, covers all things that help you interact with your PC. This includes everything from Speech, Keyboard, Mouse, or Eye Control.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Speech
 
  Toggle on the Voice access tool to do things on your PC—all with your voice. And while you're at it, you can toggle on the **Start voice access** after you sign in to your PC switch.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Keyboard
 
@@ -228,13 +244,6 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 ### 3\. Mouse
 
  Like the keyboard above, the Mouse tool is about improving your mouse's accessibility to all users. Toggle on the **Mouse keys** switch, and you will find a host of settings such as Mouse key speed, Mouse keys acceleration, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## All About Accessibility Tools on a Windows PC
 
@@ -252,5 +261,21 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-easily-stream-facebook-live-chats-with-roku/"><u>[New] In 2024, Easily Stream Facebook Live Chats with Roku</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pros-and-cons-of-hero-series-vs-polaroids-video-editors/"><u>[New] Pros & Cons of Hero Series Vs. Polaroid's Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-navigation-employing-apple-maps-on-windows/"><u>Cutting-Edge Navigation: Employing Apple Maps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-on-recalibrating-windows-energy-schemes/"><u>Guide on Recalibrating WIndows Energy Schemes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-and-customize-windows-photo-viewer-for-11-users/"><u>How to Reactivate and Customize Windows Photo Viewer for 11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-v30-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo V30 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-your-youtube-stream-with-wirecast/"><u>In 2024, Optimizing Your YouTube Stream with WireCast</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-recording-anywhere-saving-your-favorite-shows-from-amazons-library/"><u>Mastering the Art of Recording Anywhere: Saving Your Favorite Shows From Amazon's Library</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-windows-11-clipboard-glitches/"><u>Mitigating Windows 11 Clipboard Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-with-smart-security-settings/"><u>Optimizing System Resources with Smart Security Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-the-disappearance-of-printmanagement-service/"><u>Quick Fix for the Disappearance of 'Printmanagement' Service</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sensory-storytelling-crafting-engaging-food-videos-for-2024/"><u>Sensory Storytelling Crafting Engaging Food Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activate-your-apple-watch-with-gmail-a-comprehensive-guide/"><u>Steps to Activate Your Apple Watch with Gmail: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-5-key-players-to-triple-your-youtube-views/"><u>The 5 Key Players to Triple Your YouTube Views</u></a></li>
+</ul></div>
 

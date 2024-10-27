@@ -1,7 +1,7 @@
 ---
 title: The Perfect Set of Apps for Successful Laptop OS Transition
-date: 2024-10-15T04:23:05.630Z
-updated: 2024-10-20T17:54:56.003Z
+date: 2024-10-22T22:28:20.910Z
+updated: 2024-10-27T04:18:30.350Z
 tags:
   - windows10
   - windows11
@@ -38,28 +38,21 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 **Download**: [Flow Launcher](https://www.flowlauncher.com/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2  Ditto Clipboard Manager
 
 ![Ditto Clipboard Manager for Windows showing clipboard entries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ditto-clipboard-manager-for-windows-showing-clipboard-entries.png)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There is a fairly powerful clipboard manager built into Windows 11\. Simply press the **Windows key + V** key combination, and you pull up a history of everything you’ve copied recently. For most people, this works perfectly.
 
@@ -71,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
 ![AutoText main window showing the default snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/autotext-main-window-showing-the-default-snippets.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There are plenty of apps available to expand snippets into larger text fragments or even full-blown paragraphs. If all you need is some minor snippets expanded, the text replacement built into macOS is fairly powerful. This is less true of Windows.
 
  The good news is there’s an easy fix for this in AutoText. This is a simple free app (though a commercial license is available) that makes for easy to use text expansion, perfect for everything from quick email replies to code snippets.
@@ -80,15 +80,22 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 **Download:**[AutoText](https://www.jitbit.com/autotext/) (Free, $22.95 commercial)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4  f.lux
 
 ![f.lux Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/f-lux-settings-window.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows 11 has built-in [screen tinting features it calls Night Light](https://www.howtogeek.com/796092/how-to-enable-night-light-on-windows-11/) to make your screen easier on your eyes at night. Unfortunately, unlike similar offerings from mobile operating systems and macOS, you can’t do much to customize this feature.
 
@@ -99,19 +106,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
  This isn’t a feature many people will use, but f.lux even lets you control certain Philips Hue lights to control your in-home lighting with the app. Not a feature for everyone, but still handy to have available.
 
 **Download**: [f.lux](https://justgetflux.com) (free)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  PowerToys Awake
 
@@ -131,25 +125,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  I found these few simple tools and utilities made my move incredibly easy. If you’ve already made the move, and you’re looking for more powerful tools, take a look at our roundup of the [best utilities for Windows power users](https://www.makeuseof.com/best-utilities-for-windows/).
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-plug-free-pleasure-the-ultimate-guide-to-exquisite-offline-ios-gaming/"><u>[New] 2024 Approved Plug-Free Pleasure The Ultimate Guide to Exquisite Offline iOS Gaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-tailoring-your-obs-feeds-for-best-social-media-impact-for-2024/"><u>[Updated] Tailoring Your OBS Feeds for Best Social Media Impact for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-leading-tech-macs-finest-video-recording-software/"><u>2024 Approved Leading Tech Mac's Finest Video Recording Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-premiere-pros-art-of-audio-transitioning/"><u>2024 Approved Premiere Pro’s Art of Audio Transitioning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-enabling-android-apps-on-your-windows-11-machine/"><u>Complete Tutorial: Enabling Android Apps on Your Windows 11 Machine</u></a></li>
-<li><a href="https://win-hot.techidaily.com/ecco-come-clonare-facilmente-un-disco-dinamico-su-windows-10-guida-passo-passo/"><u>Ecco Come Clonare Facilmente Un Disco Dinamico Su Windows 10: Guida Passo-Passo!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-break-it-down-streamlining-video-length-with-efficient-chapter-breaks-on-youtube/"><u>In 2024, Break It Down Streamlining Video Length with Efficient Chapter Breaks on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-windows-11-desktop-sparkle-with-lively-wallpaper-art/"><u>Make Your Windows 11 Desktop Sparkle with Lively Wallpaper Art</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-overcoming-geforce-x0001-on-w10w11-pcs/"><u>Quick Tips: Overcoming GeForce X0001 on W10/W11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-sector-mastering-windows-methods-for-adapter-velocity-check/"><u>Speed Sector: Mastering Windows Methods for Adapter Velocity Check</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-typing-experience-changing-layouts-on-windows-11/"><u>Tailoring Your Typing Experience: Changing Layouts on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unhindered-administrator-experience-via-terminals-every-time/"><u>Unhindered Administrator Experience via Terminals Every Time</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlocking-fortnite-corrective-steps-for-the-lack-of-permission-message/"><u>Unlocking Fortnite: Corrective Steps for the 'Lack of Permission' Message</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unmuted-once-more-fixing-mute-malfunctions-on-iphones/"><u>Unmuted Once More: Fixing Mute Malfunctions on iPhones</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wonders-unlock-the-secrets-of-measuring-ethernet-speeds/"><u>Windows Wonders: Unlock the Secrets of Measuring Ethernet Speeds</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +132,23 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>[New] 2024 Approved The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-ideal-7-digital-photography-devices-for-high-quality-video-streams/"><u>[New] Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[Updated] 2024 Approved Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-architecting-a-stellar-tiktok-closing-segment/"><u>[Updated] In 2024, Architecting a Stellar TikTok Closing Segment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>2024 Approved How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/ease-upgrade-rejections-adobe-fix-guide/"><u>Ease Upgrade Rejections: Adobe Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-delete-key-not-working-on-windows/"><u>How to Fix the Delete Key Not Working on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-top-4-windows-programs-for-webp-image-viewer/"><u>Introducing Top 4 Windows Programs for WebP Image Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permissions-obstacles-for-os-installation/"><u>Overcoming Permissions Obstacles for OS Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/redefining-public-sector-it-partnerships-what-microsofts-downtime-tells-us-about-big-tech-dependency-risks/"><u>Redefining Public Sector IT Partnerships: What Microsoft’s Downtime Tells Us About Big Tech Dependency Risks</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-windows-11-default-search-options/"><u>Reinstating Windows 11 Default Search Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-call-of-duty-vanguard-pc-issues-guide-for-smooth-gaming-in-202n/"><u>Resolving Call of Duty Vanguard PC Issues: Guide for Smooth Gaming in 202N</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-story-of-facebook-origins-unraveled-insights-on-its-global-appeal-and-fundamental-elements/"><u>The Story of Facebook: Origins Unraveled, Insights on Its Global Appeal, and Fundamental Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/title-customize-icon-spacing-on-modern-and-classic-windows-oses/"><u>Title: Customize Icon Spacing on Modern & Classic Windows OSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1110-fails-to-offer-contrast-control/"><u>Windows 11/10 Fails to Offer Contrast Control</u></a></li>
+</ul></div>
+

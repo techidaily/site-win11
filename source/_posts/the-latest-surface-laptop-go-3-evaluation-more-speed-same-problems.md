@@ -1,7 +1,7 @@
 ---
 title: "The Latest Surface Laptop Go 3 Evaluation: More Speed, Same Problems"
-date: 2024-09-16T04:33:04.992Z
-updated: 2024-09-17T02:41:10.937Z
+date: 2024-10-21T09:12:08.644Z
+updated: 2024-10-26T16:51:16.735Z
 tags:
   - windows10
   - windows11
@@ -195,13 +195,6 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Zarif Ali / MakeUseOf
 
  Google Meet and Zoom calls already drain my Surface Laptop 3 battery by about 30-40%, so you can imagine how underwhelming the Surface Laptop Go 3's battery situation would hold up with these battery-intensive applications. That said, this is marginally better than last year's Laptop Go 2, so it does make some strides in the battery department.
@@ -235,6 +228,13 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
  Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
 
 ![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Surface Laptop Go 3
 
@@ -420,6 +420,13 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Surface Laptop Go 3
 
 6.5/ 10
@@ -586,6 +593,13 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-back-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Zarif Ali / MakeUseOf
 
  The Laptop Go 3 scores 11,089 on 3DMark's Sky Diver benchmark, which puts it on par with other laptops with the same processor with integrated graphics. Compared to the Laptop Go 2, the Laptop Go 3’s faster RAM and processor make a marginal difference in performance, and it’s certainly a welcome one. Still, these new additions make this laptop a much more expensive device that is now essentially a base 13-inch Surface Laptop 5 with a smaller display and battery, slightly worse build, and no Surface Pen support.
@@ -598,24 +612,18 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-display2-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Zarif Ali / MakeUseOf
 
  Google Meet and Zoom calls already drain my Surface Laptop 3 battery by about 30-40%, so you can imagine how underwhelming the Surface Laptop Go 3's battery situation would hold up with these battery-intensive applications. That said, this is marginally better than last year's Laptop Go 2, so it does make some strides in the battery department.
 
  The Surface Laptop Go 3 does come with the Surface Connector and a 39W power supply, so you benefit from having a convenient charging port and decently fast charging. But given the battery life, you'll likely want to carry this power supply with you if you don't want your laptop dying on you in the middle of the day.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Buy the Surface Laptop Go 3?
 
@@ -631,6 +639,13 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Surface Laptop Go 3
 
 6.5/ 10
@@ -719,6 +734,13 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
 
 ![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Zarif Ali / MakeUseOf
 
  The new Laptop Go 3 utilizes the same design as the Go 2 and original Go, but now features improved battery life, more base storage, and a newer chipset.
@@ -765,13 +787,6 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-ports-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-ports-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Zarif Ali / MakeUseOf
 
  It's actually the same port selection as the larger Surface Laptop 5 series, but it's still one area Microsoft could improve upon, especially since this device is targeting the education market. While the small form factor may have been a limiting aspect, the lack of ports could make it difficult for students and workers who may require extra peripherals paired with their laptops.
@@ -785,13 +800,6 @@ Zarif Ali / MakeUseOf
 Zarif Ali / MakeUseOf
 
  Another area Microsoft could have improved is the webcam. This webcam is 720p and delivers less than brilliant results, but compared to other laptops with 720p webcams, the Surface Laptop Go 3 is better. In adequate lighting, you can get away with using it in a quick pinch, but as soon as you're in an environment where the lighting is less than ideal, the image turns noisy. I wish Microsoft would adopt a 1080p webcam across their laptop lineup because the only device that carries one is the expensive Surface Laptop Studio 2\.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance
 
@@ -811,22 +819,16 @@ Zarif Ali / MakeUseOf
 
 ![surface-laptop-go-3-back-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-back-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Zarif Ali / MakeUseOf
 
  The Laptop Go 3 scores 11,089 on 3DMark's Sky Diver benchmark, which puts it on par with other laptops with the same processor with integrated graphics. Compared to the Laptop Go 2, the Laptop Go 3’s faster RAM and processor make a marginal difference in performance, and it’s certainly a welcome one. Still, these new additions make this laptop a much more expensive device that is now essentially a base 13-inch Surface Laptop 5 with a smaller display and battery, slightly worse build, and no Surface Pen support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery Life
 
@@ -847,6 +849,13 @@ Zarif Ali / MakeUseOf
  Overall, the Surface Laptop Go 3 is one capable laptop that is perfectly sized for the school environment. If you're someone who wants an ultra-portable computer that delivers decent performance in a stunning design, the Surface Laptop Go 3 is appealing, but it’s not the same device it used to be. Compared to Chromebooks, while you’re getting dramatically better performance with an operating system that is able to run real desktop apps, the Surface Laptop Go 3 is no longer competing on price. Instead, it’s competing with every other Windows laptop in the sub $1,000 category—and at that price, it’s a hard sell.
 
 ![surface-laptop-go-3-closed-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-closed-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -879,5 +888,23 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlined-capturing-top-5-mac-tools-for-effective-snipping/"><u>[New] Streamlined Capturing Top 5 Mac Tools for Effective Snipping</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-ultimate-guide-to-streaming-google-meet-on-youtube/"><u>[New] Your Ultimate Guide to Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-redefining-user-engagement-with-top-10-video-editors/"><u>[Updated] 2024 Approved Redefining User Engagement with Top 10 Video Editors</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-restoring-functionality-to-resource-monitor-on-win11/"><u>Comprehensive Guide: Restoring Functionality to Resource Monitor on Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-guide-setting-up-your-speakers-correctly-on-windows-11/"><u>Easy Guide: Setting Up Your Speakers Correctly on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-chronicle-of-run-command-activities/"><u>Enabling Chronicle of Run Command Activities</u></a></li>
+<li><a href="https://win11.techidaily.com/hypervisor-blues-heres-your-win-10-and-11-fix-guide/"><u>Hypervisor Blues? Here's Your Win 10 & 11 Fix Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-find-x6-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Find X6 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>In 2024, Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-into-windows-logins-passing-or-faltering-attempts/"><u>Insight Into Windows Logins: Passing or Faltering Attempts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-fold-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Fold 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/reap-endless-visual-resources-via-four-prime-youtube-sites-for-2024/"><u>Reap Endless Visual Resources via Four Prime YouTube Sites for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-windows-shared-folder-entry-points/"><u>Reclaim Windows Shared Folder Entry Points</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-ownership-related-settings-glitches-in-windows-11/"><u>Resolving Ownership-Related Settings Glitches in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-for-purging-history-from-ms-defender/"><u>Unveiling the Process for Purging History From MS Defender</u></a></li>
+</ul></div>
 

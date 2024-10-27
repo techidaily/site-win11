@@ -1,7 +1,7 @@
 ---
 title: Enhance User Experience in Win11 with Customized Cmd Shortcuts
-date: 2024-10-15T18:30:30.270Z
-updated: 2024-10-20T22:11:59.650Z
+date: 2024-10-22T16:23:27.552Z
+updated: 2024-10-26T21:04:29.225Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -66,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 3. Then select **Apply** to save your hotkey.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click **OK** to exit the shortcut’s properties window.
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
 
 `nircmd.exe win center alltop`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Log Out of Windows
 
@@ -127,19 +127,6 @@ keywords: UI Enhancement W10,Win11 UX Personalize,Command Panel Tips,Windows Eff
 thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd1c9f1454bedac4faec3fc61.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -147,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 `nircmd.exe screensaver`
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Close All Open File Explorer Windows
@@ -158,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
  This NirCmd command shortcut closes all open File Explorer windows. It will come in handy when you need to close lots of Explorer folder windows. The NirCmd command for closing all open File Explorer windows is:
 
 `nircmd.exe win close class CabinetWClass`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Keep the Calculator on Top of All Windows
 
@@ -177,23 +171,6 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-solo-streamer-to-global-content-powerhouse/"><u>[New] 2024 Approved From Solo Streamer to Global Content Powerhouse</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-superior-cams-for-traditional-animation/"><u>[New] In 2024, Superior Cams for Traditional Animation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-composers-handbook-to-instagram-and-music-rights-for-2024/"><u>[Updated] The Composer's Handbook to Instagram and Music Rights for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-check-your-public-ip-address-using-command-prompt-in-windows-1110/"><u>How to Check Your Public IP Address Using Command Prompt in Windows 11/10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>In 2024, The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/keep-your-amd-ryzen-am5-cpu-cool-explore-the-advantages-of-custom-fit-ek-water-blocks-post-delidding/"><u>Keep Your AMD Ryzen AM5 CPU Cool: Explore the Advantages of Custom-Fit EK Water Blocks Post Delidding</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-1011-installer-errors/"><u>Navigating Through Windows 10/11 Installer Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-microsofts-zero-error-in-windows-11-shop/"><u>Rectifying Microsoft's Zero-Error in Windows 11 Shop</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-learning-visuals-in-win-11/"><u>Setting Up Learning Visuals in Win 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-pairings-winning-webp-viewers-and-windows-devices/"><u>Top 4 Pairings: Winning WebP Viewers & Windows Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-makes-an-nvidia-rtx-graphics-card-stand-out/"><u>What Makes an Nvidia RTX Graphics Card Stand Out?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/zooms-auditory-masterclass-fine-tuning-for-impeccable-audio-for-2024/"><u>Zoom's Auditory Masterclass Fine-Tuning for Impeccable Audio for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,3 +178,25 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-skype-call-recording-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Skype Call Recording A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp-for-2024/"><u>[Updated] Seamless Transfer of Social Media Videos From Twitter to WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/fast-facial-masking-on-piscart-a-convenient-guide-for-2024/"><u>Fast Facial Masking on PiscArt A Convenient Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/free-the-windowed-dialogues-with-freedomgpt/"><u>Free the Windowed Dialogues: With FreedomGPT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/instant-volume-amplification-solutions-for-windows-users-discover-the-top-10-for-2024/"><u>Instant Volume Amplification Solutions for Windows Users - Discover the Top 10 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/latest-update-unveils-exciting-chatgpt-enhancements-discover-what-matters-most/"><u>Latest Update Unveils Exciting ChatGPT Enhancements – Discover What Matters Most</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/paww-acoustic-tech-3-evaluation-economical-audio-earpieces/"><u>Paww Acoustic Tech 3 Evaluation: Economical Audio Earpieces</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-taskbar-clutter-free-add-a-weather-symbol-on-windows-11/"><u>Personalize Taskbar Clutter-Free: Add a Weather Symbol on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-with-these-5-firewall-adjustments/"><u>Secure Windows with These 5 Firewall Adjustments</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-arcade-avengers-playlist-guide-to-best-apple-gaming/"><u>The Arcade Avenger's Playlist Guide to Best Apple Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-managing-windows-taskbar-time/"><u>The Art of Managing Windows Taskbar Time</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fix-it-guide-to-non-installed-hard-drive-issue-win-11-style/"><u>The Ultimate Fix-It Guide to Non-Installed Hard Drive Issue, WIN 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-security-top-7-password-tools-reviewed/"><u>Unlock Windows Security: Top 7 Password Tools Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-riddle-of-where-windows-houses-your-apps/"><u>Unraveling the Riddle of Where Windows Houses Your Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341655665-why-youll-love-the-newly-launched-keychron-q1-he-the-ultimate-wireless-gaming-and-productivity-companion/"><u>Why You'll Love the Newly Launched Keychron Q1 HE - The Ultimate Wireless Gaming & Productivity Companion</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-data-integrity-six-strategies-to-mend-summation-faults/"><u>WinRAR Data Integrity: Six Strategies to Mend Summation Faults</u></a></li>
+</ul></div>
+
